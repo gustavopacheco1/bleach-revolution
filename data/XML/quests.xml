@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quests>
+<quest name="Vale do Fim Quest" startstorageid="19882" startstoragevalue="1"></quest>
+<quest name="Cascata Quest" startstorageid="19883" startstoragevalue="1"></quest>
+<quest name="CascataTwo Quest" startstorageid="19884" startstoragevalue="1"></quest>
+<quest name="CascataTrhee Quest" startstorageid="19885" startstoragevalue="1"></quest>
+<quest name="Desert Quest" startstorageid="19886" startstoragevalue="1"></quest>
+<quest name="Tumba Quest" startstorageid="19887" startstoragevalue="1"></quest>
+<quest name="Dual Katana Quest" startstorageid="19888" startstoragevalue="1"></quest>
+<quest name="Jounin Glove Quest" startstorageid="19889" startstoragevalue="1"></quest>
+<quest name="Catatumba Quest" startstorageid="19860" startstoragevalue="1"></quest>
+<quest name="Chakra Armor Quest" startstorageid="2397" startstoragevalue="1"></quest>
+<quest name="Sasori Quest" startstorageid="7449" startstoragevalue="1"></quest>
+</quests>

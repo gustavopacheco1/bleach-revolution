@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monsters>
+<monster name="Black wolf" file="hunt/Black wolf.xml"/>
+
+	<monster name="Snake hollow" file="hunt/Snake hollow.xml"/>
+	
+	<monster name="Arrancar hollow" file="hunt/Arrancar hollow.xml"/>
+	
+	<monster name="Gilliam" file="hunt/Gilliam.xml"/>
+	
+	<monster name="Hollow Grande" file="hunt/Hollow Grande.xml"/>
+	
+	<monster name="Grand Fisher" file="hunt/Grand Fisher.xml"/>
+	
+	<monster name="Flying Hollow" file="hunt/Flying Hollow.xml"/>
+	
+	<monster name="Giant Snake Hollow" file="hunt/Giant Snake Hollow.xml"/>
+	
+	<monster name="Adjuchas" file="hunt/Adjuchas.xml"/>
+	
+	<monster name="Giant Snake" file="hunt/Giant Snake.xml"/>
+	
+	<monster name="Fishbone D" file="hunt/Fishbone D.xml"/>
+	
+	<monster name="Hollow wolf" file="hunt/Hollow wolf.xml"/>
+	
+	<monster name="Mummy" file="hunt/Mummy.xml"/>
+	
+	<monster name="Mini Fisher" file="hunt/Mini Fisher.xml"/>
+	
+	<monster name="Grand Fisher Lv 2" file="hunt/Grand Fisher Lv 2.xml"/>
+	
+	<monster name="Fraccion" file="hunt/Fraccion.xml"/>
+	
+	<monster name="Trainer" file="Trainer.xml"/>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</monsters>
+
+

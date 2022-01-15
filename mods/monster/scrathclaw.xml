@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?> 
+<monster name="Scrathclaw" nameDescription="Scrathclaw" race="undead" experience="19450" speed="114"> 
+   <health now="4330" max="4330"/> 
+   <look type="300"/> 
+   <targetchange interval="2000" chance="8"/> 
+   <strategy attack="100" defense="0"/> 
+    <flags> 
+      <flag attackable="1"/> 
+      <flag hostile="1"/> 
+      <flag convinceable="1"/> 
+      <flag canpushitems="1"/> 
+      <flag canpushcreatures="1"/> 
+      <flag staticattack="90"/> 
+      <flag targetdistance="1"/> 
+      <flag runonhealth="0"/> 
+    </flags> 
+    <attacks> 
+        <attack name="melee" interval="2000" skill="220" attack="110"/> 
+        <attack name="lifedrain" interval="995" chance="16" target="1" range="1" min="-634" max="-755"> 
+            <attribute key="areaEffect" value="redshimmer"/> 
+            <attribute key="shootEffect" value="death"/> 
+        </attack> 
+        <attack name="speed" interval="1010" chance="15" target="1" radius="4" speedchange="-600" duration="15000"> 
+            <attribute key="areaEffect" value="smallclouds"/> 
+            <attribute key="shootEffect" value="death"/> 
+        </attack> 
+    </attacks> 
+    <defenses armor="90" defense="50"/> 
+  <elements> 
+      <element earthPercent="20"/> 
+      <element holyPercent="-25"/> 
+      <element icePercent="10"/> 
+      <element energyPercent="30"/> 
+  </elements> 
+  <immunities> 
+    <immunity death="1"/> 
+    <immunity drown="1"/> 
+    <immunity earth="1"/> 
+    <immunity drunk="1"/> 
+    <immunity lifedrain="1"/> 
+    <immunity paralyze="1"/> 
+    <immunity invisible="1"/> 
+  </immunities> 
+</monster>

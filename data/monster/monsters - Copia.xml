@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monsters>
+
+	<monster name="Trainer" file="trainer.xml"/>
+	<monster name="Clone das Sombras" file="clone das sombras.xml"/>
+
+	<!-- - MONSTER Hunt - -->
+	
+										<!-- - Leveis Inicias - -->
+	<monster name="Coelho" file="- MONSTER Hunt -/- INICIAL LEVELS -/coelho.xml"/>
+	<monster name="Cogumelo Verde" file="- MONSTER Hunt -/- INICIAL LEVELS -/cogumelo verde.xml"/>
+	<monster name="Javali" file="- MONSTER Hunt -/- INICIAL LEVELS -/javali.xml"/>
+	<monster name="Morcego" file="- MONSTER Hunt -/- INICIAL LEVELS -/morcego.xml"/>
+	<monster name="Rato" file="- MONSTER Hunt -/- INICIAL LEVELS -/rato.xml"/>
+	<monster name="Tartaruga" file="- MONSTER Hunt -/- INICIAL LEVELS -/tartaruga.xml"/>
+	
+											<!-- - Level 50 - -->
+	<monster name="Lobo" file="- MONSTER Hunt -/Level 50/lobo.xml"/>
+	<monster name="Tigre" file="- MONSTER Hunt -/Level 50/tigre.xml"/>
+	<monster name="Urso" file="- MONSTER Hunt -/Level 50/urso.xml"/>
+	
+											<!-- - Level 75 - -->
+	<monster name="Lobo Guará" file="- MONSTER Hunt -/Level 75/Lobo Guará.xml"/>
+	
+	<!-- - MONSTER Event - -->
+									<!-- - Sannins Lendarios - -->
+	<monster name="Densetsu no Jiraya" file="- MONSTER Event -/sannins lendarios/densetsu no jiraya.xml"/>
+	<monster name="Densetsu no Tsunade" file="- MONSTER Event -/sannins lendarios/densetsu no tsunade.xml"/>
+	<monster name="Densetsu no Orochimaru" file="- MONSTER Event -/sannins lendarios/densetsu no orochimaru.xml"/>
+	
+									<!-- - Ōtsutsuki - -->
+	<monster name="Otsutsuki Kaguya BOSS" file="- MONSTER Event -/otsutsuki/otsutsuki kaguya.xml"/>
+	<monster name="Otsutsuki Hagoromo" file="- MONSTER Event -/otsutsuki/otsutsuki hagoromo.xml"/>
+	<monster name="Otsutsuki Indra" file="- MONSTER Event -/otsutsuki/otsutsuki indra.xml"/>
+	<monster name="Otsutsuki Ashura" file="- MONSTER Event -/otsutsuki/otsutsuki ashura.xml"/>
+	
+									<!-- - Bijuus - selos - -->
+	<monster name="Ichibi" file="- MONSTER Event -/bijuus/1 ichibi.xml"/>
+	<monster name="Nibi" file="- MONSTER Event -/bijuus/2 nibi.xml"/>
+	<monster name="Sanbi" file="- MONSTER Event -/bijuus/3 sanbi.xml"/>
+	<monster name="Yonbi" file="- MONSTER Event -/bijuus/4 yonbi.xml"/>
+	<monster name="Gobi" file="- MONSTER Event -/bijuus/5 gobi.xml"/>
+	<monster name="Rokubi" file="- MONSTER Event -/bijuus/6 rokubi.xml"/>
+	<monster name="Shichibi" file="- MONSTER Event -/bijuus/7 shichibi.xml"/>
+	<monster name="Hachibi" file="- MONSTER Event -/bijuus/8 hachibi.xml"/>
+	<monster name="Kyuubi" file="- MONSTER Event -/bijuus/9 kyuubi.xml"/>
+	
+	<!-- - MONSTER Quest - -->
+
+	<!-- - MONSTER Jutsus - -->
+	<monster name="C5 Kibaku Deidara" file="- MONSTER Jutsus -/deidara/C5 Kibaku Deidara.xml"/>
+	<monster name="C4 Kibaku Bird" file="- MONSTER Jutsus -/deidara/C4 Kibaku Bird.xml"/>
+	<monster name="C3 Kibaku Spider" file="- MONSTER Jutsus -/deidara/C3 Kibaku Spider.xml"/>
+	<monster name="C2 Kibaku Mini Bird" file="- MONSTER Jutsus -/deidara/C2 Kibaku Mini Bird.xml"/>
+	
+	<monster name="Shark" file="- MONSTER Jutsus -/kisame/shark.xml"/>
+	
+	<monster name="Pakkun" file="- MONSTER Jutsus -/kakashi/Pakkun.xml"/>
+	<monster name="Bull" file="- MONSTER Jutsus -/kakashi/Bull.xml"/>
+	<monster name="Urushi" file="- MONSTER Jutsus -/kakashi/Urushi.xml"/>
+	<monster name="Shiba" file="- MONSTER Jutsus -/kakashi/Shiba.xml"/>
+	<monster name="Bisuke" file="- MONSTER Jutsus -/kakashi/Bisuke.xml"/>
+	<monster name="Akino" file="- MONSTER Jutsus -/kakashi/Akino.xml"/>
+	<monster name="Uhei" file="- MONSTER Jutsus -/kakashi/Uhei.xml"/>
+	<monster name="Guruko" file="- MONSTER Jutsus -/kakashi/Guruko.xml"/>
+	
+	<monster name="Tsukuyomi" file="- MONSTER Jutsus -/itachi/Tsukuyomi.xml"/>
+	
+	<monster name="White Zetsu" file="- MONSTER Jutsus -/zetsu/white zetsu.xml"/>
+	<monster name="Black Zetsu" file="- MONSTER Jutsus -/zetsu/black zetsu.xml"/>
+	
+	<monster name="Taigamasuku" file="- MONSTER Jutsus -/kakuzo/Mascara de Tigre.xml"/> 
+	<monster name="Igurumasuku" file="- MONSTER Jutsus -/kakuzo/Mascara de Aguia.xml"/>
+	<monster name="Burumasuku" file="- MONSTER Jutsus -/kakuzo/Mascara de Touro.xml"/> 
+	<monster name="Chikyumasuku" file="- MONSTER Jutsus -/kakuzo/Mascara de Terra.xml"/>
+	
+	<!-- - MONSTER Summon - -->
+	<monster name="Clone" file="- MONSTER Summon -/0 all/Clone.xml"/> 
+	
+	<monster name="Gamabunta" file="- MONSTER Summon -/1 naruto/Gamabunta.xml"/> 
+	
+	<monster name="Manda" file="- MONSTER Summon -/2 sasuke/Manda.xml"/> 
+	<monster name="Garuda" file="- MONSTER Summon -/2 sasuke/Garuda.xml"/> 
+	
+	<monster name="Katsuyu" file="- MONSTER Summon -/3 sakura/Katsuyu.xml"/> 
+	
+	<monster name="Akamaru Low" file="- MONSTER Summon -/9 kiba/Akamaru Low.xml"/> 
+	<monster name="Akamaru High" file="- MONSTER Summon -/9 kiba/Akamaru High.xml"/> 
+	
+	<monster name="Kibaku Bird" file="- MONSTER Summon -/21 deidara/kibaku bird.xml"/> 
+	
+</monsters>

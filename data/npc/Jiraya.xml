@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Jiraya" script="jiraya.lua" walkinterval="50000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="687" head="78" body="88" legs="0" feet="88" addons="3"/>
+<parameters>
+<parameter key="message_greet" value="Ola |PLAYERNAME|, eu sou o Ero Sennin, e estou passando um tempo aqui nas fontes termais, com o intuito de ver algumas coisas rsrsrs, e gostaria de escrever estas no meu livro, porem, o ultimo que eu tinha, eu emprestei ao Kakashi, sera que voce poderia, traze-lo ate a mim? Pode ser que eu te deixe entrar de graça por falar com as atendentes hahaha, bom caso esteja interessado diga {troca}." />
+</parameters>
+</npc>

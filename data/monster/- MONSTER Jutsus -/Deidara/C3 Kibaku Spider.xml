@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="C3 Kibaku Spider" nameDescription="C3 Kibaku Spider" race="blood" speed="2240" manacost="500">
+    <health now="53000" max="53000"/>
+    <look type="74" corpse="5527"/>
+    <targetchange interval="5000" chance="8"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+        <flag summonable="1"/>
+        <flag attackable="1"/>
+        <flag hostile="1"/>
+        <flag illusionable="1"/>
+        <flag convinceable="1"/>
+        <flag pushable="1"/>
+        <flag canpushitems="1"/>
+        <flag canpushcreatures="1"/>
+        <flag targetdistance="1"/>
+        <flag staticattack="90"/>
+        <flag runonhealth="0"/>
+    </flags>
+    <attacks>
+        <attack name="losing3" interval="1000" chance="100" range="5" radius="4" target="1" min="-2300" max="-3200">
+        </attack>
+    </attacks>
+    <defenses armor="0" defense="1"/>
+    <voices interval="5000" chance="10">
+        <voice sentence="Kaboom!"/>
+    </voices>
+</monster>

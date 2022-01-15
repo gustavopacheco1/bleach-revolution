@@ -1,0 +1,21 @@
+local config = {
+    price = 50,  -- Quantidade de items necessário para comprar.
+    count = 20,  -- Quantidade que irá vender.
+    item = 7618, -- ID do item que vai vender.
+    need = 2160  -- ID do item necessário.
+}
+
+function onUse(cid, item)
+    local pos = getCreaturePosition(cid)
+    if item.itemid == 1945 then
+        if doPlayerRemoveItem(cid, config.need, config.price) then
+            doPlayerAddItem(cid, config.item, config.count)
+            doPlayerSendTextMessage(cid, MESSAGE_STATUS_DEFAULT, "Você acaba de comprar "..config.count.." "..getItemNameById(config.item)..".")
+            doSendMagicEffect(pos, CONST_ME_MAGIC_BLUE)
+        else
+            doPlayerSendTextMessage(cid, MESSAGE_STATUS_DEFAULT, "Desculpe, você precisa de ".. config.price .." ".. getItemNameById(config.need) .." para comprar.")
+            doSendMagicEffect(pos, CONST_ME_POFF)
+        end
+     end
+   return true
+end

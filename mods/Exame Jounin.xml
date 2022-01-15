@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mod name="Exame Jounin" enabled="no" author="Demonbholder" forum="XTibia.com">
+<config name="ArenaLib2"><![CDATA[
+dinheiro = 10000
+storage = 47002
+storage2 = 47003
+playerpos = {x=988, y=903, z=7} -- posicao da arena
+trofypos = {x=986, y=902, z=8} -- posicao da area apos a arena
+monpos = {x=981, y=903, z=7} -- posicao onde o monstro sera criado
+fromPos,toPos = {x=979,y=901,z=7},{x=991,y=905,z=7} -- posio do canto superior direito, posio do canto inferior esquerdo da arena
+monsters = {
+[0] = 'uchiha fugaku',
+[1] = 'chouza akimichi',
+[2] = 'anko',
+[3] = 'sabuza',
+[4] = 'kakashi'
+}
+function doRemoveCorpse(pos)
+for i = 1, 255 do
+corp = {x=pos.x, y=pos.y, z=pos.z, stackpos=i}
+if isCorpse(getThingFromPos(corp).uid) then
+break
+end
+end
+doRemoveItem(getThingFromPos(corp).uid, 1)
+end
+]]></config>
+<creaturescript type="death" name="Arena2" event="script"><![CDATA[
+domodlib('ArenaLib2')
+if isPlayer(deathList[1]) and isMonster(cid) then
+if getPlayerStorageValue(deathList[1], storage) > -1 and getPlayerStorageValue(deathList[1], storage) < 5 then
+setPlayerStorageValue(deathList[1], storage, getPlayerStorageValue(deathList[1], storage) + 1)
+addEvent(doRemoveCorpse, 500, getCreaturePosition(cid))
+setPlayerStorageValue(deathList[1], storage2, -1)
+end
+if getPlayerStorageValue(deathList[1], storage) == 5 then
+doTeleportThing(deathList[1], trofypos)
+setPlayerStorageValue(deathList[1],49502,1)
+end
+end
+return TRUE
+]]></creaturescript>
+<creaturescript type="kill" name="ArenaK2" event="script"><![CDATA[
+domodlib('ArenaLib2')
+if isMonster(cid) and isPlayer(target) then
+if getPlayerStorageValue(target, storage) > -1 and getPlayerStorageValue(target, storage) < 5 then
+setPlayerStorageValue(target, storage, -1)
+setPlayerStorageValue(target, storage2, -1)
+doRemoveCreature(cid)
+addEvent(doRemoveCorpse, 500, getCreaturePosition(target))
+end
+end
+return TRUE
+]]></creaturescript>
+<creaturescript type="logout" name="ArenaL2" event="script"><![CDATA[
+domodlib('ArenaLib2')
+if getPlayerStorageValue(cid, storage) > -1 and getPlayerStorageValue(cid, storage) < 5 then
+return FALSE, doPlayerSendCancel(cid, "You can't logout during arena!")
+end
+return TRUE
+]]></creaturescript>
+<movevent type="StepIn" actionid="40003" event="script"><![CDATA[
+domodlib('ArenaLib2')
+if monsters[getPlayerStorageValue(cid, storage)] then
+if getPlayerStorageValue(cid, storage2) == -1 then
+local mon = doCreateMonster(monsters[getPlayerStorageValue(cid, storage)], monpos)
+setPlayerStorageValue(cid, storage2, 1)
+registerCreatureEvent(mon, "Arena2")
+registerCreatureEvent(mon, "ArenaK2")
+end
+end
+return TRUE
+]]></movevent>
+<movevent type="StepIn" actionid="40002" event="script"><![CDATA[
+domodlib('ArenaLib2')
+for x = fromPos.x, toPos.x do
+for y = fromPos.y,toPos.y do
+local m = getTopCreature({x=x, y=y, z=fromPos.z}).uid
+if m~= 0 and isPlayer(m) then
+doTeleportThing(cid, fromPosition, true)
+return doPlayerSendCancel(cid, "Alguem esta fazendo o exame Jounin.")
+end
+end
+end
+if getPlayerMoney(cid) < dinheiro then
+return TRUE, doTeleportThing(cid, fromPosition), doPlayerSendCancel(cid, "Tens que ter 1g para fazer o exame jounin, sera para seus proprios medicamentos.")
+end
+doPlayerRemoveMoney(cid, dinheiro)
+setPlayerStorageValue(cid, storage, 0)
+doPlayerSendTextMessage(cid, 4, "Exame Jounin!")
+return TRUE, doTeleportThing(cid, playerpos)
+]]></movevent>
+</mod>

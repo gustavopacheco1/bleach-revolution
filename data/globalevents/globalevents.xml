@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<globalevents>
+	  	 <globalevent name="TopFrags" interval="2000000000" event="script" value="topfrags.lua"/>
+         <globalevent name="TopLevels" interval="2000000000" event="script" value="topleveis.lua"/>
+         <globalevent name="save" interval="2000000000" event="script" value="save.lua"/>
+	  	 <globalevent name="init" type="startup" event="script" value="init.lua"/>
+	   	 <globalevent name="globalsave" type="globalsave" event="script" value="init.lua"/>
+	  	 <globalevent name="playersrecord" type="record" event="script" value="record.lua"/>
+         <globalevent name="clean" interval="2000000000" event="script" value="clean.lua"/>
+		 
+		 <globalevent name="toptutor" interval="5000" event="script" value="copy/toptutor.lua"/>
+		 <globalevent name="topadm" interval="5000" event="script" value="copy/topadm.lua"/>
+		 <globalevent name="topgm" interval="5000" event="script" value="copy/topgm.lua"/>
+		 <globalevent name="topcm" interval="5000" event="script" value="copy/topcm.lua"/>
+		 <globalevent name="invasion" time="19:34" event="script" value="invasion.lua"/>
+
+         <!-- <globalevent name="Invasion" interval="5" script="Invasion.lua"/> -->
+		 <!-- <globalevent name="texto" interval="2000000000" event="script" value="texto.lua"/> -->
+		 
+		 
+		 <!-- GeNJuTSuS Shisui -->
+		 <globalevent name="TileEffect1" interval="500" event="script" value="genjutsu/genjutsu1.lua"/>
+		 <globalevent name="TileEffect2" interval="500" event="script" value="genjutsu/genjutsu2.lua"/>
+		 <globalevent name="TileEffect3" interval="500" event="script" value="genjutsu/genjutsu3.lua"/>
+		 <globalevent name="TileEffect4" interval="500" event="script" value="genjutsu/genjutsu4.lua"/>
+		 <globalevent name="TileEffect5" interval="500" event="script" value="genjutsu/genjutsu5.lua"/>
+		 <globalevent name="TileEffect6" interval="500" event="script" value="genjutsu/genjutsu6.lua"/>
+		 <globalevent name="TileEffect7" interval="500" event="script" value="genjutsu/genjutsu7.lua"/>
+		 <globalevent name="TileEffect8" interval="500" event="script" value="genjutsu/genjutsu8.lua"/>
+		 <globalevent name="TileEffect9" interval="500" event="script" value="genjutsu/genjutsu9.lua"/>
+		 
+		 <!-- GeNJuTSuS Itachi -->
+		 <globalevent name="TileEffect10" interval="1500" event="script" value="genjutsu1/genjutsu1.lua"/>
+		 <globalevent name="TileEffect11" interval="2500" event="script" value="genjutsu1/genjutsu2.lua"/>
+		 <globalevent name="TileEffect12" interval="3500" event="script" value="genjutsu1/genjutsu3.lua"/>
+		 <globalevent name="TileEffect13" interval="4500" event="script" value="genjutsu1/genjutsu4.lua"/>
+		 <globalevent name="TileEffect14" interval="5500" event="script" value="genjutsu1/genjutsu5.lua"/>
+		 <globalevent name="TileEffect15" interval="6500" event="script" value="genjutsu1/genjutsu6.lua"/>
+	<!-- <globalevent name="timer_example" time="21:35:11" event="script" value="my_script.lua"/> -->
+</globalevents>

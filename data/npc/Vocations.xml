@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Shikamaru" script="voca.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="344" head="17" body="54" legs="114" feet="0" addons="2"/>
+    <parameters>
+		<parameter key="message_greet" value="Olá |PLAYERNAME|, me chamo Shikamaru Nara, e após a grande Guerra ninja, eis que me tornei o auxiliar do Hokage Naruto, por isso, fico aqui, para ajudar os novos Shinnobis, da Aldeia da Folha, para que possas começar bem, lhe darei uma dica, vá até o último andar do Templo, e fale com o Naruto, lá ele poderá te dar algumas tarefas inciais, ou avançadas."/>
+    </parameters>
+</npc>

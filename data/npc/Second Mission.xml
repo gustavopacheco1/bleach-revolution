@@ -1,0 +1,7 @@
+<npc name="Fuyuki" script="data/npc/scripts/system/tasksystem/rank d/second.lua" walkinterval="0" floorchange="0" access="5" level="1" maglevel="1">
+<health now="150" max="150"/>
+<look type="96" head="114" body="119" legs="114" feet="114" corpse="2212"/>
+<parameters>
+<parameter key="message_greet" value="Oi, |PLAYERNAME| como vai? Eu sou Fuyuki, o protetor de Konoha, estou aqui há alguns anos, prezando pela segurança de todos que entram na cidade, porém, de um tempo pra cá, só está crescendo o número de ameaças que tentam entrar pelos portões principais, inclusive os {Wolfs}, que atualmente, estão em grande proporção aqui fora, será que você poderia me ajudar quanto a isso?" />
+</parameters>
+</npc>

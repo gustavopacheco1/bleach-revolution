@@ -1,0 +1,32 @@
+local keywordHandler = KeywordHandler:new()
+local npcHandler = NpcHandler:new(keywordHandler)
+NpcSystem.parseParameters(npcHandler)
+
+
+
+-- OTServ event handling functions start
+function onCreatureAppear(cid)				npcHandler:onCreatureAppear(cid) end
+function onCreatureDisappear(cid) 			npcHandler:onCreatureDisappear(cid) end
+function onCreatureSay(cid, type, msg) 	npcHandler:onCreatureSay(cid, type, msg) end
+function onThink() 						npcHandler:onThink() end
+-- OTServ event handling functions end
+
+
+-- Don't forget npcHandler = npcHandler in the parameters. It is required for all StdModule functions!
+local travelKeyword = keywordHandler:addKeyword({'Amegakure'}, StdModule.say, {npcHandler = npcHandler, onlyFocus = true, text = 'Do you wish to travel to Amegakure for 50 gold coins?'})
+	travelKeyword:addChildKeyword({'yes'}, StdModule.travel, {npcHandler = npcHandler, premium = false, level = 200, cost = 50, destination = {x=1428, y=183, z=7} })
+	travelKeyword:addChildKeyword({'no'}, StdModule.say, {npcHandler = npcHandler, onlyFocus = true, reset = true, text = 'Too expensive, eh?'})
+local travelKeyword = keywordHandler:addKeyword({'Sunagakure'}, StdModule.say, {npcHandler = npcHandler, onlyFocus = true, text = 'Do you wish to travel to Sunagakure for 50 gold coins?'})
+	travelKeyword:addChildKeyword({'yes'}, StdModule.travel, {npcHandler = npcHandler, premium = true, level = 10, cost = 50, destination = {x=212, y=495, z=7} })
+	travelKeyword:addChildKeyword({'no'}, StdModule.say, {npcHandler = npcHandler, onlyFocus = true, reset = true, text = 'Too expensive, eh?'})
+local travelKeyword = keywordHandler:addKeyword({'Kirigakure'}, StdModule.say, {npcHandler = npcHandler, onlyFocus = true, text = 'Do you wish to travel to Kirigakure?'})
+	travelKeyword:addChildKeyword({'yes'}, StdModule.travel, {npcHandler = npcHandler, premium = false, level = 0, cost = 150, destination = {x=89, y=51, z=7} })
+	travelKeyword:addChildKeyword({'no'}, StdModule.say, {npcHandler = npcHandler, onlyFocus = true, reset = true, text = 'Too expensive,Muito caro eh?'})
+local travelKeyword = keywordHandler:addKeyword({'Ishigakure'}, StdModule.say, {npcHandler = npcHandler, onlyFocus = true, text = 'Do you wish to travel to Ishigakure?'})
+	travelKeyword:addChildKeyword({'yes'}, StdModule.travel, {npcHandler = npcHandler, premium = false, level = 0, cost = 150, destination = {x=89, y=51, z=7} })
+	travelKeyword:addChildKeyword({'no'}, StdModule.say, {npcHandler = npcHandler, onlyFocus = true, reset = true, text = 'Too expensive,Muito caro eh?'})
+	
+keywordHandler:addKeyword({'places'}, StdModule.say, {npcHandler = npcHandler, onlyFocus = true, text = 'I can take you to \{Amegakure}\, \{Sunagakure}\, \{Kirgakure}\, \{Ishigakure}\ for just a small premium.'})
+
+-- Makes sure the npc reacts when you say hi, bye etc.
+npcHandler:addModule(FocusModule:new())

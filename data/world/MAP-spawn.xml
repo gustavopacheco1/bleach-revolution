@@ -1,0 +1,3206 @@
+<?xml version="1.0"?>
+<spawns>
+	<spawn centerx="849" centery="1008" centerz="2" radius="1">
+		<monster name="Flying Hollow" x="-1" y="-1" z="2" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="841" centery="1018" centerz="2" radius="1">
+		<monster name="Flying Hollow" x="-1" y="-1" z="2" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="1272" centery="912" centerz="3" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="1286" centery="918" centerz="3" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="1258" centery="921" centerz="3" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="1274" centery="924" centerz="3" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="1282" centery="928" centerz="3" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Grand Fisher Lv 2" x="0" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="1266" centery="937" centerz="3" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="851" centery="1003" centerz="3" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="3" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="833" centery="1016" centerz="3" radius="1">
+		<monster name="Flying Hollow" x="-1" y="0" z="3" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="842" centery="1023" centerz="3" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="3" spawntime="60" />
+		<monster name="Flying Hollow" x="0" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="1326" centery="1082" centerz="3" radius="2">
+		<monster name="Fraccion" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Fraccion" x="2" y="1" z="3" spawntime="60" />
+		<monster name="Fraccion" x="-1" y="2" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="1232" centery="907" centerz="4" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1216" centery="913" centerz="4" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1237" centery="915" centerz="4" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1253" centery="921" centerz="4" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1238" centery="928" centerz="4" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1253" centery="933" centerz="4" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="827" centery="972" centerz="4" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="819" centery="982" centerz="4" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="4" spawntime="60" />
+		<monster name="Flying Hollow" x="0" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="852" centery="995" centerz="4" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="4" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="848" centery="1007" centerz="4" radius="1">
+		<monster name="Flying Hollow" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="841" centery="1017" centerz="4" radius="1">
+		<monster name="Flying Hollow" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="832" centery="1023" centerz="4" radius="1">
+		<monster name="Flying Hollow" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1294" centery="1066" centerz="4" radius="2">
+		<monster name="Fraccion" x="2" y="-1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1313" centery="1066" centerz="4" radius="2">
+		<monster name="Fraccion" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Fraccion" x="1" y="2" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1328" centery="1076" centerz="4" radius="2">
+		<monster name="Fraccion" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1318" centery="1094" centerz="4" radius="2">
+		<monster name="Fraccion" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Fraccion" x="2" y="2" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1293" centery="1099" centerz="4" radius="2">
+		<monster name="Fraccion" x="1" y="-2" z="4" spawntime="60" />
+		<monster name="Fraccion" x="-1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="634" centery="1100" centerz="4" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Flying Hollow" x="0" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1156" centery="1101" centerz="4" radius="2">
+		<monster name="Hollow Grande" x="0" y="-1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="639" centery="1102" centerz="4" radius="1">
+		<monster name="Flying Hollow" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1171" centery="1107" centerz="4" radius="2">
+		<monster name="Hollow Grande" x="-1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1161" centery="1112" centerz="4" radius="2">
+		<monster name="Hollow Grande" x="0" y="-1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1236" centery="1122" centerz="4" radius="2">
+		<monster name="Fraccion" x="0" y="-1" z="4" spawntime="60" />
+		<monster name="Fraccion" x="1" y="2" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1254" centery="1129" centerz="4" radius="2">
+		<monster name="Fraccion" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Fraccion" x="-1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1266" centery="1143" centerz="4" radius="2">
+		<monster name="Fraccion" x="1" y="-1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1290" centery="1147" centerz="4" radius="2">
+		<monster name="Fraccion" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Fraccion" x="-1" y="2" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="747" centery="1172" centerz="4" radius="1">
+		<monster name="Mummy" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Mummy" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="761" centery="1177" centerz="4" radius="1">
+		<monster name="Mummy" x="0" y="-1" z="4" spawntime="60" />
+		<monster name="Mummy" x="1" y="0" z="4" spawntime="60" />
+		<monster name="Mummy" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="978" centery="1229" centerz="4" radius="2">
+		<monster name="Fishbone D" x="-1" y="0" z="4" spawntime="60" />
+		<monster name="Fishbone D" x="2" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1275" centery="897" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1258" centery="899" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1221" centery="909" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="5" spawntime="60" />
+		<monster name="Grand Fisher Lv 2" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1267" centery="909" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1250" centery="910" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="5" spawntime="60" />
+		<monster name="Grand Fisher Lv 2" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1231" centery="913" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1261" centery="920" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1110" centery="921" centerz="5" radius="1">
+		<monster name="Adjuchas" x="0" y="-1" z="5" spawntime="61" />
+		<monster name="Adjuchas" x="-1" y="1" z="5" spawntime="61" />
+	</spawn>
+	<spawn centerx="1246" centery="922" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1207" centery="923" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1233" centery="924" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1279" centery="925" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1220" centery="928" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1125" centery="931" centerz="5" radius="1">
+		<monster name="Adjuchas" x="1" y="-1" z="5" spawntime="61" />
+		<monster name="Adjuchas" x="0" y="1" z="5" spawntime="61" />
+	</spawn>
+	<spawn centerx="1112" centery="932" centerz="5" radius="1">
+		<monster name="Adjuchas" x="1" y="-1" z="5" spawntime="61" />
+		<monster name="Adjuchas" x="-1" y="1" z="5" spawntime="61" />
+	</spawn>
+	<spawn centerx="1260" centery="933" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1271" centery="941" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="920" centery="952" centerz="5" radius="1">
+		<monster name="Gilliam" x="-1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="932" centery="952" centerz="5" radius="1">
+		<monster name="Gilliam" x="-1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1283" centery="953" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1260" centery="962" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1246" centery="964" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1232" centery="967" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1212" centery="973" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1190" centery="976" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="5" spawntime="60" />
+		<monster name="Grand Fisher Lv 2" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1201" centery="976" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="847" centery="980" centerz="5" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="5" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="805" centery="982" centerz="5" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="5" spawntime="60" />
+		<monster name="Flying Hollow" x="0" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="828" centery="984" centerz="5" radius="1">
+		<monster name="Flying Hollow" x="-1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="817" centery="987" centerz="5" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="852" centery="987" centerz="5" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="5" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1234" centery="987" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1189" centery="990" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="-1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1222" centery="991" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="842" centery="995" centerz="5" radius="1">
+		<monster name="Flying Hollow" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1233" centery="997" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="776" centery="1003" centerz="5" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="854" centery="1007" centerz="5" radius="1">
+		<monster name="Flying Hollow" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="817" centery="1008" centerz="5" radius="1">
+		<monster name="Flying Hollow" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="739" centery="1016" centerz="5" radius="1">
+		<monster name="Flying Hollow" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="749" centery="1017" centerz="5" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="992" centery="1018" centerz="5" radius="1">
+		<monster name="Trainer" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="994" centery="1018" centerz="5" radius="1">
+		<monster name="Trainer" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="996" centery="1018" centerz="5" radius="1">
+		<monster name="Trainer" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="998" centery="1018" centerz="5" radius="1">
+		<monster name="Trainer" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1000" centery="1018" centerz="5" radius="1">
+		<monster name="Trainer" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1002" centery="1018" centerz="5" radius="1">
+		<monster name="Trainer" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="820" centery="1023" centerz="5" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="5" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="743" centery="1024" centerz="5" radius="1">
+		<monster name="Flying Hollow" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="992" centery="1027" centerz="5" radius="1">
+		<monster name="Trainer" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="994" centery="1027" centerz="5" radius="1">
+		<monster name="Trainer" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="996" centery="1027" centerz="5" radius="1">
+		<monster name="Trainer" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="998" centery="1027" centerz="5" radius="1">
+		<monster name="Trainer" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1000" centery="1027" centerz="5" radius="1">
+		<monster name="Trainer" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1002" centery="1027" centerz="5" radius="1">
+		<monster name="Trainer" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1331" centery="1070" centerz="5" radius="2">
+		<monster name="Fraccion" x="2" y="-1" z="5" spawntime="60" />
+		<monster name="Fraccion" x="-1" y="2" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1305" centery="1078" centerz="5" radius="2">
+		<monster name="Fraccion" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Fraccion" x="-1" y="2" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1324" centery="1078" centerz="5" radius="2">
+		<monster name="Fraccion" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="628" centery="1082" centerz="5" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Flying Hollow" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="908" centery="1084" centerz="5" radius="1">
+		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="918" centery="1084" centerz="5" radius="1">
+		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="933" centery="1084" centerz="5" radius="1">
+		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1349" centery="1084" centerz="5" radius="2">
+		<monster name="Fraccion" x="2" y="0" z="5" spawntime="60" />
+		<monster name="Fraccion" x="-1" y="2" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="640" centery="1091" centerz="5" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="5" spawntime="60" />
+		<monster name="Flying Hollow" x="0" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="908" centery="1093" centerz="5" radius="1">
+		<monster name="Fishbone D" x="0" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="922" centery="1093" centerz="5" radius="1">
+		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="933" centery="1093" centerz="5" radius="1">
+		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1283" centery="1096" centerz="5" radius="2">
+		<monster name="Fraccion" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Fraccion" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="887" centery="1098" centerz="5" radius="1">
+		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="998" centery="1098" centerz="5" radius="2">
+		<monster name="Hollow wolf" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Hollow wolf" x="2" y="-1" z="5" spawntime="60" />
+		<monster name="Hollow wolf" x="2" y="0" z="5" spawntime="60" />
+		<monster name="Hollow wolf" x="-2" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="881" centery="1100" centerz="5" radius="1">
+		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="999" centery="1103" centerz="5" radius="2">
+		<monster name="Hollow wolf" x="-1" y="-2" z="5" spawntime="60" />
+		<monster name="Hollow wolf" x="2" y="-2" z="5" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="1" z="5" spawntime="60" />
+		<monster name="Hollow wolf" x="2" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="876" centery="1105" centerz="5" radius="1">
+		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="887" centery="1106" centerz="5" radius="1">
+		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="993" centery="1106" centerz="5" radius="2">
+		<monster name="Hollow wolf" x="-1" y="-2" z="5" spawntime="60" />
+		<monster name="Hollow wolf" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="0" z="5" spawntime="60" />
+		<monster name="Hollow wolf" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1157" centery="1106" centerz="5" radius="2">
+		<monster name="Hollow Grande" x="0" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="870" centery="1108" centerz="5" radius="1">
+		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1250" centery="1110" centerz="5" radius="2">
+		<monster name="Fraccion" x="0" y="-2" z="5" spawntime="60" />
+		<monster name="Fraccion" x="2" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="879" centery="1111" centerz="5" radius="1">
+		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="997" centery="1111" centerz="5" radius="2">
+		<monster name="Hollow wolf" x="1" y="-2" z="5" spawntime="60" />
+		<monster name="Hollow wolf" x="-2" y="0" z="5" spawntime="60" />
+		<monster name="Hollow wolf" x="2" y="0" z="5" spawntime="60" />
+		<monster name="Hollow wolf" x="0" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1317" centery="1111" centerz="5" radius="2">
+		<monster name="Fraccion" x="-1" y="-2" z="5" spawntime="60" />
+		<monster name="Fraccion" x="1" y="2" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1287" centery="1114" centerz="5" radius="2">
+		<monster name="Fraccion" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Fraccion" x="-1" y="2" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="893" centery="1118" centerz="5" radius="1">
+		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="789" centery="1122" centerz="5" radius="1">
+		<monster name="Mini Fisher" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Mini Fisher" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="887" centery="1123" centerz="5" radius="1">
+		<monster name="Fishbone D" x="0" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="918" centery="1124" centerz="5" radius="1">
+		<monster name="Fishbone D" x="0" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="860" centery="1125" centerz="5" radius="1">
+		<monster name="Fishbone D" x="-1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="928" centery="1126" centerz="5" radius="1">
+		<monster name="Fishbone D" x="0" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1241" centery="1127" centerz="5" radius="2">
+		<monster name="Fraccion" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Fraccion" x="0" y="2" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="762" centery="1128" centerz="5" radius="1">
+		<monster name="Mini Fisher" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="873" centery="1129" centerz="5" radius="1">
+		<monster name="Fishbone D" x="0" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="773" centery="1133" centerz="5" radius="1">
+		<monster name="Mini Fisher" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="911" centery="1133" centerz="5" radius="1">
+		<monster name="Fishbone D" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="854" centery="1135" centerz="5" radius="1">
+		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="894" centery="1135" centerz="5" radius="1">
+		<monster name="Fishbone D" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="929" centery="1135" centerz="5" radius="1">
+		<monster name="Fishbone D" x="0" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="757" centery="1137" centerz="5" radius="1">
+		<monster name="Mini Fisher" x="-1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="878" centery="1138" centerz="5" radius="1">
+		<monster name="Fishbone D" x="0" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="768" centery="1139" centerz="5" radius="1">
+		<monster name="Mini Fisher" x="-1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="907" centery="1142" centerz="5" radius="1">
+		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1051" centery="1142" centerz="5" radius="2">
+		<monster name="Fishbone D" x="1" y="2" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1057" centery="1142" centerz="5" radius="2">
+		<monster name="Fishbone D" x="-1" y="0" z="5" spawntime="60" />
+		<monster name="Fishbone D" x="2" y="2" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1044" centery="1143" centerz="5" radius="2">
+		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1064" centery="1145" centerz="5" radius="2">
+		<monster name="Fishbone D" x="-1" y="-2" z="5" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="2" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1296" centery="1146" centerz="5" radius="2">
+		<monster name="Fraccion" x="2" y="-2" z="5" spawntime="60" />
+		<monster name="Fraccion" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="852" centery="1149" centerz="5" radius="1">
+		<monster name="Fishbone D" x="0" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="886" centery="1149" centerz="5" radius="1">
+		<monster name="Fishbone D" x="0" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1053" centery="1150" centerz="5" radius="2">
+		<monster name="Fishbone D" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Fishbone D" x="2" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1061" centery="1152" centerz="5" radius="2">
+		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1047" centery="1156" centerz="5" radius="2">
+		<monster name="Fishbone D" x="2" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="885" centery="1158" centerz="5" radius="1">
+		<monster name="Fishbone D" x="-1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="862" centery="1159" centerz="5" radius="1">
+		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="875" centery="1162" centerz="5" radius="1">
+		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="758" centery="1166" centerz="5" radius="1">
+		<monster name="Mummy" x="0" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="770" centery="1168" centerz="5" radius="1">
+		<monster name="Mummy" x="0" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="745" centery="1169" centerz="5" radius="1">
+		<monster name="Mummy" x="0" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="776" centery="1176" centerz="5" radius="1">
+		<monster name="Mummy" x="0" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="741" centery="1179" centerz="5" radius="1">
+		<monster name="Mummy" x="0" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="750" centery="1181" centerz="5" radius="1">
+		<monster name="Mummy" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Mummy" x="0" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="769" centery="1185" centerz="5" radius="1">
+		<monster name="Mummy" x="0" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="782" centery="1186" centerz="5" radius="1">
+		<monster name="Mummy" x="0" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="744" centery="1189" centerz="5" radius="1">
+		<monster name="Mummy" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Mummy" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="758" centery="1196" centerz="5" radius="1">
+		<monster name="Mummy" x="0" y="-1" z="5" spawntime="60" />
+		<monster name="Mummy" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="773" centery="1197" centerz="5" radius="1">
+		<monster name="Mummy" x="0" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="774" centery="1208" centerz="5" radius="1">
+		<monster name="Mummy" x="0" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="754" centery="1212" centerz="5" radius="1">
+		<monster name="Mummy" x="0" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="784" centery="1215" centerz="5" radius="1">
+		<monster name="Mummy" x="0" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="978" centery="1222" centerz="5" radius="2">
+		<monster name="Fishbone D" x="2" y="0" z="5" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="2" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="760" centery="1223" centerz="5" radius="1">
+		<monster name="Mummy" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Mummy" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="778" centery="1225" centerz="5" radius="1">
+		<monster name="Mummy" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Mummy" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="992" centery="1225" centerz="5" radius="2">
+		<monster name="Fishbone D" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Fishbone D" x="2" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="745" centery="1230" centerz="5" radius="1">
+		<monster name="Mummy" x="0" y="-1" z="5" spawntime="60" />
+		<monster name="Mummy" x="0" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="982" centery="1230" centerz="5" radius="2">
+		<monster name="Fishbone D" x="0" y="-1" z="5" spawntime="60" />
+		<monster name="Fishbone D" x="2" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="972" centery="1231" centerz="5" radius="2">
+		<monster name="Fishbone D" x="1" y="-2" z="5" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="990" centery="1232" centerz="5" radius="2">
+		<monster name="Fishbone D" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="983" centery="1236" centerz="5" radius="2">
+		<monster name="Fishbone D" x="2" y="-1" z="5" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="766" centery="1238" centerz="5" radius="1">
+		<monster name="Mummy" x="0" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="970" centery="1238" centerz="5" radius="2">
+		<monster name="Fishbone D" x="-1" y="0" z="5" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="2" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="777" centery="1239" centerz="5" radius="1">
+		<monster name="Mummy" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="751" centery="1241" centerz="5" radius="1">
+		<monster name="Mummy" x="0" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="964" centery="1243" centerz="5" radius="2">
+		<monster name="Fishbone D" x="2" y="-1" z="5" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="771" centery="1250" centerz="5" radius="1">
+		<monster name="Mummy" x="0" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="759" centery="1252" centerz="5" radius="1">
+		<monster name="Mummy" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="956" centery="1253" centerz="5" radius="2">
+		<monster name="Fishbone D" x="-1" y="0" z="5" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="913" centery="1295" centerz="5" radius="1" />
+	<spawn centerx="909" centery="1300" centerz="5" radius="1" />
+	<spawn centerx="916" centery="1304" centerz="5" radius="1" />
+	<spawn centerx="1268" centery="903" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1217" centery="912" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1270" centery="916" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1233" centery="919" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1258" centery="919" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1222" centery="920" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1212" centery="921" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1110" centery="922" centerz="6" radius="1">
+		<monster name="Adjuchas" x="-1" y="-1" z="6" spawntime="61" />
+		<monster name="Adjuchas" x="1" y="-1" z="6" spawntime="61" />
+	</spawn>
+	<spawn centerx="1244" centery="924" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1135" centery="926" centerz="6" radius="1">
+		<monster name="Adjuchas" x="0" y="-1" z="6" spawntime="61" />
+		<monster name="Adjuchas" x="1" y="1" z="6" spawntime="61" />
+	</spawn>
+	<spawn centerx="1277" centery="926" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1116" centery="931" centerz="6" radius="1">
+		<monster name="Adjuchas" x="-1" y="-1" z="6" spawntime="61" />
+		<monster name="Adjuchas" x="1" y="1" z="6" spawntime="61" />
+	</spawn>
+	<spawn centerx="1281" centery="936" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1104" centery="938" centerz="6" radius="1">
+		<monster name="Adjuchas" x="-1" y="-1" z="6" spawntime="61" />
+		<monster name="Adjuchas" x="1" y="-1" z="6" spawntime="61" />
+	</spawn>
+	<spawn centerx="1126" centery="940" centerz="6" radius="1">
+		<monster name="Adjuchas" x="0" y="-1" z="6" spawntime="61" />
+		<monster name="Adjuchas" x="1" y="1" z="6" spawntime="61" />
+	</spawn>
+	<spawn centerx="926" centery="945" centerz="6" radius="1">
+		<monster name="Gilliam" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Gilliam" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1288" centery="946" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="920" centery="952" centerz="6" radius="1">
+		<monster name="Gilliam" x="-1" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="931" centery="952" centerz="6" radius="1">
+		<monster name="Gilliam" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1196" centery="958" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="919" centery="959" centerz="6" radius="1">
+		<monster name="Gilliam" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="932" centery="959" centerz="6" radius="1">
+		<monster name="Gilliam" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1290" centery="959" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="825" centery="965" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Flying Hollow" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1204" centery="966" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1190" centery="967" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1216" centery="969" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1280" centery="970" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1230" centery="973" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1197" centery="975" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1267" centery="976" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1252" centery="979" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="840" centery="980" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1176" centery="980" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1164" centery="983" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1210" centery="983" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1238" centery="983" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1199" centery="986" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1223" centery="987" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="795" centery="988" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="833" centery="990" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1178" centery="990" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="738" centery="993" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="-1" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1233" centery="993" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1196" centery="996" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="745" centery="999" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="799" centery="999" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="-1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="770" centery="1000" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1180" centery="1002" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="736" centery="1004" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1194" centery="1004" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="752" centery="1005" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="808" centery="1006" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="848" centery="1006" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1211" centery="1006" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="801" centery="1008" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="763" centery="1010" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="776" centery="1011" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="848" centery="1013" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="811" centery="1017" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="992" centery="1018" centerz="6" radius="1">
+		<monster name="Trainer" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="994" centery="1018" centerz="6" radius="1">
+		<monster name="Trainer" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="996" centery="1018" centerz="6" radius="1">
+		<monster name="Trainer" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="998" centery="1018" centerz="6" radius="1">
+		<monster name="Trainer" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1000" centery="1018" centerz="6" radius="1">
+		<monster name="Trainer" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1002" centery="1018" centerz="6" radius="1">
+		<monster name="Trainer" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="827" centery="1019" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="768" centery="1021" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="839" centery="1021" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="992" centery="1027" centerz="6" radius="1">
+		<monster name="Trainer" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="994" centery="1027" centerz="6" radius="1">
+		<monster name="Trainer" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="996" centery="1027" centerz="6" radius="1">
+		<monster name="Trainer" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="998" centery="1027" centerz="6" radius="1">
+		<monster name="Trainer" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1000" centery="1027" centerz="6" radius="1">
+		<monster name="Trainer" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1002" centery="1027" centerz="6" radius="1">
+		<monster name="Trainer" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="759" centery="1030" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="786" centery="1034" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="803" centery="1035" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="775" centery="1041" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Flying Hollow" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="791" centery="1042" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="808" centery="1046" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="785" centery="1053" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Flying Hollow" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1343" centery="1054" centerz="6" radius="1">
+		<monster name="Fraccion" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Fraccion" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="734" centery="1059" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Flying Hollow" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1323" centery="1061" centerz="6" radius="1">
+		<monster name="Fraccion" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Fraccion" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1333" centery="1062" centerz="6" radius="1">
+		<monster name="Fraccion" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Fraccion" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1359" centery="1062" centerz="6" radius="1">
+		<monster name="Fraccion" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Fraccion" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1344" centery="1067" centerz="6" radius="1">
+		<monster name="Fraccion" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Fraccion" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="665" centery="1068" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="677" centery="1069" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="1" y="0" z="6" spawntime="60" />
+		<monster name="Flying Hollow" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="645" centery="1070" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="730" centery="1071" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1351" centery="1074" centerz="6" radius="1">
+		<monster name="Fraccion" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="688" centery="1080" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1315" centery="1082" centerz="6" radius="2">
+		<monster name="Fraccion" x="2" y="-1" z="6" spawntime="60" />
+		<monster name="Fraccion" x="-1" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="738" centery="1084" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="910" centery="1086" centerz="6" radius="2">
+		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Fishbone D" x="2" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="922" centery="1086" centerz="6" radius="2">
+		<monster name="Fishbone D" x="-1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="939" centery="1086" centerz="6" radius="2">
+		<monster name="Fishbone D" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Fishbone D" x="2" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1164" centery="1086" centerz="6" radius="2">
+		<monster name="Hollow Grande" x="-1" y="0" z="6" spawntime="60" />
+		<monster name="Hollow Grande" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1298" centery="1086" centerz="6" radius="2">
+		<monster name="Fraccion" x="2" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="652" centery="1087" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1158" centery="1088" centerz="6" radius="2">
+		<monster name="Hollow Grande" x="2" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow Grande" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1331" centery="1089" centerz="6" radius="2">
+		<monster name="Fraccion" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="727" centery="1090" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="929" centery="1092" centerz="6" radius="2">
+		<monster name="Fishbone D" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Fishbone D" x="2" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1168" centery="1092" centerz="6" radius="2">
+		<monster name="Hollow Grande" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow Grande" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="915" centery="1093" centerz="6" radius="2">
+		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1154" centery="1093" centerz="6" radius="2">
+		<monster name="Hollow Grande" x="2" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow Grande" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="695" centery="1094" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="743" centery="1097" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="886" centery="1097" centerz="6" radius="2">
+		<monster name="Fishbone D" x="-1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1353" centery="1097" centerz="6" radius="2">
+		<monster name="Fraccion" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Fraccion" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="717" centery="1098" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="-1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1001" centery="1098" centerz="6" radius="2">
+		<monster name="Hollow wolf" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="2" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="2" y="0" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1038" centery="1098" centerz="6" radius="2">
+		<monster name="Hollow wolf" x="-2" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="-2" y="1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1063" centery="1098" centerz="6" radius="2">
+		<monster name="Hollow wolf" x="-2" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="2" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="-2" y="1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="1" y="1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="2" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1073" centery="1098" centerz="6" radius="2">
+		<monster name="Hollow wolf" x="-2" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="2" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="-2" y="1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="1" y="1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="2" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1303" centery="1098" centerz="6" radius="2">
+		<monster name="Fraccion" x="2" y="-1" z="6" spawntime="60" />
+		<monster name="Fraccion" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="995" centery="1099" centerz="6" radius="2">
+		<monster name="Hollow wolf" x="0" y="-2" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="2" y="-2" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="2" y="0" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1044" centery="1099" centerz="6" radius="2">
+		<monster name="Hollow wolf" x="0" y="-2" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="2" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="2" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1092" centery="1099" centerz="6" radius="1">
+		<monster name="Hollow wolf" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1154" centery="1101" centerz="6" radius="2">
+		<monster name="Hollow Grande" x="2" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow Grande" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1098" centery="1102" centerz="6" radius="1">
+		<monster name="Hollow wolf" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1164" centery="1103" centerz="6" radius="2">
+		<monster name="Hollow Grande" x="2" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="877" centery="1104" centerz="6" radius="2">
+		<monster name="Fishbone D" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Fishbone D" x="2" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="896" centery="1104" centerz="6" radius="2">
+		<monster name="Fishbone D" x="-1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1239" centery="1104" centerz="6" radius="2">
+		<monster name="Fraccion" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Fraccion" x="1" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="885" centery="1105" centerz="6" radius="2">
+		<monster name="Fishbone D" x="2" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="999" centery="1105" centerz="6" radius="2">
+		<monster name="Hollow wolf" x="1" y="-2" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="-2" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1084" centery="1105" centerz="6" radius="1">
+		<monster name="Hollow wolf" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="992" centery="1106" centerz="6" radius="2">
+		<monster name="Hollow wolf" x="-2" y="-2" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="1" y="-2" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="1" y="1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="-2" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="923" centery="1107" centerz="6" radius="2">
+		<monster name="Fishbone D" x="2" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="734" centery="1108" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Flying Hollow" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1104" centery="1108" centerz="6" radius="1">
+		<monster name="Hollow wolf" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1339" centery="1108" centerz="6" radius="2">
+		<monster name="Fraccion" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="867" centery="1109" centerz="6" radius="2">
+		<monster name="Fishbone D" x="2" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="908" centery="1109" centerz="6" radius="2">
+		<monster name="Fishbone D" x="-1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="935" centery="1109" centerz="6" radius="2">
+		<monster name="Fishbone D" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="snake hollow" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1348" centery="1109" centerz="6" radius="2">
+		<monster name="Fraccion" x="2" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1064" centery="1110" centerz="6" radius="2">
+		<monster name="Hollow wolf" x="-2" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="2" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="2" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="877" centery="1111" centerz="6" radius="2">
+		<monster name="Fishbone D" x="-1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="996" centery="1111" centerz="6" radius="2">
+		<monster name="Hollow wolf" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="2" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="886" centery="1112" centerz="6" radius="2">
+		<monster name="Fishbone D" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Fishbone D" x="2" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="943" centery="1112" centerz="6" radius="2">
+		<monster name="Fishbone D" x="-1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1069" centery="1112" centerz="6" radius="2">
+		<monster name="Hollow wolf" x="-1" y="-2" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="2" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1090" centery="1112" centerz="6" radius="1">
+		<monster name="Hollow wolf" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1174" centery="1112" centerz="6" radius="2">
+		<monster name="Hollow Grande" x="2" y="-2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="717" centery="1113" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1270" centery="1113" centerz="6" radius="2">
+		<monster name="Fraccion" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Fraccion" x="0" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1156" centery="1116" centerz="6" radius="2">
+		<monster name="Hollow Grande" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="779" centery="1117" centerz="6" radius="1">
+		<monster name="Mini Fisher" x="-1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="952" centery="1117" centerz="6" radius="2">
+		<monster name="Fishbone D" x="-1" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1025" centery="1118" centerz="6" radius="2">
+		<monster name="Hollow wolf" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1095" centery="1118" centerz="6" radius="1">
+		<monster name="Hollow wolf" x="-1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1301" centery="1119" centerz="6" radius="2">
+		<monster name="Fraccion" x="2" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1322" centery="1119" centerz="6" radius="2">
+		<monster name="Fraccion" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Fraccion" x="2" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="617" centery="1121" centerz="6" radius="1" />
+	<spawn centerx="759" centery="1121" centerz="6" radius="1">
+		<monster name="Mini Fisher" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="907" centery="1121" centerz="6" radius="2">
+		<monster name="Fishbone D" x="0" y="-2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1052" centery="1121" centerz="6" radius="2">
+		<monster name="Hollow wolf" x="-1" y="-2" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="1" y="-2" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="2" y="0" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1251" centery="1121" centerz="6" radius="2">
+		<monster name="Fraccion" x="2" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="960" centery="1122" centerz="6" radius="2">
+		<monster name="Fishbone D" x="-1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1021" centery="1122" centerz="6" radius="2">
+		<monster name="Hollow wolf" x="-2" y="-2" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="-2" y="1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1069" centery="1123" centerz="6" radius="2">
+		<monster name="Hollow wolf" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1026" centery="1124" centerz="6" radius="2">
+		<monster name="Hollow wolf" x="1" y="-2" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="-2" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="611" centery="1125" centerz="6" radius="1" />
+	<spawn centerx="1046" centery="1126" centerz="6" radius="2">
+		<monster name="Hollow wolf" x="2" y="-2" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="2" y="0" z="6" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="769" centery="1129" centerz="6" radius="1">
+		<monster name="Mini Fisher" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="787" centery="1129" centerz="6" radius="1">
+		<monster name="Mini Fisher" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Mini Fisher" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="951" centery="1131" centerz="6" radius="2">
+		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1280" centery="1133" centerz="6" radius="2">
+		<monster name="Fraccion" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Fraccion" x="1" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1259" centery="1139" centerz="6" radius="2">
+		<monster name="Fraccion" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1083" centery="1140" centerz="6" radius="2">
+		<monster name="Hollow Grande" x="-1" y="-2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1303" centery="1140" centerz="6" radius="2">
+		<monster name="Fraccion" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Fraccion" x="-1" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1048" centery="1141" centerz="6" radius="2">
+		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="610" centery="1143" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Flying Hollow" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1054" centery="1143" centerz="6" radius="2">
+		<monster name="Fishbone D" x="2" y="-1" z="6" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1096" centery="1144" centerz="6" radius="2">
+		<monster name="Hollow Grande" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Hollow Grande" x="2" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1087" centery="1146" centerz="6" radius="2">
+		<monster name="Hollow Grande" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1062" centery="1149" centerz="6" radius="2">
+		<monster name="Fishbone D" x="2" y="-1" z="6" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1045" centery="1151" centerz="6" radius="2">
+		<monster name="Fishbone D" x="2" y="-1" z="6" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1277" centery="1152" centerz="6" radius="2">
+		<monster name="Fraccion" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1087" centery="1153" centerz="6" radius="2">
+		<monster name="Hollow Grande" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow Grande" x="2" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1053" centery="1157" centerz="6" radius="2">
+		<monster name="Fishbone D" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Fishbone D" x="2" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1298" centery="1159" centerz="6" radius="2">
+		<monster name="Fraccion" x="2" y="-2" z="6" spawntime="60" />
+		<monster name="Fraccion" x="-1" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="608" centery="1160" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1086" centery="1162" centerz="6" radius="2">
+		<monster name="Hollow Grande" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow Grande" x="2" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1080" centery="1170" centerz="6" radius="2">
+		<monster name="Hollow Grande" x="2" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1074" centery="1171" centerz="6" radius="2">
+		<monster name="Hollow Grande" x="-1" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1049" centery="1173" centerz="6" radius="1">
+		<monster name="Hollow Grande" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1068" centery="1173" centerz="6" radius="2">
+		<monster name="Hollow Grande" x="-1" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="768" centery="1174" centerz="6" radius="1">
+		<monster name="Mummy" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="662" centery="1175" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="755" centery="1175" centerz="6" radius="1">
+		<monster name="Mummy" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1018" centery="1175" centerz="6" radius="1">
+		<monster name="Hollow Grande" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1076" centery="1177" centerz="6" radius="2">
+		<monster name="Hollow Grande" x="-1" y="2" z="6" spawntime="60" />
+		<monster name="Hollow Grande" x="2" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="653" centery="1178" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1052" centery="1180" centerz="6" radius="1">
+		<monster name="Hollow Grande" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="751" centery="1181" centerz="6" radius="1">
+		<monster name="Mummy" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="658" centery="1182" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="775" centery="1182" centerz="6" radius="1">
+		<monster name="Mummy" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Mummy" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="997" centery="1182" centerz="6" radius="2">
+		<monster name="Hollow Grande" x="-1" y="-2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1014" centery="1183" centerz="6" radius="1">
+		<monster name="Hollow Grande" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1026" centery="1183" centerz="6" radius="1">
+		<monster name="Hollow Grande" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1038" centery="1183" centerz="6" radius="1">
+		<monster name="Hollow Grande" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1048" centery="1187" centerz="6" radius="1">
+		<monster name="Hollow Grande" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="761" centery="1188" centerz="6" radius="1">
+		<monster name="Mummy" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="988" centery="1188" centerz="6" radius="2">
+		<monster name="Hollow Grande" x="2" y="-2" z="6" spawntime="60" />
+		<monster name="Hollow Grande" x="2" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1001" centery="1188" centerz="6" radius="2">
+		<monster name="Hollow Grande" x="1" y="-2" z="6" spawntime="60" />
+		<monster name="Hollow Grande" x="2" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1021" centery="1191" centerz="6" radius="1">
+		<monster name="Hollow Grande" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="978" centery="1192" centerz="6" radius="2">
+		<monster name="Hollow Grande" x="-1" y="-2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="768" centery="1193" centerz="6" radius="1">
+		<monster name="Mummy" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1036" centery="1193" centerz="6" radius="1">
+		<monster name="Hollow Grande" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="996" centery="1196" centerz="6" radius="2">
+		<monster name="Hollow Grande" x="1" y="-2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="975" centery="1199" centerz="6" radius="2">
+		<monster name="Hollow Grande" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow Grande" x="1" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="986" centery="1201" centerz="6" radius="2">
+		<monster name="Hollow Grande" x="2" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="765" centery="1202" centerz="6" radius="1">
+		<monster name="Mummy" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="779" centery="1203" centerz="6" radius="1">
+		<monster name="Mummy" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Mummy" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="755" centery="1204" centerz="6" radius="1">
+		<monster name="Mummy" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Mummy" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="769" centery="1214" centerz="6" radius="1">
+		<monster name="Mummy" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="781" centery="1214" centerz="6" radius="1">
+		<monster name="Mummy" x="-1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="757" centery="1219" centerz="6" radius="1">
+		<monster name="Mummy" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Mummy" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="788" centery="1221" centerz="6" radius="1">
+		<monster name="Mummy" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="754" centery="1229" centerz="6" radius="1">
+		<monster name="Mummy" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="789" centery="1235" centerz="6" radius="1">
+		<monster name="Mummy" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="809" centery="1236" centerz="6" radius="1">
+		<monster name="Mummy" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Mummy" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="981" centery="1236" centerz="6" radius="2" />
+	<spawn centerx="766" centery="1240" centerz="6" radius="1">
+		<monster name="Mummy" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Mummy" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="780" centery="1240" centerz="6" radius="1">
+		<monster name="Mummy" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="805" centery="1244" centerz="6" radius="1">
+		<monster name="Mummy" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Mummy" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="814" centery="1248" centerz="6" radius="1">
+		<monster name="Mummy" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Mummy" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="951" centery="1252" centerz="6" radius="2">
+		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="951" centery="1260" centerz="6" radius="2">
+		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Fishbone D" x="2" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="960" centery="1263" centerz="6" radius="2">
+		<monster name="Fishbone D" x="1" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="908" centery="1294" centerz="6" radius="1" />
+	<spawn centerx="913" centery="1299" centerz="6" radius="1" />
+	<spawn centerx="909" centery="1304" centerz="6" radius="1" />
+	<spawn centerx="1118" centery="875" centerz="7" radius="1">
+		<monster name="Adjuchas" x="-1" y="-1" z="7" spawntime="61" />
+		<monster name="Adjuchas" x="1" y="1" z="7" spawntime="61" />
+	</spawn>
+	<spawn centerx="1091" centery="879" centerz="7" radius="1">
+		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="61" />
+		<monster name="Adjuchas" x="-1" y="1" z="7" spawntime="61" />
+	</spawn>
+	<spawn centerx="1109" centery="885" centerz="7" radius="1">
+		<monster name="Adjuchas" x="0" y="-1" z="7" spawntime="61" />
+	</spawn>
+	<spawn centerx="1081" centery="888" centerz="7" radius="1">
+		<monster name="Adjuchas" x="-1" y="1" z="7" spawntime="61" />
+	</spawn>
+	<spawn centerx="1151" centery="893" centerz="7" radius="1">
+		<monster name="Adjuchas" x="0" y="-1" z="7" spawntime="61" />
+		<monster name="Adjuchas" x="1" y="1" z="7" spawntime="61" />
+	</spawn>
+	<spawn centerx="1124" centery="894" centerz="7" radius="1">
+		<monster name="Adjuchas" x="0" y="-1" z="7" spawntime="61" />
+		<monster name="Adjuchas" x="1" y="1" z="7" spawntime="61" />
+	</spawn>
+	<spawn centerx="1110" centery="898" centerz="7" radius="1">
+		<monster name="Adjuchas" x="0" y="-1" z="7" spawntime="61" />
+	</spawn>
+	<spawn centerx="1139" centery="899" centerz="7" radius="1">
+		<monster name="Adjuchas" x="0" y="-1" z="7" spawntime="61" />
+	</spawn>
+	<spawn centerx="1085" centery="900" centerz="7" radius="1">
+		<monster name="Adjuchas" x="-1" y="-1" z="7" spawntime="61" />
+		<monster name="Adjuchas" x="1" y="1" z="7" spawntime="61" />
+	</spawn>
+	<spawn centerx="1105" centery="908" centerz="7" radius="1">
+		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="61" />
+	</spawn>
+	<spawn centerx="1093" centery="911" centerz="7" radius="1">
+		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="61" />
+		<monster name="Adjuchas" x="-1" y="1" z="7" spawntime="61" />
+	</spawn>
+	<spawn centerx="1142" centery="913" centerz="7" radius="1">
+		<monster name="Adjuchas" x="0" y="-1" z="7" spawntime="61" />
+		<monster name="Adjuchas" x="1" y="1" z="7" spawntime="61" />
+	</spawn>
+	<spawn centerx="1155" centery="917" centerz="7" radius="1">
+		<monster name="Adjuchas" x="0" y="-1" z="7" spawntime="61" />
+		<monster name="Adjuchas" x="1" y="1" z="7" spawntime="61" />
+	</spawn>
+	<spawn centerx="1110" centery="920" centerz="7" radius="1">
+		<monster name="Adjuchas" x="-1" y="-1" z="7" spawntime="61" />
+		<monster name="Adjuchas" x="1" y="1" z="7" spawntime="61" />
+	</spawn>
+	<spawn centerx="1087" centery="924" centerz="7" radius="1">
+		<monster name="Adjuchas" x="-1" y="-1" z="7" spawntime="61" />
+		<monster name="Adjuchas" x="1" y="1" z="7" spawntime="61" />
+	</spawn>
+	<spawn centerx="1172" centery="924" centerz="7" radius="1">
+		<monster name="Adjuchas" x="0" y="-1" z="7" spawntime="61" />
+	</spawn>
+	<spawn centerx="1129" centery="930" centerz="7" radius="1">
+		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="61" />
+		<monster name="Adjuchas" x="1" y="1" z="7" spawntime="61" />
+	</spawn>
+	<spawn centerx="1116" centery="933" centerz="7" radius="1">
+		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="61" />
+		<monster name="Adjuchas" x="-1" y="0" z="7" spawntime="61" />
+	</spawn>
+	<spawn centerx="1157" centery="933" centerz="7" radius="1">
+		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="61" />
+		<monster name="Adjuchas" x="0" y="1" z="7" spawntime="61" />
+	</spawn>
+	<spawn centerx="1174" centery="934" centerz="7" radius="1">
+		<monster name="Adjuchas" x="0" y="-1" z="7" spawntime="61" />
+		<monster name="Adjuchas" x="1" y="1" z="7" spawntime="61" />
+	</spawn>
+	<spawn centerx="1086" centery="941" centerz="7" radius="1">
+		<monster name="Adjuchas" x="-1" y="-1" z="7" spawntime="61" />
+		<monster name="Adjuchas" x="1" y="1" z="7" spawntime="61" />
+	</spawn>
+	<spawn centerx="1149" centery="945" centerz="7" radius="1">
+		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="61" />
+		<monster name="Adjuchas" x="0" y="1" z="7" spawntime="61" />
+	</spawn>
+	<spawn centerx="1165" centery="946" centerz="7" radius="1">
+		<monster name="Adjuchas" x="-1" y="-1" z="7" spawntime="61" />
+		<monster name="Adjuchas" x="1" y="1" z="7" spawntime="61" />
+	</spawn>
+	<spawn centerx="1182" centery="946" centerz="7" radius="1">
+		<monster name="Adjuchas" x="0" y="-1" z="7" spawntime="61" />
+		<monster name="Adjuchas" x="1" y="1" z="7" spawntime="61" />
+	</spawn>
+	<spawn centerx="926" centery="949" centerz="7" radius="1">
+		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="926" centery="960" centerz="7" radius="1">
+		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="938" centery="967" centerz="7" radius="1">
+		<monster name="Gilliam" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="924" centery="968" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="896" centery="969" centerz="7" radius="1">
+		<monster name="Gilliam" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="913" centery="970" centerz="7" radius="1">
+		<monster name="Gilliam" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="818" centery="974" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="903" centery="974" centerz="7" radius="1">
+		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Gilliam" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="835" centery="977" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="891" centery="979" centerz="7" radius="1">
+		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="921" centery="981" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="806" centery="983" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Flying Hollow" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1195" centery="983" centerz="7" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1210" centery="983" centerz="7" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="913" centery="988" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="923" centery="989" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="902" centery="990" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Gilliam" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="755" centery="992" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="889" centery="992" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1170" centery="993" centerz="7" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1227" centery="994" centerz="7" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Grand Fisher Lv 2" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="797" centery="995" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1185" centery="995" centerz="7" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="754" centery="1001" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1209" centery="1001" centerz="7" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="806" centery="1004" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="742" centery="1005" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="-1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1175" centery="1008" centerz="7" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="755" centery="1009" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="769" centery="1009" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="835" centery="1009" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Flying Hollow" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1030" centery="1012" centerz="7" radius="1">
+		<npc name="Minoru" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1228" centery="1012" centerz="7" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="814" centery="1013" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="745" centery="1014" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="992" centery="1018" centerz="7" radius="1">
+		<monster name="Trainer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="994" centery="1018" centerz="7" radius="1">
+		<monster name="Trainer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="996" centery="1018" centerz="7" radius="1">
+		<monster name="Trainer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="998" centery="1018" centerz="7" radius="1">
+		<monster name="Trainer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1000" centery="1018" centerz="7" radius="1">
+		<monster name="Trainer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1002" centery="1018" centerz="7" radius="1">
+		<monster name="Trainer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1187" centery="1018" centerz="7" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Grand Fisher Lv 2" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1211" centery="1018" centerz="7" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="755" centery="1020" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="828" centery="1021" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1200" centery="1024" centerz="7" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1229" centery="1025" centerz="7" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="992" centery="1027" centerz="7" radius="1">
+		<monster name="Trainer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="994" centery="1027" centerz="7" radius="1">
+		<monster name="Trainer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="996" centery="1027" centerz="7" radius="1">
+		<monster name="Trainer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="998" centery="1027" centerz="7" radius="1">
+		<monster name="Trainer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1000" centery="1027" centerz="7" radius="1">
+		<monster name="Trainer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1002" centery="1027" centerz="7" radius="1">
+		<monster name="Trainer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="784" centery="1046" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Flying Hollow" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="721" centery="1051" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="772" centery="1055" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Flying Hollow" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="687" centery="1063" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="711" centery="1065" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="746" centery="1069" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1301" centery="1072" centerz="7" radius="2" />
+	<spawn centerx="681" centery="1075" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Flying Hollow" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1321" centery="1075" centerz="7" radius="2">
+		<monster name="Fraccion" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1336" centery="1076" centerz="7" radius="2">
+		<monster name="Fraccion" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="727" centery="1078" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="702" centery="1079" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1283" centery="1084" centerz="7" radius="2">
+		<monster name="Fraccion" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Fraccion" x="1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1183" centery="1087" centerz="7" radius="2">
+		<monster name="Hollow Grande" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow Grande" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Hollow Grande" x="2" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1161" centery="1088" centerz="7" radius="2">
+		<monster name="Hollow Grande" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow Grande" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1171" centery="1088" centerz="7" radius="2">
+		<monster name="Hollow Grande" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1254" centery="1088" centerz="7" radius="2">
+		<monster name="Fraccion" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Fraccion" x="2" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="675" centery="1092" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="711" centery="1092" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Flying Hollow" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1300" centery="1092" centerz="7" radius="2">
+		<monster name="Fraccion" x="2" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1326" centery="1092" centerz="7" radius="2">
+		<monster name="Fraccion" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Fraccion" x="2" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1182" centery="1093" centerz="7" radius="2">
+		<monster name="Hollow Grande" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow Grande" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow Grande" x="-1" y="2" z="7" spawntime="60" />
+		<monster name="Hollow Grande" x="2" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="666" centery="1095" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1265" centery="1095" centerz="7" radius="2">
+		<monster name="Fraccion" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Fraccion" x="2" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1153" centery="1097" centerz="7" radius="2">
+		<monster name="Hollow Grande" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow Grande" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1175" centery="1097" centerz="7" radius="2">
+		<monster name="Hollow Grande" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="Hollow Grande" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow Grande" x="-1" y="2" z="7" spawntime="60" />
+		<monster name="Hollow Grande" x="2" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1168" centery="1098" centerz="7" radius="2">
+		<monster name="Hollow Grande" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="Hollow Grande" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="968" centery="1099" centerz="7" radius="2">
+		<monster name="Hollow wolf" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="-2" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="977" centery="1099" centerz="7" radius="2">
+		<monster name="Hollow wolf" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="0" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1092" centery="1099" centerz="7" radius="1">
+		<monster name="Hollow wolf" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="733" centery="1100" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="984" centery="1100" centerz="7" radius="2">
+		<monster name="Hollow wolf" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1184" centery="1100" centerz="7" radius="2" />
+	<spawn centerx="1290" centery="1101" centerz="7" radius="2">
+		<monster name="Fraccion" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Fraccion" x="2" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1103" centery="1103" centerz="7" radius="1">
+		<monster name="Hollow wolf" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1272" centery="1103" centerz="7" radius="2">
+		<monster name="Fraccion" x="2" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="659" centery="1104" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1247" centery="1104" centerz="7" radius="2">
+		<monster name="Fraccion" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1085" centery="1105" centerz="7" radius="1">
+		<monster name="Hollow wolf" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="716" centery="1106" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Flying Hollow" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="726" centery="1106" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="970" centery="1106" centerz="7" radius="2">
+		<monster name="Hollow wolf" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="696" centery="1107" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1165" centery="1107" centerz="7" radius="2">
+		<monster name="Hollow Grande" x="-1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1098" centery="1108" centerz="7" radius="1">
+		<monster name="Hollow wolf" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1302" centery="1108" centerz="7" radius="2">
+		<monster name="Fraccion" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Fraccion" x="-1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="977" centery="1110" centerz="7" radius="2">
+		<monster name="Hollow wolf" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="2" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="2" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1091" centery="1111" centerz="7" radius="1">
+		<monster name="Hollow wolf" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1155" centery="1111" centerz="7" radius="2">
+		<monster name="Hollow Grande" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow Grande" x="2" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1226" centery="1112" centerz="7" radius="2">
+		<monster name="Fraccion" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Fraccion" x="2" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="760" centery="1114" centerz="7" radius="1">
+		<monster name="Mini Fisher" x="-1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="645" centery="1115" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1258" centery="1115" centerz="7" radius="2">
+		<monster name="Fraccion" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Fraccion" x="-1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="973" centery="1117" centerz="7" radius="2">
+		<monster name="Hollow wolf" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1096" centery="1117" centerz="7" radius="1">
+		<monster name="Hollow wolf" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1021" centery="1119" centerz="7" radius="2">
+		<monster name="Hollow wolf" x="-2" y="-2" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="2" y="1" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="747" centery="1122" centerz="7" radius="1">
+		<monster name="Mini Fisher" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Mini Fisher" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="773" centery="1122" centerz="7" radius="1">
+		<monster name="Mini Fisher" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Mini Fisher" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="787" centery="1123" centerz="7" radius="1">
+		<monster name="Mini Fisher" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Mini Fisher" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="626" centery="1124" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Flying Hollow" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="756" centery="1124" centerz="7" radius="1">
+		<monster name="Mini Fisher" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1025" centery="1124" centerz="7" radius="2">
+		<monster name="Hollow wolf" x="-1" y="-2" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1240" centery="1125" centerz="7" radius="2">
+		<monster name="Fraccion" x="2" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1123" centery="1127" centerz="7" radius="2">
+		<monster name="snake hollow" x="0" y="-2" z="7" spawntime="60" />
+		<monster name="snake hollow" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="765" centery="1129" centerz="7" radius="1">
+		<monster name="Mini Fisher" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Mini Fisher" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1003" centery="1132" centerz="7" radius="2">
+		<monster name="Hollow wolf" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="1" y="0" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="2" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="779" centery="1133" centerz="7" radius="1">
+		<monster name="Mini Fisher" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="607" centery="1134" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="989" centery="1134" centerz="7" radius="2">
+		<monster name="Hollow wolf" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1266" centery="1134" centerz="7" radius="2">
+		<monster name="Fraccion" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Fraccion" x="-1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="747" centery="1136" centerz="7" radius="1">
+		<monster name="Mini Fisher" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1052" centery="1141" centerz="7" radius="2">
+		<monster name="Fishbone D" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="623" centery="1142" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1058" centery="1142" centerz="7" radius="2">
+		<monster name="Fishbone D" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="641" centery="1143" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="961" centery="1143" centerz="7" radius="2">
+		<monster name="snake hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="2" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="986" centery="1143" centerz="7" radius="2">
+		<monster name="Hollow wolf" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1144" centery="1143" centerz="7" radius="2">
+		<monster name="snake hollow" x="-1" y="-2" z="7" spawntime="60" />
+		<monster name="snake hollow" x="2" y="1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1005" centery="1144" centerz="7" radius="2">
+		<monster name="Hollow wolf" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1044" centery="1144" centerz="7" radius="2">
+		<monster name="Fishbone D" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1063" centery="1144" centerz="7" radius="2">
+		<monster name="Fishbone D" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Fishbone D" x="2" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1124" centery="1144" centerz="7" radius="1">
+		<monster name="snake hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="944" centery="1145" centerz="7" radius="2">
+		<monster name="snake hollow" x="-1" y="-2" z="7" spawntime="60" />
+		<monster name="snake hollow" x="1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1115" centery="1145" centerz="7" radius="2">
+		<monster name="snake hollow" x="-2" y="-2" z="7" spawntime="60" />
+		<monster name="snake hollow" x="1" y="0" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="783" centery="1146" centerz="7" radius="1">
+		<monster name="Mini Fisher" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1001" centery="1146" centerz="7" radius="2">
+		<monster name="Hollow wolf" x="1" y="-2" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="755" centery="1148" centerz="7" radius="1">
+		<monster name="Mini Fisher" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="971" centery="1148" centerz="7" radius="2">
+		<monster name="snake hollow" x="-2" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="978" centery="1149" centerz="7" radius="2">
+		<monster name="Hollow wolf" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1009" centery="1149" centerz="7" radius="2">
+		<monster name="Hollow wolf" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="0" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1061" centery="1149" centerz="7" radius="2">
+		<monster name="Fishbone D" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="956" centery="1150" centerz="7" radius="1">
+		<monster name="Hollow wolf" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="992" centery="1150" centerz="7" radius="2">
+		<monster name="Hollow wolf" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1054" centery="1150" centerz="7" radius="2">
+		<monster name="Fishbone D" x="2" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="931" centery="1152" centerz="7" radius="2">
+		<monster name="snake hollow" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="621" centery="1153" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1127" centery="1153" centerz="7" radius="1">
+		<monster name="snake hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="770" centery="1154" centerz="7" radius="1">
+		<monster name="Mini Fisher" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1046" centery="1154" centerz="7" radius="2">
+		<monster name="Fishbone D" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1139" centery="1154" centerz="7" radius="1">
+		<monster name="snake hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1157" centery="1154" centerz="7" radius="2">
+		<monster name="snake hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="2" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="962" centery="1156" centerz="7" radius="1">
+		<monster name="Hollow wolf" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1182" centery="1156" centerz="7" radius="1">
+		<monster name="snake hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="1" y="0" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="989" centery="1157" centerz="7" radius="2">
+		<monster name="Hollow wolf" x="-1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1054" centery="1157" centerz="7" radius="2">
+		<monster name="Fishbone D" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="949" centery="1158" centerz="7" radius="1">
+		<monster name="Hollow wolf" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1111" centery="1158" centerz="7" radius="1">
+		<monster name="snake hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="997" centery="1159" centerz="7" radius="2">
+		<monster name="Hollow wolf" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="2" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="941" centery="1161" centerz="7" radius="1">
+		<monster name="Hollow wolf" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="956" centery="1161" centerz="7" radius="1">
+		<monster name="Hollow wolf" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1018" centery="1161" centerz="7" radius="2">
+		<monster name="snake hollow" x="-1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1040" centery="1161" centerz="7" radius="2">
+		<monster name="snake hollow" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="982" centery="1162" centerz="7" radius="2">
+		<monster name="Hollow wolf" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1061" centery="1162" centerz="7" radius="2">
+		<monster name="snake hollow" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="2" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1122" centery="1162" centerz="7" radius="1">
+		<monster name="snake hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="970" centery="1163" centerz="7" radius="2">
+		<monster name="snake hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="999" centery="1165" centerz="7" radius="2">
+		<monster name="snake hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="662" centery="1166" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="930" centery="1166" centerz="7" radius="2">
+		<monster name="snake hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="639" centery="1167" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="679" centery="1167" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Flying Hollow" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="694" centery="1167" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="713" centery="1167" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="948" centery="1168" centerz="7" radius="1">
+		<monster name="Hollow wolf" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="962" centery="1168" centerz="7" radius="1">
+		<monster name="Hollow wolf" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1031" centery="1168" centerz="7" radius="2">
+		<monster name="snake hollow" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="982" centery="1170" centerz="7" radius="2">
+		<monster name="snake hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="2" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1147" centery="1170" centerz="7" radius="2">
+		<monster name="snake hollow" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-2" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1174" centery="1170" centerz="7" radius="2">
+		<monster name="snake hollow" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1118" centery="1171" centerz="7" radius="2">
+		<monster name="snake hollow" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-2" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="771" centery="1172" centerz="7" radius="1">
+		<monster name="Mummy" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="759" centery="1173" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="964" centery="1174" centerz="7" radius="1">
+		<monster name="Hollow wolf" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="956" centery="1175" centerz="7" radius="1">
+		<monster name="Hollow wolf" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="972" centery="1175" centerz="7" radius="1">
+		<monster name="Hollow wolf" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="655" centery="1176" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Flying Hollow" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="947" centery="1176" centerz="7" radius="1">
+		<monster name="Hollow wolf" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="779" centery="1178" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="751" centery="1182" centerz="7" radius="1">
+		<monster name="Mummy" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Mummy" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="964" centery="1183" centerz="7" radius="1">
+		<monster name="Hollow wolf" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1063" centery="1183" centerz="7" radius="2">
+		<monster name="snake hollow" x="-2" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="2" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="931" centery="1184" centerz="7" radius="2">
+		<monster name="snake hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="947" centery="1184" centerz="7" radius="1">
+		<monster name="Hollow wolf" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="957" centery="1184" centerz="7" radius="1">
+		<monster name="Hollow wolf" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow wolf" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1162" centery="1187" centerz="7" radius="2">
+		<monster name="snake hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1142" centery="1188" centerz="7" radius="2">
+		<monster name="snake hollow" x="-1" y="-2" z="7" spawntime="60" />
+		<monster name="snake hollow" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-1" y="2" z="7" spawntime="60" />
+		<monster name="snake hollow" x="1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="775" centery="1189" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1094" centery="1190" centerz="7" radius="2">
+		<monster name="snake hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-2" y="2" z="7" spawntime="60" />
+		<monster name="snake hollow" x="2" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="959" centery="1192" centerz="7" radius="2">
+		<monster name="snake hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="2" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="758" centery="1193" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1067" centery="1195" centerz="7" radius="2">
+		<monster name="snake hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="2" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="774" centery="1199" centerz="7" radius="1">
+		<monster name="Mummy" x="-1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1135" centery="1199" centerz="7" radius="2">
+		<monster name="snake hollow" x="-1" y="-2" z="7" spawntime="60" />
+		<monster name="snake hollow" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1181" centery="1199" centerz="7" radius="2">
+		<monster name="snake hollow" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="962" centery="1202" centerz="7" radius="2">
+		<monster name="snake hollow" x="-1" y="-2" z="7" spawntime="60" />
+		<monster name="snake hollow" x="2" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1086" centery="1204" centerz="7" radius="2">
+		<monster name="snake hollow" x="1" y="-2" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-2" y="2" z="7" spawntime="60" />
+		<monster name="snake hollow" x="1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1161" centery="1204" centerz="7" radius="2">
+		<monster name="snake hollow" x="1" y="-2" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="0" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="757" centery="1206" centerz="7" radius="1">
+		<monster name="Mummy" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Mummy" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="781" centery="1207" centerz="7" radius="1">
+		<monster name="Mummy" x="-1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="929" centery="1207" centerz="7" radius="2">
+		<monster name="snake hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-2" y="1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1134" centery="1209" centerz="7" radius="2">
+		<monster name="snake hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="971" centery="1210" centerz="7" radius="2">
+		<monster name="snake hollow" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1006" centery="1210" centerz="7" radius="2">
+		<monster name="snake hollow" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1068" centery="1210" centerz="7" radius="2">
+		<monster name="snake hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="2" y="1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="762" centery="1214" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="943" centery="1214" centerz="7" radius="2">
+		<monster name="snake hollow" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1017" centery="1216" centerz="7" radius="2">
+		<monster name="snake hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1059" centery="1216" centerz="7" radius="2">
+		<monster name="snake hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="957" centery="1217" centerz="7" radius="2">
+		<monster name="snake hollow" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="785" centery="1219" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1033" centery="1219" centerz="7" radius="2">
+		<monster name="snake hollow" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="2" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1075" centery="1219" centerz="7" radius="1">
+		<monster name="snake hollow" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1084" centery="1220" centerz="7" radius="1">
+		<monster name="snake hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1046" centery="1221" centerz="7" radius="2">
+		<monster name="snake hollow" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="2" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1161" centery="1222" centerz="7" radius="2">
+		<monster name="snake hollow" x="0" y="-2" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-2" y="1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1065" centery="1223" centerz="7" radius="2">
+		<monster name="snake hollow" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1133" centery="1223" centerz="7" radius="2">
+		<monster name="snake hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="761" centery="1225" centerz="7" radius="1">
+		<monster name="Mummy" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="928" centery="1227" centerz="7" radius="2">
+		<monster name="snake hollow" x="1" y="-2" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="795" centery="1229" centerz="7" radius="1">
+		<monster name="Mummy" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Mummy" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1071" centery="1230" centerz="7" radius="2">
+		<monster name="snake hollow" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="756" centery="1235" centerz="7" radius="1">
+		<monster name="Mummy" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="813" centery="1235" centerz="7" radius="1">
+		<monster name="Mummy" x="1" y="0" z="7" spawntime="60" />
+		<monster name="Mummy" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1087" centery="1235" centerz="7" radius="2">
+		<monster name="snake hollow" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-2" y="1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="799" centery="1237" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1103" centery="1239" centerz="7" radius="2">
+		<monster name="snake hollow" x="-1" y="-2" z="7" spawntime="60" />
+		<monster name="snake hollow" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-2" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1161" centery="1239" centerz="7" radius="2">
+		<monster name="snake hollow" x="1" y="-2" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="0" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1115" centery="1240" centerz="7" radius="2">
+		<monster name="snake hollow" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-2" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="777" centery="1241" centerz="7" radius="1">
+		<monster name="Mummy" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="763" centery="1242" centerz="7" radius="1">
+		<monster name="Mummy" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1123" centery="1242" centerz="7" radius="2">
+		<monster name="snake hollow" x="-2" y="-2" z="7" spawntime="60" />
+		<monster name="snake hollow" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1134" centery="1243" centerz="7" radius="2">
+		<monster name="snake hollow" x="-2" y="-2" z="7" spawntime="60" />
+		<monster name="snake hollow" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-2" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1143" centery="1243" centerz="7" radius="2">
+		<monster name="snake hollow" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-2" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-2" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1153" centery="1243" centerz="7" radius="2">
+		<monster name="snake hollow" x="-2" y="-2" z="7" spawntime="60" />
+		<monster name="snake hollow" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="snake hollow" x="-2" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="788" centery="1244" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Mummy" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="930" centery="1244" centerz="7" radius="2">
+		<monster name="snake hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="800" centery="1245" centerz="7" radius="1">
+		<monster name="Mummy" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="939" centery="1264" centerz="7" radius="2">
+		<monster name="snake hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="snake hollow" x="1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="897" centery="889" centerz="8" radius="1">
+		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Gilliam" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="906" centery="896" centerz="8" radius="1">
+		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Gilliam" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="913" centery="906" centerz="8" radius="1">
+		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Gilliam" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="927" centery="908" centerz="8" radius="1">
+		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Gilliam" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1093" centery="909" centerz="8" radius="1">
+		<monster name="Adjuchas" x="1" y="-1" z="8" spawntime="61" />
+		<monster name="Adjuchas" x="-1" y="1" z="8" spawntime="61" />
+	</spawn>
+	<spawn centerx="903" centery="910" centerz="8" radius="1">
+		<monster name="Gilliam" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Gilliam" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="892" centery="912" centerz="8" radius="1">
+		<monster name="Gilliam" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Gilliam" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="937" centery="914" centerz="8" radius="1">
+		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Gilliam" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="920" centery="915" centerz="8" radius="1">
+		<monster name="Gilliam" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1098" centery="918" centerz="8" radius="1">
+		<monster name="Adjuchas" x="1" y="-1" z="8" spawntime="61" />
+	</spawn>
+	<spawn centerx="898" centery="922" centerz="8" radius="1">
+		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Gilliam" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="920" centery="923" centerz="8" radius="1">
+		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Gilliam" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="885" centery="924" centerz="8" radius="1">
+		<monster name="Gilliam" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Gilliam" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="928" centery="926" centerz="8" radius="1">
+		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Gilliam" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="938" centery="926" centerz="8" radius="1">
+		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Gilliam" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1110" centery="927" centerz="8" radius="1">
+		<monster name="Adjuchas" x="1" y="-1" z="8" spawntime="61" />
+		<monster name="Adjuchas" x="0" y="1" z="8" spawntime="61" />
+	</spawn>
+	<spawn centerx="1132" centery="927" centerz="8" radius="1">
+		<monster name="Adjuchas" x="-1" y="-1" z="8" spawntime="61" />
+		<monster name="Adjuchas" x="1" y="1" z="8" spawntime="61" />
+	</spawn>
+	<spawn centerx="1096" centery="929" centerz="8" radius="1">
+		<monster name="Adjuchas" x="1" y="-1" z="8" spawntime="61" />
+		<monster name="Adjuchas" x="-1" y="1" z="8" spawntime="61" />
+	</spawn>
+	<spawn centerx="900" centery="933" centerz="8" radius="1">
+		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Gilliam" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="946" centery="933" centerz="8" radius="1">
+		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Gilliam" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1121" centery="933" centerz="8" radius="1">
+		<monster name="Adjuchas" x="1" y="-1" z="8" spawntime="61" />
+		<monster name="Adjuchas" x="-1" y="1" z="8" spawntime="61" />
+	</spawn>
+	<spawn centerx="1141" centery="933" centerz="8" radius="1">
+		<monster name="Adjuchas" x="-1" y="-1" z="8" spawntime="61" />
+		<monster name="Adjuchas" x="1" y="1" z="8" spawntime="61" />
+	</spawn>
+	<spawn centerx="891" centery="936" centerz="8" radius="1">
+		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Gilliam" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="933" centery="938" centerz="8" radius="1">
+		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Gilliam" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="910" centery="940" centerz="8" radius="1">
+		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="941" centery="943" centerz="8" radius="1">
+		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Gilliam" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="921" centery="944" centerz="8" radius="1">
+		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Gilliam" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1111" centery="944" centerz="8" radius="1">
+		<monster name="Adjuchas" x="0" y="-1" z="8" spawntime="61" />
+		<monster name="Adjuchas" x="1" y="1" z="8" spawntime="61" />
+	</spawn>
+	<spawn centerx="901" centery="945" centerz="8" radius="1">
+		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Gilliam" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="894" centery="952" centerz="8" radius="1">
+		<monster name="Gilliam" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Gilliam" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="911" centery="952" centerz="8" radius="1">
+		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Gilliam" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="924" centery="955" centerz="8" radius="1">
+		<monster name="Gilliam" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Gilliam" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="890" centery="975" centerz="8" radius="1">
+		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Gilliam" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="902" centery="981" centerz="8" radius="1">
+		<monster name="Gilliam" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Gilliam" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="814" centery="983" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="797" centery="984" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="784" centery="988" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Flying Hollow" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="942" centery="989" centerz="8" radius="1">
+		<monster name="Gilliam" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="903" centery="991" centerz="8" radius="1">
+		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Gilliam" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="913" centery="991" centerz="8" radius="1">
+		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Gilliam" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="831" centery="993" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="759" centery="996" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="942" centery="997" centerz="8" radius="1">
+		<monster name="Gilliam" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Gilliam" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="908" centery="999" centerz="8" radius="1">
+		<monster name="Gilliam" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Gilliam" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="780" centery="1001" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Flying Hollow" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="847" centery="1003" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="917" centery="1004" centerz="8" radius="1">
+		<monster name="Gilliam" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="936" centery="1004" centerz="8" radius="1">
+		<monster name="Gilliam" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Gilliam" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="834" centery="1005" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="926" centery="1006" centerz="8" radius="1">
+		<monster name="Gilliam" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Gilliam" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="812" centery="1012" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="937" centery="1012" centerz="8" radius="1">
+		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Gilliam" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="744" centery="1014" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Flying Hollow" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="783" centery="1014" centerz="8" radius="1" />
+	<spawn centerx="1104" centery="1016" centerz="8" radius="3">
+		<monster name="black wolf" x="-1" y="-2" z="8" spawntime="60" />
+		<monster name="black wolf" x="-2" y="1" z="8" spawntime="60" />
+		<monster name="black wolf" x="2" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="850" centery="1019" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Flying Hollow" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="937" centery="1020" centerz="8" radius="1">
+		<monster name="Gilliam" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Gilliam" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="811" centery="1026" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="779" centery="1028" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Flying Hollow" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1066" centery="1029" centerz="8" radius="3">
+		<monster name="black wolf" x="0" y="-2" z="8" spawntime="60" />
+		<monster name="black wolf" x="-2" y="0" z="8" spawntime="60" />
+		<monster name="black wolf" x="2" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1111" centery="1029" centerz="8" radius="3">
+		<monster name="black wolf" x="-1" y="-2" z="8" spawntime="60" />
+		<monster name="black wolf" x="2" y="-1" z="8" spawntime="60" />
+		<monster name="black wolf" x="0" y="3" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="746" centery="1031" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Flying Hollow" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="841" centery="1032" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1095" centery="1035" centerz="8" radius="3">
+		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="black wolf" x="0" y="1" z="8" spawntime="60" />
+		<monster name="black wolf" x="2" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1021" centery="1036" centerz="8" radius="3">
+		<monster name="black wolf" x="-2" y="-2" z="8" spawntime="60" />
+		<monster name="black wolf" x="2" y="-2" z="8" spawntime="60" />
+		<monster name="black wolf" x="-2" y="1" z="8" spawntime="60" />
+		<monster name="black wolf" x="3" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="804" centery="1038" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Flying Hollow" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1031" centery="1038" centerz="8" radius="3">
+		<monster name="black wolf" x="-2" y="-1" z="8" spawntime="60" />
+		<monster name="black wolf" x="2" y="-1" z="8" spawntime="60" />
+		<monster name="black wolf" x="-2" y="1" z="8" spawntime="60" />
+		<monster name="black wolf" x="2" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1057" centery="1038" centerz="8" radius="3">
+		<monster name="black wolf" x="2" y="-1" z="8" spawntime="60" />
+		<monster name="black wolf" x="-2" y="1" z="8" spawntime="60" />
+		<monster name="black wolf" x="2" y="1" z="8" spawntime="60" />
+		<monster name="black wolf" x="0" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1079" centery="1038" centerz="8" radius="3">
+		<monster name="black wolf" x="-2" y="-2" z="8" spawntime="60" />
+		<monster name="black wolf" x="2" y="-2" z="8" spawntime="60" />
+		<monster name="black wolf" x="1" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="766" centery="1039" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Flying Hollow" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1011" centery="1040" centerz="8" radius="3">
+		<monster name="black wolf" x="-1" y="-2" z="8" spawntime="60" />
+		<monster name="black wolf" x="2" y="-2" z="8" spawntime="60" />
+		<monster name="black wolf" x="-1" y="2" z="8" spawntime="60" />
+		<monster name="black wolf" x="2" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1116" centery="1040" centerz="8" radius="3">
+		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="black wolf" x="-2" y="0" z="8" spawntime="60" />
+		<monster name="black wolf" x="3" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="789" centery="1041" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Flying Hollow" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="825" centery="1042" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Flying Hollow" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1041" centery="1044" centerz="8" radius="3">
+		<monster name="black wolf" x="-2" y="-2" z="8" spawntime="60" />
+		<monster name="black wolf" x="1" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1019" centery="1047" centerz="8" radius="3">
+		<monster name="black wolf" x="-2" y="-2" z="8" spawntime="60" />
+		<monster name="black wolf" x="2" y="-2" z="8" spawntime="60" />
+		<monster name="black wolf" x="-2" y="2" z="8" spawntime="60" />
+		<monster name="black wolf" x="2" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1101" centery="1048" centerz="8" radius="3">
+		<monster name="black wolf" x="-2" y="-2" z="8" spawntime="60" />
+		<monster name="black wolf" x="2" y="0" z="8" spawntime="60" />
+		<monster name="black wolf" x="-1" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1135" centery="1048" centerz="8" radius="3">
+		<monster name="black wolf" x="-2" y="-2" z="8" spawntime="60" />
+		<monster name="black wolf" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="black wolf" x="0" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1043" centery="1054" centerz="8" radius="3">
+		<monster name="black wolf" x="0" y="-2" z="8" spawntime="60" />
+		<monster name="black wolf" x="0" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1092" centery="1057" centerz="8" radius="3">
+		<monster name="black wolf" x="2" y="-2" z="8" spawntime="60" />
+		<monster name="black wolf" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="black wolf" x="2" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1078" centery="1058" centerz="8" radius="3">
+		<monster name="black wolf" x="0" y="-2" z="8" spawntime="60" />
+		<monster name="black wolf" x="2" y="0" z="8" spawntime="60" />
+		<monster name="black wolf" x="-2" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1132" centery="1063" centerz="8" radius="3">
+		<monster name="black wolf" x="2" y="-2" z="8" spawntime="60" />
+		<monster name="black wolf" x="1" y="1" z="8" spawntime="60" />
+		<monster name="black wolf" x="-2" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1040" centery="1064" centerz="8" radius="3">
+		<monster name="black wolf" x="-2" y="-2" z="8" spawntime="60" />
+		<monster name="black wolf" x="2" y="-1" z="8" spawntime="60" />
+		<monster name="black wolf" x="-2" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1113" centery="1068" centerz="8" radius="3">
+		<monster name="black wolf" x="1" y="-2" z="8" spawntime="60" />
+		<monster name="black wolf" x="1" y="1" z="8" spawntime="60" />
+		<monster name="black wolf" x="-2" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1050" centery="1069" centerz="8" radius="3">
+		<monster name="black wolf" x="0" y="-2" z="8" spawntime="60" />
+		<monster name="black wolf" x="-2" y="-1" z="8" spawntime="60" />
+		<monster name="black wolf" x="3" y="0" z="8" spawntime="60" />
+		<monster name="black wolf" x="-1" y="3" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1033" centery="1076" centerz="8" radius="3">
+		<monster name="black wolf" x="1" y="-3" z="8" spawntime="60" />
+		<monster name="black wolf" x="-2" y="1" z="8" spawntime="60" />
+		<monster name="black wolf" x="1" y="3" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1064" centery="1076" centerz="8" radius="3">
+		<monster name="black wolf" x="2" y="-2" z="8" spawntime="60" />
+		<monster name="black wolf" x="-2" y="2" z="8" spawntime="60" />
+		<monster name="black wolf" x="2" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="757" centery="1082" centerz="8" radius="1">
+		<monster name="Mini Fisher" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1105" centery="1082" centerz="8" radius="3">
+		<monster name="black wolf" x="-1" y="-2" z="8" spawntime="60" />
+		<monster name="black wolf" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="black wolf" x="1" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1044" centery="1083" centerz="8" radius="3">
+		<monster name="black wolf" x="-2" y="-2" z="8" spawntime="60" />
+		<monster name="black wolf" x="2" y="-2" z="8" spawntime="60" />
+		<monster name="black wolf" x="0" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1172" centery="1087" centerz="8" radius="2">
+		<monster name="Hollow Grande" x="0" y="-2" z="8" spawntime="60" />
+		<monster name="Hollow Grande" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1181" centery="1087" centerz="8" radius="2">
+		<monster name="Hollow Grande" x="1" y="-2" z="8" spawntime="60" />
+		<monster name="Hollow Grande" x="2" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="772" centery="1088" centerz="8" radius="1">
+		<monster name="Mini Fisher" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1164" centery="1088" centerz="8" radius="2">
+		<monster name="Hollow Grande" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Hollow Grande" x="2" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1073" centery="1090" centerz="8" radius="3" />
+	<spawn centerx="1099" centery="1093" centerz="8" radius="3">
+		<monster name="black wolf" x="-2" y="-1" z="8" spawntime="60" />
+		<monster name="black wolf" x="2" y="-1" z="8" spawntime="60" />
+		<monster name="black wolf" x="-2" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1186" centery="1093" centerz="8" radius="2">
+		<monster name="Hollow Grande" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Hollow Grande" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1160" centery="1095" centerz="8" radius="2">
+		<monster name="Hollow Grande" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Hollow Grande" x="2" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1045" centery="1096" centerz="8" radius="3">
+		<monster name="black wolf" x="0" y="-2" z="8" spawntime="60" />
+		<monster name="black wolf" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="black wolf" x="2" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="758" centery="1097" centerz="8" radius="1">
+		<monster name="Mini Fisher" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1182" centery="1099" centerz="8" radius="2">
+		<monster name="Hollow Grande" x="2" y="-1" z="8" spawntime="60" />
+		<monster name="Hollow Grande" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1065" centery="1101" centerz="8" radius="3">
+		<monster name="black wolf" x="-2" y="-1" z="8" spawntime="60" />
+		<monster name="black wolf" x="2" y="0" z="8" spawntime="60" />
+		<monster name="black wolf" x="-2" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1090" centery="1101" centerz="8" radius="3">
+		<monster name="black wolf" x="0" y="-3" z="8" spawntime="60" />
+		<monster name="black wolf" x="3" y="-1" z="8" spawntime="60" />
+		<monster name="black wolf" x="0" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1080" centery="1103" centerz="8" radius="3">
+		<monster name="black wolf" x="2" y="-1" z="8" spawntime="60" />
+		<monster name="black wolf" x="-3" y="0" z="8" spawntime="60" />
+		<monster name="black wolf" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1173" centery="1103" centerz="8" radius="2">
+		<monster name="Hollow Grande" x="2" y="-1" z="8" spawntime="60" />
+		<monster name="Hollow Grande" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="784" centery="1104" centerz="8" radius="1">
+		<monster name="Mini Fisher" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Mini Fisher" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1053" centery="1105" centerz="8" radius="3">
+		<monster name="black wolf" x="-2" y="-1" z="8" spawntime="60" />
+		<monster name="black wolf" x="3" y="0" z="8" spawntime="60" />
+		<monster name="black wolf" x="1" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="744" centery="1111" centerz="8" radius="1">
+		<monster name="Mini Fisher" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Mini Fisher" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="763" centery="1112" centerz="8" radius="1">
+		<monster name="Mini Fisher" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="777" centery="1123" centerz="8" radius="1">
+		<monster name="Mini Fisher" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Mini Fisher" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1146" centery="1125" centerz="8" radius="2">
+		<monster name="Hollow Grande" x="-1" y="-2" z="8" spawntime="60" />
+		<monster name="Hollow Grande" x="2" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1125" centery="1128" centerz="8" radius="2">
+		<monster name="Hollow Grande" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1122" centery="1134" centerz="8" radius="2">
+		<monster name="Hollow Grande" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1137" centery="1134" centerz="8" radius="2">
+		<monster name="Hollow Grande" x="0" y="-2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1131" centery="1140" centerz="8" radius="2">
+		<monster name="Hollow Grande" x="1" y="-2" z="8" spawntime="60" />
+		<monster name="Hollow Grande" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="797" centery="1142" centerz="8" radius="1">
+		<monster name="Mini Fisher" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Mini Fisher" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="819" centery="1143" centerz="8" radius="1">
+		<monster name="Mini Fisher" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1146" centery="1148" centerz="8" radius="2">
+		<monster name="Hollow Grande" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Hollow Grande" x="2" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="831" centery="1149" centerz="8" radius="1">
+		<monster name="Mini Fisher" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Mini Fisher" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="790" centery="1150" centerz="8" radius="1">
+		<monster name="Mini Fisher" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1131" centery="1152" centerz="8" radius="2">
+		<monster name="Hollow Grande" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Hollow Grande" x="2" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="816" centery="1153" centerz="8" radius="1">
+		<monster name="Mini Fisher" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1155" centery="1154" centerz="8" radius="2">
+		<monster name="Hollow Grande" x="1" y="-2" z="8" spawntime="60" />
+		<monster name="Hollow Grande" x="1" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="804" centery="1156" centerz="8" radius="1">
+		<monster name="Mini Fisher" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="841" centery="1158" centerz="8" radius="1">
+		<monster name="Mini Fisher" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1134" centery="1158" centerz="8" radius="2">
+		<monster name="Hollow Grande" x="-1" y="-2" z="8" spawntime="60" />
+		<monster name="Hollow Grande" x="2" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="783" centery="1160" centerz="8" radius="1">
+		<monster name="Mini Fisher" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="825" centery="1164" centerz="8" radius="1">
+		<monster name="Mini Fisher" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Mini Fisher" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1152" centery="1167" centerz="8" radius="2">
+		<monster name="Hollow Grande" x="0" y="-2" z="8" spawntime="60" />
+		<monster name="Hollow Grande" x="2" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="834" centery="1169" centerz="8" radius="1">
+		<monster name="Mini Fisher" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1134" centery="1170" centerz="8" radius="2">
+		<monster name="Hollow Grande" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Hollow Grande" x="2" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="981" centery="1174" centerz="8" radius="2">
+		<monster name="Fishbone D" x="1" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="792" centery="1175" centerz="8" radius="1">
+		<monster name="Mini Fisher" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Mini Fisher" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1156" centery="1176" centerz="8" radius="2">
+		<monster name="Hollow Grande" x="-1" y="-2" z="8" spawntime="60" />
+		<monster name="Hollow Grande" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="969" centery="1177" centerz="8" radius="2">
+		<monster name="Fishbone D" x="-1" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="800" centery="1182" centerz="8" radius="1">
+		<monster name="Mini Fisher" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1133" centery="1182" centerz="8" radius="2">
+		<monster name="Hollow Grande" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Hollow Grande" x="2" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="834" centery="1183" centerz="8" radius="1">
+		<monster name="Mini Fisher" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Mini Fisher" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1009" centery="1185" centerz="8" radius="2">
+		<monster name="Fishbone D" x="-1" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="975" centery="1186" centerz="8" radius="2">
+		<monster name="Fishbone D" x="2" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="988" centery="1188" centerz="8" radius="2">
+		<monster name="Fishbone D" x="0" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="818" centery="1189" centerz="8" radius="1">
+		<monster name="Mini Fisher" x="-1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="829" centery="1189" centerz="8" radius="1">
+		<monster name="Mini Fisher" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1152" centery="1189" centerz="8" radius="2">
+		<monster name="Hollow Grande" x="2" y="-1" z="8" spawntime="60" />
+		<monster name="Hollow Grande" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1131" centery="1193" centerz="8" radius="2">
+		<monster name="Hollow Grande" x="2" y="-1" z="8" spawntime="60" />
+		<monster name="Hollow Grande" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="998" centery="1195" centerz="8" radius="2">
+		<monster name="Fishbone D" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="2" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="989" centery="1201" centerz="8" radius="2">
+		<monster name="Fishbone D" x="2" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="977" centery="1203" centerz="8" radius="2">
+		<monster name="Fishbone D" x="2" y="0" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="993" centery="1211" centerz="8" radius="2">
+		<monster name="Fishbone D" x="1" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="997" centery="1220" centerz="8" radius="2">
+		<monster name="Fishbone D" x="1" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="986" centery="1228" centerz="8" radius="2">
+		<monster name="Fishbone D" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="2" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="968" centery="1234" centerz="8" radius="2">
+		<monster name="Fishbone D" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="778" centery="1236" centerz="8" radius="1">
+		<monster name="Mummy" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="769" centery="1241" centerz="8" radius="1">
+		<monster name="Mummy" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="788" centery="1241" centerz="8" radius="1">
+		<monster name="Mummy" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="812" centery="1241" centerz="8" radius="1">
+		<monster name="Mummy" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Mummy" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="989" centery="1241" centerz="8" radius="2" />
+	<spawn centerx="1009" centery="1241" centerz="8" radius="2">
+		<monster name="Fishbone D" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="795" centery="1248" centerz="8" radius="1">
+		<monster name="Mummy" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="806" centery="1248" centerz="8" radius="1">
+		<monster name="Mummy" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1018" centery="1249" centerz="8" radius="2">
+		<monster name="Fishbone D" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="764" centery="1250" centerz="8" radius="1">
+		<monster name="Mummy" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="957" centery="1251" centerz="8" radius="2">
+		<monster name="Fishbone D" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="787" centery="1253" centerz="8" radius="1">
+		<monster name="Mummy" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Mummy" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="996" centery="1253" centerz="8" radius="2">
+		<monster name="Fishbone D" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="967" centery="1256" centerz="8" radius="2">
+		<monster name="Fishbone D" x="2" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="760" centery="1259" centerz="8" radius="1">
+		<monster name="Mummy" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Mummy" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="747" centery="1260" centerz="8" radius="1">
+		<monster name="Mummy" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="773" centery="1261" centerz="8" radius="1">
+		<monster name="Mummy" x="-1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="786" centery="1262" centerz="8" radius="1">
+		<monster name="Mummy" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1025" centery="1262" centerz="8" radius="2">
+		<monster name="Fishbone D" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="984" centery="1265" centerz="8" radius="2">
+		<monster name="Fishbone D" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="971" centery="1268" centerz="8" radius="2">
+		<monster name="Fishbone D" x="2" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="792" centery="1269" centerz="8" radius="1">
+		<monster name="Mummy" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="994" centery="1269" centerz="8" radius="2">
+		<monster name="Fishbone D" x="2" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="777" centery="1271" centerz="8" radius="1">
+		<monster name="Mummy" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Mummy" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1017" centery="1272" centerz="8" radius="2">
+		<monster name="Fishbone D" x="2" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="969" centery="1276" centerz="8" radius="2">
+		<monster name="Fishbone D" x="2" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="996" centery="1279" centerz="8" radius="2">
+		<monster name="Fishbone D" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="957" centery="1280" centerz="8" radius="2">
+		<monster name="Fishbone D" x="2" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="986" centery="1284" centerz="8" radius="2">
+		<monster name="Fishbone D" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="966" centery="1285" centerz="8" radius="2">
+		<monster name="Fishbone D" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="991" centery="1294" centerz="8" radius="2">
+		<monster name="Fishbone D" x="2" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="964" centery="1295" centerz="8" radius="2">
+		<monster name="Fishbone D" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1000" centery="1300" centerz="8" radius="2">
+		<monster name="Fishbone D" x="-1" y="-1" z="8" spawntime="60" />
+	</spawn>
+</spawns>

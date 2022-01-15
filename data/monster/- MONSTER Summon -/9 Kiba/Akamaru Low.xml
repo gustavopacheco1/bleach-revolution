@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Akamaru" nameDescription="Akamaru" race="blood" experience="8000" speed="1200" manacost="0">
+    <health now="10000000000" max="10000000000"/>
+	<look type="555" head="0" body="94" legs="79" feet="79" corpse="0"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<voices interval="5000" chance="10">
+		<voice sentence="Naruto come on!" yell="1"/>
+		<voice sentence="Sou o Rei dos Sapos!!!"/>
+		<voice sentence="Aaahhh!"/>
+	</voices>
+</monster>

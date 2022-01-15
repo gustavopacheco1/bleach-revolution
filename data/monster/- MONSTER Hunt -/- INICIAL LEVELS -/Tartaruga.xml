@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Tartaruga" nameDescription="Tartaruga" race="blood" speed="2240" manacost="500">
+    <health now="530" max="530"/>
+    <look type="762" corpse="5527"/>
+    <targetchange interval="5000" chance="8"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+        <flag summonable="1"/>
+        <flag attackable="1"/>
+        <flag hostile="1"/>
+        <flag illusionable="1"/>
+        <flag convinceable="1"/>
+        <flag pushable="1"/>
+        <flag canpushitems="1"/>
+        <flag canpushcreatures="1"/>
+        <flag targetdistance="1"/>
+        <flag staticattack="90"/>
+        <flag runonhealth="0"/>
+    </flags>
+    <attacks>
+		<attack name="melee" interval="1000" min="-1010" max="-1040"/>
+    </attacks>
+	<defenses armor="10" defense="5">
+	<defense name="manamaster" interval="5000" chance="100" duration="100">
+   </defense>
+	</defenses>
+    <voices interval="5000" chance="10">
+        <voice sentence="DENSEEEETSUUU TSUNNADEE"/>
+    </voices>
+</monster>

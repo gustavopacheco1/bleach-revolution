@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?> 
+<monster name="Daidalost" nameDescription="Daidalost" race="undead" experience="5750" speed="245"> 
+   <health now="4900" max="4900"/> 
+   <look type="101"/> 
+   <targetchange interval="2000" chance="24"/> 
+   <strategy attack="100" defense="0"/> 
+    <flags> 
+      <flag attackable="1"/> 
+      <flag hostile="1"/> 
+      <flag convinceable="1"/> 
+      <flag canpushitems="1"/> 
+      <flag canpushcreatures="1"/> 
+      <flag staticattack="90"/> 
+      <flag targetdistance="1"/> 
+      <flag runonhealth="0"/> 
+    </flags> 
+    <attacks> 
+        <attack name="melee" interval="2000" skill="120" attack="100" poison="-800"/> 
+        <attack name="lifedrain" interval="1053" chance="11" target="0" radius="7" min="-334" max="-455"> 
+            <attribute key="areaEffect" value="redshimmer"/> 
+        </attack> 
+        <attack name="earth" interval="1010" chance="15" target="0" radius="3" min="-176" max="-265"> 
+            <attribute key="areaEffect" value="stones"/> 
+        </attack> 
+        <attack name="earth" interval="1032" chance="12" length="6" spread="2" min="-334" max="-385"> 
+            <attribute key="areaEffect" value="smallplants"/> 
+        </attack> 
+    </attacks> 
+    <defenses armor="70" defense="30"/> 
+  <elements> 
+      <element earthPercent="20"/> 
+      <element holyPercent="-25"/> 
+      <element icePercent="10"/> 
+      <element energyPercent="30"/> 
+  </elements> 
+  <immunities> 
+    <immunity death="1"/> 
+    <immunity drown="1"/> 
+    <immunity earth="1"/> 
+    <immunity drunk="1"/> 
+    <immunity lifedrain="1"/> 
+    <immunity paralyze="1"/> 
+    <immunity invisible="1"/> 
+  </immunities> 
+</monster>
