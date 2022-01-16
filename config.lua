@@ -13,12 +13,12 @@
 	displayGamemastersWithOnlineCommand = false
 
 	-- MySql
-	sqlType = "sqlite"
+	sqlType = "mysql"
 	sqlHost = "127.0.0.1"
 	sqlPort = 3306
 	sqlUser = "root"
 	sqlPass = ""
-	sqlDatabase = ""
+	sqlDatabase = "bleach_jack"
 	sqlFile = "schemas/otxserver.s3db"
 	sqlKeepAlive = 0
 	mysqlReadTimeout = 10
@@ -196,7 +196,7 @@
 	loginTimeout = 60 * 1000
 	maxPlayers = 200
 	displayOnOrOffAtCharlist = false
-	onePlayerOnlinePerAccount = true
+	onePlayerOnlinePerAccount = false
 	allowClones = 0
 	statusTimeout = 1000
 	replaceKickOnLogin = true
@@ -269,7 +269,7 @@
 	houseDataStorage = "binary-tilebased"
 	storeTrash = true
 	cleanProtectedZones = true
-	mapName = "forgotten.otbm"
+	mapName = "MAP.otbm"
 		-- For Windows(compiled with MSVC) and Linux use:
 		-- OTX Server use default GroundCache
 		-- GroundCache mode save memory: __GROUND_CACHE__
