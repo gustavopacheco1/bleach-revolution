@@ -6,7 +6,7 @@
 
 <look type="45" head="0" body="94" legs="79" feet="79" corpse="5527"/>
 
-<targetchange interval="5000" chance="50"/>
+<targetchange interval="100" chance="50"/>
 
 <strategy attack="90" defense="20"/>
 
