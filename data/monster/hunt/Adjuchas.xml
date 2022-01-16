@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<monster name="Adjuchas" nameDescription="Adjuchas" race="blood" experience="15" speed="400" manacost="0">
+<monster name="Adjuchas" nameDescription="Adjuchas" race="blood" experience="150" speed="400" manacost="0">
 
 <health now="900000" max="900000"/>
 
