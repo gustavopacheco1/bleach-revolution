@@ -643,21 +643,11 @@ class Game
 		void addAnimatedText(const Position& pos, const uint8_t& textColor, const std::string& text);
 		void addAnimatedText(const SpectatorVec& list, const Position& pos, const uint8_t& textColor, const std::string& text);
 
-#ifdef __EXTENDED_MAGIC_EFFECTS__
 		void addMagicEffect(const Position& pos, const uint16_t& effect, bool ghostMode = false);
 		void addMagicEffect(const SpectatorVec& list, const Position& pos, const uint16_t& effect, bool ghostMode = false);
-#else
-		void addMagicEffect(const Position& pos, const uint8_t& effect, bool ghostMode = false);
-		void addMagicEffect(const SpectatorVec& list, const Position& pos, const uint8_t& effect, bool ghostMode = false);
-#endif
 
-#ifdef __EXTENDED_DISTANCE_SHOOT__
 		void addDistanceEffect(const SpectatorVec& list, const Position& fromPos, const Position& toPos, const uint16_t& effect);
 		void addDistanceEffect(const Position& fromPos, const Position& toPos, const uint16_t& effect);
-#else
-		void addDistanceEffect(const SpectatorVec& list, const Position& fromPos, const Position& toPos, const uint8_t& effect);
-		void addDistanceEffect(const Position& fromPos, const Position& toPos, const uint8_t& effect);
-#endif
 
 		void addStatsMessage(const SpectatorVec& list, const MessageClasses& mClass, const std::string& message,
 			const Position& pos, MessageDetails* details = NULL);
