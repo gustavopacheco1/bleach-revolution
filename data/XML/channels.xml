@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
 	<channel id="1" name="Party"/>
-	<channel id="2" name="Equipe" access="1"/>
+	<channel id="2" name="Staff" access="3"/>
 	<channel id="3" name="Rule Violations" logged="yes"/>
-	<channel id="4" name="Bate Papo" level="2"/>
-	<channel id="5" name="Trade" level="8" muted="120" conditionId="2" conditionMessage="espere dois minutos para lançar uma nova oferta."/>
-	<channel id="9" name="Help" logged="yes" muted="60" conditionId="2" conditionMessage="espere um minuto para poder falar novamente."/>
+	<channel id="4" name="Counselor" access="1"/>
+	<channel id="5" name="Game-Chat"/>
+	<channel id="6" name="Trade" muted="120" conditionId="3" conditionMessage="You may only place one offer in two minutes."/>
+	<channel id="8" name="RL-Chat"/>
+	<channel id="9" name="Help" logged="yes"/>
 	<channel id="65535" name="Private Chat Channel"/>
 </channels>

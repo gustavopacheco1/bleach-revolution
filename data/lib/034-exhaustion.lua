@@ -5,7 +5,7 @@ exhaustion =
 			return false
 		end
 
-		return getPlayerStorageValue(cid, storage) >= os.time(t)
+		return getCreatureStorage(cid, storage) >= os.time()
 	end,
 
 	get = function (cid, storage)
@@ -13,9 +13,9 @@ exhaustion =
 			return false
 		end
 
-		local exhaust = getPlayerStorageValue(cid, storage)
+		local exhaust = tonumber(getCreatureStorage(cid, storage))
 		if(exhaust > 0) then
-			local left = exhaust - os.time(t)
+			local left = exhaust - os.time()
 			if(left >= 0) then
 				return left
 			end
@@ -25,7 +25,7 @@ exhaustion =
 	end,
 
 	set = function (cid, storage, time)
-		setPlayerStorageValue(cid, storage, os.time(t) + time)
+		doCreatureSetStorage(cid, storage, math.floor(os.time() + time))
 	end,
 
 	make = function (cid, storage, time)
