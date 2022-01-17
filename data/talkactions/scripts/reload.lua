@@ -2,12 +2,11 @@ local reloadInfo = {
 	{RELOAD_ACTIONS, "actions", "action"},
 	{RELOAD_CHAT, "chat", "channels"},
 	{RELOAD_CONFIG, "config", "configuration"},
-	{RELOAD_CREATUREEVENTS, "creatureevents", "creature events", "creaturescripts", "creature scripts", "creatureevent", "creature event", "creature script", "creaturescript"},
+	{RELOAD_CREATUREEVENTS, "creatureevents", "creature events", "creaturescripts", "creature scripts", "creatureevent", "creature event", "creature script", "creaturescript", "creature"},
 	{RELOAD_GAMESERVERS, "gameservers", "game servers", "servers"},
-	{RELOAD_GLOBALEVENTS, "globalevents", "global events", "globalevent", "global event"},
+	{RELOAD_GLOBALEVENTS, "globalevents", "global events", "globalevent", "global event", "global"},
 	{RELOAD_GROUPS, "groups", "playergroups", "group"},
 	{RELOAD_HIGHSCORES, "highscores", "scores", "highscore", "score"},
-	{RELOAD_HOUSEPRICES, "houseprices", "house prices", "prices"},
 	{RELOAD_ITEMS, "items", "item"},
 	{RELOAD_MONSTERS, "monsters", "monster"},
 	{RELOAD_MOVEEVENTS, "moveevents", "move events", "movements", "move", "movement"},
@@ -35,13 +34,6 @@ function onSay(cid, words, param, channel)
 	for _, v in ipairs(reloadInfo) do
 		if(table.isStrIn(param, v)) then
 			doReloadInfo(v[1], cid)
-			if (param == 'spells') or (param == 'spell') then
-			for _, pid in ipairs(getPlayersOnline()) do
-			setPlayerStorageValue(pid, 45670, 0)
-			setPlayerStorageValue(pid, 45671, 0)
-			setPlayerStorageValue(pid, 45672, 0)
-			end
-			end
 			str = "Reloading " .. v[2] .. "..."
 			break
 		end

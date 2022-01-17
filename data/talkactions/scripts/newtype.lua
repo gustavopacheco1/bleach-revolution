@@ -1,24 +1,59 @@
-local quantidadeDeOutfits = 1500 -- < coloque a quantidade de outfits do seu servidor.
+local function checkType(value)
+	return not(value < 1 or value > 1000)
+end
 
 function onSay(cid, words, param, channel)
+	if(param == '') then
+		doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "Command param required.")
+		return true
+	end
 
-if(param == "") then
-return doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "Complemente o comando com o parametro adequado.")
-end
+	local t, pid = string.explode(param, ","), cid
+	if(t[2]) then
+		pid = getPlayerByNameWildcard(t[2])
+		if(not pid or (isPlayerGhost(pid) and getPlayerGhostAccess(pid) > getPlayerGhostAccess(cid))) then
+			doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "Player " .. t[2] .. " not found.")
+			return true
+		end
+	end
 
-param = string.explode(param, ",")
+	local period, tmp = -1, tonumber(t[3])
+	if(t[3] and tmp) then
+		period = tmp
+	end
 
-if (words == "/newtype") and (not param[2]) then 
-if (tonumber(param[1]) <= quantidadeDeOutfits) then 
-doCreatureChangeOutfit(cid, {lookType = param[1]})
-setPlayerStorageValue(cid, 578955, getCreatureOutfit(cid).lookType)
-else
-doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "Esta Outfit nao existe.")
-end
-else
-doCreatureChangeOutfit(getPlayerByName(param[2]), {lookType = param[1]})
-setPlayerStorageValue(getPlayerByName(param[2]), 578955, getCreatureOutfit(cid).lookType)
-end
-		
-return true 
+	if(not isNumeric(t[1])) then
+		if(getMonsterInfo(t[1])) then
+			doSetMonsterOutfit(pid, t[1], period)
+		else
+			doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "Such outfit does not exist.")
+		end
+
+		return true
+	end
+
+	t[1] = tonumber(t[1])
+	if(not checkType(t[1])) then
+		local item = getItemInfo(t[1])
+		if(item) then
+			doSetItemOutfit(pid, t[1], period)
+			return true
+		end
+
+		doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "Such outfit does not exist.")
+		return true
+	end
+
+	local tmp = getCreatureOutfit(pid)
+	tmp.lookType = t[1]
+
+	if(t[3]) then
+		t[3] = tonumber(t[3])
+		if(checkType(t[3])) then
+			tmp.lookMount = t[3]
+		end
+	end
+
+	doCreatureChangeOutfit(pid, tmp)
+	return true
 end

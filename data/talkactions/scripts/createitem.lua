@@ -10,9 +10,12 @@ function onSay(cid, words, param, channel)
 
 	local id = tonumber(t[1])
 	if(not id) then
-		id = getItemIdByName(t[1], false)
+		errors(false)
+		id = getItemIdByName(t[1])
+		errors(true)
+
 		if(not id) then
-			doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "Item wich such name does not exists.")
+			doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "Item with such name does not exists.")
 			return true
 		end
 	end

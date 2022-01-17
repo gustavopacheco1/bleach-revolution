@@ -1,30 +1,24 @@
 function onSay(cid, words, param, channel)
-
-if exhaustion.check(cid, 11111) == TRUE then
-		doPlayerSendCancel(cid, "You need wait seconds to use war commands.")
-return false
-end
-
 	local guild = getPlayerGuildId(cid)
 	if(not guild or getPlayerGuildLevel(cid) < GUILDLEVEL_LEADER) then
-		doPlayerSendChannelMessage(cid, "", "You cannot execute this talkaction.", TALKTYPE_CHANNEL_W, CHANNEL_GUILD)
+		doPlayerSendChannelMessage(cid, "", "You cannot execute this talkaction.", TALKTYPE_CHANNEL_HIGHLIGHT, CHANNEL_GUILD)
 		return true
 	end
 
 	local t = string.explode(param, ",")
 	if(not t[2]) then
-		doPlayerSendChannelMessage(cid, "", "Not enough param(s).", TALKTYPE_CHANNEL_W, CHANNEL_GUILD)
+		doPlayerSendChannelMessage(cid, "", "Not enough param(s).", TALKTYPE_CHANNEL_HIGHLIGHT, CHANNEL_GUILD)
 		return true
 	end
 
 	local enemy = getGuildId(t[2])
 	if(not enemy) then
-		doPlayerSendChannelMessage(cid, "", "Guild \"" .. t[2] .. "\" does not exists.", TALKTYPE_CHANNEL_W, CHANNEL_GUILD)
+		doPlayerSendChannelMessage(cid, "", "Guild \"" .. t[2] .. "\" does not exists.", TALKTYPE_CHANNEL_HIGHLIGHT, CHANNEL_GUILD)
 		return true
 	end
 
 	if(enemy == guild) then
-		doPlayerSendChannelMessage(cid, "", "You cannot perform war action on your own guild.", TALKTYPE_CHANNEL_W, CHANNEL_GUILD)
+		doPlayerSendChannelMessage(cid, "", "You cannot perform war action on your own guild.", TALKTYPE_CHANNEL_HIGHLIGHT, CHANNEL_GUILD)
 		return true
 	end
 
@@ -42,7 +36,7 @@ end
 
 		tmp = db.getResult("SELECT `id`, `begin`, `end`, `payment` FROM `guild_wars` WHERE " .. query .. " AND `status` = 0")
 		if(tmp:getID() == -1) then
-			doPlayerSendChannelMessage(cid, "", "Currently there's no pending invitation for a war with " .. enemyName .. ".", TALKTYPE_CHANNEL_W, CHANNEL_GUILD)
+			doPlayerSendChannelMessage(cid, "", "Currently there's no pending invitation for a war with " .. enemyName .. ".", TALKTYPE_CHANNEL_HIGHLIGHT, CHANNEL_GUILD)
 			return true
 		end
 
@@ -52,7 +46,7 @@ end
 
 			_tmp:free()
 			if(state) then
-				doPlayerSendChannelMessage(cid, "", "Your guild balance is too low to accept this invitation.", TALKTYPE_CHANNEL_W, CHANNEL_GUILD)
+				doPlayerSendChannelMessage(cid, "", "Your guild balance is too low to accept this invitation.", TALKTYPE_CHANNEL_HIGHLIGHT, CHANNEL_GUILD)
 				return true
 			end
 
@@ -101,7 +95,7 @@ end
 		end
 
 		if(str ~= "") then
-			doPlayerSendChannelMessage(cid, "", str, TALKTYPE_CHANNEL_W, CHANNEL_GUILD)
+			doPlayerSendChannelMessage(cid, "", str, TALKTYPE_CHANNEL_HIGHLIGHT, CHANNEL_GUILD)
 			return true
 		end
 
@@ -120,7 +114,7 @@ end
 			local state = tmp:getID() < 0 or tmp:getDataInt("balance") < payment
 			tmp:free()
 			if(state) then
-				doPlayerSendChannelMessage(cid, "", "Your guild balance is too low for such payment.", TALKTYPE_CHANNEL_W, CHANNEL_GUILD)
+				doPlayerSendChannelMessage(cid, "", "Your guild balance is too low for such payment.", TALKTYPE_CHANNEL_HIGHLIGHT, CHANNEL_GUILD)
 				return true
 			end
 
@@ -159,7 +153,7 @@ end
 	end
 
 	if(status == 4) then
-		doPlayerSendChannelMessage(cid, "", "Currently there's no pending war truce from " .. enemyName .. ".", TALKTYPE_CHANNEL_W, CHANNEL_GUILD)
+		doPlayerSendChannelMessage(cid, "", "Currently there's no pending war truce from " .. enemyName .. ".", TALKTYPE_CHANNEL_HIGHLIGHT, CHANNEL_GUILD)
 		return true
 	end
 
@@ -167,19 +161,18 @@ end
 	if(tmp:getID() ~= -1) then
 		if(tmp:getDataInt("end") > 0) then
 			tmp:free()
-			doPlayerSendChannelMessage(cid, "", "You cannot request ending for war with " .. enemyName .. ".", TALKTYPE_CHANNEL_W, CHANNEL_GUILD)
+			doPlayerSendChannelMessage(cid, "", "You cannot request ending for war with " .. enemyName .. ".", TALKTYPE_CHANNEL_HIGHLIGHT, CHANNEL_GUILD)
 			return true
 		end
 
 		local query = "UPDATE `guild_wars` SET `status` = 4, `end` = " .. os.time() .. " WHERE `id` = " .. tmp:getDataInt("id")
 		tmp:free()
 
-           exhaustion.set(cid, 11111, 5.0)
+		db.executeQuery(query)
 		doBroadcastMessage(getPlayerGuildName(cid) .. " has signed an armstice declaration on a war with " .. enemyName .. ".", MESSAGE_EVENT_ADVANCE)
 		return true
 	end
 
-	doPlayerSendChannelMessage(cid, "", "Currently there's no active war with " .. enemyName .. ".", TALKTYPE_CHANNEL_W, CHANNEL_GUILD)
-
+	doPlayerSendChannelMessage(cid, "", "Currently there's no active war with " .. enemyName .. ".", TALKTYPE_CHANNEL_HIGHLIGHT, CHANNEL_GUILD)
 	return true
 end
