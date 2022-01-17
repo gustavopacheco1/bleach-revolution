@@ -1,11 +1,11 @@
-function executeClean()
+function executeClean(interval)
 	doCleanMap()
-	doBroadcastMessage("[CLEAN AUTOMATIC] O mapa, foi limpo, proxixa limpeza em 2 horas..")
+	doBroadcastMessage("Game map cleaned, next clean in " .. table.concat(string.timediff(interval / 1000)) .. ".")
 	return true
 end
 
 function onThink(interval)
-	doBroadcastMessage("[CLEAN AUTOMATIC] O mapa sera limpo em 30 segundos, retire do chão os seus itens!")
-	addEvent(executeClean, 30000)
+	doBroadcastMessage("Game map cleaning within 30 seconds, please pick up your items!")
+	addEvent(executeClean, 240000, interval)
 	return true
 end
