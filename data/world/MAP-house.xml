@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
 <houses>
-	<house name="Unnamed House #1" houseid="1" entryx="1055" entryy="1043" entryz="7" rent="0" townid="1" size="12" />
-	<house name="Unnamed House #2" houseid="2" entryx="1065" entryy="1043" entryz="7" rent="0" townid="1" size="12" />
+	<house name="" houseid="1" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="12" />
+	<house name="" houseid="2" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="12" />
 </houses>
