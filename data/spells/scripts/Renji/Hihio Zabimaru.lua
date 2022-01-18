@@ -10,7 +10,7 @@ return FALSE
 end
 
 exhaustion.set(cid, 120, 1)
-local position1 = {x=getThingPosition(getCreatureTarget(cid)).x+1, y=getThingPosition(getCreatureTarget(cid)).y, z=getThingPosition(getCreatureTarget(cid)).z}
+local position1 = {x=getThingPosition(getCreatureTarget(cid)).x+2, y=getThingPosition(getCreatureTarget(cid)).y, z=getThingPosition(getCreatureTarget(cid)).z}
 doSendMagicEffect(position1, 542)
 return doCombat(cid, combat, var)
 end
