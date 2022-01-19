@@ -294,8 +294,6 @@
 	<movevent type="DeEquip" itemid="11240" slot="feet" level="70" event="function" value="onDeEquipItem"/>
 	<movevent type="Equip" itemid="11303" slot="feet" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="11303" slot="feet" event="function" value="onDeEquipItem"/>
-	<movevent type="Equip" itemid="2525" slot="feet" event="function" value="onEquipItem"/>
-	<movevent type="DeEquip" itemid="2525" slot="feet" event="function" value="onDeEquipItem"/>
 	<movevent type="Equip" itemid="7417" slot="feet" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="7417" slot="feet" event="function" value="onDeEquipItem"/>
 	<movevent type="Equip" itemid="8869" slot="feet" event="function" value="onEquipItem"/>
