@@ -11,7 +11,7 @@ doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_ORANGE, "Aguarde " .. exhaus
 return false
 end
 local position1 = {x=getThingPosition(getCreatureTarget(cid)).x, y=getThingPosition(getCreatureTarget(cid)).y, z=getThingPosition(getCreatureTarget(cid)).z}
-doSendMagicEffect(position1, 6)
+doSendMagicEffect(position1, 620)
 exhaustion.set(cid, storage, waittime)
 return doCombat(cid, combat, var)
 end

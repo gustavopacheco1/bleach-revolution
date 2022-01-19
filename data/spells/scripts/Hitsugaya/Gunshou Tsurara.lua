@@ -27,6 +27,8 @@ for k = 1, 5 do
 	addEvent(function()
 		if isCreature(cid) then
 			addEvent(onCastSpell1, 0, parameters)
+			local position1 = {x=getThingPosition(getCreatureTarget(cid)).x+1, y=getThingPosition(getCreatureTarget(cid)).y+1, z=getThingPosition(getCreatureTarget(cid)).z}
+doSendMagicEffect(position1, 30)
 		end
 	end, 1 + ((k-1) * 275))
 end

@@ -2,7 +2,6 @@ local combat1 = createCombatObject()
 setCombatParam(combat1, COMBAT_PARAM_HITCOLOR, COLOR_PINK)
 setCombatParam(combat1, COMBAT_PARAM_TYPE, COMBAT_PHYSICALDAMAGE)
 setCombatParam(combat1, COMBAT_PARAM_DISTANCEEFFECT, 7)
-setCombatParam(combat1, COMBAT_PARAM_EFFECT, 602)
 setCombatFormula(combat1, COMBAT_FORMULA_LEVELMAGIC, -15.0, 0, -15.0, 0)
 
 local function onCastSpell1(parameters)
@@ -20,7 +19,6 @@ if exhaustion.check(cid, storage) then
     doPlayerSendCancel(cid, "Aguarde "..(exhaustion.get(cid, storage)).." segundos(s) para usar novamente.")
 	return false
 end
-
 local parameters = {cid = cid, var = var, combat1 = combat1}
 
 
@@ -28,6 +26,8 @@ for k = 1, 5 do
 	addEvent(function()
 		if isCreature(cid) then
 			addEvent(onCastSpell1, 0, parameters)
+			local position1 = {x=getThingPosition(getCreatureTarget(cid)).x+1, y=getThingPosition(getCreatureTarget(cid)).y+1, z=getThingPosition(getCreatureTarget(cid)).z}
+doSendMagicEffect(position1, 602)
 		end
 	end, 1 + ((k-1) * 275))
 end
