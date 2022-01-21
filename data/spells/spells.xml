@@ -20,6 +20,11 @@
 
 
 	<!-- Special -->
+	<!-- Reflect -->
+	<instant name="Soo Zabimaru" words="soo zabimaru" lvl="100" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0"  event="script" value="special/reflect/soo_zabimaru.lua">
+	
+	</instant>
+
 	<!-- Imortal -->
 	<instant name="Resurreccion" words="resurreccion" lvl="100" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0"  event="script" value="special/imortal/resurreccion.lua">
 	
@@ -124,25 +129,20 @@
 	<instant name="Minazuki" words="Minazuki" lvl="200" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="attack/Unohana/Minazuki.lua">
 		<vocation id="67-71" />
 	</instant>
-
 	<instant name="Zanjutsu 2" words="Zanjutsu 2" lvl="300" mana="4000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="150" needlearn="0" event="script" value="attack/Unohana/Zanjutsu 2.lua">
 		<vocation id="67-71" />
 	</instant>
-
 	<instant name="Zanjutsu" words="Zanjutsu" lvl="400" mana="5000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="attack/Unohana/Zanjutsu.lua">
 		<vocation id="67-71" />
 	</instant>
-
 
 	<!-- Zaraki -->
 	<instant name="Kendo" words="Kendo" lvl="200" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="attack/Zaraki/Kendo.lua">
 		<vocation id="37-41" />
 	</instant>
-
 	<instant name="Ryodan" words="Ryodan" lvl="300" mana="4000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="150" needlearn="0" event="script" value="attack/Zaraki/Ryodan.lua">
 		<vocation id="37-41" />
 	</instant>
-
 	<instant name="Ryodan 2" words="Ryodan 2" lvl="400" mana="5000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="attack/Zaraki/Ryodan 2.lua">
 		<vocation id="37-41" />
 	</instant>
@@ -151,11 +151,9 @@
 	<instant name="Hakuda" words="Hakuda" lvl="200" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="attack/Byakuya/Hakuda.lua">
 		<vocation id="43-47" />
 	</instant>
-
 	<instant name="Hakusui" words="Hakusui" lvl="300" mana="4000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="150" needlearn="0" event="script" value="attack/Byakuya/Hakusui.lua">
 		<vocation id="43-47" />
 	</instant>
-
 	<instant name="Saketsu" words="Saketsu" lvl="400" mana="5000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="attack/Byakuya/Saketsu.lua">
 		<vocation id="43-47" />
 	</instant>
@@ -164,11 +162,9 @@
 	<instant name="Burner Finger 1" words="Burner Finger 1" lvl="200" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="attack/Bazz/Burner Finger 1.lua">
 		<vocation id="13-17" />
 	</instant>
-
 	<instant name="Burner Finger 2" words="Burner Finger 2" lvl="300" mana="4000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="150" needlearn="0" event="script" value="attack/Bazz/Burner Finger 2.lua">
 		<vocation id="13-17" />
 	</instant>
-
 	<instant name="Burner Finger 4" words="Burner Finger 4" lvl="400" mana="5000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="attack/Bazz/Burner Finger 4.lua">
 		<vocation id="13-17" />
 	</instant>
@@ -177,11 +173,9 @@
 	<instant name="Getsuga Tenshou" words="Getsuga Tenshou" lvl="200" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="attack/Ichigo/Getsuga Tenshou.lua">
 		<vocation id="1-6" />
 	</instant>
-
 	<instant name="Getsuga" words="Getsuga" lvl="300" mana="4000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="150" needlearn="0" event="script" value="attack/Ichigo/Getsuga.lua">
 		<vocation id="1-6" />
 	</instant>
-
 	<instant name="Getsuga Tenshou Final" words="Getsuga Tenshou Final" lvl="400" mana="5000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="attack/Ichigo/Getsuga Tenshou Final.lua">
 		<vocation id="1-6" />
 	</instant>
@@ -190,11 +184,9 @@
 	<instant name="Gunshou Tsurara" words="Gunshou Tsurara" lvl="200" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="attack/Hitsugaya/Gunshou Tsurara.lua">
 		<vocation id="49-53" />
 	</instant>
-
 	<instant name="Ryuusenka" words="Ryuusenka" lvl="300" mana="4000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="150" needlearn="0" event="script" value="attack/Hitsugaya/Ryuusenka.lua">
 		<vocation id="49-53" />
 	</instant>
-
 	<instant name="Hyouten Hyakkasou" words="Hyouten Hyakkasou" lvl="400" mana="5000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="attack/Hitsugaya/Hyouten Hyakkasou.lua">
 		<vocation id="49-53" />
 	</instant>
@@ -203,11 +195,9 @@
 	<instant name="Zabimaru" words="Zabimaru" lvl="200" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="attack/Renji/Zabimaru.lua">
 		<vocation id="73-77" />
 	</instant>
-
 	<instant name="Hihio Zabimaru" words="Hihio Zabimaru" lvl="300" mana="4000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="150" needlearn="0" event="script" value="attack/Renji/Hihio Zabimaru.lua">
 		<vocation id="73-77" />
 	</instant>
-
 	<instant name="Hikotsu" words="Hikotsu" lvl="400" mana="5000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="attack/Renji/Hikotsu.lua">
 		<vocation id="73-77" />
 	</instant>
@@ -216,11 +206,9 @@
 	<instant name="Tsugi No Mai" words="Tsugi No Mai" lvl="200" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="attack/Rukia/Tsugi No Mai.lua">
 		<vocation id="55-59" />
 	</instant>
-
 	<instant name="San No Mai" words="San No Mai" lvl="300" mana="4000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="150" needlearn="0" event="script" value="attack/Rukia/San No Mai.lua">
 		<vocation id="55-59" />
 	</instant>
-
 	<instant name="Juuhaku" words="Juuhaku" lvl="400" mana="5000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="attack/Rukia/Juuhaku.lua">
 		<vocation id="55-59" />
 	</instant>
@@ -229,11 +217,9 @@
 	<instant name="Shun Shun Rikka" words="Shun Shun Rikka" lvl="200" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="attack/Orihime/Shun Shun Rikka.lua">
 		<vocation id="19-23" />
 	</instant>
-
 	<instant name="Santen Kesshun" words="Santen Kesshun" lvl="300" mana="4000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="150" needlearn="0" event="script" value="attack/Orihime/Santen Kesshun.lua">
 		<vocation id="19-23" />
 	</instant>
-
 	<instant name="Soten Kisshun" words="Soten Kisshun" lvl="400" mana="5000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="attack/Orihime/Soten Kisshun.lua">
 		<vocation id="19-23" />
 	</instant>
@@ -242,11 +228,9 @@
 	<instant name="Seele Schneiders" words="Seele Schneiders" lvl="200" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="attack/Uryu/Seele Schneiders.lua">
 		<vocation id="25-29" />
 	</instant>
-
 	<instant name="Ginrei Kojaku" words="Ginrei Kojaku" lvl="300" mana="4000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="150" needlearn="0" event="script" value="attack/Uryu/Ginrei Kojaku.lua">
 		<vocation id="25-29" />
 	</instant>
-
 	<instant name="Schneiders" words="Schneiders" lvl="400" mana="5000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="attack/Uryu/Schneiders.lua">
 		<vocation id="25-29" />
 	</instant>
@@ -255,11 +239,9 @@
 	<instant name="Cero" words="Cero" lvl="200" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="attack/Nelliel/Cero.lua">
 		<vocation id="61-65" />
 	</instant>
-
 	<instant name="Doble Cero" words="Doble Cero" lvl="300" mana="4000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="150" needlearn="0" event="script" value="attack/Nelliel/Doble Cero.lua">
 		<vocation id="61-65" />
 	</instant>
-
 	<instant name="Doble Cero 2" words="Doble Cero 2" lvl="400" mana="5000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="attack/Nelliel/Doble Cero 2.lua">
 		<vocation id="61-65" />
 	</instant>
@@ -268,11 +250,9 @@
 	<instant name="El Directo" words="El Directo" lvl="200" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="attack/Chad/El Directo.lua">
 		<vocation id="7-11" />
 	</instant>
-
 	<instant name="La Muerte" words="La Muerte" lvl="300" mana="4000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="150" needlearn="0" event="script" value="attack/Chad/La Muerte.lua">
 		<vocation id="7-11" />
 	</instant>
-
 	<instant name="La Muerte 2" words="La Muerte 2" lvl="400" mana="5000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="attack/Chad/La Muerte 2.lua">
 		<vocation id="7-11" />
 	</instant>

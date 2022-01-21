@@ -50,6 +50,8 @@ function onLogin(cid)
     registerCreatureEvent(cid, "AdvanceSave")
     registerCreatureEvent(cid, "recordIp")
     registerCreatureEvent(cid, "PlayerTrade")
+    registerCreatureEvent(cid, "Imortal")
+    registerCreatureEvent(cid, "Reflect")
     
     if getPlayerLevel(cid) > 1 then setPlayerStorageValue(cid, 171994, 1) end
     doCreatureSetStorage(cid, "save", (os.time() + 120))

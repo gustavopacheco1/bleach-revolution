@@ -13,4 +13,6 @@
     <event type="login" name="recordIp" event="script" value="recordIp.lua"/>
     <event type="extendedopcode" name="ExtendedOpcode" event="script" value="extendedopcode.lua" />
     <event type="tradeaccept" name="PlayerTrade" event="script" value="playerTrade.lua"/>
+    <event type="statschange" name="Imortal" event="script" value="spells/imortal.lua"/>
+    <event type="statschange" name="Reflect" event="script" value="spells/reflect.lua"/>
 </creaturescripts>
