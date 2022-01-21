@@ -19188,55 +19188,55 @@
         <attribute key="weight" value="5000" />
     </item>
     <item id="15001" article="um(a)" name="Barragan Helmet">
-        <attribute key="description" value="Chakra e vida regeneration +8000/s, Vida e Chakra +500" />
+        <attribute key="description" value="Chakra e vida regeneration +5000/s, Vida e Chakra +500" />
         <attribute key="weight" value="1000" />
         <attribute key="armor" value="20" />
         <attribute key="maxhealthpoints" value="+500." />
         <attribute key="maxmanapoints" value="+500." />
-        <attribute key="manaGain" value="8000" />
+        <attribute key="manaGain" value="5000" />
         <attribute key="manaTicks" value="1000" />
-        <attribute key="healthGain" value="8000" />
+        <attribute key="healthGain" value="5000" />
         <attribute key="healthTicks" value="1000" />
         <attribute key="slotType" value="head" />
         <attribute key="showattributes" value="1" />
     </item>
     <item id="15004" article="um(a)" name="Barragan Armor">
-        <attribute key="description" value="Chakra e vida regeneration +8000/s, Vida e Chakra +400" />
+        <attribute key="description" value="Chakra e vida regeneration +5000/s, Vida e Chakra +400" />
         <attribute key="weight" value="3000" />
         <attribute key="armor" value="10" />
         <attribute key="maxhealthpoints" value="+400." />
         <attribute key="maxmanapoints" value="+400." />
-        <attribute key="manaGain" value="8000" />
+        <attribute key="manaGain" value="5000" />
         <attribute key="manaTicks" value="1000" />
-        <attribute key="healthGain" value="8000" />
+        <attribute key="healthGain" value="5000" />
         <attribute key="healthTicks" value="1000" />
         <attribute key="slotType" value="body" />
         <attribute key="showattributes" value="1" />
     </item>
     <item id="15003" article="um(a)" name="Barragan Legs">
-        <attribute key="description" value="Chakra e vida regeneration +8000/s, Vida e Chakra +300" />
+        <attribute key="description" value="Chakra e vida regeneration +5000/s, Vida e Chakra +300" />
         <attribute key="weight" value="3000" />
         <attribute key="armor" value="10" />
         <attribute key="maxhealthpoints" value="+1000." />
         <attribute key="maxmanapoints" value="+1000." />
-        <attribute key="manaGain" value="8000" />
-        <attribute key="manaTicks" value="1200" />
-        <attribute key="healthGain" value="8000" />
+        <attribute key="manaGain" value="5000" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="5000" />
         <attribute key="healthTicks" value="1000" />
         <attribute key="slotType" value="legs" />
         <attribute key="showattributes" value="1" />
     </item>
     <item id="15002" article="um(a)" name="Barragan Boots">
-        <attribute key="description" value="Chakra e vida regeneration +8000/s, +150 speed, Vida e Chakra +100" />
+        <attribute key="description" value="Chakra e vida regeneration +5000/s, +150 speed, Vida e Chakra +100" />
         <attribute key="weight" value="2100" />
         <attribute key="armor" value="10" />
         <attribute key="maxhealthpoints" value="+1000." />
         <attribute key="maxmanapoints" value="+1000." />
         <attribute key="speed" value="150" />
-        <attribute key="manaGain" value="1500" />
+        <attribute key="manaGain" value="5000" />
         <attribute key="manaTicks" value="1000" />
-        <attribute key="healthGain" value="8000" />
-        <attribute key="healthTicks" value="8000" />
+        <attribute key="healthGain" value="5000" />
+        <attribute key="healthTicks" value="1000" />
         <attribute key="slotType" value="feet" />
         <attribute key="showattributes" value="1" />
     </item>

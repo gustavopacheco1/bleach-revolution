@@ -2,7 +2,7 @@
 
 <monster name="Adjuchas" nameDescription="Adjuchas" race="blood" experience="150" speed="400" manacost="0">
 
-<health now="900000" max="900000"/>
+<health now="400000" max="400000"/>
 
 <look type="45" head="0" body="94" legs="79" feet="79" corpse="5527"/>
 
@@ -27,7 +27,7 @@
 
 <attacks>
 
-<attack name="melee" interval="2000" min="-63000" max="- 63100"/>
+<attack name="melee" interval="2000" min="-50100" max="- 50500"/>
 </attacks>
 
 <defenses armor="40" defense="40"/>
