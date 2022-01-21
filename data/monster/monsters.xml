@@ -34,6 +34,15 @@
 	
 	<monster name="Trainer" file="Trainer.xml"/>
 	
+	<monster name="Barragan" file="hunt/Barragan.xml"/>
+	 
+	<monster name="Red Hollow" file="hunt/Red Hollow.xml"/>
+	
+	<monster name="Nnoitra" file="hunt/Nnoitra.xml"/>
+	 
+	
+	
+	
 	
 	
 	
