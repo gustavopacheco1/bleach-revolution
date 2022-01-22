@@ -1,7 +1,11 @@
 function onStatsChange(cid, attacker, type, combat, value)
-    if getPlayerStorageValue(cid, "imortal") > 0 then
-        return false
+    if not (value >= 1 and (type == STATSCHANGE_HEALTHLOSS or (type == STATSCHANGE_MANALOSS and getCreatureCondition(cid, CONDITION_MANASHIELD)))) then
+        return true
     end
     
-    return true
+    if not (getPlayerStorageValue(cid, "imortal") > 0) then
+        return true
+    end
+    
+    return false
 end
