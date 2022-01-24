@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <monster name="Trainer" nameDescription="a Trainer" race="blood" experience="1000000" speed="0" manacost="0">
     <health now="1550000000" max="1550000000" />
-    <look type="1248" />
+    <look type="95" />
     <strategy attack="100" defense="0" />
     <flags>
         <flag summonable="0" />
