@@ -28,6 +28,6 @@ function onSay(cid, words, param)
         end
         text = text .. "\n"
     end
-    doShowTextDialog(cid, 13082, text)
+    doShowTextDialog(cid, 10854, text)
     return true
 end
