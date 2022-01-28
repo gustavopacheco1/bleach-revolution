@@ -1,133 +1,88 @@
+local combat = createCombatObject()
+setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_PHYSICALDAMAGE)
+setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -325.0, 0, -335.0, 0)
+
 local combat1 = createCombatObject()
-setCombatParam(combat1, COMBAT_PARAM_TYPE, COMBAT_PHYSICALDAMAGE)
-setCombatFormula(combat1, COMBAT_FORMULA_LEVELMAGIC, -325.0, 0, -335.0, 0)
+setCombatParam(combat1, COMBAT_PARAM_EFFECT, 484)
 
 local combat2 = createCombatObject()
-setCombatParam(combat2, COMBAT_PARAM_TYPE, COMBAT_PHYSICALDAMAGE)
 setCombatParam(combat2, COMBAT_PARAM_EFFECT, 484)
 
 local combat3 = createCombatObject()
-setCombatParam(combat3, COMBAT_PARAM_TYPE, COMBAT_PHYSICALDAMAGE)
 setCombatParam(combat3, COMBAT_PARAM_EFFECT, 484)
 
 local combat4 = createCombatObject()
-setCombatParam(combat4, COMBAT_PARAM_TYPE, COMBAT_PHYSICALDAMAGE)
-setCombatParam(combat4, COMBAT_PARAM_EFFECT, 484)
+setCombatParam(combat3, COMBAT_PARAM_EFFECT, 484)
 
-local combat5 = createCombatObject()
-setCombatParam(combat5, COMBAT_PARAM_TYPE, COMBAT_PHYSICALDAMAGE)
-setCombatParam(combat5, COMBAT_PARAM_EFFECT, 484)
-
-
-arr1 = {
-{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
-{0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0},
-{0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0},
-{0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0},
-{0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0},
-{0, 1, 1, 1, 1, 2, 1, 1, 1, 1, 0},
-{0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0},
-{0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0},
-{0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0},
-{0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0},
-{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+local area_damage = {
+    {0, 0, 0, 0, 1, 0, 0, 0, 0,},
+    {0, 0, 0, 1, 1, 1, 0, 0, 0,},
+    {0, 0, 1, 1, 1, 1, 1, 0, 0,},
+    {0, 1, 1, 1, 1, 1, 1, 1, 0,},
+    {1, 1, 1, 1, 2, 1, 1, 1, 1,},
+    {0, 1, 1, 1, 1, 1, 1, 1, 0,},
+    {0, 0, 1, 1, 1, 1, 1, 0, 0,},
+    {0, 0, 0, 1, 1, 1, 0, 0, 0,},
+    {0, 0, 0, 0, 1, 0, 0, 0, 0,},
+    {0, 0, 0, 0, 0, 0, 0, 0, 0,},
 }
 
-arr2 = {
-{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
-{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
-{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
-{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
-{0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0},
-{0, 0, 0, 0, 1, 2, 1, 0, 0, 0, 0},
-{0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0},
-{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
-{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
-{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
-{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+local area_1 = {
+    {0, 1, 0},
+    {1, 2, 1},
+    {0, 1, 0},
 }
 
-arr3 = {
-{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
-{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
-{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
-{0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0},
-{0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0},
-{0, 0, 0, 1, 0, 2, 0, 1, 0, 0, 0},
-{0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0},
-{0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0},
-{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
-{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
-{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+local area_2 = {
+    {0, 0, 1, 0, 0},
+    {0, 1, 0, 1, 0},
+    {1, 0, 2, 0, 1},
+    {0, 1, 0, 1, 0},
+    {0, 0, 1, 0, 0},
 }
 
-arr4 = {
-{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
-{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
-{0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0},
-{0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0},
-{0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0},
-{0, 0, 1, 0, 0, 2, 0, 0, 1, 0, 0},
-{0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0},
-{0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0},
-{0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0},
-{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
-{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+local area_3 = {
+    {0, 0, 0, 1, 0, 0, 0},
+    {0, 0, 1, 0, 1, 0, 0},
+    {0, 1, 0, 0, 0, 1, 0},
+    {1, 0, 0, 2, 0, 0, 1},
+    {0, 1, 0, 0, 0, 1, 0},
+    {0, 0, 1, 0, 1, 0, 0},
+    {0, 0, 0, 1, 0, 0, 0},
 }
 
-arr5 = {
-{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
-{0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0},
-{0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0},
-{0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0},
-{0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0},
-{0, 1, 0, 0, 0, 2, 0, 0, 0, 1, 0},
-{0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0},
-{0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0},
-{0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0},
-{0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0},
-{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+local area_4 = {
+    {0, 0, 0, 0, 1, 0, 0, 0, 0},
+    {0, 0, 0, 1, 0, 1, 0, 0, 0},
+    {0, 0, 1, 0, 0, 0, 1, 0, 0},
+    {0, 1, 0, 0, 0, 0, 0, 1, 0},
+    {1, 0, 0, 0, 2, 0, 0, 0, 1},
+    {0, 1, 0, 0, 0, 0, 0, 1, 0},
+    {0, 0, 1, 0, 0, 0, 1, 0, 0},
+    {0, 0, 0, 1, 0, 1, 0, 0, 0},
+    {0, 0, 0, 0, 1, 0, 0, 0, 0},
 }
 
-local area1 = createCombatArea(arr1)
-local area2 = createCombatArea(arr2)
-local area3 = createCombatArea(arr3)
-local area4 = createCombatArea(arr4)
-local area5 = createCombatArea(arr5)
-
-setCombatArea(combat1, area1)
-setCombatArea(combat2, area2)
-setCombatArea(combat3, area3)
-setCombatArea(combat4, area4)
-setCombatArea(combat5, area5)
-
-local function onCastSpell1(parameters)
-    doCombat(parameters.cid, parameters.combat1, parameters.var)
-end
-
-local function onCastSpell2(parameters)
-    doCombat(parameters.cid, parameters.combat2, parameters.var)
-end
-
-local function onCastSpell3(parameters)
-    doCombat(parameters.cid, parameters.combat3, parameters.var)
-end
-
-local function onCastSpell4(parameters)
-    doCombat(parameters.cid, parameters.combat4, parameters.var)
-end
-
-local function onCastSpell5(parameters)
-    doCombat(parameters.cid, parameters.combat5, parameters.var)
-end
-
+setCombatArea(combat, createCombatArea(area_damage))
+setCombatArea(combat1, createCombatArea(area_1))
+setCombatArea(combat2, createCombatArea(area_2))
+setCombatArea(combat3, createCombatArea(area_3))
+setCombatArea(combat4, createCombatArea(area_4))
 
 function onCastSpell(cid, var)
-local parameters = { cid = cid, var = var, combat1 = combat1, combat2 = combat2, combat3 = combat3, combat4 = combat4, combat5 = combat5 }
-addEvent(onCastSpell1, 0, parameters)    
-addEvent(onCastSpell2, 0, parameters)
-addEvent(onCastSpell3, 150, parameters)
-addEvent(onCastSpell4, 300, parameters)
-addEvent(onCastSpell5, 450, parameters)
-return true
+    doCombat(cid, combat, var)
+    doCombat(cid, combat1, var)
+
+    addEvent(function()
+        doCombat(cid, combat2, var)
+    end, 150)
+
+    addEvent(function()
+        doCombat(cid, combat3, var)
+    end, 300)
+
+    addEvent(function()
+        doCombat(cid, combat4, var)
+    end, 450)
+    return true
 end

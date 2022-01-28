@@ -1,37 +1,30 @@
-local combat1 = createCombatObject()
-setCombatParam(combat1, COMBAT_PARAM_HITCOLOR, COLOR_PINK)
-setCombatParam(combat1, COMBAT_PARAM_TYPE, COMBAT_PHYSICALDAMAGE)
-setCombatParam(combat1, COMBAT_PARAM_DISTANCEEFFECT, 29)
-setCombatFormula(combat1, COMBAT_FORMULA_LEVELMAGIC, -15.0, 0, -15.0, 0)
+local combat = createCombatObject()
+setCombatParam(combat, COMBAT_PARAM_HITCOLOR, COLOR_PINK)
+setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_PHYSICALDAMAGE)
+setCombatParam(combat, COMBAT_PARAM_DISTANCEEFFECT, 29)
+setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -15.0, 0, -15.0, 0)
 
-local function onCastSpell1(parameters)
-doCombat(parameters.cid, parameters.combat1, parameters.var)
-end
-local function onCastSpell2(parameters)
-doCombat(parameters.cid, parameters.combat2, parameters.var)
-end
- 
 function onCastSpell(cid, var)
-local waittime = 1.5 -- Tempo de exhaustion
-local storage = 45670 -- nÃ£o mecha
+    if exhaustion.check(cid, 45670) then
+        doPlayerSendCancel(cid, "You are exhausted.")
+        return false
+    end
 
-if exhaustion.check(cid, storage) then
-    doPlayerSendCancel(cid, "Aguarde "..(exhaustion.get(cid, storage)).." segundos(s) para usar novamente.")
-	return false
-end
+    for i = 0, 4 do
+        addEvent(function()
+            if isCreature(cid) then
+                local target_position =  getCreaturePosition(getCreatureTarget(cid))
+                doSendMagicEffect({
+                    x = target_position.x + 1,
+                    y = target_position.y + 1,
+                    z = target_position.z
+                }, 30)
 
-local parameters = {cid = cid, var = var, combat1 = combat1}
+				doCombat(cid, combat, var)
+            end
+        end, i * 275)
+    end
 
-
-for k = 1, 5 do
-	addEvent(function()
-		if isCreature(cid) then
-			addEvent(onCastSpell1, 0, parameters)
-			local position1 = {x=getThingPosition(getCreatureTarget(cid)).x+1, y=getThingPosition(getCreatureTarget(cid)).y+1, z=getThingPosition(getCreatureTarget(cid)).z}
-doSendMagicEffect(position1, 30)
-		end
-	end, 1 + ((k-1) * 275))
-end
-exhaustion.set(cid, storage, waittime)
-return true
+    exhaustion.set(cid, 45670, 1)
+    return true
 end

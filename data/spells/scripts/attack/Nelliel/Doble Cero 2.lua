@@ -3,15 +3,18 @@ setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_PHYSICALDAMAGE)
 setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -60.0, 0, -60.0, 0)
 
 function onCastSpell(cid, var)
-local waittime = 1 -- Tempo de exhaustion
-local storage = 115818
+    if exhaustion.check(cid, 115818) then
+        doPlayerSendCancel(cid, combat, var)
+        return false
+    end
 
-if exhaustion.check(cid, storage) then
-doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_ORANGE, "Aguarde " .. exhaustion.get(cid, storage) .. " segundos para usar a spell novamente.")
-return false
-end
-local position1 = {x=getThingPosition(getCreatureTarget(cid)).x+2, y=getThingPosition(getCreatureTarget(cid)).y+1, z=getThingPosition(getCreatureTarget(cid)).z}
-exhaustion.set(cid, storage, waittime)
-doSendMagicEffect(position1, 686)
-return doCombat(cid, combat, var)
+    local target_position = getCreaturePosition(getCreatureTarget(cid))
+    doSendMagicEffect({
+        x = target_position.x + 2,
+        y = target_position.y + 1,
+        z = target_position.z
+    }, 686)
+    
+    exhaustion.set(cid, 115818, 1)
+    return doCombat(cid, combat, var)
 end
