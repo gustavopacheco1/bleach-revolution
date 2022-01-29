@@ -54,6 +54,7 @@
 	<talkaction access="0-6" words="!pvp;/pvp" event="script" value="pvp.lua"/>
 	<talkaction access="0-6" words="!transform;transform;!transformar;transformar;!revert;revert;!reverter;reverter" event="script" value="transform.lua"/>
 	<talkaction access="0-6" words="!techniques;!tecnicas;!spells" event="script" value="spells.lua"/>
+	<talkaction access="0-6" words="!language;!idioma" event="script" value="language.lua"/>
 
 	<!-- Houses -->
 	<talkaction access="0-6" words="alana res;/buyhouse" filter="word-spaced" event="function" value="houseBuy"/>
