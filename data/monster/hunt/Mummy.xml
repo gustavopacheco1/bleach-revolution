@@ -4,7 +4,7 @@
 
 <health now="900000" max="900000"/>
 
-<look type="57" head="0" body="94" legs="79" feet="79" corpse="5527"/>
+<look type="12" head="0" body="94" legs="79" feet="79" corpse="5527"/>
 
 <targetchange interval="5000" chance="50"/>
 
