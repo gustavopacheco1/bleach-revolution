@@ -2,39 +2,95 @@ local keywordHandler = KeywordHandler:new()
 local npcHandler = NpcHandler:new(keywordHandler)
 NpcSystem.parseParameters(npcHandler)
 
-function onCreatureAppear(cid)    npcHandler:onCreatureAppear(cid) end
-function onCreatureDisappear(cid)    npcHandler:onCreatureDisappear(cid) end
-function onCreatureSay(cid, type, msg)  npcHandler:onCreatureSay(cid, type, msg) end
-function onThink()       npcHandler:onThink() end
+function onCreatureAppear(cid)npcHandler:onCreatureAppear(cid) end
+function onCreatureDisappear(cid)npcHandler:onCreatureDisappear(cid) end
+function onCreatureSay(cid, type, msg)npcHandler:onCreatureSay(cid, type, msg:lower()) end
+function onThink() npcHandler:onThink() end
+function onThink() npcHandler:onThinkCreatureSay() end
 
-local travelNode = keywordHandler:addKeyword({'Karakura'}, StdModule.travel, {npcHandler = npcHandler, level = 1, premium = true, onlyFocus = true, text = 'Bye,Bye ', cost = 0, destination = {x=1030, y=1013, z=7}})
+local talkState = {}
+local travelState = {}
 
-local travelNode = keywordHandler:addKeyword({'Adjuchas City'}, StdModule.travel, {npcHandler = npcHandler, level = 1, premium = true, onlyFocus = true, text = 'Bye,Bye ', cost = 0, destination = {x=1083, y=951, z=7}})
+-- ["nome da cidade em minúsculo"] = {"nome da cidade certo", gold, posição para onde o player irá teleportar, posição do npc da cidade}
+local cities = {
+    ["karakura"] = {"Karakura", 300, {x = 3513, y = 3443, z = 6}, {x = 3512, y = 3443, z = 6}},
+    ["silbern"] = {"Silbern", 300, {x = 3783, y = 3525, z = 6}, {x = 3781, y = 3525, z = 6}}
+}
 
-local travelNode = keywordHandler:addKeyword({'Flying City'}, StdModule.travel, {npcHandler = npcHandler, level = 1, premium = true, onlyFocus = true, text = 'Bye,Bye ', cost = 0, destination = {x=705, y=1151, z=7}})
+function onCreatureSay(cid, type, msg)
+    local talkUser = NPCHANDLER_CONVBEHAVIOR == CONVERSATION_DEFAULT and 0 or cid
+    local npcPos = getNpcPos()
+    msg = msg:lower()
 
-local travelNode = keywordHandler:addKeyword({'Mini Fisher'}, StdModule.travel, {npcHandler = npcHandler, level = 1, premium = true, onlyFocus = true, text = 'Bye,Bye ', cost = 0, destination = {x=751, y=1151, z=7}})
+    if not npcHandler:isFocused(cid) and getDistanceBetween(getThingPos(cid), getNpcPos()) < 5 then
+        if isInArray({"hi", "hello", "oi", "olá"}, msg) then
+            npcHandler:addFocus(cid)
+            travelState[cid] = nil
+            selfSayMultiLanguage(
+                "Hello, I'm Minoru. I help randoms to travel between the cities. I can take you to {Karakura} and {Silbern}. Where do you want to go?",
+                "Olá, eu me chamo Minoru. Ajudo os randoms a navegarem pelas cidades. Eu posso te levar para {Karakura} e {Silbern}. Onde deseja ir?",
+                cid
+            )
+            return true
+        end
+    end
+    
+    if isInArray({"bye", "goodbye", "tchau", "adeus"}, msg) and npcHandler:isFocused(cid) then
+        npcHandler:releaseFocus(cid)
+        selfSayMultiLanguage(
+            "Goodbye!",
+            "Adeus!",
+            cid
+        )
+        return true
+    end
 
-local travelNode = keywordHandler:addKeyword({'Fraccion City'}, StdModule.travel, {npcHandler = npcHandler, level = 1, premium = true, onlyFocus = true, text = 'Bye,Bye ', cost = 0, destination = {x=1254, y=1082, z=7}})
+    if (not npcHandler:isFocused(cid)) then
+        return false
+    end
 
-local travelNode = keywordHandler:addKeyword({'Gilliam City'}, StdModule.travel, {npcHandler = npcHandler, level = 1, premium = true, onlyFocus = true, text = 'Bye,Bye ', cost = 0, destination = {x=879, y=985, z=7}})
+    if cities[msg] then
+        if (npcPos.x == cities[msg][4].x and npcPos.y == cities[msg][4].y and npcPos.z == cities[msg][4].z) then
+            selfSayMultiLanguage(
+                "We're already in " .. cities[msg][1] .. ".",
+                "Nós já estamos em " .. cities[msg][1] .. ".",
+                cid
+            )
+            return true
+        end
 
-local travelNode = keywordHandler:addKeyword({'Grand Fisher City'}, StdModule.travel, {npcHandler = npcHandler, level = 1, premium = true, onlyFocus = true, text = 'Bye,Bye ', cost = 0, destination = {x=, y=1157, z=7}})
+        selfSayMultiLanguage(
+            "Are you sure you want to travel to " .. cities[msg][1] .. " for " .. cities[msg][2] .. " gold coins?",
+            "Você tem certeza que deseja viajar para " .. cities[msg][1] .. " por " .. cities[msg][2] .. " gold coins?",
+            cid
+        )
+        travelState[cid] = msg
+        return true
+    end
 
-local travelNode = keywordHandler:addKeyword({'Grand Fisher Lv 2 City'}, StdModule.travel, {npcHandler = npcHandler, level = 1, premium = true, onlyFocus = true, text = 'Bye,Bye ', cost = 0, destination = {x=1196, y=1031, z=7}})
+    if travelState[cid] == nil then return end
 
-local travelNode = keywordHandler:addKeyword({'Arrancar Hollow City'}, StdModule.travel, {npcHandler = npcHandler, level = 1, premium = true, onlyFocus = true, text = 'Bye,Bye ', cost = 0, destination = {x=646, y=939, z=7}})
+    if msgcontains(msg, "yes") then
+        if not(doPlayerRemoveMoney(cid, cities[travelState[cid]][2])) then
+            selfSayMultiLanguage(
+                "You do not have enough gold coins.",
+                "Você não tem gold coins suficiente.",
+                cid
+            )
+            return true
+        end
 
-local travelNode = keywordHandler:addKeyword({'death forest'}, StdModule.travel, {npcHandler = npcHandler, level = 1, premium = true, onlyFocus = true, text = 'Bye,Bye ', cost = 0, destination = {x=804, y=921, z=6}})
+        selfSayMultiLanguage(
+            "Goodbye!",
+            "Adeus!",
+            cid
+        )
+        doTeleportThing(cid, cities[travelState[cid]][3])
+        npcHandler:releaseFocus(cid)
+    end
+    
+    return true
+end
 
-local travelNode = keywordHandler:addKeyword({'hoshigakure island'}, StdModule.travel, {npcHandler = npcHandler, level = 1, premium = true, onlyFocus = true, text = 'Bye,Bye ', cost = 0, destination = {x=2047, y=1153, z=6}})
-
-local travelNode = keywordHandler:addKeyword({'yukigakure no sato'}, StdModule.travel, {npcHandler = npcHandler, level = 1, premium = true, onlyFocus = true, text = 'Bye,Bye ', cost = 0, destination = {x=1763, y=1109, z=6}})
-
-local travelNode = keywordHandler:addKeyword({'takigakure no sato'}, StdModule.travel, {npcHandler = npcHandler, level = 1, premium = true, onlyFocus = true, text = 'Bye,Bye ', cost = 0, destination = {x=1278, y=1255, z=6}})
-
-local travelNode = keywordHandler:addKeyword({'monte myoboku'}, StdModule.travel, {npcHandler = npcHandler, level = 1, premium = true, onlyFocus = true, text = 'Bye,Bye ', cost = 0, destination = {x=1525, y=604, z=6}})
-
- -- Makes sure the npc reacts when you say hi, bye etc.       
-
+npcHandler:setCallback(CALLBACK_MESSAGE_DEFAULT, creatureSayCallback)
 npcHandler:addModule(FocusModule:new())

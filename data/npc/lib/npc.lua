@@ -2,6 +2,14 @@ function selfSayChannel(cid, message)
 	return selfSay(message, cid, false)
 end
 
+function selfSayMultiLanguage(message_en, message_pt, cid)
+	if getPlayerStorageValue(cid, "language") == "en" then
+		return selfSay(message_en, cid)
+	end
+
+	return selfSay(message_pt, cid)
+end
+
 function selfMoveToThing(id)
 	errors(false)
 	local thing = getThing(id)

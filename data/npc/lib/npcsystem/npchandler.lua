@@ -573,6 +573,48 @@ if(NpcHandler == nil) then
 		end
 	end
 
+	function NpcHandler:onThinkCreatureSay()
+		local callback = self:getCallback(CALLBACK_ONTHINK)
+		if(callback == nil or callback()) then
+			if(NPCHANDLER_TALKDELAY == TALKDELAY_ONTHINK) then
+				if(NPCHANDLER_CONVBEHAVIOR ~= CONVERSATION_DEFAULT) then
+					for cid, talkDelay in pairs(self.talkDelay) do
+						if(talkDelay.time ~= nil and talkDelay.message ~= nil and os.time() >= talkDelay.time) then
+							selfSay(talkDelay.message, cid)
+							self.talkDelay[cid] = nil
+						end
+					end
+				elseif(self.talkDelay.time ~= nil and self.talkDelay.message ~= nil and os.time() >= self.talkDelay.time) then
+					selfSay(self.talkDelay.message)
+					self.talkDelay.time = nil
+					self.talkDelay.message = nil
+				end
+			end
+
+			if(self:processModuleCallback(CALLBACK_ONTHINK)) then
+				if(NPCHANDLER_CONVBEHAVIOR ~= CONVERSATION_DEFAULT) then
+					for pos, focus in pairs(self.focuses) do
+						if(focus ~= nil) then
+							if(not self:isInRange(focus)) then
+								self:onWalkAway(focus)
+							else
+								self:updateFocus()
+							end
+						end
+					end
+				elseif(self.focuses ~= 0) then
+					if(not self:isInRange(self.focuses)) then
+						self:onWalkAway(self.focuses)
+					elseif(os.time()-self.talkStart > self.idleTime) then
+						self:unGreet(self.focuses)
+					else
+						self:updateFocus()
+					end
+				end
+			end
+		end
+	end
+
 	-- Tries to greet the player with the given cid.
 	function NpcHandler:onGreet(cid)
 		if(self:isInRange(cid)) then
