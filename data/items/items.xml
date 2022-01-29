@@ -21811,4 +21811,828 @@
 	<item id="20028" name="swamp"/>
 	<item id="20035" name="tea"/>
 	<item id="20043" name="mead"/>
+	
+	
+	<!-- Barragan Set -->
+	
+	<item id="15001" name="Barragan Helmet">
+        <attribute key="description" value="Chakra e vida regeneration +5000/s" />
+        <attribute key="weight" value="1000" />
+        <attribute key="armor" value="100" />
+        <attribute key="manaGain" value="5000" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="5000" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="head" />
+        <attribute key="showattributes" value="1" />
+    </item>
+    <item id="15004" name="Barragan Armor">
+        <attribute key="description" value="Chakra e vida regeneration +5000/s" />
+        <attribute key="weight" value="3000" />
+        <attribute key="armor" value="150" />
+        <attribute key="manaGain" value="5000" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="5000" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="body" />
+        <attribute key="showattributes" value="1" />
+    </item>
+    <item id="15003" name="Barragan Legs">
+        <attribute key="description" value="Chakra e vida regeneration +5000/s" />
+        <attribute key="weight" value="3000" />
+        <attribute key="armor" value="100" />
+        <attribute key="manaGain" value="5000" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="5000" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="legs" />
+        <attribute key="showattributes" value="1" />
+    </item>
+    <item id="15002" name="Barragan Boots">
+        <attribute key="description" value="Chakra e vida regeneration +5000/s" />
+        <attribute key="weight" value="2100" />
+        <attribute key="armor" value="70" />
+        <attribute key="speed" value="150" />
+        <attribute key="manaGain" value="5000" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="5000" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="feet" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<!-- Founder Set -->
+	
+	<item id="15715" name="Founder Helmet">
+        <attribute key="description" value="Chakra e vida regeneration +2000/s" />
+        <attribute key="weight" value="1000" />
+        <attribute key="armor" value="40" />
+        <attribute key="manaGain" value="2000" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="2000" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="head" />
+        <attribute key="showattributes" value="1" />
+    </item>
+    <item id="15716" name="Founder Armor">
+        <attribute key="description" value="Chakra e vida regeneration +2500/s" />
+        <attribute key="weight" value="3000" />
+        <attribute key="armor" value="50" />
+        <attribute key="manaGain" value="2500" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="2500" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="body" />
+        <attribute key="showattributes" value="1" />
+    </item>
+    <item id="15717" name="Founder Legs">
+        <attribute key="description" value="Chakra e vida regeneration +2500/s" />
+        <attribute key="weight" value="3000" />
+        <attribute key="armor" value="50" />
+        <attribute key="manaGain" value="2500" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="2500" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="legs" />
+        <attribute key="showattributes" value="1" />
+    </item>
+    <item id="15718" name="Founder Boots">
+        <attribute key="description" value="Chakra e vida regeneration +2500/s, />
+        <attribute key="weight" value="2100" />
+        <attribute key="armor" value="40" />
+        <attribute key="speed" value="60" />
+        <attribute key="manaGain" value="2500" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="2500" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="feet" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<!-- Set Vip -->
+	
+	<item id="15723" name="Black Helmet">
+        <attribute key="description" value="Chakra e vida regeneration +3000/s" />
+        <attribute key="weight" value="1000" />
+        <attribute key="armor" value="50" />
+        <attribute key="manaGain" value="3000" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="3000" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="head" />
+        <attribute key="showattributes" value="1" />
+    </item>
+    <item id="15726" name="Black Armor">
+        <attribute key="description" value="Chakra e vida regeneration +3500/s" />
+        <attribute key="weight" value="3000" />
+        <attribute key="armor" value="70" />
+        <attribute key="manaGain" value="3500" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="3500" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="body" />
+        <attribute key="showattributes" value="1" />
+    </item>
+    <item id="15727" name="Black Legs">
+        <attribute key="description" value="Chakra e vida regeneration +3500/s" />
+        <attribute key="weight" value="3000" />
+        <attribute key="armor" value="60" />
+        <attribute key="manaGain" value="3500" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="3500" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="legs" />
+        <attribute key="showattributes" value="1" />
+    </item>
+    <item id="15722" name="Black Boots">
+        <attribute key="description" value="Chakra e vida regeneration +1800/s" />
+        <attribute key="weight" value="2100" />
+        <attribute key="armor" value="40" />
+        <attribute key="speed" value="70" />
+        <attribute key="manaGain" value="1800" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="1800" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="feet" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<!-- sets -->
+	
+	<item id="15056" name="Vasto Lord Helmet">
+        <attribute key="description" value="Chakra e vida regeneration +2000/s" />
+        <attribute key="weight" value="1000" />
+        <attribute key="armor" value="35" />
+        <attribute key="manaGain" value="2000" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="2000" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="head" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<item id="15057" name="Metal Armor">
+        <attribute key="description" value="Chakra e vida regeneration +1800/s" />
+        <attribute key="weight" value="3000" />
+        <attribute key="armor" value="30" />
+        <attribute key="manaGain" value="1800" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="1800" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="body" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<item id="15059" name="Metal Legs">
+        <attribute key="description" value="Chakra e vida regeneration +1500/s" />
+        <attribute key="weight" value="3000" />
+        <attribute key="armor" value="25" />
+        <attribute key="manaGain" value="1500" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="1500" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="legs" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	
+     <!-- Samurai -->  
+	
+	<item id="15077" name="Samurai Helmet">
+        <attribute key="description" value="Chakra e vida regeneration +1000/s" />
+        <attribute key="weight" value="1000" />
+        <attribute key="armor" value="20" />
+        <attribute key="manaGain" value="1000" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="1000" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="head" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<item id="15076" name="Samurai Armor">
+        <attribute key="description" value="Chakra e vida regeneration +1200/s" />
+        <attribute key="weight" value="3000" />
+        <attribute key="armor" value="30" />
+        <attribute key="manaGain" value="1200" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="1200" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="body" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<item id="15078" name="Samurai Legs">
+        <attribute key="description" value="Chakra e vida regeneration +1100/s" />
+        <attribute key="weight" value="3000" />
+        <attribute key="armor" value="25" />
+        <attribute key="manaGain" value="1100" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="1100" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="legs" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<item id="15075" name="Samurai Boots">
+        <attribute key="description" value="Chakra e vida regeneration +900/s" />
+        <attribute key="weight" value="2100" />
+        <attribute key="armor" value="20" />
+        <attribute key="speed" value="20" />
+        <attribute key="manaGain" value="900" />
+        <attribute key="manaTicks" value="900" />
+        <attribute key="healthGain" value="900" />
+        <attribute key="healthTicks" value="900" />
+        <attribute key="slotType" value="feet" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<!-- Ninja -->
+	
+	<item id="15080" name="Ninja Helmet">
+        <attribute key="description" value="Chakra e vida regeneration +500/s" />
+        <attribute key="weight" value="1000" />
+        <attribute key="armor" value="15" />
+        <attribute key="manaGain" value="500" />
+        <attribute key="manaTicks" value="500" />
+        <attribute key="healthGain" value="500" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="head" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	 
+	<item id="15081" name="Ninja Armor">
+        <attribute key="description" value="Chakra e vida regeneration +800/s" />
+        <attribute key="weight" value="3000" />
+        <attribute key="armor" value="20" />
+        <attribute key="manaGain" value="800" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="800" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="body" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<item id="15082" name="Ninja Legs">
+        <attribute key="description" value="Chakra e vida regeneration +700/s" />
+        <attribute key="weight" value="3000" />
+        <attribute key="armor" value="17" />
+        <attribute key="manaGain" value="700" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="700" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="legs" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<!-- Urahara -->
+	
+	<item id="15724" name="Urahara Helmet">
+        <attribute key="description" value="Chakra e vida regeneration +1500/s" />
+        <attribute key="weight" value="1000" />
+        <attribute key="armor" value="28" />
+        <attribute key="manaGain" value="1500" />
+        <attribute key="manaTicks" value="500" />
+        <attribute key="healthGain" value="1500" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="head" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	 
+	  <item id="15111" name="Urahara Armor">
+        <attribute key="description" value="Chakra e vida regeneration +2000/s" />
+        <attribute key="weight" value="3000" />
+        <attribute key="armor" value="40" />
+        <attribute key="manaGain" value="2000" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="2000" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="body" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<item id="15815" name="Urahara Boots">
+        <attribute key="description" value="Chakra e vida regeneration +1400/s" />
+        <attribute key="weight" value="2100" />
+        <attribute key="armor" value="20" />
+        <attribute key="speed" value="30" />
+        <attribute key="manaGain" value="1400" />
+        <attribute key="manaTicks" value="900" />
+        <attribute key="healthGain" value="1400" />
+        <attribute key="healthTicks" value="900" />
+        <attribute key="slotType" value="feet" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<!-- Black Risck -->
+	
+	
+	<item id="11087" name="Black Risck Armor">
+        <attribute key="description" value="Chakra e vida regeneration +1100/s" />
+        <attribute key="weight" value="3000" />
+        <attribute key="armor" value="40" />
+        <attribute key="manaGain" value="1100" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="1100" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="body" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<item id="11088" name="Ninja Legs">
+        <attribute key="description" value="Chakra e vida regeneration +700/s" />
+        <attribute key="weight" value="3000" />
+        <attribute key="armor" value="17" />
+        <attribute key="manaGain" value="700" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="700" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="legs" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<item id="15822" name="Black Risck Boots">
+        <attribute key="description" value="Chakra e vida regeneration +1000/s" />
+        <attribute key="weight" value="2100" />
+        <attribute key="armor" value="20" />
+        <attribute key="speed" value="25" />
+        <attribute key="manaGain" value="1000" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="1000" />
+        <attribute key="healthTicks" value="100" />
+        <attribute key="slotType" value="feet" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	 
+	<!-- Branc Set -->
+	
+	<item id="15193" name="Branck Helmet">
+        <attribute key="description" value="Chakra e vida regeneration +1500/s" />
+        <attribute key="weight" value="1000" />
+        <attribute key="armor" value="30" />
+        <attribute key="manaGain" value="1700" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="1700" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="head" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<item id="15087" name="Branck Armor">
+        <attribute key="description" value="Chakra e vida regeneration +2000/s" />
+        <attribute key="weight" value="3000" />
+        <attribute key="armor" value="40" />
+        <attribute key="manaGain" value="2000" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="2000" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="body" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<item id="15194" name="Branck Legs">
+        <attribute key="description" value="Chakra e vida regeneration +1800/s" />
+        <attribute key="weight" value="3000" />
+        <attribute key="armor" value="35" />
+        <attribute key="manaGain" value="1800" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="1800" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="legs" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<item id="10673" name="Branck Boots">
+        <attribute key="description" value="Chakra e vida regeneration +1000/s" />
+        <attribute key="weight" value="2100" />
+        <attribute key="armor" value="20" />
+        <attribute key="speed" value="25" />
+        <attribute key="manaGain" value="1000" />
+        <attribute key="manaTicks" value="100" />
+        <attribute key="healthGain" value="1000" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="feet" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<!-- Mummy -->
+	
+	<item id="10690" name="Mummy Helmet">
+        <attribute key="description" value="Chakra e vida regeneration +2700/s" />
+        <attribute key="weight" value="1000" />
+        <attribute key="armor" value="45" />
+        <attribute key="manaGain" value="2700" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="2700" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="head" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<item id="10687" name="Mummy Armor">
+        <attribute key="description" value="Chakra e vida regeneration +3000/s" />
+        <attribute key="weight" value="3000" />
+        <attribute key="armor" value="49" />
+        <attribute key="manaGain" value="3000" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="3000" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="body" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<item id="10688" name="Mummy Legs">
+        <attribute key="description" value="Chakra e vida regeneration +2900/s" />
+        <attribute key="weight" value="3000" />
+        <attribute key="armor" value="47" />
+        <attribute key="manaGain" value="2900" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="2900" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="legs" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<item id="10689" name="Mummy Boots">
+        <attribute key="description" value="Chakra e vida regeneration +2600/s" />
+        <attribute key="weight" value="2100" />
+        <attribute key="armor" value="35" />
+        <attribute key="speed" value="35" />
+        <attribute key="manaGain" value="2600" />
+        <attribute key="manaTicks" value="100" />
+        <attribute key="healthGain" value="2600" />
+        <attribute key="healthTicks" value="100" />
+        <attribute key="slotType" value="feet" />
+        <attribute key="showattributes" value="1" />
+    </item>
+
+	<!-- Kyoraku -->
+	
+	<item id="10667" name="Kyoraku Helmet">
+        <attribute key="description" value="Chakra e vida regeneration +2000/s" />
+        <attribute key="weight" value="1000" />
+        <attribute key="armor" value="39" />
+        <attribute key="manaGain" value="2000" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="2000" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="head" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<item id="10661" name="Kyoraku Armor">
+        <attribute key="description" value="Chakra e vida regeneration +2400/s" />
+        <attribute key="weight" value="3000" />
+        <attribute key="armor" value="46" />
+        <attribute key="manaGain" value="2400" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="2400" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="body" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<!-- Blank -->
+	
+	<item id="15222" name="Blank Armor">
+        <attribute key="description" value="Chakra e vida regeneration +2500/s" />
+        <attribute key="weight" value="3000" />
+        <attribute key="armor" value="43" />
+        <attribute key="manaGain" value="2500" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="2500" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="body" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<item id="15229" name="Blank Legs">
+        <attribute key="description" value="Chakra e vida regeneration +2200/s" />
+        <attribute key="weight" value="3000" />
+        <attribute key="armor" value="30" />
+        <attribute key="manaGain" value="2200" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="2200" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="legs" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<!-- Armors -->
+	
+	<item id="15223" name="Hallibel Armor">
+        <attribute key="description" value="Chakra e vida regeneration +2300/s" />
+        <attribute key="weight" value="3000" />
+        <attribute key="armor" value="42" />
+        <attribute key="manaGain" value="2300" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="2300" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="body" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<item id="15224" name="Tousen Armor">
+        <attribute key="description" value="Chakra e vida regeneration +2600/s" />
+        <attribute key="weight" value="3000" />
+        <attribute key="armor" value="45" />
+        <attribute key="manaGain" value="2600" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="2600" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="body" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<item id="15225" name="Nnoitra Armor">
+        <attribute key="description" value="Chakra e vida regeneration +2900/s" />
+        <attribute key="weight" value="3000" />
+        <attribute key="armor" value="47" />
+        <attribute key="manaGain" value="2900" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="2900" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="body" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<item id="15227" name="Zangetsu Armor">
+        <attribute key="description" value="Chakra e vida regeneration +3200/s" />
+        <attribute key="weight" value="3000" />
+        <attribute key="armor" value="50" />
+        <attribute key="manaGain" value="3200" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="3200" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="body" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<item id="15811" name="Shikai Zangetsu Armor">
+        <attribute key="description" value="Chakra e vida regeneration +3500/s" />
+        <attribute key="weight" value="3000" />
+        <attribute key="armor" value="55" />
+        <attribute key="manaGain" value="3500" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="3500" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="body" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<item id="10662" name="Haori Armor">
+        <attribute key="description" value="Chakra e vida regeneration +2100/s" />
+        <attribute key="weight" value="3000" />
+        <attribute key="armor" value="43" />
+        <attribute key="manaGain" value="2100" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="2100" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="body" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<item id="10663" name="Ichigo Armor">
+        <attribute key="description" value="Chakra e vida regeneration +2800/s" />
+        <attribute key="weight" value="3000" />
+        <attribute key="armor" value="48" />
+        <attribute key="manaGain" value="2800" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="2800" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="body" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<item id="15773" name="Capitao Armor">
+        <attribute key="description" value="Chakra e vida regeneration +3000/s" />
+        <attribute key="weight" value="3000" />
+        <attribute key="armor" value="50" />
+        <attribute key="manaGain" value="3000" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="3000" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="body" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+	<item id="15112" name="Aizen Armor">
+        <attribute key="description" value="Chakra e vida regeneration +3900/s" />
+        <attribute key="weight" value="3000" />
+        <attribute key="armor" value="50" />
+        <attribute key="manaGain" value="3900" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="3900" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="body" />
+        <attribute key="showattributes" value="1" />
+    </item>
+	
+    <!-- Mask -->
+		
+	<item id="15099" name="Grand Fisher Mask">
+        <attribute key="description" value="Chakra e vida regeneration +2700/s" />
+        <attribute key="weight" value="1000" />
+        <attribute key="armor" value="39" />
+        <attribute key="manaGain" value="2700" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="2800" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="head" />
+        <attribute key="showattributes" value="1" />
+    </item>	
+	
+	<item id="15102" name="Adjuchas Mask">
+        <attribute key="description" value="Chakra e vida regeneration +3000/s" />
+        <attribute key="weight" value="1000" />
+        <attribute key="armor" value="43" />
+        <attribute key="manaGain" value="3000" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="3000" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="head" />
+        <attribute key="showattributes" value="1" />
+    </item>	
+	
+	<item id="15103" name="Gilliam Mask">
+        <attribute key="description" value="Chakra e vida regeneration +2500/s" />
+        <attribute key="weight" value="1000" />
+        <attribute key="armor" value="37" />
+        <attribute key="manaGain" value="2500" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="2500" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="head" />
+        <attribute key="showattributes" value="1" />
+    </item>	
+	
+	<item id="15104" name="Spider Mask">
+        <attribute key="description" value="Chakra e vida regeneration +2000/s" />
+        <attribute key="weight" value="1000" />
+        <attribute key="armor" value="30" />
+        <attribute key="manaGain" value="2000" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="2000" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="head" />
+        <attribute key="showattributes" value="1" />
+    </item>	
+	
+	<item id="15105" name="Arak Mask">
+        <attribute key="description" value="Chakra e vida regeneration +1000/s" />
+        <attribute key="weight" value="1000" />
+        <attribute key="armor" value="20" />
+        <attribute key="manaGain" value="1000" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="1000" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="head" />
+        <attribute key="showattributes" value="1" />
+    </item>	
+	
+	<item id="15772" name="Arrancar Mask">
+        <attribute key="description" value="Chakra e vida regeneration +2700/s" />
+        <attribute key="weight" value="1000" />
+        <attribute key="armor" value="40" />
+        <attribute key="manaGain" value="2700" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="2700" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="head" />
+        <attribute key="showattributes" value="1" />
+    </item>	
+	
+	<item id="15767" name="Vast Lord Mask">
+        <attribute key="description" value="Chakra e vida regeneration +3500/s" />
+        <attribute key="weight" value="1000" />
+        <attribute key="armor" value="48" />
+        <attribute key="manaGain" value="3500" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="3500" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="head" />
+        <attribute key="showattributes" value="1" />
+    </item>	
+	
+	<item id="15150" name="Togabito Mask">
+        <attribute key="description" value="Chakra e vida regeneration +1200/s" />
+        <attribute key="weight" value="1000" />
+        <attribute key="armor" value="23" />
+        <attribute key="manaGain" value="1200" />
+        <attribute key="manaTicks" value="1000" />
+        <attribute key="healthGain" value="1200" />
+        <attribute key="healthTicks" value="1000" />
+        <attribute key="slotType" value="head" />
+        <attribute key="showattributes" value="1" />
+    </item>	
+	
+	<!-- Shields -->
+	
+	<item id="15055" name="Arrancar Shield">
+		<attribute key="weight" value="5500"/>
+		<attribute key="defense" value="70"/>
+		<attribute key="weaponType" value="shield"/>
+	</item>
+	
+	<item id="15060" name="Shidoh Shield">
+		<attribute key="weight" value="5500"/>
+		<attribute key="defense" value="50"/>
+		<attribute key="weaponType" value="shield"/>
+	</item>
+	
+	<item id="15063" name="Red Shield">
+		<attribute key="weight" value="5500"/>
+		<attribute key="defense" value="38"/>
+		<attribute key="weaponType" value="shield"/>
+	</item>
+	
+	<item id="15813" name="Inicial Shield">
+		<attribute key="weight" value="5500"/>
+		<attribute key="defense" value="12"/>
+		<attribute key="weaponType" value="shield"/>
+	</item>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	 
+	  
+	
+	
+	
+	
+ 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 </items>
+
