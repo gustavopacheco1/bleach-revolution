@@ -7,6 +7,8 @@ function onLogin(cid)
     if (lastLogin > 0) then
         doPlayerSendTextMessage(cid, MESSAGE_STATUS_DEFAULT, str)
         str = "Your last visit was on " .. os.date("%a %b %d %X %Y", lastLogin) .. "."
+    else
+        doCreatureChangeOutfit(cid, {lookType = VOCATION_REVERT[getPlayerVocationName(cid)].looktype})
     end
 
     -- Death Penalty
@@ -52,6 +54,8 @@ function onLogin(cid)
     registerCreatureEvent(cid, "PlayerTrade")
     registerCreatureEvent(cid, "Imortal")
     registerCreatureEvent(cid, "Reflect")
+    registerCreatureEvent(cid, "StoragesReset")
+    registerCreatureEvent(cid, "RevertDeath")
     
     if getPlayerLevel(cid) > 1 then setPlayerStorageValue(cid, 171994, 1) end
     doCreatureSetStorage(cid, "save", (os.time() + 120))
