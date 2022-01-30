@@ -21852,7 +21852,7 @@
         <attribute key="description" value="Chakra e vida regeneration +5000/s" />
         <attribute key="weight" value="2100" />
         <attribute key="armor" value="70" />
-        <attribute key="speed" value="150" />
+        <attribute key="speed" value="120" />
         <attribute key="manaGain" value="5000" />
         <attribute key="manaTicks" value="1000" />
         <attribute key="healthGain" value="5000" />
@@ -21875,7 +21875,7 @@
         <attribute key="showattributes" value="1" />
     </item>
     <item id="15716" name="Founder Armor">
-        <attribute key="description" value="Chakra e vida regeneration +2500/s" />
+        <attribute key="description" value="Chakra e vida regeneration +3500/s" />
         <attribute key="weight" value="3000" />
         <attribute key="armor" value="50" />
         <attribute key="manaGain" value="2500" />
@@ -21886,7 +21886,7 @@
         <attribute key="showattributes" value="1" />
     </item>
     <item id="15717" name="Founder Legs">
-        <attribute key="description" value="Chakra e vida regeneration +2500/s" />
+        <attribute key="description" value="Chakra e vida regeneration +3500/s" />
         <attribute key="weight" value="3000" />
         <attribute key="armor" value="50" />
         <attribute key="manaGain" value="2500" />
@@ -21897,17 +21897,17 @@
         <attribute key="showattributes" value="1" />
     </item>
     <item id="15718" name="Founder Boots">
-        <attribute key="description" value="Chakra e vida regeneration +2500/s, />
+        <attribute key="description" value="Chakra e vida regeneration +2000/s" />
         <attribute key="weight" value="2100" />
-        <attribute key="armor" value="40" />
-        <attribute key="speed" value="60" />
-        <attribute key="manaGain" value="2500" />
+        <attribute key="armor" value="70" />
+        <attribute key="speed" value="70" />
+        <attribute key="manaGain" value="2000" />
         <attribute key="manaTicks" value="1000" />
-        <attribute key="healthGain" value="2500" />
+        <attribute key="healthGain" value="2000" />
         <attribute key="healthTicks" value="1000" />
         <attribute key="slotType" value="feet" />
         <attribute key="showattributes" value="1" />
-    </item>
+    </item>   
 	
 	<!-- Set Vip -->
 	
