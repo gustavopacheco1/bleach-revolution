@@ -1830,9 +1830,7 @@
 	<spawn centerx="3603" centery="3956" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3483" centery="3957" centerz="7" radius="1">
-		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
+	<spawn centerx="3483" centery="3957" centerz="7" radius="1" />
 	<spawn centerx="3507" centery="3961" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
@@ -1851,9 +1849,7 @@
 	<spawn centerx="3546" centery="3965" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3482" centery="3969" centerz="7" radius="1">
-		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
+	<spawn centerx="3482" centery="3969" centerz="7" radius="1" />
 	<spawn centerx="3532" centery="3969" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
