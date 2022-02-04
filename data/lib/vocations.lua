@@ -90,5 +90,7 @@ VOCATION_TRANSFORM = {
     [73] = {level = 100, vocation = 74, looktype = 60, effect = {number = 10}},
     [74] = {level = 200, vocation = 75, looktype = 61, effect = {number = 10}},
     [75] = {level = 300, vocation = 76, looktype = 62, effect = {number = 10}},
-    [76] = {level = 400, vocation = 77, looktype = 63, effect = {number = 10}},
+    [76] = {level = 400, vocation = 77, looktype = 63, effect = {number = 10}},	
 }
+
+

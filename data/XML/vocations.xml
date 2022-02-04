@@ -354,7 +354,90 @@
 		<formula meleeDamage="75.0" distDamage="1.0" wandDamage="1.0" magDamage="1.6" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
 	</vocation>
-</vocations>   
+	
+	
+	<!-- Gin Ichimaru -->
+	<vocation id="79" name="Gin Ichimaru" description="Gin Ichimaru" needpremium="0" gaincap="100" gainhp="380" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="79">
+		<formula meleeDamage="5.0" distDamage="1.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0" />
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
+	</vocation>
+	<vocation id="80" name="Gin Ichimaru" description="Gin Ichimaru" needpremium="0" gaincap="100" gainhp="380" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="80">
+		<formula meleeDamage="15.0" distDamage="1.0" wandDamage="1.0" magDamage="1.1" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
+	</vocation>
+	<vocation id="81" name="Gin Ichimaru" description="Gin Ichimaru" needpremium="0" gaincap="100" gainhp="380" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="81">
+		<formula meleeDamage="25.0" distDamage="1.0" wandDamage="1.0" magDamage="1.2" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
+	</vocation>
+	<vocation id="82" name="Gin Ichimaru" description="Gin Ichimaru" needpremium="0" gaincap="100" gainhp="380" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="82">
+		<formula meleeDamage="35.0" distDamage="1.0" wandDamage="1.0" magDamage="1.3" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
+	</vocation>
+	<vocation id="83" name="Gin Ichimaru" description="Gin Ichimaru" needpremium="0" gaincap="100" gainhp="380" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="83">
+		<formula meleeDamage="50.0" distDamage="1.0" wandDamage="1.0" magDamage="1.4" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
+	</vocation>
+	<vocation id="84" name="Gin Ichimaru" description="Gin Ichimaru" needpremium="0" gaincap="100" gainhp="380" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="84">
+		<formula meleeDamage="75.0" distDamage="1.0" wandDamage="1.0" magDamage="1.6" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
+	</vocation>
+	
+	
+	<!-- Kuugo Ginjou -->
+	<vocation id="85" name="Kuugo Ginjou" description="Kuugo Ginjou" needpremium="0" gaincap="100" gainhp="380" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="85">
+		<formula meleeDamage="5.0" distDamage="1.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0" />
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
+	</vocation>
+	<vocation id="86" name="Kuugo Ginjou" description="Kuugo Ginjou" needpremium="0" gaincap="100" gainhp="380" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="86">
+		<formula meleeDamage="15.0" distDamage="1.0" wandDamage="1.0" magDamage="1.1" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
+	</vocation>
+	<vocation id="87" name="Kuugo Ginjou" description="Kuugo Ginjou" needpremium="0" gaincap="100" gainhp="380" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="87">
+		<formula meleeDamage="25.0" distDamage="1.0" wandDamage="1.0" magDamage="1.2" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
+	</vocation>
+	<vocation id="88" name="Kuugo Ginjou" description="Kuugo Ginjou" needpremium="0" gaincap="100" gainhp="380" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="88">
+		<formula meleeDamage="35.0" distDamage="1.0" wandDamage="1.0" magDamage="1.3" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
+	</vocation>
+	<vocation id="89" name="Kuugo Ginjou" description="Kuugo Ginjou" needpremium="0" gaincap="100" gainhp="380" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="89">
+		<formula meleeDamage="50.0" distDamage="1.0" wandDamage="1.0" magDamage="1.4" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
+	</vocation>
+	<vocation id="90" name="Kuugo Ginjou" description="Kuugo Ginjou" needpremium="0" gaincap="100" gainhp="380" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="90">
+		<formula meleeDamage="75.0" distDamage="1.0" wandDamage="1.0" magDamage="1.6" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
+	</vocation>
+	
+	
+	<!-- Tier Halibel -->
+	<vocation id="91" name="Tier Halibel" description="Tier Halibel" needpremium="0" gaincap="100" gainhp="500" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="91">
+		<formula meleeDamage="5.0" distDamage="1.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.2" magDefense="1.0" armor="1.0" />
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
+	</vocation>
+	<vocation id="92" name="Tier Halibel" description="Tier Halibel" needpremium="0" gaincap="100" gainhp="500" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="92">
+		<formula meleeDamage="15.0" distDamage="1.0" wandDamage="1.0" magDamage="1.1" magHealingDamage="1.0" defense="1.2" magDefense="1.0" armor="1.0" />
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
+	</vocation>
+	<vocation id="93" name="Tier Halibel" description="Tier Halibel" needpremium="0" gaincap="100" gainhp="500" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="93">
+		<formula meleeDamage="25.0" distDamage="1.0" wandDamage="1.0" magDamage="1.2" magHealingDamage="1.0" defense="1.2" magDefense="1.0" armor="1.0" />
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
+	</vocation>
+	<vocation id="94" name="Tier Halibel" description="Tier Halibel" needpremium="0" gaincap="100" gainhp="500" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="94">
+		<formula meleeDamage="35.0" distDamage="1.0" wandDamage="1.0" magDamage="1.3" magHealingDamage="1.0" defense="1.2" magDefense="1.0" armor="1.0" />
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
+	</vocation>
+	<vocation id="95" name="Tier Halibel" description="Tier Halibel" needpremium="0" gaincap="100" gainhp="500" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="95">
+		<formula meleeDamage="50.0" distDamage="1.0" wandDamage="1.0" magDamage="1.4" magHealingDamage="1.0" defense="1.2" magDefense="1.0" armor="1.0" />
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
+	</vocation>
+	<vocation id="96" name="Tier Halibel" description="Tier Halibel" needpremium="0" gaincap="100" gainhp="500" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="96">
+		<formula meleeDamage="75.0" distDamage="1.0" wandDamage="1.0" magDamage="1.6" magHealingDamage="1.0" defense="1.2" magDefense="1.0" armor="1.0" />
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
+	</vocation>
+</vocations> 
+  
+
 
 
 
