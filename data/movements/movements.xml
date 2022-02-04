@@ -869,23 +869,24 @@
 	<movevent type="Equip" itemid="15813" slot="shield" level="1" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="15813" slot="shield" event="function" value="onDeEquipItem"/>
 	
+	<!-- Rings -->
 	
+	<movevent type="Equip" itemid="15797" slot="ring" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15797" slot="ring" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15790" slot="ring" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15790" slot="ring" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15743" slot="ring" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15743" slot="ring" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="11377" slot="ring" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11377" slot="ring" event="function" value="onDeEquipItem"/>
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	<!-- Amulets -->
+	<movevent type="Equip" itemid="15744" slot="necklace" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15744" slot="necklace" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15799" slot="necklace" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15799" slot="necklace" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15742" slot="necklace" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15742" slot="necklace" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15800" slot="necklace" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15800" slot="necklace" event="function" value="onDeEquipItem"/>
 </movements>

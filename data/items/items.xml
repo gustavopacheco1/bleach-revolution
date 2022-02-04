@@ -22553,6 +22553,121 @@
 	</item>
 	
 	
+	<!-- Amuletos -->
+	
+	<item id="15744" name="Nnoitra Amulet">
+		<attribute key="description" value="Protect All 4% - voce pode rituar esse amuleto!" />
+		<attribute key="weight" value="500" />
+		<attribute key="absorbPercentAll" value="4" />
+		<attribute key="magicpoints" value="3"/>
+		<attribute key="skillSword" value="3"/>
+		<attribute key="skillClub" value="3"/>
+		<attribute key="skillDist" value="3"/>
+		<attribute key="slotType" value="necklace" />
+		<attribute key="showattributes" value="1" />
+	</item>
+	
+	<item id="15799" name="Blue Amulet">
+		<attribute key="description" value="Protect All 2% - voce pode rituar esse amuleto!" />
+		<attribute key="weight" value="500" />
+		<attribute key="absorbPercentAll" value="2" />
+		<attribute key="magicpoints" value="3"/>
+		<attribute key="skillSword" value="3"/>
+		<attribute key="skillClub" value="3"/>
+		<attribute key="skillDist" value="3"/>
+		<attribute key="slotType" value="necklace" />
+		<attribute key="showattributes" value="1" />
+	</item>
+	
+	<item id="15742" name="Black Amulet">
+		<attribute key="description" value="Protect All 1% - voce pode rituar esse amuleto!" />
+		<attribute key="weight" value="500" />
+		<attribute key="absorbPercentAll" value="1" />
+		<attribute key="magicpoints" value="3"/>
+		<attribute key="skillSword" value="3"/>
+		<attribute key="skillClub" value="3"/>
+		<attribute key="skillDist" value="3"/>
+		<attribute key="slotType" value="necklace" />
+		<attribute key="showattributes" value="1" />
+	</item>
+	
+	<item id="15800" name="Yellowblu Amulet">
+		<attribute key="description" value="Protect All 3% - voce pode rituar esse amuleto!" />
+		<attribute key="weight" value="500" />
+		<attribute key="absorbPercentAll" value="3" />
+		<attribute key="magicpoints" value="1"/>
+		<attribute key="skillSword" value="1"/>
+		<attribute key="skillClub" value="1"/>
+		<attribute key="skillDist" value="1"/>
+		<attribute key="slotType" value="necklace" />
+		<attribute key="showattributes" value="1" />
+	</item>
+	
+	<!-- Rings -->
+	
+	<item id="15797" name="Barragan Ring">
+		<attribute key="description" value="Protect All 3" />
+		<attribute key="weight" value="500" />
+		<attribute key="absorbPercentAll" value="2" />
+		<attribute key="slotType" value="ring" />
+		<attribute key="showattributes" value="1" />
+	</item>
+	
+	<item id="15790" name="Zaraki Ring">
+		<attribute key="description" value="Protect All 2" />
+		<attribute key="weight" value="500" />
+		<attribute key="absorbPercentAll" value="2" />
+		<attribute key="slotType" value="ring" />
+		<attribute key="showattributes" value="1" />
+	</item>
+	
+	<item id="15743" name="Skeleton Ring">
+		<attribute key="description" value="Protect All 1" />
+		<attribute key="weight" value="500" />
+		<attribute key="absorbPercentAll" value="1" />
+		<attribute key="slotType" value="ring" />
+		<attribute key="showattributes" value="1" />
+	</item>
+	
+	<item id="11377" name="Snake Ring">
+		<attribute key="description" value="Protect All 1" />
+		<attribute key="weight" value="500" />
+		<attribute key="absorbPercentAll" value="1" />
+		<attribute key="slotType" value="ring" />
+		<attribute key="showattributes" value="1" />
+	</item>
+	
+	
+	
+	<!-- Founder Armas -->
+	
+	<item id="15720" name="Founder Sword">
+	    <attribute key="description" value="Fast Attack" />
+		<attribute key="weight" value="2500" />
+		<attribute key="defense" value="30" />
+		<attribute key="attack" value="35" />
+		<attribute key="attackspeed" value="400"/>
+		<attribute key="weaponType" value="sword" />
+	</item>
+	
+	<item id="15719" name="Founder Red Glove">
+	    <attribute key="description" value="Fast Attack" />
+		<attribute key="weight" value="2500" />
+		<attribute key="defense" value="30" />
+		<attribute key="attack" value="35" />
+		<attribute key="attackspeed" value="400"/>
+		<attribute key="weaponType" value="axe" />
+	</item>
+	
+	<item id="2659" name="Founder Dist">
+		<attribute key="weight" value="100" />
+		<attribute key="attack" value="45" />
+		<attribute key="weaponType" value="distance" />
+		<attribute key="shootType" value="flammingarrow" /> 
+		<attribute key="range" value="6" />
+		<attribute key="ammoAction" value="moveback" />
+	</item>
+	
 	
 	
 	
