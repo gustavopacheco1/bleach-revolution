@@ -7,7 +7,10 @@ function onStatsChange(cid, attacker, type, combat, value)
         return true
     end
 
-    doSendAnimatedText(getCreaturePosition(cid), "REFLECT", 215)
+    local player_position = getCreaturePosition(cid)
+
+    doSendMagicEffect(player_position, 508)
+    doSendAnimatedText(player_position, "REFLECT", 215)
     doSendAnimatedText(getCreaturePosition(attacker), value, 215)
     doCreatureAddHealth(attacker, -value, true)
     setPlayerStorageValue(cid, "reflect", getPlayerStorageValue(cid, "reflect") - 1)
