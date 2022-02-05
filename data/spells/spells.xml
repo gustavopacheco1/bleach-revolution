@@ -23,10 +23,10 @@
 	<instant name="Fowado" words="fowado" lvl="400" mana="1000" prem="0" aggressive="0" exhaustion="2000" needlearn="0" event="script" value="special/fowado.lua">
 		<vocation id="7-11" /> <!-- Chad -->
 	</instant>
-	<instant name="Ice Area" words="ice area" lvl="400" mana="1000" prem="0" aggressive="0" exhaustion="2000" needlearn="0" event="script" value="special/ice_area.lua">
+	<instant name="Souten Ni Saze" words="Souten Ni Saze" lvl="400" mana="1000" prem="0" aggressive="0" exhaustion="2000" needlearn="0" event="script" value="special/Souten Ni Saze.lua">
 		<vocation id="49-53" /> <!-- Toshiro Hitsugaya  -->
 	</instant>
-	<instant name="Renji 30" words="renji 30" lvl="100" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="special/renji_30.lua">
+	<instant name="Zabimaru Shikai" words="Zabimaru Shikai" lvl="100" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="special/Zabimaru Shikai.lua">
 		<vocation id="73-77" /> <!-- Renjii Abarai -->
 	</instant>
 
@@ -50,7 +50,7 @@
 		<vocation id="91-95" /> <!-- Tier Halibel -->
 	</instant>
 
-	<instant name="Invisivel Rukia" words="Invisivel Rukia" lvl="100" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0"  event="script" value="special/imortal/invisivel_rukia.lua">
+	<instant name="Gigai" words="Gigai" lvl="100" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0"  event="script" value="special/imortal/Gigai.lua">
 		<!-- <vocation id="55-61" /> Rukia Kuchiki -->
 	</instant>
 
@@ -89,7 +89,7 @@
 	<instant name="Petalas de Cerejeira" words="Petalas de Cerejeira" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/petalas_de_cerejeira.lua">
 		<vocation id="43-47" /> <!-- Byakuya Kuchiki -->
 	</instant>
-	<instant name="Dodge Buff" words="dodge buff" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/dodge_buff.lua">
+	<instant name="Brazo Izquierdo Del Diablo" words="Brazo Izquierdo Del Diablo" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/Brazo Izquierdo Del Diablo.lua">
 		<vocation id="7-11" /> <!-- Chad -->
 	</instant>
 

@@ -1,8 +1,8 @@
 local spell = {
-    cooldown = 80,
+    cooldown = 50,
     duration = 15,
     dodge_percentage = 50,
-    effect = 100
+    effect = 658
 }
 
 local combat = createCombatObject()
