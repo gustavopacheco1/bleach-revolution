@@ -1257,7 +1257,6 @@ bool TalkAction::ghost(Creature* creature, const std::string&, const std::string
 	Condition* condition = NULL;
 	if((condition = player->getCondition(CONDITION_GAMEMASTER, CONDITIONID_DEFAULT, GAMEMASTER_INVISIBLE)))
 	{
-		player->sendTextMessage(MSG_INFO_DESCR, "You are visible again.");
 		IOLoginData::getInstance()->updateOnlineStatus(player->getGUID(), true);
 		for(AutoList<Player>::iterator pit = Player::autoList.begin(); pit != Player::autoList.end(); ++pit)
 		{
@@ -1297,8 +1296,6 @@ bool TalkAction::ghost(Creature* creature, const std::string&, const std::string
 		player->clearPartyInvitations();
 		if(player->getParty())
 			player->getParty()->leave(player);
-
-		player->sendTextMessage(MSG_INFO_DESCR, "You are now invisible.");
 	}
 
 	return true;
