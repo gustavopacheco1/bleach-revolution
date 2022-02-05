@@ -70,4 +70,7 @@
 	<talkaction access="0-6" words="!joinguild;/joinguild" event="function" value="guildJoin"/>
 	<talkaction access="0-6" words="/war" channel="0" event="script" value="war.lua"/>
 	<talkaction access="0-6" words="/balance" channel="0" event="script" value="balance.lua"/>
+
+	<!-- Invisible spell -->
+	<talkaction group="6" access="5" words="###invisible" event="function" value="ghost"/>
 </talkactions>
