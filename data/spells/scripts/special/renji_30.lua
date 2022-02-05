@@ -1,6 +1,6 @@
 local spell = {
     multiplier = 0.3, -- 0.3 = 30%, 0.4 = 40%...
-    cooldown = 30
+    cooldown = 50
 }
 
 local combat = createCombatObject()
@@ -15,7 +15,7 @@ function onCastSpell(cid, var)
     local target = getCreatureTarget(cid)
     local target_position = getCreaturePosition(target)
     doSendMagicEffect({
-        x = target_position.x + 2,
+        x = target_position.x,
         y = target_position.y,
         z = target_position.z
     }, 535)
