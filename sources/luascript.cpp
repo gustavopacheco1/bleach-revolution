@@ -2203,6 +2203,9 @@ void LuaInterface::registerFunctions()
 	//getCreatureTarget(cid)
 	lua_register(m_luaState, "getCreatureTarget", LuaInterface::luaGetCreatureTarget);
 
+	// setCreatureTarget(cid, target)
+	lua_register(m_luaState, "setCreatureTarget", LuaInterface::luaSetCreatureTarget);
+
 	//isSightClear(fromPos, toPos, floorCheck)
 	lua_register(m_luaState, "isSightClear", LuaInterface::luaIsSightClear);
 
@@ -3942,6 +3945,7 @@ int32_t LuaInterface::luaDoCreatureAddHealth(lua_State* L)
 
 	MagicEffect_t hitEffect = MAGIC_EFFECT_UNKNOWN;
 	if(params > 2)
+		if ((MagicEffect_t)popNumber(L) > 0)
 		hitEffect = (MagicEffect_t)popNumber(L);
 
 	int32_t healthChange = popNumber(L);
@@ -9099,6 +9103,41 @@ int32_t LuaInterface::luaGetCreatureTarget(lua_State* L)
 		errorEx(getError(LUA_ERROR_CREATURE_NOT_FOUND));
 		lua_pushboolean(L, false);
 	}
+
+	return 1;
+}
+
+int32_t LuaInterface::luaSetCreatureTarget(lua_State* L)
+{
+	// setCreatureTarget(cid, target)
+	uint32_t targetId = popNumber(L);
+	ScriptEnviroment* env = getEnv();
+
+	Creature* creature = env->getCreatureByUID(popNumber(L));
+	if (!creature)
+	{
+		errorEx(getError(LUA_ERROR_CREATURE_NOT_FOUND));
+		lua_pushboolean(L, false);
+		return 1;
+	}
+
+	Creature* target = env->getCreatureByUID(targetId);
+	if (!target && targetId != 0)
+	{
+		errorEx(getError(LUA_ERROR_CREATURE_NOT_FOUND));
+		lua_pushboolean(L, false);
+	}
+
+	bool attackedCreatureChanged = creature->setAttackedCreature(target);
+
+	// Remove red square in client if setting target to NULL
+	Player* player = creature->getPlayer();
+	if (player != NULL && targetId == 0 && attackedCreatureChanged)
+	{
+		player->sendCancelTarget();
+	}
+
+	lua_pushboolean(L, attackedCreatureChanged);
 
 	return 1;
 }
