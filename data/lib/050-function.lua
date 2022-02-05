@@ -556,3 +556,23 @@ function doGenerateCode()
 
 	return string.format("%c%c%c%c%c%c%c%c", chars[1], chars[2], chars[3], chars[4], chars[5], chars[6], chars[7], chars[8])
 end
+
+function randomChance(percent)
+    assert(percent >= 0 and percent <= 100)
+    return percent >= math.random(1, 100)
+end
+
+function isWalkable(pos)
+    if tile and getTileThingByPos(tile) then
+        if getTileThingByPos({x = pos.x, y = pos.y, z = pos.z, stackpos = 0}).itemid == 0 then
+            return false
+        elseif isCreature(getTopCreature(pos).uid) then
+            return false
+        elseif getTileInfo(pos).protection then
+            return false
+        elseif hasProperty(getThingFromPos(pos).uid, 3) or hasProperty(getThingFromPos(pos).uid, 7) then
+            return false
+        end
+    end
+    return true
+end
