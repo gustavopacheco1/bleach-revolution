@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <weapons>
-	<!-- Gloves -->
-	<melee id="2525" event="script" value="sample.lua"/>
-	
-	<!-- Swords -->
-	<melee id="2396" event="function" value="default"/>
+	<!-- Melee -->
+	<melee id="15720" event="function" value="default"/>
+	<melee id="15719" event="function" value="default"/>
+	<melee id="15731" event="function" value="default"/>
+	<melee id="15738" event="function" value="default"/>
+	<melee id="15729" event="function" value="default"/>
+	<melee id="15410" event="function" value="default"/>
+	<melee id="15407" event="function" value="default"/>
+	<melee id="15406" event="function" value="default"/>
+	<melee id="15122" event="function" value="default"/>
+	<melee id="15123" event="function" value="default"/>
+	<melee id="15820" event="function" value="default"/>
+	<melee id="15819" event="function" value="default"/>
+	<melee id="15808" event="function" value="default"/>
+	<melee id="15807" event="function" value="default"/>
+	<melee id="15806" event="function" value="default"/>
+	<melee id="15805" event="function" value="default"/>
+	<melee id="15730" event="function" value="default"/>
 	
 	<!-- Distance -->
 	<distance id="15721" event="script" value="distance.lua"/>
+	<distance id="15823" event="script" value="del relampago.lua"/>
+	<distance id="15090" event="script" value="inical bow.lua"/>
+	<distance id="15091" event="script" value="quincy bow.lua"/>
+	<distance id="15092" event="script" value="branc bow.lua"/>
+	<distance id="15093" event="script" value="ultimate bow.lua"/>
+	
 </weapons>
