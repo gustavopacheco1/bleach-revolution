@@ -10,7 +10,7 @@ VOCATION_REVERT = {
     ["Toshiro Histugaya"] = {vocation = 49, looktype = 73, effect = {number = 10}},
     ["Rukia Kuchiki"] = {vocation = 55, looktype = 20, effect = {number = 10}},
     ["Retsu Unohana"] = {vocation = 68, looktype = 139, effect = {number = 10}},
-    ["Renjii Abarai"] = {vocation = 73, looktype = 59, effect = {number = 10}},
+    ["Renjii Abarai"] = {vocation = 73, looktype = 47, effect = {number = 10}},
 	["Gin Ichimaru"] = {vocation = 79, looktype = 316, effect = {number = 10}},
 	["Kuugo Ginjou"] = {vocation = 85, looktype = 326, effect = {number = 10}},
 	["Tier Halibel"] = {vocation = 91, looktype = 321, effect = {number = 10}},
@@ -90,10 +90,10 @@ VOCATION_TRANSFORM = {
     [70] = {level = 400, vocation = 71, looktype = 143, effect = {number = 10}},
 
     -- Renjii Abarai
-    [73] = {level = 100, vocation = 74, looktype = 60, effect = {number = 10}},
-    [74] = {level = 200, vocation = 75, looktype = 61, effect = {number = 10}},
-    [75] = {level = 300, vocation = 76, looktype = 62, effect = {number = 10}},
-    [76] = {level = 400, vocation = 77, looktype = 63, effect = {number = 10}},	
+    [73] = {level = 100, vocation = 74, looktype = 48, effect = {number = 10}},
+    [74] = {level = 200, vocation = 75, looktype = 49, effect = {number = 10}},
+    [75] = {level = 300, vocation = 76, looktype = 50, effect = {number = 10}},
+    [76] = {level = 400, vocation = 77, looktype = 51, effect = {number = 10}},	
 	
 	-- Gin Ichimaru 
 	[79] = {level = 100, vocation = 80, looktype = 317, effect = {number = 10}},

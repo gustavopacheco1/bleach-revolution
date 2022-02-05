@@ -4,7 +4,7 @@ local spell = {
 }
 
 local combat = createCombatObject()
-setCombatParam(combat, COMBAT_PARAM_DISTANCEEFFECT, 7)
+setCombatParam(combat, COMBAT_PARAM_DISTANCEEFFECT, 17)
 
 function onCastSpell(cid, var)
     if exhaustion.check(cid, "special") then
@@ -18,7 +18,7 @@ function onCastSpell(cid, var)
         x = target_position.x + 2,
         y = target_position.y,
         z = target_position.z
-    }, 569)
+    }, 535)
 
     local damage = -getCreatureMaxHealth(cid) * spell.multiplier
     doTargetCombatHealth(cid, target, COMBAT_PHYSICALDAMAGE, damage, damage, false)

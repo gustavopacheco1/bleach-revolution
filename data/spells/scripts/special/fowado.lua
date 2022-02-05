@@ -1,5 +1,5 @@
 local combat = createCombatObject()
-setCombatParam(combat, COMBAT_PARAM_EFFECT, 20)
+setCombatParam(combat, COMBAT_PARAM_EFFECT, 14)
 
 local area = createCombatArea({
     {1, 1, 1},

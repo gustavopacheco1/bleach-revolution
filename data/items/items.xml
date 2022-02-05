@@ -22366,22 +22366,28 @@
 	<item id="15055" name="Arrancar Shield">
 		<attribute key="weight" value="5500" />
 		<attribute key="defense" value="70" />
+		<attribute key="absorbPercentAll" value="3" />
 		<attribute key="weaponType" value="shield" />
+		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="15060" name="Shidoh Shield">
 		<attribute key="weight" value="5500" />
 		<attribute key="defense" value="50" />
+		<attribute key="absorbPercentAll" value="2" />
 		<attribute key="weaponType" value="shield" />
 	</item>
 	<item id="15063" name="Red Shield">
 		<attribute key="weight" value="5500" />
 		<attribute key="defense" value="38" />
+		<attribute key="absorbPercentAll" value="1" />
 		<attribute key="weaponType" value="shield" />
+		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="15813" name="Inicial Shield">
 		<attribute key="weight" value="5500" />
 		<attribute key="defense" value="12" />
 		<attribute key="weaponType" value="shield" />
+		<attribute key="showattributes" value="1" />
 	</item>
 
 
