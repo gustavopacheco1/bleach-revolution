@@ -889,4 +889,7 @@
 	<movevent type="DeEquip" itemid="15742" slot="necklace" event="function" value="onDeEquipItem"/>
 	<movevent type="Equip" itemid="15800" slot="necklace" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="15800" slot="necklace" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="15721" slot="hand" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15721" slot="hand" event="function" value="onDeEquipItem"/>
 </movements>
