@@ -1166,9 +1166,9 @@ std::string Item::getDescription(const ItemType& it, int32_t lookDistance, const
 				s << "invisibility";
 			}
 
-			if(it.abilities->regeneration)
+			if (it.abilities->healthGain)
 			{
-				if(begin)
+				if (begin)
 				{
 					begin = false;
 					s << " (";
@@ -1176,7 +1176,20 @@ std::string Item::getDescription(const ItemType& it, int32_t lookDistance, const
 				else
 					s << ", ";
 
-				s << "faster regeneration";
+				s << "health " << std::showpos << (int32_t)(it.abilities->healthGain) << "/s" << std::noshowpos;
+			}
+
+			if (it.abilities->manaGain)
+			{
+				if (begin)
+				{
+					begin = false;
+					s << " (";
+				}
+				else
+					s << ", ";
+
+				s << "reiatsu " << std::showpos << (int32_t)(it.abilities->manaGain) << "/s" << std::noshowpos;
 			}
 
 			if(it.abilities->manaShield)
@@ -1420,9 +1433,9 @@ std::string Item::getDescription(const ItemType& it, int32_t lookDistance, const
 				s << "invisibility";
 			}
 
-			if(it.abilities->regeneration)
+			if (it.abilities->healthGain)
 			{
-				if(begin)
+				if (begin)
 				{
 					begin = false;
 					s << " (";
@@ -1430,7 +1443,20 @@ std::string Item::getDescription(const ItemType& it, int32_t lookDistance, const
 				else
 					s << ", ";
 
-				s << "faster regeneration";
+				s << "health " << std::showpos << (int32_t)(it.abilities->healthGain) << "/s" << std::noshowpos;
+			}
+
+			if (it.abilities->manaGain)
+			{
+				if (begin)
+				{
+					begin = false;
+					s << " (";
+				}
+				else
+					s << ", ";
+
+				s << "reiatsu " << std::showpos << (int32_t)(it.abilities->manaGain) << "/s" << std::noshowpos;
 			}
 
 			if(it.abilities->manaShield)
@@ -1694,9 +1720,9 @@ std::string Item::getNameDescription(const ItemType& it, const Item* item/* = NU
 		}
 	}
 	else if(it.name.empty())
-		s << "an item of type " << it.id << ", please report it to gamemaster";
+		s << "an item";
 	else
-		s << "an item '" << it.name << "', please report it to gamemaster";
+		s << "an item";
 
 	return s.str();
 }
