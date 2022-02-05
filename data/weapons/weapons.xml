@@ -7,5 +7,5 @@
 	<melee id="2396" event="function" value="default"/>
 	
 	<!-- Distance -->
-	<wand id="15721" event="script" value="wand.lua"/>
+	<distance id="15721" event="script" value="distance.lua"/>
 </weapons>

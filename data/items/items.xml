@@ -22478,5 +22478,6 @@
 		<attribute key="attack" value="65" />
 		<attribute key="weaponType" value="distance" />
 		<attribute key="range" value="10" />
+		<attribute key="hitChance" value="100" />
 	</item>
 </items>
