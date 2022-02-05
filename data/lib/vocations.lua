@@ -54,10 +54,10 @@ VOCATION_TRANSFORM = {
     [34] = {level = 400, vocation = 35, looktype = 117, effect = {number = 10}},
 
     -- Zaraki Kenpachi
-    [37] = {level = 100, vocation = 38, looktype = 124, effect = {number = 10}},
-    [38] = {level = 200, vocation = 39, looktype = 125, effect = {number = 10}},
-    [39] = {level = 300, vocation = 40, looktype = 126, effect = {number = 10}},
-    [40] = {level = 400, vocation = 41, looktype = 127, effect = {number = 10}},
+    [37] = {level = 100, vocation = 38, looktype = 311, effect = {number = 10}},
+    [38] = {level = 200, vocation = 39, looktype = 312, effect = {number = 10}},
+    [39] = {level = 300, vocation = 40, looktype = 314, effect = {number = 10}},
+    [40] = {level = 400, vocation = 41, looktype = 315, effect = {number = 10}},
 
     -- Byakuya Kuchiki
     [43] = {level = 100, vocation = 44, looktype = 86, effect = {number = 10}},

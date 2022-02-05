@@ -24,7 +24,7 @@
 		<vocation id="7-11" /> <!-- Chad -->
 	</instant>
 	<instant name="Ice Area" words="ice area" lvl="400" mana="1000" prem="0" aggressive="0" exhaustion="2000" needlearn="0" event="script" value="special/ice_area.lua">
-		<vocation id="7-11" /> <!-- Chad -->
+		<vocation id="49-53" /> <!-- Toshiro Hitsugaya  -->
 	</instant>
 	<instant name="Renji 30" words="renji 30" lvl="100" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="special/renji_30.lua">
 		<vocation id="73-77" /> <!-- Renjii Abarai -->
@@ -32,16 +32,22 @@
 
 	<!-- Reflect -->
 	<instant name="Soo Zabimaru" words="soo zabimaru" lvl="100" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0"  event="script" value="special/reflect/soo_zabimaru.lua">
-	
+	<vocation id="73-77" /> <!-- Renjii Abarai -->
 	</instant>
+	
+	<instant name="Nozarashi" words="Nozarashi" lvl="100" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0"  event="script" value="special/reflect/soo_zabimaru.lua">
+	<vocation id="37-41" /> <!-- Zaraki Kenpachi -->
+	</instant>
+
 
 	<!-- Imortal -->
 	<instant name="Resurreccion" words="resurreccion" lvl="100" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0"  event="script" value="special/imortal/resurreccion.lua">
-		
+		<vocation id="31-35" /> <!-- Ulquiorra Ciffer -->
+		<vocation id="61-65" /> <!-- Nelliel Odelschwanck -->
 	</instant>
 
 	<instant name="Invisivel" words="Invisivel" lvl="100" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0"  event="script" value="special/imortal/invisivel.lua">
-		
+		<vocation id="91-95" /> <!-- Tier Halibel -->
 	</instant>
 
 	<instant name="Invisivel Rukia" words="Invisivel Rukia" lvl="100" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0"  event="script" value="special/imortal/invisivel_rukia.lua">
@@ -61,10 +67,10 @@
 		<vocation id="49-54" /> <!-- Toshiro Histugaya -->
 	</instant>
 	<instant name="Ryodan 3" words="Ryodan 3" lvl="300" mana="4000" prem="0" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1200" needlearn="0" event="script" value="special/trap/Ryodan 3.lua">
-		<vocation id="37-41" />
+		<vocation id="37-41" /> <!-- Zaraki Kenpachi -->
 	</instant>
 	<instant name="Goukei" words="Goukei" lvl="300" mana="4000" prem="0" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1200" needlearn="0" event="script" value="special/trap/Goukei.lua">
-		<vocation id="43-47" />
+		<vocation id="43-47" /> <!-- Byakuya Kuchiki -->
 	</instant>
 
 	<!-- Buffs -->
