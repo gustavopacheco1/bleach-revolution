@@ -20,6 +20,16 @@
 
 
 	<!-- Special -->
+	<instant name="Fowado" words="fowado" lvl="400" mana="1000" prem="0" aggressive="0" exhaustion="2000" needlearn="0" event="script" value="special/fowado.lua">
+		<vocation id="7-11" /> <!-- Chad -->
+	</instant>
+	<instant name="Ice Area" words="ice area" lvl="400" mana="1000" prem="0" aggressive="0" exhaustion="2000" needlearn="0" event="script" value="special/ice_area.lua">
+		<vocation id="7-11" /> <!-- Chad -->
+	</instant>
+	<instant name="Renji 30" words="renji 30" lvl="100" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="special/renji_30.lua">
+		<vocation id="73-77" /> <!-- Renjii Abarai -->
+	</instant>
+
 	<!-- Reflect -->
 	<instant name="Soo Zabimaru" words="soo zabimaru" lvl="100" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0"  event="script" value="special/reflect/soo_zabimaru.lua">
 	
@@ -27,9 +37,17 @@
 
 	<!-- Imortal -->
 	<instant name="Resurreccion" words="resurreccion" lvl="100" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0"  event="script" value="special/imortal/resurreccion.lua">
-	
+		
 	</instant>
-	
+
+	<instant name="Invisivel" words="Invisivel" lvl="100" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0"  event="script" value="special/imortal/invisivel.lua">
+		
+	</instant>
+
+	<instant name="Invisivel Rukia" words="Invisivel Rukia" lvl="100" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0"  event="script" value="special/imortal/invisivel_rukia.lua">
+		<!-- <vocation id="55-61" /> Rukia Kuchiki -->
+	</instant>
+
 	<!-- Paralyze -->
 	<instant name="Burner 3" words="Burner 3" lvl="400" mana="1000" prem="0" range="5" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="special/paralyze/Burner 3.lua">
 		<vocation id="13-18" /> <!-- Bazz-B -->
@@ -50,20 +68,23 @@
 	</instant>
 
 	<!-- Buffs -->
-	<instant name="Bankai" words="bankai" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1" event="script" value="special/buffs/bankai.lua">
+	<instant name="Bankai" words="bankai" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/bankai.lua">
 		<vocation id="37-41" /> <!-- Zaraki Kenpachi -->
 	</instant>
-	<instant name="Getsuga Bankai" words="getsuga bankai" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1" event="script" value="special/buffs/getsuga_bankai.lua">
+	<instant name="Getsuga Bankai" words="getsuga bankai" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/getsuga_bankai.lua">
 		<vocation id="1-6" /> <!-- Ichigo Kurosaki -->
 	</instant>
-	<instant name="Ransotengai" words="Ransotengai" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1" event="script" value="special/buffs/ransotengai.lua">
+	<instant name="Ransotengai" words="Ransotengai" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/ransotengai.lua">
 		<vocation id="25-29" /> <!-- Uryu Ishida -->
 	</instant>
-	<instant name="Burner Full" words="Burner Full" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1" event="script" value="special/buffs/burner_full.lua">
+	<instant name="Burner Full" words="Burner Full" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/burner_full.lua">
 		<vocation id="13-17" /> <!-- Bazz-B -->
 	</instant>
-	<instant name="Petalas de Cerejeira" words="Petalas de Cerejeira" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1" event="script" value="special/buffs/petalas_de_cerejeira.lua">
+	<instant name="Petalas de Cerejeira" words="Petalas de Cerejeira" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/petalas_de_cerejeira.lua">
 		<vocation id="43-47" /> <!-- Byakuya Kuchiki -->
+	</instant>
+	<instant name="Dodge Buff" words="dodge buff" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/dodge_buff.lua">
+		<vocation id="7-11" /> <!-- Chad -->
 	</instant>
 
 
