@@ -4,6 +4,7 @@ function onStatsChange(cid, attacker, type, combat, value)
     end
 
     if not (getPlayerStorageValue(cid, "reflect") > 0) then
+        unregisterCreatureEvent(cid, "ReflectNozarashi")
         return true
     end
 

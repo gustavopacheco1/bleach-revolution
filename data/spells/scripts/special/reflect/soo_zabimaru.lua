@@ -9,6 +9,7 @@ function onCastSpell(cid, var)
         return false
     end
 
+    registerCreatureEvent(cid, "ReflectSooZabimaru")
     setPlayerStorageValue(cid, "reflect", spell.total_hits)
     exhaustion.set(cid, "special", spell.cooldown)
     return true

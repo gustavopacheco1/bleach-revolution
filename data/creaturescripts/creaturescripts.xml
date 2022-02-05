@@ -14,10 +14,13 @@
     <event type="extendedopcode" name="ExtendedOpcode" event="script" value="extendedopcode.lua" />
     <event type="tradeaccept" name="PlayerTrade" event="script" value="playerTrade.lua"/>
     <event type="statschange" name="Imortal" event="script" value="spells/imortal.lua"/>
-    <event type="statschange" name="Reflect" event="script" value="spells/reflect.lua"/>
     <event type="login" name="StoragesReset" event="script" value="storagesreset.lua"/>
     <event type="login" name="RevertDeath" event="script" value="revertdeath.lua"/>
     <event type="statschange" name="Dodge" event="script" value="spells/dodge.lua"/>
+
+    <!-- Spells -->
+    <event type="statschange" name="ReflectSooZabimaru" event="script" value="spells/reflect_soo_zabimaru.lua"/>
+    <event type="statschange" name="ReflectNozarashi" event="script" value="spells/reflect_nozarashi.lua"/>
     <event type="statschange" name="InvisibleSpellStats" event="script" value="spells/invisible.lua"/>
     <event type="attack" name="InvisibleSpellAttack" event="script" value="spells/invisible.lua"/>
     <event type="target" name="InvisibleSpellTarget" event="script" value="spells/invisible.lua"/>
