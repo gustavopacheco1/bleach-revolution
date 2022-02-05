@@ -1,4 +1,5 @@
 local config = {
+    loginMessage = getConfigValue('loginMessage'),
     useFragHandler = getBooleanFromString(getConfigValue('useFragHandler'))
 }
 
@@ -10,18 +11,13 @@ function onLogin(cid)
     else
         doCreatureChangeOutfit(cid, {lookType = VOCATION_REVERT[getPlayerVocationName(cid)].looktype})
     end
+    doPlayerSendTextMessage(cid, MESSAGE_STATUS_DEFAULT, str)
 
     -- Death Penalty
     local loss = getConfigValue('deathLostPercent')
-    if (loss ~= nil) then
-        if getPlayerLevel(cid) > 8 then
-            doPlayerSetLossPercent(cid, PLAYERLOSS_EXPERIENCE, loss * 14)
-        else
-            doPlayerSetLossPercent(cid, PLAYERLOSS_EXPERIENCE, 0)
-        end
-        doPlayerSetLossPercent(cid, PLAYERLOSS_SKILLS, loss * 1)
-        doPlayerSetLossPercent(cid, PLAYERLOSS_MANA, loss * 1)
-    end
+	if(loss ~= nil and getPlayerStorageValue(cid, "bless") ~= 5) then
+		doPlayerSetLossPercent(cid, PLAYERLOSS_EXPERIENCE, loss * 10)
+	end
 
     if (getPlayerStorageValue(cid, "death_bless") == 1) then
         local t = {PLAYERLOSS_EXPERIENCE, PLAYERLOSS_SKILLS, PLAYERLOSS_ITEMS, PLAYERLOSS_CONTAINERS}
@@ -56,6 +52,7 @@ function onLogin(cid)
     registerCreatureEvent(cid, "Reflect")
     registerCreatureEvent(cid, "StoragesReset")
     registerCreatureEvent(cid, "RevertDeath")
+    registerCreatureEvent(cid, "Dodge")
     
     if getPlayerLevel(cid) > 1 then setPlayerStorageValue(cid, 171994, 1) end
     doCreatureSetStorage(cid, "save", (os.time() + 120))
