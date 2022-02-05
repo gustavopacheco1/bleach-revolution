@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <weapons>
-	<!-- Distance -->
-	<wand id="2190" level="7" mana="2" min="8" max="18" type="energy" event="function" value="default"/>
-
-	<!-- Swords -->
-	<melee id="2396" event="function" value="default"/>
-
 	<!-- Gloves -->
 	<melee id="2525" event="script" value="sample.lua"/>
-	<!-- <melee id="2525" event="function" value="default"/> -->
+	
+	<!-- Swords -->
+	<melee id="2396" event="function" value="default"/>
+	
+	<!-- Distance -->
+	<wand id="12742" event="script" value="wand.lua"/>
 </weapons>
