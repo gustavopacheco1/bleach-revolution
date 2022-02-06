@@ -286,4 +286,26 @@
 	<instant name="La Muerte 2" words="La Muerte 2" lvl="400" mana="5000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="attack/Chad/La Muerte 2.lua">
 		<vocation id="7-11" />
 	</instant>
+	
+	<!-- Gin -->
+	<instant name="Korose" words="Korose" lvl="200" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="attack/Gin/Korose.lua">
+		<vocation id="79-83" />
+	</instant>
+	<instant name="Buto" words="Buto" lvl="300" mana="4000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="150" needlearn="0" event="script" value="attack/Gin/Buto.lua">
+		<vocation id="79-83" />
+	</instant>
+	<instant name="Butto" words="Butto" lvl="400" mana="5000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="attack/Gin/Butto.lua">
+		<vocation id="79-83" />
+	</instant>
+	
+	<!-- Halibel -->
+	<instant name="Ora Azuru" words="Ora Azuru" lvl="200" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="attack/Halibel/Ora Azuru.lua">
+		<vocation id="91-95" />
+	</instant>
+	<instant name="Ceroo" words="Ceroo" lvl="300" mana="4000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="150" needlearn="0" event="script" value="attack/Halibel/Ceroo.lua">
+		<vocation id="91-95" />
+	</instant>
+	<instant name="La Gota" words="La Gota" lvl="400" mana="5000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="attack/Halibel/La Gota.lua">
+		<vocation id="91-95" />
+	</instant>
 </spells>
