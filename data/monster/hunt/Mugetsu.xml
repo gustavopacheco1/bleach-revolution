@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<monster name="Hollow wolf" nameDescription="Hollow wolf" race="blood" experience="500" speed="100" manacost="0">
+<monster name="Mugetsu" nameDescription="Mugetsu" race="blood" experience="100" speed="400" manacost="0">
 
-<health now="300" max="300"/>
+<health now="900000" max="900000"/>
 
-<look type="118" head="0" body="94" legs="79" feet="79" corpse="5527"/>
+<look type="212" head="0" body="94" legs="79" feet="79" corpse="5527"/>
 
 <targetchange interval="5000" chance="50"/>
 
@@ -27,7 +27,7 @@
 
 <attacks>
 
-<attack name="melee" interval="2000" min="-200" max="- 220"/>
+<attack name="melee" interval="2000" min="-73000" max="- 75000"/>
 </attacks>
 
 <defenses armor="40" defense="40"/>

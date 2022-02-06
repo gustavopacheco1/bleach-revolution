@@ -20,6 +20,19 @@
 	<monster name="Barragan" file="hunt/Barragan.xml"/>
 	<monster name="Red Hollow" file="hunt/Red Hollow.xml"/>
 	<monster name="Nnoitra" file="hunt/Nnoitra.xml"/>
+	<monster name="Wolf" file="hunt/Wolf.xml"/>
+	<monster name="Bandit" file="hunt/Bandit.xml"/>
+	<monster name="Elite Bandit" file="hunt/Elite Bandit.xml"/>
+    <monster name="Grown Hollow" file="hunt/Grown Hollow.xml"/>
+	<monster name="Barragan Soldier" file="hunt/Barragan Soldier.xml"/>
+	<monster name="Mugetsu" file="hunt/Mugetsu.xml"/>
+	<monster name="Espada" file="hunt/Espada.xml"/>
+	<monster name="Incomplete Arrancar" file="hunt/Incomplete Arrancar.xml"/>
+	<monster name="Arrancar Watcher" file="hunt/Arrancar Watcher.xml"/>
+	<monster name="Prisoner" file="hunt/Prisoner.xml"/>
+	<monster name="Fake Prisoner" file="hunt/Fake Prisoner.xml"/>
+	<monster name="Quincy" file="hunt/Quincy.xml"/>
+	<monster name="Jagdarmee" file="hunt/Jagdarmee.xml"/>
 
 	<!-- Clones -->
 	<monster name="Rukia Clone" file="clones/Rukia Clone.xml"/>
