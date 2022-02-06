@@ -1,8 +1,8 @@
 local spell = {
-    item = 6707,
-    effect_item = 140,
-    effect_buff = 5,
-    missile = 14,
+    item = 6972,
+    effect_item = 215,
+    effect_buff = 28,
+    missile = 11,
     cooldown = 30,
     duration = 10
 }
