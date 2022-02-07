@@ -48,6 +48,10 @@
 		<vocation id="31-35" /> <!-- Ulquiorra Ciffer -->
 		<vocation id="61-65" /> <!-- Nelliel Odelschwanck -->
 	</instant>
+	
+	<instant name="Hirviendo" words="Hirviendo" lvl="100" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0"  event="script" value="special/imortal/Hirviendo.lua">
+		<vocation id="31-35" /> <!-- Ulquiorra Ciffer -->
+	</instant>
 
 	<instant name="Invisivel" words="Invisivel" lvl="100" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0"  event="script" value="special/imortal/invisivel.lua">
 		<vocation id="91-95" /> <!-- Tier Halibel -->
