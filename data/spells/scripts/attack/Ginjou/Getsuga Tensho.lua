@@ -1,7 +1,7 @@
 local combat = createCombatObject()
 setCombatParam(combat, COMBAT_PARAM_HITCOLOR, COLOR_PINK)
 setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_PHYSICALDAMAGE)
-setCombatParam(combat, COMBAT_PARAM_DISTANCEEFFECT, 70)
+setCombatParam(combat, COMBAT_PARAM_DISTANCEEFFECT, 73)
 setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -15.0, 0, -15.0, 0)
 
 function onCastSpell(cid, var)
@@ -18,7 +18,7 @@ function onCastSpell(cid, var)
                     x = target_position.x + 1,
                     y = target_position.y + 1,
                     z = target_position.z
-                }, 460)
+                }, 695)
 
 
 				doCombat(cid, combat, var)
