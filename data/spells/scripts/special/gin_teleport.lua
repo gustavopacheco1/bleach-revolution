@@ -8,7 +8,7 @@ local spell = {
 
 local position_storage = {}
 
-function onCastSpell(cid, combat, var)
+function onCastSpell(cid, var)
     if exhaustion.check(cid, "special") then
         doPlayerSendCancel(cid, "Cooldown " .. exhaustion.get(cid, "special") .. "s")
         return true
