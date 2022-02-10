@@ -9,7 +9,7 @@ local spell = {
 function onCastSpell(cid, var)
     if exhaustion.check(cid, "special") then
         doPlayerSendCancel(cid, "Cooldown " .. exhaustion.get(cid, "special") .. "s")
-        return true
+        return false
     end
 
     local damage = getCreatureMaxHealth(cid) * spell.health_percentage_damage
