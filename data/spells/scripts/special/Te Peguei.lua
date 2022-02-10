@@ -11,7 +11,7 @@ local position_storage = {}
 function onCastSpell(cid, var)
     if exhaustion.check(cid, "special") then
         doPlayerSendCancel(cid, "Cooldown " .. exhaustion.get(cid, "special") .. "s")
-        return true
+        return false
     end
 
     position_storage[cid] = getCreaturePosition(cid)

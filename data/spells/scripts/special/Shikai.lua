@@ -7,13 +7,13 @@ local spell = {
 function onCastSpell(cid, var)
     if exhaustion.check(cid, "special") then
         doPlayerSendCancel(cid, "Cooldown " .. exhaustion.get(cid, "special") .. "s")
-        return true
+        return false
     end
 
     local life_steal = getCreatureMaxHealth(cid)*spell.percentage
 
     doCreatureAddHealth(cid, life_steal)
-    doTargetCombatHealth(cid, getCreatureTarget(cid), COMBAT_PHYSICALDAMAGE, -life_steal, -life_steal, 30)
+    doTargetCombatHealth(cid, getCreatureTarget(cid), COMBAT_PHYSICALDAMAGE, -life_steal, -life_steal, spell.effect)
 
     exhaustion.set(cid, "special", spell.cooldown)
     return true
