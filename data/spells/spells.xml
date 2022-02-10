@@ -38,6 +38,9 @@
 	<instant name="Gin Teleport" words="gin teleport" lvl="100" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0"  event="script" value="special/gin_teleport.lua">
 		<vocation id="79-83" /> <!-- Gin Ichimaru -->
 	</instant>
+	<instant name="Gin Poison" words="Gin Poison" lvl="100" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="special/gin_poison.lua">
+		<vocation id="79-83" /> <!-- Gin Ichimaru -->
+	</instant>
 	
 	<!-- Reflect -->
 	<instant name="Soo Zabimaru" words="soo zabimaru" lvl="100" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0"  event="script" value="special/reflect/soo_zabimaru.lua">
