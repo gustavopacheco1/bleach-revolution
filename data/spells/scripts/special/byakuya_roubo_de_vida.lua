@@ -1,6 +1,7 @@
 local spell = {
     cooldown = 10,
-    percentage = 0.15 -- 0.15 = 15%, 0.3 = 30%...
+    percentage = 0.15, -- 0.15 = 15%, 0.3 = 30%...
+    effect = 30
 }
 
 function onCastSpell(cid, combat, var)
@@ -11,15 +12,9 @@ function onCastSpell(cid, combat, var)
 
     local life_steal = getCreatureMaxHealth(cid)*spell.percentage
 
-    if doCreatureAddHealth(cid, life_steal) then
-        print("adding cid health")
-    end
+    doCreatureAddHealth(cid, life_steal)
+    doTargetCombatHealth(cid, getCreatureTarget(cid), COMBAT_PHYSICALDAMAGE, -life_steal, -life_steal, 30)
 
-    if doTargetCombatHealth(cid, getCreatureTarget(cid), COMBAT_PHYSICALDAMAGE, -life_steal, -life_steal, 30) then
-        print("removing var health")
-    end
-    
+    exhaustion.set(cid, "special", spell.cooldown)
     return true
 end
-
--- doTargetCombatHealth(cid, target, type, min, max, effect)
