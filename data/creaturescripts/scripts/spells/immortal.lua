@@ -3,9 +3,5 @@ function onStatsChange(cid, attacker, type, combat, value)
         return true
     end
     
-    if not (getPlayerStorageValue(cid, "imortal") > 0) then
-        return true
-    end
-    
     return false
 end
