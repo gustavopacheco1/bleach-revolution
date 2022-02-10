@@ -1,7 +1,7 @@
 local spell = {
-    cooldown = 10,
+    cooldown = 15,
     percentage = 0.15, -- 0.15 = 15%, 0.3 = 30%...
-    effect = 30
+    effect = 89
 }
 
 function onCastSpell(cid, var)

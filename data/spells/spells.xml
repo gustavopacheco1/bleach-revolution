@@ -32,13 +32,13 @@
 	<instant name="Zabimaru Shikai" words="Zabimaru Shikai" lvl="100" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="special/Zabimaru Shikai.lua">
 		<vocation id="73-77" /> <!-- Renjii Abarai -->
 	</instant>
-	<instant name="Byakuya Roubo De Vida" words="byakuya roubo de vida" lvl="100" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="special/byakuya_roubo_de_vida.lua">
+	<instant name="Shikai" words="Shikai" lvl="100" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="special/Shikai.lua">
 		<vocation id="43-47" /> <!-- Byakuya Kuchiki -->
 	</instant>
-	<instant name="Gin Teleport" words="gin teleport" lvl="100" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0"  event="script" value="special/gin_teleport.lua">
+	<instant name="Te Peguei" words="Te Peguei" lvl="100" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0"  event="script" value="special/Te Peguei.lua">
 		<vocation id="79-83" /> <!-- Gin Ichimaru -->
 	</instant>
-	<instant name="Gin Poison" words="Gin Poison" lvl="100" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="special/gin_poison.lua">
+	<instant name="Buto Renjin" words="Buto Renjin" lvl="100" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="special/Buto Renjin.lua">
 		<vocation id="79-83" /> <!-- Gin Ichimaru -->
 	</instant>
 	

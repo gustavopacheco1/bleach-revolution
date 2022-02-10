@@ -1,8 +1,8 @@
 local spell = {
-    cooldown = 10,
-    teleport_time = 5,
+    cooldown = 30,
+    teleport_time = 7,
     range = 1,
-    marked_sqm_effect = 517,
+    marked_sqm_effect = 628,
     teleport_effect = 14,
 }
 
