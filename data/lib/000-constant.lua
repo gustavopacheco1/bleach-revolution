@@ -912,5 +912,3 @@ Storage_meta =
 
 STORAGE = {}
 setmetatable(STORAGE, Storage_meta)
-
-STORAGE_SAGA = 10222
