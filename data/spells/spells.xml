@@ -32,6 +32,9 @@
 	<instant name="Zabimaru Shikai" words="Zabimaru Shikai" lvl="450" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="special/Zabimaru Shikai.lua">
 		<vocation id="73-77" /> <!-- Renjii Abarai -->
 	</instant>
+	<instant name="Getsuga Final" words="Getsuga Final" lvl="450" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="special/Getsuga Final.lua">
+		<vocation id="1-6" /> <!-- Ichigo Kurosaki -->
+	</instant>
 	<instant name="Shikai" words="Shikai" lvl="400" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="special/Shikai.lua">
 		<vocation id="43-47" /> <!-- Byakuya Kuchiki -->
 	</instant>
@@ -95,7 +98,7 @@
 	<instant name="Bankai" words="bankai" aggressive="0" prem="0" selftarget="1" lvl="450" mana="1000" exhaustion="1000" event="script" value="special/buffs/bankai.lua">
 		<vocation id="37-41" /> <!-- Zaraki Kenpachi -->
 	</instant>
-	<instant name="Getsuga Bankai" words="getsuga bankai" aggressive="0" prem="0" selftarget="1" lvl="450" mana="1000" exhaustion="1000" event="script" value="special/buffs/getsuga_bankai.lua">
+	<instant name="Getsuga Bankai" words="getsuga bankai" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/getsuga_bankai.lua">
 		<vocation id="1-6" /> <!-- Ichigo Kurosaki -->
 	</instant>
 	<instant name="Ransotengai" words="Ransotengai" aggressive="0" prem="0" selftarget="1" lvl="450" mana="1000" exhaustion="1000" event="script" value="special/buffs/ransotengai.lua">
