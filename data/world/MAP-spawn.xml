@@ -3900,6 +3900,9 @@
 	<spawn centerx="3181" centery="3452" centerz="7" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3580" centery="3452" centerz="7" radius="1">
+		<npc name="Jinta" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3417" centery="3453" centerz="7" radius="1">
 		<monster name="snake hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -3914,6 +3917,9 @@
 	</spawn>
 	<spawn centerx="2983" centery="3458" centerz="7" radius="1">
 		<monster name="Giant Snake" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3582" centery="3458" centerz="7" radius="1">
+		<npc name="Urahara Kisuke" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3187" centery="3459" centerz="7" radius="1">
 		<monster name="Hollow wolf" x="0" y="0" z="7" spawntime="60" />
@@ -3939,6 +3945,9 @@
 	</spawn>
 	<spawn centerx="3424" centery="3464" centerz="7" radius="1">
 		<monster name="snake hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3580" centery="3464" centerz="7" radius="1">
+		<npc name="Ururu Tsumugiya" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3077" centery="3466" centerz="7" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -6587,6 +6596,9 @@
 	<spawn centerx="3411" centery="3455" centerz="8" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="120" />
 		<monster name="Gilliam" x="1" y="1" z="8" spawntime="120" />
+	</spawn>
+	<spawn centerx="3583" centery="3455" centerz="8" radius="1">
+		<npc name="Tessai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3429" centery="3456" centerz="8" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="120" />
