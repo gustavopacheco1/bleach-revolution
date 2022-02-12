@@ -576,3 +576,7 @@ function isWalkable(pos)
     end
     return true
 end
+
+function format_seconds(seconds)
+    return math.floor(seconds / 60) .. ":" .. (seconds % 60)
+end
