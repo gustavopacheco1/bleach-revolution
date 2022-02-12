@@ -4137,6 +4137,9 @@
 	<spawn centerx="3401" centery="3502" centerz="7" radius="1">
 		<monster name="snake hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3529" centery="3502" centerz="7" radius="1">
+		<npc name="Loots" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3014" centery="3503" centerz="7" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -4165,6 +4168,12 @@
 	<spawn centerx="3487" centery="3507" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3529" centery="3507" centerz="7" radius="1">
+		<npc name="Food" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3552" centery="3507" centerz="7" radius="1">
+		<npc name="Bless" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3069" centery="3508" centerz="7" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -4183,6 +4192,9 @@
 	<spawn centerx="3462" centery="3513" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3529" centery="3513" centerz="7" radius="1">
+		<npc name="Kurotsuchi" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3365" centery="3514" centerz="7" radius="1">
 		<monster name="snake hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -4197,6 +4209,9 @@
 	</spawn>
 	<spawn centerx="3489" centery="3516" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3551" centery="3516" centerz="7" radius="1">
+		<npc name="Yamamoto" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2970" centery="3517" centerz="7" radius="1">
 		<monster name="Giant Snake" x="0" y="-1" z="7" spawntime="60" />
