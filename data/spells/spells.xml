@@ -89,8 +89,10 @@
 	<instant name="Hyakkasou" words="Hyakkasou" lvl="400" mana="4000" prem="0" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1200" needlearn="0" event="script" value="special/trap/Hyakkasou.lua">
 		<vocation id="49-54" /> <!-- Toshiro Histugaya -->
 	</instant>
-	
 	<instant name="Goukei" words="Goukei" lvl="400" mana="4000" prem="0" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1200" needlearn="0" event="script" value="special/trap/Goukei.lua">
+		<vocation id="43-47" /> <!-- Byakuya Kuchiki -->
+	</instant>
+	<instant name="Trap Dano" words="trap dano" lvl="400" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="special/trap/trap_dano.lua">
 		<vocation id="43-47" /> <!-- Byakuya Kuchiki -->
 	</instant>
 
