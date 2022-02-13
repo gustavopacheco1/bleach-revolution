@@ -1270,7 +1270,7 @@
 		<monster name="Hollow Grande" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3391" centery="3356" centerz="6" radius="1">
-		<monster name="Mummy" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Mummy" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3169" centery="3357" centerz="6" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="6" spawntime="60" />
@@ -1332,7 +1332,7 @@
 		<monster name="Hollow wolf" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3415" centery="3364" centerz="6" radius="1">
-		<monster name="Mummy" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Mummy" x="1" y="0" z="6" spawntime="60" />
 		<monster name="Mummy" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3427" centery="3364" centerz="6" radius="1">
@@ -1431,7 +1431,7 @@
 		<monster name="Mummy" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3427" centery="3377" centerz="6" radius="1">
-		<monster name="Mummy" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Mummy" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3371" centery="3378" centerz="6" radius="1">
 		<monster name="Mummy" x="0" y="-1" z="6" spawntime="60" />
@@ -1462,6 +1462,15 @@
 	</spawn>
 	<spawn centerx="3391" centery="3384" centerz="6" radius="1">
 		<monster name="Mummy" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3403" centery="3384" centerz="6" radius="1">
+		<monster name="Mummy" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3413" centery="3384" centerz="6" radius="1">
+		<monster name="Mummy" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3427" centery="3384" centerz="6" radius="1">
+		<monster name="Mummy" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3438" centery="3384" centerz="6" radius="1">
 		<monster name="Mummy" x="-1" y="-1" z="6" spawntime="60" />
@@ -3482,7 +3491,7 @@
 		<monster name="Hollow Grande" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3393" centery="3347" centerz="7" radius="1">
-		<monster name="Mummy" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Mummy" x="-1" y="1" z="7" spawntime="60" />
 		<monster name="Mummy" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3372" centery="3349" centerz="7" radius="1">
@@ -3585,8 +3594,8 @@
 		<monster name="Mummy" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3419" centery="3364" centerz="7" radius="1">
-		<monster name="Mummy" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Mummy" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Mummy" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3097" centery="3367" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="1" y="-1" z="7" spawntime="60" />
@@ -3647,7 +3656,7 @@
 		<monster name="Mummy" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3427" centery="3377" centerz="7" radius="1">
-		<monster name="Mummy" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Mummy" x="-1" y="0" z="7" spawntime="60" />
 		<monster name="Mummy" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3371" centery="3379" centerz="7" radius="1">
