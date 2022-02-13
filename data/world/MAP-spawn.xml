@@ -7232,6 +7232,9 @@
 	<spawn centerx="3102" centery="3615" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3798" centery="3615" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3170" centery="3616" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
@@ -7250,6 +7253,9 @@
 	</spawn>
 	<spawn centerx="3108" centery="3620" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3800" centery="3620" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3491" centery="3621" centerz="8" radius="1">
 		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
@@ -7278,12 +7284,18 @@
 		<monster name="Giant Snake Hollow" x="0" y="-1" z="8" spawntime="60" />
 		<monster name="Giant Snake Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3803" centery="3625" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="4173" centery="3627" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3570" centery="3628" centerz="8" radius="1">
 		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
 		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3811" centery="3628" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3162" centery="3629" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="0" y="-1" z="8" spawntime="60" />
@@ -7306,6 +7318,9 @@
 	<spawn centerx="3460" centery="3631" centerz="8" radius="1">
 		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Black wolf" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3817" centery="3631" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3140" centery="3632" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="0" y="1" z="8" spawntime="60" />
@@ -7362,6 +7377,9 @@
 		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
 		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3820" centery="3636" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="4153" centery="3636" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -7399,6 +7417,27 @@
 	<spawn centerx="3685" centery="3642" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3795" centery="3642" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3805" centery="3642" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3822" centery="3643" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3845" centery="3643" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3855" centery="3643" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3786" centery="3645" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3814" centery="3645" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3660" centery="3648" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -7414,17 +7453,38 @@
 	<spawn centerx="4228" centery="3648" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3840" centery="3649" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="4188" centery="3649" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4152" centery="3651" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3784" centery="3653" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3856" centery="3653" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3836" centery="3654" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3812" centery="3656" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3822" centery="3656" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="4084" centery="3656" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4104" centery="3656" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3830" centery="3657" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4093" centery="3657" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
@@ -7437,6 +7497,27 @@
 	</spawn>
 	<spawn centerx="4177" centery="3659" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3787" centery="3660" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3856" centery="3660" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3805" centery="3663" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3821" centery="3665" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3791" centery="3666" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3796" centery="3671" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3814" centery="3673" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3845" centery="3868" centerz="8" radius="1">
 		<monster name="Nnoitra" x="0" y="-1" z="8" spawntime="60" />
@@ -7944,6 +8025,81 @@
 	<spawn centerx="3423" centery="3473" centerz="9" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="9" spawntime="120" />
 		<monster name="Gilliam" x="1" y="1" z="9" spawntime="120" />
+	</spawn>
+	<spawn centerx="3796" centery="3631" centerz="9" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3808" centery="3631" centerz="9" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3824" centery="3631" centerz="9" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3811" centery="3639" centerz="9" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3786" centery="3640" centerz="9" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3801" centery="3640" centerz="9" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3822" centery="3641" centerz="9" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3828" centery="3647" centerz="9" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3799" centery="3648" centerz="9" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3843" centery="3649" centerz="9" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3812" centery="3654" centerz="9" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3786" centery="3655" centerz="9" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3843" centery="3656" centerz="9" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3827" centery="3658" centerz="9" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3805" centery="3659" centerz="9" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3842" centery="3664" centerz="9" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3791" centery="3665" centerz="9" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3831" centery="3666" centerz="9" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3819" centery="3669" centerz="9" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3811" centery="3671" centerz="9" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3800" centery="3672" centerz="9" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3795" centery="3681" centerz="9" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3813" centery="3684" centerz="9" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3806" centery="3688" centerz="9" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3798" centery="3689" centerz="9" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3636" centery="3876" centerz="9" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="9" spawntime="60" />
