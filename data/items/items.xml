@@ -21930,35 +21930,6 @@
 		<attribute key="slotType" value="feet" />
 	</item>
 
-	<!-- Sets -->
-	<item id="15056" name="Vasto Lord Helmet">
-		<attribute key="weight" value="1000" />
-		<attribute key="armor" value="35" />
-		<attribute key="manaGain" value="2000" />
-		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="2000" />
-		<attribute key="healthTicks" value="1000" />
-		<attribute key="slotType" value="head" />
-	</item>
-	<item id="15057" name="Metal Armor">
-		<attribute key="weight" value="3000" />
-		<attribute key="armor" value="30" />
-		<attribute key="manaGain" value="1800" />
-		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="1800" />
-		<attribute key="healthTicks" value="1000" />
-		<attribute key="slotType" value="body" />
-	</item>
-	<item id="15059" name="Metal Legs">
-		<attribute key="weight" value="3000" />
-		<attribute key="armor" value="25" />
-		<attribute key="manaGain" value="1500" />
-		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="1500" />
-		<attribute key="healthTicks" value="1000" />
-		<attribute key="slotType" value="legs" />
-	</item>
-
 	<!-- Samurai -->
 	<item id="15077" name="Samurai Helmet">
 		<attribute key="weight" value="1000" />
@@ -22057,75 +22028,6 @@
 		<attribute key="slotType" value="feet" />
 	</item>
 
-	<!-- Black Risck -->
-	<item id="11087" name="Black Risck Armor">
-		<attribute key="weight" value="3000" />
-		<attribute key="armor" value="40" />
-		<attribute key="manaGain" value="1100" />
-		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="1100" />
-		<attribute key="healthTicks" value="1000" />
-		<attribute key="slotType" value="body" />
-	</item>
-	<item id="11088" name="Black Risck Legs">
-		<attribute key="weight" value="3000" />
-		<attribute key="armor" value="17" />
-		<attribute key="manaGain" value="700" />
-		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="700" />
-		<attribute key="healthTicks" value="1000" />
-		<attribute key="slotType" value="legs" />
-	</item>
-	<item id="15822" name="Black Risck Boots">
-		<attribute key="weight" value="2100" />
-		<attribute key="armor" value="20" />
-		<attribute key="speed" value="25" />
-		<attribute key="manaGain" value="1000" />
-		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="1000" />
-		<attribute key="healthTicks" value="1000" />
-		<attribute key="slotType" value="feet" />
-	</item>
-
-	<!-- Branc Set -->
-	<item id="15193" name="Branck Helmet">
-		<attribute key="weight" value="1000" />
-		<attribute key="armor" value="30" />
-		<attribute key="manaGain" value="1700" />
-		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="1700" />
-		<attribute key="healthTicks" value="1000" />
-		<attribute key="slotType" value="head" />
-	</item>
-	<item id="15087" name="Branck Armor">
-		<attribute key="weight" value="3000" />
-		<attribute key="armor" value="40" />
-		<attribute key="manaGain" value="2000" />
-		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="2000" />
-		<attribute key="healthTicks" value="1000" />
-		<attribute key="slotType" value="body" />
-	</item>
-	<item id="15194" name="Branck Legs">
-		<attribute key="weight" value="3000" />
-		<attribute key="armor" value="35" />
-		<attribute key="manaGain" value="1800" />
-		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="1800" />
-		<attribute key="healthTicks" value="1000" />
-		<attribute key="slotType" value="legs" />
-	</item>
-	<item id="10673" name="Branck Boots">
-		<attribute key="weight" value="2100" />
-		<attribute key="armor" value="20" />
-		<attribute key="speed" value="25" />
-		<attribute key="manaGain" value="1000" />
-		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="1000" />
-		<attribute key="healthTicks" value="1000" />
-		<attribute key="slotType" value="feet" />
-	</item>
-
 	<!-- Mummy -->
 	<item id="10690" name="Mummy Helmet">
 		<attribute key="weight" value="1000" />
@@ -22203,89 +22105,6 @@
 		<attribute key="healthGain" value="2200" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="legs" />
-	</item>
-
-	<!-- Armors -->
-	<item id="15223" name="Hallibel Armor">
-		<attribute key="weight" value="3000" />
-		<attribute key="armor" value="42" />
-		<attribute key="manaGain" value="2300" />
-		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="2300" />
-		<attribute key="healthTicks" value="1000" />
-		<attribute key="slotType" value="body" />
-	</item>
-	<item id="15224" name="Tousen Armor">
-		<attribute key="weight" value="3000" />
-		<attribute key="armor" value="45" />
-		<attribute key="manaGain" value="2600" />
-		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="2600" />
-		<attribute key="healthTicks" value="1000" />
-		<attribute key="slotType" value="body" />
-	</item>
-	<item id="15225" name="Nnoitra Armor">
-		<attribute key="weight" value="3000" />
-		<attribute key="armor" value="47" />
-		<attribute key="manaGain" value="2900" />
-		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="2900" />
-		<attribute key="healthTicks" value="1000" />
-		<attribute key="slotType" value="body" />
-	</item>
-	<item id="15227" name="Zangetsu Armor">
-		<attribute key="weight" value="3000" />
-		<attribute key="armor" value="50" />
-		<attribute key="manaGain" value="3200" />
-		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="3200" />
-		<attribute key="healthTicks" value="1000" />
-		<attribute key="slotType" value="body" />
-	</item>
-	<item id="15811" name="Shikai Zangetsu Armor">
-		<attribute key="weight" value="3000" />
-		<attribute key="armor" value="55" />
-		<attribute key="manaGain" value="3500" />
-		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="3500" />
-		<attribute key="healthTicks" value="1000" />
-		<attribute key="slotType" value="body" />
-	</item>
-	<item id="10662" name="Haori Armor">
-		<attribute key="weight" value="3000" />
-		<attribute key="armor" value="43" />
-		<attribute key="manaGain" value="2100" />
-		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="2100" />
-		<attribute key="healthTicks" value="1000" />
-		<attribute key="slotType" value="body" />
-	</item>
-	<item id="10663" name="Ichigo Armor">
-		<attribute key="weight" value="3000" />
-		<attribute key="armor" value="48" />
-		<attribute key="manaGain" value="2800" />
-		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="2800" />
-		<attribute key="healthTicks" value="1000" />
-		<attribute key="slotType" value="body" />
-	</item>
-	<item id="15773" name="Capitao Armor">
-		<attribute key="weight" value="3000" />
-		<attribute key="armor" value="60" />
-		<attribute key="manaGain" value="4100" />
-		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="4100" />
-		<attribute key="healthTicks" value="1000" />
-		<attribute key="slotType" value="body" />
-	</item>
-	<item id="15112" name="Aizen Armor">
-		<attribute key="weight" value="3000" />
-		<attribute key="armor" value="50" />
-		<attribute key="manaGain" value="3700" />
-		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="3700" />
-		<attribute key="healthTicks" value="1000" />
-		<attribute key="slotType" value="body" />
 	</item>
 
 	<!-- Mask -->

@@ -706,26 +706,6 @@
 	<movevent type="Equip" itemid="15718" level="100" slot="feet" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="15718" slot="feet" event="function" value="onDeEquipItem"/>
 	
-	<!-- Vasto Lord Set -->
-	
-	<movevent type="Equip" itemid="15723" level="400" slot="head" event="function" value="onEquipItem"/>
-	<movevent type="DeEquip" itemid="15723" slot="head" event="function" value="onDeEquipItem"/>
-	<movevent type="Equip" itemid="15726" level="400" slot="armor" event="function" value="onEquipItem"/>
-	<movevent type="DeEquip" itemid="15726" slot="armor" event="function" value="onDeEquipItem"/>
-	<movevent type="Equip" itemid="15727" level="400" slot="legs" event="function" value="onEquipItem"/>
-	<movevent type="DeEquip" itemid="15727" slot="legs" event="function" value="onDeEquipItem"/>
-	<movevent type="Equip" itemid="15722" level="400" slot="feet" event="function" value="onEquipItem"/>
-	<movevent type="DeEquip" itemid="15722" slot="feet" event="function" value="onDeEquipItem"/>
-	
-	<!-- Metal Set -->
-	
-	<movevent type="Equip" itemid="15056" level="400" slot="head" event="function" value="onEquipItem"/>
-	<movevent type="DeEquip" itemid="15056" slot="head" event="function" value="onDeEquipItem"/>
-	<movevent type="Equip" itemid="15057" level="400" slot="armor" event="function" value="onEquipItem"/>
-	<movevent type="DeEquip" itemid="15057" slot="armor" event="function" value="onDeEquipItem"/>
-	<movevent type="Equip" itemid="15059" level="400" slot="legs" event="function" value="onEquipItem"/>
-	<movevent type="DeEquip" itemid="15059" slot="legs" event="function" value="onDeEquipItem"/>
-	
 	<!-- Samurai -->
 	
 	<movevent type="Equip" itemid="15077" level="150" slot="head" event="function" value="onEquipItem"/>
@@ -755,25 +735,6 @@
 	<movevent type="Equip" itemid="15815" level="250" slot="feet" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="15815" slot="feet" event="function" value="onDeEquipItem"/>
 	
-	<!-- Black Risck Set -->
-	<movevent type="Equip" itemid="11087" level="125" slot="armor" event="function" value="onEquipItem"/>
-	<movevent type="DeEquip" itemid="11087" slot="armor" event="function" value="onDeEquipItem"/>
-	<movevent type="Equip" itemid="11088" level="125" slot="legs" event="function" value="onEquipItem"/>
-	<movevent type="DeEquip" itemid="11088" slot="legs" event="function" value="onDeEquipItem"/>
-	<movevent type="Equip" itemid="15822" level="125" slot="feet" event="function" value="onEquipItem"/>
-	<movevent type="DeEquip" itemid="15822" slot="feet" event="function" value="onDeEquipItem"/>
-	
-	<!-- Branc Set -->
-	
-	<movevent type="Equip" itemid="15193" level="300" slot="head" event="function" value="onEquipItem"/>
-	<movevent type="DeEquip" itemid="15193" slot="head" event="function" value="onDeEquipItem"/>
-	<movevent type="Equip" itemid="15087" level="300" slot="armor" event="function" value="onEquipItem"/>
-	<movevent type="DeEquip" itemid="15087" slot="armor" event="function" value="onDeEquipItem"/>
-	<movevent type="Equip" itemid="15194" level="300" slot="legs" event="function" value="onEquipItem"/>
-	<movevent type="DeEquip" itemid="15194" slot="legs" event="function" value="onDeEquipItem"/>
-	<movevent type="Equip" itemid="10673" level="300" slot="feet" event="function" value="onEquipItem"/>
-	<movevent type="DeEquip" itemid="10673" slot="feet" event="function" value="onDeEquipItem"/>
-	
 	<!-- Mummy Set -->
 	
 	<movevent type="Equip" itemid="10690" level="250" slot="head" event="function" value="onEquipItem"/>
@@ -798,36 +759,6 @@
 	<movevent type="DeEquip" itemid="15222" slot="armor" event="function" value="onDeEquipItem"/>
 	<movevent type="Equip" itemid="15229" level="290" slot="legs" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="15229" slot="legs" event="function" value="onDeEquipItem"/>
-	
-	<!-- Armors -->
-	
-	<movevent type="Equip" itemid="15223" level="250" slot="armor" event="function" value="onEquipItem"/>
-	<movevent type="DeEquip" itemid="15223" slot="armor" event="function" value="onDeEquipItem"/>
-	
-	<movevent type="Equip" itemid="15224" level="275" slot="armor" event="function" value="onEquipItem"/>
-	<movevent type="DeEquip" itemid="15224" slot="armor" event="function" value="onDeEquipItem"/>
-	
-	<movevent type="Equip" itemid="15225" level="300" slot="armor" event="function" value="onEquipItem"/>
-	<movevent type="DeEquip" itemid="15225" slot="armor" event="function" value="onDeEquipItem"/>
-	
-	<movevent type="Equip" itemid="15227" level="320" slot="armor" event="function" value="onEquipItem"/>
-	<movevent type="DeEquip" itemid="15227" slot="armor" event="function" value="onDeEquipItem"/>
-	
-	<movevent type="Equip" itemid="15811" level="350" slot="armor" event="function" value="onEquipItem"/>
-	<movevent type="DeEquip" itemid="15811" slot="armor" event="function" value="onDeEquipItem"/>
-	
-	<movevent type="Equip" itemid="10662" level="230" slot="armor" event="function" value="onEquipItem"/>
-	<movevent type="DeEquip" itemid="10662" slot="armor" event="function" value="onDeEquipItem"/>
-	
-	<movevent type="Equip" itemid="10663" level="310" slot="armor" event="function" value="onEquipItem"/>
-	<movevent type="DeEquip" itemid="10663" slot="armor" event="function" value="onDeEquipItem"/>
-	
-	
-	<movevent type="Equip" itemid="15773" level="400" slot="armor" event="function" value="onEquipItem"/>
-	<movevent type="DeEquip" itemid="15773" slot="armor" event="function" value="onDeEquipItem"/>
-	
-	<movevent type="Equip" itemid="15112" level="380" slot="armor" event="function" value="onEquipItem"/>
-	<movevent type="DeEquip" itemid="15112" slot="armor" event="function" value="onDeEquipItem"/>
 	
 	<!-- Mask -->
 	
