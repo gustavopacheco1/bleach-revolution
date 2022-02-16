@@ -14,6 +14,7 @@ VOCATION_REVERT = {
 	["Gin Ichimaru"] = {vocation = 79, looktype = 316, effect = {number = 10}},
 	["Kuugo Ginjou"] = {vocation = 85, looktype = 326, effect = {number = 10}},
 	["Tier Halibel"] = {vocation = 91, looktype = 321, effect = {number = 10}},
+	["Urahara Kisuke"] = {vocation = 98, looktype = 331, effect = {number = 10}},
 }
 
 VOCATION_TRANSFORM = {
@@ -112,7 +113,12 @@ VOCATION_TRANSFORM = {
     [92] = {level = 200, vocation = 93, looktype = 323, effect = {number = 10}},
     [93] = {level = 300, vocation = 94, looktype = 324, effect = {number = 10}},
     [94] = {level = 400, vocation = 95, looktype = 325, effect = {number = 10}},	
-
+	
+	-- Urahara Kisuke
+	[98] = {level = 100, vocation = 99, looktype = 332, effect = {number = 10}},
+    [99] = {level = 200, vocation = 100, looktype = 333, effect = {number = 10}},
+    [100] = {level = 300, vocation = 101, looktype = 334, effect = {number = 10}},
+    [101] = {level = 400, vocation = 102, looktype = 335, effect = {number = 10}},
 }
 
 
