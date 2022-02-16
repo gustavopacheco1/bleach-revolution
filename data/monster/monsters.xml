@@ -33,7 +33,9 @@
 	<monster name="Fake Prisoner" file="hunt/Fake Prisoner.xml"/>
 	<monster name="Quincy" file="hunt/Quincy.xml"/>
 	<monster name="Jagdarmee" file="hunt/Jagdarmee.xml"/>
-
+	<monster name="Urahara" file="hunt/Urahara.xml"/>
+	<monster name="Urahara Two" file="hunt/Urahara Two.xml"/>
+    <monster name="Urahara Three" file="hunt/Urahara Three.xml"/>
 	<!-- Clones -->
 	<monster name="Rukia Clone" file="clones/Rukia Clone.xml"/>
 </monsters>

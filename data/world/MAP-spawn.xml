@@ -11,11 +11,35 @@
 		<monster name="Fraccion" x="1" y="-1" z="4" spawntime="60" />
 		<monster name="Fraccion" x="1" y="1" z="4" spawntime="60" />
 	</spawn>
+	<spawn centerx="3595" centery="3477" centerz="4" radius="1">
+		<monster name="Trainer" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3605" centery="3477" centerz="4" radius="1">
+		<monster name="Trainer" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
 	<spawn centerx="3969" centery="3480" centerz="4" radius="1">
 		<monster name="Fraccion" x="0" y="1" z="4" spawntime="60" />
 	</spawn>
+	<spawn centerx="3595" centery="3481" centerz="4" radius="1">
+		<monster name="Trainer" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3600" centery="3481" centerz="4" radius="1">
+		<monster name="Trainer" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3605" centery="3481" centerz="4" radius="1">
+		<monster name="Trainer" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
 	<spawn centerx="3938" centery="3483" centerz="4" radius="1">
 		<monster name="Fraccion" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3595" centery="3485" centerz="4" radius="1">
+		<monster name="Trainer" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3600" centery="3485" centerz="4" radius="1">
+		<monster name="Trainer" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3605" centery="3485" centerz="4" radius="1">
+		<monster name="Trainer" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3943" centery="3488" centerz="4" radius="1">
 		<monster name="Fraccion" x="0" y="-1" z="4" spawntime="60" />
@@ -1038,6 +1062,306 @@
 	<spawn centerx="3374" centery="3132" centerz="6" radius="1">
 		<monster name="Arrancar hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2895" centery="3152" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2906" centery="3152" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2916" centery="3152" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2927" centery="3153" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2904" centery="3159" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2917" centery="3159" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2888" centery="3160" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2895" centery="3161" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2910" centery="3163" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2925" centery="3163" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2884" centery="3168" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2900" centery="3168" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2891" centery="3169" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2905" centery="3169" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2919" centery="3169" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2896" centery="3177" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2914" centery="3177" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2888" centery="3178" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2879" centery="3179" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2903" centery="3179" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2883" centery="3184" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2894" centery="3186" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2920" centery="3188" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2905" centery="3189" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2873" centery="3190" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2881" centery="3191" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2890" centery="3192" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2864" centery="3195" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2879" centery="3196" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2897" centery="3197" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2919" centery="3197" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2871" centery="3201" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2883" centery="3202" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2854" centery="3203" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2905" centery="3203" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2915" centery="3205" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2865" centery="3207" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2876" centery="3208" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2895" centery="3210" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2905" centery="3211" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2871" centery="3214" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2884" centery="3214" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2854" centery="3215" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2915" centery="3215" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2863" centery="3217" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2920" centery="3220" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2880" centery="3221" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2896" centery="3221" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2906" centery="3221" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2870" centery="3224" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2851" centery="3227" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2862" centery="3227" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2887" centery="3228" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2897" centery="3229" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2917" centery="3230" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2877" centery="3232" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2909" centery="3233" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2872" centery="3234" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2860" centery="3236" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2898" centery="3239" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2848" centery="3241" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2886" centery="3241" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2869" centery="3242" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2918" centery="3243" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2909" centery="3245" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2855" centery="3247" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2866" centery="3249" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2877" centery="3250" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2900" centery="3251" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2889" centery="3252" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2848" centery="3253" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2921" centery="3254" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2857" centery="3256" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2893" centery="3258" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2912" centery="3258" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2881" centery="3259" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2868" centery="3262" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2901" centery="3262" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2848" centery="3263" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2924" centery="3263" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2858" centery="3265" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2877" centery="3268" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2887" centery="3270" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2912" centery="3270" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2862" centery="3272" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2849" centery="3273" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2901" centery="3273" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2926" centery="3273" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2872" centery="3275" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2880" centery="3279" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2913" centery="3279" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2854" centery="3280" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2889" centery="3280" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2900" centery="3282" centerz="6" radius="1">
+		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2924" centery="3284" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2866" centery="3285" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2877" centery="3289" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2889" centery="3291" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2914" centery="3292" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2902" centery="3293" centerz="6" radius="1">
+		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3687" centery="3304" centerz="6" radius="1">
 		<monster name="Mini Fisher" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
@@ -1403,10 +1727,10 @@
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3579" centery="3398" centerz="6" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3593" centery="3398" centerz="6" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2996" centery="3399" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
@@ -1415,60 +1739,60 @@
 		<monster name="Hollow wolf" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3574" centery="3402" centerz="6" radius="1">
-		<monster name="black wolf" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="black wolf" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3588" centery="3403" centerz="6" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="black wolf" x="1" y="1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3592" centery="3403" centerz="6" radius="1">
-		<monster name="black wolf" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3579" centery="3404" centerz="6" radius="1">
-		<monster name="black wolf" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="black wolf" x="1" y="1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3583" centery="3404" centerz="6" radius="1">
-		<monster name="black wolf" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="black wolf" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3596" centery="3406" centerz="6" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="black wolf" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3264" centery="3407" centerz="6" radius="1">
 		<monster name="Hollow wolf" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3592" centery="3408" centerz="6" radius="1">
-		<monster name="black wolf" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="black wolf" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3573" centery="3409" centerz="6" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3588" centery="3409" centerz="6" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3264" centery="3411" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3579" centery="3411" centerz="6" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3584" centery="3413" centerz="6" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="black wolf" x="1" y="1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3591" centery="3413" centerz="6" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3596" centery="3414" centerz="6" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3574" centery="3416" centerz="6" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="black wolf" x="1" y="1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2993" centery="3418" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
@@ -1477,11 +1801,11 @@
 		<monster name="Hollow wolf" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3581" centery="3419" centerz="6" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3590" centery="3419" centerz="6" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="black wolf" x="1" y="1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3275" centery="3422" centerz="6" radius="1">
 		<monster name="Hollow wolf" x="0" y="0" z="6" spawntime="60" />
@@ -1655,6 +1979,9 @@
 	</spawn>
 	<spawn centerx="3304" centery="3517" centerz="6" radius="1">
 		<monster name="Hollow wolf" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3548" centery="3517" centerz="6" radius="1">
+		<npc name="Isshin Kurosaki" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2976" centery="3519" centerz="6" radius="1">
 		<monster name="Hollow wolf" x="0" y="0" z="6" spawntime="60" />
@@ -2221,13 +2548,13 @@
 		<monster name="Hollow wolf" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3563" centery="3677" centerz="6" radius="1">
-		<monster name="black wolf" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3543" centery="3678" centerz="6" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3552" centery="3678" centerz="6" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3680" centery="3679" centerz="6" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
@@ -2245,13 +2572,13 @@
 		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3554" centery="3685" centerz="6" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3566" centery="3685" centerz="6" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3542" centery="3686" centerz="6" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3678" centery="3686" centerz="6" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
@@ -2260,7 +2587,7 @@
 		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3559" centery="3689" centerz="6" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3665" centery="3690" centerz="6" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
@@ -2269,10 +2596,10 @@
 		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3541" centery="3695" centerz="6" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3567" centery="3696" centerz="6" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3696" centery="3696" centerz="6" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
@@ -2281,10 +2608,10 @@
 		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3548" centery="3698" centerz="6" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3557" centery="3698" centerz="6" radius="1">
-		<monster name="black wolf" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Black wolf" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3679" centery="3698" centerz="6" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
@@ -3213,14 +3540,320 @@
 	<spawn centerx="3367" centery="3144" centerz="7" radius="1">
 		<monster name="Arrancar hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2970" centery="3161" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2981" centery="3161" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2991" centery="3161" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2956" centery="3163" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3000" centery="3166" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2946" centery="3170" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2977" centery="3172" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2968" centery="3174" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2991" centery="3174" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2962" centery="3178" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3008" centery="3178" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2938" centery="3180" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2998" centery="3182" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2954" centery="3184" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2939" centery="3188" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2979" centery="3191" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2968" centery="3192" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3013" centery="3192" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3002" centery="3195" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2951" centery="3198" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2989" centery="3198" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2937" centery="3200" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2974" centery="3201" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2961" centery="3202" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3015" centery="3203" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3004" centery="3206" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3087" centery="3207" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2951" centery="3208" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3064" centery="3208" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2935" centery="3209" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2990" centery="3209" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3054" centery="3210" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2960" centery="3213" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2970" centery="3213" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3016" centery="3214" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2948" centery="3217" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2981" centery="3217" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3003" centery="3218" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3143" centery="3218" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3014" centery="3221" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3124" centery="3221" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2934" centery="3222" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2968" centery="3222" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3050" centery="3222" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2959" centery="3223" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3094" centery="3223" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2976" centery="3224" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2997" centery="3224" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2937" centery="3229" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3111" centery="3229" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3154" centery="3230" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2946" centery="3231" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2991" centery="3231" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3010" centery="3231" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2974" centery="3232" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3056" centery="3234" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2959" centery="3236" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2985" centery="3236" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3092" centery="3236" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3005" centery="3237" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3077" centery="3241" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3175" centery="3241" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2933" centery="3242" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2948" centery="3242" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2967" centery="3242" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3191" centery="3242" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2996" centery="3243" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2984" centery="3245" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3206" centery="3246" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3229" centery="3248" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3117" centery="3249" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3252" centery="3252" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2983" centery="3254" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3283" centery="3254" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3298" centery="3254" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3324" centery="3254" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2937" centery="3255" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2948" centery="3255" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3266" centery="3255" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3311" centery="3255" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3341" centery="3255" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2997" centery="3256" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3213" centery="3260" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2958" centery="3261" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2978" centery="3261" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3143" centery="3261" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2969" centery="3262" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3123" centery="3263" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2994" centery="3266" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2941" centery="3267" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3247" centery="3267" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3175" centery="3271" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2953" centery="3272" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2989" centery="3272" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2963" centery="3274" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2975" centery="3274" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3160" centery="3275" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3206" centery="3276" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3233" centery="3277" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3689" centery="3285" centerz="7" radius="1">
 		<monster name="Mini Fisher" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3190" centery="3286" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3677" centery="3286" centerz="7" radius="1">
 		<monster name="Mini Fisher" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3703" centery="3286" centerz="7" radius="1">
 		<monster name="Mini Fisher" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3234" centery="3287" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3218" centery="3288" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3716" centery="3290" centerz="7" radius="1">
 		<monster name="Mini Fisher" x="1" y="-1" z="7" spawntime="60" />
@@ -3626,21 +4259,21 @@
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3576" centery="3398" centerz="7" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="black wolf" x="1" y="1" z="7" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Black wolf" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3595" centery="3399" centerz="7" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="black wolf" x="1" y="1" z="7" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Black wolf" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3584" centery="3400" centerz="7" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3062" centery="3402" centerz="7" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3573" centery="3403" centerz="7" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3632" centery="3404" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
@@ -3649,18 +4282,18 @@
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3585" centery="3407" centerz="7" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="black wolf" x="0" y="1" z="7" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Black wolf" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3596" centery="3407" centerz="7" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3059" centery="3409" centerz="7" radius="1">
 		<monster name="Hollow wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3573" centery="3410" centerz="7" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="black wolf" x="0" y="1" z="7" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Black wolf" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3638" centery="3411" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -3672,21 +4305,21 @@
 		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3596" centery="3414" centerz="7" radius="1">
-		<monster name="black wolf" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="black wolf" x="1" y="1" z="7" spawntime="60" />
+		<monster name="Black wolf" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Black wolf" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3642" centery="3416" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3574" centery="3417" centerz="7" radius="1">
-		<monster name="black wolf" x="1" y="0" z="7" spawntime="60" />
+		<monster name="Black wolf" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3583" centery="3419" centerz="7" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="black wolf" x="1" y="1" z="7" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Black wolf" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3593" centery="3419" centerz="7" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3044" centery="3420" centerz="7" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -4003,7 +4636,7 @@
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3529" centery="3501" centerz="7" radius="1">
-		<npc name="Loots" x="0" y="0" z="7" spawntime="60" />
+		<npc name="Kenji" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3401" centery="3502" centerz="7" radius="1">
 		<monster name="snake hollow" x="0" y="0" z="7" spawntime="60" />
@@ -4025,7 +4658,7 @@
 		<monster name="Giant Snake" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3529" centery="3506" centerz="7" radius="1">
-		<npc name="Food" x="0" y="0" z="7" spawntime="60" />
+		<npc name="Hikari" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2989" centery="3507" centerz="7" radius="1">
 		<monster name="Giant Snake" x="0" y="-1" z="7" spawntime="60" />
@@ -4094,9 +4727,6 @@
 	</spawn>
 	<spawn centerx="3409" centery="3518" centerz="7" radius="1">
 		<monster name="snake hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3570" centery="3519" centerz="7" radius="1">
-		<npc name="Especial" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3065" centery="3521" centerz="7" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -5433,13 +6063,13 @@
 		<monster name="Quincy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3544" centery="3678" centerz="7" radius="1">
-		<monster name="black wolf" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Black wolf" x="-1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3560" centery="3678" centerz="7" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3567" centery="3678" centerz="7" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3681" centery="3679" centerz="7" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="7" spawntime="60" />
@@ -5454,7 +6084,7 @@
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3550" centery="3680" centerz="7" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3672" centery="3681" centerz="7" radius="1">
 		<monster name="Fishbone D" x="0" y="1" z="7" spawntime="60" />
@@ -5472,7 +6102,7 @@
 		<monster name="Quincy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3541" centery="3685" centerz="7" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3757" centery="3685" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -5481,10 +6111,10 @@
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3567" centery="3686" centerz="7" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3553" centery="3687" centerz="7" radius="1">
-		<monster name="black wolf" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Black wolf" x="-1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3666" centery="3687" centerz="7" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="7" spawntime="60" />
@@ -5514,7 +6144,7 @@
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3553" centery="3692" centerz="7" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3588" centery="3692" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -5526,10 +6156,10 @@
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3541" centery="3693" centerz="7" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3567" centery="3693" centerz="7" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3685" centery="3693" centerz="7" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="7" spawntime="60" />
@@ -5547,13 +6177,13 @@
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3545" centery="3698" centerz="7" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3552" centery="3698" centerz="7" radius="1">
-		<monster name="black wolf" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Black wolf" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3562" centery="3698" centerz="7" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3673" centery="3698" centerz="7" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="7" spawntime="60" />
@@ -6710,35 +7340,35 @@
 		<monster name="Giant Snake" x="-1" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3460" centery="3518" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3470" centery="3518" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3480" centery="3519" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3493" centery="3519" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3515" centery="3519" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3504" centery="3520" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3525" centery="3520" centerz="8" radius="1">
-		<monster name="black wolf" x="-1" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3534" centery="3520" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3043" centery="3521" centerz="8" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="8" spawntime="60" />
@@ -6752,7 +7382,7 @@
 		<monster name="Giant Snake" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3542" centery="3521" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3029" centery="3522" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="8" spawntime="60" />
@@ -6766,37 +7396,37 @@
 		<monster name="Giant Snake" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3466" centery="3524" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3474" centery="3524" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3487" centery="3524" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3499" centery="3524" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3510" centery="3524" centerz="8" radius="1">
-		<monster name="black wolf" x="-1" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3520" centery="3524" centerz="8" radius="1">
-		<monster name="black wolf" x="-1" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3529" centery="3524" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3538" centery="3524" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3546" centery="3524" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3221" centery="3525" centerz="8" radius="1">
 		<monster name="Giant Snake" x="0" y="-1" z="8" spawntime="60" />
@@ -6818,8 +7448,8 @@
 		<monster name="Giant Snake" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3460" centery="3529" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3227" centery="3530" centerz="8" radius="1">
 		<monster name="Giant Snake" x="0" y="-1" z="8" spawntime="60" />
@@ -6832,64 +7462,64 @@
 		<monster name="Giant Snake" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3550" centery="3534" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3491" centery="3535" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3460" centery="3537" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3460" centery="3545" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3491" centery="3545" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3550" centery="3545" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3460" centery="3553" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3491" centery="3553" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3550" centery="3554" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3491" centery="3561" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3460" centery="3562" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
-		<monster name="black wolf" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="1" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3550" centery="3564" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3491" centery="3568" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3460" centery="3571" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
-		<monster name="black wolf" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="1" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3550" centery="3572" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3131" centery="3577" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="0" y="-1" z="8" spawntime="60" />
@@ -6900,20 +7530,20 @@
 		<monster name="Giant Snake Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3491" centery="3577" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3148" centery="3579" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="0" y="-1" z="8" spawntime="60" />
 		<monster name="Giant Snake Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3460" centery="3580" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
-		<monster name="black wolf" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="1" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3550" centery="3580" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3124" centery="3581" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="1" y="0" z="8" spawntime="60" />
@@ -6927,48 +7557,48 @@
 		<monster name="Giant Snake Hollow" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3467" centery="3586" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3478" centery="3586" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3491" centery="3586" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3500" centery="3586" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3511" centery="3586" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3519" centery="3586" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3528" centery="3586" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3536" centery="3586" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3545" centery="3586" centerz="8" radius="1">
-		<monster name="black wolf" x="-1" y="0" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3556" centery="3586" centerz="8" radius="1">
-		<monster name="black wolf" x="-1" y="0" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3564" centery="3586" centerz="8" radius="1">
-		<monster name="black wolf" x="-1" y="0" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3117" centery="3587" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="1" y="-1" z="8" spawntime="60" />
@@ -6988,8 +7618,8 @@
 		<monster name="Giant Snake Hollow" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3570" centery="3593" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3684" centery="3593" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
@@ -6999,11 +7629,11 @@
 		<monster name="Giant Snake Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3460" centery="3594" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3491" centery="3595" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3107" centery="3598" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="1" y="-1" z="8" spawntime="60" />
@@ -7018,8 +7648,8 @@
 		<monster name="Giant Snake Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3570" centery="3602" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3674" centery="3602" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
@@ -7028,8 +7658,8 @@
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3460" centery="3603" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3662" centery="3603" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
@@ -7038,7 +7668,7 @@
 		<monster name="Giant Snake Hollow" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3491" centery="3605" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3173" centery="3607" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="1" y="1" z="8" spawntime="60" />
@@ -7069,12 +7699,12 @@
 		<monster name="Giant Snake Hollow" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3460" centery="3611" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3570" centery="3611" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4191" centery="3611" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
@@ -7092,7 +7722,7 @@
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3491" centery="3613" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3102" centery="3615" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="1" y="1" z="8" spawntime="60" />
@@ -7104,8 +7734,8 @@
 		<monster name="Giant Snake Hollow" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3570" centery="3619" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4194" centery="3619" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
@@ -7123,7 +7753,7 @@
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3491" centery="3621" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3664" centery="3621" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
@@ -7135,8 +7765,8 @@
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3460" centery="3622" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3166" centery="3623" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="1" y="-1" z="8" spawntime="60" />
@@ -7156,8 +7786,8 @@
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3570" centery="3628" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3811" centery="3628" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
@@ -7181,8 +7811,8 @@
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3460" centery="3631" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3817" centery="3631" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
@@ -7191,8 +7821,8 @@
 		<monster name="Giant Snake Hollow" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3491" centery="3633" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3158" centery="3635" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="0" y="-1" z="8" spawntime="60" />
@@ -7203,44 +7833,44 @@
 		<monster name="Giant Snake Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3468" centery="3636" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
-		<monster name="black wolf" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="1" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3478" centery="3636" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
-		<monster name="black wolf" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="1" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3500" centery="3636" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3509" centery="3636" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3519" centery="3636" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3528" centery="3636" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3538" centery="3636" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3548" centery="3636" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3557" centery="3636" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3567" centery="3636" centerz="8" radius="1">
-		<monster name="black wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="black wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Black wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3820" centery="3636" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
