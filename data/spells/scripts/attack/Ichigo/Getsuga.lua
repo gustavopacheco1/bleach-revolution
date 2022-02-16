@@ -11,7 +11,7 @@ function onCastSpell(cid, var)
     local target_position = getCreaturePosition(getCreatureTarget(cid))
     doSendMagicEffect({
         x = target_position.x + 1,
-        y = target_position.y,
+        y = target_position.y + 1,
         z = target_position.z
     }, 174)
 
