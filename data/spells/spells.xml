@@ -340,4 +340,15 @@
 		<vocation id="85-89" />
 	</instant>
 	
+	<!-- Urahara Kisuke -->
+	<instant name="Benihime" words="Benihime" lvl="200" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="attack/Urahara/Benihime.lua">
+		<vocation id="331-335" />
+	</instant>
+	<instant name="Kamisori" words="Kamisori" lvl="300" mana="4000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="150" needlearn="0" event="script" value="attack/Urahara/Kamisori.lua">
+		<vocation id="331-335" />
+	</instant>
+	<instant name="Hiasobi" words="Hiasobi" lvl="400" mana="5000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="attack/Urahara/Hiasobi.lua">
+		<vocation id="331-335" />
+	</instant>
+	
 </spells>
