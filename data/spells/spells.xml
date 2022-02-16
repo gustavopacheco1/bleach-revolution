@@ -350,5 +350,4 @@
 	<instant name="Hiasobi" words="Hiasobi" lvl="400" mana="5000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="attack/Urahara/Hiasobi.lua">
 		<vocation id="98-102" />
 	</instant>
-	
 </spells>
