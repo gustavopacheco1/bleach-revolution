@@ -98,13 +98,38 @@ if(NpcHandler == nil) then
 			[MESSAGE_NEEDSPACE]	= 'You do not have enough capacity.',
 			[MESSAGE_NEEDMORESPACE]	= 'You do not have enough capacity for all items.',
 			[MESSAGE_IDLETIMEOUT] 	= 'Next, please!',
-			[MESSAGE_WALKAWAY] 	= 'How rude!',
+			[MESSAGE_WALKAWAY] 	= 'Goodbye!',
 			[MESSAGE_DECLINE]	= 'Not good enough, is it... ?',
 			[MESSAGE_SENDTRADE]	= 'Here\'s my offer, |PLAYERNAME|. Don\'t you like it?',
 			[MESSAGE_NOSHOP]	= 'Sorry, I\'m not offering anything.',
 			[MESSAGE_ONCLOSESHOP]	= 'Thank you, come back when you want something more.',
 			[MESSAGE_ALREADYFOCUSED]= '|PLAYERNAME|! I am already talking to you...',
 			[MESSAGE_PLACEDINQUEUE] = '|PLAYERNAME|, please wait for your turn. There are |QUEUESIZE| customers before you.'
+		},
+		messages_pt = {
+			-- These are the default replies of all npcs. They can/should be changed individually for each npc.
+			[MESSAGE_GREET] 	= 'Seja bem vindo, |PLAYERNAME|! Eu estava esperando por você.',
+			[MESSAGE_FAREWELL] 	= 'Adeus, |PLAYERNAME|!',
+			[MESSAGE_BUY] 		= 'Você deseja comprar |ITEMCOUNT| |ITEMNAME| por |TOTALCOST| gold coins?',
+			[MESSAGE_ONBUY] 	= 'Foi um prazer fazer negócios com você.',
+			[MESSAGE_BOUGHT] 	= 'Comprou |ITEMCOUNT|x |ITEMNAME| por |TOTALCOST| gold.',
+			[MESSAGE_SELL] 		= 'Você deseja vender |ITEMCOUNT| |ITEMNAME| por |TOTALCOST| gold coins?',
+			[MESSAGE_ONSELL] 	= 'Obrigado por este |ITEMNAME|, |PLAYERNAME|.',
+			[MESSAGE_SOLD]	 	= 'Vendeu |ITEMCOUNT|x |ITEMNAME| por |TOTALCOST| gold.',
+			[MESSAGE_MISSINGMONEY]	= 'Desculpe, você não tem dinheiro suficiente.',
+			[MESSAGE_MISSINGITEM] 	= 'Você nem mesmo possui esse item, |PLAYERNAME|!',
+			[MESSAGE_NEEDMONEY] 	= 'Você não tem dinheiro suficiente.',
+			[MESSAGE_NEEDITEM]	= 'Você não tem este objeto.',
+			[MESSAGE_NEEDSPACE]	= 'Você não tem capacidade suficiente.',
+			[MESSAGE_NEEDMORESPACE]	= 'Você não tem capacidade suficiente para todos os itens.',
+			[MESSAGE_IDLETIMEOUT] 	= 'Próximo, por favor!',
+			[MESSAGE_WALKAWAY] 	= 'Adeus!',
+			[MESSAGE_DECLINE]	= 'Não é bom o suficiente, é isso... ?',
+			[MESSAGE_SENDTRADE]	= 'Aqui está minha oferta, |PLAYERNAME|. Você não gostou?',
+			[MESSAGE_NOSHOP]	= 'Desculpe, eu não estou negociando nada.',
+			[MESSAGE_ONCLOSESHOP]	= 'Obrigado, volte quando quiser mais alguma coisa.',
+			[MESSAGE_ALREADYFOCUSED]= '|PLAYERNAME|! Eu já estou falando com você...',
+			[MESSAGE_PLACEDINQUEUE] = '|PLAYERNAME|, por favor espere a sua vez. Há |QUEUESIZE| clientes antes de você.'
 		}
 	}
 
@@ -322,10 +347,14 @@ if(NpcHandler == nil) then
 	end
 
 	-- Returns the message represented by id.
-	function NpcHandler:getMessage(id)
+	function NpcHandler:getMessage(cid, id)
 		local ret = nil
 		if(self.messages ~= nil) then
-			ret = self.messages[id]
+			if getPlayerStorageValue(cid, "language") == "en" then
+				ret = self.messages[id]
+			else
+				ret = self.messages_pt[id]
+			end
 		end
 
 		return ret
@@ -359,7 +388,7 @@ if(NpcHandler == nil) then
 		if(callback == nil or callback(cid)) then
 			if(self:processModuleCallback(CALLBACK_FAREWELL)) then
 				if(self.queue == nil or not self.queue:greetNext()) then
-					local msg = self:getMessage(MESSAGE_FAREWELL)
+					local msg = self:getMessage(cid, MESSAGE_FAREWELL)
 					msg = self:parseMessage(msg, { [TAG_PLAYERNAME] = getPlayerName(cid) or -1 })
 
 					self:resetNpc(cid)
@@ -393,7 +422,7 @@ if(NpcHandler == nil) then
 		local callback = self:getCallback(CALLBACK_GREET)
 		if(callback == nil or callback(cid)) then
 			if(self:processModuleCallback(CALLBACK_GREET, cid)) then
-				local msg = self:getMessage(MESSAGE_GREET)
+				local msg = self:getMessage(cid, MESSAGE_GREET)
 				msg = self:parseMessage(msg, { [TAG_PLAYERNAME] = getCreatureName(cid) })
 
 				self:addFocus(cid)
@@ -480,7 +509,7 @@ if(NpcHandler == nil) then
 			if(self:processModuleCallback(CALLBACK_PLAYER_ENDTRADE, cid)) then
 				if(self:isFocused(cid)) then
 					local parseInfo = { [TAG_PLAYERNAME] = getPlayerName(cid) }
-					local msg = self:parseMessage(self:getMessage(MESSAGE_ONCLOSESHOP), parseInfo)
+					local msg = self:parseMessage(self:getMessage(cid, MESSAGE_ONCLOSESHOP), parseInfo)
 					self:say(msg, cid)
 				end
 			end
@@ -627,7 +656,7 @@ if(NpcHandler == nil) then
 				if(self.focuses == 0) then
 					self:greet(cid)
 				elseif(self.focuses == cid) then
-					local msg = self:getMessage(MESSAGE_ALREADYFOCUSED)
+					local msg = self:getMessage(cid, MESSAGE_ALREADYFOCUSED)
 					local parseInfo = { [TAG_PLAYERNAME] = getCreatureName(cid) }
 					msg = self:parseMessage(msg, parseInfo)
 					self:say(msg)
@@ -636,7 +665,7 @@ if(NpcHandler == nil) then
 						self.queue:push(cid)
 					end
 
-					local msg = self:getMessage(MESSAGE_PLACEDINQUEUE)
+					local msg = self:getMessage(cid, MESSAGE_PLACEDINQUEUE)
 					local parseInfo = { [TAG_PLAYERNAME] = getCreatureName(cid), [TAG_QUEUESIZE] = self.queue:getSize() }
 					msg = self:parseMessage(msg, parseInfo)
 					self:say(msg)
@@ -657,7 +686,7 @@ if(NpcHandler == nil) then
 			if(callback == nil or callback(cid)) then
 				if(self:processModuleCallback(CALLBACK_CREATURE_DISAPPEAR, cid)) then
 					if(self.queue == nil or not self.queue:greetNext()) then
-						local msg = self:getMessage(MESSAGE_WALKAWAY)
+						local msg = self:getMessage(cid, MESSAGE_WALKAWAY)
 						self:resetNpc(cid)
 						self:say(self:parseMessage(msg, { [TAG_PLAYERNAME] = getPlayerName(cid) or -1 }))
 						self:releaseFocus(cid)
@@ -689,6 +718,7 @@ if(NpcHandler == nil) then
 	--	This implements the currently set type of talkdelay.
 	function NpcHandler:say(message, focus, delay, force)
 		local delay = delay or 0
+		
 		if(NPCHANDLER_TALKDELAY == TALKDELAY_NONE or delay <= 0) then
 			if(NPCHANDLER_CONVBEHAVIOR ~= CONVERSATION_DEFAULT) then
 				selfSay(message, focus)
@@ -704,6 +734,34 @@ if(NpcHandler == nil) then
 			id = getNpcId(),
 			cid = focus,
 			message = message,
+			time = os.mtime() + (delay and delay or self.talkDelayTime),
+			start = os.time(),
+			force = force or false
+		})
+	end
+
+	function NpcHandler:MultiLanguageSay(message_en, message_pt, focus, delay, force)
+		local delay = delay or 0
+		
+		if(NPCHANDLER_TALKDELAY == TALKDELAY_NONE or delay <= 0) then
+			if(NPCHANDLER_CONVBEHAVIOR ~= CONVERSATION_DEFAULT) then
+				selfSayMultiLanguage(message_en, message_pt, focus)
+			else
+				if getPlayerStorageValue(focus, "language") == "en" then
+					selfSay(message_en)
+				else
+					selfSay(message_pt)
+				end
+			end
+
+			return
+		end
+
+		-- TODO: Add an event handling method for delayed messages
+		table.insert(self.talkDelay, {
+			id = getNpcId(),
+			cid = focus,
+			message = message_en,
 			time = os.mtime() + (delay and delay or self.talkDelayTime),
 			start = os.time(),
 			force = force or false
