@@ -12,7 +12,11 @@ local talkState = {}
 
 -- [id do item] = {price = preço}
 local trade_items = {
-    [2667] = {price = 2000}
+    [2667] = {price = 2000},
+	[2666] = {price = 2000},
+	[2676] = {price = 2000},
+	[2696] = {price = 2000},
+	[6574] = {price = 2000}
 }
 
 local function onBuy(cid, itemid, subType, amount, ignoreCap, inBackpacks)
