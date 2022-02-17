@@ -20,7 +20,7 @@
 	<melee id="15730" event="function" value="default"/>
 	
 	<!-- Distance -->
-	<distance id="15721" event="script" value="distance.lua"/>
+	<distance id="15721" event="script" value="Founder Distance.lua"/>
 	<distance id="15823" event="script" value="del relampago.lua"/>
 	<distance id="15090" event="script" value="inical bow.lua"/>
 	<distance id="15091" event="script" value="quincy bow.lua"/>
