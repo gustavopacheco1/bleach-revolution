@@ -14,7 +14,8 @@ local talkState = {}
 local trade_items = {
     [15111] = {price = 100000},
 	[15724] = {price = 100000},
-	[15815] = {price = 100000}
+	[15815] = {price = 100000},
+	[16115] = {price = 100000}
 }
 
 local function onSell(cid, itemid, subType, amount, ignoreEquipped, dummy)
