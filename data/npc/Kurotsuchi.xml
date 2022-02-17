@@ -1,4 +1,5 @@
-<npc name="Kurotsuchi" script="data/npc/scripts/Minoru.lua" walkinterval="0" floorchange="0" access="5" level="1" maglevel="1">
-    <health now="150" max="150" />
-    <look type="237" head="114" body="119" legs="114" feet="114" corpse="2212" />
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Kurotsuchi" script="kurotsuchi.lua" walkinterval="0" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="100" head="20" body="39" legs="45" feet="7" addons="0"/>
 </npc>
