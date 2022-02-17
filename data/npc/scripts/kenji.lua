@@ -15,7 +15,14 @@ local trade_items = {
     [15111] = {price = 100000},
 	[15724] = {price = 100000},
 	[15815] = {price = 100000},
-	[16115] = {price = 100000}
+	[16115] = {price = 100000},
+	[15103] = {price = 150000},
+	[15104] = {price = 50000},
+	[15105] = {price = 50000},
+	[15772] = {price = 200000},
+	[15150] = {price = 50000},
+	[15102] = {price = 250000},
+	[15099] = {price = 150000}
 }
 
 local function onSell(cid, itemid, subType, amount, ignoreEquipped, dummy)
