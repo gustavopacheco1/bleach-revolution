@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<npc name="Quinn" script="default.lua" walkinterval="0" floorchange="0">
-	<health now="100" max="100"/>
-	<look type="254" head="20" body="39" legs="45" feet="7" addons="0"/>
-	<parameters>
-		<parameter key="module_shop" value="1"/>
-		<parameter key="shop_buyable" value="shuriken,7368,500;sand shuriken,7366,700;senbons,2410,1000;needle,7364,2000;explosion kunai,2546,5000"/>
-	</parameters>
-</npc>

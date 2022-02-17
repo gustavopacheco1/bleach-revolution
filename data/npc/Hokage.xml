@@ -1,7 +1,0 @@
-<npc name="Tatsuya" script="data/npc/scripts/system/hokages/hokage.lua" walkinterval="0" floorchange="0" access="5" level="1" maglevel="1">
-<health now="150" max="150"/>
-<look type="96" head="114" body="119" legs="114" feet="114" corpse="2212"/>
-    <parameters>
-		<parameter key="message_greet" value="Olá, me chamo Tatsuya, atualmente, sou quem mantêm o poder das Bijuus guardados em seus respectivos Chakras, porém, a aqueles que se mostrarem capaz de juntar 100 almas das mesmas, poderá adquirir tal poder."/>
-    </parameters>
-</npc>

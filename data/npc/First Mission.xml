@@ -1,7 +1,0 @@
-<npc name="Akemi" script="data/npc/scripts/system/tasksystem/rank d/first.lua" walkinterval="0" floorchange="0" access="5" level="1" maglevel="1">
-<health now="150" max="150"/>
-<look type="96" head="114" body="119" legs="114" feet="114" corpse="2212"/>
-<parameters>
-<parameter key="message_greet" value="Olá |PLAYERNAME|, eu me chamo Akami, e durante muitos anos, venho tentando acabar com todos os {Beezers}, que possuem no subsolo da cidade, pois muitos deles, tem escapado e aterrorizado os cidadões de Konoha. Você poderia me ajudar quanto a isso?" />
-</parameters>
-</npc>

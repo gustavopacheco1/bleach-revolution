@@ -1,7 +1,0 @@
-<npc name="Ibiki" script="data/npc/scripts/system/org/chunnin.lua" walkinterval="0" floorchange="0" access="5" level="1" maglevel="1">
-<health now="150" max="150"/>
-<look type="96" head="114" body="119" legs="114" feet="114" corpse="2212"/>
-    <parameters>
-		<parameter key="message_greet" value="Então você é o famoso |PLAYERNAME|, bom, eu me chamo Ibiki, e ouvi falar muito de você, por estar ajudando a comunidade... Eu, atualmente sou o representante do conselho Shinobi, qualificado para preparar e transformar todos os {Gennin's} em {Chunnin's}, mas para isso, todos devem mostrar que são capazes, por isso, criamos um sistema, de avaliar os meros estudantes da academia... Sendo assim, todos que desejam, virar {Chunnin} precisam de {2 Pergaminhos Rank: C} e 2 {Pergaminhos Rank: D}, caso os possua, e queira se tornar um {Chunnin}, diga {sim}."/>
-    </parameters>
-</npc>
