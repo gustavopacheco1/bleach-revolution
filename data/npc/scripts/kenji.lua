@@ -12,7 +12,9 @@ local talkState = {}
 
 -- [id do item] = {price = preço}
 local trade_items = {
-    [10000] = {price = 2000}
+    [15111] = {price = 100000},
+	[15724] = {price = 100000},
+	[15815] = {price = 100000}
 }
 
 local function onSell(cid, itemid, subType, amount, ignoreEquipped, dummy)
@@ -50,8 +52,8 @@ function onCreatureSay(cid, type, msg)
         if isInArray({"hi", "hello", "oi", "olá"}, msg) then
             npcHandler:addFocus(cid)
             selfSayMultiLanguage(
-                "Hello! I sell potions.",
-                "Olá! Eu vendo poções.",
+                "Hello! I buy some items.",
+                "Olá! Eu compro alguns itens.",
                 cid
             )
             return true
