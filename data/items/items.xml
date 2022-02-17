@@ -3424,19 +3424,31 @@
 		<attribute key="weight" value="120" />
 		<attribute key="charges" value="2" />
 	</item>
-	<item id="2270" article="a" name="Low Reiatsu Potion">
+	<item id="16113" article="a" name="Low Reiatsu Potion Mana">
 		<attribute key="weight" value="120" />
 		<attribute key="charges" value="3" />
 	</item>
-	<item id="2271" article="a" name="Reiatsu Potion">
+	<item id="16114" article="a" name="Low Reiatsu Potion Life">
 		<attribute key="weight" value="120" />
 		<attribute key="charges" value="3" />
 	</item>
-	<item id="2272" article="a" name="Great Reiatsu Potion">
+	<item id="16111" article="a" name="Reiatsu Potion Mana">
 		<attribute key="weight" value="120" />
 		<attribute key="charges" value="3" />
 	</item>
-	<item id="2273" article="an" name="Health Potion">
+	<item id="16118" article="a" name="Reiatsu Potion Life">
+		<attribute key="weight" value="120" />
+		<attribute key="charges" value="3" />
+	</item>
+	<item id="16112" article="a" name="Great Reiatsu Potion">
+		<attribute key="weight" value="120" />
+		<attribute key="charges" value="3" />
+	</item>
+	<item id="16116" article="an" name="Health Potion Mana">
+		<attribute key="weight" value="120" />
+		<attribute key="charges" value="1" />
+	</item>
+	<item id="16117" article="an" name="Health Potion Life">
 		<attribute key="weight" value="120" />
 		<attribute key="charges" value="1" />
 	</item>
@@ -22234,6 +22246,15 @@
 		<attribute key="healthGain" value="2000" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="body" />
+	</item>
+	<item id="16115" name="Urahara Legs">
+		<attribute key="weight" value="3000" />
+		<attribute key="armor" value="40" />
+		<attribute key="manaGain" value="2000" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="healthGain" value="2000" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="slotType" value="legs" />
 	</item>
 	<item id="15815" name="Urahara Boots">
 		<attribute key="weight" value="2100" />

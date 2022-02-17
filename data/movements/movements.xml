@@ -732,6 +732,8 @@
 	<movevent type="DeEquip" itemid="15724" slot="head" event="function" value="onDeEquipItem"/>
 	<movevent type="Equip" itemid="15111" level="250" slot="armor" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="15111" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="16115" level="250" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="16115" slot="legs" event="function" value="onDeEquipItem"/>
 	<movevent type="Equip" itemid="15815" level="250" slot="feet" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="15815" slot="feet" event="function" value="onDeEquipItem"/>
 	
