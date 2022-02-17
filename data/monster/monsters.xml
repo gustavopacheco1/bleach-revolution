@@ -16,7 +16,7 @@
 	<monster name="Mini Fisher" file="hunt/Mini Fisher.xml"/>
 	<monster name="Grand Fisher Lv 2" file="hunt/Grand Fisher Lv 2.xml"/>
 	<monster name="Fraccion" file="hunt/Fraccion.xml"/>
-	<monster name="Trainer" file="Trainer.xml"/>
+	<monster name="Punching Bag" file="Punching Bag.xml"/>
 	<monster name="Barragan" file="hunt/Barragan.xml"/>
 	<monster name="Red Hollow" file="hunt/Red Hollow.xml"/>
 	<monster name="Nnoitra" file="hunt/Nnoitra.xml"/>
