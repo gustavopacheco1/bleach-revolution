@@ -11,35 +11,21 @@
 		<monster name="Fraccion" x="1" y="-1" z="4" spawntime="60" />
 		<monster name="Fraccion" x="1" y="1" z="4" spawntime="60" />
 	</spawn>
-	<spawn centerx="3595" centery="3477" centerz="4" radius="1">
-		<monster name="Punching Bag" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="3605" centery="3477" centerz="4" radius="1">
-		<monster name="Punching Bag" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
 	<spawn centerx="3969" centery="3480" centerz="4" radius="1">
 		<monster name="Fraccion" x="0" y="1" z="4" spawntime="60" />
 	</spawn>
-	<spawn centerx="3595" centery="3481" centerz="4" radius="1">
+	<spawn centerx="3600" centery="3481" centerz="4" radius="7">
+		<monster name="Punching Bag" x="-5" y="-4" z="4" spawntime="60" />
+		<monster name="Punching Bag" x="5" y="-4" z="4" spawntime="60" />
+		<monster name="Punching Bag" x="-5" y="0" z="4" spawntime="60" />
 		<monster name="Punching Bag" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="3600" centery="3481" centerz="4" radius="1">
-		<monster name="Punching Bag" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="3605" centery="3481" centerz="4" radius="1">
-		<monster name="Punching Bag" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Punching Bag" x="5" y="0" z="4" spawntime="60" />
+		<monster name="Punching Bag" x="-5" y="4" z="4" spawntime="60" />
+		<monster name="Punching Bag" x="0" y="4" z="4" spawntime="60" />
+		<monster name="Punching Bag" x="5" y="4" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3938" centery="3483" centerz="4" radius="1">
 		<monster name="Fraccion" x="1" y="1" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="3595" centery="3485" centerz="4" radius="1">
-		<monster name="Punching Bag" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="3600" centery="3485" centerz="4" radius="1">
-		<monster name="Punching Bag" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="3605" centery="3485" centerz="4" radius="1">
-		<monster name="Punching Bag" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3943" centery="3488" centerz="4" radius="1">
 		<monster name="Fraccion" x="0" y="-1" z="4" spawntime="60" />
