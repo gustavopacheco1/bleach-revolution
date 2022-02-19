@@ -169,6 +169,12 @@
 	<instant name="Korose Area" words="Korose Area" lvl="200" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Korose Area.lua">
 		<vocation id="91-95" /> <!-- Tier Halibel -->
 	</instant>
+	<instant name="Tensho Area" words="Tensho Area" lvl="200" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Tensho Area.lua">
+		<vocation id="85-89" /> <!-- Tier Halibel -->
+	</instant>
+	<instant name="Benihime Area" words="Benihime Area" lvl="200" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Benihime Area.lua">
+		<vocation id="98-102" /> <!-- Urahara Kisuke -->
+	</instant>
 
 	<!-- Ulquiorra -->
 	<instant name="Cero Oscuras" words="Cero Oscuras" lvl="200" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="attack/Ulquiorra/Cero Oscuras.lua">
