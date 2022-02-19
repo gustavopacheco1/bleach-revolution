@@ -6393,8 +6393,44 @@
 	<spawn centerx="3645" centery="3727" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4554" centery="3751" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4503" centery="3759" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4552" centery="3763" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4474" centery="3768" centerz="7" radius="1">
+		<monster name="Vizard One Boss" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4515" centery="3768" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4538" centery="3769" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4526" centery="3776" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4535" centery="3788" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4586" centery="3791" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4574" centery="3796" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4544" centery="3798" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="2989" centery="3800" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4564" centery="3801" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3005" centery="3802" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
@@ -6404,6 +6440,9 @@
 	</spawn>
 	<spawn centerx="3023" centery="3811" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4552" centery="3811" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2957" centery="3812" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
@@ -6417,11 +6456,32 @@
 	<spawn centerx="3004" centery="3824" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4447" centery="3825" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4459" centery="3825" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="2946" centery="3826" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4549" centery="3826" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4663" centery="3826" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4438" centery="3827" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="2976" centery="3830" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4427" centery="3831" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4467" centery="3831" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3001" centery="3837" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
@@ -6429,21 +6489,63 @@
 	<spawn centerx="3031" centery="3838" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4547" centery="3838" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4653" centery="3838" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4473" centery="3839" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="2982" centery="3841" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2942" centery="3843" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4485" centery="3843" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4498" centery="3843" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4509" centery="3844" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4522" centery="3846" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4532" centery="3847" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4644" centery="3847" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3026" centery="3852" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4476" centery="3852" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4554" centery="3852" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4566" centery="3852" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2939" centery="3853" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="-1" z="7" spawntime="190887424" />
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4580" centery="3853" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="2980" centery="3855" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4625" centery="3855" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3562" centery="3857" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
@@ -6457,14 +6559,32 @@
 	<spawn centerx="3528" centery="3858" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4590" centery="3858" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4614" centery="3858" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4541" centery="3859" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4636" centery="3859" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="2962" centery="3860" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3548" centery="3860" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4605" centery="3861" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="2937" centery="3862" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4476" centery="3864" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2988" centery="3865" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
@@ -6472,11 +6592,26 @@
 	<spawn centerx="3013" centery="3866" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4539" centery="3867" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3564" centery="3869" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3587" centery="3869" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4470" centery="3869" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4449" centery="3871" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4461" centery="3871" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4640" centery="3871" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3492" centery="3873" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
@@ -6484,8 +6619,14 @@
 	<spawn centerx="3617" centery="3873" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4424" centery="3873" centerz="7" radius="1">
+		<monster name="Vizard Two Boss" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3532" centery="3874" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4536" centery="3874" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3649" centery="3875" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
@@ -6499,6 +6640,9 @@
 	<spawn centerx="3014" centery="3877" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4652" centery="3877" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3603" centery="3879" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
@@ -6508,11 +6652,17 @@
 	<spawn centerx="3561" centery="3882" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4536" centery="3885" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="2936" centery="3886" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2972" centery="3886" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4663" centery="3886" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3657" centery="3888" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
@@ -6540,11 +6690,17 @@
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3585" centery="3895" centerz="7" radius="1" />
+	<spawn centerx="4539" centery="3896" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="2941" centery="3897" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3030" centery="3899" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4667" centery="3899" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3009" centery="3900" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
@@ -6554,6 +6710,9 @@
 	</spawn>
 	<spawn centerx="3556" centery="3902" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4549" centery="3902" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3572" centery="3903" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
@@ -6586,6 +6745,9 @@
 	<spawn centerx="2963" centery="3912" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4559" centery="3912" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="2973" centery="3913" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -6609,11 +6771,20 @@
 	</spawn>
 	<spawn centerx="3606" centery="3917" centerz="7" radius="1" />
 	<spawn centerx="3596" centery="3920" centerz="7" radius="1" />
+	<spawn centerx="4556" centery="3921" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3056" centery="3923" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3584" centery="3925" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4548" centery="3925" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4665" centery="3925" centerz="7" radius="1">
+		<monster name="Vizard Four Boss" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3500" centery="3926" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
@@ -6621,23 +6792,47 @@
 	<spawn centerx="3067" centery="3928" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4537" centery="3928" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3548" centery="3929" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4523" centery="3929" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3647" centery="3931" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4513" centery="3931" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3576" centery="3934" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4505" centery="3934" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3077" centery="3935" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4465" centery="3938" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4536" centery="3938" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3538" centery="3939" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3630" centery="3939" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4494" centery="3940" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4480" centery="3941" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3083" centery="3942" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
@@ -6656,6 +6851,9 @@
 	</spawn>
 	<spawn centerx="3571" centery="3948" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4538" centery="3948" centerz="7" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3527" centery="3950" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
@@ -6733,6 +6931,9 @@
 	</spawn>
 	<spawn centerx="3065" centery="3971" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4573" centery="3972" centerz="7" radius="1">
+		<monster name="Vizard Three Boss" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3234" centery="3973" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
@@ -8073,9 +8274,30 @@
 	<spawn centerx="3814" centery="3673" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4124" centery="3866" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4136" centery="3866" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4073" centery="3867" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3845" centery="3868" centerz="8" radius="1">
 		<monster name="Nnoitra" x="0" y="-1" z="8" spawntime="60" />
 		<monster name="Nnoitra" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4088" centery="3868" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4150" centery="3868" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4111" centery="3869" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4059" centery="3871" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3829" centery="3872" centerz="8" radius="1">
 		<monster name="Nnoitra" x="0" y="-1" z="8" spawntime="60" />
@@ -8083,6 +8305,9 @@
 	</spawn>
 	<spawn centerx="3527" centery="3874" centerz="8" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4101" centery="3874" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3549" centery="3875" centerz="8" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
@@ -8105,6 +8330,9 @@
 	<spawn centerx="3666" centery="3877" centerz="8" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4156" centery="3877" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3538" centery="3878" centerz="8" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
@@ -8119,6 +8347,9 @@
 	</spawn>
 	<spawn centerx="3628" centery="3880" centerz="8" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4051" centery="3880" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3722" centery="3881" centerz="8" radius="1">
 		<monster name="Nnoitra" x="-1" y="-1" z="8" spawntime="60" />
@@ -8145,9 +8376,21 @@
 		<monster name="Nnoitra" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Nnoitra" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4017" centery="3882" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4038" centery="3882" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3840" centery="3883" centerz="8" radius="1">
 		<monster name="Nnoitra" x="0" y="-1" z="8" spawntime="60" />
 		<monster name="Nnoitra" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4004" centery="3883" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4029" centery="3883" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3670" centery="3884" centerz="8" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
@@ -8159,15 +8402,33 @@
 	<spawn centerx="3526" centery="3885" centerz="8" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4153" centery="3888" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3632" centery="3890" centerz="8" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4053" centery="3891" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3666" centery="3892" centerz="8" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4106" centery="3894" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3852" centery="3895" centerz="8" radius="1">
 		<monster name="Nnoitra" x="0" y="-1" z="8" spawntime="60" />
 		<monster name="Nnoitra" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4141" centery="3895" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4123" centery="3896" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4093" centery="3897" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3526" centery="3898" centerz="8" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
@@ -8179,14 +8440,23 @@
 	<spawn centerx="3652" centery="3900" centerz="8" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4062" centery="3900" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3632" centery="3901" centerz="8" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4078" centery="3901" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3526" centery="3910" centerz="8" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3652" centery="3910" centerz="8" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4066" centery="3916" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3634" centery="3917" centerz="8" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="8" spawntime="60" />
@@ -8221,11 +8491,20 @@
 	<spawn centerx="3633" centery="3924" centerz="8" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4080" centery="3928" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3578" centery="3931" centerz="8" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3632" centery="3931" centerz="8" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4065" centery="3931" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4092" centery="3936" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3526" centery="3937" centerz="8" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
@@ -8233,14 +8512,50 @@
 	<spawn centerx="3632" centery="3940" centerz="8" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4064" centery="3946" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3578" centery="3948" centerz="8" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4212" centery="3948" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3632" centery="3950" centerz="8" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4102" centery="3950" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4120" centery="3951" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4133" centery="3952" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4148" centery="3952" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4227" centery="3952" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4195" centery="3953" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3525" centery="3954" centerz="8" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4161" centery="3955" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4056" centery="3957" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4093" centery="3958" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4176" centery="3959" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3535" centery="3964" centerz="8" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
@@ -8265,6 +8580,15 @@
 	</spawn>
 	<spawn centerx="3577" centery="3965" centerz="8" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4082" centery="3970" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4237" centery="3970" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4063" centery="3973" centerz="8" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3884" centery="2919" centerz="9" radius="1">
 		<monster name="Espada" x="0" y="0" z="9" spawntime="60" />
@@ -8655,6 +8979,35 @@
 	<spawn centerx="3798" centery="3689" centerz="9" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="3916" centery="3867" centerz="9" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3892" centery="3868" centerz="9" radius="1">
+		<monster name="Nnoitra" x="-1" y="-1" z="9" spawntime="60" />
+		<monster name="Nnoitra" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3904" centery="3868" centerz="9" radius="1">
+		<monster name="Nnoitra" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3924" centery="3869" centerz="9" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3879" centery="3870" centerz="9" radius="1">
+		<monster name="Nnoitra" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3932" centery="3871" centerz="9" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3956" centery="3873" centerz="9" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3944" centery="3874" centerz="9" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3869" centery="3875" centerz="9" radius="1">
+		<monster name="Nnoitra" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Nnoitra" x="-1" y="1" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="3636" centery="3876" centerz="9" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="9" spawntime="60" />
 		<monster name="Gilliam" x="0" y="1" z="9" spawntime="60" />
@@ -8675,6 +9028,9 @@
 	<spawn centerx="3563" centery="3878" centerz="9" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="3966" centery="3879" centerz="9" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="3725" centery="3881" centerz="9" radius="1">
 		<monster name="Nnoitra" x="0" y="-1" z="9" spawntime="60" />
 		<monster name="Nnoitra" x="0" y="1" z="9" spawntime="60" />
@@ -8686,6 +9042,9 @@
 	<spawn centerx="3744" centery="3881" centerz="9" radius="1">
 		<monster name="Nnoitra" x="0" y="-1" z="9" spawntime="60" />
 		<monster name="Nnoitra" x="0" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3978" centery="3881" centerz="9" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3801" centery="3882" centerz="9" radius="1">
 		<monster name="Nnoitra" x="1" y="-1" z="9" spawntime="60" />
@@ -8707,18 +9066,50 @@
 		<monster name="Nnoitra" x="1" y="-1" z="9" spawntime="60" />
 		<monster name="Nnoitra" x="1" y="1" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="3989" centery="3882" centerz="9" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3999" centery="3882" centerz="9" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="3567" centery="3888" centerz="9" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3966" centery="3889" centerz="9" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3872" centery="3890" centerz="9" radius="1">
+		<monster name="Nnoitra" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3882" centery="3895" centerz="9" radius="1">
+		<monster name="Nnoitra" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Nnoitra" x="-1" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3958" centery="3895" centerz="9" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3543" centery="3896" centerz="9" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="9" spawntime="60" />
 		<monster name="Gilliam" x="1" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3895" centery="3896" centerz="9" radius="1">
+		<monster name="Nnoitra" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3523" centery="3897" centerz="9" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3567" centery="3897" centerz="9" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3910" centery="3897" centerz="9" radius="1">
+		<monster name="Nnoitra" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Nnoitra" x="-1" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3945" centery="3897" centerz="9" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3931" centery="3898" centerz="9" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3567" centery="3908" centerz="9" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="9" spawntime="60" />
@@ -8734,6 +9125,9 @@
 	</spawn>
 	<spawn centerx="3523" centery="3919" centerz="9" radius="1">
 		<monster name="Gilliam" x="0" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="4237" centery="3988" centerz="9" radius="1">
+		<monster name="Nnoitra Boss" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3400" centery="3052" centerz="10" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="10" spawntime="60" />

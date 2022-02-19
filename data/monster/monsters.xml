@@ -38,6 +38,13 @@
     <monster name="Urahara Three" file="hunt/Urahara Three.xml"/>
 	<monster name="Legendary Grand Fisher" file="hunt/Legendary Grand Fisher.xml"/>
 	<monster name="Mugetsu Especial" file="hunt/Mugetsu Especial.xml"/>
+	<monster name="Nnoitra Two" file="hunt/Nnoitra Two.xml"/>
+	<monster name="Nnoitra Boss" file="hunt/Nnoitra Boss.xml"/>
+	<monster name="Vizard Legendary" file="hunt/Vizard Legendary.xml"/>
+	<monster name="Vizard One Boss" file="hunt/Vizard One Boss.xml"/>
+	<monster name="Vizard Two Boss" file="hunt/Vizard Two Boss.xml"/>
+	<monster name="Vizard Three Boss" file="hunt/Vizard Three Boss.xml"/>
+	<monster name="Vizard Four Boss" file="hunt/Vizard Four Boss.xml"/>
 	<!-- Clones -->
 	<monster name="Rukia Clone" file="clones/Rukia Clone.xml"/>
 </monsters>
