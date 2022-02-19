@@ -4540,6 +4540,7 @@
 		<monster name="Punching Bag" x="-5" y="-4" z="7" spawntime="60" />
 		<monster name="Punching Bag" x="0" y="-4" z="7" spawntime="60" />
 		<monster name="Punching Bag" x="5" y="-4" z="7" spawntime="60" />
+		<npc name="Yoshino" x="-2" y="0" z="7" spawntime="60" />
 		<monster name="Punching Bag" x="-5" y="3" z="7" spawntime="60" />
 		<monster name="Punching Bag" x="0" y="3" z="7" spawntime="60" />
 		<monster name="Punching Bag" x="5" y="3" z="7" spawntime="60" />

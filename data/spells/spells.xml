@@ -163,6 +163,9 @@
 	<instant name="Ryodan Area" words="Ryodan Area" lvl="200" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Ryodan Area.lua">
 		<vocation id="37-41" /> <!-- Zaraki Kenpachi -->
 	</instant>
+	<instant name="Buto Area" words="Buto Area" lvl="200" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Buto Area.lua">
+		<vocation id="79-83" /> <!-- Gin Ichimaru -->
+	</instant>
 
 	<!-- Ulquiorra -->
 	<instant name="Cero Oscuras" words="Cero Oscuras" lvl="200" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="attack/Ulquiorra/Cero Oscuras.lua">
