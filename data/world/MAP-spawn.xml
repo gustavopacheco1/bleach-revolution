@@ -4708,6 +4708,9 @@
 	<spawn centerx="3381" centery="3517" centerz="7" radius="1">
 		<monster name="snake hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4412" centery="3517" centerz="7" radius="1">
+		<monster name="Legendary Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="2984" centery="3518" centerz="7" radius="1">
 		<monster name="Giant Snake" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Giant Snake" x="-1" y="1" z="7" spawntime="60" />
@@ -4966,6 +4969,12 @@
 	<spawn centerx="3719" centery="3562" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Wolf" x="0" y="1" z="7" spawntime="1718262784" />
+	</spawn>
+	<spawn centerx="3814" centery="3562" centerz="7" radius="1">
+		<npc name="Kenji" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3833" centery="3562" centerz="7" radius="1">
+		<npc name="Kurotsuchi" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3125" centery="3563" centerz="7" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
