@@ -580,3 +580,11 @@ end
 function format_seconds(seconds)
     return math.floor(seconds / 60) .. ":" .. (seconds % 60)
 end
+
+function disp_time(time)
+	local hours = math.floor(math.mod(time, 86400)/3600)
+	local minutes = math.floor(math.mod(time,3600)/60)
+	local seconds = math.floor(math.mod(time,60))
+
+	return {hours = hours, minutes = minutes, seconds = seconds}
+  end

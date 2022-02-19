@@ -13,12 +13,15 @@
     <event type="login" name="recordIp" event="script" value="recordIp.lua"/>
     <event type="extendedopcode" name="ExtendedOpcode" event="script" value="extendedopcode.lua" />
     <event type="tradeaccept" name="PlayerTrade" event="script" value="playerTrade.lua"/>
-    <event type="statschange" name="Immortal" event="script" value="spells/immortal.lua"/>
     <event type="login" name="LoginReset" event="script" value="login_reset.lua"/>
     <event type="login" name="RevertDeath" event="script" value="revertdeath.lua"/>
-    <event type="statschange" name="Dodge" event="script" value="spells/dodge.lua"/>
+
+    <!-- Monsters Events -->
+    <event type="statschange" name="TrainerShielding" event="script" value="monsters_events/trainer_shielding.lua"/>
 
     <!-- Spells -->
+    <event type="statschange" name="Immortal" event="script" value="spells/immortal.lua"/>
+    <event type="statschange" name="Dodge" event="script" value="spells/dodge.lua"/>
     <event type="statschange" name="ReflectSooZabimaru" event="script" value="spells/reflect_soo_zabimaru.lua"/>
     <event type="statschange" name="ReflectNozarashi" event="script" value="spells/reflect_nozarashi.lua"/>
     <event type="statschange" name="InvisibleSpellStats" event="script" value="spells/invisible.lua"/>
