@@ -4628,6 +4628,9 @@
 	<spawn centerx="3401" centery="3502" centerz="7" radius="1">
 		<monster name="snake hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4447" centery="3502" centerz="7" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3014" centery="3503" centerz="7" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -4688,6 +4691,9 @@
 	</spawn>
 	<spawn centerx="3015" centery="3515" centerz="7" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4473" centery="3515" centerz="7" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2955" centery="3516" centerz="7" radius="1">
 		<monster name="Giant Snake" x="0" y="-1" z="7" spawntime="60" />
@@ -4804,6 +4810,9 @@
 	<spawn centerx="3703" centery="3535" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4448" centery="3535" centerz="7" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3067" centery="3536" centerz="7" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -4890,6 +4899,9 @@
 	</spawn>
 	<spawn centerx="3685" centery="3552" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4424" centery="3552" centerz="7" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3010" centery="3553" centerz="7" radius="1">
 		<monster name="Hollow wolf" x="0" y="0" z="7" spawntime="60" />
@@ -4991,6 +5003,9 @@
 	<spawn centerx="3547" centery="3564" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4506" centery="3564" centerz="7" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3152" centery="3565" centerz="7" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -5014,6 +5029,9 @@
 	</spawn>
 	<spawn centerx="3668" centery="3568" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4476" centery="3569" centerz="7" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3053" centery="3570" centerz="7" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -5065,6 +5083,9 @@
 	</spawn>
 	<spawn centerx="3696" centery="3578" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4434" centery="3579" centerz="7" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3216" centery="3580" centerz="7" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -5146,6 +5167,9 @@
 	</spawn>
 	<spawn centerx="3727" centery="3591" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4512" centery="3591" centerz="7" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3214" centery="3593" centerz="7" radius="1">
 		<monster name="Hollow wolf" x="0" y="0" z="7" spawntime="60" />
@@ -5345,6 +5369,9 @@
 	<spawn centerx="3751" centery="3615" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4511" centery="3615" centerz="7" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3078" centery="3616" centerz="7" radius="1">
 		<monster name="Hollow wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -5401,6 +5428,9 @@
 	</spawn>
 	<spawn centerx="4262" centery="3618" centerz="7" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4457" centery="3618" centerz="7" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3611" centery="3619" centerz="7" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="7" spawntime="60" />
@@ -5516,6 +5546,12 @@
 	</spawn>
 	<spawn centerx="4061" centery="3626" centerz="7" radius="1">
 		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4432" centery="3626" centerz="7" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4484" centery="3626" centerz="7" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3053" centery="3627" centerz="7" radius="1">
 		<monster name="Giant Snake Hollow" x="1" y="-1" z="7" spawntime="60" />
@@ -5811,6 +5847,9 @@
 	<spawn centerx="3570" centery="3650" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4435" centery="3650" centerz="7" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3505" centery="3651" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -5863,6 +5902,9 @@
 	</spawn>
 	<spawn centerx="4123" centery="3655" centerz="7" radius="1">
 		<monster name="Quincy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4462" centery="3655" centerz="7" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3048" centery="3656" centerz="7" radius="1">
 		<monster name="Giant Snake Hollow" x="1" y="1" z="7" spawntime="60" />
@@ -5945,6 +5987,9 @@
 	</spawn>
 	<spawn centerx="4145" centery="3659" centerz="7" radius="1">
 		<monster name="Quincy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4487" centery="3659" centerz="7" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3577" centery="3660" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -6036,6 +6081,9 @@
 	</spawn>
 	<spawn centerx="3572" centery="3672" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4502" centery="3672" centerz="7" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3530" centery="3673" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -6133,6 +6181,12 @@
 	<spawn centerx="4061" centery="3689" centerz="7" radius="1">
 		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4481" centery="3689" centerz="7" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4452" centery="3690" centerz="7" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3577" centery="3691" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -6163,11 +6217,17 @@
 	<spawn centerx="3685" centery="3693" centerz="7" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4432" centery="3693" centerz="7" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3666" centery="3695" centerz="7" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4161" centery="3696" centerz="7" radius="1">
 		<monster name="Quincy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4412" centery="3696" centerz="7" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3756" centery="3697" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />

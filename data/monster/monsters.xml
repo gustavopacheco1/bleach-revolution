@@ -37,6 +37,7 @@
 	<monster name="Urahara Two" file="hunt/Urahara Two.xml"/>
     <monster name="Urahara Three" file="hunt/Urahara Three.xml"/>
 	<monster name="Legendary Grand Fisher" file="hunt/Legendary Grand Fisher.xml"/>
+	<monster name="Mugetsu Especial" file="hunt/Mugetsu Especial.xml"/>
 	<!-- Clones -->
 	<monster name="Rukia Clone" file="clones/Rukia Clone.xml"/>
 </monsters>
