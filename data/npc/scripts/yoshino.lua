@@ -116,22 +116,22 @@ function onCreatureSay(cid, type, msg)
         end
 
         playerTrainerTime[cid] = msg
-        local trainer_time = exhaustion.get(cid, "trainer_shielding")
-        local trainer_time_price = playerTrainerTime[cid] * 600000
-        local format_trainer_time = getFormatedTime(cid, disp_time(trainer_time))
-
-        if msg < (trainer_time/3600) then
-            selfSayMultiLanguage(
-                "You can't buy a training time lower than the one that you already have. You still have " .. format_trainer_time .. " for training your dodge.",
-                "Você não pode comprar um tempo de treino menor do que o que você já tem. Você ainda tem " .. format_trainer_time .. " para trainer sua esquiva.",
-                cid
-            )
-            return false
-        end
-
         talkState[talkUser] = 2
+        local trainer_time_price = playerTrainerTime[cid] * 600000
         
         if exhaustion.check(cid, "trainer_shielding") then
+            local trainer_time = exhaustion.get(cid, "trainer_shielding")
+            local format_trainer_time = getFormatedTime(cid, disp_time(trainer_time))
+
+            if msg < (trainer_time/3600) then
+                selfSayMultiLanguage(
+                    "You can't buy a training time lower than the one that you already have. You still have " .. format_trainer_time .. " for training your dodge.",
+                    "Você não pode comprar um tempo de treino menor do que o que você já tem. Você ainda tem " .. format_trainer_time .. " para trainer sua esquiva.",
+                    cid
+                )
+                return false
+            end
+        
             selfSayMultiLanguage(
                 "Do you want to pay " .. trainer_time_price .. " coins for being able to train your dodge skills for " .. playerTrainerTime[cid] .." hours? You still have " .. format_trainer_time .. " for training your dodge.",
                 "Você deseja pagar " .. trainer_time_price .. " coins para conseguir treinar suas habilidades de esquiva por " .. playerTrainerTime[cid] .." horas? Você ainda possui " .. format_trainer_time .. " para treinar sua esquiva.",
@@ -153,7 +153,7 @@ function onCreatureSay(cid, type, msg)
         if not (doPlayerRemoveMoney(cid, playerTrainerTime[cid] * 600000)) then
             selfSayMultiLanguage(
                 "Sorry, you do not have enough money.",
-                "Desculpe, você não tem dinheiro suficiente",
+                "Desculpe, você não tem dinheiro suficiente.",
                 cid
             )
             return false
