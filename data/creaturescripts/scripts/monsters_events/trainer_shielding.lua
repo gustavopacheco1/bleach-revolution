@@ -9,8 +9,5 @@ function onStatsChange(cid, attacker, type, combat, value)
 
     doPlayerAddSkillTry(attacker, SKILL_SHIELD, 1)
     doSendDistanceShoot(getCreaturePosition(cid), getCreaturePosition(attacker), 44)
-    print(exhaustion.get(attacker, "trainer_shielding"))
     return true
 end
-
--- doSendDistanceShoot(fromPos, toPos, type[, player])
