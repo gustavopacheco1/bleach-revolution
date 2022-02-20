@@ -41,7 +41,7 @@ function onCreatureSay(cid, type, msg)
     end
 
     if msg == "yes" then
-        doTeleportThing(cid, {x = 4422, y = 3672, z = 7})
+        doTeleportThing(cid, {x = 4401, y = 3694, z = 7})
     end
     return true
 end
