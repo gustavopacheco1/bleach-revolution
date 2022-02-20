@@ -1,5 +1,5 @@
 local spell = {
-    cooldown = 60,
+    cooldown = 50,
     duration = 3,
     effect = 20,
 }

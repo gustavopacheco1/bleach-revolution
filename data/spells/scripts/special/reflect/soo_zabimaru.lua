@@ -1,5 +1,5 @@
 local spell = {
-    cooldown = 20,
+    cooldown = 30,
     total_hits = 5, -- Numero de hits que a spell irá refletir
 }
 

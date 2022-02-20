@@ -1,5 +1,5 @@
 local spell = {
-    cooldown = 60,
+    cooldown = 50,
     effect = 352,
     health_percentage_damage = 0.05, -- 0.05 = 5%, 0.1 = 10%...
     total_hits = 10,

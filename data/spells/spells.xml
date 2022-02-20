@@ -2,7 +2,7 @@
 <spells>
 	<!-- Healing -->
 	<instant name="regeneration" words="regeneration" lvl="10" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0" event="script" value="healing/regeneration.lua" />
-	<instant name="Big Regeneration" words="big regeneration" lvl="100" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0" event="script" value="healing/big_regeneration.lua" />
+	<instant name="Big Regeneration" words="big regeneration" lvl="200" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0" event="script" value="healing/big_regeneration.lua" />
 	<instant name="Kaidou Heal" words="kaidou heal" lvl="250" mana="1500" prem="0" aggressive="0" needtarget="1" params="1" exhaustion="1500" needlearn="0" event="script" value="healing/kaidou_heal.lua">
 		<vocation id="67-71" /> <!-- Retsu Unohana -->
 	</instant>
