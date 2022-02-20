@@ -92,8 +92,8 @@ function onCreatureSay(cid, type, msg)
 
     if isInArray({"pay", "pagar"}, msg) then
         selfSayMultiLanguage(
-            "For how long would you like to train? You will pay 600000 coins per hour.",
-            "Por quanto tempo você gostaria de treinar? Você irá pagar 600000 coins por hora.",
+            "For how long would you like to train? You will pay 600000 Ryos coins per hour.",
+            "Por quanto tempo você gostaria de treinar? Você irá pagar 600000 Ryos coins por hora.",
             cid
         )
         talkState[talkUser] = 1
@@ -133,16 +133,16 @@ function onCreatureSay(cid, type, msg)
             end
         
             selfSayMultiLanguage(
-                "Do you want to pay " .. trainer_time_price .. " coins for being able to train your dodge skills for " .. playerTrainerTime[cid] .." hours? You still have " .. format_trainer_time .. " for training your dodge.",
-                "Você deseja pagar " .. trainer_time_price .. " coins para conseguir treinar suas habilidades de esquiva por " .. playerTrainerTime[cid] .." horas? Você ainda possui " .. format_trainer_time .. " para treinar sua esquiva.",
+                "Do you want to pay " .. trainer_time_price .. " Ryos coins for being able to train your dodge skills for " .. playerTrainerTime[cid] .." hours? You still have " .. format_trainer_time .. " for training your dodge.",
+                "Você deseja pagar " .. trainer_time_price .. " Ryos coins para conseguir treinar suas habilidades de esquiva por " .. playerTrainerTime[cid] .." horas? Você ainda possui " .. format_trainer_time .. " para treinar sua esquiva.",
                 cid
             )
             return true
         end
 
         selfSayMultiLanguage(
-            "Do you want to pay " .. trainer_time_price .. " coins for being able to train your dodge skills for " .. playerTrainerTime[cid] .." hours?",
-            "Você deseja pagar " .. trainer_time_price .. " coins para conseguir treinar suas habilidades de esquiva por " .. playerTrainerTime[cid] .." horas?",
+            "Do you want to pay " .. trainer_time_price .. " Ryos coins for being able to train your dodge skills for " .. playerTrainerTime[cid] .." hours?",
+            "Você deseja pagar " .. trainer_time_price .. " Ryos coins para conseguir treinar suas habilidades de esquiva por " .. playerTrainerTime[cid] .." horas?",
             cid
         )
 
