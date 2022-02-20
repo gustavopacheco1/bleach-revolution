@@ -27,7 +27,7 @@
 
 <attacks>
 
-<attack name="melee" interval="2000" min="-70000" max="- 73000"/>
+<attack name="melee" interval="2000" min="-70000" max="-73000"/>
 </attacks>
 
 <defenses armor="40" defense="40"/>

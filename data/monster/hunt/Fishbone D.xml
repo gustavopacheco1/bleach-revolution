@@ -19,7 +19,7 @@
         <flag lootmessage="0" />
     </flags>
     <attacks>
-        <attack name="melee" interval="2000" min="-4000" max="- 4100" />
+        <attack name="melee" interval="2000" min="-4000" max="-4100" />
     </attacks>
     <defenses armor="40" defense="40" />
 </monster>

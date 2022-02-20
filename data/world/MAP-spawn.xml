@@ -8274,6 +8274,138 @@
 	<spawn centerx="3814" centery="3673" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3814" centery="3747" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3820" centery="3752" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3776" centery="3759" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3707" centery="3760" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3825" centery="3761" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3712" centery="3766" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3770" centery="3767" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3830" centery="3771" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3776" centery="3772" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3787" centery="3772" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3764" centery="3774" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3717" centery="3775" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3793" centery="3778" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3761" centery="3782" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3828" centery="3782" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3775" centery="3783" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3800" centery="3784" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3715" centery="3787" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3807" centery="3788" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3818" centery="3788" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3773" centery="3791" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3757" centery="3792" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3718" centery="3797" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3773" centery="3799" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3750" centery="3801" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3728" centery="3804" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3741" centery="3804" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3779" centery="3804" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3896" centery="3805" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3876" centery="3807" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3790" centery="3808" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3885" centery="3812" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3820" centery="3814" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3829" centery="3814" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3838" centery="3814" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3850" centery="3814" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3893" centery="3815" centerz="8" radius="1">
+		<monster name="Ryu Boss" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3793" centery="3817" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3810" centery="3818" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3860" centery="3818" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3871" centery="3818" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3799" centery="3820" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3897" centery="3821" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3892" centery="3825" centerz="8" radius="1">
+		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="4124" centery="3866" centerz="8" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
 	</spawn>

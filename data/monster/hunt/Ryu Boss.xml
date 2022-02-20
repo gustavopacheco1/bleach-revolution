@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<monster name="Urahara Three" nameDescription="Urahara Three" race="blood" experience="2000" speed="300" manacost="0">
+<monster name="Ryu Boss" nameDescription="Ryu Boss" race="blood" experience="0" speed="900" manacost="0">
 
-<health now="70000" max="70000"/>
+<health now="100000" max="100000"/>
 
-<look type="257" head="0" body="94" legs="79" feet="79" corpse="5527"/>
+<look type="184" head="0" body="94" legs="79" feet="79" corpse="5527"/>
 
 <targetchange interval="5000" chance="50"/>
 
@@ -27,7 +27,7 @@
 
 <attacks>
 
-<attack name="melee" interval="2000" min="-40000" max="-42000"/>
+<attack name="melee" interval="2000" min="-40000" max="-45100"/>
 </attacks>
 
 <defenses armor="40" defense="40"/>
