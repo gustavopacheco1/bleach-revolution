@@ -772,13 +772,13 @@
 	
 	<!--  Nnoitra Set -->
 	
-	<movevent type="Equip" itemid="16093" level="400" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="Equip" itemid="16093" level="430" slot="head" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="16093" slot="head" event="function" value="onDeEquipItem"/>
-	<movevent type="Equip" itemid="16094" level="400" slot="armor" event="function" value="onEquipItem"/>
+	<movevent type="Equip" itemid="16094" level="430" slot="armor" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="16094" slot="armor" event="function" value="onDeEquipItem"/>
-	<movevent type="Equip" itemid="16095" level="400" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="Equip" itemid="16095" level="430" slot="legs" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="16095" slot="legs" event="function" value="onDeEquipItem"/>
-	<movevent type="Equip" itemid="16096" level="400" slot="feet" event="function" value="onEquipItem"/>
+	<movevent type="Equip" itemid="16096" level="430" slot="feet" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="16096" slot="feet" event="function" value="onDeEquipItem"/>
 	
 	<!--  Kensei Set -->
@@ -794,13 +794,13 @@
 	
 	<!--  Halibel Set -->
 	
-	<movevent type="Equip" itemid="11384" level="450" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="Equip" itemid="11384" level="400" slot="head" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="11384" slot="head" event="function" value="onDeEquipItem"/>
-	<movevent type="Equip" itemid="16101" level="450" slot="armor" event="function" value="onEquipItem"/>
+	<movevent type="Equip" itemid="16101" level="400" slot="armor" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="16101" slot="armor" event="function" value="onDeEquipItem"/>
-	<movevent type="Equip" itemid="16102" level="450" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="Equip" itemid="16102" level="400" slot="legs" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="16102" slot="legs" event="function" value="onDeEquipItem"/>
-	<movevent type="Equip" itemid="16103" level="450" slot="feet" event="function" value="onEquipItem"/>
+	<movevent type="Equip" itemid="16103" level="400" slot="feet" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="16103" slot="feet" event="function" value="onDeEquipItem"/>
 	
 	<!--  Zangetsu Set -->

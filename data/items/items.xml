@@ -21992,38 +21992,38 @@
 	<!-- Nnoitra Set -->
 	<item id="16093" name="Nnoitra Helmet">
 		<attribute key="weight" value="1000" />
-		<attribute key="armor" value="50" />
-		<attribute key="manaGain" value="3000" />
+		<attribute key="armor" value="55" />
+		<attribute key="manaGain" value="3400" />
 		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="3000" />
+		<attribute key="healthGain" value="3400" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="16094" name="Nnoitra Armor">
 		<attribute key="weight" value="3000" />
-		<attribute key="armor" value="50" />
-		<attribute key="manaGain" value="3000" />
+		<attribute key="armor" value="55" />
+		<attribute key="manaGain" value="3400" />
 		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="3000" />
+		<attribute key="healthGain" value="3400" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="body" />
 	</item>
 	<item id="16095" name="Nnoitra Legs">
 		<attribute key="weight" value="3000" />
-		<attribute key="armor" value="50" />
-		<attribute key="manaGain" value="3000" />
+		<attribute key="armor" value="55" />
+		<attribute key="manaGain" value="3400" />
 		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="3000" />
+		<attribute key="healthGain" value="3400" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="legs" />
 	</item>
 	<item id="16096" name="Nnoitra Boots">
 		<attribute key="weight" value="2100" />
-		<attribute key="armor" value="50" />
-		<attribute key="speed" value="35" />
-		<attribute key="manaGain" value="3000" />
+		<attribute key="armor" value="55" />
+		<attribute key="speed" value="40" />
+		<attribute key="manaGain" value="3400" />
 		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="3000" />
+		<attribute key="healthGain" value="3400" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="feet" />
 	</item>
@@ -22070,38 +22070,38 @@
 	<!-- Halibel Set -->
 	<item id="11384" name="Halibel Helmet">
 		<attribute key="weight" value="1000" />
-		<attribute key="armor" value="55" />
-		<attribute key="manaGain" value="3400" />
+		<attribute key="armor" value="50" />
+		<attribute key="manaGain" value="3000" />
 		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="3400" />
+		<attribute key="healthGain" value="3000" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="16101" name="Halibel Armor">
 		<attribute key="weight" value="3000" />
-		<attribute key="armor" value="55" />
-		<attribute key="manaGain" value="3300" />
+		<attribute key="armor" value="50" />
+		<attribute key="manaGain" value="3000" />
 		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="3300" />
+		<attribute key="healthGain" value="3000" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="body" />
 	</item>
 	<item id="16102" name="Halibel Legs">
 		<attribute key="weight" value="3000" />
-		<attribute key="armor" value="55" />
-		<attribute key="manaGain" value="3400" />
+		<attribute key="armor" value="50" />
+		<attribute key="manaGain" value="3000" />
 		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="2900" />
+		<attribute key="healthGain" value="3000" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="legs" />
 	</item>
 	<item id="16103" name="halibel Boots">
 		<attribute key="weight" value="2100" />
-		<attribute key="armor" value="55" />
-		<attribute key="speed" value="40" />
-		<attribute key="manaGain" value="3400" />
+		<attribute key="armor" value="50" />
+		<attribute key="speed" value="35" />
+		<attribute key="manaGain" value="3000" />
 		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="3300" />
+		<attribute key="healthGain" value="3000" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="feet" />
 	</item>
