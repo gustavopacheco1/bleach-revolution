@@ -47,6 +47,8 @@
 	<monster name="Vizard Four Boss" file="hunt/Vizard Four Boss.xml"/>
 	<monster name="Ryu" file="hunt/Ryu.xml"/>
 	<monster name="Ryu Boss" file="hunt/Ryu Boss.xml"/>
+	<monster name="Samurai" file="hunt/Samurai.xml"/>
+	<monster name="Samurai Boss" file="hunt/Samurai Boss.xml"/>
 	<!-- Clones -->
 	<monster name="Rukia Clone" file="clones/Rukia Clone.xml"/>
 </monsters>
