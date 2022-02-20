@@ -90,7 +90,7 @@
 	<instant name="Tsugi" words="Tsugi" lvl="400" mana="1000" prem="0" range="5" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="special/paralyze/Tsugi.lua">
 		<vocation id="55-61" /> <!-- Rukia Kuchiki -->
 	</instant>
-	<instant name="Muted Paralyze" words="Muted Paralyze" lvl="450" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="special/paralyze/muted.lua">
+	<instant name="Muted Paralyze" words="Muted Paralyze" lvl="450" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="special/paralyze/muted_paralyze.lua">
 		<vocation id="31-35" /> <!-- Ulquiorra Ciffer -->
 	</instant>
 
