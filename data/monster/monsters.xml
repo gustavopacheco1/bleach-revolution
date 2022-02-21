@@ -49,6 +49,10 @@
 	<monster name="Ryu Boss" file="hunt/Ryu Boss.xml"/>
 	<monster name="Samurai" file="hunt/Samurai.xml"/>
 	<monster name="Samurai Boss" file="hunt/Samurai Boss.xml"/>
+	<monster name="Hiroshi" file="hunt/Hiroshi.xml"/>
+	<monster name="Hiroshi Boss" file="hunt/Hiroshi Boss.xml"/>
+	<monster name="Hiroshi Boss Two" file="hunt/Hiroshi Boss Two.xml"/>
+	<monster name="Hiroshin" file="hunt/Hiroshin.xml"/>
 	<!-- Clones -->
 	<monster name="Rukia Clone" file="clones/Rukia Clone.xml"/>
 </monsters>

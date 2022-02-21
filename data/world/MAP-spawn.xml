@@ -907,11 +907,41 @@
 	<spawn centerx="4036" centery="3074" centerz="6" radius="1">
 		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2870" centery="3075" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2985" centery="3075" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2998" centery="3075" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2925" centery="3077" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3019" centery="3077" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="4007" centery="3077" centerz="6" radius="1">
 		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3033" centery="3078" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2828" centery="3079" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3009" centery="3079" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="4013" centery="3079" centerz="6" radius="1">
 		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2877" centery="3080" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3047" centery="3080" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4018" centery="3080" centerz="6" radius="1">
 		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
@@ -919,20 +949,65 @@
 	<spawn centerx="4031" centery="3080" centerz="6" radius="1">
 		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2767" centery="3081" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="4023" centery="3082" centerz="6" radius="1">
 		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4038" centery="3082" centerz="6" radius="1">
 		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2754" centery="3083" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2863" centery="3083" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2884" centery="3083" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2987" centery="3083" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2980" centery="3084" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3439" centery="3084" centerz="6" radius="1">
 		<monster name="Arrancar hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2818" centery="3085" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2890" centery="3085" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2901" centery="3085" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2914" centery="3085" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2945" centery="3085" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2959" centery="3085" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2973" centery="3085" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3002" centery="3085" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3414" centery="3085" centerz="6" radius="1">
 		<monster name="Arrancar hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4013" centery="3085" centerz="6" radius="1">
 		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2833" centery="3086" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3930" centery="3086" centerz="6" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
@@ -958,6 +1033,18 @@
 	<spawn centerx="4037" centery="3089" centerz="6" radius="1">
 		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2930" centery="3090" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2775" centery="3091" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3026" centery="3091" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3046" centery="3091" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3425" centery="3091" centerz="6" radius="1">
 		<monster name="Arrancar hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -967,11 +1054,41 @@
 	<spawn centerx="3960" centery="3091" centerz="6" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2977" centery="3092" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2811" centery="3093" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2858" centery="3093" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2989" centery="3093" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3009" centery="3093" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2836" centery="3094" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3040" centery="3094" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2999" centery="3095" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="4013" centery="3095" centerz="6" radius="1">
 		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4031" centery="3095" centerz="6" radius="1">
 		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2755" centery="3096" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2785" centery="3097" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3940" centery="3097" centerz="6" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
@@ -1000,8 +1117,23 @@
 	<spawn centerx="3975" centery="3098" centerz="6" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2985" centery="3100" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3015" centery="3100" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="4015" centery="3100" centerz="6" radius="1">
 		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2855" centery="3101" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2998" centery="3101" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3026" centery="3101" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4026" centery="3101" centerz="6" radius="1">
 		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
@@ -1009,14 +1141,26 @@
 	<spawn centerx="4031" centery="3101" centerz="6" radius="1">
 		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2845" centery="3102" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3376" centery="3102" centerz="6" radius="1">
 		<monster name="Arrancar hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2805" centery="3103" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2794" centery="3104" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3963" centery="3104" centerz="6" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3942" centery="3105" centerz="6" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2757" centery="3106" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3943" centery="3110" centerz="6" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
@@ -1036,17 +1180,29 @@
 	<spawn centerx="3361" centery="3116" centerz="6" radius="1">
 		<monster name="Arrancar hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2762" centery="3119" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3375" centery="3120" centerz="6" radius="1">
 		<monster name="Arrancar hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3387" centery="3125" centerz="6" radius="1">
 		<monster name="Arrancar hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2773" centery="3126" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3354" centery="3131" centerz="6" radius="1">
 		<monster name="Arrancar hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3374" centery="3132" centerz="6" radius="1">
 		<monster name="Arrancar hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2777" centery="3134" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2773" centery="3146" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2895" centery="3152" centerz="6" radius="1">
 		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
@@ -1059,6 +1215,9 @@
 	</spawn>
 	<spawn centerx="2927" centery="3153" centerz="6" radius="1">
 		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2769" centery="3159" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2904" centery="3159" centerz="6" radius="1">
 		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
@@ -1084,6 +1243,9 @@
 	<spawn centerx="2900" centery="3168" centerz="6" radius="1">
 		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2771" centery="3169" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="2891" centery="3169" centerz="6" radius="1">
 		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -1092,6 +1254,9 @@
 	</spawn>
 	<spawn centerx="2919" centery="3169" centerz="6" radius="1">
 		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2791" centery="3172" centerz="6" radius="1">
+		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2896" centery="3177" centerz="6" radius="1">
 		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
@@ -1140,6 +1305,9 @@
 	</spawn>
 	<spawn centerx="2919" centery="3197" centerz="6" radius="1">
 		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2787" centery="3200" centerz="6" radius="1">
+		<monster name="Hiroshi Boss" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2871" centery="3201" centerz="6" radius="1">
 		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
@@ -1242,6 +1410,9 @@
 	</spawn>
 	<spawn centerx="2909" centery="3245" centerz="6" radius="1">
 		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2785" centery="3247" centerz="6" radius="1">
+		<monster name="Hiroshi Boss Two" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2855" centery="3247" centerz="6" radius="1">
 		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
@@ -3259,6 +3430,9 @@
 	<spawn centerx="3982" centery="3073" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2928" centery="3074" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3869" centery="3074" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -3268,14 +3442,26 @@
 	<spawn centerx="3924" centery="3074" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2885" centery="3075" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3782" centery="3075" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3807" centery="3075" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2936" centery="3076" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2996" centery="3076" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3904" centery="3076" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3012" centery="3077" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3820" centery="3077" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
@@ -3285,6 +3471,12 @@
 	</spawn>
 	<spawn centerx="3883" centery="3077" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2921" centery="3078" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3023" centery="3078" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3861" centery="3078" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
@@ -3301,6 +3493,18 @@
 	<spawn centerx="3981" centery="3079" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2888" centery="3080" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2899" centery="3080" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2943" centery="3080" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3033" centery="3080" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3288" centery="3080" centerz="7" radius="1">
 		<monster name="Arrancar hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -3310,11 +3514,20 @@
 	<spawn centerx="3963" centery="3080" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2912" centery="3081" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2988" centery="3081" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3841" centery="3081" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3868" centery="3081" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2998" centery="3082" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3321" centery="3082" centerz="7" radius="1">
 		<monster name="Arrancar hollow" x="0" y="0" z="7" spawntime="60" />
@@ -3322,11 +3535,29 @@
 	<spawn centerx="3804" centery="3082" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3041" centery="3083" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2978" centery="3084" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3010" centery="3084" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3356" centery="3084" centerz="7" radius="1">
 		<monster name="Arrancar hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3900" centery="3084" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2953" centery="3085" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2966" centery="3085" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3016" centery="3085" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3793" centery="3085" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
@@ -3340,6 +3571,9 @@
 	<spawn centerx="3973" centery="3085" centerz="7" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3025" centery="3086" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3835" centery="3086" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -3349,11 +3583,20 @@
 	<spawn centerx="3904" centery="3086" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2990" centery="3087" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3806" centery="3087" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3825" centery="3087" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2892" centery="3089" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2995" centery="3089" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3379" centery="3089" centerz="7" radius="1">
 		<monster name="Arrancar hollow" x="0" y="0" z="7" spawntime="60" />
@@ -3363,6 +3606,9 @@
 	</spawn>
 	<spawn centerx="3855" centery="3089" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2973" centery="3090" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3870" centery="3090" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
@@ -3376,11 +3622,20 @@
 	<spawn centerx="3970" centery="3090" centerz="7" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3002" centery="3091" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3922" centery="3091" centerz="7" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3031" centery="3092" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3812" centery="3092" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3012" centery="3093" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3865" centery="3093" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
@@ -3397,6 +3652,12 @@
 	<spawn centerx="3915" centery="3094" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2980" centery="3095" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3040" centery="3095" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3393" centery="3095" centerz="7" radius="1">
 		<monster name="Arrancar hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -3412,14 +3673,32 @@
 	<spawn centerx="3957" centery="3096" centerz="7" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2907" centery="3098" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2988" centery="3098" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3286" centery="3098" centerz="7" radius="1">
 		<monster name="Arrancar hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3891" centery="3098" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3001" centery="3099" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3843" centery="3099" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2896" centery="3100" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3013" centery="3100" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3025" centery="3100" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3805" centery="3100" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
