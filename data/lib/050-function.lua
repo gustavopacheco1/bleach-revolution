@@ -587,4 +587,52 @@ function disp_time(time)
 	local seconds = math.floor(math.mod(time,60))
 
 	return {hours = hours, minutes = minutes, seconds = seconds}
-  end
+end
+
+function getFormatedTime(cid, time)
+    local string = ""
+
+    if time.hours > 0 then
+        string = time.hours
+
+        if getPlayerStorageValue(cid, "language") == "en" then
+            string = string .. " hours"
+        else
+            string = string .. " horas"
+        end
+    end 
+
+    if time.minutes > 0 then
+        if time.hours > 0 then
+            string = string .. ", "
+        end
+
+        string = string .. time.minutes
+
+        if getPlayerStorageValue(cid, "language") == "en" then
+            string = string .. " minutes"
+        else
+            string = string .. " minutos"
+        end
+    end
+
+    if time.seconds > 0 then
+        if time.minutes > 0 then
+            if getPlayerStorageValue(cid, "language") == "en" then
+                string = string .. " and "
+            else
+                string = string .. " e "
+            end
+        end
+
+        string = string .. time.seconds
+
+        if getPlayerStorageValue(cid, "language") == "en" then
+            string = string .. " seconds"
+        else
+            string = string .. " segundos"
+        end
+    end
+
+    return string
+end
