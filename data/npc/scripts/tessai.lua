@@ -16,12 +16,39 @@ function onCreatureSay(cid, type, msg)
 
     if not npcHandler:isFocused(cid) and getDistanceBetween(getThingPos(cid), getNpcPos()) < 5 then
         if isInArray({"hi", "hello", "oi", "olá"}, msg) then
-            npcHandler:addFocus(cid)
+            if getPlayerStorageValue(cid, "tessai_quest") == 1 then
+                local player_vocation_name = getPlayerVocationName(cid)
+
+                selfSayMultiLanguage(
+                    "Congratulations! You proof that you are capable of domain your greatest techniques. You've learned two new techniques: " .. vocation_specials[player_vocation_name][400] .. " and " .. vocation_specials[player_vocation_name][450] .. ".",
+                    "Parabéns! Você provou que é capaz de dominar suas melhores técnicas. Você aprendeu duas novas técnicas: " .. vocation_specials[player_vocation_name][400] .. " e " .. vocation_specials[player_vocation_name][450] .. ".",
+                    cid
+                )
+
+
+                doPlayerLearnInstantSpell(cid, vocation_specials[player_vocation_name][400])
+                doPlayerLearnInstantSpell(cid, vocation_specials[player_vocation_name][450])
+
+                setPlayerStorageValue(cid, "tessai_quest", 2)
+                return true
+            end
+
+            if getPlayerStorageValue(cid, "tessai_quest") == 2 then
+                local player_name = getCreatureName(cid)
+                selfSayMultiLanguage(
+                    "Hello, " .. player_name .. ", my former student!",
+                    "Olá, " .. player_name .. ", meu antigo aluno!",
+                    cid
+                )
+                return true
+            end
+
             selfSayMultiLanguage(
-                "Do you want to be sent to the quest?",
-                "Você deseja ser levado até a quest?",
+                "I can teach you to domain your greatest techniques. However, you need to prove me that you are capable completing my {challenge}.",
+                "Eu posso te ensinar a dominar as suas melhores técnicas. Porém,  você deve me provar que é capaz completando o meu {desafio}.",
                 cid
             )
+            npcHandler:addFocus(cid)
             return true
         end
     end
@@ -40,8 +67,26 @@ function onCreatureSay(cid, type, msg)
         return false
     end
 
-    if msg == "yes" then
-        doTeleportThing(cid, {x = 4401, y = 3694, z = 7})
+    if talkState[talkUser] == 2 then 
+        if isInArray({"yes", "sim"}, msg) then
+            doTeleportThing(cid, {x = 4401, y = 3694, z = 7})
+            MultiLanguage.doPlayerSendTextMessage(
+                cid,
+                MESSAGE_EVENT_ADVANCE,
+                "Tessai: Get to the end and prove that you are capable of learning what I can teach.",
+                "Tessai: Consiga chegar até o final e prove que você é capaz de aprender o que eu posso ensinar."
+            )
+        end
+        return true
+    end
+
+    if isInArray({"challenge", "desafio"}, msg) then
+        selfSayMultiLanguage(
+            "Do you accept to face the challenge? You won't go back, unless you complete.",
+            "Você aceita enfrentar o desafio? Você não terá volta, a não ser que o complete.",
+            cid
+        )
+        talkState[talkUser] = 2
     end
     return true
 end

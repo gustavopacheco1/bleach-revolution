@@ -18,6 +18,7 @@
 
     <!-- Monsters Events -->
     <event type="statschange" name="TrainerShielding" event="script" value="monsters_events/trainer_shielding.lua"/>
+    <event type="death" name="TeleportLegendaryGrandFisher" event="script" value="monsters_events/teleport_legendary_grand_fisher.lua"/>
 
     <!-- Spells -->
     <event type="statschange" name="Immortal" event="script" value="spells/immortal.lua"/>
