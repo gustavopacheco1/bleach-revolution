@@ -595,11 +595,19 @@ function getFormatedTime(cid, time)
     if time.hours > 0 then
         string = time.hours
 
-        if getPlayerStorageValue(cid, "language") == "en" then
-            string = string .. " hours"
-        else
-            string = string .. " horas"
-        end
+		if time.hours > 1 then
+			if getPlayerStorageValue(cid, "language") == "en" then
+				string = string .. " hours"
+			else
+				string = string .. " horas"
+			end
+		else
+			if getPlayerStorageValue(cid, "language") == "en" then
+				string = string .. " hour"
+			else
+				string = string .. " hora"
+			end
+		end
     end 
 
     if time.minutes > 0 then
@@ -609,11 +617,19 @@ function getFormatedTime(cid, time)
 
         string = string .. time.minutes
 
-        if getPlayerStorageValue(cid, "language") == "en" then
-            string = string .. " minutes"
-        else
-            string = string .. " minutos"
-        end
+		if time.minutes > 1 then
+			if getPlayerStorageValue(cid, "language") == "en" then
+				string = string .. " minutes"
+			else
+				string = string .. " minutos"
+			end
+		else
+			if getPlayerStorageValue(cid, "language") == "en" then
+				string = string .. " minute"
+			else
+				string = string .. " minuto"
+			end
+		end
     end
 
     if time.seconds > 0 then
@@ -627,11 +643,19 @@ function getFormatedTime(cid, time)
 
         string = string .. time.seconds
 
-        if getPlayerStorageValue(cid, "language") == "en" then
-            string = string .. " seconds"
-        else
-            string = string .. " segundos"
-        end
+		if time.seconds > 1 then
+			if getPlayerStorageValue(cid, "language") == "en" then
+				string = string .. " seconds"
+			else
+				string = string .. " segundos"
+			end
+		else
+			if getPlayerStorageValue(cid, "language") == "en" then
+				string = string .. " second"
+			else
+				string = string .. " segundo"
+			end
+		end
     end
 
     return string
