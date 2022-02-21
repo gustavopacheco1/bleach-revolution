@@ -590,19 +590,20 @@ function disp_time(time)
 end
 
 function getFormatedTime(cid, time)
+	local player_language = getPlayerStorageValue(cid, "language")
     local string = ""
 
     if time.hours > 0 then
         string = time.hours
 
 		if time.hours > 1 then
-			if getPlayerStorageValue(cid, "language") == "en" then
+			if player_language == "en" then
 				string = string .. " hours"
 			else
 				string = string .. " horas"
 			end
 		else
-			if getPlayerStorageValue(cid, "language") == "en" then
+			if player_language == "en" then
 				string = string .. " hour"
 			else
 				string = string .. " hora"
@@ -618,13 +619,13 @@ function getFormatedTime(cid, time)
         string = string .. time.minutes
 
 		if time.minutes > 1 then
-			if getPlayerStorageValue(cid, "language") == "en" then
+			if player_language == "en" then
 				string = string .. " minutes"
 			else
 				string = string .. " minutos"
 			end
 		else
-			if getPlayerStorageValue(cid, "language") == "en" then
+			if player_language == "en" then
 				string = string .. " minute"
 			else
 				string = string .. " minuto"
@@ -634,7 +635,7 @@ function getFormatedTime(cid, time)
 
     if time.seconds > 0 then
         if time.minutes > 0 then
-            if getPlayerStorageValue(cid, "language") == "en" then
+            if player_language == "en" then
                 string = string .. " and "
             else
                 string = string .. " e "
@@ -644,13 +645,13 @@ function getFormatedTime(cid, time)
         string = string .. time.seconds
 
 		if time.seconds > 1 then
-			if getPlayerStorageValue(cid, "language") == "en" then
+			if player_language == "en" then
 				string = string .. " seconds"
 			else
 				string = string .. " segundos"
 			end
 		else
-			if getPlayerStorageValue(cid, "language") == "en" then
+			if player_language == "en" then
 				string = string .. " second"
 			else
 				string = string .. " segundo"
