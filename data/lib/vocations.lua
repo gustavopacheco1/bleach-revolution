@@ -121,4 +121,14 @@ VOCATION_TRANSFORM = {
     [101] = {level = 400, vocation = 102, looktype = 335, effect = {number = 10}},
 }
 
+vocation_specials = {
+    ["Zaraki Kenpachi"] = {
+        [400] = "Nozarashi",
+        [450] = "Bankai"
+    },
 
+    ["Tier Halibel"] = {
+        [400] = "Invisivel",
+        [450] = "Hirviendo"
+    }
+}
