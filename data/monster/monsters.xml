@@ -53,6 +53,7 @@
 	<monster name="Hiroshi Boss" file="hunt/Hiroshi Boss.xml"/>
 	<monster name="Hiroshi Boss Two" file="hunt/Hiroshi Boss Two.xml"/>
 	<monster name="Hiroshin" file="hunt/Hiroshin.xml"/>
+	<monster name="Zangetsu" file="hunt/Zangetsu.xml"/>
 	<!-- Clones -->
 	<monster name="Rukia Clone" file="clones/Rukia Clone.xml"/>
 </monsters>
