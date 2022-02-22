@@ -169,6 +169,51 @@
 	<spawn centerx="4026" centery="3102" centerz="5" radius="1">
 		<monster name="Arrancar Watcher" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3914" centery="3332" centerz="5" radius="1">
+		<monster name="Kensei" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3920" centery="3332" centerz="5" radius="1">
+		<monster name="Kensei" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3925" centery="3332" centerz="5" radius="1">
+		<monster name="Kensei" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3931" centery="3332" centerz="5" radius="1">
+		<monster name="Kensei" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3902" centery="3333" centerz="5" radius="1">
+		<monster name="Kensei" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3909" centery="3333" centerz="5" radius="1">
+		<monster name="Kensei" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3890" centery="3334" centerz="5" radius="1">
+		<monster name="Kensei" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3936" centery="3335" centerz="5" radius="1">
+		<monster name="Kensei" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3885" centery="3336" centerz="5" radius="1">
+		<monster name="Kensei" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3880" centery="3339" centerz="5" radius="1">
+		<monster name="Kensei" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3937" centery="3340" centerz="5" radius="1">
+		<monster name="Kensei" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3878" centery="3344" centerz="5" radius="1">
+		<monster name="Kensei" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3932" centery="3345" centerz="5" radius="1">
+		<monster name="Kensei" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3926" centery="3347" centerz="5" radius="1">
+		<monster name="Kensei" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3880" centery="3348" centerz="5" radius="1">
+		<monster name="Kensei" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3157" centery="3349" centerz="5" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
@@ -177,6 +222,15 @@
 	</spawn>
 	<spawn centerx="3176" centery="3349" centerz="5" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3906" centery="3349" centerz="5" radius="1">
+		<monster name="Kensei" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3920" centery="3349" centerz="5" radius="1">
+		<monster name="Kensei" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3912" centery="3350" centerz="5" radius="1">
+		<monster name="Kensei" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3162" centery="3352" centerz="5" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="5" spawntime="60" />
@@ -1692,6 +1746,12 @@
 	<spawn centerx="3670" centery="3331" centerz="6" radius="1">
 		<monster name="Mini Fisher" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3917" centery="3331" centerz="6" radius="1">
+		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3926" centery="3331" centerz="6" radius="1">
+		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3712" centery="3332" centerz="6" radius="1">
 		<monster name="Mini Fisher" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
@@ -1705,9 +1765,24 @@
 		<monster name="Hollow wolf" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Hollow wolf" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3898" centery="3333" centerz="6" radius="1">
+		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3907" centery="3333" centerz="6" radius="1">
+		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3933" centery="3334" centerz="6" radius="1">
+		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3888" centery="3335" centerz="6" radius="1">
+		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3594" centery="3337" centerz="6" radius="1">
 		<monster name="Hollow wolf" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Hollow wolf" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3880" centery="3337" centerz="6" radius="1">
+		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3676" centery="3338" centerz="6" radius="1">
 		<monster name="Mini Fisher" x="1" y="-1" z="6" spawntime="60" />
@@ -1721,6 +1796,18 @@
 	<spawn centerx="3693" centery="3340" centerz="6" radius="1">
 		<monster name="Mini Fisher" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3874" centery="3342" centerz="6" radius="1">
+		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3934" centery="3342" centerz="6" radius="1">
+		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3867" centery="3344" centerz="6" radius="1">
+		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3928" centery="3345" centerz="6" radius="1">
+		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3374" centery="3348" centerz="6" radius="1">
 		<monster name="Mummy" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Mummy" x="0" y="1" z="6" spawntime="60" />
@@ -1730,6 +1817,12 @@
 	</spawn>
 	<spawn centerx="3412" centery="3348" centerz="6" radius="1">
 		<monster name="Mummy" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3879" centery="3348" centerz="6" radius="1">
+		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3921" centery="3348" centerz="6" radius="1">
+		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3161" centery="3349" centerz="6" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="6" spawntime="60" />
@@ -1744,6 +1837,12 @@
 		<monster name="Mummy" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Mummy" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3907" centery="3349" centerz="6" radius="1">
+		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3914" centery="3349" centerz="6" radius="1">
+		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3163" centery="3352" centerz="6" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -1755,6 +1854,9 @@
 	</spawn>
 	<spawn centerx="3154" centery="3353" centerz="6" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3881" centery="3353" centerz="6" radius="1">
+		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3121" centery="3354" centerz="6" radius="1">
 		<monster name="Hollow wolf" x="0" y="0" z="6" spawntime="60" />
@@ -1806,6 +1908,9 @@
 	<spawn centerx="3379" centery="3359" centerz="6" radius="1">
 		<monster name="Mummy" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Mummy" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3880" centery="3360" centerz="6" radius="1">
+		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3154" centery="3361" centerz="6" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="6" spawntime="60" />
@@ -1923,6 +2028,9 @@
 	</spawn>
 	<spawn centerx="3228" centery="3375" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3890" centery="3375" centerz="6" radius="1">
+		<monster name="Kensei Boss" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3237" centery="3376" centerz="6" radius="1">
 		<monster name="Hollow wolf" x="0" y="0" z="6" spawntime="60" />
