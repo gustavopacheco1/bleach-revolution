@@ -4,7 +4,7 @@
 
 <health now="400000" max="400000"/>
 
-<look type="69" head="0" body="94" legs="79" feet="79" corpse="5527"/>
+<look type="198" head="0" body="94" legs="79" feet="79" corpse="5527"/>
 
 <targetchange interval="5000" chance="50"/>
 
@@ -27,7 +27,7 @@
 
 <attacks>
 
-<attack name="melee" interval="2000" min="-50100" max="-50500"/>
+<attack name="melee" interval="2000" min="-80100" max="-85500"/>
 </attacks>
 
 <defenses armor="40" defense="40"/>
