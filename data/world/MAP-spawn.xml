@@ -7497,9 +7497,8 @@
 	<spawn centerx="5012" centery="4164" centerz="7" radius="1">
 		<monster name="Zangetsu Legendary Three" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4618" centery="4170" centerz="7" radius="1">
+	<spawn centerx="4617" centery="4172" centerz="7" radius="1">
 		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Zangetsu Legendary" x="0" y="1" z="7" spawntime="-1333860096" />
 	</spawn>
 	<spawn centerx="4707" centery="4174" centerz="7" radius="1">
 		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
