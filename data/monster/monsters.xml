@@ -58,6 +58,8 @@
 	<monster name="Zangetsu Legendary Two" file="hunt/Zangetsu Legendary Two.xml"/>
 	<monster name="Zangetsu Legendary Three" file="hunt/Zangetsu Legendary Three.xml"/>
 	<monster name="Arrancar Boss" file="hunt/Arrancar Boss.xml"/>
+	<monster name="Arrancar Boss" file="hunt/Arrancar Boss.xml"/>
+	<monster name="Kensei" file="hunt/Kensei.xml"/>
 	<!-- Clones -->
 	<monster name="Rukia Clone" file="clones/Rukia Clone.xml"/>
 </monsters>
