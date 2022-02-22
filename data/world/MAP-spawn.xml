@@ -7355,6 +7355,415 @@
 	<spawn centerx="3050" centery="3988" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4671" centery="4127" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4686" centery="4130" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4587" centery="4133" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4698" centery="4133" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4709" centery="4135" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4600" centery="4137" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4722" centery="4137" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4735" centery="4141" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4577" centery="4142" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4607" centery="4143" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4749" centery="4148" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4762" centery="4148" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4771" centery="4149" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4782" centery="4149" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4568" centery="4152" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4850" centery="4155" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary Two" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4540" centery="4158" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4554" centery="4158" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4525" centery="4159" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4613" centery="4159" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4737" centery="4159" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4514" centery="4164" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="5012" centery="4164" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary Three" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4618" centery="4170" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Zangetsu Legendary" x="0" y="1" z="7" spawntime="-1333860096" />
+	</spawn>
+	<spawn centerx="4707" centery="4174" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4719" centery="4174" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4508" centery="4175" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4695" centery="4175" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4730" centery="4178" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4686" centery="4180" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4620" centery="4183" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4735" centery="4188" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4680" centery="4189" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4628" centery="4190" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4512" centery="4191" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4740" centery="4196" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4640" centery="4198" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4677" centery="4201" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4750" centery="4204" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4519" centery="4206" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4672" centery="4210" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4653" centery="4211" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4761" centery="4211" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4778" centery="4217" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4525" centery="4218" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4660" centery="4221" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4533" centery="4230" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4545" centery="4231" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4557" centery="4231" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4572" centery="4231" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4586" centery="4233" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4665" centery="4233" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4521" centery="4234" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4506" centery="4241" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4597" centery="4242" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4669" centery="4247" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4602" centery="4251" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4449" centery="4252" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4501" centery="4256" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4708" centery="4259" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4605" centery="4261" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4690" centery="4261" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4671" centery="4262" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4449" centery="4265" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4497" centery="4275" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4447" centery="4279" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4521" centery="4290" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4497" centery="4292" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4535" centery="4295" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4485" centery="4296" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4448" centery="4298" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4464" centery="4305" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4531" centery="4310" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4449" centery="4314" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4525" centery="4320" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4440" centery="4329" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4523" centery="4335" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4510" centery="4342" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4436" centery="4346" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4430" centery="4358" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4517" centery="4360" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4523" centery="4377" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4498" centery="4392" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4515" centery="4394" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4479" centery="4396" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4469" centery="4401" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4530" centery="4401" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4457" centery="4405" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4575" centery="4406" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4448" centery="4407" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4542" centery="4407" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4555" centery="4410" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4435" centery="4412" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4436" centery="4430" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4445" centery="4442" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4459" centery="4444" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4473" centery="4445" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4485" centery="4446" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4503" centery="4448" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4509" centery="4464" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4509" centery="4482" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4509" centery="4497" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4510" centery="4514" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4494" centery="4518" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4520" centery="4520" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4482" centery="4521" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4465" centery="4526" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4526" centery="4526" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4449" centery="4530" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4434" centery="4531" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4421" centery="4533" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4533" centery="4534" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4405" centery="4540" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4539" centery="4542" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4548" centery="4548" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4401" centery="4565" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4458" centery="4572" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4481" centery="4574" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4504" centery="4574" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4521" centery="4574" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4539" centery="4575" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4435" centery="4576" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4550" centery="4580" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4413" centery="4583" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4551" centery="4594" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4550" centery="4608" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4545" centery="4619" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4535" centery="4629" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4523" centery="4637" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4441" centery="4640" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4511" centery="4641" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4451" centery="4643" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4502" centery="4645" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4462" centery="4646" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4475" centery="4647" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4489" centery="4647" centerz="7" radius="1">
+		<monster name="Zangetsu Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3356" centery="3019" centerz="8" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
