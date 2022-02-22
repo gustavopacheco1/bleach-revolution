@@ -516,6 +516,24 @@
 	<spawn centerx="3579" centery="3725" centerz="5" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3477" centery="3961" centerz="5" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3473" centery="3962" centerz="5" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3473" centery="3966" centerz="5" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3480" centery="3967" centerz="5" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3477" centery="3968" centerz="5" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3471" centery="3969" centerz="5" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3574" centery="4058" centerz="5" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
@@ -2886,6 +2904,21 @@
 	</spawn>
 	<spawn centerx="3582" centery="3724" centerz="6" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3476" centery="3960" centerz="6" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3479" centery="3963" centerz="6" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3474" centery="3965" centerz="6" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3471" centery="3969" centerz="6" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3477" centery="3969" centerz="6" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3606" centery="4057" centerz="6" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
@@ -7314,7 +7347,9 @@
 	<spawn centerx="3603" centery="3956" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3483" centery="3957" centerz="7" radius="1" />
+	<spawn centerx="3483" centery="3957" centerz="7" radius="1">
+		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3124" centery="3958" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -7342,8 +7377,14 @@
 	<spawn centerx="3079" centery="3963" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3478" centery="3963" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3133" centery="3964" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3473" centery="3964" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3558" centery="3964" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="1" z="7" spawntime="60" />
@@ -7357,10 +7398,18 @@
 	<spawn centerx="3258" centery="3966" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3472" centery="3968" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3477" centery="3968" centerz="7" radius="1">
+		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3221" centery="3969" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3482" centery="3969" centerz="7" radius="1" />
+	<spawn centerx="3482" centery="3969" centerz="7" radius="1">
+		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3532" centery="3969" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
