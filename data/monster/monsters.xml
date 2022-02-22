@@ -60,6 +60,7 @@
 	<monster name="Arrancar Boss" file="hunt/Arrancar Boss.xml"/>
 	<monster name="Kensei" file="hunt/Kensei.xml"/>
 	<monster name="Kensei Boss" file="hunt/Kensei Boss.xml"/>
+	<monster name="Barragan Boss" file="hunt/Barragan Boss.xml"/>
 	<!-- Clones -->
 	<monster name="Rukia Clone" file="clones/Rukia Clone.xml"/>
 </monsters>

@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<monster name="Barragan" nameDescription="Barragan" race="blood" experience="150" speed="800" manacost="0">
+<monster name="Barragan Boss" nameDescription="Barragan Boss" race="blood" experience="150" speed="900" manacost="0">
 
-<health now="400000" max="400000"/>
+<health now="1000000" max="1000000"/>
 
-<look type="198" head="0" body="94" legs="79" feet="79" corpse="5527"/>
+<look type="69" head="0" body="94" legs="79" feet="79" corpse="5527"/>
 
 <targetchange interval="5000" chance="50"/>
 
@@ -27,7 +27,7 @@
 
 <attacks>
 
-<attack name="melee" interval="1500" min="-80100" max="-85500"/>
+<attack name="melee" interval="1500" min="-87100" max="-93500"/>
 </attacks>
 
 <defenses armor="40" defense="40"/>

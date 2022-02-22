@@ -2243,6 +2243,9 @@
 	<spawn centerx="3579" centery="3411" centerz="6" radius="1">
 		<monster name="Black wolf" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="4214" centery="3411" centerz="6" radius="1">
+		<monster name="Barragan Boss" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="4203" centery="3412" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
