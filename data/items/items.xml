@@ -21773,6 +21773,9 @@
 	<item id="10496" name="pavement" />
 	<item id="10497" name="pavement" />
 	<item id="10498" name="pavement" />
+	<item fromid="10562" toid="10569" name="garganta">
+		<attribute key="type" value="teleport" />
+	</item>
 	<item id="20001" name="water" />
 	<item id="20002" name="blood" />
 	<item id="20003" name="beer" />
