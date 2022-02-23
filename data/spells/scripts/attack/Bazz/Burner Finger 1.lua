@@ -2,6 +2,7 @@ local combat = createCombatObject()
 setCombatParam(combat, COMBAT_PARAM_HITCOLOR, COLOR_PINK)
 setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_PHYSICALDAMAGE)
 setCombatParam(combat, COMBAT_PARAM_DISTANCEEFFECT, 28)
+setCombatParam(combat, COMBAT_PARAM_EFFECT, 214)
 setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -15.0, 0, -15.0, 0)
 
 function onCastSpell(cid, var)
@@ -9,13 +10,6 @@ function onCastSpell(cid, var)
         doPlayerSendCancel(cid, "You are exhausted.")
         return false
     end
-
-	local target_position = getCreaturePosition(getCreatureTarget(cid))
-    doSendMagicEffect({
-        x = target_position.x + 1,
-        y = target_position.y + 1,
-        z = target_position.z
-    }, 459)
 
     for i = 0, 4 do
         addEvent(function()
