@@ -870,7 +870,7 @@
 	
 	<!-- Rings -->
 	
-	<movevent type="Equip" itemid="15797" slot="ring" event="function" value="onEquipItem"/>
+	<movevent type="Equip" itemid="15797" slot="ring" level="475" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="15797" slot="ring" event="function" value="onDeEquipItem"/>
 	<movevent type="Equip" itemid="15790" slot="ring" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="15790" slot="ring" event="function" value="onDeEquipItem"/>

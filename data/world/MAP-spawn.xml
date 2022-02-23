@@ -5552,6 +5552,9 @@
 		<monster name="Giant Snake" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Giant Snake" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4004" centery="3500" centerz="7" radius="1">
+		<monster name="Barragan Boss Two" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3006" centery="3501" centerz="7" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
