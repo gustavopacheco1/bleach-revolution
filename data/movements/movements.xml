@@ -706,6 +706,17 @@
 	<movevent type="Equip" itemid="15718" level="100" slot="feet" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="15718" slot="feet" event="function" value="onDeEquipItem"/>
 	
+	<!-- Vasto Lorde Set -->
+	
+	<movevent type="Equip" itemid="15723" level="300" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15723" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15726" level="300" slot="armor" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15726" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15727" level="300" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15727" slot="legs" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15722" level="300" slot="feet" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15722" slot="feet" event="function" value="onDeEquipItem"/>
+	
 	<!-- Samurai -->
 	
 	<movevent type="Equip" itemid="15077" level="100" slot="head" event="function" value="onEquipItem"/>

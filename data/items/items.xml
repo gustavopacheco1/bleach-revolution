@@ -21873,9 +21873,9 @@
 	<item id="15723" name="Vasto Lorde Helmet">
 		<attribute key="weight" value="1000" />
 		<attribute key="armor" value="40" />
-		<attribute key="manaGain" value="3000" />
+		<attribute key="manaGain" value="3500" />
 		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="3000" />
+		<attribute key="healthGain" value="3500" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
@@ -21901,9 +21901,9 @@
 		<attribute key="weight" value="2100" />
 		<attribute key="armor" value="40" />
 		<attribute key="speed" value="30" />
-		<attribute key="manaGain" value="1800" />
+		<attribute key="manaGain" value="3500" />
 		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="1800" />
+		<attribute key="healthGain" value="3500" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="feet" />
 	</item>
