@@ -43,7 +43,7 @@ function onCreatureSay(cid, type, msg)
             talkState[talkUser] = nil
             selfSayMultiLanguage(
                 "Hello, " .. player_name .. "! I can pass you some {tasks}, if you complete all them I guarantee you a good reward.",
-                "Olá, " .. player_name .. "! Eu posso te passar algumas {tarefas}, se você todas elas eu te garanto uma boa recompensas.",
+                "Olá, " .. player_name .. "! Eu posso te passar algumas {tarefas}, se você fazer todas elas eu te garanto uma boa recompensa.",
                 cid
             )
             npcHandler:addFocus(cid)
