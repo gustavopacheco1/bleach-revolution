@@ -13,7 +13,7 @@ function onCastSpell(cid, var)
         x = target_position.x + 1,
         y = target_position.y + 1,
         z = target_position.z
-    }, 412)
+    }, 724)
 
     exhaustion.set(cid, 115818, 1)
     return doCombat(cid, combat, var)
