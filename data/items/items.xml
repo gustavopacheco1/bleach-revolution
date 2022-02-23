@@ -22477,24 +22477,28 @@
 	<item id="15797" name="Barragan Ring">
 		<attribute key="weight" value="500" />
 		<attribute key="absorbPercentAll" value="2" />
+		<attribute key="magicpoints" value="5" />
 		<attribute key="slotType" value="ring" />
 		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="15790" name="Zaraki Ring">
 		<attribute key="weight" value="500" />
 		<attribute key="absorbPercentAll" value="2" />
+		<attribute key="magicpoints" value="3" />
 		<attribute key="slotType" value="ring" />
 		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="15743" name="Skeleton Ring">
 		<attribute key="weight" value="500" />
 		<attribute key="absorbPercentAll" value="1" />
+		<attribute key="magicpoints" value="1" />
 		<attribute key="slotType" value="ring" />
 		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="11377" name="Snake Ring">
 		<attribute key="weight" value="500" />
 		<attribute key="absorbPercentAll" value="1" />
+		<attribute key="magicpoints" value="2" />
 		<attribute key="slotType" value="ring" />
 		<attribute key="showattributes" value="1" />
 	</item>
