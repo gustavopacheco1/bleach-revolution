@@ -3955,12 +3955,6 @@
 		<attribute key="weaponType" value="club" />
 		<attribute key="slotType" value="two-handed" />
 	</item>
-	<item id="2392" article="a" name="Shinigami Sword">
-		<attribute key="weight" value="2300" />
-		<attribute key="defense" value="42" />
-		<attribute key="attack" value="48" />
-		<attribute key="weaponType" value="sword" />
-	</item>
 	<item id="2393" article="a" name="Hyorinmaru">
 		<attribute key="weight" value="18000" />
 		<attribute key="defense" value="22" />
@@ -22508,79 +22502,52 @@
 	<!-- Founder Armas -->
 	<item id="15720" name="Founder Sword">
 		<attribute key="weight" value="2500" />
-		<attribute key="defense" value="50" />
-		<attribute key="attack" value="60" />
+		<attribute key="defense" value="35" />
+		<attribute key="attack" value="40" />
 		<attribute key="weaponType" value="sword" />
 	</item>
 	<item id="15719" name="Founder Red Glove">
 		<attribute key="weight" value="2500" />
-		<attribute key="defense" value="50" />
-		<attribute key="attack" value="60" />
+		<attribute key="defense" value="35" />
+		<attribute key="attack" value="40" />
 		<attribute key="weaponType" value="axe" />
 	</item>
 	
 	<item id="15721" article="an" name="Founder Distance">
 		<attribute key="weight" value="200" />
-		<attribute key="attack" value="65" />
+		<attribute key="attack" value="40" />
 		<attribute key="weaponType" value="distance" />
 		<attribute key="range" value="10" />
 		<attribute key="hitChance" value="100" />
 	</item>
 	
 	<!-- Swords -->
-	<item id="15731" name="Fake Zanguetsu">
-		<attribute key="weight" value="2500" />
-		<attribute key="defense" value="20" />
-		<attribute key="attack" value="25" />
-		<attribute key="weaponType" value="sword" />
-	</item>
-	
-	<item id="15738" name="Shikai Zangetsu">
-		<attribute key="weight" value="2500" />
-		<attribute key="defense" value="70" />
-		<attribute key="attack" value="80" />
-		<attribute key="weaponType" value="sword" />
-	</item>
-	
-	<item id="15729" name="Senbonzakura">
-		<attribute key="weight" value="2500" />
-		<attribute key="defense" value="50" />
-		<attribute key="attack" value="60" />
-		<attribute key="weaponType" value="sword" />
-	</item>
-	
 	<item id="15410" name="Shinigami Sword">
 		<attribute key="weight" value="2500" />
 		<attribute key="defense" value="8" />
 		<attribute key="attack" value="10" />
 		<attribute key="weaponType" value="sword" />
 	</item>
-	
-	<item id="15407" name="Sode no Shirayuki">
-		<attribute key="weight" value="2500" />
-		<attribute key="defense" value="25" />
-		<attribute key="attack" value="30" />
-		<attribute key="weaponType" value="sword" />
-	</item>
-	
-	<item id="15406" name="Zabimaru">
-		<attribute key="weight" value="2500" />
-		<attribute key="defense" value="15" />
-		<attribute key="attack" value="20" />
-		<attribute key="weaponType" value="sword" />
-	</item>
+
 	
 	<item id="15122" name="Bankai Zangetsu">
 		<attribute key="weight" value="2500" />
-		<attribute key="defense" value="60" />
-		<attribute key="attack" value="70" />
+		<attribute key="defense" value="45" />
+		<attribute key="attack" value="50" />
 		<attribute key="weaponType" value="sword" />
 	</item>
 	
-	<item id="15123" name="Nozarashi">
+	<item id="15411" name="Legendary Bankai Zangetsu">
 		<attribute key="weight" value="2500" />
 		<attribute key="defense" value="55" />
 		<attribute key="attack" value="60" />
+		<attribute key="weaponType" value="sword" />
+	</item>
+	
+	<item id="15412" name="Especial Bankai Zangetsu">
+		<attribute key="weight" value="2500" />
+		<attribute key="defense" value="65" />
+		<attribute key="attack" value="70" />
 		<attribute key="weaponType" value="sword" />
 	</item>
 	
@@ -22591,18 +22558,26 @@
 		<attribute key="weaponType" value="sword" />
 	</item>
 	
-	<item id="15816" name="Ryumon Hozukimaru">
-		<attribute key="weight" value="2500" />
-		<attribute key="defense" value="35" />
-		<attribute key="attack" value="40" />
-		<attribute key="weaponType" value="sword" />
-	</item>
 	
 	<!-- Gloves -->
 	<item id="15819" name="Brazo El Diablo">
 		<attribute key="weight" value="2500" />
-		<attribute key="defense" value="70" />
-		<attribute key="attack" value="80" />
+		<attribute key="defense" value="45" />
+		<attribute key="attack" value="50" />
+		<attribute key="weaponType" value="axe" />
+	</item>
+	
+	<item id="15431" name="Legendary Brazo El Diablo">
+		<attribute key="weight" value="2500" />
+		<attribute key="defense" value="55" />
+		<attribute key="attack" value="60" />
+		<attribute key="weaponType" value="axe" />
+	</item>
+	
+	<item id="15432" name="Especial Brazo El Diablo">
+		<attribute key="weight" value="2500" />
+		<attribute key="defense" value="65" />
+		<attribute key="attack" value="70" />
 		<attribute key="weaponType" value="axe" />
 	</item>
 	
@@ -22612,31 +22587,11 @@
 		<attribute key="attack" value="10" />
 		<attribute key="weaponType" value="axe" />
 	</item>
-	
-	<item id="15807" name="Red Glove">
-		<attribute key="weight" value="2500" />
-		<attribute key="defense" value="20" />
-		<attribute key="attack" value="25" />
-		<attribute key="weaponType" value="axe" />
-	</item>
-	
-	<item id="15806" name="Ground Glove">
-		<attribute key="weight" value="2500" />
-		<attribute key="defense" value="25" />
-		<attribute key="attack" value="30" />
-		<attribute key="weaponType" value="axe" />
-	</item>
-	
-	<item id="15805" name="Maroak Glove">
-		<attribute key="weight" value="2500" />
-		<attribute key="defense" value="40" />
-		<attribute key="attack" value="45" />
-		<attribute key="weaponType" value="axe" />
-	</item>
+
 	
 	<item id="15730" name="El Diablo Glove">
 		<attribute key="weight" value="2500" />
-		<attribute key="defense" value="55" />
+		<attribute key="defense" value="25" />
 		<attribute key="attack" value="60" />
 		<attribute key="weaponType" value="axe" />
 	</item>
@@ -22644,7 +22599,23 @@
 	<!-- Distance -->
 	<item id="15823" article="an" name="Lanza Del Relampago">
 		<attribute key="weight" value="200" />
-		<attribute key="attack" value="80" />
+		<attribute key="attack" value="50" />
+		<attribute key="weaponType" value="distance" />
+		<attribute key="range" value="10" />
+		<attribute key="hitChance" value="100" />
+	</item>
+	
+	<item id="15423" article="an" name="Legendary Lanza Del Relampago">
+		<attribute key="weight" value="200" />
+		<attribute key="attack" value="60" />
+		<attribute key="weaponType" value="distance" />
+		<attribute key="range" value="10" />
+		<attribute key="hitChance" value="100" />
+	</item>
+	
+	<item id="15424" article="an" name="Especial Lanza Del Relampago">
+		<attribute key="weight" value="200" />
+		<attribute key="attack" value="70" />
 		<attribute key="weaponType" value="distance" />
 		<attribute key="range" value="10" />
 		<attribute key="hitChance" value="100" />
@@ -22666,19 +22637,4 @@
 		<attribute key="hitChance" value="100" />
 	</item>
 	
-	<item id="15092" article="an" name="Branc Bow">
-		<attribute key="weight" value="200" />
-		<attribute key="attack" value="40" />
-		<attribute key="weaponType" value="distance" />
-		<attribute key="range" value="10" />
-		<attribute key="hitChance" value="100" />
-	</item>
-	
-	<item id="15093" article="an" name="Ultimate Bow">
-		<attribute key="weight" value="200" />
-		<attribute key="attack" value="50" />
-		<attribute key="weaponType" value="distance" />
-		<attribute key="range" value="10" />
-		<attribute key="hitChance" value="100" />
-	</item>
 </items>

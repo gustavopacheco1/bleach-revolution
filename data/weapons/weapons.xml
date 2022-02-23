@@ -3,28 +3,23 @@
 	<!-- Melee -->
 	<melee id="15720" event="function" value="default"/>
 	<melee id="15719" event="function" value="default"/>
-	<melee id="15731" event="function" value="default"/>
-	<melee id="15738" event="function" value="default"/>
-	<melee id="15729" event="function" value="default"/>
-	<melee id="15410" event="function" value="default"/>
-	<melee id="15407" event="function" value="default"/>
-	<melee id="15406" event="function" value="default"/>
-	<melee id="15122" event="function" value="default"/>
-	<melee id="15123" event="function" value="default"/>
-	<melee id="15820" event="function" value="default"/>
-	<melee id="15819" event="function" value="default"/>
 	<melee id="15808" event="function" value="default"/>
-	<melee id="15807" event="function" value="default"/>
-	<melee id="15806" event="function" value="default"/>
-	<melee id="15805" event="function" value="default"/>
 	<melee id="15730" event="function" value="default"/>
+	<melee id="15819" event="function" value="default"/>
+	<melee id="15431" event="function" value="default"/>
+	<melee id="15432" event="function" value="default"/>
+	<melee id="15410" event="function" value="default"/>
+	<melee id="15820" event="function" value="default"/>
+	<melee id="15122" event="function" value="default"/>
+	<melee id="15411" event="function" value="default"/>
+	<melee id="15412" event="function" value="default"/>
 	
 	<!-- Distance -->
 	<distance id="15721" event="script" value="Founder Distance.lua"/>
 	<distance id="15823" event="script" value="del relampago.lua"/>
+	<distance id="15423" event="script" value="legendary del relampago.lua"/>
+	<distance id="15424" event="script" value="especial del relampago.lua"/>
 	<distance id="15090" event="script" value="inical bow.lua"/>
 	<distance id="15091" event="script" value="quincy bow.lua"/>
-	<distance id="15092" event="script" value="branc bow.lua"/>
-	<distance id="15093" event="script" value="ultimate bow.lua"/>
 	
 </weapons>
