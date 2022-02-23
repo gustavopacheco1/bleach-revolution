@@ -1,8 +1,8 @@
 local spell = {
-    item = 6972,
-    effect_item = 215,
-    effect_buff = 28,
-    missile = 11,
+    item = 10501,
+    effect_item = 487,
+    effect_buff = 487,
+    missile = 16,
     cooldown = 30,
     duration = 10
 }
@@ -37,8 +37,8 @@ function onTargetTile(cid, pos)
     if getTileThingByPos(pos).itemid ~= 0 then
 	    doSendDistanceShoot(getCreaturePosition(cid), pos, spell.missile)
         doSendMagicEffect({
-            x = pos.x +1,
-            y = pos.y +1,
+            x = pos.x,
+            y = pos.y,
             z = pos.z
         }, spell.effect_item)
         doCreateItem(spell.item, 1, pos)
@@ -47,8 +47,8 @@ function onTargetTile(cid, pos)
             if thing ~= 0 then
                 doRemoveItem(thing)
                 doSendMagicEffect({
-                    x = pos.x +1,
-                    y = pos.y +1,
+                    x = pos.x,
+                    y = pos.y,
                     z = pos.z
                 }, spell.effect_item)
             end
