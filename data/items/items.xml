@@ -21833,74 +21833,74 @@
 	<!-- Founder Set -->
 	<item id="15715" name="Founder Helmet">
 		<attribute key="weight" value="1000" />
-		<attribute key="armor" value="40" />
-		<attribute key="manaGain" value="2000" />
+		<attribute key="armor" value="80" />
+		<attribute key="manaGain" value="4500" />
 		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="2000" />
+		<attribute key="healthGain" value="4500" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="15716" name="Founder Armor">
 		<attribute key="weight" value="3000" />
-		<attribute key="armor" value="50" />
-		<attribute key="manaGain" value="2500" />
+		<attribute key="armor" value="80" />
+		<attribute key="manaGain" value="4500" />
 		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="2500" />
+		<attribute key="healthGain" value="4500" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="body" />
 	</item>
 	<item id="15717" name="Founder Legs">
 		<attribute key="weight" value="3000" />
-		<attribute key="armor" value="50" />
-		<attribute key="manaGain" value="2500" />
+		<attribute key="armor" value="80" />
+		<attribute key="manaGain" value="4500" />
 		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="2500" />
+		<attribute key="healthGain" value="4500" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="legs" />
 	</item>
 	<item id="15718" name="Founder Boots">
 		<attribute key="weight" value="2100" />
-		<attribute key="armor" value="70" />
-		<attribute key="speed" value="70" />
-		<attribute key="manaGain" value="2000" />
+		<attribute key="armor" value="80" />
+		<attribute key="speed" value="60" />
+		<attribute key="manaGain" value="4500" />
 		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="2000" />
+		<attribute key="healthGain" value="4500" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="feet" />
 	</item>
 
 	<!-- Set Vip -->
-	<item id="15723" name="Black Helmet">
+	<item id="15723" name="Vasto Lorde Helmet">
 		<attribute key="weight" value="1000" />
-		<attribute key="armor" value="50" />
+		<attribute key="armor" value="40" />
 		<attribute key="manaGain" value="3000" />
 		<attribute key="manaTicks" value="1000" />
 		<attribute key="healthGain" value="3000" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
-	<item id="15726" name="Black Armor">
+	<item id="15726" name="Vasto Lorde Armor">
 		<attribute key="weight" value="3000" />
-		<attribute key="armor" value="70" />
+		<attribute key="armor" value="40" />
 		<attribute key="manaGain" value="3500" />
 		<attribute key="manaTicks" value="1000" />
 		<attribute key="healthGain" value="3500" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="body" />
 	</item>
-	<item id="15727" name="Black Legs">
+	<item id="15727" name="Vasto Lorde Legs">
 		<attribute key="weight" value="3000" />
-		<attribute key="armor" value="60" />
+		<attribute key="armor" value="40" />
 		<attribute key="manaGain" value="3500" />
 		<attribute key="manaTicks" value="1000" />
 		<attribute key="healthGain" value="3500" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="legs" />
 	</item>
-	<item id="15722" name="Black Boots">
+	<item id="15722" name="Vasto Lorde Boots">
 		<attribute key="weight" value="2100" />
 		<attribute key="armor" value="40" />
-		<attribute key="speed" value="70" />
+		<attribute key="speed" value="30" />
 		<attribute key="manaGain" value="1800" />
 		<attribute key="manaTicks" value="1000" />
 		<attribute key="healthGain" value="1800" />
