@@ -22,4 +22,7 @@
         <attack name="melee" interval="2000" min="-4000" max="-4100" />
     </attacks>
     <defenses armor="40" defense="40" />
+    <script>
+        <event name="YamamotoTask" />
+    </script>
 </monster>
