@@ -12,11 +12,7 @@ local talkState = {}
 
 -- [id do item] = {price = preço}
 local trade_items = {
-    [2667] = {price = 2000},
-	[2666] = {price = 2000},
-	[2676] = {price = 2000},
-	[2696] = {price = 2000},
-	[6574] = {price = 2000}
+    [2667] = {price = 2000}
 }
 
 function onCreatureSay(cid, type, msg)
@@ -70,33 +66,6 @@ function onCreatureSay(cid, type, msg)
         openShopWindow(cid, shopWindow, creatureSayBuy, creatureSaySell)
     end
     return true
-end
-
-function creatureSaySell(cid, itemid, subType, amount, ignoreEquipped, dummy)
-    local shopItem = trade_items[itemid]
-
-    local parseInfo = {
-        [TAG_PLAYERNAME] = getPlayerName(cid),
-        [TAG_ITEMCOUNT] = amount,
-        [TAG_TOTALCOST] = amount * shopItem.price,
-        [TAG_ITEMNAME] = getItemNameById(itemid)
-    }
-
-    if(subType < 1 or getItemInfo(itemid).stackable) then
-        subType = -1
-    end
-
-    if(doPlayerRemoveItem(cid, itemid, amount, subType, ignoreEquipped)) then
-        local msg = NpcHandler:getMessage(cid, MESSAGE_SOLD)
-        doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, NpcHandler:parseMessage(msg, parseInfo))
-
-        doPlayerAddMoney(cid, amount * shopItem.price)
-        return true
-    end
-
-    local msg = NpcHandler:getMessage(cid, MESSAGE_NEEDITEM)
-    doPlayerSendCancel(cid, NpcHandler:parseMessage(msg, parseInfo))
-    return false
 end
 
 npcHandler:setCallback(CALLBACK_MESSAGE_DEFAULT, creatureSayCallback)
