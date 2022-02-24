@@ -49,6 +49,9 @@
 		<monster name="Fraccion" x="0" y="-1" z="4" spawntime="60" />
 		<monster name="Fraccion" x="1" y="1" z="4" spawntime="60" />
 	</spawn>
+	<spawn centerx="3608" centery="4078" centerz="4" radius="1">
+		<npc name="quest _zangetsu" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
 	<spawn centerx="3905" centery="2937" centerz="5" radius="1">
 		<monster name="Prisoner" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
