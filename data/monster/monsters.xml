@@ -63,6 +63,7 @@
 	<monster name="Barragan Boss" file="hunt/Barragan Boss.xml"/>
 	<monster name="Barragan Boss Two" file="hunt/Barragan Boss Two.xml"/>
 	<monster name="Arrancar Misteryo" file="hunt/Arrancar Misteryo.xml"/>
+	<monster name="Especial Arrancar Boss" file="hunt/Especial Arrancar Boss.xml"/>
 	<!-- Clones -->
 	<monster name="Rukia Clone" file="clones/Rukia Clone.xml"/>
 </monsters>

@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<monster name="Arrancar Misteryo" nameDescription="Arrancar Misteryo" race="blood" experience="100" speed="700" manacost="0">
+<monster name="Especial Arrancar Boss" nameDescription="Especial Arrancar Boss" race="blood" experience="100" speed="900" manacost="0">
 
-<health now="500000" max="500000"/>
+<health now="5000000" max="5000000"/>
 
-<look type="130" head="0" body="94" legs="79" feet="79" corpse="5527"/>
+<look type="129" head="0" body="94" legs="79" feet="79" corpse="5527"/>
 
 <targetchange interval="5000" chance="50"/>
 
@@ -27,7 +27,7 @@
 
 <attacks>
 
-<attack name="melee" interval="2000" min="-50000" max="-50100"/>
+<attack name="melee" interval="2000" min="-60000" max="-60100"/>
 </attacks>
 
 <defenses armor="40" defense="40"/>
