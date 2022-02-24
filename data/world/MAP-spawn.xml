@@ -8532,15 +8532,66 @@
 	<spawn centerx="3870" centery="3098" centerz="8" radius="1">
 		<monster name="Espada" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3472" centery="3160" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3477" centery="3161" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3470" centery="3165" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3479" centery="3165" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3474" centery="3167" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3410" centery="3169" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3464" centery="3170" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3412" centery="3172" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3410" centery="3176" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3460" centery="3176" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3516" centery="3178" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3522" centery="3178" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3455" centery="3180" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3410" centery="3183" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3405" centery="3185" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3450" centery="3185" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3399" centery="3188" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3393" centery="3189" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3529" centery="3189" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Flying Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3448" centery="3192" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3557" centery="3194" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
@@ -8550,11 +8601,17 @@
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Flying Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3390" centery="3195" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3598" centery="3195" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3572" centery="3196" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3452" centery="3198" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3538" centery="3198" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
@@ -8566,12 +8623,69 @@
 	<spawn centerx="3624" centery="3198" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3393" centery="3200" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3637" centery="3202" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3453" centery="3204" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3390" centery="3205" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3316" centery="3207" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3384" centery="3207" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3308" centery="3209" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3302" centery="3211" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3452" centery="3211" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3640" centery="3211" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3379" centery="3212" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3322" centery="3213" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3446" centery="3213" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3330" centery="3214" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3338" centery="3214" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3346" centery="3214" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3433" centery="3214" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3439" centery="3214" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3427" centery="3215" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3420" centery="3217" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3381" centery="3218" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3559" centery="3218" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
@@ -8580,9 +8694,18 @@
 	<spawn centerx="3577" centery="3218" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3351" centery="3219" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3632" centery="3219" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Flying Hollow" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3385" centery="3221" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3412" centery="3221" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3618" centery="3222" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
@@ -8594,6 +8717,18 @@
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Flying Hollow" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3406" centery="3224" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3391" centery="3225" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3400" centery="3225" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3354" centery="3226" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3508" centery="3226" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Flying Hollow" x="-1" y="1" z="8" spawntime="60" />
@@ -8601,9 +8736,27 @@
 	<spawn centerx="3545" centery="3226" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3359" centery="3230" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3365" centery="3232" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3386" centery="3233" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3531" centery="3233" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3370" centery="3235" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3382" centery="3237" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3376" centery="3239" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3503" centery="3242" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
@@ -8614,6 +8767,9 @@
 	<spawn centerx="3648" centery="3244" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Flying Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3371" centery="3245" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3623" centery="3245" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
@@ -8632,6 +8788,9 @@
 	<spawn centerx="3654" centery="3251" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3371" centery="3252" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3563" centery="3253" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="-1" z="8" spawntime="60" />
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
@@ -8640,11 +8799,17 @@
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Flying Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3376" centery="3256" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3530" centery="3258" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3649" centery="3261" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3380" centery="3262" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3540" centery="3264" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="1" y="-1" z="8" spawntime="60" />
@@ -8667,15 +8832,42 @@
 	<spawn centerx="3596" centery="3268" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3376" centery="3269" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3586" centery="3270" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Flying Hollow" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3369" centery="3271" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3364" centery="3275" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3579" centery="3277" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3359" centery="3280" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3579" centery="3285" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3359" centery="3289" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3361" centery="3294" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3366" centery="3295" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3372" centery="3301" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3368" centery="3307" centerz="8" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3227" centery="3329" centerz="8" radius="1">
 		<monster name="Red Hollow" x="0" y="1" z="8" spawntime="60" />
@@ -10745,8 +10937,29 @@
 	<spawn centerx="3944" centery="3142" centerz="9" radius="1">
 		<monster name="Espada" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="3444" centery="3143" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3449" centery="3143" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3438" centery="3144" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3430" centery="3147" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3453" centery="3147" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3455" centery="3150" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="3821" centery="3150" centerz="9" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3426" centery="3151" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3832" centery="3157" centerz="9" radius="1">
 		<monster name="Espada" x="0" y="0" z="9" spawntime="60" />
@@ -10759,6 +10972,9 @@
 	</spawn>
 	<spawn centerx="3929" centery="3157" centerz="9" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3421" centery="3158" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3843" centery="3158" centerz="9" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="9" spawntime="60" />
@@ -10778,13 +10994,82 @@
 	<spawn centerx="3920" centery="3158" centerz="9" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="3392" centery="3162" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3399" centery="3163" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3415" centery="3163" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3406" centery="3165" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3387" centery="3166" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3476" centery="3166" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3481" centery="3166" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3485" centery="3169" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3383" centery="3171" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3491" centery="3172" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3497" centery="3173" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3410" centery="3174" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3503" centery="3174" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3380" centery="3177" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3411" centery="3180" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3372" centery="3181" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="-1" y="-1" z="9" spawntime="60" />
+		<monster name="Hollow Snake" x="1" y="-1" z="9" spawntime="60" />
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Hollow Snake" x="-1" y="1" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="3516" centery="3182" centerz="9" radius="1">
 		<monster name="Flying Hollow" x="1" y="-1" z="9" spawntime="60" />
 		<monster name="Flying Hollow" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="3409" centery="3186" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3413" centery="3188" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3413" centery="3194" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="3515" centery="3195" centerz="9" radius="1">
 		<monster name="Flying Hollow" x="1" y="-1" z="9" spawntime="60" />
 		<monster name="Flying Hollow" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3417" centery="3198" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3301" centery="3202" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3421" centery="3202" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3542" centery="3202" centerz="9" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="9" spawntime="60" />
@@ -10793,26 +11078,194 @@
 	<spawn centerx="3508" centery="3204" centerz="9" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="3426" centery="3205" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3290" centery="3206" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="3539" centery="3206" centerz="9" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3296" centery="3207" centerz="9" radius="1">
+		<monster name="Especial Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3431" centery="3207" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3316" centery="3210" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3358" centery="3210" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3364" centery="3210" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3350" centery="3211" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3434" centery="3211" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3322" centery="3213" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3342" centery="3213" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3500" centery="3213" centerz="9" radius="1">
 		<monster name="Flying Hollow" x="1" y="-1" z="9" spawntime="60" />
 		<monster name="Flying Hollow" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="3296" centery="3214" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3327" centery="3215" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3336" centery="3215" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3369" centery="3217" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3435" centery="3217" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="3536" centery="3217" centerz="9" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="9" spawntime="60" />
 		<monster name="Flying Hollow" x="0" y="1" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="3430" centery="3220" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3364" centery="3222" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3425" centery="3222" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3420" centery="3223" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3415" centery="3225" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="3502" centery="3225" centerz="9" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3409" centery="3226" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3530" centery="3227" centerz="9" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="3357" centery="3228" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3404" centery="3230" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="3513" centery="3231" centerz="9" radius="1">
 		<monster name="Flying Hollow" x="-1" y="-1" z="9" spawntime="60" />
 		<monster name="Flying Hollow" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3352" centery="3233" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3400" centery="3236" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3351" centery="3240" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3399" centery="3243" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3349" centery="3246" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3399" centery="3248" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3396" centery="3253" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3349" centery="3254" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3395" centery="3257" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3349" centery="3260" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3393" centery="3263" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3353" centery="3265" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3358" centery="3269" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3393" centery="3271" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3360" centery="3275" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3390" centery="3279" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3356" centery="3280" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3349" centery="3283" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3389" centery="3288" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3345" centery="3290" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3392" centery="3294" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3343" centery="3299" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3395" centery="3303" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3342" centery="3307" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3394" centery="3309" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3345" centery="3313" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3390" centery="3315" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3350" centery="3316" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3383" centery="3317" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3357" centery="3318" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3376" centery="3318" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3368" centery="3319" centerz="9" radius="1">
+		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3219" centery="3328" centerz="9" radius="1">
 		<monster name="Red Hollow" x="0" y="-1" z="9" spawntime="60" />
