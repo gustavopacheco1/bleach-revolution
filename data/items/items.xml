@@ -2842,7 +2842,7 @@
 	<item id="2147" article="a" name="small ruby" plural="small rubies">
 		<attribute key="weight" value="10" />
 	</item>
-	<item id="2148" article="a" name="ryo" plural="ryos">
+	<item id="2148" article="a" name="ryo coin" plural="ryo coins">
 		<attribute key="weight" value="10" />
 		<attribute key="worth" value="1" />
 	</item>
@@ -2856,7 +2856,7 @@
 		<attribute key="weight" value="20" />
 		<attribute key="description" value="There are many rumours about these magic gems." />
 	</item>
-	<item id="2152" article="a" name="hundred ryo" plural="hundred ryos">
+	<item id="2152" article="a" name="hundred ryo note" plural="hundred ryo notes">
 		<attribute key="weight" value="10" />
 		<attribute key="worth" value="100" />
 	</item>
@@ -2881,7 +2881,7 @@
 	<item id="2159" article="a" name="scarab coin" plural="scarab coins">
 		<attribute key="weight" value="100" />
 	</item>
-	<item id="2160" article="a" name="thousand ryo" plural="thousand ryos">
+	<item id="2160" article="a" name="ten thousand ryo note" plural="ten thousand ryo notes">
 		<attribute key="weight" value="10" />
 		<attribute key="worth" value="10000" />
 	</item>
