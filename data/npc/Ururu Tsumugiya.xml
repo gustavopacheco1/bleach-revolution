@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<npc name="Ururu Tsumugiya" script="data/npc/scripts/Minoru.lua" walkinterval="0">
+<npc name="Ururu Tsumugiya" script="data/npc/scripts/ururu_tsumugiya.lua" walkinterval="0">
     <health now="100" max="100" />
     <look type="203" />
 </npc>

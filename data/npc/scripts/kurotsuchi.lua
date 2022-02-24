@@ -8,21 +8,7 @@ function onCreatureSay(cid, type, msg)npcHandler:onCreatureSay(cid, type, msg:lo
 function onThink() npcHandler:onThink() end
 function onThink() npcHandler:onThinkCreatureSay() end
 
-local talkState = {}
-
--- [id do item] = {price = preço}
-local trade_items = {
-    [16112] = {price = 100000},
-	[16111] = {price = 500000},
-	[16118] = {price = 500000},
-	[16113] = {price = 300000},
-	[16114] = {price = 300000},
-	[16116] = {price = 10000},
-	[16117] = {price = 10000}
-}
-
 function onCreatureSay(cid, type, msg)
-    local talkUser = NPCHANDLER_CONVBEHAVIOR == CONVERSATION_DEFAULT and 0 or cid
     msg = msg:lower()
 
     if not npcHandler:isFocused(cid) and getDistanceBetween(getThingPos(cid), getNpcPos()) < 5 then
@@ -53,7 +39,7 @@ function onCreatureSay(cid, type, msg)
 
     if isInArray({"trade", "offer"}, msg) then
         local shopWindow = {}
-        for var, ret in pairs(trade_items) do
+        for var, ret in pairs(buyable_items[getCreatureName(getNpcId())]) do
             table.insert(shopWindow, {
                 id = var,
                 subType = 0,

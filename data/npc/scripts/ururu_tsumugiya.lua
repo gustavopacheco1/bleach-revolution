@@ -8,23 +8,15 @@ function onCreatureSay(cid, type, msg)npcHandler:onCreatureSay(cid, type, msg:lo
 function onThink() npcHandler:onThink() end
 function onThink() npcHandler:onThinkCreatureSay() end
 
-local talkState = {}
-
--- [id do item] = {price = preço}
-local trade_items = {
-    [2667] = {price = 2000}
-}
-
 function onCreatureSay(cid, type, msg)
-    local talkUser = NPCHANDLER_CONVBEHAVIOR == CONVERSATION_DEFAULT and 0 or cid
     msg = msg:lower()
 
     if not npcHandler:isFocused(cid) and getDistanceBetween(getThingPos(cid), getNpcPos()) < 5 then
         if isInArray({"hi", "hello", "oi", "olá"}, msg) then
             npcHandler:addFocus(cid)
             selfSayMultiLanguage(
-                "Hello! I sell some foods.",
-                "Olá! Eu vendo algumas comidas.",
+                "Hello! I sell some tools.",
+                "Olá! Eu vendo algumas ferramentas.",
                 cid
             )
             return true
@@ -53,7 +45,7 @@ function onCreatureSay(cid, type, msg)
         )
 
         local shopWindow = {}
-        for var, ret in pairs(trade_items) do
+        for var, ret in pairs(buyable_items[getCreatureName(getNpcId())]) do
             table.insert(shopWindow, {
                 id = var,
                 subType = 0,
