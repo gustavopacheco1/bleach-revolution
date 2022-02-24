@@ -49,6 +49,141 @@
 		<monster name="Fraccion" x="0" y="-1" z="4" spawntime="60" />
 		<monster name="Fraccion" x="1" y="1" z="4" spawntime="60" />
 	</spawn>
+	<spawn centerx="2777" centery="3808" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2773" centery="3809" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2777" centery="3812" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2781" centery="3816" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2786" centery="3817" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2792" centery="3818" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2798" centery="3818" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2803" centery="3818" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2809" centery="3818" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2814" centery="3821" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2817" centery="3825" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2819" centery="3830" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2790" centery="3835" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2796" centery="3835" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2801" centery="3835" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2783" centery="3836" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2818" centery="3836" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2778" centery="3837" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2806" centery="3838" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2813" centery="3838" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2773" centery="3840" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2769" centery="3844" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2767" centery="3849" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2768" centery="3855" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2774" centery="3856" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2806" centery="3856" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2779" centery="3857" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2788" centery="3857" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2797" centery="3857" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2815" centery="3858" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2822" centery="3860" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2819" centery="3868" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2813" centery="3871" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2772" centery="3872" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2777" centery="3873" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2769" centery="3878" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2811" centery="3878" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2779" centery="3879" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2789" centery="3881" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2797" centery="3882" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2806" centery="3883" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2771" centery="3885" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2763" centery="3892" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2772" centery="3892" centerz="4" radius="1">
+		<monster name="Zaraki Legendary" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2767" centery="3898" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
 	<spawn centerx="3608" centery="4078" centerz="4" radius="1">
 		<npc name="quest _zangetsu" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
@@ -572,6 +707,171 @@
 	</spawn>
 	<spawn centerx="3579" centery="3725" centerz="5" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2774" centery="3807" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2775" centery="3811" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2779" centery="3815" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2785" centery="3815" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2794" centery="3815" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2801" centery="3816" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2807" centery="3818" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2811" centery="3821" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2814" centery="3825" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2780" centery="3830" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2787" centery="3830" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2812" centery="3831" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2793" centery="3832" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2775" centery="3834" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2797" centery="3835" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2803" centery="3836" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2769" centery="3837" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2766" centery="3843" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2771" centery="3846" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2817" centery="3847" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2822" centery="3847" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2777" centery="3848" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2810" centery="3849" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2827" centery="3849" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2783" centery="3850" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2806" centery="3852" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2829" centery="3853" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2785" centery="3856" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2804" centery="3856" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2827" centery="3859" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2803" centery="3861" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2823" centery="3861" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2781" centery="3862" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2774" centery="3863" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2768" centery="3865" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2821" centery="3865" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2825" centery="3867" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2803" centery="3868" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2765" centery="3871" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2805" centery="3873" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2765" centery="3877" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2811" centery="3877" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2815" centery="3880" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2762" centery="3882" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2791" centery="3883" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2798" centery="3883" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2784" centery="3884" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2812" centery="3885" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2805" centery="3886" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2780" centery="3888" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2761" centery="3889" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2778" centery="3893" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2763" centery="3895" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2773" centery="3896" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2767" centery="3899" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3477" centery="3961" centerz="5" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="5" spawntime="60" />
@@ -3198,6 +3498,148 @@
 	</spawn>
 	<spawn centerx="3582" centery="3724" centerz="6" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2780" centery="3806" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2774" centery="3807" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="-1" z="6" spawntime="797669376" />
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2786" centery="3809" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2770" centery="3811" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2791" centery="3812" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2796" centery="3814" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2801" centery="3815" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2808" centery="3815" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2771" centery="3818" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2815" centery="3818" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2776" centery="3824" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2818" centery="3824" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2778" centery="3831" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2818" centery="3831" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2778" centery="3837" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2818" centery="3839" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2772" centery="3842" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2823" centery="3845" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2766" centery="3846" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2827" centery="3848" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2766" centery="3853" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2829" centery="3853" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2801" centery="3855" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2794" centery="3859" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2829" centery="3859" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2764" centery="3860" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2806" centery="3863" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2825" centery="3863" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2786" centery="3864" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2822" centery="3866" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2762" centery="3867" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2787" centery="3870" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2808" centery="3870" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2792" centery="3873" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2763" centery="3874" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2810" centery="3876" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2795" centery="3879" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2763" centery="3882" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2812" centery="3882" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2790" centery="3885" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2826" centery="3885" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2817" centery="3886" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2779" centery="3887" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2764" centery="3889" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2775" centery="3894" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2762" centery="3897" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2769" centery="3900" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3476" centery="3960" centerz="6" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="6" spawntime="60" />
@@ -7645,6 +8087,12 @@
 	<spawn centerx="3561" centery="3882" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2831" centery="3883" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2835" centery="3883" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="4536" centery="3885" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -7656,6 +8104,12 @@
 	</spawn>
 	<spawn centerx="4663" centery="3886" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2837" centery="3887" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2833" centery="3888" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3657" centery="3888" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
