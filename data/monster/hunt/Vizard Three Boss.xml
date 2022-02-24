@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<monster name="Vizard Three Boss" nameDescription="Vizard Three Boss" race="blood" experience="150" speed="1100" manacost="0">
+<monster name="Vizard Three Boss" nameDescription="Vizard Three Boss" race="blood" experience="0" speed="1100" manacost="0">
 
 <health now="1000000" max="1000000"/>
 

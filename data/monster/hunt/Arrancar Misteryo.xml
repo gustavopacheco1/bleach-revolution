@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<monster name="Arrancar Misteryo" nameDescription="Arrancar Misteryo" race="blood" experience="100" speed="700" manacost="0">
+<monster name="Arrancar Misteryo" nameDescription="Arrancar Misteryo" race="blood" experience="0" speed="700" manacost="0">
 
 <health now="500000" max="500000"/>
 

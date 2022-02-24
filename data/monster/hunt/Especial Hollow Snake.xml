@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<monster name="Especial Hollow Snake" nameDescription="Especial Hollow Snake" race="blood" experience="2900" speed="900" manacost="0">
+<monster name="Especial Hollow Snake" nameDescription="Especial Hollow Snake" race="blood" experience="0" speed="900" manacost="0">
 
     <health now="1000000" max="1000000" />
 	

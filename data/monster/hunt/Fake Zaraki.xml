@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<monster name="Fake Zaraki" nameDescription="Fake Zaraki" race="blood" experience="2900" speed="900" manacost="0">
+<monster name="Fake Zaraki" nameDescription="Fake Zaraki" race="blood" experience="0" speed="900" manacost="0">
 
     <health now="100000" max="100000" />
 	

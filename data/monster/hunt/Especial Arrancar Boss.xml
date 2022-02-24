@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<monster name="Especial Arrancar Boss" nameDescription="Especial Arrancar Boss" race="blood" experience="100" speed="900" manacost="0">
+<monster name="Especial Arrancar Boss" nameDescription="Especial Arrancar Boss" race="blood" experience="0" speed="900" manacost="0">
 
 <health now="5000000" max="5000000"/>
 
