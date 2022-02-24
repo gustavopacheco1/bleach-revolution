@@ -3424,33 +3424,26 @@
 		<attribute key="weight" value="120" />
 		<attribute key="charges" value="2" />
 	</item>
-	<item id="16113" article="a" name="Low Reiatsu Potion Mana">
+	<item id="16111" article="a" name="great reiatsu potion">
 		<attribute key="weight" value="120" />
-		<attribute key="charges" value="3" />
 	</item>
-	<item id="16114" article="a" name="Low Reiatsu Potion Life">
+	<item id="16112" article="a" name="ultimate potion">
 		<attribute key="weight" value="120" />
-		<attribute key="charges" value="3" />
 	</item>
-	<item id="16111" article="a" name="Reiatsu Potion Mana">
+	<item id="16113" article="a" name="reiatsu potion">
 		<attribute key="weight" value="120" />
-		<attribute key="charges" value="3" />
 	</item>
-	<item id="16118" article="a" name="Reiatsu Potion Life">
+	<item id="16114" article="a" name="health potion">
 		<attribute key="weight" value="120" />
-		<attribute key="charges" value="3" />
 	</item>
-	<item id="16112" article="a" name="Great Reiatsu Potion">
+	<item id="16116" article="an" name="reiatsu pill">
 		<attribute key="weight" value="120" />
-		<attribute key="charges" value="3" />
 	</item>
-	<item id="16116" article="an" name="Health Potion Mana">
+	<item id="16117" article="an" name="health pill">
 		<attribute key="weight" value="120" />
-		<attribute key="charges" value="1" />
 	</item>
-	<item id="16117" article="an" name="Health Potion Life">
+	<item id="16118" article="a" name="great health potion">
 		<attribute key="weight" value="120" />
-		<attribute key="charges" value="1" />
 	</item>
 	<item id="2274" article="a" name="Red Skull">
 		<attribute key="weight" value="120" />
@@ -16612,7 +16605,7 @@
 		<attribute key="containerSize" value="8" />
 		<attribute key="slotType" value="backpack" />
 	</item>
-	<item id="7588" article="a" name="strong health potion">
+	<!-- <item id="7588" article="a" name="strong health potion">
 		<attribute key="weight" value="200" />
 		<attribute key="description" value="This potion can only be consumed by paladins and knights of level 50 or higher." />
 	</item>
@@ -16627,7 +16620,7 @@
 	<item id="7591" article="a" name="great health potion">
 		<attribute key="weight" value="220" />
 		<attribute key="description" value="This potion can only be consumed by knights of level 80 or higher." />
-	</item>
+	</item> -->
 	<item id="7592" article="a" name="tent" />
 	<item id="7593" article="a" name="tent" />
 	<item id="7594" article="a" name="tent" />
@@ -16654,13 +16647,13 @@
 	<item id="7615" article="a" name="tent" />
 	<item id="7616" article="a" name="tent" />
 	<item id="7617" article="a" name="tent" />
-	<item id="7618" article="a" name="health potion">
+	<!-- <item id="7618" article="a" name="health potion">
 		<attribute key="weight" value="180" />
-	</item>
+	</item> -->
 	<item id="7619" article="a" name="tent" />
-	<item id="7620" article="a" name="mana potion">
+	<!-- <item id="7620" article="a" name="mana potion">
 		<attribute key="weight" value="180" />
-	</item>
+	</item> -->
 	<item id="7621" article="a" name="dead dragon hatchling">
 		<attribute key="containerSize" value="10" />
 		<attribute key="decayTo" value="7623" />
@@ -18900,10 +18893,10 @@
 		<attribute key="weight" value="220" />
 		<attribute key="description" value="This potion can only be consumed by paladins of level 80 or higher." />
 	</item>
-	<item id="8473" article="an" name="ultimate health potion">
+	<!-- <item id="8473" article="an" name="ultimate health potion">
 		<attribute key="weight" value="220" />
 		<attribute key="description" value="This potion can only be consumed by knights of level 130 or higher." />
-	</item>
+	</item> -->
 	<item id="8474" article="an" name="antidote potion">
 		<attribute key="weight" value="175" />
 	</item>
@@ -19247,9 +19240,9 @@
 		<attribute key="weight" value="1300" />
 	</item>
 	<item id="8703" article="a" name="coffin" />
-	<item id="8704" article="a" name="small health potion">
+	<!-- <item id="8704" article="a" name="small health potion">
 		<attribute key="weight" value="175" />
-	</item>
+	</item> -->
 	<item id="8707" article="your" name="student book">
 		<attribute key="description" value="Write down important notes in here." />
 		<attribute key="weight" value="900" />
