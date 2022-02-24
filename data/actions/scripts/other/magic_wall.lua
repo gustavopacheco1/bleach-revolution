@@ -1,4 +1,6 @@
+local wall_id = 10927
 local wall_time_in_seconds = 15
+local distance_shoot_missile_id = 20
 
 function onUse(cid, item, fromPosition, itemEx, toPosition)
     if not (isPathable(cid, toPosition, false)) then
@@ -9,11 +11,13 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
         return false
     end
 
-    doCreateItem(10011, toPosition)
+    doCreateItem(wall_id, toPosition)
+    doSendDistanceShoot(fromPosition, toPosition, distance_shoot_missile_id)
+    doRemoveItem(item.uid, 1)
     addEvent(
         function()
-            if getTileItemById(toPosition, 10011).uid > 0 then
-                doRemoveItem(getTileItemById(toPosition, 10011).uid)
+            if getTileItemById(toPosition, wall_id).uid > 0 then
+                doRemoveItem(getTileItemById(toPosition, wall_id).uid)
             end
         end,
         wall_time_in_seconds * 1000
@@ -23,7 +27,7 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
     for i = 1, wall_time_in_seconds do
         addEvent(
             function()
-                if wall_time_in_seconds - i ~= 0 and getTileItemById(toPosition, 10011).uid > 0 then
+                if wall_time_in_seconds - i ~= 0 and getTileItemById(toPosition, wall_id).uid > 0 then
                     doSendAnimatedText(toPosition, wall_time_in_seconds - i, COLOR_YELLOW)
                 end
             end,
