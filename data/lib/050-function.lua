@@ -562,19 +562,21 @@ function randomChance(percent)
     return percent >= math.random(1, 100)
 end
 
-function isWalkable(pos)
-    if tile and getTileThingByPos(tile) then
-        if getTileThingByPos({x = pos.x, y = pos.y, z = pos.z, stackpos = 0}).itemid == 0 then
-            return false
-        elseif isCreature(getTopCreature(pos).uid) then
-            return false
-        elseif getTileInfo(pos).protection then
-            return false
-        elseif hasProperty(getThingFromPos(pos).uid, 3) or hasProperty(getThingFromPos(pos).uid, 7) then
-            return false
+function isPathable(cid, pos, ignoreCreatures)
+    pos.stackpos = 0
+    if getTileThingByPos(pos).uid ~= 0 then
+        pos.stackpos = 253
+        if ignoreCreatures == true then
+            if doTileQueryAdd(cid, pos, 4) == RETURNVALUE_NOERROR then
+                return true
+            end
+        else
+            if getTopCreature(pos).uid == 0 and doTileQueryAdd(cid, pos) == RETURNVALUE_NOERROR then
+                return true
+            end
         end
     end
-    return true
+    return false
 end
 
 function format_seconds(seconds)
