@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<monster name="Hollow Snake" nameDescription="Hollow Snake" race="blood" experience="2900" speed="700" manacost="0">
+<monster name="Especial Hollow Snake" nameDescription="Especial Hollow Snake" race="blood" experience="2900" speed="900" manacost="0">
 
-    <health now="900000" max="900000" />
+    <health now="1000000" max="1000000" />
 	
-    <look type="32" head="0" body="94" legs="79" feet="79" corpse="5527" />
+    <look type="17" head="0" body="94" legs="79" feet="79" corpse="5527" />
 	
     <targetchange interval="5000" chance="50" />
 	
@@ -27,7 +27,7 @@
 	
     <attacks>
 	
-        <attack name="melee" interval="2000" min="-90000" max="-95100" />
+        <attack name="melee" interval="1500" min="-99000" max="-100100" />
     </attacks>
 	
     <defenses armor="40" defense="40" />
