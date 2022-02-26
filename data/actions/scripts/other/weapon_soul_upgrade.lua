@@ -61,7 +61,7 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
         if weapon_soul_amount < weapon.max_souls then
             return MultiLanguage.doPlayerSendCancel(
                 cid,
-                "This weapon needs to reach " .. weapon.max_souls .. " souls for being upgraded.",
+                "This weapon needs to reach " .. weapon.max_souls .. " souls to be upgraded.",
                 "Esta arma precisa atingir " .. weapon.max_souls .. " souls para ser melhorada."
             )
         end
