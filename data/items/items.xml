@@ -21763,6 +21763,9 @@
 	<item fromid="10562" toid="10569" name="garganta">
 		<attribute key="type" value="teleport" />
 	</item>
+	<item id="10624" name="great soul stone">
+		<attribute key="weight" value="20" />
+	</item>
 	<item id="20001" name="water" />
 	<item id="20002" name="blood" />
 	<item id="20003" name="beer" />
@@ -22509,7 +22512,6 @@
 		<attribute key="attack" value="40" />
 		<attribute key="weaponType" value="axe" />
 	</item>
-	
 	<item id="15721" article="an" name="Founder Distance">
 		<attribute key="weight" value="200" />
 		<attribute key="attack" value="40" />
@@ -22525,36 +22527,33 @@
 		<attribute key="attack" value="10" />
 		<attribute key="weaponType" value="sword" />
 	</item>
-
-	
 	<item id="15122" name="Bankai Zangetsu">
 		<attribute key="weight" value="2500" />
 		<attribute key="defense" value="45" />
 		<attribute key="attack" value="50" />
 		<attribute key="weaponType" value="sword" />
+		<attribute key="description" value="Soul: 0" />
 	</item>
-	
 	<item id="15411" name="Legendary Bankai Zangetsu">
 		<attribute key="weight" value="2500" />
 		<attribute key="defense" value="55" />
 		<attribute key="attack" value="60" />
 		<attribute key="weaponType" value="sword" />
+		<attribute key="description" value="Soul: 0" />
 	</item>
-	
-	<item id="15412" name="Especial Bankai Zangetsu">
+	<item id="15412" name="Ultimate Bankai Zangetsu">
 		<attribute key="weight" value="2500" />
 		<attribute key="defense" value="65" />
 		<attribute key="attack" value="70" />
 		<attribute key="weaponType" value="sword" />
 	</item>
-	
 	<item id="15820" name="Zangetsu">
 		<attribute key="weight" value="2500" />
 		<attribute key="defense" value="40" />
 		<attribute key="attack" value="45" />
 		<attribute key="weaponType" value="sword" />
+		<attribute key="description" value="Soul: 0" />
 	</item>
-	
 	
 	<!-- Gloves -->
 	<item id="15819" name="Brazo El Diablo">
@@ -22562,37 +22561,35 @@
 		<attribute key="defense" value="45" />
 		<attribute key="attack" value="50" />
 		<attribute key="weaponType" value="axe" />
+		<attribute key="description" value="Soul: 0" />
 	</item>
-	
 	<item id="15431" name="Legendary Brazo El Diablo">
 		<attribute key="weight" value="2500" />
 		<attribute key="defense" value="55" />
 		<attribute key="attack" value="60" />
 		<attribute key="weaponType" value="axe" />
+		<attribute key="description" value="Soul: 0" />
 	</item>
-	
-	<item id="15432" name="Especial Brazo El Diablo">
+	<item id="15432" name="Ultimate Brazo El Diablo">
 		<attribute key="weight" value="2500" />
 		<attribute key="defense" value="65" />
 		<attribute key="attack" value="70" />
 		<attribute key="weaponType" value="axe" />
 	</item>
-	
 	<item id="15808" name="Shinigami Glove">
 		<attribute key="weight" value="2500" />
 		<attribute key="defense" value="8" />
 		<attribute key="attack" value="10" />
 		<attribute key="weaponType" value="axe" />
 	</item>
-
-	
 	<item id="15730" name="El Diablo Glove">
 		<attribute key="weight" value="2500" />
 		<attribute key="defense" value="25" />
 		<attribute key="attack" value="60" />
 		<attribute key="weaponType" value="axe" />
+		<attribute key="description" value="Soul: 0" />
 	</item>
-	
+
 	<!-- Distance -->
 	<item id="15823" article="an" name="Lanza Del Relampago">
 		<attribute key="weight" value="200" />
@@ -22600,24 +22597,23 @@
 		<attribute key="weaponType" value="distance" />
 		<attribute key="range" value="10" />
 		<attribute key="hitChance" value="100" />
+		<attribute key="description" value="Soul: 0" />
 	</item>
-	
 	<item id="15423" article="an" name="Legendary Lanza Del Relampago">
 		<attribute key="weight" value="200" />
 		<attribute key="attack" value="60" />
 		<attribute key="weaponType" value="distance" />
 		<attribute key="range" value="10" />
 		<attribute key="hitChance" value="100" />
+		<attribute key="description" value="Soul: 0" />
 	</item>
-	
-	<item id="15424" article="an" name="Especial Lanza Del Relampago">
+	<item id="15424" article="an" name="Ultimate Lanza Del Relampago">
 		<attribute key="weight" value="200" />
 		<attribute key="attack" value="70" />
 		<attribute key="weaponType" value="distance" />
 		<attribute key="range" value="10" />
 		<attribute key="hitChance" value="100" />
 	</item>
-	
 	<item id="15090" article="an" name="Inicial Bow">
 		<attribute key="weight" value="200" />
 		<attribute key="attack" value="10" />
@@ -22625,13 +22621,12 @@
 		<attribute key="range" value="10" />
 		<attribute key="hitChance" value="100" />
 	</item>
-	
 	<item id="15091" article="an" name="Quincy Bow">
 		<attribute key="weight" value="200" />
 		<attribute key="attack" value="25" />
 		<attribute key="weaponType" value="distance" />
 		<attribute key="range" value="10" />
 		<attribute key="hitChance" value="100" />
+		<attribute key="description" value="Soul: 0" />
 	</item>
-	
 </items>
