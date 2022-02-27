@@ -963,6 +963,325 @@
 	<spawn centerx="3589" centery="4099" centerz="5" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="4620" centery="2470" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Vizard" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4625" centery="2476" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4624" centery="2483" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4620" centery="2488" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4614" centery="2494" centerz="6" radius="1">
+		<monster name="Vizard" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4608" centery="2498" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4630" centery="2504" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4607" centery="2506" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4624" centery="2506" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4615" centery="2508" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4622" centery="2513" centerz="6" radius="1">
+		<monster name="Vizard" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4627" centery="2518" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4621" centery="2522" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4611" centery="2524" centerz="6" radius="1">
+		<monster name="Vizard" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4627" centery="2526" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4605" centery="2528" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4603" centery="2534" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4607" centery="2540" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4612" centery="2542" centerz="6" radius="1">
+		<monster name="Vizard" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4619" centery="2543" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4762" centery="2544" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4625" centery="2545" centerz="6" radius="1">
+		<monster name="Vizard" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4728" centery="2546" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4771" centery="2547" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4631" centery="2549" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4737" centery="2549" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4746" centery="2549" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4752" centery="2549" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4779" centery="2549" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4724" centery="2550" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4757" centery="2551" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4786" centery="2552" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4715" centery="2553" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4617" centery="2554" centerz="6" radius="1">
+		<monster name="Vizard" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4625" centery="2554" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4794" centery="2555" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Vizard" x="1" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4711" centery="2556" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4612" centery="2559" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4705" centery="2560" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4695" centery="2561" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4800" centery="2561" centerz="6" radius="1">
+		<monster name="Vizard" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Vizard" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4612" centery="2566" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4688" centery="2566" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4804" centery="2569" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="-1" y="0" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4614" centery="2571" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4682" centery="2572" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4619" centery="2574" centerz="6" radius="1">
+		<monster name="Vizard" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4801" centery="2575" centerz="6" radius="1">
+		<monster name="Vizard" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4622" centery="2578" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4677" centery="2578" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4797" centery="2580" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4627" centery="2582" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4792" centery="2584" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4622" centery="2586" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4635" centery="2586" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4672" centery="2586" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4653" centery="2588" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Vizard" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4657" centery="2589" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4663" centery="2589" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4795" centery="2590" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4642" centery="2591" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4650" centery="2591" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4794" centery="2595" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4654" centery="2598" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4759" centery="2599" centerz="6" radius="1">
+		<monster name="Vizard" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4660" centery="2603" centerz="6" radius="1">
+		<monster name="Vizard" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4670" centery="2603" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4685" centery="2603" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4758" centery="2603" centerz="6" radius="1">
+		<monster name="Vizard" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4678" centery="2604" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4695" centery="2604" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4702" centery="2605" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4764" centery="2607" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4711" centery="2608" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Vizard" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4623" centery="2609" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4768" centery="2610" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4718" centery="2613" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4724" centery="2616" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4762" centery="2616" centerz="6" radius="1">
+		<monster name="Vizard" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4623" centery="2617" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4755" centery="2619" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4732" centery="2620" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4742" centery="2624" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Vizard" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4623" centery="2625" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4749" centery="2625" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4754" centery="2629" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4623" centery="2632" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4623" centery="2639" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4623" centery="2645" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4623" centery="2651" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4623" centery="2656" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4623" centery="2662" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4623" centery="2667" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3928" centery="2938" centerz="6" radius="1">
 		<monster name="Prisoner" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -1173,14 +1492,30 @@
 	<spawn centerx="3543" centery="3018" centerz="6" radius="1">
 		<monster name="Grown Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="4278" centery="3018" centerz="6" radius="1">
+		<monster name="Vizard" x="-1" y="0" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4284" centery="3018" centerz="6" radius="1">
+		<monster name="Vizard" x="-1" y="0" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3422" centery="3019" centerz="6" radius="1">
 		<monster name="Adjuchas" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3437" centery="3019" centerz="6" radius="1">
 		<monster name="Adjuchas" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="4289" centery="3019" centerz="6" radius="1">
+		<monster name="Vizard" x="-1" y="0" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3486" centery="3021" centerz="6" radius="1">
 		<monster name="Adjuchas" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4293" centery="3021" centerz="6" radius="1">
+		<monster name="Vizard" x="-1" y="0" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3456" centery="3022" centerz="6" radius="1">
 		<monster name="Adjuchas" x="0" y="0" z="6" spawntime="60" />
@@ -1193,6 +1528,10 @@
 	</spawn>
 	<spawn centerx="4035" centery="3022" centerz="6" radius="1">
 		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4273" centery="3022" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3473" centery="3023" centerz="6" radius="1">
 		<monster name="Adjuchas" x="0" y="0" z="6" spawntime="60" />
@@ -1226,6 +1565,14 @@
 	</spawn>
 	<spawn centerx="3884" centery="3025" centerz="6" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4271" centery="3027" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4297" centery="3027" centerz="6" radius="1">
+		<monster name="Vizard" x="-1" y="0" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3575" centery="3030" centerz="6" radius="1">
 		<monster name="Grown Hollow" x="0" y="0" z="6" spawntime="60" />
@@ -1267,17 +1614,37 @@
 	<spawn centerx="3821" centery="3031" centerz="6" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="4297" centery="3031" centerz="6" radius="1">
+		<monster name="Vizard" x="-1" y="0" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3473" centery="3032" centerz="6" radius="1">
 		<monster name="Adjuchas" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="4267" centery="3032" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="4011" centery="3034" centerz="6" radius="1">
 		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4253" centery="3034" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Vizard" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4260" centery="3034" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3572" centery="3036" centerz="6" radius="1">
 		<monster name="Grown Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4039" centery="3037" centerz="6" radius="1">
 		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4296" centery="3037" centerz="6" radius="1">
+		<monster name="Vizard" x="-1" y="0" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3544" centery="3038" centerz="6" radius="1">
 		<monster name="Grown Hollow" x="0" y="0" z="6" spawntime="60" />
@@ -1291,11 +1658,19 @@
 	<spawn centerx="4023" centery="3041" centerz="6" radius="1">
 		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="4293" centery="3042" centerz="6" radius="1">
+		<monster name="Vizard" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3814" centery="3043" centerz="6" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3546" centery="3044" centerz="6" radius="1">
 		<monster name="Grown Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4289" centery="3045" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3552" centery="3046" centerz="6" radius="1">
 		<monster name="Grown Hollow" x="0" y="0" z="6" spawntime="60" />
@@ -1303,8 +1678,16 @@
 	<spawn centerx="3566" centery="3046" centerz="6" radius="1">
 		<monster name="Grown Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="4280" centery="3046" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3559" centery="3047" centerz="6" radius="1">
 		<monster name="Grown Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4284" centery="3047" centerz="6" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4009" centery="3048" centerz="6" radius="1">
 		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
@@ -3716,14 +4099,222 @@
 	<spawn centerx="3590" centery="4098" centerz="6" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="4622" centery="2591" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4622" centery="2595" centerz="7" radius="1">
+		<monster name="Vizard" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4622" centery="2599" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4622" centery="2603" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4621" centery="2671" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4618" centery="2675" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4622" centery="2675" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4625" centery="2678" centerz="7" radius="1">
+		<monster name="Vizard" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4619" centery="2679" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4623" centery="2682" centerz="7" radius="1">
+		<monster name="Vizard" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4497" centery="2759" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4493" centery="2764" centerz="7" radius="1">
+		<monster name="Vizard" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4498" centery="2764" centerz="7" radius="1">
+		<monster name="Vizard" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4489" centery="2771" centerz="7" radius="1">
+		<monster name="Vizard" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4493" centery="2776" centerz="7" radius="1">
+		<monster name="Vizard" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4490" centery="2782" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4490" centery="2788" centerz="7" radius="1">
+		<monster name="Vizard" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4494" centery="2793" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4498" centery="2796" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4502" centery="2799" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4505" centery="2804" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4506" centery="2809" centerz="7" radius="1">
+		<monster name="Vizard" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4505" centery="2813" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4506" centery="2819" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4504" centery="2826" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4505" centery="2834" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4504" centery="2839" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4501" centery="2843" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4497" centery="2848" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4489" centery="2852" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4481" centery="2855" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4474" centery="2857" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4468" centery="2863" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4468" centery="2870" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4473" centery="2877" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4478" centery="2880" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4482" centery="2884" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4478" centery="2890" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4484" centery="2896" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4488" centery="2901" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4491" centery="2907" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4490" centery="2915" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4487" centery="2923" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4490" centery="2930" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4489" centery="2938" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4493" centery="2946" centerz="7" radius="1">
+		<monster name="Vizard" x="-1" y="0" z="7" spawntime="372436224" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4493" centery="2952" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4489" centery="2958" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4486" centery="2964" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3803" centery="2965" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3796" centery="2966" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4484" centery="2969" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4481" centery="2974" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3800" centery="2975" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4478" centery="2978" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3812" centery="2980" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
@@ -3751,6 +4342,10 @@
 	</spawn>
 	<spawn centerx="3798" centery="2985" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4476" centery="2985" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3842" centery="2987" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
@@ -3785,6 +4380,10 @@
 	<spawn centerx="3812" centery="2991" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4476" centery="2991" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3801" centery="2992" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -3809,6 +4408,10 @@
 	<spawn centerx="3939" centery="2997" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4478" centery="2997" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3918" centery="2998" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -3818,8 +4421,24 @@
 	<spawn centerx="3858" centery="2999" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4480" centery="3001" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3945" centery="3002" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4492" centery="3002" centerz="7" radius="1">
+		<monster name="Vizard" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4518" centery="3002" centerz="7" radius="1">
+		<monster name="Vizard" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4525" centery="3002" centerz="7" radius="1">
+		<monster name="Vizard" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3795" centery="3003" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
@@ -3829,6 +4448,26 @@
 	</spawn>
 	<spawn centerx="3896" centery="3003" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4488" centery="3003" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4502" centery="3003" centerz="7" radius="1">
+		<monster name="Vizard" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4510" centery="3003" centerz="7" radius="1">
+		<monster name="Vizard" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4533" centery="3003" centerz="7" radius="1">
+		<monster name="Vizard" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4541" centery="3003" centerz="7" radius="1">
+		<monster name="Vizard" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3882" centery="3004" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
@@ -3847,6 +4486,10 @@
 	</spawn>
 	<spawn centerx="3568" centery="3007" centerz="7" radius="1">
 		<monster name="Grown Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4549" centery="3007" centerz="7" radius="1">
+		<monster name="Vizard" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3586" centery="3008" centerz="7" radius="1">
 		<monster name="Grown Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -3877,6 +4520,10 @@
 	</spawn>
 	<spawn centerx="3978" centery="3010" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4555" centery="3010" centerz="7" radius="1">
+		<monster name="Vizard" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3820" centery="3011" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
@@ -3941,6 +4588,10 @@
 	<spawn centerx="3908" centery="3015" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4560" centery="3015" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3441" centery="3017" centerz="7" radius="1">
 		<monster name="Adjuchas" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -3971,6 +4622,10 @@
 	<spawn centerx="3853" centery="3019" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4567" centery="3019" centerz="7" radius="1">
+		<monster name="Vizard" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3448" centery="3020" centerz="7" radius="1">
 		<monster name="Adjuchas" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -4000,6 +4655,10 @@
 	</spawn>
 	<spawn centerx="3929" centery="3023" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4572" centery="3023" centerz="7" radius="1">
+		<monster name="Vizard" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3440" centery="3024" centerz="7" radius="1">
 		<monster name="Adjuchas" x="0" y="0" z="7" spawntime="60" />
@@ -4049,6 +4708,14 @@
 	<spawn centerx="3596" centery="3027" centerz="7" radius="1">
 		<monster name="Grown Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4378" centery="3027" centerz="7" radius="1">
+		<monster name="Vizard" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4578" centery="3027" centerz="7" radius="1">
+		<monster name="Vizard" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3563" centery="3028" centerz="7" radius="1">
 		<monster name="Grown Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -4060,6 +4727,10 @@
 	</spawn>
 	<spawn centerx="3975" centery="3029" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4371" centery="3030" centerz="7" radius="1">
+		<monster name="Vizard" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3446" centery="3031" centerz="7" radius="1">
 		<monster name="Adjuchas" x="0" y="0" z="7" spawntime="60" />
@@ -4082,20 +4753,62 @@
 	<spawn centerx="3950" centery="3031" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4362" centery="3031" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4366" centery="3031" centerz="7" radius="1">
+		<monster name="Vizard" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4386" centery="3031" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3474" centery="3032" centerz="7" radius="1">
 		<monster name="Adjuchas" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3507" centery="3032" centerz="7" radius="1">
 		<monster name="Adjuchas" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4393" centery="3032" centerz="7" radius="1">
+		<monster name="Vizard" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3965" centery="3033" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4235" centery="3033" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Vizard" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4239" centery="3033" centerz="7" radius="1">
+		<monster name="Vizard" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4243" centery="3033" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="1" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4377" centery="3033" centerz="7" radius="1">
+		<monster name="Vizard" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3810" centery="3034" centerz="7" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3836" centery="3034" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4400" centery="3034" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4583" centery="3034" centerz="7" radius="1">
+		<monster name="Vizard" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3595" centery="3035" centerz="7" radius="1">
 		<monster name="Grown Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -4136,6 +4849,10 @@
 	<spawn centerx="3985" centery="3038" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4408" centery="3038" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3381" centery="3039" centerz="7" radius="1">
 		<monster name="Arrancar hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -4153,6 +4870,10 @@
 	</spawn>
 	<spawn centerx="3952" centery="3041" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4586" centery="3041" centerz="7" radius="1">
+		<monster name="Vizard" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3571" centery="3042" centerz="7" radius="1">
 		<monster name="Grown Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -4184,8 +4905,16 @@
 	<spawn centerx="3923" centery="3045" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4411" centery="3045" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3852" centery="3046" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4588" centery="3046" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3397" centery="3047" centerz="7" radius="1">
 		<monster name="Arrancar hollow" x="0" y="0" z="7" spawntime="60" />
@@ -4229,6 +4958,10 @@
 	<spawn centerx="3818" centery="3052" centerz="7" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4415" centery="3052" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3806" centery="3053" centerz="7" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -4240,6 +4973,10 @@
 	</spawn>
 	<spawn centerx="3968" centery="3054" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4588" centery="3054" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3864" centery="3055" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
@@ -4274,6 +5011,15 @@
 	<spawn centerx="3971" centery="3059" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4421" centery="3059" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="1" z="7" spawntime="372436224" />
+	</spawn>
+	<spawn centerx="4582" centery="3059" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Vizard" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3303" centery="3060" centerz="7" radius="1">
 		<monster name="Arrancar hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -4286,11 +5032,23 @@
 	<spawn centerx="3984" centery="3063" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4429" centery="3063" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3342" centery="3064" centerz="7" radius="1">
 		<monster name="Arrancar hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3966" centery="3064" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4439" centery="3064" centerz="7" radius="1">
+		<monster name="Vizard" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4575" centery="3064" centerz="7" radius="1">
+		<monster name="Vizard" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3292" centery="3065" centerz="7" radius="1">
 		<monster name="Arrancar hollow" x="0" y="0" z="7" spawntime="60" />
@@ -4310,11 +5068,31 @@
 	<spawn centerx="3869" centery="3066" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4567" centery="3066" centerz="7" radius="1">
+		<monster name="Vizard" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4547" centery="3067" centerz="7" radius="1">
+		<monster name="Vizard" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3832" centery="3068" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3949" centery="3068" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4449" centery="3068" centerz="7" radius="1">
+		<monster name="Vizard" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4531" centery="3068" centerz="7" radius="1">
+		<monster name="Vizard" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4538" centery="3068" centerz="7" radius="1">
+		<monster name="Vizard" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3877" centery="3069" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
@@ -4328,8 +5106,28 @@
 	<spawn centerx="3969" centery="3069" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4456" centery="3069" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4491" centery="3069" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4558" centery="3069" centerz="7" radius="1">
+		<monster name="Vizard" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3842" centery="3070" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4464" centery="3070" centerz="7" radius="1">
+		<monster name="Vizard" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4524" centery="3070" centerz="7" radius="1">
+		<monster name="Vizard" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3324" centery="3071" centerz="7" radius="1">
 		<monster name="Arrancar hollow" x="0" y="0" z="7" spawntime="60" />
@@ -4340,6 +5138,14 @@
 	<spawn centerx="3863" centery="3071" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4472" centery="3071" centerz="7" radius="1">
+		<monster name="Vizard" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4482" centery="3071" centerz="7" radius="1">
+		<monster name="Vizard" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3825" centery="3072" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -4349,11 +5155,23 @@
 	<spawn centerx="3957" centery="3072" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="4499" centery="3072" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4508" centery="3072" centerz="7" radius="1">
+		<monster name="Vizard" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3932" centery="3073" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3982" centery="3073" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="4517" centery="3073" centerz="7" radius="1">
+		<monster name="Vizard" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Vizard" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2928" centery="3074" centerz="7" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
