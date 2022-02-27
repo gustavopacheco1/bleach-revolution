@@ -13,7 +13,18 @@ local talkState = {}
 -- Itens para entregar ao npc
 -- {Id, Quantidade, Level}
 local craft_items = {
-    {id = 2671, amount = 6}
+    {id = 16107, amount = 6},
+	{id = 16108, amount = 6},
+	{id = 16109, amount = 6},
+	{id = 16110, amount = 6},
+	{id = 16093, amount = 6},
+	{id = 16094, amount = 6},
+	{id = 16095, amount = 6},
+	{id = 16096, amount = 6},
+	{id = 16088, amount = 6},
+	{id = 16087, amount = 6},
+	{id = 16086, amount = 6},
+	{id = 16085, amount = 6}
 }
 
 -- Id do item que o player receberá
