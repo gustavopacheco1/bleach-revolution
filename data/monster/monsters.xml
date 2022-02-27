@@ -70,6 +70,7 @@
 	<monster name="Zaraki Legendary" file="hunt/Zaraki Legendary.xml"/>
     <monster name="Vizard" file="hunt/Vizard.xml"/>
 	<monster name="Vizard One" file="hunt/Vizard One.xml"/>
+	<monster name="Vizard Two" file="hunt/Vizard Two.xml"/>
 	<!-- Clones -->
 	<monster name="Rukia Clone" file="clones/Rukia Clone.xml"/>
 </monsters>
