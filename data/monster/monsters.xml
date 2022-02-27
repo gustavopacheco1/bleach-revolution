@@ -68,6 +68,7 @@
 	<monster name="Especial Hollow Snake" file="hunt/Especial Hollow Snake.xml"/>
 	<monster name="Fake Zaraki" file="hunt/Fake Zaraki.xml"/>
 	<monster name="Zaraki Legendary" file="hunt/Zaraki Legendary.xml"/>
+    <monster name="Vizard" file="hunt/Vizard.xml"/>
 	<!-- Clones -->
 	<monster name="Rukia Clone" file="clones/Rukia Clone.xml"/>
 </monsters>
