@@ -1036,6 +1036,9 @@
 	<spawn centerx="4762" centery="2544" centerz="6" radius="1">
 		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="5325" centery="2544" centerz="6" radius="1">
+		<monster name="Vizard Four" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="4625" centery="2545" centerz="6" radius="1">
 		<monster name="Vizard" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
@@ -1064,6 +1067,9 @@
 	<spawn centerx="4724" centery="2550" centerz="6" radius="1">
 		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="5180" centery="2550" centerz="6" radius="1">
+		<monster name="Vizard Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="4757" centery="2551" centerz="6" radius="1">
 		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -1080,12 +1086,18 @@
 	<spawn centerx="4625" centery="2554" centerz="6" radius="1">
 		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="5045" centery="2554" centerz="6" radius="1">
+		<monster name="Vizard Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="4794" centery="2555" centerz="6" radius="1">
 		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Vizard" x="1" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4711" centery="2556" centerz="6" radius="1">
 		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4908" centery="2558" centerz="6" radius="1">
+		<monster name="Vizard One" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4612" centery="2559" centerz="6" radius="1">
 		<monster name="Vizard" x="0" y="0" z="6" spawntime="60" />
