@@ -72,6 +72,7 @@
 	<monster name="Vizard One" file="hunt/Vizard One.xml"/>
 	<monster name="Vizard Two" file="hunt/Vizard Two.xml"/>
 	<monster name="Vizard Three" file="hunt/Vizard Three.xml"/>
+	<monster name="Vizard Four" file="hunt/Vizard Four.xml"/>
 	<!-- Clones -->
 	<monster name="Rukia Clone" file="clones/Rukia Clone.xml"/>
 </monsters>
