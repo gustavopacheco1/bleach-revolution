@@ -109,7 +109,7 @@
 	<instant name="Bankai" words="bankai" aggressive="0" prem="0" selftarget="1" lvl="450" mana="1000" exhaustion="1000" event="script" value="special/buffs/bankai.lua">
 		<vocation id="37-41" /> <!-- Zaraki Kenpachi -->
 	</instant>
-	<instant name="Getsuga Bankai" words="getsuga bankai" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/getsuga_bankai.lua">
+	<instant name="Vasto Lorde" words="Vasto Lorde" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/Vasto Lorde.lua">
 		<vocation id="1-6" /> <!-- Ichigo Kurosaki -->
 	</instant>
 	<instant name="Ransotengai" words="Ransotengai" aggressive="0" prem="0" selftarget="1" lvl="450" mana="1000" exhaustion="1000" event="script" value="special/buffs/ransotengai.lua">
