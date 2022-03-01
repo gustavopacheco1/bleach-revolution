@@ -7779,9 +7779,6 @@
 	<spawn centerx="4175" centery="3624" centerz="7" radius="1">
 		<monster name="Quincy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3149" centery="3625" centerz="7" radius="1">
-		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3177" centery="3625" centerz="7" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
