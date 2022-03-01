@@ -329,7 +329,6 @@ bool Monster::doTeleportToMaster()
 		master->getPosition(), true), true) != RET_NOERROR)
 		return false;
 
-	g_game.addMagicEffect(tmp, MAGIC_EFFECT_POFF);
 	g_game.addMagicEffect(getPosition(), MAGIC_EFFECT_TELEPORT);
 	return true;
 }
@@ -928,9 +927,6 @@ void Monster::pushItems(Tile* tile)
 				++removeCount;
 		}
 	}
-
-	if(removeCount > 0)
-		g_game.addMagicEffect(tile->getPosition(), MAGIC_EFFECT_POFF);
 }
 
 bool Monster::pushCreature(Creature* creature)
@@ -970,9 +966,6 @@ void Monster::pushCreatures(Tile* tile)
 			}
 			++i;
 		}
-
-		if(removeCount > 0)
-			g_game.addMagicEffect(tile->getPosition(), MAGIC_EFFECT_POFF);
 	}
 }
 

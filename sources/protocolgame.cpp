@@ -373,9 +373,6 @@ bool ProtocolGame::logout(bool displayEffect, bool forceLogout)
 		}
 		else if(!g_creatureEvents->playerLogout(player, true))
 			return false;
-
-		if(displayEffect && !player->isGhost())
-			g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 	}
 
 	player->client->clear(true);

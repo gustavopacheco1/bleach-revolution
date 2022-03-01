@@ -766,7 +766,6 @@ void Creature::dropCorpse(DeathList deathList)
 {
 	if(master)
 	{
-		g_game.addMagicEffect(getPosition(), MAGIC_EFFECT_POFF);
 		return;
 	}
 

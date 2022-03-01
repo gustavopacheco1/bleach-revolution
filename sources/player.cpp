@@ -1994,9 +1994,6 @@ void Player::onThink(uint32_t interval)
 			client->logout(true, true);
 		else if(g_creatureEvents->playerLogout(this, false))
 		{
-			if(!isGhost())
-				g_game.addMagicEffect(getPosition(), MAGIC_EFFECT_POFF);
-
 			g_game.removeCreature(this, true);
 		}
 	}

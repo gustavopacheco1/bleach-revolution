@@ -133,7 +133,6 @@ void BedItem::sleep(Player* player)
 	else if(Item::items[getID()].transformUseTo)
 	{
 		wakeUp();
-		g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 	}
 	else
 		player->sendCancelMessage(RET_NOTPOSSIBLE);

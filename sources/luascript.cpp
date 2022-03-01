@@ -6740,7 +6740,6 @@ int32_t LuaInterface::luaDoCombat(lua_State* L)
 			if(!combat->hasArea())
 			{
 				combat->postCombatEffects(creature, var.pos);
-				g_game.addMagicEffect(var.pos, MAGIC_EFFECT_POFF);
 			}
 			else
 				combat->doCombat(creature, var.pos);

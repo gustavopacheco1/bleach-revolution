@@ -665,7 +665,6 @@ bool Spell::checkSpell(Player* player) const
 		if(player->checkLoginDelay())
 		{
 			player->sendCancelMessage(RET_YOUMAYNOTATTACKIMMEDIATELYAFTERLOGGINGIN);
-			player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 			return false;
 		}
 	}
@@ -675,9 +674,6 @@ bool Spell::checkSpell(Player* player) const
 		if(player->hasCondition(CONDITION_EXHAUST, EXHAUST_SPELLGROUP_NONE) && exhaustedGroup == "none")
 		{
 			player->sendCancelMessage(RET_YOUAREEXHAUSTED);
-			if(isInstant())
-				player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
-
 			return false;
 		}
 		if(g_config.getBool(ConfigManager::NO_ATTACKHEALING_SIMULTANEUS))
@@ -686,9 +682,6 @@ bool Spell::checkSpell(Player* player) const
 				(player->hasCondition(CONDITION_EXHAUST, EXHAUST_SPELLGROUP_HEALING) && (exhaustedGroup == "attack" || exhaustedGroup == "attack")))
 			{
 				player->sendCancelMessage(RET_YOUAREEXHAUSTED);
-				if(isInstant())
-					player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
-
 				return false;
 			}
 		}
@@ -696,33 +689,21 @@ bool Spell::checkSpell(Player* player) const
 		if(player->hasCondition(CONDITION_EXHAUST, EXHAUST_SPELLGROUP_ATTACK) && (exhaustedGroup == "attack" || exhaustedGroup == "attacking" ))
 		{
 			player->sendCancelMessage(RET_YOUAREEXHAUSTED);
-			if(isInstant())
-				player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
-
 			return false;
 		}
 		if(player->hasCondition(CONDITION_EXHAUST, EXHAUST_SPELLGROUP_HEALING) && (exhaustedGroup == "heal" || exhaustedGroup == "healing"))
 		{
 			player->sendCancelMessage(RET_YOUAREEXHAUSTED);
-			if(isInstant())
-				player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
-
 			return false;
 		}
 		if(player->hasCondition(CONDITION_EXHAUST, EXHAUST_SPELLGROUP_SUPPORT) && (exhaustedGroup == "support" || exhaustedGroup == "supporting"))
 		{
 			player->sendCancelMessage(RET_YOUAREEXHAUSTED);
-			if(isInstant())
-				player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
-
 			return false;
 		}
 		if(player->hasCondition(CONDITION_EXHAUST, EXHAUST_SPELLGROUP_SPECIAL) && (exhaustedGroup == "special" || exhaustedGroup == "ultimate"))
 		{
 			player->sendCancelMessage(RET_YOUAREEXHAUSTED);
-			if(isInstant())
-				player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
-
 			return false;
 		}
 
@@ -731,7 +712,6 @@ bool Spell::checkSpell(Player* player) const
 	if(isPremium() && !player->isPremium())
 	{
 		player->sendCancelMessage(RET_YOUNEEDPREMIUMACCOUNT);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
@@ -740,14 +720,12 @@ bool Spell::checkSpell(Player* player) const
 		if((int32_t)player->getLevel() < level)
 		{
 			player->sendCancelMessage(RET_NOTENOUGHLEVEL);
-			player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 			return false;
 		}
 
 		if((int32_t)player->getMagicLevel() < magLevel)
 		{
 			player->sendCancelMessage(RET_NOTENOUGHMAGICLEVEL);
-			player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 			return false;
 		}
 	}
@@ -757,7 +735,6 @@ bool Spell::checkSpell(Player* player) const
 		if((int32_t)player->getSkill((skills_t)i, SKILL_LEVEL) < skills[i])
 		{
 			player->sendCancelMessage(RET_NOTENOUGHSKILL);
-			player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 			return false;
 		}
 	}
@@ -765,21 +742,18 @@ bool Spell::checkSpell(Player* player) const
 	if(player->getMana() < getManaCost(player) && !player->hasFlag(PlayerFlag_HasInfiniteMana))
 	{
 		player->sendCancelMessage(RET_NOTENOUGHMANA);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
 	if(player->getSoul() < soul && !player->hasFlag(PlayerFlag_HasInfiniteSoul))
 	{
 		player->sendCancelMessage(RET_NOTENOUGHSOUL);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
 	if(isInstant() && isLearnable() && !player->hasLearnedInstantSpell(getName()))
 	{
 		player->sendCancelMessage(RET_YOUNEEDTOLEARNTHISSPELL);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
@@ -788,7 +762,6 @@ bool Spell::checkSpell(Player* player) const
 		if(vocSpellMap.find(player->getVocationId()) == vocSpellMap.end())
 		{
 			player->sendCancelMessage(RET_YOURVOCATIONCANNOTUSETHISSPELL);
-			player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 			return false;
 		}
 	}
@@ -806,7 +779,6 @@ bool Spell::checkSpell(Player* player) const
 			default:
 			{
 				player->sendCancelMessage(RET_YOUNEEDAWEAPONTOUSETHISSPELL);
-				player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 				return false;
 			}
 		}
@@ -825,14 +797,12 @@ bool Spell::checkInstantSpell(Player* player, Creature* creature)
 	if(playerPos.z > toPos.z)
 	{
 		player->sendCancelMessage(RET_FIRSTGOUPSTAIRS);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
 	if(playerPos.z < toPos.z)
 	{
 		player->sendCancelMessage(RET_FIRSTGODOWNSTAIRS);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
@@ -847,21 +817,18 @@ bool Spell::checkInstantSpell(Player* player, Creature* creature)
 	if((ret = Combat::canDoCombat(player, tile, isAggressive, false)) != RET_NOERROR)
 	{
 		player->sendCancelMessage(ret);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
 	if(blockingCreature && creature)
 	{
 		player->sendCancelMessage(RET_NOTENOUGHROOM);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
 	if(blockingSolid && tile->hasProperty(BLOCKSOLID))
 	{
 		player->sendCancelMessage(RET_NOTENOUGHROOM);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
@@ -879,14 +846,12 @@ bool Spell::checkInstantSpell(Player* player, Creature* creature)
 		}
 
 		player->sendCancelMessage(RET_YOUMAYNOTCASTAREAONBLACKSKULL);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
 	if(!creature)
 	{
 		player->sendCancelMessage(RET_NOTPOSSIBLE);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
@@ -898,7 +863,6 @@ bool Spell::checkInstantSpell(Player* player, Creature* creature)
 	if(player->getSecureMode() == SECUREMODE_ON)
 	{
 		player->sendCancelMessage(RET_TURNSECUREMODETOATTACKUNMARKEDPLAYERS);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
@@ -907,7 +871,6 @@ bool Spell::checkInstantSpell(Player* player, Creature* creature)
 		if(player->getSkull() == SKULL_BLACK)
 		{
 			player->sendCancelMessage(RET_YOUMAYNOTATTACKTHISPLAYER);
-			player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 			return false;
 		}
 	}
@@ -927,14 +890,12 @@ bool Spell::checkInstantSpell(Player* player, const Position& toPos)
 	if(playerPos.z > toPos.z)
 	{
 		player->sendCancelMessage(RET_FIRSTGOUPSTAIRS);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
 	if(playerPos.z < toPos.z)
 	{
 		player->sendCancelMessage(RET_FIRSTGODOWNSTAIRS);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
@@ -949,21 +910,18 @@ bool Spell::checkInstantSpell(Player* player, const Position& toPos)
 	if((ret = Combat::canDoCombat(player, tile, isAggressive, false)) != RET_NOERROR)
 	{
 		player->sendCancelMessage(ret);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
 	if(blockingCreature && tile->getTopVisibleCreature(player))
 	{
 		player->sendCancelMessage(RET_NOTENOUGHROOM);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
 	if(blockingSolid && tile->hasProperty(BLOCKSOLID))
 	{
 		player->sendCancelMessage(RET_NOTENOUGHROOM);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
@@ -972,7 +930,6 @@ bool Spell::checkInstantSpell(Player* player, const Position& toPos)
 		if(player->getSkull() == SKULL_BLACK && isAggressive && range == -1) // CHECKME: -1 is (usually?) an area spell
 		{
 			player->sendCancelMessage(RET_YOUMAYNOTCASTAREAONBLACKSKULL);
-			player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 			return false;
 		}
 	}
@@ -992,14 +949,12 @@ bool Spell::checkRuneSpell(Player* player, const Position& toPos)
 	if(playerPos.z > toPos.z)
 	{
 		player->sendCancelMessage(RET_FIRSTGOUPSTAIRS);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
 	if(playerPos.z < toPos.z)
 	{
 		player->sendCancelMessage(RET_FIRSTGODOWNSTAIRS);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
@@ -1007,14 +962,12 @@ bool Spell::checkRuneSpell(Player* player, const Position& toPos)
 	if(!tile)
 	{
 		player->sendCancelMessage(RET_NOTPOSSIBLE);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
 	if(range != -1 && !g_game.canThrowObjectTo(playerPos, toPos, true, range, range))
 	{
 		player->sendCancelMessage(RET_DESTINATIONOUTOFREACH);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
@@ -1022,7 +975,6 @@ bool Spell::checkRuneSpell(Player* player, const Position& toPos)
 	if((ret = Combat::canDoCombat(player, tile, isAggressive, false)) != RET_NOERROR)
 	{
 		player->sendCancelMessage(ret);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
@@ -1030,21 +982,18 @@ bool Spell::checkRuneSpell(Player* player, const Position& toPos)
 	
 	if (needTarget && targetCreature == player && isAggressive) {
 		player->sendCancelMessage(RET_NOTPOSSIBLE);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 	
 	if(blockingCreature && targetCreature && isAggressive)
 	{
 		player->sendCancelMessage(RET_NOTENOUGHROOM);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
 	if(blockingSolid && tile->hasProperty(BLOCKSOLID))
 	{
 		player->sendCancelMessage(RET_NOTENOUGHROOM);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
@@ -1062,14 +1011,12 @@ bool Spell::checkRuneSpell(Player* player, const Position& toPos)
 		}
 
 		player->sendCancelMessage(RET_YOUMAYNOTCASTAREAONBLACKSKULL);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
 	if(!targetCreature)
 	{
 		player->sendCancelMessage(RET_CANONLYUSETHISRUNEONCREATURES);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
@@ -1081,7 +1028,6 @@ bool Spell::checkRuneSpell(Player* player, const Position& toPos)
 	if(player->getSecureMode() == SECUREMODE_ON)
 	{
 		player->sendCancelMessage(RET_TURNSECUREMODETOATTACKUNMARKEDPLAYERS);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
@@ -1092,7 +1038,6 @@ bool Spell::checkRuneSpell(Player* player, const Position& toPos)
 	}
 
 	player->sendCancelMessage(RET_YOUMAYNOTATTACKTHISPLAYER);
-	player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 	return false;
 }
 
@@ -1273,7 +1218,6 @@ bool InstantSpell::castInstant(Player* player, const std::string& param)
 			if((!target || target->getHealth() <= 0) && !casterTargetOrDirection)
 			{
 				player->sendCancelMessage(ret);
-				player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 				return false;
 			}
 		}
@@ -1287,7 +1231,6 @@ bool InstantSpell::castInstant(Player* player, const std::string& param)
 			if((!target || target->getHealth() <= 0) && !casterTargetOrDirection)
 			{
 				player->sendCancelMessage(RET_YOUCANONLYUSEITONCREATURES);
-				player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 				return false;
 			}
 		}
@@ -1298,7 +1241,6 @@ bool InstantSpell::castInstant(Player* player, const std::string& param)
 			if(!canSee || !canThrowSpell(player, target))
 			{
 				player->sendCancelMessage(canSee ? RET_CREATUREISNOTREACHABLE : RET_PLAYERWITHTHISNAMEISNOTONLINE);
-				player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 				return false;
 			}
 
@@ -1336,7 +1278,6 @@ bool InstantSpell::castInstant(Player* player, const std::string& param)
 	
 	if(!BaseSpell::castSpell(player)) {
         player->sendCancelMessage(RET_NOTPOSSIBLE);
-        player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
         return false;
     }
 
@@ -1477,14 +1418,12 @@ bool InstantSpell::SearchPlayer(const InstantSpell*, Creature* creature, const s
 	if(ret != RET_NOERROR || !targetPlayer || targetPlayer->isRemoved())
 	{
 		player->sendCancelMessage(ret);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
 	if(targetPlayer->hasCustomFlag(PlayerCustomFlag_NotSearchable) && !player->hasCustomFlag(PlayerCustomFlag_GamemasterPrivileges))
 	{
 		player->sendCancelMessage(RET_PLAYERWITHTHISNAMEISNOTONLINE);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
@@ -1506,7 +1445,6 @@ bool InstantSpell::SummonMonster(const InstantSpell* spell, Creature* creature, 
 	if(!mType)
 	{
 		player->sendCancelMessage(RET_NOTPOSSIBLE);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
@@ -1518,7 +1456,6 @@ bool InstantSpell::SummonMonster(const InstantSpell* spell, Creature* creature, 
 			if(player->getSkull() == SKULL_BLACK)
 			{
 				player->sendCancelMessage(RET_NOTPOSSIBLE);
-				player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 				return false;
 			}
 		}
@@ -1526,21 +1463,18 @@ bool InstantSpell::SummonMonster(const InstantSpell* spell, Creature* creature, 
 		if(!mType->isSummonable)
 		{
 			player->sendCancelMessage(RET_NOTPOSSIBLE);
-			player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 			return false;
 		}
 
 		if(player->getMana() < manaCost)
 		{
 			player->sendCancelMessage(RET_NOTENOUGHMANA);
-			player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 			return false;
 		}
 
 		if((int32_t)player->getSummonCount() >= g_config.getNumber(ConfigManager::MAX_PLAYER_SUMMONS))
 		{
 			player->sendCancel("You cannot summon more creatures.");
-			player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 			return false;
 		}
 	}
@@ -1554,7 +1488,6 @@ bool InstantSpell::SummonMonster(const InstantSpell* spell, Creature* creature, 
 	}
 
 	player->sendCancelMessage(ret);
-	player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 	return false;
 }
 
@@ -1611,7 +1544,6 @@ bool InstantSpell::Levitate(const InstantSpell*, Creature* creature, const std::
 	}
 
 	player->sendCancelMessage(ret);
-	g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF, player->isGhost());
 	return false;
 }
 
@@ -1629,7 +1561,6 @@ bool InstantSpell::Illusion(const InstantSpell*, Creature* creature, const std::
 	}
 
 	player->sendCancelMessage(ret);
-	player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 	return (ret == RET_NOERROR);
 }
 
@@ -1773,7 +1704,6 @@ bool ConjureSpell::ConjureItem(const ConjureSpell* spell, Creature* creature, co
 	if(!player->hasFlag(PlayerFlag_IgnoreSpellCheck) && player->getZone() == ZONE_HARDCORE)
 	{
 		player->sendCancelMessage(RET_CANNOTCONJUREITEMHERE);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
@@ -1795,7 +1725,6 @@ bool ConjureSpell::ConjureItem(const ConjureSpell* spell, Creature* creature, co
 	}
 
 	player->sendCancelMessage(result);
-	player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 	return false;
 }
 
@@ -1885,7 +1814,6 @@ bool RuneSpell::Illusion(const RuneSpell*, Creature* creature, Item*, const Posi
 	if(!thing)
 	{
 		player->sendCancelMessage(RET_NOTPOSSIBLE);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
@@ -1893,7 +1821,6 @@ bool RuneSpell::Illusion(const RuneSpell*, Creature* creature, Item*, const Posi
 	if(!illusionItem || !illusionItem->isMovable())
 	{
 		player->sendCancelMessage(RET_NOTPOSSIBLE);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
@@ -1905,7 +1832,6 @@ bool RuneSpell::Illusion(const RuneSpell*, Creature* creature, Item*, const Posi
 	}
 
 	player->sendCancelMessage(ret);
-	player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 	return false;
 }
 
@@ -1922,7 +1848,6 @@ bool RuneSpell::Convince(const RuneSpell* spell, Creature* creature, Item*, cons
 			if(player->getSkull() == SKULL_BLACK)
 			{
 				player->sendCancelMessage(RET_NOTPOSSIBLE);
-				player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 				return false;
 			}
 		}
@@ -1930,7 +1855,6 @@ bool RuneSpell::Convince(const RuneSpell* spell, Creature* creature, Item*, cons
 		if((int32_t)player->getSummonCount() >= g_config.getNumber(ConfigManager::MAX_PLAYER_SUMMONS))
 		{
 			player->sendCancelMessage(RET_NOTPOSSIBLE);
-			player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 			return false;
 		}
 	}
@@ -1939,7 +1863,6 @@ bool RuneSpell::Convince(const RuneSpell* spell, Creature* creature, Item*, cons
 	if(!thing)
 	{
 		player->sendCancelMessage(RET_NOTPOSSIBLE);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
@@ -1947,14 +1870,12 @@ bool RuneSpell::Convince(const RuneSpell* spell, Creature* creature, Item*, cons
 	if(!convinceCreature)
 	{
 		player->sendCancelMessage(RET_NOTPOSSIBLE);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
 	if(!player->hasFlag(PlayerFlag_CanConvinceAll) && convinceCreature->getPlayerMaster())
 	{
 		player->sendCancelMessage(RET_NOTPOSSIBLE);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
@@ -1965,14 +1886,12 @@ bool RuneSpell::Convince(const RuneSpell* spell, Creature* creature, Item*, cons
 	if(!player->hasFlag(PlayerFlag_HasInfiniteMana) && player->getMana() < manaCost)
 	{
 		player->sendCancelMessage(RET_NOTENOUGHMANA);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
 	if(!convinceCreature->convinceCreature(creature))
 	{
 		player->sendCancelMessage(RET_NOTPOSSIBLE);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
@@ -1991,7 +1910,6 @@ bool RuneSpell::Soulfire(const RuneSpell* spell, Creature* creature, Item*, cons
 	if(!thing)
 	{
 		player->sendCancelMessage(RET_NOTPOSSIBLE);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
@@ -1999,7 +1917,6 @@ bool RuneSpell::Soulfire(const RuneSpell* spell, Creature* creature, Item*, cons
 	if(!target || !target->getPlayer())
 	{
 		player->sendCancelMessage(RET_NOTPOSSIBLE);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
@@ -2011,7 +1928,6 @@ bool RuneSpell::Soulfire(const RuneSpell* spell, Creature* creature, Item*, cons
 	if(!target->addCondition(soulfireCondition))
 	{
 		player->sendCancelMessage(RET_NOTPOSSIBLE);
-		player->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 

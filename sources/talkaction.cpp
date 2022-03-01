@@ -422,7 +422,6 @@ bool TalkAction::houseBuy(Creature* creature, const std::string&, const std::str
 	if(!tile)
 	{
 		player->sendCancel("You have to be looking at door of flat you would like to purchase.");
-		g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
@@ -430,21 +429,18 @@ bool TalkAction::houseBuy(Creature* creature, const std::string&, const std::str
 	if(!house)
 	{
 		player->sendCancel("You have to be looking at door of flat you would like to purchase.");
-		g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
 	if(!house->getDoorByPosition(pos))
 	{
 		player->sendCancel("You have to be looking at door of flat you would like to purchase.");
-		g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
 	if(house->isBidded())
 	{
 		player->sendCancel("You cannot buy house which is currently bidded on an auction.");
-		g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
@@ -453,7 +449,6 @@ bool TalkAction::houseBuy(Creature* creature, const std::string&, const std::str
 		if(Houses::getInstance()->getHouseByPlayerId(player->getGUID()))
 		{
 			player->sendCancel("You already rent another house.");
-			g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 			return false;
 		}
 
@@ -464,14 +459,12 @@ bool TalkAction::houseBuy(Creature* creature, const std::string&, const std::str
 			sprintf(buffer, "You may own only %d house%s per account.", accountHouses, (accountHouses != 1 ? "s" : ""));
 
 			player->sendCancel(buffer);
-			g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 			return false;
 		}
 
 		if(g_config.getBool(ConfigManager::HOUSE_NEED_PREMIUM) && !player->isPremium())
 		{
 			player->sendCancelMessage(RET_YOUNEEDPREMIUMACCOUNT);
-			g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 			return false;
 		}
 
@@ -481,7 +474,6 @@ bool TalkAction::houseBuy(Creature* creature, const std::string&, const std::str
 			char buffer[90];
 			sprintf(buffer, "You have to be at least Level %d to purchase a house.", levelToBuyHouse);
 			player->sendCancel(buffer);
-			g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 			return false;
 		}
 	}
@@ -490,14 +482,12 @@ bool TalkAction::houseBuy(Creature* creature, const std::string&, const std::str
 		if(!player->getGuildId() || player->getGuildLevel() != GUILDLEVEL_LEADER)
 		{
 			player->sendCancel("You have to be at least a guild leader to purchase a hall.");
-			g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 			return false;
 		}
 
 		if(Houses::getInstance()->getHouseByGuildId(player->getGuildId()))
 		{
 			player->sendCancel("Your guild rents already another hall.");
-			g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 			return false;
 		}
 	}
@@ -505,14 +495,12 @@ bool TalkAction::houseBuy(Creature* creature, const std::string&, const std::str
 	if(house->getOwner())
 	{
 		player->sendCancel("This flat is already owned by someone else.");
-		g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
 	if((uint32_t)g_game.getMoney(player) < house->getPrice() || !g_game.removeMoney(player, house->getPrice()))
 	{
 		player->sendCancel("You do not have enough money.");
-		g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
@@ -572,14 +560,12 @@ bool TalkAction::houseSell(Creature* creature, const std::string&, const std::st
 	if(!house && (!player->getGuildId() || !(house = Houses::getInstance()->getHouseByGuildId(player->getGuildId()))))
 	{
 		player->sendCancel("You do not rent any flat.");
-		g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
 	if(house->isGuild() && player->getGuildLevel() != GUILDLEVEL_LEADER)
 	{
 		player->sendCancel("You have to be at least a guild leader to sell this hall.");
-		g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
@@ -587,7 +573,6 @@ bool TalkAction::houseSell(Creature* creature, const std::string&, const std::st
 	if(!tile || !tile->getHouseTile() || tile->getHouseTile()->getHouse() != house)
 	{
 		player->sendCancel("You have to be inside a house that you would like to sell.");
-		g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
@@ -596,14 +581,12 @@ bool TalkAction::houseSell(Creature* creature, const std::string&, const std::st
 	if(ret != RET_NOERROR)
 	{
 		player->sendCancelMessage(ret);
-		g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
 	if(tradePartner == player)
 	{
 		player->sendCancel("You cannot trade with yourself.");
-		g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
@@ -612,7 +595,6 @@ bool TalkAction::houseSell(Creature* creature, const std::string&, const std::st
 		if(Houses::getInstance()->getHouseByPlayerId(tradePartner->getGUID()))
 		{
 			player->sendCancel("Trade player already rents another house.");
-			g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 			return false;
 		}
 
@@ -623,14 +605,12 @@ bool TalkAction::houseSell(Creature* creature, const std::string&, const std::st
 			sprintf(buffer, "Trade player has reached limit of %d house%s per account.", housesPerAccount, (housesPerAccount != 1 ? "s" : ""));
 
 			player->sendCancel(buffer);
-			g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 			return false;
 		}
 
 		if(!tradePartner->isPremium() && g_config.getBool(ConfigManager::HOUSE_NEED_PREMIUM))
 		{
 			player->sendCancel("Trade player does not have a premium account.");
-			g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 			return false;
 		}
 
@@ -641,7 +621,6 @@ bool TalkAction::houseSell(Creature* creature, const std::string&, const std::st
 			sprintf(buffer, "Trade player has to be at least Level %d to buy house.", levelToBuyHouse);
 
 			player->sendCancel(buffer);
-			g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 			return false;
 		}
 	}
@@ -650,14 +629,12 @@ bool TalkAction::houseSell(Creature* creature, const std::string&, const std::st
 		if(!tradePartner->getGuildId() || tradePartner->getGuildLevel() != GUILDLEVEL_LEADER)
 		{
 			player->sendCancel("Trade player has to be at least a guild leader to buy a hall.");
-			g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 			return false;
 		}
 
 		if(Houses::getInstance()->getHouseByGuildId(tradePartner->getGuildId()))
 		{
 			player->sendCancel("Trade player's guild already rents another hall.");
-			g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 			return false;
 		}
 	}
@@ -665,14 +642,12 @@ bool TalkAction::houseSell(Creature* creature, const std::string&, const std::st
 	if(!Position::areInRange<3,3,0>(tradePartner->getPosition(), player->getPosition()))
 	{
 		player->sendCancel("Trade player is too far away.");
-		g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
 	if(!Houses::getInstance()->payRent(player, house, 0))
 	{
 		player->sendCancel("You have to pay a pre-rent first.");
-		g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
@@ -700,7 +675,6 @@ bool TalkAction::houseKick(Creature* creature, const std::string&, const std::st
 	House* house = Houses::getInstance()->getHouseByPlayer(targetPlayer);
 	if(!house || !house->kickPlayer(player, targetPlayer))
 	{
-		g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		player->sendCancelMessage(RET_NOTPOSSIBLE);
 	}
 	else
@@ -719,7 +693,6 @@ bool TalkAction::houseDoorList(Creature* creature, const std::string&, const std
 	if(!house)
 	{
 		player->sendCancelMessage(RET_NOTPOSSIBLE);
-		g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return false;
 	}
 
@@ -733,7 +706,6 @@ bool TalkAction::houseDoorList(Creature* creature, const std::string&, const std
 	else
 	{
 		player->sendCancelMessage(RET_NOTPOSSIBLE);
-		g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 	}
 
 	return false;
@@ -755,7 +727,6 @@ bool TalkAction::houseGuestList(Creature* creature, const std::string&, const st
 	else
 	{
 		player->sendCancelMessage(RET_NOTPOSSIBLE);
-		g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 	}
 
 	return false;
@@ -777,7 +748,6 @@ bool TalkAction::houseSubOwnerList(Creature* creature, const std::string&, const
 	else
 	{
 		player->sendCancelMessage(RET_NOTPOSSIBLE);
-		g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 	}
 
 	return false;
@@ -897,7 +867,6 @@ bool TalkAction::thingProporties(Creature* creature, const std::string&, const s
 	if(!tile)
 	{
 		player->sendTextMessage(MSG_STATUS_SMALL, "No tile found.");
-		g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return true;
 	}
 
@@ -905,7 +874,6 @@ bool TalkAction::thingProporties(Creature* creature, const std::string&, const s
 	if(!thing)
 	{
 		player->sendTextMessage(MSG_STATUS_SMALL, "No object found.");
-		g_game.addMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
 		return true;
 	}
 
@@ -1277,11 +1245,6 @@ bool TalkAction::ghost(Creature* creature, const std::string&, const std::string
 	{
 		player->addCondition(condition);
 		g_game.internalCreatureChangeVisible(creature, VISIBLE_GHOST_DISAPPEAR);
-		for(it = list.begin(); it != list.end(); ++it)
-		{
-			if((tmpPlayer = (*it)->getPlayer()) && !tmpPlayer->canSeeCreature(player))
-				tmpPlayer->sendMagicEffect(player->getPosition(), MAGIC_EFFECT_POFF);
-		}
 
 		for(AutoList<Player>::iterator pit = Player::autoList.begin(); pit != Player::autoList.end(); ++pit)
 		{

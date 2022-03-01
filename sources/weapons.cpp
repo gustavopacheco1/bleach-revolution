@@ -426,7 +426,6 @@ bool Weapon::internalUseWeapon(Player* player, Item* item, Tile* tile) const
 	else
 	{
 		Combat::postCombatEffects(player, tile->getPosition(), params);
-		g_game.addMagicEffect(tile->getPosition(), MAGIC_EFFECT_POFF);
 	}
 
 	onUsedAmmo(player, item, tile);
