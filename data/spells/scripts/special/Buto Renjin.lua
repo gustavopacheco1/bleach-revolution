@@ -18,7 +18,7 @@ function onCastSpell(cid, var)
     for i = 0, spell.total_hits-1 do
         addEvent(function()
             if isCreature(cid) and isCreature(target) then
-                doTargetCombatHealth(cid, target, COMBAT_PHYSICALDAMAGE, -damage, -damage, spell.effect)
+                doTargetCombatHealth(cid, target, COMBAT_ENERGYDAMAGE, -damage, -damage, spell.effect)
             end
         end, i * (spell.hit_delay * 1000))
     end

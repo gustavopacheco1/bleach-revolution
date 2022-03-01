@@ -13,7 +13,7 @@ function onCastSpell(cid, var)
     local life_steal = getCreatureMaxHealth(cid)*spell.percentage
 
     doCreatureAddHealth(cid, life_steal)
-    doTargetCombatHealth(cid, getCreatureTarget(cid), COMBAT_PHYSICALDAMAGE, -life_steal, -life_steal, spell.effect)
+    doTargetCombatHealth(cid, getCreatureTarget(cid), COMBAT_ENERGYDAMAGE, -life_steal, -life_steal, spell.effect)
 
     exhaustion.set(cid, "special", spell.cooldown)
     return true

@@ -21,7 +21,7 @@ function onCastSpell(cid, var)
     }, 535)
 
     local damage = -getCreatureMaxHealth(cid) * spell.multiplier
-    doTargetCombatHealth(cid, target, COMBAT_PHYSICALDAMAGE, damage, damage, false)
+    doTargetCombatHealth(cid, target, COMBAT_ENERGYDAMAGE, damage, damage, false)
 	doCreatureAddHealth(cid, damage, false, COLOR_RED)
     
     exhaustion.set(cid, "special", spell.cooldown)
