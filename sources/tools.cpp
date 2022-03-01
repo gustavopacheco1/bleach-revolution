@@ -1017,7 +1017,7 @@ MagicEffectNames magicEffectNames[] =
 	{"greenbubble", MAGIC_EFFECT_POISON_RINGS},
 	{"blackspark", MAGIC_EFFECT_HIT_AREA},
 	{"teleport", MAGIC_EFFECT_TELEPORT},
-	{"energy", MAGIC_EFFECT_ENERGY_DAMAGE},
+	{"energy", MAGIC_EFFECT_NONE},
 	{"blueshimmer", MAGIC_EFFECT_WRAPS_BLUE},
 	{"redshimmer", MAGIC_EFFECT_WRAPS_RED},
 	{"greenshimmer", MAGIC_EFFECT_WRAPS_GREEN},

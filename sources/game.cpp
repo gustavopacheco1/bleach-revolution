@@ -5187,7 +5187,7 @@ bool Game::combatChangeHealth(const CombatParams& params, Creature* attacker, Cr
 				if(params.effects.color != COLOR_UNKNOWN)
 					textColor = params.effects.color;
 
-				if(textColor < COLOR_NONE && magicEffect < MAGIC_EFFECT_NONE)
+				if(textColor < COLOR_NONE)
 				{
 					SpectatorVec textList;
 
@@ -5195,7 +5195,9 @@ bool Game::combatChangeHealth(const CombatParams& params, Creature* attacker, Cr
 					{ 
 						SpectatorVec newList;
 						getSpectators(newList, targetPos, true, true);
-						addMagicEffect(newList, targetPos, magicEffect);
+						if (magicEffect < MAGIC_EFFECT_NONE)
+							addMagicEffect(newList, targetPos, magicEffect);
+
 						for (SpectatorVec::const_iterator it = newList.begin(); it != newList.end(); ++it)
 						{
 							if (!(*it)->getPlayer())
@@ -5207,7 +5209,9 @@ bool Game::combatChangeHealth(const CombatParams& params, Creature* attacker, Cr
 					}
 					else
 					{
-						addMagicEffect(list, targetPos, magicEffect);
+						if (magicEffect < MAGIC_EFFECT_NONE)
+							addMagicEffect(list, targetPos, magicEffect);
+
 						for (SpectatorVec::const_iterator it = list.begin(); it != list.end(); ++it)
 						{
 							if (!(*it)->getPlayer())
@@ -5229,7 +5233,7 @@ bool Game::combatChangeHealth(const CombatParams& params, Creature* attacker, Cr
 							getSpectators(newList, targetPos, true, true);
 							addMagicEffect(newList, targetPos, magicEffect);
 						}
-						else
+						else if (magicEffect < MAGIC_EFFECT_NONE)
 							addMagicEffect(list, targetPos, magicEffect);
 					}
 
