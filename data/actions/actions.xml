@@ -39,6 +39,7 @@
 
 	<!-- Teleports -->
 	<action actionid="20000" script="teleports/urahara_market_trolley.lua" />
+	<action actionid="20001" script="teleports/cave_entrance.lua" />
 
 	<!-- Other -->
 	<action itemid="2036;1728;1877;6091;8187" event="script" value="other/watch.lua"/>

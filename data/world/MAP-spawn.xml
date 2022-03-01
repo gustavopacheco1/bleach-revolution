@@ -693,19 +693,19 @@
 	<spawn centerx="3122" centery="3663" centerz="5" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="3571" centery="3719" centerz="5" radius="1">
+	<spawn centerx="3570" centery="3720" centerz="5" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="3581" centery="3719" centerz="5" radius="1">
+	<spawn centerx="3580" centery="3720" centerz="5" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="3577" centery="3722" centerz="5" radius="1">
+	<spawn centerx="3576" centery="3723" centerz="5" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="3570" centery="3724" centerz="5" radius="1">
+	<spawn centerx="3569" centery="3725" centerz="5" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="3579" centery="3725" centerz="5" radius="1">
+	<spawn centerx="3578" centery="3726" centerz="5" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="2774" centery="3807" centerz="5" radius="1">
@@ -3879,19 +3879,19 @@
 	<spawn centerx="3688" centery="3698" centerz="6" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3579" centery="3718" centerz="6" radius="1">
+	<spawn centerx="3578" centery="3719" centerz="6" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3569" centery="3719" centerz="6" radius="1">
+	<spawn centerx="3568" centery="3720" centerz="6" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3574" centery="3721" centerz="6" radius="1">
+	<spawn centerx="3573" centery="3722" centerz="6" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3574" centery="3724" centerz="6" radius="1">
+	<spawn centerx="3573" centery="3725" centerz="6" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3582" centery="3724" centerz="6" radius="1">
+	<spawn centerx="3581" centery="3725" centerz="6" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2780" centery="3806" centerz="6" radius="1">
@@ -8610,17 +8610,17 @@
 	<spawn centerx="3706" centery="3717" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3582" centery="3718" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3618" centery="3718" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3570" centery="3719" centerz="7" radius="1">
+	<spawn centerx="3581" centery="3719" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3693" centery="3719" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3569" centery="3720" centerz="7" radius="1">
+		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3627" centery="3720" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
@@ -8646,10 +8646,10 @@
 	<spawn centerx="3674" centery="3722" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3573" centery="3724" centerz="7" radius="1">
+	<spawn centerx="3572" centery="3725" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3580" centery="3724" centerz="7" radius="1">
+	<spawn centerx="3579" centery="3725" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3689" centery="3725" centerz="7" radius="1">
