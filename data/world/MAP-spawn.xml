@@ -693,19 +693,29 @@
 	<spawn centerx="3122" centery="3663" centerz="5" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3575" centery="3719" centerz="5" radius="1">
+		<monster name="Hollow Grande" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Hollow Grande" x="0" y="1" z="5" spawntime="60" />
+		<monster name="Hollow Grande" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3570" centery="3720" centerz="5" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Hollow Grande" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3580" centery="3720" centerz="5" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Hollow Grande" x="0" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3576" centery="3723" centerz="5" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Hollow Grande" x="0" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3569" centery="3725" centerz="5" radius="1">
+		<monster name="Hollow Grande" x="1" y="-1" z="5" spawntime="60" />
 		<monster name="Hollow Grande" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3578" centery="3726" centerz="5" radius="1">
+		<monster name="Hollow Grande" x="1" y="-1" z="5" spawntime="60" />
 		<monster name="Hollow Grande" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="2774" centery="3807" centerz="5" radius="1">
@@ -1560,6 +1570,9 @@
 	<spawn centerx="3575" centery="3023" centerz="6" radius="1">
 		<monster name="Grown Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3891" centery="3023" centerz="6" radius="1">
+		<monster name="Barragan Soldier" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3494" centery="3024" centerz="6" radius="1">
 		<monster name="Adjuchas" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -1574,6 +1587,9 @@
 	</spawn>
 	<spawn centerx="3809" centery="3025" centerz="6" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3878" centery="3025" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3884" centery="3025" centerz="6" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="6" spawntime="60" />
@@ -1591,6 +1607,9 @@
 	</spawn>
 	<spawn centerx="3881" centery="3030" centerz="6" radius="1">
 		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3888" centery="3030" centerz="6" radius="1">
+		<monster name="Hollow Grande" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3896" centery="3030" centerz="6" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="6" spawntime="60" />
@@ -3880,18 +3899,25 @@
 		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3578" centery="3719" centerz="6" radius="1">
+		<monster name="Hollow Grande" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Hollow Grande" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Hollow Grande" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3568" centery="3720" centerz="6" radius="1">
+		<monster name="Hollow Grande" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Hollow Grande" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Hollow Grande" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3573" centery="3722" centerz="6" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Hollow Grande" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3573" centery="3725" centerz="6" radius="1">
+		<monster name="Hollow Grande" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Hollow Grande" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3581" centery="3725" centerz="6" radius="1">
+		<monster name="Hollow Grande" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Hollow Grande" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2780" centery="3806" centerz="6" radius="1">
@@ -9407,12 +9433,16 @@
 	</spawn>
 	<spawn centerx="3581" centery="3719" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Hollow Grande" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Hollow Grande" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3693" centery="3719" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3569" centery="3720" centerz="7" radius="1">
+		<monster name="Hollow Grande" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Hollow Grande" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3627" centery="3720" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
@@ -9439,10 +9469,14 @@
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3572" centery="3725" centerz="7" radius="1">
+		<monster name="Hollow Grande" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Hollow Grande" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3579" centery="3725" centerz="7" radius="1">
+		<monster name="Hollow Grande" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Hollow Grande" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3689" centery="3725" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
