@@ -22438,7 +22438,7 @@
 		<attribute key="slotType" value="necklace" />
 		<attribute key="showattributes" value="1" />
 	</item>
-	<item id="15799" name="Blue Amulet">
+	<item id="15799" name="Focus Snake Amulet">
 		<attribute key="weight" value="500" />
 		<attribute key="absorbPercentAll" value="2" />
 		<attribute key="magicpoints" value="3" />
@@ -22458,7 +22458,7 @@
 		<attribute key="slotType" value="necklace" />
 		<attribute key="showattributes" value="1" />
 	</item>
-	<item id="15800" name="Yellowblu Amulet">
+	<item id="15800" name="Concentrate Snake Amulet">
 		<attribute key="weight" value="500" />
 		<attribute key="absorbPercentAll" value="3" />
 		<attribute key="magicpoints" value="1" />

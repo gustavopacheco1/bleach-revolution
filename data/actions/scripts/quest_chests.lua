@@ -124,6 +124,22 @@ local questChests = {
         storage = "soul_weapons_quest",
         -- Zangetsu
         items = {15820}
+    },
+
+    [50024] = {
+        storage = "snake_chains_quest",
+        -- Snake Ring
+        items = {11377}
+    },
+    [50025] = {
+        storage = "snake_chains_quest",
+        -- Focus Snake Amulet
+        items = {15799}
+    },
+    [50026] = {
+        storage = "snake_chains_quest",
+        -- Concentrate Snake Amulet
+        items = {15800}
     }
 }
 
