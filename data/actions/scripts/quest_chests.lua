@@ -1,3 +1,48 @@
+local questChests = {
+	[50000] = {
+		storage = "halibel_set_quest",
+		-- Halibel Helmet
+		items = {11384}
+	},
+	[50001] = {
+		storage = "halibel_set_quest",
+		-- Halibel Armor
+		items = {16101}
+	},
+	[50002] = {
+		storage = "halibel_set_quest",
+		-- Halibel Legs
+		items = {16102}
+	},
+	[50003] = {
+		storage = "halibel_set_quest",
+		-- Halibel Boots
+		items = {16103}
+	},
+
+    [50004] = {
+        storage = "kensei_set_quest",
+        -- Kensei Helmet
+        items = {16097}
+    },
+    [50005] = {
+        storage = "kensei_set_quest",
+        -- Kensei Armor
+        items = {16098}
+    },
+    [50006] = {
+        storage = "kensei_set_quest",
+        -- Kensei Legs
+        items = {16099}
+    },
+    [50007] = {
+        storage = "kensei_set_quest",
+        -- Kensei Boots
+        items = {16100}
+    }
+}
+
+
 local function getRewardsWeight(items)
     local weight = 0
     

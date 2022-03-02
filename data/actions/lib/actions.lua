@@ -249,26 +249,3 @@ TOOLS.KNIFE = function(cid, item, fromPosition, itemEx, toPosition)
 	doTransformItem(itemEx.uid, PUMPKIN_HEAD)
 	return true
 end
-
-questChests = {
-	[50000] = {
-		storage = "halibel_quest",
-		-- Halibel Helmet
-		items = {11384}
-	},
-	[50001] = {
-		storage = "halibel_quest",
-		-- Halibel Armor
-		items = {16101}
-	},
-	[50002] = {
-		storage = "halibel_quest",
-		-- Halibel Legs
-		items = {16102}
-	},
-	[50003] = {
-		storage = "halibel_quest",
-		-- Halibel Boots
-		items = {16103}
-	}
-}
