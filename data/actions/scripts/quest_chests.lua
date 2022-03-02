@@ -81,6 +81,27 @@ local questChests = {
         storage = "vizard_set_quest",
         -- Vizard Boots
         items = {16085}
+    },
+
+    [50016] = {
+        storage = "kaname_set_quest",
+        -- Kaname Helmet
+        items = {16089}
+    },
+    [50017] = {
+        storage = "kaname_set_quest",
+        -- Kaname Armor
+        items = {16090}
+    },
+    [50018] = {
+        storage = "kaname_set_quest",
+        -- Kaname Legs
+        items = {16091}
+    },
+    [50019] = {
+        storage = "kaname_set_quest",
+        -- Kaname Boots
+        items = {16092}
     }
 }
 
