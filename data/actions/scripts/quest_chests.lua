@@ -60,6 +60,27 @@ local questChests = {
         storage = "zangetsu_set_quest",
         -- Zangetsu Boots
         items = {16110}
+    },
+
+    [50012] = {
+        storage = "vizard_set_quest",
+        -- Vizard Helmet
+        items = {16088}
+    },
+    [50013] = {
+        storage = "vizard_set_quest",
+        -- Vizard Armor
+        items = {16087}
+    },
+    [50014] = {
+        storage = "vizard_set_quest",
+        -- Vizard Legs
+        items = {16086}
+    },
+    [50015] = {
+        storage = "vizard_set_quest",
+        -- Vizard Boots
+        items = {16085}
     }
 }
 
