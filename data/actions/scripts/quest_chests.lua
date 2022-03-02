@@ -39,6 +39,27 @@ local questChests = {
         storage = "kensei_set_quest",
         -- Kensei Boots
         items = {16100}
+    },
+
+    [50008] = {
+        storage = "zangetsu_set_quest",
+        -- Zangetsu Helmet
+        items = {16107}
+    },
+    [50009] = {
+        storage = "zangetsu_set_quest",
+        -- Zangetsu Armor
+        items = {16108}
+    },
+    [50010] = {
+        storage = "zangetsu_set_quest",
+        -- Zangetsu Legs
+        items = {16109},
+    },
+    [50011] = {
+        storage = "zangetsu_set_quest",
+        -- Zangetsu Boots
+        items = {16110}
     }
 }
 
