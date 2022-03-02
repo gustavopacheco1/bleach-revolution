@@ -102,6 +102,11 @@ local questChests = {
         storage = "kaname_set_quest",
         -- Kaname Boots
         items = {16092}
+    },
+
+    [50020] = {
+        storage = "ninja_set_quest",
+        items = {15080, 15081, 15082}
     }
 }
 
