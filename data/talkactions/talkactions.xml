@@ -53,7 +53,7 @@
 	<talkaction access="0-6" words="!commands;/commands" event="script" value="commands.lua"/>
 	<talkaction access="0-6" words="!pvp;/pvp" event="script" value="pvp.lua"/>
 	<talkaction access="0-6" words="!transform;transform;!transformar;transformar;!revert;revert;!reverter;reverter" event="script" value="transform.lua"/>
-	<talkaction access="0-6" words="!techniques;!tecnicas;!spells" event="script" value="spells.lua"/>
+	<talkaction access="0-6" words="!techniques;!tecnicas;!spells" event="script" value="techniques.lua"/>
 	<talkaction access="0-6" words="!language;!idioma" event="script" value="language.lua"/>
 
 	<!-- Houses -->

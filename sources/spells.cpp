@@ -79,6 +79,9 @@ ReturnValue Spells::onPlayerSay(Player* player, const std::string& words)
 	if(g_config.getBool(ConfigManager::EMOTE_SPELLS))
 		type = MSG_SPEAK_MONSTER_SAY;
 
+	std::string display_spell_value;
+	player->getStorage("display_spell", display_spell_value);
+
 	if(!g_config.getBool(ConfigManager::SPELL_NAME_INSTEAD_WORDS))
 	{
 		if(g_config.getBool(ConfigManager::UNIFIED_SPELLS))
@@ -87,6 +90,9 @@ ReturnValue Spells::onPlayerSay(Player* player, const std::string& words)
 			if(instantSpell->getHasParam())
 				reWords += " \"" + reParam + "\"";
 		}
+
+		if (display_spell_value == "1")
+			player->sendTextMessage(MSG_STATUS_DEFAULT, "Execute technique: " + instantSpell->getName());
 
 		return g_game.internalCreatureSay(player, type, reWords, player->isGhost()) ?
 			RET_NOERROR : RET_NOTPOSSIBLE;
@@ -105,6 +111,9 @@ ReturnValue Spells::onPlayerSay(Player* player, const std::string& words)
 
 		ret += ": " + param.substr(tmp, rtmp);
 	}
+
+	if (display_spell_value == "1")
+		player->sendTextMessage(MSG_STATUS_DEFAULT, "Execute technique: " + instantSpell->getName());
 
 	return g_game.internalCreatureSay(player, type, ret, player->isGhost(),
 		NULL, &pos) ? RET_NOERROR : RET_NOTPOSSIBLE;
@@ -1348,7 +1357,7 @@ bool InstantSpell::castSpell(Creature* creature, Creature* target)
 
 bool InstantSpell::internalCastSpell(Creature* creature, const LuaVariant& var)
 {
-	if(isScripted())
+	if (isScripted())
 		return executeCastSpell(creature, var);
 
 	return function ? function(this, creature, var.text) : false;

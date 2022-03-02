@@ -4691,13 +4691,18 @@ bool Game::internalCreatureSay(Creature* creature, MessageClasses type, const st
 
 	//send to client
 	Player* tmpPlayer = NULL;
-	for(it = list.begin(); it != list.end(); ++it)
-	{
+	std::string display_spell_value;
+	for (it = list.begin(); it != list.end(); ++it){
 		if(!(tmpPlayer = (*it)->getPlayer()))
 			continue;
 
-		if(!ghostMode || tmpPlayer->canSeeCreature(creature))
+		tmpPlayer->getStorage("display_spell", display_spell_value);
+		if (type == MSG_SPEAK_MONSTER_SAY && display_spell_value == "1")
+			continue;
+
+		if (!ghostMode || tmpPlayer->canSeeCreature(creature)) {
 			tmpPlayer->sendCreatureSay(creature, type, text, &destPos, statementId);
+		}
 	}
 
 	//event method
