@@ -80,7 +80,7 @@
 	</instant>
 
 	<instant name="Gigai" words="Gigai" lvl="450" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0"  event="script" value="special/immortal/Gigai.lua">
-		<!-- <vocation id="55-61" /> Rukia Kuchiki -->
+		<vocation id="55-61" /> <!-- Rukia Kuchiki -->
 	</instant>
 
 	<!-- Paralyze -->
