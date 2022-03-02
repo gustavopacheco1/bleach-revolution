@@ -253,7 +253,7 @@
 
 	-- Item usage
 	timeBetweenActions = 200
-	timeBetweenExActions = 1000
+	timeBetweenExActions = 200
 	timeBetweenCustomActions = 500
 	checkCorpseOwner = true
 	hotkeyAimbotEnabled = true
