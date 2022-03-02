@@ -8,19 +8,20 @@
 
 	<!-- Weapon Soul Upgrade -->
 	<action itemid="10624;15820;15122;15411;15730;15819;15431;15091;15823;15423;15424" event="script" value="weapon_soul_upgrade.lua" />
-
-	<action itemid="2420;2442" event="script" value="tools/machete.lua"/>
-	<action itemid="2550" event="script" value="tools/scythe.lua"/>
-	<action itemid="2580;10223" event="script" value="tools/fishing.lua" allowfaruse="1"/>
-	<action itemid="2554;5710" event="script" value="tools/shovel.lua"/>
-	<action itemid="2120;7731" event="script" value="tools/rope.lua"/>
-	<action itemid="2553" event="script" value="tools/pick.lua"/>
 	
 	<!-- Levers -->
 	<action actionid="26000" script="levers/las_noches.lua" />
 
 	<!-- Quests -->
 	<action itemid="15661" script="quest_chests.lua" />
+	
+	<!-- Tools -->
+	<action itemid="2420;2442" event="script" value="tools/machete.lua"/>
+	<action itemid="2550" event="script" value="tools/scythe.lua"/>
+	<action itemid="2580;10223" event="script" value="tools/fishing.lua" allowfaruse="1"/>
+	<action itemid="2554;5710" event="script" value="tools/shovel.lua"/>
+	<action itemid="2120;7731" event="script" value="tools/rope.lua"/>
+	<action itemid="2553" event="script" value="tools/pick.lua"/>
 	
 	<!-- Food -->
 	<action itemid="2328;2362-2363;2666-2669;2671-2689;2691;2693;2695-2696;2787-2796;5097;6125;6278;6279;6394;6501;6541;6545:6569;6574;7158;7159;7372-7377;7909;8838-8845;8847;9005;9996" event="script" value="other/food.lua" />
