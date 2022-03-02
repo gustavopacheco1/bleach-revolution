@@ -140,6 +140,22 @@ local questChests = {
         storage = "snake_chains_quest",
         -- Concentrate Snake Amulet
         items = {15800}
+    },
+
+    [50027] = {
+        storage = "skeleton_quest",
+        -- Skeleton Ring
+        items = {15743}
+    },
+    [50028] = {
+        storage = "skeleton_quest",
+        -- Red Shield
+        items = {15063}
+    },
+    [50029] = {
+        storage = "skeleton_quest",
+        -- Black Amulet
+        items = {15742}
     }
 }
 
