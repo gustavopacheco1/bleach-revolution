@@ -106,7 +106,24 @@ local questChests = {
 
     [50020] = {
         storage = "ninja_set_quest",
+        -- Ninja Armor, Ninja Legs, Ninja Boots
         items = {15080, 15081, 15082}
+    },
+
+    [50021] = {
+        storage = "soul_weapons_quest",
+        -- Quincy Bow
+        items = {15091}
+    },
+    [50022] = {
+        storage = "soul_weapons_quest",
+        -- El Diablo Glove
+        items = {15730}
+    },
+    [50023] = {
+        storage = "soul_weapons_quest",
+        -- Zangetsu
+        items = {15820}
     }
 }
 
