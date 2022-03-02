@@ -7073,6 +7073,9 @@
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3178" centery="3477" centerz="7" radius="1">
+		<npc name="Hikari" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3475" centery="3478" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -7107,6 +7110,9 @@
 		<monster name="Punching Bag" x="-5" y="3" z="7" spawntime="60" />
 		<monster name="Punching Bag" x="0" y="3" z="7" spawntime="60" />
 		<monster name="Punching Bag" x="5" y="3" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3178" centery="3482" centerz="7" radius="1">
+		<npc name="Kenji" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3193" centery="3482" centerz="7" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -7158,6 +7164,9 @@
 	</spawn>
 	<spawn centerx="4140" centery="3486" centerz="7" radius="1">
 		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3178" centery="3487" centerz="7" radius="1">
+		<npc name="Kurotsuchi" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4067" centery="3487" centerz="7" radius="1">
 		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
