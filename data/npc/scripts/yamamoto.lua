@@ -83,8 +83,8 @@ function onCreatureSay(cid, type, msg)
 
         if player_task_kills < task_monsters[player_task].total_kills then
             selfSayMultiLanguage(
-                "You've already accepted a task. You have to to defeat more " .. (task_monsters[player_task].total_kills - player_task_kills) .. " " .. task_monsters[player_task].name .. "s.",
-                "Você já aceitou uma tarefa. Você tem que defeat mais " .. (task_monsters[player_task].total_kills - player_task_kills) .. " " .. task_monsters[player_task].name .. "s.",
+                "You've already accepted a task. You have to defeat " .. (task_monsters[player_task].total_kills - player_task_kills) .. " " .. task_monsters[player_task].name .. "s.",
+                "Você já aceitou uma tarefa. Você tem que derrotar " .. (task_monsters[player_task].total_kills - player_task_kills) .. " " .. task_monsters[player_task].name .. "s.",
                 cid
             )
             return false
