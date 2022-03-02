@@ -7274,7 +7274,13 @@ void Game::showHotkeyUseMessage(Player* player, Item* item)
 	else
 		stream << "Using one of " << count << " " << it.pluralName.c_str() << "...";
 
-	player->sendTextMessage(MSG_HOTKEY_USE, stream.str().c_str());
+	std::string display_use_value;
+	player->getStorage("display_use", display_use_value);
+
+	if (display_use_value == "1")
+		player->sendTextMessage(MSG_STATUS_DEFAULT, stream.str().c_str());
+	else
+		player->sendTextMessage(MSG_HOTKEY_USE, stream.str().c_str());
 }
 
 void Game::parsePlayerExtendedOpcode(const uint32_t& playerId, const uint8_t& opcode, const std::string& buffer)
