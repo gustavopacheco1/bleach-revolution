@@ -12131,16 +12131,13 @@
 	<spawn centerx="3916" centery="3073" centerz="9" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="3948" centery="3073" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
+	<spawn centerx="3946" centery="3073" centerz="9" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3863" centery="3074" centerz="9" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3905" centery="3074" centerz="9" radius="1">
-		<monster name="Espada" x="0" y="0" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3942" centery="3074" centerz="9" radius="1">
 		<monster name="Espada" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3852" centery="3075" centerz="9" radius="1">
@@ -12151,9 +12148,6 @@
 	</spawn>
 	<spawn centerx="3822" centery="3079" centerz="9" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3945" centery="3081" centerz="9" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3822" centery="3086" centerz="9" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="9" spawntime="60" />
