@@ -1,4 +1,5 @@
 local bosses = {
+    ["Samurai Boss"] = {teleport_to = {x = 3330, y = 3627, z = 8}},
     ["Legendary Grand Fisher"] = {storage = "tessai_quest", teleport_to = {x = 3583, y = 3456, z = 8}},
     ["Zaraki Legendary"] = {teleport_to = {x = 2769, y = 3941, z = 4}}
 }
