@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <monster name="Giant Snake Hollow" nameDescription="Giant Snake Hollow" race="blood" experience="4000" speed="300" manacost="0">
     <health now="50000" max="50000" />
-    <look type="17" head="0" body="94" legs="79" feet="79" corpse="5527" />
-    <targetchange interval="5000" chance="50" />
-    <strategy attack="90" defense="20" />
+    <look type="17" corpse="5527" />
+    <targetchange interval="5000" chance="8" />
+    <strategy attack="100" defense="0" />
     <flags>
         <flag summonable="1" />
         <flag attackable="1" />
@@ -14,14 +14,24 @@
         <flag canpushitems="1" />
         <flag canpushcreatures="1" />
         <flag targetdistance="1" />
-        <flag staticattack="65" />
+        <flag staticattack="90" />
         <flag runonhealth="0" />
         <flag lootmessage="0" />
     </flags>
     <attacks>
         <attack name="melee" interval="2000" min="-43000" max="-43100" />
     </attacks>
-    <defenses armor="40" defense="40" />
+    <defenses armor="0" defense="0" />
+    <immunities>
+		<immunity physical="0" />
+		<immunity energy="0" />
+		<immunity fire="0" />
+		<immunity poison="0" />
+		<immunity lifedrain="0" />
+		<immunity paralyze="0" />
+		<immunity outfit="1" />
+		<immunity invisible="0" />
+	</immunities>
     <script>
         <event name="YamamotoTask" />
     </script>
