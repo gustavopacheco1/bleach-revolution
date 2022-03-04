@@ -18,7 +18,6 @@
 
     <!-- Monsters Events -->
     <event type="statschange" name="TrainerShielding" event="script" value="monsters_events/trainer_shielding.lua"/>
-    <event type="death" name="TeleportLegendaryGrandFisher" event="script" value="monsters_events/teleport_legendary_grand_fisher.lua"/>
     <event type="death" name="MonsterTeleportOnDeath" event="script" value="monsters_events/monster_teleport_ondeath.lua"/>
     <event type="death" name="YamamotoTask" event="script" value="monsters_events/yamamoto_task.lua"/>
 

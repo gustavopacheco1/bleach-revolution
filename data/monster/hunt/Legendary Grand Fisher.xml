@@ -33,6 +33,6 @@
 		<immunity invisible="0" />
 	</immunities>
     <script>
-        <event name="TeleportLegendaryGrandFisher" />
+        <event name="MonsterTeleportOnDeath" />
     </script>
 </monster>
