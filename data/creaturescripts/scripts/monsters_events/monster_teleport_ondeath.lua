@@ -6,7 +6,8 @@ local bosses = {
     ["Legendary Grand Fisher"] = {storage = "tessai_quest", teleport_to = {x = 3583, y = 3456, z = 8}},
     ["Zaraki Legendary"] = {teleport_to = {x = 2769, y = 3937, z = 4}},
     ["Arrancar Boss"] = {teleport_to = {x = 3651, y = 4230, z = 8}},
-    ["Ryu Boss"] = {teleport_to = {x = 3934, y = 3816, z = 8}}
+    ["Ryu Boss"] = {teleport_to = {x = 3934, y = 3816, z = 8}},
+    ["Hiroshi Boss"] = {teleport_to = {x = 2789, y = 3234, z = 6}}
 }
 
 function onDeath(cid, corpse, deathList)

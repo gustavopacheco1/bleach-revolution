@@ -1907,9 +1907,6 @@
 	<spawn centerx="2919" centery="3197" centerz="6" radius="1">
 		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="2787" centery="3200" centerz="6" radius="1">
-		<monster name="Hiroshi Boss" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="2871" centery="3201" centerz="6" radius="1">
 		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -1921,6 +1918,9 @@
 	</spawn>
 	<spawn centerx="2905" centery="3203" centerz="6" radius="1">
 		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2789" centery="3205" centerz="6" radius="1">
+		<monster name="Hiroshi Boss" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2915" centery="3205" centerz="6" radius="1">
 		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
@@ -2012,11 +2012,11 @@
 	<spawn centerx="2909" centery="3245" centerz="6" radius="1">
 		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="2785" centery="3247" centerz="6" radius="1">
-		<monster name="Hiroshi Boss Two" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="2855" centery="3247" centerz="6" radius="1">
 		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2788" centery="3249" centerz="6" radius="1">
+		<monster name="Hiroshi Boss Two" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2866" centery="3249" centerz="6" radius="1">
 		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
