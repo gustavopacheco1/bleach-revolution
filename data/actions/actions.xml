@@ -10,7 +10,6 @@
 	<action itemid="10624;15820;15122;15411;15730;15819;15431;15091;15823;15423;15424" event="script" value="weapon_soul_upgrade.lua" />
 	
 	<!-- Levers -->
-	<!-- <action actionid="26000" script="levers/las_noches.lua" /> -->
 	<action itemid="9827;9828" script="levers.lua" />
 
 	<!-- Quests -->
