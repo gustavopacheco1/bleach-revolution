@@ -88,33 +88,80 @@ local paths = {
         {x = 4807, y = 4150, z = 7, stackpos = 1},
         {x = 4807, y = 4151, z = 7, stackpos = 1},
         {x = 4807, y = 4152, z = 7, stackpos = 1},
-        {x = 4807, y = 4153, z = 7, stackpos = 1},
+        {x = 4807, y = 4153, z = 7, stackpos = 1}
+    },
+
+    [26008] = {
+        teleport_id = 1387,
+        destination = {x = 4484, y = 3759, z = 7},
+        position = {x = 4501, y = 3759, z = 7},
+        minutes_duration = 8
+    },
+
+    [26009] = {
+        teleport_id = 1387,
+        destination = {x = 4430, y = 3872, z = 7},
+        position = {x = 4448, y = 3872, z = 7},
+        minutes_duration = 8
+    },
+
+    [26010] = {
+        teleport_id = 1387,
+        destination = {x = 4561, y = 3968, z = 7},
+        position = {x = 4544, y = 3955, z = 7},
+        minutes_duration = 8
     }
 }
 
 function onUse(cid, item, fromPosition, itemEx, toPosition)
     local lever_aid = getItemAttribute(item.uid, "aid")
 
-    if not (paths[lever_aid]) then return end
+    if not (paths[lever_aid]) then
+        return
+    end
 
     local path = paths[lever_aid]
 
-    for position = 1, #path do
-        local wall = getThingFromPosition(path[position])
+    if path.wall_id then
+        for position = 1, #path do
+            local wall = getThingFromPosition(path[position])
 
-        if wall.itemid == path.wall_id then
-            doRemoveItem(wall.uid, 1)
-        else
-            doCreateItem(path.wall_id, path[position])
+            if wall.itemid == path.wall_id then
+                doRemoveItem(wall.uid, 1)
+            else
+                doCreateItem(path.wall_id, path[position])
+            end
+
+            doSendMagicEffect(path[position], 2)
         end
-
-        doSendMagicEffect(path[position], 2)
     end
 
-    if item.itemid == 9828 then
-        doTransformItem(item.uid, 9827)
+    if path.teleport_id then
+        if getThingFromPosition(path.position).itemid == path.teleport_id then
+            return MultiLanguage.doPlayerSendCancel(
+                cid,
+                "This lever has already been pulled.",
+                "Esta alavanca já foi puxada."
+            )
+        end
+
+        doCreateTeleport(path.teleport_id, path.destination, path.position)
+        addEvent(
+            function()
+                local teleport = getThingFromPosition(path.position)
+
+                if teleport.itemid == path.teleport_id then
+                    doRemoveItem(teleport.uid, 1)
+                end
+            end,
+            path.minutes_duration * 60 * 1000
+        )
+    end
+
+    if item.itemid == 1945 then
+        doTransformItem(item.uid, 1946)
     else
-        doTransformItem(item.uid, 9828)
+        doTransformItem(item.uid, 1945)
     end
     return true
 end
