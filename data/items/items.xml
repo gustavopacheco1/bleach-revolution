@@ -108,11 +108,9 @@
 	<item id="413" article="a" name="stone tile" />
 	<item id="414" article="a" name="tiled floor" />
 	<item id="415" article="a" name="stone tile" />
-	<item id="416" article="a" name="stone tile">
+	<item fromid="416" toid="417" article="a" name="stone tile">
 		<attribute key="description" value="It seems to be a switch." />
-	</item>
-	<item id="417" article="a" name="stone tile">
-		<attribute key="description" value="It seems to be a switch." />
+		<attribute key="walkStack" value="0" />
 	</item>
 	<item id="418" article="a" name="stone tile">
 		<attribute key="description" value="There is a hole in the ceiling." />
@@ -125,11 +123,9 @@
 		<attribute key="floorchange" value="down" />
 	</item>
 	<item id="424" article="a" name="stone tile" />
-	<item id="425" article="a" name="stone tile">
+	<item fromid="425" toid="426" article="a" name="stone tile">
 		<attribute key="description" value="It seems to be a switch." />
-	</item>
-	<item id="426" article="a" name="stone tile">
-		<attribute key="description" value="It seems to be a switch." />
+		<attribute key="walkStack" value="0" />
 	</item>
 	<item id="427" article="a" name="trapdoor">
 		<attribute key="floorchange" value="down" />
@@ -160,11 +156,9 @@
 	<item id="443" name="wooden floor" />
 	<item id="444" name="wooden floor" />
 	<item id="445" name="wooden floor" />
-	<item id="446" name="wooden floor">
+	<item fromid="446" toid="447" name="wooden floor">
 		<attribute key="description" value="It seems to be a switch." />
-	</item>
-	<item id="447" name="wooden floor">
-		<attribute key="description" value="It seems to be a switch." />
+		<attribute key="walkStack" value="0" />
 	</item>
 	<item id="448" name="wooden floor" />
 	<item id="449" name="wooden floor" />
@@ -7542,54 +7536,16 @@
 	<item id="3167" article="a" name="strange carving" />
 	<item id="3168" article="a" name="strange carving" />
 	<item id="3169" article="a" name="carved stone tile" />
-	<item id="3170" article="a" name="strange carving" />
-	<item id="3171" article="a" name="strange carving" />
-	<item id="3172" article="a" name="strange carving" />
-	<item id="3173" name="ornamented floor" />
-	<item id="3174" name="ornamented floor" />
-	<item id="3175" name="ornamented floor" />
-	<item id="3176" name="ornamented floor" />
-	<item id="3177" article="a" name="carved stone tile" />
-	<item id="3178" name="ornamented floor" />
-	<item id="3179" name="ornamented floor" />
-	<item id="3180" name="ornamented floor" />
-	<item id="3181" name="ornamented floor" />
-	<item id="3182" article="a" name="strange carving" />
-	<item id="3183" article="a" name="strange carving" />
-	<item id="3184" article="a" name="strange carving" />
-	<item id="3185" article="a" name="strange carving" />
-	<item id="3186" article="a" name="strange carving" />
-	<item id="3187" article="a" name="strange carving" />
-	<item id="3188" article="a" name="stone roof" />
-	<item id="3189" article="a" name="stone roof" />
-	<item id="3190" article="a" name="strange carving" />
-	<item id="3191" article="a" name="strange carving" />
-	<item id="3192" article="a" name="strange carving" />
-	<item id="3193" article="a" name="strange carving" />
-	<item id="3194" article="a" name="strange carving" />
-	<item id="3195" article="a" name="strange carving" />
-	<item id="3196" article="a" name="strange carving" />
-	<item id="3197" article="a" name="strange carving" />
-	<item id="3198" article="a" name="strange carving" />
-	<item id="3199" article="a" name="strange carving" />
-	<item id="3200" article="a" name="strange carving" />
-	<item id="3201" article="a" name="strange carving" />
-	<item id="3202" article="a" name="strange carving" />
-	<item id="3203" article="a" name="strange carving" />
-	<item id="3204" article="a" name="strange carving" />
-	<item id="3205" article="a" name="strange carving" />
-	<item id="3206" article="a" name="strange carving" />
-	<item id="3207" article="a" name="strange carving" />
-	<item id="3208" article="a" name="strange carving" />
-	<item id="3209" article="a" name="strange carving" />
-	<item id="3210" article="a" name="strange carving" />
-	<item id="3211" article="a" name="strange carving" />
-	<item id="3212" article="a" name="strange carving" />
-	<item id="3213" article="a" name="strange carving" />
-	<item id="3214" article="a" name="strange carving" />
+	<item fromid="3170" toid="3172" article="a" name="carved stone tile"/>
+	<item fromid="3173" toid="3181" name="ornamented floor"/>
+	<item fromid="3182" toid="3189" name="stone floor"/>
+	<item fromid="3190" toid="3198" name="ornamented floor"/>
+	<item fromid="3199" toid="3214" article="a" name="snake ornament"/>
 	<item id="3215" article="a" name="strange carving" />
-	<item id="3216" article="a" name="wooden tile" />
-	<item id="3217" article="a" name="wooden tile" />
+	<item fromid="3216" toid="3217" article="a" name="wooden tile">
+		<attribute key="description" value="It seems to be a switch." />
+		<attribute key="walkStack" value="0" />
+	</item>
 	<item id="3218" article="a" name="stone roof" />
 	<item id="3219" article="a" name="stone stairway">
 		<attribute key="floorchange" value="down" />
