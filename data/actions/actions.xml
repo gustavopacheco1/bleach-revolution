@@ -10,7 +10,8 @@
 	<action itemid="10624;15820;15122;15411;15730;15819;15431;15091;15823;15423;15424" event="script" value="weapon_soul_upgrade.lua" />
 	
 	<!-- Levers -->
-	<action itemid="1945;1946" script="levers.lua" />
+	<action itemid="1945;1946" script="levers/levers.lua" />
+	<action uniqueid="30001" script="levers/anihilator.lua" />
 
 	<!-- Quests -->
 	<action itemid="15661" script="quest_chests.lua" />
