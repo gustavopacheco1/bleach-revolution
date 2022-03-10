@@ -51,6 +51,7 @@ function onLogin(cid)
     registerCreatureEvent(cid, "LoginReset")
     registerCreatureEvent(cid, "RevertDeath")
     registerCreatureEvent(cid, "Dodge")
+    registerCreatureEvent(cid, "NpcTarget")
     
     if getPlayerLevel(cid) > 1 then setPlayerStorageValue(cid, 171994, 1) end
     doCreatureSetStorage(cid, "save", (os.time() + 120))
