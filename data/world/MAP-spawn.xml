@@ -3853,6 +3853,49 @@
 	<spawn centerx="3590" centery="4098" centerz="6" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3579" centery="4104" centerz="6" radius="1">
+		<monster name="Zangetsu" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3567" centery="4105" centerz="6" radius="1">
+		<monster name="Zangetsu" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3549" centery="4106" centerz="6" radius="1">
+		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3538" centery="4111" centerz="6" radius="1">
+		<monster name="Zangetsu" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3582" centery="4112" centerz="6" radius="1">
+		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3561" centery="4113" centerz="6" radius="1">
+		<monster name="Zangetsu" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3592" centery="4115" centerz="6" radius="1">
+		<monster name="Zangetsu" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3539" centery="4122" centerz="6" radius="1">
+		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3587" centery="4124" centerz="6" radius="1">
+		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3548" centery="4127" centerz="6" radius="1">
+		<monster name="Zangetsu" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3559" centery="4130" centerz="6" radius="1">
+		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3573" centery="4130" centerz="6" radius="1">
+		<monster name="Zangetsu" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="4622" centery="2591" centerz="7" radius="1" />
 	<spawn centerx="4622" centery="2595" centerz="7" radius="1" />
 	<spawn centerx="4622" centery="2599" centerz="7" radius="1" />
@@ -9460,6 +9503,38 @@
 	</spawn>
 	<spawn centerx="3050" centery="3988" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3574" centery="4108" centerz="7" radius="1">
+		<monster name="Zangetsu" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Zangetsu" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3545" centery="4114" centerz="7" radius="1">
+		<monster name="Zangetsu" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Zangetsu" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3573" centery="4116" centerz="7" radius="1">
+		<monster name="Zangetsu" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Zangetsu" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3582" centery="4119" centerz="7" radius="1">
+		<monster name="Zangetsu" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Zangetsu" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3549" centery="4121" centerz="7" radius="1">
+		<monster name="Zangetsu" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Zangetsu" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3556" centery="4121" centerz="7" radius="1">
+		<monster name="Zangetsu" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Zangetsu" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3576" centery="4122" centerz="7" radius="1">
+		<monster name="Zangetsu" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Zangetsu" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3567" centery="4123" centerz="7" radius="1">
+		<monster name="Zangetsu" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Zangetsu" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4671" centery="4127" centerz="7" radius="1" />
 	<spawn centerx="4686" centery="4130" centerz="7" radius="1" />
