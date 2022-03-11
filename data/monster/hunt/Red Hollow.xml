@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <monster name="Red Hollow" nameDescription="Red Hollow" race="blood" experience="150" speed="400" manacost="0">
-    <health now="400000" max="400000" />
+    <health now="60000" max="60000" />
     <look type="65" corpse="5527" />
     <targetchange interval="5000" chance="8" />
     <strategy attack="100" defense="0" />
@@ -35,4 +35,8 @@
     <script>
         <event name="YamamotoTask" />
     </script>
+	
+	<loot>
+        <item id="2160" chance="15000" chance1="129" chancemax="156" count="2" countmax="3"/>
+    </loot>
 </monster>
