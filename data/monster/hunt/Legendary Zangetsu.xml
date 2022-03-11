@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<monster name="Zangetsu Legendary" nameDescription="Zangetsu Legendary" race="blood" experience="0" speed="900" manacost="0">
+<monster name="Legendary Zangetsu" nameDescription="Legendary Zangetsu" race="blood" experience="0" speed="900" manacost="0">
     <health now="700000" max="700000" />
     <look type="169" corpse="5527" />
     <targetchange interval="5000" chance="8" />

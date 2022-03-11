@@ -54,7 +54,7 @@
 	<monster name="Hiroshi Boss Two" file="hunt/Hiroshi Boss Two.xml"/>
 	<monster name="Hiroshin" file="hunt/Hiroshin.xml"/>
 	<monster name="Zangetsu" file="hunt/Zangetsu.xml"/>
-	<monster name="Zangetsu Legendary" file="hunt/Zangetsu Legendary.xml"/>
+	<monster name="Legendary Zangetsu" file="hunt/Legendary Zangetsu.xml"/>
 	<monster name="Zangetsu Legendary Two" file="hunt/Zangetsu Legendary Two.xml"/>
 	<monster name="Zangetsu Legendary Three" file="hunt/Zangetsu Legendary Three.xml"/>
 	<monster name="Arrancar Boss" file="hunt/Arrancar Boss.xml"/>
