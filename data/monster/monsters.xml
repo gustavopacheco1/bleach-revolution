@@ -74,6 +74,7 @@
 	<monster name="Vizard Three" file="hunt/Vizard Three.xml"/>
 	<monster name="Vizard Four" file="hunt/Vizard Four.xml"/>
 	<monster name="Rungokai Bandit" file="hunt/Rungokai Bandit.xml"/>
+	<monster name="Legendary Vizard" file="hunt/Legendary Vizard.xml"/>
 	<!-- Clones -->
 	<monster name="Rukia Clone" file="clones/Rukia Clone.xml"/>
 </monsters>
