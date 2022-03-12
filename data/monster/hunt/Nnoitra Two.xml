@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <monster name="Nnoitra Two" nameDescription="Nnoitra Two" race="blood" experience="150" speed="700" manacost="0">
-    <health now="700000" max="700000" />
+    <health now="100000" max="100000" />
     <look type="336" corpse="5527" />
     <targetchange interval="5000" chance="8" />
     <strategy attack="100" defense="0" />
@@ -35,5 +35,9 @@
 	
 	<loot>
         <item id="2160" chance="15000" count="2" countmax="3"/>
+		<item id="16093" chance="1000" count="1" countmax="1"/>
+		<item id="16094" chance="1000" count="1" countmax="1"/>
+		<item id="16095" chance="1000" count="1" countmax="1"/>
+		<item id="16096" chance="1000" count="1" countmax="1"/>
     </loot>
 </monster>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <monster name="Legendary Zangetsu" nameDescription="Legendary Zangetsu" race="blood" experience="0" speed="900" manacost="0">
-    <health now="700000" max="700000" />
+    <health now="2000000" max="2000000" />
     <look type="169" corpse="5527" />
     <targetchange interval="5000" chance="8" />
     <strategy attack="100" defense="0" />
@@ -32,4 +32,12 @@
         <immunity outfit="1" />
         <immunity invisible="0" />
     </immunities>
+	
+	<loot>
+        <item id="2160" chance="15000" count="20" countmax="25"/>
+		<item id="16107" chance="1000" count="1" countmax="1"/>
+		<item id="16108" chance="1000" count="1" countmax="1"/>
+		<item id="16109" chance="1000" count="1" countmax="1"/>
+		<item id="16110" chance="1000" count="1" countmax="1"/>
+    </loot>
 </monster>

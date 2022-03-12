@@ -418,8 +418,8 @@
 	<spawn centerx="3818" centery="3005" centerz="5" radius="1">
 		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="3498" centery="3013" centerz="5" radius="1">
-		<monster name="Arrancar Boss" x="0" y="0" z="5" spawntime="60" />
+	<spawn centerx="3498" centery="3014" centerz="5" radius="1">
+		<monster name="Arrancar Boss" x="0" y="0" z="5" spawntime="3600" />
 	</spawn>
 	<spawn centerx="4015" centery="3073" centerz="5" radius="1">
 		<monster name="Arrancar Watcher" x="0" y="0" z="5" spawntime="60" />
@@ -14424,7 +14424,7 @@
 	<spawn centerx="3523" centery="3919" centerz="9" radius="1">
 		<monster name="Gilliam" x="0" y="1" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="4237" centery="3988" centerz="9" radius="1">
+	<spawn centerx="4239" centery="3988" centerz="9" radius="1">
 		<monster name="Nnoitra Boss" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3461" centery="4085" centerz="9" radius="1">
