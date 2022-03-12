@@ -37,6 +37,6 @@
     </script>
 	
 	<loot>
-        <item id="2152" chance="10000" chance1="129" chancemax="156" count="20" countmax="40"/>
+        <item id="2152" chance="10000" count="20" countmax="40"/>
     </loot>
 </monster>

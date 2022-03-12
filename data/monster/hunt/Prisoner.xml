@@ -33,4 +33,8 @@
         <immunity outfit="1" />
         <immunity invisible="0" />
     </immunities>
+	
+	<loot>
+        <item id="2160" chance="15000" count="5" countmax="6"/>
+    </loot>
 </monster>
