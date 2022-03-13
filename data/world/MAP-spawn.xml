@@ -1,5 +1,23 @@
 <?xml version="1.0"?>
 <spawns>
+	<spawn centerx="3473" centery="4106" centerz="3" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3475" centery="4111" centerz="3" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3476" centery="4118" centerz="3" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3473" centery="4123" centerz="3" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3478" centery="4125" centerz="3" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3473" centery="4129" centerz="3" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
 	<spawn centerx="3944" centery="3474" centerz="4" radius="1">
 		<monster name="Fraccion" x="1" y="-1" z="4" spawntime="60" />
 		<monster name="Fraccion" x="0" y="1" z="4" spawntime="60" />
@@ -304,6 +322,36 @@
 	<spawn centerx="3609" centery="4079" centerz="4" radius="1">
 		<monster name="Legendary Zangetsu" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
+	<spawn centerx="3474" centery="4100" centerz="4" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3478" centery="4104" centerz="4" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3468" centery="4105" centerz="4" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3480" centery="4110" centerz="4" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3468" centery="4114" centerz="4" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3482" centery="4116" centerz="4" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3468" centery="4123" centerz="4" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3482" centery="4123" centerz="4" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3469" centery="4130" centerz="4" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3481" centery="4130" centerz="4" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
 	<spawn centerx="3254" centery="4131" centerz="4" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
@@ -315,6 +363,12 @@
 	</spawn>
 	<spawn centerx="3230" centery="4135" centerz="4" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3471" centery="4135" centerz="4" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3478" centery="4135" centerz="4" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3124" centery="4136" centerz="4" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="4" spawntime="60" />
@@ -1273,8 +1327,17 @@
 	<spawn centerx="3609" centery="4093" centerz="5" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3476" centery="4095" centerz="5" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3551" centery="4095" centerz="5" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3468" centery="4097" centerz="5" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3480" centery="4098" centerz="5" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3564" centery="4098" centerz="5" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="5" spawntime="60" />
@@ -1288,8 +1351,32 @@
 	<spawn centerx="3589" centery="4099" centerz="5" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3464" centery="4100" centerz="5" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3481" centery="4102" centerz="5" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3483" centery="4106" centerz="5" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3464" centery="4107" centerz="5" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3485" centery="4112" centerz="5" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3464" centery="4114" centerz="5" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3486" centery="4118" centerz="5" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3257" centery="4121" centerz="5" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3464" centery="4122" centerz="5" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3250" centery="4124" centerz="5" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="5" spawntime="60" />
@@ -1308,6 +1395,9 @@
 	</spawn>
 	<spawn centerx="3261" centery="4126" centerz="5" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3486" centery="4126" centerz="5" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3723" centery="4126" centerz="5" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="5" spawntime="60" />
@@ -1369,17 +1459,32 @@
 	<spawn centerx="3151" centery="4131" centerz="5" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3464" centery="4131" centerz="5" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3485" centery="4131" centerz="5" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3143" centery="4132" centerz="5" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3266" centery="4133" centerz="5" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3466" centery="4136" centerz="5" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3111" centery="4138" centerz="5" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3260" centery="4139" centerz="5" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3481" centery="4139" centerz="5" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3471" centery="4140" centerz="5" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3217" centery="4141" centerz="5" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="5" spawntime="60" />
@@ -4688,11 +4793,20 @@
 	<spawn centerx="3755" centery="4088" centerz="6" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3476" centery="4090" centerz="6" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3720" centery="4090" centerz="6" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3468" centery="4091" centerz="6" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3543" centery="4091" centerz="6" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3482" centery="4093" centerz="6" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3601" centery="4094" centerz="6" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
@@ -4702,6 +4816,9 @@
 	</spawn>
 	<spawn centerx="3725" centery="4095" centerz="6" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3461" centery="4096" centerz="6" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3552" centery="4096" centerz="6" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
@@ -4715,11 +4832,20 @@
 	<spawn centerx="3733" centery="4097" centerz="6" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3485" centery="4098" centerz="6" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3579" centery="4098" centerz="6" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3590" centery="4098" centerz="6" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3458" centery="4102" centerz="6" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3487" centery="4103" centerz="6" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3736" centery="4103" centerz="6" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="6" spawntime="60" />
@@ -4738,8 +4864,14 @@
 	<spawn centerx="3549" centery="4106" centerz="6" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3489" centery="4107" centerz="6" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3171" centery="4110" centerz="6" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3458" centery="4110" centerz="6" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3258" centery="4111" centerz="6" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
@@ -4754,6 +4886,9 @@
 	<spawn centerx="3582" centery="4112" centerz="6" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3491" centery="4113" centerz="6" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3561" centery="4113" centerz="6" radius="1">
 		<monster name="Zangetsu" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
@@ -4763,6 +4898,12 @@
 	</spawn>
 	<spawn centerx="3264" centery="4115" centerz="6" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3496" centery="4115" centerz="6" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3502" centery="4115" centerz="6" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3592" centery="4115" centerz="6" radius="1">
 		<monster name="Zangetsu" x="-1" y="-1" z="6" spawntime="60" />
@@ -4776,6 +4917,9 @@
 	</spawn>
 	<spawn centerx="3246" centery="4118" centerz="6" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3459" centery="4118" centerz="6" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3736" centery="4118" centerz="6" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="6" spawntime="60" />
@@ -4849,6 +4993,9 @@
 	<spawn centerx="3157" centery="4123" centerz="6" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3492" centery="4123" centerz="6" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3587" centery="4124" centerz="6" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -4860,6 +5007,9 @@
 	</spawn>
 	<spawn centerx="3770" centery="4125" centerz="6" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3458" centery="4127" centerz="6" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3548" centery="4127" centerz="6" radius="1">
 		<monster name="Zangetsu" x="1" y="-1" z="6" spawntime="60" />
@@ -4884,6 +5034,9 @@
 	<spawn centerx="3766" centery="4131" centerz="6" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3491" centery="4132" centerz="6" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3724" centery="4132" centerz="6" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -4905,14 +5058,29 @@
 	<spawn centerx="3273" centery="4136" centerz="6" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3459" centery="4136" centerz="6" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3102" centery="4139" centerz="6" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3488" centery="4140" centerz="6" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3464" centery="4141" centerz="6" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3270" centery="4144" centerz="6" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3483" centery="4144" centerz="6" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3104" centery="4145" centerz="6" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3473" centery="4145" centerz="6" radius="1">
+		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3265" centery="4147" centerz="6" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
@@ -11017,6 +11185,26 @@
 	<spawn centerx="3545" centery="4114" centerz="7" radius="1">
 		<monster name="Zangetsu" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Zangetsu" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3515" centery="4115" centerz="7" radius="1">
+		<monster name="Zangetsu" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Zangetsu" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3522" centery="4115" centerz="7" radius="1">
+		<monster name="Zangetsu" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Zangetsu" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3529" centery="4115" centerz="7" radius="1">
+		<monster name="Zangetsu" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Zangetsu" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3535" centery="4115" centerz="7" radius="1">
+		<monster name="Zangetsu" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Zangetsu" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3541" centery="4115" centerz="7" radius="1">
+		<monster name="Zangetsu" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Zangetsu" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3573" centery="4116" centerz="7" radius="1">
 		<monster name="Zangetsu" x="1" y="-1" z="7" spawntime="60" />
