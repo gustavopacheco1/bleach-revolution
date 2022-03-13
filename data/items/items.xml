@@ -3454,7 +3454,7 @@
 		<attribute key="weight" value="120" />
 		<attribute key="charges" value="3" />
 	</item>
-	<item id="2278" article="a" name="paralyze rune">
+	<item id="2293" article="a" name="paralyze rune">
 		<attribute key="runeSpellName" value="adana ani" />
 		<attribute key="weight" value="120" />
 		<attribute key="charges" value="1" />
@@ -3518,11 +3518,6 @@
 		<attribute key="runeSpellName" value="adori tera" />
 		<attribute key="weight" value="120" />
 		<attribute key="charges" value="10" />
-	</item>
-	<item id="2293" article="a" name="Santen Kesshun">
-		<attribute key="runeSpellName" value="Santen Kesshun" />
-		<attribute key="weight" value="120" />
-		<attribute key="charges" value="3" />
 	</item>
 	<item id="2294" article="a" name="spell rune">
 		<attribute key="weight" value="120" />

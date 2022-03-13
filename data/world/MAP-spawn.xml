@@ -8033,7 +8033,7 @@
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3580" centery="3464" centerz="7" radius="1">
-		<npc name="Ururu Tsumugiya" x="0" y="0" z="7" spawntime="60" />
+		<npc name="Ururu Tsumugiya" x="0" y="0" z="7" spawntime="0" />
 	</spawn>
 	<spawn centerx="3006" centery="3465" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="-1" z="7" spawntime="60" />
