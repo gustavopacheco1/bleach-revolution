@@ -3446,6 +3446,18 @@
 	<item id="2275" article="a" name="Upgrade Stone">
 		<attribute key="weight" value="120" />
 	</item>
+	<item id="16131" article="a" name="green diamond">
+		<attribute key="weight" value="120" />
+	</item>
+	<item id="16132" article="a" name="orange diamond">
+		<attribute key="weight" value="120" />
+	</item>
+	<item id="16133" article="a" name="blue diamond">
+		<attribute key="weight" value="120" />
+	</item>
+	<item id="16134" article="a" name="red diamond">
+		<attribute key="weight" value="120" />
+	</item>
 	<item id="2276" article="a" name="spell rune">
 		<attribute key="weight" value="120" />
 	</item>

@@ -108,11 +108,9 @@
 	<item id="413" article="a" name="stone tile" />
 	<item id="414" article="a" name="tiled floor" />
 	<item id="415" article="a" name="stone tile" />
-	<item id="416" article="a" name="stone tile">
+	<item fromid="416" toid="417" article="a" name="stone tile">
 		<attribute key="description" value="It seems to be a switch." />
-	</item>
-	<item id="417" article="a" name="stone tile">
-		<attribute key="description" value="It seems to be a switch." />
+		<attribute key="walkStack" value="0" />
 	</item>
 	<item id="418" article="a" name="stone tile">
 		<attribute key="description" value="There is a hole in the ceiling." />
@@ -125,11 +123,9 @@
 		<attribute key="floorchange" value="down" />
 	</item>
 	<item id="424" article="a" name="stone tile" />
-	<item id="425" article="a" name="stone tile">
+	<item fromid="425" toid="426" article="a" name="stone tile">
 		<attribute key="description" value="It seems to be a switch." />
-	</item>
-	<item id="426" article="a" name="stone tile">
-		<attribute key="description" value="It seems to be a switch." />
+		<attribute key="walkStack" value="0" />
 	</item>
 	<item id="427" article="a" name="trapdoor">
 		<attribute key="floorchange" value="down" />
@@ -160,11 +156,9 @@
 	<item id="443" name="wooden floor" />
 	<item id="444" name="wooden floor" />
 	<item id="445" name="wooden floor" />
-	<item id="446" name="wooden floor">
+	<item fromid="446" toid="447" name="wooden floor">
 		<attribute key="description" value="It seems to be a switch." />
-	</item>
-	<item id="447" name="wooden floor">
-		<attribute key="description" value="It seems to be a switch." />
+		<attribute key="walkStack" value="0" />
 	</item>
 	<item id="448" name="wooden floor" />
 	<item id="449" name="wooden floor" />
@@ -3452,6 +3446,18 @@
 	<item id="2275" article="a" name="Upgrade Stone">
 		<attribute key="weight" value="120" />
 	</item>
+	<item id="16131" article="a" name="green diamond">
+		<attribute key="weight" value="120" />
+	</item>
+	<item id="16132" article="a" name="orange diamond">
+		<attribute key="weight" value="120" />
+	</item>
+	<item id="16133" article="a" name="blue diamond">
+		<attribute key="weight" value="120" />
+	</item>
+	<item id="16134" article="a" name="red diamond">
+		<attribute key="weight" value="120" />
+	</item>
 	<item id="2276" article="a" name="spell rune">
 		<attribute key="weight" value="120" />
 	</item>
@@ -3460,7 +3466,7 @@
 		<attribute key="weight" value="120" />
 		<attribute key="charges" value="3" />
 	</item>
-	<item id="2278" article="a" name="paralyze rune">
+	<item id="2293" article="a" name="paralyze rune">
 		<attribute key="runeSpellName" value="adana ani" />
 		<attribute key="weight" value="120" />
 		<attribute key="charges" value="1" />
@@ -3524,11 +3530,6 @@
 		<attribute key="runeSpellName" value="adori tera" />
 		<attribute key="weight" value="120" />
 		<attribute key="charges" value="10" />
-	</item>
-	<item id="2293" article="a" name="Santen Kesshun">
-		<attribute key="runeSpellName" value="Santen Kesshun" />
-		<attribute key="weight" value="120" />
-		<attribute key="charges" value="3" />
 	</item>
 	<item id="2294" article="a" name="spell rune">
 		<attribute key="weight" value="120" />
@@ -7542,54 +7543,16 @@
 	<item id="3167" article="a" name="strange carving" />
 	<item id="3168" article="a" name="strange carving" />
 	<item id="3169" article="a" name="carved stone tile" />
-	<item id="3170" article="a" name="strange carving" />
-	<item id="3171" article="a" name="strange carving" />
-	<item id="3172" article="a" name="strange carving" />
-	<item id="3173" name="ornamented floor" />
-	<item id="3174" name="ornamented floor" />
-	<item id="3175" name="ornamented floor" />
-	<item id="3176" name="ornamented floor" />
-	<item id="3177" article="a" name="carved stone tile" />
-	<item id="3178" name="ornamented floor" />
-	<item id="3179" name="ornamented floor" />
-	<item id="3180" name="ornamented floor" />
-	<item id="3181" name="ornamented floor" />
-	<item id="3182" article="a" name="strange carving" />
-	<item id="3183" article="a" name="strange carving" />
-	<item id="3184" article="a" name="strange carving" />
-	<item id="3185" article="a" name="strange carving" />
-	<item id="3186" article="a" name="strange carving" />
-	<item id="3187" article="a" name="strange carving" />
-	<item id="3188" article="a" name="stone roof" />
-	<item id="3189" article="a" name="stone roof" />
-	<item id="3190" article="a" name="strange carving" />
-	<item id="3191" article="a" name="strange carving" />
-	<item id="3192" article="a" name="strange carving" />
-	<item id="3193" article="a" name="strange carving" />
-	<item id="3194" article="a" name="strange carving" />
-	<item id="3195" article="a" name="strange carving" />
-	<item id="3196" article="a" name="strange carving" />
-	<item id="3197" article="a" name="strange carving" />
-	<item id="3198" article="a" name="strange carving" />
-	<item id="3199" article="a" name="strange carving" />
-	<item id="3200" article="a" name="strange carving" />
-	<item id="3201" article="a" name="strange carving" />
-	<item id="3202" article="a" name="strange carving" />
-	<item id="3203" article="a" name="strange carving" />
-	<item id="3204" article="a" name="strange carving" />
-	<item id="3205" article="a" name="strange carving" />
-	<item id="3206" article="a" name="strange carving" />
-	<item id="3207" article="a" name="strange carving" />
-	<item id="3208" article="a" name="strange carving" />
-	<item id="3209" article="a" name="strange carving" />
-	<item id="3210" article="a" name="strange carving" />
-	<item id="3211" article="a" name="strange carving" />
-	<item id="3212" article="a" name="strange carving" />
-	<item id="3213" article="a" name="strange carving" />
-	<item id="3214" article="a" name="strange carving" />
+	<item fromid="3170" toid="3172" article="a" name="carved stone tile"/>
+	<item fromid="3173" toid="3181" name="ornamented floor"/>
+	<item fromid="3182" toid="3189" name="stone floor"/>
+	<item fromid="3190" toid="3198" name="ornamented floor"/>
+	<item fromid="3199" toid="3214" article="a" name="snake ornament"/>
 	<item id="3215" article="a" name="strange carving" />
-	<item id="3216" article="a" name="wooden tile" />
-	<item id="3217" article="a" name="wooden tile" />
+	<item fromid="3216" toid="3217" article="a" name="wooden tile">
+		<attribute key="description" value="It seems to be a switch." />
+		<attribute key="walkStack" value="0" />
+	</item>
 	<item id="3218" article="a" name="stone roof" />
 	<item id="3219" article="a" name="stone stairway">
 		<attribute key="floorchange" value="down" />
@@ -21763,6 +21726,18 @@
 	<item fromid="10562" toid="10569" name="garganta">
 		<attribute key="type" value="teleport" />
 	</item>
+	<item id="10624" name="great soul stone">
+		<attribute key="weight" value="20" />
+	</item>
+	<item id="10625" name="ultimate soul stone">
+		<attribute key="weight" value="20" />
+	</item>
+	<item id="10626" name="supreme soul stone">
+		<attribute key="weight" value="20" />
+	</item>
+	<item id="10627" name="perfect soul stone">
+		<attribute key="weight" value="20" />
+	</item>
 	<item id="20001" name="water" />
 	<item id="20002" name="blood" />
 	<item id="20003" name="beer" />
@@ -22435,7 +22410,7 @@
 		<attribute key="slotType" value="necklace" />
 		<attribute key="showattributes" value="1" />
 	</item>
-	<item id="15799" name="Blue Amulet">
+	<item id="15799" name="Focus Snake Amulet">
 		<attribute key="weight" value="500" />
 		<attribute key="absorbPercentAll" value="2" />
 		<attribute key="magicpoints" value="3" />
@@ -22455,7 +22430,7 @@
 		<attribute key="slotType" value="necklace" />
 		<attribute key="showattributes" value="1" />
 	</item>
-	<item id="15800" name="Yellowblu Amulet">
+	<item id="15800" name="Concentrate Snake Amulet">
 		<attribute key="weight" value="500" />
 		<attribute key="absorbPercentAll" value="3" />
 		<attribute key="magicpoints" value="1" />
@@ -22509,7 +22484,6 @@
 		<attribute key="attack" value="40" />
 		<attribute key="weaponType" value="axe" />
 	</item>
-	
 	<item id="15721" article="an" name="Founder Distance">
 		<attribute key="weight" value="200" />
 		<attribute key="attack" value="40" />
@@ -22525,36 +22499,33 @@
 		<attribute key="attack" value="10" />
 		<attribute key="weaponType" value="sword" />
 	</item>
-
-	
 	<item id="15122" name="Bankai Zangetsu">
 		<attribute key="weight" value="2500" />
 		<attribute key="defense" value="45" />
 		<attribute key="attack" value="50" />
 		<attribute key="weaponType" value="sword" />
+		<attribute key="description" value="Soul: 0" />
 	</item>
-	
 	<item id="15411" name="Legendary Bankai Zangetsu">
 		<attribute key="weight" value="2500" />
 		<attribute key="defense" value="55" />
 		<attribute key="attack" value="60" />
 		<attribute key="weaponType" value="sword" />
+		<attribute key="description" value="Soul: 0" />
 	</item>
-	
-	<item id="15412" name="Especial Bankai Zangetsu">
+	<item id="15412" name="Ultimate Bankai Zangetsu">
 		<attribute key="weight" value="2500" />
 		<attribute key="defense" value="65" />
 		<attribute key="attack" value="70" />
 		<attribute key="weaponType" value="sword" />
 	</item>
-	
 	<item id="15820" name="Zangetsu">
 		<attribute key="weight" value="2500" />
 		<attribute key="defense" value="40" />
 		<attribute key="attack" value="45" />
 		<attribute key="weaponType" value="sword" />
+		<attribute key="description" value="Soul: 0" />
 	</item>
-	
 	
 	<!-- Gloves -->
 	<item id="15819" name="Brazo El Diablo">
@@ -22562,37 +22533,35 @@
 		<attribute key="defense" value="45" />
 		<attribute key="attack" value="50" />
 		<attribute key="weaponType" value="axe" />
+		<attribute key="description" value="Soul: 0" />
 	</item>
-	
 	<item id="15431" name="Legendary Brazo El Diablo">
 		<attribute key="weight" value="2500" />
 		<attribute key="defense" value="55" />
 		<attribute key="attack" value="60" />
 		<attribute key="weaponType" value="axe" />
+		<attribute key="description" value="Soul: 0" />
 	</item>
-	
-	<item id="15432" name="Especial Brazo El Diablo">
+	<item id="15432" name="Ultimate Brazo El Diablo">
 		<attribute key="weight" value="2500" />
 		<attribute key="defense" value="65" />
 		<attribute key="attack" value="70" />
 		<attribute key="weaponType" value="axe" />
 	</item>
-	
 	<item id="15808" name="Shinigami Glove">
 		<attribute key="weight" value="2500" />
 		<attribute key="defense" value="8" />
 		<attribute key="attack" value="10" />
 		<attribute key="weaponType" value="axe" />
 	</item>
-
-	
 	<item id="15730" name="El Diablo Glove">
 		<attribute key="weight" value="2500" />
 		<attribute key="defense" value="25" />
 		<attribute key="attack" value="60" />
 		<attribute key="weaponType" value="axe" />
+		<attribute key="description" value="Soul: 0" />
 	</item>
-	
+
 	<!-- Distance -->
 	<item id="15823" article="an" name="Lanza Del Relampago">
 		<attribute key="weight" value="200" />
@@ -22600,24 +22569,23 @@
 		<attribute key="weaponType" value="distance" />
 		<attribute key="range" value="10" />
 		<attribute key="hitChance" value="100" />
+		<attribute key="description" value="Soul: 0" />
 	</item>
-	
 	<item id="15423" article="an" name="Legendary Lanza Del Relampago">
 		<attribute key="weight" value="200" />
 		<attribute key="attack" value="60" />
 		<attribute key="weaponType" value="distance" />
 		<attribute key="range" value="10" />
 		<attribute key="hitChance" value="100" />
+		<attribute key="description" value="Soul: 0" />
 	</item>
-	
-	<item id="15424" article="an" name="Especial Lanza Del Relampago">
+	<item id="15424" article="an" name="Ultimate Lanza Del Relampago">
 		<attribute key="weight" value="200" />
 		<attribute key="attack" value="70" />
 		<attribute key="weaponType" value="distance" />
 		<attribute key="range" value="10" />
 		<attribute key="hitChance" value="100" />
 	</item>
-	
 	<item id="15090" article="an" name="Inicial Bow">
 		<attribute key="weight" value="200" />
 		<attribute key="attack" value="10" />
@@ -22625,13 +22593,12 @@
 		<attribute key="range" value="10" />
 		<attribute key="hitChance" value="100" />
 	</item>
-	
 	<item id="15091" article="an" name="Quincy Bow">
 		<attribute key="weight" value="200" />
 		<attribute key="attack" value="25" />
 		<attribute key="weaponType" value="distance" />
 		<attribute key="range" value="10" />
 		<attribute key="hitChance" value="100" />
+		<attribute key="description" value="Soul: 0" />
 	</item>
-	
 </items>
