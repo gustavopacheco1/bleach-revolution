@@ -27,7 +27,4 @@
     <event type="statschange" name="Dodge" event="script" value="spells/dodge.lua"/>
     <event type="statschange" name="ReflectSooZabimaru" event="script" value="spells/reflect_soo_zabimaru.lua"/>
     <event type="statschange" name="ReflectNozarashi" event="script" value="spells/reflect_nozarashi.lua"/>
-    <event type="statschange" name="InvisibleSpellStats" event="script" value="spells/invisible.lua"/>
-    <event type="attack" name="InvisibleSpellAttack" event="script" value="spells/invisible.lua"/>
-    <event type="target" name="InvisibleSpellTarget" event="script" value="spells/invisible.lua"/>
 </creaturescripts>

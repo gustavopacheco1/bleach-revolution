@@ -14,20 +14,16 @@ function onCastSpell(cid, var)
     doCreatureSetLookDir(clone, getCreatureLookDir(cid))
     doCreatureSetHideHealth(clone, true)
 
+    doCreatureAddHealth(cid, getCreatureMaxHealth(cid))
+    setPlayerGroupId(cid, 8)
     doCreatureExecuteTalkAction(cid, "###invisible", true)
     doSetCreatureOutfit(cid, {lookType = 0}, (spell.duration - 0.25) * 1000)
     setCreatureTarget(cid, nil)
     
-	registerCreatureEvent(cid, "InvisibleSpellStats")
-	registerCreatureEvent(cid, "InvisibleSpellAttack")
-	registerCreatureEvent(cid, "InvisibleSpellTarget")
-
     addEvent(function()
         if isCreature(cid) then
             doCreatureExecuteTalkAction(cid, "###invisible", true)
-            unregisterCreatureEvent(cid, "InvisibleSpellStats")
-	        unregisterCreatureEvent(cid, "InvisibleSpellAttack")
-	        unregisterCreatureEvent(cid, "InvisibleSpellTarget")
+            setPlayerGroupId(cid, 1)
         end
         if isCreature(clone) then
             doSendMagicEffect(getCreaturePosition(clone), 2)
