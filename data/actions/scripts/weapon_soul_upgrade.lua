@@ -13,7 +13,10 @@ local weapons = {
 }
 
 local upgrade_items_id = {
-    [10624] = {soul_upgrade = 1000}
+    [10624] = {soul_upgrade = 20},
+	[10625] = {soul_upgrade = 30},
+	[10626] = {soul_upgrade = 40},
+	[10627] = {soul_upgrade = 50}
 }
 
 function onUse(cid, item, fromPosition, itemEx, toPosition)

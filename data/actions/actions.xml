@@ -7,7 +7,7 @@
 	<action itemid="16111;16112;16113;16114;16116;16117;16118" event="script" value="potions.lua"/>
 
 	<!-- Weapon Soul Upgrade -->
-	<action itemid="10624;15820;15122;15411;15730;15819;15431;15091;15823;15423;15424" event="script" value="weapon_soul_upgrade.lua" />
+	<action itemid="10624;10625;10626;10627;15820;15122;15411;15730;15819;15431;15091;15823;15423;15424" event="script" value="weapon_soul_upgrade.lua" />
 	
 	<!-- Levers -->
 	<action itemid="1945;1946" script="levers/levers.lua" />

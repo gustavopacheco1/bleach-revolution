@@ -21722,6 +21722,15 @@
 	<item id="10624" name="great soul stone">
 		<attribute key="weight" value="20" />
 	</item>
+	<item id="10625" name="ultimate soul stone">
+		<attribute key="weight" value="20" />
+	</item>
+	<item id="10626" name="supreme soul stone">
+		<attribute key="weight" value="20" />
+	</item>
+	<item id="10627" name="perfect soul stone">
+		<attribute key="weight" value="20" />
+	</item>
 	<item id="20001" name="water" />
 	<item id="20002" name="blood" />
 	<item id="20003" name="beer" />
