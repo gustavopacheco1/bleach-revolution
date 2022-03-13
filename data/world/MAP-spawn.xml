@@ -12164,7 +12164,7 @@
 		<monster name="Red Hollow" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3240" centery="3330" centerz="8" radius="1">
-		<monster name="Red Hollow" x="1" y="1" z="8" spawntime="60" />
+		<monster name="Red Hollow" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3215" centery="3332" centerz="8" radius="1">
 		<monster name="Red Hollow" x="0" y="-1" z="8" spawntime="60" />
