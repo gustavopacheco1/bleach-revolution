@@ -71,9 +71,9 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 
         doSendMagicEffect({
             x = toPosition.x + 2,
-            y = toPosition.y + 2,
+            y = toPosition.y + 1,
             z = toPosition.z
-        }, 725)
+        }, 600)
 
         doTransformItem(item.uid, weapon.upgrade_to)
         if weapons[getItemInfo(weapon.upgrade_to).name] then
