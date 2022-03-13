@@ -76,6 +76,7 @@
 	<monster name="Rungokai Bandit" file="hunt/Rungokai Bandit.xml"/>
 	<monster name="Legendary Vizard" file="hunt/Legendary Vizard.xml"/>
 	<monster name="Menos" file="hunt/Menos.xml"/>
+	<monster name="Legendary menos" file="hunt/Legendary Menos.xml"/>
 	
 	<!-- Clones -->
 	<monster name="Rukia Clone" file="clones/Rukia Clone.xml"/>
