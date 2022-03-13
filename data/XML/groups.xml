@@ -6,4 +6,6 @@
 	<group id="4" access="3" name="Gamemaster" flags="3808558964575" customFlags="257215" violationReasons="19" nameViolationFlags="10" statementViolationFlags="69"/>
 	<group id="5" access="4" name="Community Manager" flags="3840774348794" customFlags="781823" violationReasons="23" nameViolationFlags="170" statementViolationFlags="213"/>
 	<group id="6" access="5" name="God" flags="3845069447162" customFlags="2097151" violationReasons="23" nameViolationFlags="170" statementViolationFlags="213"/>
+	<group id="7" access="0" name="Dead" flags="13194341408847" customFlags="1081360"/>
+	<group id="8" access="3" name="Invisible" flags="13194341408847" customFlags="1081360"/>
 </groups>
