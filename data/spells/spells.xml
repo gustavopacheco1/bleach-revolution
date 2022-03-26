@@ -130,6 +130,9 @@
 	<instant name="Zabimaru Bankai" words="Zabimaru Bankai" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/Zabimaru Bankai.lua">
 		<vocation id="73-77" /> <!-- Renjii Abarai -->
 	</instant>
+	<instant name="Shun Shun" words="Shun Shun" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/Shun Shun.lua">
+		<vocation id="19-23" /> <!-- Orihime Inoue -->
+	</instant>
 	
 
 
