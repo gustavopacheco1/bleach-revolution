@@ -148,6 +148,9 @@
 	<instant name="Jie Jin Minazuki" words="Jie Jin Minazuki" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/Jie Jin Minazuki.lua">
 		<vocation id="67-71" /> <!-- Retsu Unohana -->
 	</instant>
+	<instant name="Sado Yasutora" words="Sado Yasutora" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/Sado Yasutora.lua">
+		<vocation id="7-11" /> <!-- Chad -->
+	</instant>
 	
 
 
