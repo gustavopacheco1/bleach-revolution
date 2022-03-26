@@ -154,6 +154,9 @@
 	<instant name="Harribel" words="Harribel" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/Harribel.lua">
 		<vocation id="91-95" /> <!-- Tier Halibel -->
 	</instant>
+	<instant name="Fullbringer" words="Fullbringer" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/Fullbringer.lua">
+		<vocation id="85-89" />  <!-- Kuugo Ginjou -->
+	</instant>
 	
 
 
