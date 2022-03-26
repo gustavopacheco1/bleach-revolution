@@ -139,6 +139,9 @@
 	<instant name="Senbonzakura Kageyoshi" words="Senbonzakura Kageyoshi" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/Senbonzakura Kageyoshi.lua">
 		<vocation id="43-47" /> <!-- Byakuya Kuchiki -->
 	</instant>
+	<instant name="Nel Tu" words="Nel Tu" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/Nel Tu.lua">
+		<vocation id="61-65" /> <!-- Nelliel Odelschwanck -->
+	</instant>
 	
 
 
