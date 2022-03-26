@@ -133,6 +133,9 @@
 	<instant name="Shun Shun" words="Shun Shun" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/Shun Shun.lua">
 		<vocation id="19-23" /> <!-- Orihime Inoue -->
 	</instant>
+	<instant name="Daiguren Hyourinmaru" words="Daiguren Hyourinmaru" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/Daiguren Hyourinmaru.lua">
+		<vocation id="49-53" /> <!-- Toshiro Histugaya -->
+	</instant>
 	
 
 
