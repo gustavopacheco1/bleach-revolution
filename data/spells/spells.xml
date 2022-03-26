@@ -112,9 +112,6 @@
 	<instant name="Vasto Lorde" words="Vasto Lorde" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/Vasto Lorde.lua">
 		<vocation id="1-6" /> <!-- Ichigo Kurosaki -->
 	</instant>
-	<instant name="Ransotengai" words="Ransotengai" aggressive="0" prem="0" selftarget="1" lvl="450" mana="1000" exhaustion="1000" event="script" value="special/buffs/ransotengai.lua">
-		<vocation id="25-29" /> <!-- Uryu Ishida -->
-	</instant>
 	<instant name="Burner Full" words="Burner Full" aggressive="0" prem="0" selftarget="1" lvl="450" mana="1000" exhaustion="1000" event="script" value="special/buffs/burner_full.lua">
 		<vocation id="13-17" /> <!-- Bazz-B -->
 	</instant>
@@ -153,6 +150,9 @@
 	</instant>
 	<instant name="Kamishini no Yari" words="Kamishini no Yari" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/Kamishini no Yari.lua">
 		<vocation id="79-83" /> <!-- Gin Ichimaru -->
+	</instant>
+	<instant name="Harribel" words="Harribel" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/Harribel.lua">
+		<vocation id="91-95" /> <!-- Tier Halibel -->
 	</instant>
 	
 
