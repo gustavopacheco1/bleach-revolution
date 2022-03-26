@@ -136,6 +136,9 @@
 	<instant name="Daiguren Hyourinmaru" words="Daiguren Hyourinmaru" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/Daiguren Hyourinmaru.lua">
 		<vocation id="49-53" /> <!-- Toshiro Histugaya -->
 	</instant>
+	<instant name="Senbonzakura Kageyoshi" words="Senbonzakura Kageyoshi" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/Senbonzakura Kageyoshi.lua">
+		<vocation id="43-47" /> <!-- Byakuya Kuchiki -->
+	</instant>
 	
 
 
