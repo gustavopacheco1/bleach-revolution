@@ -121,6 +121,10 @@
 	<instant name="Brazo Izquierdo Del Diablo" words="Brazo Izquierdo Del Diablo" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/Brazo Izquierdo Del Diablo.lua">
 		<vocation id="7-11" /> <!-- Chad -->
 	</instant>
+	<instant name="Hakka No Togame" words="Hakka No Togame" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/Hakka No Togame.lua">
+		<vocation id="55-61" /> <!-- Rukia Kuchiki -->
+	</instant>
+	
 
 
 	<!-- Attack -->
