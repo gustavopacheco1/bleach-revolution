@@ -142,6 +142,9 @@
 	<instant name="Nel Tu" words="Nel Tu" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/Nel Tu.lua">
 		<vocation id="61-65" /> <!-- Nelliel Odelschwanck -->
 	</instant>
+	<instant name="Segunda Etapa" words="Segunda Etapa" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/Segunda Etapa.lua">
+		<vocation id="31-35" /> <!-- Ulquiorra Ciffer -->
+	</instant>
 	
 
 
