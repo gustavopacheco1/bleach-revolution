@@ -124,6 +124,9 @@
 	<instant name="Hakka No Togame" words="Hakka No Togame" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/Hakka No Togame.lua">
 		<vocation id="55-61" /> <!-- Rukia Kuchiki -->
 	</instant>
+	<instant name="Quincy Vollstandig" words="Quincy Vollstandig" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/Quincy Vollstandig.lua">
+		<vocation id="25-29" /> <!-- Uryu Ishida -->
+	</instant>
 	
 
 
