@@ -151,6 +151,9 @@
 	<instant name="Sado Yasutora" words="Sado Yasutora" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/Sado Yasutora.lua">
 		<vocation id="7-11" /> <!-- Chad -->
 	</instant>
+	<instant name="Kamishini no Yari" words="Kamishini no Yari" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" event="script" value="special/buffs/Kamishini no Yari.lua">
+		<vocation id="79-83" /> <!-- Gin Ichimaru -->
+	</instant>
 	
 
 
@@ -207,7 +210,7 @@
 		<vocation id="91-95" /> <!-- Tier Halibel -->
 	</instant>
 	<instant name="Tensho Area" words="Tensho Area" lvl="200" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Tensho Area.lua">
-		<vocation id="85-89" /> <!-- Tier Halibel -->
+		<vocation id="85-89" />  <!-- Kuugo Ginjou -->
 	</instant>
 	<instant name="Benihime Area" words="Benihime Area" lvl="200" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Benihime Area.lua">
 		<vocation id="98-102" /> <!-- Urahara Kisuke -->
