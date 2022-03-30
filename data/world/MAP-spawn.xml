@@ -819,17 +819,41 @@
 	<spawn centerx="3612" centery="3621" centerz="5" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="4253" centery="3621" centerz="5" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4248" centery="3622" centerz="5" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3620" centery="3623" centerz="5" radius="1">
 		<monster name="Fishbone D" x="1" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="4243" centery="3623" centerz="5" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4258" centery="3623" centerz="5" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3633" centery="3624" centerz="5" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4240" centery="3627" centerz="5" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4262" centery="3627" centerz="5" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3612" centery="3630" centerz="5" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3633" centery="3632" centerz="5" radius="1">
 		<monster name="Fishbone D" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4240" centery="3632" centerz="5" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4264" centery="3632" centerz="5" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3262" centery="3633" centerz="5" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
@@ -845,6 +869,15 @@
 	</spawn>
 	<spawn centerx="3285" centery="3636" centerz="5" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4252" centery="3636" centerz="5" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4239" centery="3637" centerz="5" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4266" centery="3637" centerz="5" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3258" centery="3638" centerz="5" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
@@ -867,14 +900,29 @@
 	<spawn centerx="3280" centery="3640" centerz="5" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="4250" centery="3641" centerz="5" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3286" centery="3642" centerz="5" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4239" centery="3642" centerz="5" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4265" centery="3643" centerz="5" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3276" centery="3645" centerz="5" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="4249" centery="3645" centerz="5" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3258" centery="3646" centerz="5" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4261" centery="3646" centerz="5" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3110" centery="3647" centerz="5" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="5" spawntime="60" />
@@ -891,8 +939,14 @@
 	<spawn centerx="3127" centery="3648" centerz="5" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="4241" centery="3648" centerz="5" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3103" centery="3649" centerz="5" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4257" centery="3649" centerz="5" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3263" centery="3650" centerz="5" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
@@ -902,6 +956,12 @@
 	</spawn>
 	<spawn centerx="3278" centery="3650" centerz="5" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4247" centery="3650" centerz="5" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4252" centery="3650" centerz="5" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3109" centery="3652" centerz="5" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="5" spawntime="60" />
@@ -4138,11 +4198,17 @@
 	<spawn centerx="4243" centery="3613" centerz="6" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="4253" centery="3613" centerz="6" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3035" centery="3614" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3618" centery="3614" centerz="6" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4235" centery="3614" centerz="6" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3419" centery="3615" centerz="6" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
@@ -4158,6 +4224,9 @@
 	</spawn>
 	<spawn centerx="3039" centery="3618" centerz="6" radius="1">
 		<monster name="Hollow Wolf" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4266" centery="3620" centerz="6" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3611" centery="3621" centerz="6" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
@@ -4236,6 +4305,9 @@
 	</spawn>
 	<spawn centerx="3634" centery="3634" centerz="6" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4273" centery="3634" centerz="6" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3274" centery="3635" centerz="6" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="6" spawntime="60" />
@@ -4366,11 +4438,17 @@
 	<spawn centerx="3275" centery="3650" centerz="6" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="4269" centery="3650" centerz="6" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3124" centery="3652" centerz="6" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3109" centery="3653" centerz="6" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4232" centery="3653" centerz="6" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3115" centery="3654" centerz="6" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="6" spawntime="60" />
@@ -4420,8 +4498,14 @@
 	<spawn centerx="4239" centery="3660" centerz="6" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="4247" centery="3660" centerz="6" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3185" centery="3661" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4254" centery="3661" centerz="6" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3212" centery="3662" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
