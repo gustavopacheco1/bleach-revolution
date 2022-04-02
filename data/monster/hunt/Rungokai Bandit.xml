@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<monster name="Rungokai Bandit" nameDescription="Rungokai Bandit" race="blood" experience="220" speed="100" manacost="0">
-    <health now="10000" max="10000" />
+<monster name="Rungokai Bandit" nameDescription="Rungokai Bandit" race="blood" experience="1000" speed="100" manacost="0">
+    <health now="1500" max="15000" />
     <look type="338" corpse="5527" />
     <targetchange interval="5000" chance="8" />
     <strategy attack="100" defense="0" />

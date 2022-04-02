@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<monster name="Urahara Three" nameDescription="Urahara Three" race="blood" experience="2000" speed="300" manacost="0">
-    <health now="70000" max="70000" />
+<monster name="Urahara Three" nameDescription="Urahara Three" race="blood" experience="25000" speed="6000" manacost="0">
+    <health now="60000" max="60000" />
     <look type="257" corpse="5527" />
     <targetchange interval="5000" chance="8" />
     <strategy attack="100" defense="0" />

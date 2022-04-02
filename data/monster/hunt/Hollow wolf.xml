@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<monster name="Hollow Wolf" nameDescription="Hollow Wolf" race="blood" experience="500" speed="100" manacost="0">
-    <health now="300" max="300" />
+<monster name="Hollow Wolf" nameDescription="Hollow Wolf" race="blood" experience="2000" speed="100" manacost="0">
+    <health now="1700" max="1700" />
     <look type="118" corpse="5527" />
     <targetchange interval="5000" chance="8" />
     <strategy attack="100" defense="0" />

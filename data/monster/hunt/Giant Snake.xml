@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<monster name="Giant Snake" nameDescription="Giant Snake" race="blood" experience="2900" speed="300" manacost="0">
-    <health now="90000" max="90000" />
+<monster name="Giant Snake" nameDescription="Giant Snake" race="blood" experience="15000" speed="500" manacost="0">
+    <health now="40000" max="40000" />
     <look type="32" corpse="5527" />
     <targetchange interval="5000" chance="8" />
     <strategy attack="100" defense="0" />

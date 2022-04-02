@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<monster name="Zangetsu" nameDescription="Zangetsu" race="blood" experience="150" speed="900" manacost="0">
-    <health now="700000" max="700000" />
+<monster name="Zangetsu" nameDescription="Zangetsu" race="blood" experience="35000" speed="600" manacost="0">
+    <health now="50000" max="50000" />
     <look type="169" corpse="5527" />
     <targetchange interval="5000" chance="8" />
     <strategy attack="100" defense="0" />

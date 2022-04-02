@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<monster name="Menos" nameDescription="Menos" race="blood" experience="150" speed="700" manacost="0">
-    <health now="100000" max="100000" />
+<monster name="Menos" nameDescription="Menos" race="blood" experience="3500" speed="600" manacost="0">
+    <health now="55000" max="55000" />
     <look type="341" corpse="5527" />
     <targetchange interval="5000" chance="8" />
     <strategy attack="100" defense="0" />

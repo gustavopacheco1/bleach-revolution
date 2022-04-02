@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<monster name="Fraccion" nameDescription="Fraccion" race="blood" experience="30000" speed="350" manacost="0">
+<monster name="Fraccion" nameDescription="Fraccion" race="blood" experience="25000" speed="600" manacost="0">
     <health now="50000" max="50000" />
     <look type="10" corpse="5527" />
     <targetchange interval="5000" chance="8" />

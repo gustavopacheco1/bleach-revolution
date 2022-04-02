@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<monster name="Grand Fisher Lv 2" nameDescription="Grande Fisher Lv 2" race="blood" experience="45000" speed="450" manacost="0">
-    <health now="50000" max="50000" />
+<monster name="Grand Fisher Lv 2" nameDescription="Grande Fisher Lv 2" race="blood" experience="38000" speed="600" manacost="0">
+    <health now="55000" max="55000" />
     <look type="11" corpse="5527" />
     <targetchange interval="5000" chance="8" />
     <strategy attack="100" defense="0" />

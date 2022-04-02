@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<monster name="Urahara Two" nameDescription="Urahara Two" race="blood" experience="2000" speed="300" manacost="0">
-    <health now="60000" max="60000" />
+<monster name="Urahara Two" nameDescription="Urahara Two" race="blood" experience="20000" speed="500" manacost="0">
+    <health now="50000" max="50000" />
     <look type="255" corpse="5527" />
     <targetchange interval="5000" chance="8" />
     <strategy attack="100" defense="0" />

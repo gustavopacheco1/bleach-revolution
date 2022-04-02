@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<monster name="Snake Hollow" nameDescription="Snake Hollow" race="blood" experience="1000" speed="60" manacost="0">
-    <health now="500" max="500" />
+<monster name="Snake Hollow" nameDescription="Snake Hollow" race="blood" experience="1200" speed="60" manacost="0">
+    <health now="1100" max="1100" />
     <look type="55" corpse="5527" />
     <targetchange interval="5000" chance="8" />
     <strategy attack="100" defense="0" />

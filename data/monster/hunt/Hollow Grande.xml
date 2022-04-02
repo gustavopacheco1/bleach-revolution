@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<monster name="Hollow Grande" nameDescription="Hollow Grande" race="blood" experience="2800" speed="300" manacost="0">
-    <health now="50000" max="50000" />
+<monster name="Hollow Grande" nameDescription="Hollow Grande" race="blood" experience="15000" speed="500" manacost="0">
+    <health now="40000" max="40000" />
     <look type="43" corpse="5527" />
     <targetchange interval="5000" chance="8" />
     <strategy attack="100" defense="0" />

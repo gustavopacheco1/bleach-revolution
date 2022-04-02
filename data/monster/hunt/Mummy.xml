@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<monster name="Mummy" nameDescription="Mummy" race="blood" experience="100" speed="400" manacost="0">
-    <health now="70000" max="70000" />
+<monster name="Mummy" nameDescription="Mummy" race="blood" experience="35000" speed="600" manacost="0">
+    <health now="50000" max="50000" />
     <look type="12" corpse="5527" />
     <targetchange interval="5000" chance="8" />
     <strategy attack="100" defense="0" />

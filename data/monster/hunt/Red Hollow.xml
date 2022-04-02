@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<monster name="Red Hollow" nameDescription="Red Hollow" race="blood" experience="150" speed="400" manacost="0">
+<monster name="Red Hollow" nameDescription="Red Hollow" race="blood" experience="25000" speed="600" manacost="0">
     <health now="60000" max="60000" />
     <look type="65" corpse="5527" />
     <targetchange interval="5000" chance="8" />

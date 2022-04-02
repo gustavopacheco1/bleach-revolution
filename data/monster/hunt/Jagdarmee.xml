@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<monster name="Jagdarmee" nameDescription="Jagdarmee" race="blood" experience="100" speed="400" manacost="0">
-    <health now="70000" max="70000" />
+<monster name="Jagdarmee" nameDescription="Jagdarmee" race="blood" experience="38000" speed="600" manacost="0">
+    <health now="55000" max="55000" />
     <look type="294" corpse="5527" />
     <targetchange interval="5000" chance="8" />
     <strategy attack="100" defense="0" />

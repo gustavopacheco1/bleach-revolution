@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<monster name="Gilliam" nameDescription="Gilliam" race="blood" experience="3000" speed="300" manacost="0">
+<monster name="Gilliam" nameDescription="Gilliam" race="blood" experience="18000" speed="600" manacost="0">
     <health now="50000" max="50000" />
     <look type="44" corpse="5527" />
     <targetchange interval="5000" chance="8" />

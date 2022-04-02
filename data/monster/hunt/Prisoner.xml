@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<monster name="Prisoner" nameDescription="Prisoner" race="blood" experience="100" speed="400" manacost="0">
-    <health now="900000" max="900000" />
+<monster name="Prisoner" nameDescription="Prisoner" race="blood" experience="50000" speed="600" manacost="0">
+    <health now="75000" max="75000" />
     <look type="120" corpse="5527" />
     <targetchange interval="5000" chance="8" />
     <strategy attack="100" defense="0" />

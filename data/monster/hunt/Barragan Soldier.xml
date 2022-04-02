@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<monster name="Barragan Soldier" nameDescription="Barragan Soldier" race="blood" experience="100" speed="400" manacost="0">
-    <health now="900000" max="900000" />
+<monster name="Barragan Soldier" nameDescription="Barragan Soldier" race="blood" experience="35000" speed="600" manacost="0">
+    <health now="50000" max="50000" />
     <look type="130" corpse="5527" />
     <targetchange interval="5000" chance="8" />
     <strategy attack="100" defense="0" />

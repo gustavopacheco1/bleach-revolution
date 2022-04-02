@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<monster name="Adjuchas" nameDescription="Adjuchas" race="blood" experience="150" speed="400" manacost="0">
-    <health now="90000" max="90000" />
+<monster name="Adjuchas" nameDescription="Adjuchas" race="blood" experience="45000" speed="600" manacost="0">
+    <health now="65000" max="65000" />
     <look type="273" corpse="5527" />
     <targetchange interval="5000" chance="8" />
     <strategy attack="100" defense="0" />
