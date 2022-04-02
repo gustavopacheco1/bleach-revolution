@@ -728,11 +728,11 @@
 	
 	<!-- Ninja Set -->
 	
-	<movevent type="Equip" itemid="15080" level="50" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="Equip" itemid="15080" level="1" slot="head" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="15080" slot="head" event="function" value="onDeEquipItem"/>
-	<movevent type="Equip" itemid="15081" level="50" slot="armor" event="function" value="onEquipItem"/>
+	<movevent type="Equip" itemid="15081" level="1" slot="armor" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="15081" slot="armor" event="function" value="onDeEquipItem"/>
-	<movevent type="Equip" itemid="15082" level="50" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="Equip" itemid="15082" level="1" slot="legs" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="15082" slot="legs" event="function" value="onDeEquipItem"/>
 	
 	<!-- Urahara Set -->
