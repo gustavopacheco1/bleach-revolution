@@ -13141,42 +13141,17 @@
 	<spawn centerx="3397" centery="3518" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3460" centery="3518" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3470" centery="3518" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3477" centery="3518" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3377" centery="3519" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3480" centery="3519" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3493" centery="3519" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3515" centery="3519" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="3405" centery="3520" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3504" centery="3520" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3525" centery="3520" centerz="8" radius="1">
-		<monster name="Black Wolf" x="-1" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3534" centery="3520" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3520" centery="3520" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3043" centery="3521" centerz="8" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="8" spawntime="60" />
@@ -13189,8 +13164,17 @@
 		<monster name="Giant Snake" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Giant Snake" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3542" centery="3521" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3485" centery="3521" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3504" centery="3521" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3512" centery="3521" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3541" centery="3521" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3029" centery="3522" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="8" spawntime="60" />
@@ -13203,41 +13187,26 @@
 	<spawn centerx="3414" centery="3522" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3463" centery="3522" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3473" centery="3522" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3492" centery="3522" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3526" centery="3522" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3533" centery="3522" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3550" centery="3522" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3262" centery="3523" centerz="8" radius="1">
 		<monster name="Giant Snake" x="0" y="-1" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3466" centery="3524" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3474" centery="3524" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3487" centery="3524" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3499" centery="3524" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3510" centery="3524" centerz="8" radius="1">
-		<monster name="Black Wolf" x="-1" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3520" centery="3524" centerz="8" radius="1">
-		<monster name="Black Wolf" x="-1" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3529" centery="3524" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3538" centery="3524" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3546" centery="3524" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3221" centery="3525" centerz="8" radius="1">
 		<monster name="Giant Snake" x="0" y="-1" z="8" spawntime="60" />
@@ -13270,12 +13239,17 @@
 	<spawn centerx="3362" centery="3528" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3460" centery="3529" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="3227" centery="3530" centerz="8" radius="1">
 		<monster name="Giant Snake" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3550" centery="3530" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3460" centery="3531" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3491" centery="3531" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3251" centery="3532" centerz="8" radius="1">
 		<monster name="Giant Snake" x="0" y="-1" z="8" spawntime="60" />
@@ -13287,17 +13261,8 @@
 	<spawn centerx="3426" centery="3534" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3550" centery="3534" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3491" centery="3535" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3460" centery="3537" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3550" centery="3536" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3408" centery="3538" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
@@ -13308,65 +13273,56 @@
 	<spawn centerx="3418" centery="3540" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3460" centery="3545" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3460" centery="3540" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3491" centery="3545" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3491" centery="3541" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3550" centery="3545" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3549" centery="3541" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3549" centery="3549" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3398" centery="3550" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3460" centery="3553" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3460" centery="3550" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3491" centery="3553" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3491" centery="3551" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3550" centery="3554" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3550" centery="3558" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3491" centery="3559" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3403" centery="3560" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3491" centery="3561" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3460" centery="3562" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3550" centery="3564" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3460" centery="3560" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3407" centery="3567" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3549" centery="3567" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3491" centery="3568" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3460" centery="3571" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3550" centery="3572" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3460" centery="3570" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3411" centery="3574" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3550" centery="3575" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3131" centery="3577" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="0" y="-1" z="8" spawntime="60" />
@@ -13377,26 +13333,23 @@
 		<monster name="Giant Snake Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3491" centery="3577" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3148" centery="3579" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="0" y="-1" z="8" spawntime="60" />
 		<monster name="Giant Snake Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3460" centery="3579" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3416" centery="3580" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3460" centery="3580" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3550" centery="3580" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="3124" centery="3581" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3550" centery="3582" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3154" centery="3583" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="0" y="-1" z="8" spawntime="60" />
@@ -13415,57 +13368,61 @@
 	<spawn centerx="3426" centery="3586" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3467" centery="3586" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3468" centery="3586" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3478" centery="3586" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3475" centery="3586" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3491" centery="3586" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3485" centery="3586" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3500" centery="3586" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3494" centery="3586" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3511" centery="3586" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3502" centery="3586" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3519" centery="3586" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3508" centery="3586" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3514" centery="3586" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3523" centery="3586" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3528" centery="3586" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3536" centery="3586" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3537" centery="3586" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3545" centery="3586" centerz="8" radius="1">
-		<monster name="Black Wolf" x="-1" y="0" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3556" centery="3586" centerz="8" radius="1">
-		<monster name="Black Wolf" x="-1" y="0" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3554" centery="3586" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3564" centery="3586" centerz="8" radius="1">
-		<monster name="Black Wolf" x="-1" y="0" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3561" centery="3586" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3568" centery="3586" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3117" centery="3587" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Giant Snake Hollow" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3460" centery="3587" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3159" centery="3588" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="0" y="-1" z="8" spawntime="60" />
 		<monster name="Giant Snake Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3491" centery="3592" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3664" centery="3592" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
@@ -13476,10 +13433,6 @@
 	<spawn centerx="3112" centery="3593" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3570" centery="3593" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="3684" centery="3593" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -13488,11 +13441,10 @@
 		<monster name="Giant Snake Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3460" centery="3594" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3491" centery="3595" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3570" centery="3594" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3107" centery="3598" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="1" y="-1" z="8" spawntime="60" />
@@ -13506,9 +13458,11 @@
 		<monster name="Giant Snake Hollow" x="0" y="-1" z="8" spawntime="60" />
 		<monster name="Giant Snake Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3570" centery="3602" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3491" centery="3601" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3570" centery="3601" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3674" centery="3602" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
@@ -13517,8 +13471,7 @@
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3460" centery="3603" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3662" centery="3603" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
@@ -13526,11 +13479,14 @@
 	<spawn centerx="3102" centery="3604" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3491" centery="3605" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="3173" centery="3607" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3491" centery="3608" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3570" centery="3608" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3107" centery="3609" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="1" y="-1" z="8" spawntime="60" />
@@ -13557,16 +13513,11 @@
 		<monster name="Giant Snake Hollow" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Giant Snake Hollow" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3460" centery="3611" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="1" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3570" centery="3611" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="4191" centery="3611" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3460" centery="3612" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3664" centery="3612" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
@@ -13580,8 +13531,8 @@
 	<spawn centerx="4174" centery="3612" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3491" centery="3613" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3570" centery="3614" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3102" centery="3615" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="1" y="1" z="8" spawntime="60" />
@@ -13592,9 +13543,8 @@
 	<spawn centerx="3170" centery="3616" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3570" centery="3619" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3491" centery="3616" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4194" centery="3619" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
@@ -13608,11 +13558,14 @@
 	<spawn centerx="3108" centery="3620" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3460" centery="3620" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3800" centery="3620" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3491" centery="3621" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3570" centery="3621" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3664" centery="3621" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
@@ -13623,12 +13576,11 @@
 	<spawn centerx="3685" centery="3621" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3460" centery="3622" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="1" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="3166" centery="3623" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3491" centery="3624" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3113" centery="3625" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="1" y="-1" z="8" spawntime="60" />
@@ -13641,12 +13593,11 @@
 	<spawn centerx="3803" centery="3625" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3460" centery="3627" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="4173" centery="3627" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3570" centery="3628" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3811" centery="3628" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
@@ -13669,19 +13620,20 @@
 	<spawn centerx="3684" centery="3630" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3460" centery="3631" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="1" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="3817" centery="3631" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3140" centery="3632" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3491" centery="3633" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="1" z="8" spawntime="60" />
+	<spawn centerx="3491" centery="3632" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3571" centery="3632" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3461" centery="3634" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3158" centery="3635" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="0" y="-1" z="8" spawntime="60" />
@@ -13691,45 +13643,47 @@
 		<monster name="Giant Snake Hollow" x="0" y="-1" z="8" spawntime="60" />
 		<monster name="Giant Snake Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3468" centery="3636" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="0" z="8" spawntime="60" />
+	<spawn centerx="3467" centery="3636" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3478" centery="3636" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="0" z="8" spawntime="60" />
+	<spawn centerx="3473" centery="3636" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3500" centery="3636" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3480" centery="3636" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3509" centery="3636" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3486" centery="3636" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3519" centery="3636" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3499" centery="3636" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3528" centery="3636" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3508" centery="3636" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3516" centery="3636" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3524" centery="3636" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3530" centery="3636" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3538" centery="3636" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3548" centery="3636" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3543" centery="3636" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3557" centery="3636" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3551" centery="3636" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3567" centery="3636" centerz="8" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3558" centery="3636" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3565" centery="3636" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3820" centery="3636" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
