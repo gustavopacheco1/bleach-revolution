@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<monster name="Elite Bandit" nameDescription="Elite Bandit" race="blood" experience="1600" speed="100" manacost="0">
+<monster name="Elite Bandit" nameDescription="Elite Bandit" race="blood" experience="6000" speed="100" manacost="0">
     <health now="1500" max="1500" />
     <look type="111" corpse="5527" />
     <targetchange interval="5000" chance="8" />

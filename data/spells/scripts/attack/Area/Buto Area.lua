@@ -1,6 +1,6 @@
 local combat = createCombatObject()
 setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_ENERGYDAMAGE)
-setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -325.0, 0, -335.0, 0)
+setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -85.0, 0, -100.0, 0)
 
 local combat1 = createCombatObject()
 setCombatParam(combat1, COMBAT_PARAM_EFFECT, 564)

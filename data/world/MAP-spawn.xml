@@ -541,6 +541,30 @@
 	<spawn centerx="4026" centery="3102" centerz="5" radius="1">
 		<monster name="Arrancar Watcher" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3579" centery="3319" centerz="5" radius="1">
+		<monster name="Hollow Wolf" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Hollow Wolf" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3583" centery="3320" centerz="5" radius="1">
+		<monster name="Hollow Wolf" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Hollow Wolf" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3587" centery="3322" centerz="5" radius="1">
+		<monster name="Hollow Wolf" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Hollow Wolf" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3591" centery="3322" centerz="5" radius="1">
+		<monster name="Hollow Wolf" x="0" y="-1" z="5" spawntime="60" />
+		<monster name="Hollow Wolf" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3597" centery="3324" centerz="5" radius="1">
+		<monster name="Hollow Wolf" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Hollow Wolf" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3593" centery="3325" centerz="5" radius="1">
+		<monster name="Hollow Wolf" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Hollow Wolf" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3914" centery="3332" centerz="5" radius="1">
 		<monster name="Kensei" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
@@ -7266,6 +7290,9 @@
 	<spawn centerx="3685" centery="3306" centerz="7" radius="1">
 		<monster name="Mini Fisher" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3581" centery="3307" centerz="7" radius="1">
+		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3610" centery="3307" centerz="7" radius="1">
 		<monster name="Hollow Wolf" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
@@ -7279,6 +7306,9 @@
 	<spawn centerx="3705" centery="3310" centerz="7" radius="1">
 		<monster name="Mini Fisher" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3582" centery="3312" centerz="7" radius="1">
+		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3650" centery="3312" centerz="7" radius="1">
 		<monster name="Mini Fisher" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
@@ -7289,6 +7319,15 @@
 		<monster name="Hollow Wolf" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Hollow Wolf" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3586" centery="3315" centerz="7" radius="1">
+		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3591" centery="3316" centerz="7" radius="1">
+		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3596" centery="3319" centerz="7" radius="1">
+		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3672" centery="3319" centerz="7" radius="1">
 		<monster name="Mini Fisher" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
@@ -7298,6 +7337,9 @@
 	<spawn centerx="3482" centery="3322" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3570" centery="3322" centerz="7" radius="1">
+		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3622" centery="3322" centerz="7" radius="1">
 		<monster name="Hollow Wolf" x="0" y="-1" z="7" spawntime="60" />
@@ -7315,23 +7357,47 @@
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3603" centery="3323" centerz="7" radius="1">
+		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3731" centery="3323" centerz="7" radius="1">
 		<monster name="Mini Fisher" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3665" centery="3324" centerz="7" radius="1">
 		<monster name="Mini Fisher" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3573" centery="3325" centerz="7" radius="1">
+		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3481" centery="3328" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3577" centery="3328" centerz="7" radius="1">
+		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3606" centery="3328" centerz="7" radius="1">
+		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3560" centery="3330" centerz="7" radius="1">
 		<monster name="Hollow Wolf" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Hollow Wolf" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3581" centery="3330" centerz="7" radius="1">
+		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3486" centery="3331" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3587" centery="3331" centerz="7" radius="1">
+		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3595" centery="3331" centerz="7" radius="1">
+		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3602" centery="3331" centerz="7" radius="1">
+		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3705" centery="3331" centerz="7" radius="1">
 		<monster name="Mini Fisher" x="1" y="-1" z="7" spawntime="60" />

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spells>
 	<!-- Healing -->
-	<instant name="regeneration" words="regeneration" lvl="10" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0" event="script" value="healing/regeneration.lua" />
-	<instant name="Big Regeneration" words="big regeneration" lvl="200" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0" event="script" value="healing/big_regeneration.lua" />
+	<instant name="regeneration" words="regeneration" lvl="5" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0" event="script" value="healing/regeneration.lua" />
+	<instant name="Big Regeneration" words="big regeneration" lvl="150" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0" event="script" value="healing/big_regeneration.lua" />
 	<instant name="Kaidou Heal" words="kaidou heal" lvl="250" mana="1500" prem="0" aggressive="0" needtarget="1" params="1" exhaustion="1500" needlearn="0" event="script" value="healing/kaidou_heal.lua">
 		<vocation id="67-71" /> <!-- Retsu Unohana -->
 	</instant>
@@ -167,55 +167,55 @@
 	<instant name="Gochutekkan" words="Gochutekkan" lvl="100" mana="500" prem="0" range="8" needtarget="1" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Gochutekkan.lua" />
 
 	<!-- Area -->
-	<instant name="Getsuga Area" words="Getsuga Area" lvl="200" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Getsuga Area.lua">
+	<instant name="Getsuga Area" words="Getsuga Area" lvl="100" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Getsuga Area.lua">
 		<vocation id="1-6" /> <!-- Ichigo Kurosaki -->
 	</instant>
-	<instant name="Sprenger Area" words="Sprenger Area" lvl="200" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Sprenger Area.lua">
+	<instant name="Sprenger Area" words="Sprenger Area" lvl="100" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Sprenger Area.lua">
 		<vocation id="25-29" /> <!-- Uryu Ishida -->
 	</instant>
-	<instant name="Zabimaru Area" words="Zabimaru Area" lvl="200" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Zabimaru Area.lua">
+	<instant name="Zabimaru Area" words="Zabimaru Area" lvl="100" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Zabimaru Area.lua">
 		<vocation id="73-77" /> <!-- Renjii Abarai -->
 	</instant>
-	<instant name="Ryuusenka Area" words="Ryuusenka Area" lvl="200" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Ryuusenka Area.lua">
+	<instant name="Ryuusenka Area" words="Ryuusenka Area" lvl="100" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Ryuusenka Area.lua">
 		<vocation id="49-53" /> <!-- Toshiro Histugaya -->
 	</instant>
-	<instant name="Juuhaku Area" words="Juuhaku Area" lvl="200" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Juuhaku Area.lua">
+	<instant name="Juuhaku Area" words="Juuhaku Area" lvl="100" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Juuhaku Area.lua">
 		<vocation id="55-59" /> <!-- Rukia Kuchiki -->
 	</instant>
-	<instant name="La Muerte Area" words="La Muerte Area" lvl="200" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/La Muerte Area.lua">
+	<instant name="La Muerte Area" words="La Muerte Area" lvl="100" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/La Muerte Area.lua">
 		<vocation id="7-11" /> <!-- Chad -->
 	</instant>
-	<instant name="Burner Area" words="Burner Area" lvl="200" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Burner Area.lua">
+	<instant name="Burner Area" words="Burner Area" lvl="100" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Burner Area.lua">
 		<vocation id="13-17" /> <!-- Bazz-B -->
 	</instant>
-	<instant name="Cero Area" words="Cero Area" lvl="200" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Cero Area.lua">
+	<instant name="Cero Area" words="Cero Area" lvl="100" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Cero Area.lua">
 		<vocation id="61-65" /> <!-- Nelliel Odelschwanck -->
 	</instant>
-	<instant name="Shun Shun Area" words="Shun Shun Area" lvl="200" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Shun Shun Area.lua">
+	<instant name="Shun Shun Area" words="Shun Shun Area" lvl="100" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Shun Shun Area.lua">
 		<vocation id="19-23" /> <!-- Orihime Inoue -->
 	</instant>
-	<instant name="Hakuda Area" words="Hakuda Area" lvl="200" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Hakuda Area.lua">
+	<instant name="Hakuda Area" words="Hakuda Area" lvl="100" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Hakuda Area.lua">
 		<vocation id="43-47" /> <!-- Byakuya Kuchiki -->
 	</instant>
-	<instant name="Oscuras Area" words="Oscuras Area" lvl="200" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Oscuras Area.lua">
+	<instant name="Oscuras Area" words="Oscuras Area" lvl="100" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Oscuras Area.lua">
 		<vocation id="31-35" /> <!-- Ulquiorra Ciffer -->
 	</instant>
-	<instant name="Minazuki Area" words="Minazuki Area" lvl="200" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Minazuki Area.lua">
+	<instant name="Minazuki Area" words="Minazuki Area" lvl="100" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Minazuki Area.lua">
 		<vocation id="67-71" /> <!-- Retsu Unohana -->
 	</instant>
-	<instant name="Ryodan Area" words="Ryodan Area" lvl="200" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Ryodan Area.lua">
+	<instant name="Ryodan Area" words="Ryodan Area" lvl="100" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Ryodan Area.lua">
 		<vocation id="37-41" /> <!-- Zaraki Kenpachi -->
 	</instant>
-	<instant name="Buto Area" words="Buto Area" lvl="200" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Buto Area.lua">
+	<instant name="Buto Area" words="Buto Area" lvl="100" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Buto Area.lua">
 		<vocation id="79-83" /> <!-- Gin Ichimaru -->
 	</instant>
-	<instant name="Korose Area" words="Korose Area" lvl="200" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Korose Area.lua">
+	<instant name="Korose Area" words="Korose Area" lvl="100" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Korose Area.lua">
 		<vocation id="91-95" /> <!-- Tier Halibel -->
 	</instant>
-	<instant name="Tensho Area" words="Tensho Area" lvl="200" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Tensho Area.lua">
+	<instant name="Tensho Area" words="Tensho Area" lvl="100" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Tensho Area.lua">
 		<vocation id="85-89" />  <!-- Kuugo Ginjou -->
 	</instant>
-	<instant name="Benihime Area" words="Benihime Area" lvl="200" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Benihime Area.lua">
+	<instant name="Benihime Area" words="Benihime Area" lvl="100" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Benihime Area.lua">
 		<vocation id="98-102" /> <!-- Urahara Kisuke -->
 	</instant>
 

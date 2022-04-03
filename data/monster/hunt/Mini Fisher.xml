@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<monster name="Mini Fisher" nameDescription="Mini Fisher" race="blood" experience="10000" speed="400" manacost="0">
+<monster name="Mini Fisher" nameDescription="Mini Fisher" race="blood" experience="16000" speed="400" manacost="0">
     <health now="30000" max="30000" />
     <look type="13" corpse="5527" />
     <targetchange interval="5000" chance="8" />
