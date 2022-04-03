@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<mod name="Perfect Auto Loot" version="2.0" author="Vodkart" contact="none.com" enabled="yes">
+<config name="Loot_func"><![CDATA[
+
+info = {
+	distro = 1, -- 1 = TFS // 2 = talk modificada
+	directory = "data/logs/autoloot",
+	Warn_Bp_Slots = 5, -- quando tiver 5 ou menos slots na BP vai avisar o jogador
+	Talkaction_delay = 5, -- em segundos // delay para remover e adicionar item
+	BlockMonsters = {},
+	BlockItemsList = {2123,2515},
+	Money_ids = {2148, 2152, 2160}, -- id das moedas do ot
+	Max_Slots = {free = 10, premium = 10},
+	Storages = {988801, 988802, 988803, 988804, 988805, 988806, 988807}
+}
+
+
+Color_Loot = {
+           [0] = {MESSAGE_EVENT_ORANGE, "Orange"},
+           [1] = {MESSAGE_STATUS_CONSOLE_BLUE, "Blue"},
+           [2] = {MESSAGE_INFO_DESCR, "Green"},
+           [3] = {MESSAGE_STATUS_CONSOLE_RED, "Red"},
+           [4] = {MESSAGE_STATUS_SMALL, "White"}
+}
+function getPlayerColorLootMessage(cid)
+	return getPlayerStorageValue(cid, info.Storages[5]) <= 0 and 0 or getPlayerStorageValue(cid, info.Storages[5])
+end
+function isInTable(cid, item)
+	for _,i in pairs(getItensFromAutoloot(cid)) do
+		if tonumber(i) == tonumber(item) then
+			return true
+		end
+	end
+	return false
+end
+function doremoveItemFromAutoloot(cid, itemid)
+    local file, fileContent = io.open(info.directory.."/"..getCreatureName(cid)..".txt", 'r'),{}
+    for line in file:lines() do
+	 if line ~= "" and tonumber(line) ~= tonumber(itemid) then
+             fileContent[#fileContent + 1] = line
+    	end
+    end
+    io.close(file)
+    file = io.open(info.directory.."/"..getCreatureName(cid)..".txt", 'w')
+    for index, value in ipairs(fileContent) do
+    file:write(value..'\n')
+    end
+    io.close(file)
+end
+function doAddItemFromAutoloot(cid, itemid)
+         if not existsAutoloot(cid) then
+            doCreateLootUserName(cid, itemid) return true
+         end 
+         local file = io.open(info.directory.."/"..getCreatureName(cid)..".txt", "a+")							
+         file:write('\n'..itemid)
+         file:close()
+end
+function existsAutoloot(cid)
+  local f = io.open(info.directory.."/"..getCreatureName(cid)..".txt", "rb")
+  if f then f:close() end
+  return f ~= nil
+end
+function doCreateLootUserName(cid, itemid)
+    newFile = io.open(info.directory.."/"..getCreatureName(cid)..".txt", "w+" )
+    newFile:write(itemid)
+    newFile:close()
+end
+function getItensFromAutoloot(cid)
+  if not existsAutoloot(cid) then return {} end
+  lines = {}
+  for line in io.lines(info.directory.."/"..getCreatureName(cid)..".txt") do
+	  if line ~= "" then
+          	lines[#lines + 1] = tonumber(line)
+	  end
+  end
+  return lines
+end
+function doCleanAutoloot(cid)
+return os.remove(info.directory.."/"..getCreatureName(cid)..".txt")
+end
+function ShowItemsTabble(cid)
+	local auto_list = getItensFromAutoloot(cid)	
+	local n,str = 0,"[+] Auto Loot Commands [+]\n\n!autoloot itemname --> Para adicionar ou remover um item da lista.\n!autoloot money --> Para coletar os golds automaticamente.\n!autoloot clear --> Para limpar a lista do seu autoloot.\n!autoloot on/off --> Para ligar ou desligar seu autoloot.\n!autoloot message --> Para ligar ou desligar a mensagem do autoloot.\n!autoloot color --> Para mudar a cor da mensagem do seu autoloot.\n!autoloot warn --> Para ligar ou desligar o aviso dos slots que faltam na sua backpack.\n!autoloot deposit --> Para ligar ou desligar o envio do dinheiro para o banco.\n\n[+] Auto Loot Info [+]\n\nSystem: "..(getPlayerStorageValue(cid, info.Storages[1]) <= 0 and "Activated" or "Disabled")..".\nGold Collecting: "..(getPlayerStorageValue(cid, info.Storages[2]) > 0 and "Activated" or "Disabled")..".\nMessage: "..(getPlayerStorageValue(cid, info.Storages[6]) <= 0 and "Activated" or "Disabled")..".\nColor Message: "..Color_Loot[getPlayerColorLootMessage(cid)][2]..".\nWarn Backpack: "..(getPlayerStorageValue(cid, info.Storages[3]) <= 0 and "Activated" or "Disabled")..".\nAutomatic Gold Deposit: "..(getPlayerStorageValue(cid, info.Storages[4]) > 0 and "Activated" or "Disabled")..".\nTotal Bank Balance: ["..getPlayerBalance(cid).."]\nMaximum Slots: ["..#auto_list.."/"..(isPremium(cid) and info.Max_Slots.premium or info.Max_Slots.free).."]\n\n[+] Auto Loot Slots [+]\n\n"
+	if #auto_list > 0 then
+		for i = 1, #auto_list do
+			n = n + 1
+			str = str.."Slot "..n.." - "..getItemNameById(auto_list[i]).."\n"
+		end
+	end
+	return doPlayerPopupFYI(cid, str)
+end
+function getContainerItems(container, array, haveCap)
+    array = array or {}
+    haveCap = haveCap or false
+    if not isContainer(container.uid) or getContainerSize(container.uid) == 0 then
+        array[#array +1] = container
+    else
+        local size = getContainerSize(container.uid)
+        haveCap = (getContainerCap(container.uid) -size) > 0
+        for slot = 0, (size -1) do
+            local item = getContainerItem(container.uid, slot)
+            if item.itemid > 1 then
+                getContainerItems(item, array, haveCap)
+            end
+        end
+    end
+    return #array >= 1 and array, haveCap
+end
+function getContainerItemsById(container, itemid)
+    local founds = {}
+    local items = not container.uid and container or getContainerItems(container)
+    for index, item in pairs(items) do
+        if item.itemid == itemid then
+            founds[#founds +1] = item
+        end
+    end
+    return #founds >= 1 and founds
+end
+function AutomaticDeposit(cid, item, n)
+	if isInArray(info.Money_ids, item) and getPlayerStorageValue(cid, info.Storages[4]) > 0 then
+		local deposit = item == tonumber(2160) and (n*10000) or tonumber(item) == 2152 and (n*100) or (n)
+		doPlayerDepositMoney(cid, deposit)
+	end
+	return true
+end
+function getAllContainerFree(cid) -- by vodka
+    local containers,soma = {},0
+    for i = CONST_SLOT_FIRST, CONST_SLOT_LAST do
+        local sitem = getPlayerSlotItem(cid, i)
+        if sitem.uid > 0 then
+            if isContainer(sitem.uid) then
+                table.insert(containers, sitem.uid)
+		soma = soma + getContainerSlotsFree(sitem.uid)
+            end
+        end
+    end
+    while #containers > 0 do
+        for k = (getContainerSize(containers[1]) - 1), 0, -1 do
+            local tmp = getContainerItem(containers[1], k)
+            if isContainer(tmp.uid) then
+                table.insert(containers, tmp.uid)
+                soma = soma + getContainerSlotsFree(tmp.uid)
+            end
+        end
+        table.remove(containers, 1)
+    end
+    return soma
+end
+function getContainerSlotsFree(container) -- by vodka
+         return getContainerCap(container)-getContainerSize(container)
+end
+function doPlayerAddItemStackable(cid, itemid, count)
+    local container = getPlayerSlotItem(cid, CONST_SLOT_BACKPACK)
+    if container.itemid > 1 then
+        local items = getContainerItemsById(container, itemid)
+        if not items then
+            return doPlayerAddItem(cid, itemid, count)
+        else
+            local piles = #items
+            for index, item in pairs(items) do
+                if item.type < 100 then
+                    local sum = item.type + count
+                    local result = doTransformItem(item.uid, itemid, sum)
+                    if sum <= 100 then
+                        return result
+                    else
+                        return doPlayerAddItem(cid, itemid, sum - 100)
+                    end
+                else
+                    piles = piles - 1
+                    if piles == 0 then
+                        return doPlayerAddItem(cid, itemid, count)
+                    end
+                end
+            end
+        end
+    end
+    return false
+end
+function corpseRetireItems(cid, pos)
+	local check, slots = false, 0
+	for i = 0, 255 do
+		pos.stackpos = i
+		tile = getTileThingByPos(pos)
+		if tile.uid > 0 and isCorpse(tile.uid) then
+			check = true break
+		end
+	end
+	if check == true then
+		local str, var = "", getContainerItems(tile)
+		if var then
+			local list = getItensFromAutoloot(cid)
+			for _, item in pairs(var) do
+				local id = item.itemid
+				if #list > 0 and isInArray(list, id) or getPlayerStorageValue(cid, info.Storages[2]) > 0 and isInArray(info.Money_ids, id) then
+					local info = getItemInfo(id)
+					local amount = isItemStackable(id) and item.type or 1
+					local total_cap = getItemWeight(item.uid)*amount
+					slots = getAllContainerFree(cid)
+					if slots > 0 and getPlayerFreeCap(cid) >= total_cap then
+						if isItemStackable(id) then
+							str = str.." "..amount.." "..(amount > 1 and info.plural or info.name)..","
+							doPlayerAddItemStackable(cid, id, amount)
+							AutomaticDeposit(cid, id, amount)
+						else
+							str = str.." ".. info.article.." " .. info.name ..","
+							doPlayerAddItem(cid, id)
+						end 
+						doRemoveItem(item.uid)	
+					end
+				end
+			end
+			if str ~= "" and getPlayerStorageValue(cid, info.Storages[6]) <= 0 then 
+				doPlayerSendTextMessage(cid, Color_Loot[getPlayerColorLootMessage(cid)][1],"[Auto Loot Collect]:"..string.sub(str, 1, -2)..".") 
+			end
+			if getPlayerStorageValue(cid, info.Storages[3]) <= 0 and slots > 0 and slots <= info.Warn_Bp_Slots then
+				doPlayerSendTextMessage(cid,18,"[Auto Loot Warn] You only have "..slots.." slots free in your backpack!") 
+			end
+		end
+	end
+end
+function ExistItemByName(name) -- by vodka
+    local items = io.open("data/items/items.xml", "r"):read("*all")
+    local get = items:lower():match('name="' .. name:lower() ..'"')
+    if get == nil or get == "" then
+        return false
+    end
+return true
+end
+]]>
+</config>
+
+<event type="login" name="LootLogin" event="script">
+<![CDATA[
+domodlib('Loot_func')
+function onLogin(cid)
+	registerCreatureEvent(cid, "LootEventKIll")
+	if isPremium(cid) and getPlayerStorageValue(cid, 853608) <= 0 then
+		setPlayerStorageValue(cid, 853608, 1)
+	elseif getPlayerStorageValue(cid, 853608) > 0 and not isPremium(cid) then
+		doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "[Auto Loot] You premium is Over, Start a new list!")
+		setPlayerStorageValue(cid, 853608, -1)
+		doCleanAutoloot(cid)
+	end
+	registerCreatureEvent(cid, "AutolootRBTCombat")
+	return true
+end]]>
+</event>
+
+<event type="death" name="AutolootRBTDeath" event="script">
+<![CDATA[
+domodlib('Loot_func')
+function onDeath(cid, corpse)
+	if corpse.uid <= 0 then return true end
+	if getItemAttribute(corpse.uid, "corpseowner") == nil then return true end
+	if isPlayer(getPlayerByNameWildcard(getPlayerNameByGUID(getItemAttribute(corpse.uid, "corpseowner")))) then
+	local player = getPlayerByNameWildcard(getPlayerNameByGUID(getItemAttribute(corpse.uid, "corpseowner")))
+	if getPlayerStorageValue(player, info.Storages[1]) <= 0 and isMonster(cid) and not isInArray(info.BlockMonsters, getCreatureName(cid):lower()) then
+		addEvent(corpseRetireItems, 100, player, getThingPos(cid))
+    end
+	end
+    return true
+end
+]]>
+</event>
+
+<event type="combat" name="AutolootRBTCombat" event="script">
+<![CDATA[
+
+if isPlayer(cid) and isMonster(target) then
+		registerCreatureEvent(target, "AutolootRBTDeath")
+end
+
+return true
+]]>
+</event>
+
+<talkaction words="!autoloot;/autoloot" event="buffer">
+<![CDATA[
+domodlib('Loot_func')
+local param, slots = param:lower(), isPremium(cid) and info.Max_Slots.premium or info.Max_Slots.free
+if not param or param == "" then
+	ShowItemsTabble(cid) return true
+elseif tonumber(param) then
+	doPlayerSendCancel(cid, "enter commands: !autoloot itemname [+] !autoloot clean [+] !autoloot money [+] !autoloot on/off") return true
+elseif isInArray({"clean","limpar", "clear"}, param) then
+	if existsAutoloot(cid) then doCleanAutoloot(cid) end
+	doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_ORANGE,"[Auto Loot] Your list has been cleaned.") return true
+elseif isInArray({"start","stop","on","off"}, param) then
+	setPlayerStorageValue(cid, info.Storages[1], getPlayerStorageValue(cid, info.Storages[1]) <= 0 and 1 or 0)
+	doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_ORANGE,"Auto Loot "..(getPlayerStorageValue(cid, info.Storages[1]) > 0 and "Stopped" or "Started")..".") return true
+elseif isInArray({"warn","aviso"}, param) then
+	setPlayerStorageValue(cid, info.Storages[3], getPlayerStorageValue(cid, info.Storages[3]) <= 0 and 1 or 0)
+	doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_ORANGE,"Auto Loot Backpack Warn "..(getPlayerStorageValue(cid, info.Storages[3]) > 0 and "disabled" or "Activated")..".") return true
+elseif isInArray({"mensagem","message","mensagen","msg"}, param) then
+	setPlayerStorageValue(cid, info.Storages[6], getPlayerStorageValue(cid, info.Storages[6]) <= 0 and 1 or 0)
+	doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_ORANGE,"Auto Loot Message "..(getPlayerStorageValue(cid, info.Storages[6]) > 0 and "disabled" or "Activated")..".") return true
+elseif isInArray({"cor","color","type"}, param) then
+	setPlayerStorageValue(cid, info.Storages[5], getPlayerColorLootMessage(cid) == #Color_Loot and 0 or getPlayerColorLootMessage(cid)+1)
+	doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_ORANGE,"Auto Loot Message Color Changed to "..Color_Loot[getPlayerColorLootMessage(cid)][2]..".") return true
+elseif isInArray({"money","gold","gps","dinheiro"}, param) then
+	setPlayerStorageValue(cid, info.Storages[2], getPlayerStorageValue(cid, info.Storages[2]) <= 0 and 1 or 0)
+	doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_ORANGE,"Auto Loot Gold Colleting "..(getPlayerStorageValue(cid, info.Storages[2]) > 0 and "Activated" or "disabled")..".") return true
+elseif isInArray({"deposito","bank","gbank","deposit","autodeposit"}, param) then
+	setPlayerStorageValue(cid, info.Storages[4], getPlayerStorageValue(cid, info.Storages[4]) <= 0 and 1 or 0)
+	doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_ORANGE,"[Auto Loot] Automatic Gold Bank "..(getPlayerStorageValue(cid, info.Storages[4]) > 0 and "Activated" or "disabled")..".") return true
+end
+if info.distro ~= 1 then
+	item = ExistItemByName(tostring(param))
+	if not item then
+		doPlayerSendCancel(cid, "This item does not exist.") return true
+	end
+	item = getItemIdByName(tostring(param))
+else
+	item = getItemIdByName(param, false)
+	if not item then
+		doPlayerSendCancel(cid, "This item does not exist.") return true
+	end
+end
+local var = isInTable(cid, item)
+if isInArray(info.Money_ids, item) then 
+	doPlayerSendTextMessage(cid, MESSAGE_FIRST, "Enter !autoloot money to add money in your list!") return true	
+elseif isInArray(info.BlockItemsList, item) then
+	doPlayerSendCancel(cid, "You can not add this item in the list!") return true
+elseif not var and #getItensFromAutoloot(cid) >= slots then
+	doPlayerSendCancel(cid, "max "..slots.." from auto loot") return true
+elseif getPlayerStorageValue(cid, info.Storages[7]) - os.time() > 0 then
+		doPlayerSendCancel(cid, "wait a second to use this command again") return true
+end
+if not var then
+	doAddItemFromAutoloot(cid, item)
+else
+	doremoveItemFromAutoloot(cid, item)
+end
+setPlayerStorageValue(cid, info.Storages[7], os.time()+info.Talkaction_delay)
+doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE,not var and "you added the item "..param.." in the list" or "you removed the item "..param.." from the list, please wait 5 seconds to save the directory.")
+return true]]>
+</talkaction>
+
+</mod>
