@@ -541,6 +541,26 @@
 	<spawn centerx="4026" centery="3102" centerz="5" radius="1">
 		<monster name="Arrancar Watcher" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="2982" centery="3300" centerz="5" radius="1">
+		<monster name="Hiroshin" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Hiroshin" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2974" centery="3303" centerz="5" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Hiroshin" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2990" centery="3307" centerz="5" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Hiroshin" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2982" centery="3311" centerz="5" radius="1">
+		<monster name="Hiroshin" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Hiroshin" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2992" centery="3318" centerz="5" radius="1">
+		<monster name="Hiroshin" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Hiroshin" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3579" centery="3319" centerz="5" radius="1">
 		<monster name="Hollow Wolf" x="1" y="-1" z="5" spawntime="60" />
 		<monster name="Hollow Wolf" x="0" y="0" z="5" spawntime="60" />
@@ -666,6 +686,22 @@
 	</spawn>
 	<spawn centerx="3172" centery="3365" centerz="5" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2853" centery="3416" centerz="5" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Hiroshin" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2853" centery="3420" centerz="5" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Hiroshin" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2860" centery="3421" centerz="5" radius="1">
+		<monster name="Hiroshin" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Hiroshin" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2852" centery="3425" centerz="5" radius="1">
+		<monster name="Hiroshin" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Hiroshin" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="2987" centery="3425" centerz="5" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="5" spawntime="60" />
@@ -3084,21 +3120,26 @@
 	<spawn centerx="2866" centery="3285" centerz="6" radius="1">
 		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="2877" centery="3289" centerz="6" radius="1">
+	<spawn centerx="2873" centery="3287" centerz="6" radius="1">
 		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2902" centery="3289" centerz="6" radius="1" />
 	<spawn centerx="3426" centery="3290" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="2889" centery="3291" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="2914" centery="3292" centerz="6" radius="1">
 		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="2902" centery="3293" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+	<spawn centerx="2906" centery="3293" centerz="6" radius="1" />
+	<spawn centerx="2968" centery="3300" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2890" centery="3303" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2964" centery="3304" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3687" centery="3304" centerz="6" radius="1">
 		<monster name="Mini Fisher" x="0" y="-1" z="6" spawntime="60" />
@@ -3109,8 +3150,14 @@
 	<spawn centerx="3679" centery="3307" centerz="6" radius="1">
 		<monster name="Mini Fisher" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2962" centery="3309" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3582" centery="3310" centerz="6" radius="1">
 		<monster name="Hollow Wolf" x="-1" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2890" centery="3311" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3591" centery="3311" centerz="6" radius="1">
 		<monster name="Hollow Wolf" x="-1" y="-1" z="6" spawntime="60" />
@@ -3129,12 +3176,27 @@
 	<spawn centerx="3708" centery="3314" centerz="6" radius="1">
 		<monster name="Mini Fisher" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2964" centery="3315" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3692" centery="3317" centerz="6" radius="1">
 		<monster name="Mini Fisher" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2891" centery="3318" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3607" centery="3318" centerz="6" radius="1">
 		<monster name="Hollow Wolf" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Hollow Wolf" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2901" centery="3320" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2968" centery="3320" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2910" centery="3322" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3669" centery="3322" centerz="6" radius="1">
 		<monster name="Mini Fisher" x="1" y="-1" z="6" spawntime="60" />
@@ -3145,16 +3207,49 @@
 	<spawn centerx="3569" centery="3323" centerz="6" radius="1">
 		<monster name="Hollow Wolf" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2879" centery="3324" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2917" centery="3324" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2964" centery="3325" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2975" centery="3325" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2987" centery="3325" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3612" centery="3326" centerz="6" radius="1">
 		<monster name="Hollow Wolf" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2923" centery="3327" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2930" centery="3327" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3692" centery="3327" centerz="6" radius="1">
 		<monster name="Mini Fisher" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Mini Fisher" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2958" centery="3328" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2994" centery="3328" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3575" centery="3328" centerz="6" radius="1">
 		<monster name="Hollow Wolf" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Hollow Wolf" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2874" centery="3330" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2983" centery="3331" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3670" centery="3331" centerz="6" radius="1">
 		<monster name="Mini Fisher" x="1" y="-1" z="6" spawntime="60" />
@@ -3164,6 +3259,12 @@
 	</spawn>
 	<spawn centerx="3926" centery="3331" centerz="6" radius="1">
 		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2935" centery="3332" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2951" centery="3332" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3712" centery="3332" centerz="6" radius="1">
 		<monster name="Mini Fisher" x="0" y="-1" z="6" spawntime="60" />
@@ -3187,11 +3288,20 @@
 	<spawn centerx="4186" centery="3333" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2865" centery="3334" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2943" centery="3334" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3933" centery="3334" centerz="6" radius="1">
 		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3888" centery="3335" centerz="6" radius="1">
 		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2877" centery="3336" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3594" centery="3337" centerz="6" radius="1">
 		<monster name="Hollow Wolf" x="0" y="-1" z="6" spawntime="60" />
@@ -3203,11 +3313,17 @@
 	<spawn centerx="3676" centery="3338" centerz="6" radius="1">
 		<monster name="Mini Fisher" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2854" centery="3339" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3704" centery="3339" centerz="6" radius="1">
 		<monster name="Mini Fisher" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4180" centery="3339" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2900" centery="3340" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3683" centery="3340" centerz="6" radius="1">
 		<monster name="Mini Fisher" x="0" y="-1" z="6" spawntime="60" />
@@ -3224,20 +3340,35 @@
 	<spawn centerx="3934" centery="3342" centerz="6" radius="1">
 		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2939" centery="3343" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="4257" centery="3343" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4278" centery="3343" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2883" centery="3344" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3867" centery="3344" centerz="6" radius="1">
 		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2893" centery="3345" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3928" centery="3345" centerz="6" radius="1">
 		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4247" centery="3346" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2855" centery="3348" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2903" centery="3348" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3374" centery="3348" centerz="6" radius="1">
 		<monster name="Mummy" x="0" y="-1" z="6" spawntime="60" />
@@ -3283,11 +3414,17 @@
 	<spawn centerx="3914" centery="3349" centerz="6" radius="1">
 		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2938" centery="3351" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3163" centery="3352" centerz="6" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3170" centery="3352" centerz="6" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2889" centery="3353" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3126" centery="3353" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
@@ -3310,6 +3447,9 @@
 	</spawn>
 	<spawn centerx="4232" centery="3354" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2933" centery="3356" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3158" centery="3356" centerz="6" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="6" spawntime="60" />
@@ -3336,6 +3476,12 @@
 	<spawn centerx="4225" centery="3357" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2857" centery="3358" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2884" centery="3358" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3109" centery="3358" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -3351,12 +3497,18 @@
 	<spawn centerx="3434" centery="3358" centerz="6" radius="1">
 		<monster name="Mummy" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2893" centery="3359" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3105" centery="3359" centerz="6" radius="1">
 		<monster name="Hollow Wolf" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3379" centery="3359" centerz="6" radius="1">
 		<monster name="Mummy" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Mummy" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2926" centery="3360" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3880" centery="3360" centerz="6" radius="1">
 		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
@@ -3373,6 +3525,10 @@
 	<spawn centerx="3595" centery="3361" centerz="6" radius="1">
 		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2811" centery="3362" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Hiroshin" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3088" centery="3362" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -3381,6 +3537,9 @@
 	</spawn>
 	<spawn centerx="3160" centery="3362" centerz="6" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2919" centery="3363" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3068" centery="3363" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
@@ -3428,6 +3587,9 @@
 	<spawn centerx="4181" centery="3365" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2802" centery="3366" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3204" centery="3366" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -3438,6 +3600,9 @@
 	<spawn centerx="4199" centery="3366" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2913" centery="3368" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3148" centery="3368" centerz="6" radius="1">
 		<monster name="Hollow Wolf" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -3446,6 +3611,9 @@
 	</spawn>
 	<spawn centerx="4190" centery="3368" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2856" centery="3369" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3051" centery="3369" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
@@ -3461,6 +3629,9 @@
 	<spawn centerx="3397" centery="3369" centerz="6" radius="1">
 		<monster name="Mummy" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Mummy" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2845" centery="3370" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3224" centery="3370" centerz="6" radius="1">
 		<monster name="Hollow Wolf" x="0" y="0" z="6" spawntime="60" />
@@ -3487,17 +3658,33 @@
 		<monster name="Mummy" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Mummy" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2813" centery="3373" centerz="6" radius="1">
+		<monster name="Hiroshin" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3437" centery="3373" centerz="6" radius="1">
 		<monster name="Mummy" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2834" centery="3374" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3168" centery="3374" centerz="6" radius="1">
 		<monster name="Hollow Wolf" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2863" centery="3375" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3228" centery="3375" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3890" centery="3375" centerz="6" radius="1">
 		<monster name="Kensei Boss" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2822" centery="3376" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2908" centery="3376" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3237" centery="3376" centerz="6" radius="1">
 		<monster name="Hollow Wolf" x="0" y="0" z="6" spawntime="60" />
@@ -3537,6 +3724,19 @@
 	<spawn centerx="3397" centery="3379" centerz="6" radius="1">
 		<monster name="Mummy" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2800" centery="3380" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2871" centery="3381" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2810" centery="3383" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Hiroshin" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2904" centery="3384" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3380" centery="3384" centerz="6" radius="1">
 		<monster name="Mummy" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Mummy" x="0" y="1" z="6" spawntime="60" />
@@ -3566,14 +3766,26 @@
 	<spawn centerx="4170" centery="3386" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2874" centery="3387" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2896" centery="3388" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3011" centery="3388" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3008" centery="3390" centerz="6" radius="1">
 		<monster name="Hollow Wolf" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2888" centery="3391" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="4178" centery="3391" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2805" centery="3393" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4171" centery="3394" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
@@ -3586,6 +3798,9 @@
 	</spawn>
 	<spawn centerx="3258" centery="3396" centerz="6" radius="1">
 		<monster name="Hollow Wolf" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2881" centery="3397" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3254" centery="3398" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
@@ -3630,6 +3845,9 @@
 		<monster name="Black Wolf" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Black Wolf" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2873" centery="3405" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3596" centery="3406" centerz="6" radius="1">
 		<monster name="Black Wolf" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Black Wolf" x="0" y="1" z="6" spawntime="60" />
@@ -3669,6 +3887,10 @@
 	<spawn centerx="4216" centery="3413" centerz="6" radius="1">
 		<monster name="Barragan Boss" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2871" centery="3414" centerz="6" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Hiroshin" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3596" centery="3414" centerz="6" radius="1">
 		<monster name="Black Wolf" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
@@ -3695,6 +3917,14 @@
 		<monster name="Black Wolf" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Black Wolf" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2869" centery="3421" centerz="6" radius="1">
+		<monster name="Hiroshin" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2876" centery="3421" centerz="6" radius="1">
+		<monster name="Hiroshin" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="4214" centery="3421" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -3703,6 +3933,10 @@
 	</spawn>
 	<spawn centerx="4144" centery="3424" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2864" centery="3425" centerz="6" radius="1">
+		<monster name="Hiroshin" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2982" centery="3425" centerz="6" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
@@ -7276,11 +7510,19 @@
 	<spawn centerx="3234" centery="3287" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2900" centery="3288" centerz="7" radius="1">
+		<monster name="Hiroshin" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3218" centery="3288" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3716" centery="3290" centerz="7" radius="1">
 		<monster name="Mini Fisher" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2896" centery="3291" centerz="7" radius="1">
+		<monster name="Hiroshin" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3448" centery="3291" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -7292,6 +7534,10 @@
 	<spawn centerx="3454" centery="3294" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2894" centery="3295" centerz="7" radius="1">
+		<monster name="Hiroshin" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3449" centery="3295" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
@@ -7502,6 +7748,9 @@
 	<spawn centerx="4279" centery="3341" centerz="7" radius="1">
 		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2901" centery="3342" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3582" centery="3342" centerz="7" radius="1">
 		<monster name="Hollow Wolf" x="-1" y="-1" z="7" spawntime="60" />
 	</spawn>
@@ -7544,6 +7793,10 @@
 	<spawn centerx="3098" centery="3346" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Hollow Grande" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2898" centery="3347" centerz="7" radius="1">
+		<monster name="Hiroshin" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3393" centery="3347" centerz="7" radius="1">
 		<monster name="Mummy" x="-1" y="1" z="7" spawntime="60" />
@@ -7602,6 +7855,9 @@
 	<spawn centerx="3659" centery="3352" centerz="7" radius="1">
 		<monster name="Mini Fisher" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2889" centery="3353" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3083" centery="3354" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Hollow Grande" x="0" y="1" z="7" spawntime="60" />
@@ -7632,6 +7888,10 @@
 	</spawn>
 	<spawn centerx="4179" centery="3357" centerz="7" radius="1">
 		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2887" centery="3358" centerz="7" radius="1">
+		<monster name="Hiroshin" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3112" centery="3358" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="-1" z="7" spawntime="60" />
@@ -7690,6 +7950,10 @@
 	</spawn>
 	<spawn centerx="4218" centery="3364" centerz="7" radius="1">
 		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2806" centery="3365" centerz="7" radius="1">
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Hiroshin" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3097" centery="3367" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="1" y="-1" z="7" spawntime="60" />
@@ -7759,6 +8023,10 @@
 	<spawn centerx="4206" centery="3374" centerz="7" radius="1">
 		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2801" centery="3375" centerz="7" radius="1">
+		<monster name="Hiroshin" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3082" centery="3375" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
@@ -7791,6 +8059,10 @@
 	<spawn centerx="3371" centery="3379" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2810" centery="3380" centerz="7" radius="1">
+		<monster name="Hiroshin" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="4169" centery="3380" centerz="7" radius="1">
 		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -7807,6 +8079,10 @@
 	<spawn centerx="3524" centery="3383" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2802" centery="3384" centerz="7" radius="1">
+		<monster name="Hiroshin" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3379" centery="3384" centerz="7" radius="1">
 		<monster name="Mummy" x="-1" y="-1" z="7" spawntime="60" />
