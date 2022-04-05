@@ -73,4 +73,6 @@
 	<house name="Unnamed House #108" houseid="108" entryx="3124" entryy="3500" entryz="7" rent="0" townid="2" size="90" />
 	<house name="Unnamed House #109" houseid="109" entryx="3124" entryy="3488" entryz="7" rent="0" townid="2" size="80" />
 	<house name="Unnamed House #110" houseid="110" entryx="3124" entryy="3477" entryz="7" rent="0" townid="2" size="90" />
+	<house name="Unnamed House #113" houseid="113" entryx="3131" entryy="3547" entryz="7" rent="0" townid="2" size="54" />
+	<house name="Unnamed House #114" houseid="114" entryx="0" entryy="0" entryz="0" rent="0" townid="2" size="0" />
 </houses>
