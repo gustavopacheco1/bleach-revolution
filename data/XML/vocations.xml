@@ -106,7 +106,7 @@
 		<formula meleeDamage="15.0" distDamage="1.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0" />
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
 	</vocation>
-	
+</vocations> 
   
 
 
