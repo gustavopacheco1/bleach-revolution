@@ -1,6 +1,6 @@
 buyable_items = {
     ["Ururu Tsumugiya"] = {
-        [2278] = {price = 2000}
+        [2293] = {price = 2000}
     },
 
     ["Hikari"] = {

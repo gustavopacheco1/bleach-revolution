@@ -3466,7 +3466,7 @@
 		<attribute key="weight" value="120" />
 		<attribute key="charges" value="3" />
 	</item>
-	<item id="2293" article="a" name="paralyze rune">
+	<item id="2293" article="a" name="reiatsu wall">
 		<attribute key="runeSpellName" value="adana ani" />
 		<attribute key="weight" value="120" />
 		<attribute key="charges" value="1" />
@@ -22368,6 +22368,33 @@
 		<attribute key="healthGain" value="1200" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="head" />
+	</item>
+	<item id="16136" name="Shinigami Armor">
+		<attribute key="weight" value="1000" />
+		<attribute key="armor" value="5" />
+		<attribute key="manaGain" value="200" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="healthGain" value="200" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="slotType" value="body" />
+	</item>
+	<item id="16135" name="Shinigami Legs">
+		<attribute key="weight" value="1000" />
+		<attribute key="armor" value="5" />
+		<attribute key="manaGain" value="200" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="healthGain" value="200" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="slotType" value="Legs" />
+	</item>
+	<item id="16137" name="Shinigami Boots">
+		<attribute key="weight" value="1000" />
+		<attribute key="armor" value="5" />
+		<attribute key="manaGain" value="200" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="healthGain" value="200" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="slotType" value="Feet" />
 	</item>
 
 	<!-- Shields -->

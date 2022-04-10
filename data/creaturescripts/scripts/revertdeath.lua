@@ -73,7 +73,7 @@ local VOCATION_REVERT_DEATH = {
     },
 
     -- Toshiro Histugaya
-    ["Toshiro Histugaya"] = {
+    ["Toshiro Hitsugaya"] = {
         [1] = {vocation = 49, looktype = 73},
         [100] = {vocation = 50, looktype = 74},
         [200] = {vocation = 51, looktype = 75},

@@ -167,6 +167,12 @@ local questChests = {
         storage = "fake_zaraki_quest",
         -- Shidoh Shield
         items = {15060}
+    },
+	
+	[50032] = {
+        storage = "first_chest",
+        -- Inicial Set
+        items = {16135,16136,16137}
     }
 }
 

@@ -6,448 +6,107 @@
 	</vocation>
 
 	<!-- Ichigo Kurosaki -->
-	<vocation id="1" name="Ichigo Kurosaki" description="Ichigo Kurosaki" needpremium="0" gaincap="100" gainhp="350" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="1">
-		<formula meleeDamage="5.0" distDamage="1.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="2" name="Ichigo Kurosaki" description="Ichigo Kurosaki" needpremium="0" gaincap="100" gainhp="350" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="2">
-		<formula meleeDamage="15.0" distDamage="1.0" wandDamage="1.0" magDamage="1.1" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="3" name="Ichigo Kurosaki" description="Ichigo Kurosaki" needpremium="0" gaincap="100" gainhp="350" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="3">
-		<formula meleeDamage="25.0" distDamage="1.0" wandDamage="1.0" magDamage="1.2" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="4" name="Ichigo Kurosaki" description="Ichigo Kurosaki" needpremium="0" gaincap="100" gainhp="350" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="4">
-		<formula meleeDamage="35.0" distDamage="1.0" wandDamage="1.0" magDamage="1.3" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="5" name="Ichigo Kurosaki" description="Ichigo Kurosaki" needpremium="0" gaincap="100" gainhp="350" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="5">
-		<formula meleeDamage="50.0" distDamage="1.0" wandDamage="1.0" magDamage="1.4" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="6" name="Ichigo Kurosaki" description="Ichigo Kurosaki" needpremium="0" gaincap="100" gainhp="350" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="6">
-		<formula meleeDamage="75.0" distDamage="1.0" wandDamage="1.0" magDamage="1.6" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-
-
-	<!-- Chad -->
-	<vocation id="7" name="Chad" description="Chad" needpremium="0" gaincap="100" gainhp="500" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="7">
-		<formula meleeDamage="5.0" distDamage="1.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.2" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="8" name="Chad" description="Chad" needpremium="0" gaincap="100" gainhp="500" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="8">
-		<formula meleeDamage="15.0" distDamage="1.0" wandDamage="1.0" magDamage="1.1" magHealingDamage="1.0" defense="1.2" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="9" name="Chad" description="Chad" needpremium="0" gaincap="100" gainhp="500" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="9">
-		<formula meleeDamage="25.0" distDamage="1.0" wandDamage="1.0" magDamage="1.2" magHealingDamage="1.0" defense="1.2" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="10" name="Chad" description="Chad" needpremium="0" gaincap="100" gainhp="500" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="10">
-		<formula meleeDamage="35.0" distDamage="1.0" wandDamage="1.0" magDamage="1.3" magHealingDamage="1.0" defense="1.2" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="11" name="Chad" description="Chad" needpremium="0" gaincap="100" gainhp="500" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="11">
-		<formula meleeDamage="50.0" distDamage="1.0" wandDamage="1.0" magDamage="1.4" magHealingDamage="1.0" defense="1.2" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="12" name="Chad" description="Chad" needpremium="0" gaincap="100" gainhp="500" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="12">
-		<formula meleeDamage="75.0" distDamage="1.0" wandDamage="1.0" magDamage="1.6" magHealingDamage="1.0" defense="1.2" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-
-
-	<!-- Bazz-B -->
-	<vocation id="13" name="Bazz-B" description="Bazz-B" needpremium="0" gaincap="100" gainhp="300" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="13">
-		<formula meleeDamage="1.0" distDamage="5.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="14" name="Bazz-B" description="Bazz-B" needpremium="0" gaincap="100" gainhp="300" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="14">
-		<formula meleeDamage="1.0" distDamage="15.0" wandDamage="1.0" magDamage="1.1" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="15" name="Bazz-B" description="Bazz-B" needpremium="0" gaincap="100" gainhp="300" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="15">
-		<formula meleeDamage="1.0" distDamage="25.0" wandDamage="1.0" magDamage="1.2" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="16" name="Bazz-B" description="Bazz-B" needpremium="0" gaincap="100" gainhp="300" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="16">
-		<formula meleeDamage="1.0" distDamage="35.0" wandDamage="1.0" magDamage="1.3" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="17" name="Bazz-B" description="Bazz-B" needpremium="0" gaincap="100" gainhp="300" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="17">
-		<formula meleeDamage="1.0" distDamage="50.0" wandDamage="1.0" magDamage="1.4" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="18" name="Bazz-B" description="Bazz-B" needpremium="0" gaincap="100" gainhp="300" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="18">
-		<formula meleeDamage="1.0" distDamage="75.0" wandDamage="1.0" magDamage="1.6" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-
-
-	<!-- Orihime Inoue -->
-	<vocation id="19" name="Orihime Inoue" description="Orihime Inoue" needpremium="0" gaincap="100" gainhp="300" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="19">
-		<formula meleeDamage="1.0" distDamage="5.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="20" name="Orihime Inoue" description="Orihime Inoue" needpremium="0" gaincap="100" gainhp="300" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="20">
-		<formula meleeDamage="1.0" distDamage="15.0" wandDamage="1.0" magDamage="1.1" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="21" name="Orihime Inoue" description="Orihime Inoue" needpremium="0" gaincap="100" gainhp="300" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="21">
-		<formula meleeDamage="1.0" distDamage="25.0" wandDamage="1.0" magDamage="1.2" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="22" name="Orihime Inoue" description="Orihime Inoue" needpremium="0" gaincap="100" gainhp="300" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="22">
-		<formula meleeDamage="1.0" distDamage="35.0" wandDamage="1.0" magDamage="1.3" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="23" name="Orihime Inoue" description="Orihime Inoue" needpremium="0" gaincap="100" gainhp="300" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="23">
-		<formula meleeDamage="1.0" distDamage="50.0" wandDamage="1.0" magDamage="1.4" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="24" name="Orihime Inoue" description="Orihime Inoue" needpremium="0" gaincap="100" gainhp="300" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="24">
-		<formula meleeDamage="1.0" distDamage="75.0" wandDamage="1.0" magDamage="1.6" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-
-
-	<!-- Uryu Ishida -->
-	<vocation id="25" name="Uryu Ishida" description="Uryu Ishida" needpremium="0" gaincap="100" gainhp="300" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="25">
-		<formula meleeDamage="1.0" distDamage="5.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="26" name="Uryu Ishida" description="Uryu Ishida" needpremium="0" gaincap="100" gainhp="300" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="26">
-		<formula meleeDamage="1.0" distDamage="15.0" wandDamage="1.0" magDamage="1.1" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="27" name="Uryu Ishida" description="Uryu Ishida" needpremium="0" gaincap="100" gainhp="300" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="27">
-		<formula meleeDamage="1.0" distDamage="25.0" wandDamage="1.0" magDamage="1.2" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="28" name="Uryu Ishida" description="Uryu Ishida" needpremium="0" gaincap="100" gainhp="300" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="28">
-		<formula meleeDamage="1.0" distDamage="35.0" wandDamage="1.0" magDamage="1.3" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="29" name="Uryu Ishida" description="Uryu Ishida" needpremium="0" gaincap="100" gainhp="300" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="29">
-		<formula meleeDamage="1.0" distDamage="50.0" wandDamage="1.0" magDamage="1.4" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="30" name="Uryu Ishida" description="Uryu Ishida" needpremium="0" gaincap="100" gainhp="300" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="30">
-		<formula meleeDamage="1.0" distDamage="75.0" wandDamage="1.0" magDamage="1.6" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-
-
-	<!-- Ulquiorra Ciffer -->
-	<vocation id="31" name="Ulquiorra Ciffer" description="Ulquiorra Ciffer" needpremium="0" gaincap="100" gainhp="370" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="31">
-		<formula meleeDamage="1.0" distDamage="5.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="32" name="Ulquiorra Ciffer" description="Ulquiorra Ciffer" needpremium="0" gaincap="100" gainhp="370" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="32">
-		<formula meleeDamage="1.0" distDamage="15.0" wandDamage="1.0" magDamage="1.1" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="33" name="Ulquiorra Ciffer" description="Ulquiorra Ciffer" needpremium="0" gaincap="100" gainhp="370" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="33">
-		<formula meleeDamage="1.0" distDamage="25.0" wandDamage="1.0" magDamage="1.2" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="34" name="Ulquiorra Ciffer" description="Ulquiorra Ciffer" needpremium="0" gaincap="100" gainhp="370" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="34">
-		<formula meleeDamage="1.0" distDamage="35.0" wandDamage="1.0" magDamage="1.3" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="35" name="Ulquiorra Ciffer" description="Ulquiorra Ciffer" needpremium="0" gaincap="100" gainhp="370" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="35">
-		<formula meleeDamage="1.0" distDamage="50.0" wandDamage="1.0" magDamage="1.4" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="36" name="Ulquiorra Ciffer" description="Ulquiorra Ciffer" needpremium="0" gaincap="100" gainhp="370" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="36">
-		<formula meleeDamage="1.0" distDamage="75.0" wandDamage="1.0" magDamage="1.6" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-
-
-	<!-- Zaraki Kenpachi -->
-	<vocation id="37" name="Zaraki Kenpachi" description="Zaraki Kenpachi" needpremium="0" gaincap="100" gainhp="370" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="37">
-		<formula meleeDamage="5.0" distDamage="1.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="38" name="Zaraki Kenpachi" description="Zaraki Kenpachi" needpremium="0" gaincap="100" gainhp="370" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="38">
-		<formula meleeDamage="15.0" distDamage="1.0" wandDamage="1.0" magDamage="1.1" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="39" name="Zaraki Kenpachi" description="Zaraki Kenpachi" needpremium="0" gaincap="100" gainhp="370" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="39">
-		<formula meleeDamage="25.0" distDamage="1.0" wandDamage="1.0" magDamage="1.2" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="40" name="Zaraki Kenpachi" description="Zaraki Kenpachi" needpremium="0" gaincap="100" gainhp="370" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="40">
-		<formula meleeDamage="35.0" distDamage="1.0" wandDamage="1.0" magDamage="1.3" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="41" name="Zaraki Kenpachi" description="Zaraki Kenpachi" needpremium="0" gaincap="100" gainhp="370" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="41">
-		<formula meleeDamage="50.0" distDamage="1.0" wandDamage="1.0" magDamage="1.4" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="42" name="Zaraki Kenpachi" description="Zaraki Kenpachi" needpremium="0" gaincap="100" gainhp="370" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="42">
-		<formula meleeDamage="75.0" distDamage="1.0" wandDamage="1.0" magDamage="1.6" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-
-
-	<!-- Byakuya Kuchiki -->
-	<vocation id="43" name="Byakuya Kuchiki" description="Byakuya Kuchiki" needpremium="0" gaincap="100" gainhp="370" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="43">
-		<formula meleeDamage="5.0" distDamage="1.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="44" name="Byakuya Kuchiki" description="Byakuya Kuchiki" needpremium="0" gaincap="100" gainhp="370" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="44">
-		<formula meleeDamage="15.0" distDamage="1.0" wandDamage="1.0" magDamage="1.1" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="45" name="Byakuya Kuchiki" description="Byakuya Kuchiki" needpremium="0" gaincap="100" gainhp="370" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="45">
-		<formula meleeDamage="25.0" distDamage="1.0" wandDamage="1.0" magDamage="1.2" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="46" name="Byakuya Kuchiki" description="Byakuya Kuchiki" needpremium="0" gaincap="100" gainhp="370" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="46">
-		<formula meleeDamage="35.0" distDamage="1.0" wandDamage="1.0" magDamage="1.3" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="47" name="Byakuya Kuchiki" description="Byakuya Kuchiki" needpremium="0" gaincap="100" gainhp="370" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="47">
-		<formula meleeDamage="50.0" distDamage="1.0" wandDamage="1.0" magDamage="1.4" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="48" name="Byakuya Kuchiki" description="Byakuya Kuchiki" needpremium="0" gaincap="100" gainhp="370" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="48">
-		<formula meleeDamage="75.0" distDamage="1.0" wandDamage="1.0" magDamage="1.6" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-
-
-	<!-- Toshiro Histugaya -->
-	<vocation id="49" name="Toshiro Histugaya" description="Toshiro Histugaya" needpremium="0" gaincap="100" gainhp="350" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="49">
-		<formula meleeDamage="5.0" distDamage="1.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="50" name="Toshiro Histugaya" description="Toshiro Histugaya" needpremium="0" gaincap="100" gainhp="350" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="50">
-		<formula meleeDamage="15.0" distDamage="1.0" wandDamage="1.0" magDamage="1.1" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="51" name="Toshiro Histugaya" description="Toshiro Histugaya" needpremium="0" gaincap="100" gainhp="350" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="51">
-		<formula meleeDamage="25.0" distDamage="1.0" wandDamage="1.0" magDamage="1.2" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="52" name="Toshiro Histugaya" description="Toshiro Histugaya" needpremium="0" gaincap="100" gainhp="350" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="52">
-		<formula meleeDamage="35.0" distDamage="1.0" wandDamage="1.0" magDamage="1.3" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="53" name="Toshiro Histugaya" description="Toshiro Histugaya" needpremium="0" gaincap="100" gainhp="350" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="53">
-		<formula meleeDamage="50.0" distDamage="1.0" wandDamage="1.0" magDamage="1.4" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="54" name="Toshiro Histugaya" description="Toshiro Histugaya" needpremium="0" gaincap="100" gainhp="350" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="54">
-		<formula meleeDamage="75.0" distDamage="1.0" wandDamage="1.0" magDamage="1.6" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-
-
-	<!-- Rukia Kuchiki -->
-	<vocation id="55" name="Rukia Kuchiki" description="Rukia Kuchiki" needpremium="0" gaincap="100" gainhp="300" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="55">
-		<formula meleeDamage="5.0" distDamage=".0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="56" name="Rukia Kuchiki" description="Rukia Kuchiki" needpremium="0" gaincap="100" gainhp="300" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="56">
-		<formula meleeDamage="15.0" distDamage="1.0" wandDamage="1.0" magDamage="1.1" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="57" name="Rukia Kuchiki" description="Rukia Kuchiki" needpremium="0" gaincap="100" gainhp="300" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="57">
-		<formula meleeDamage="25.0" distDamage="1.0" wandDamage="1.0" magDamage="1.2" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="58" name="Rukia Kuchiki" description="Rukia Kuchiki" needpremium="0" gaincap="100" gainhp="300" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="58">
-		<formula meleeDamage="35.0" distDamage="1.0" wandDamage="1.0" magDamage="1.3" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="59" name="Rukia Kuchiki" description="Rukia Kuchiki" needpremium="0" gaincap="100" gainhp="300" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="59">
-		<formula meleeDamage="50.0" distDamage="1.0" wandDamage="1.0" magDamage="1.4" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="60" name="Rukia Kuchiki" description="Rukia Kuchiki" needpremium="0" gaincap="100" gainhp="300" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="60">
-		<formula meleeDamage="75.0" distDamage="1.0" wandDamage="1.0" magDamage="1.6" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-
-
-	<!-- Nelliel Odelschwanck-->
-	<vocation id="61" name="Nelliel Odelschwanck" description="Nelliel Odelschwanck" needpremium="0" gaincap="100" gainhp="350" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="61">
-		<formula meleeDamage="5.0" distDamage="1.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="62" name="Nelliel Odelschwanck" description="Nelliel Odelschwanck" needpremium="0" gaincap="100" gainhp="350" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="62">
-		<formula meleeDamage="15.0" distDamage="1.0" wandDamage="1.0" magDamage="1.1" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="63" name="Nelliel Odelschwanck" description="Nelliel Odelschwanck" needpremium="0" gaincap="100" gainhp="350" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="63">
-		<formula meleeDamage="25.0" distDamage="1.0" wandDamage="1.0" magDamage="1.2" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="64" name="Nelliel Odelschwanck" description="Nelliel Odelschwanck" needpremium="0" gaincap="100" gainhp="350" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="64">
-		<formula meleeDamage="35.0" distDamage="1.0" wandDamage="1.0" magDamage="1.3" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="65" name="Nelliel Odelschwanck" description="Nelliel Odelschwanck" needpremium="0" gaincap="100" gainhp="350" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="65">
-		<formula meleeDamage="50.0" distDamage="1.0" wandDamage="1.0" magDamage="1.4" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="66" name="Nelliel Odelschwanck" description="Nelliel Odelschwanck" needpremium="0" gaincap="100" gainhp="350" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="66">
-		<formula meleeDamage="75.0" distDamage="1.0" wandDamage="1.0" magDamage="1.6" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-
-
-	<!-- Retsu Unohana-->
-	<vocation id="67" name="Retsu Unohana" description="Retsu Unohana" needpremium="0" gaincap="100" gainhp="320" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="67">
-		<formula meleeDamage="5.0" distDamage="1.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="68" name="Retsu Unohana" description="Retsu Unohana" needpremium="0" gaincap="100" gainhp="320" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="68">
-		<formula meleeDamage="15.0" distDamage="1.0" wandDamage="1.0" magDamage="1.1" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="69" name="Retsu Unohana" description="Retsu Unohana" needpremium="0" gaincap="100" gainhp="320" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="69">
-		<formula meleeDamage="25.0" distDamage="1.0" wandDamage="1.0" magDamage="1.2" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="70" name="Retsu Unohana" description="Retsu Unohana" needpremium="0" gaincap="100" gainhp="320" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="70">
-		<formula meleeDamage="35.0" distDamage="1.0" wandDamage="1.0" magDamage="1.3" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="71" name="Retsu Unohana" description="Retsu Unohana" needpremium="0" gaincap="100" gainhp="320" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="71">
-		<formula meleeDamage="50.0" distDamage="1.0" wandDamage="1.0" magDamage="1.4" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="72" name="Retsu Unohana" description="Retsu Unohana" needpremium="0" gaincap="100" gainhp="320" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="72">
-		<formula meleeDamage="75.0" distDamage="1.0" wandDamage="1.0" magDamage="1.6" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-
-
-	<!-- Renjii Abarai -->
-	<vocation id="73" name="Renjii Abarai" description="Renjii Abarai" needpremium="0" gaincap="100" gainhp="350" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="73">
-		<formula meleeDamage="5.0" distDamage="1.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="74" name="Renjii Abarai" description="Renjii Abarai" needpremium="0" gaincap="100" gainhp="350" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="74">
-		<formula meleeDamage="15.0" distDamage="1.0" wandDamage="1.0" magDamage="1.1" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="75" name="Renjii Abarai" description="Renjii Abarai" needpremium="0" gaincap="100" gainhp="350" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="75">
-		<formula meleeDamage="25.0" distDamage="1.0" wandDamage="1.0" magDamage="1.2" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="76" name="Renjii Abarai" description="Renjii Abarai" needpremium="0" gaincap="100" gainhp="350" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="76">
-		<formula meleeDamage="35.0" distDamage="1.0" wandDamage="1.0" magDamage="1.3" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="77" name="Renjii Abarai" description="Renjii Abarai" needpremium="0" gaincap="100" gainhp="350" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="77">
-		<formula meleeDamage="50.0" distDamage="1.0" wandDamage="1.0" magDamage="1.4" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="78" name="Renjii Abarai" description="Renjii Abarai" needpremium="0" gaincap="100" gainhp="350" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="78">
-		<formula meleeDamage="75.0" distDamage="1.0" wandDamage="1.0" magDamage="1.6" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
+	<vocation id="1" name="Ichigo Kurosaki" description="Ichigo Kurosaki" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="1">
+		<formula meleeDamage="15.0" distDamage="1.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0" />
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
 	</vocation>
 	
+	<!-- Chad -->
+	<vocation id="2" name="Chad" description="Chad" needpremium="0" gaincap="100" gainhp="350" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="7">
+		<formula meleeDamage="15.0" distDamage="1.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.2" magDefense="1.0" armor="1.0" />
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
+	</vocation>
+	
+	<!-- Bazz-B -->
+	<vocation id="3" name="Bazz-B" description="Bazz-B" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="13">
+		<formula meleeDamage="1.0" distDamage="12.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0" />
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
+	</vocation>
+	
+	<!-- Orihime Inoue -->
+	<vocation id="4" name="Orihime Inoue" description="Orihime Inoue" needpremium="0" gaincap="300" gainhp="300" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="19">
+		<formula meleeDamage="1.0" distDamage="12.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0" />
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
+	</vocation>
+	
+	<!-- Uryu Ishida -->
+	<vocation id="5" name="Uryu Ishida" description="Uryu Ishida" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="25">
+		<formula meleeDamage="1.0" distDamage="12.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0" />
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
+	</vocation>
+	
+	<!-- Ulquiorra Ciffer -->
+	<vocation id="6" name="Ulquiorra Ciffer" description="Ulquiorra Ciffer" needpremium="0" gaincap="100" gainhp="290" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="31">
+		<formula meleeDamage="1.0" distDamage="12.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0" />
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
+	</vocation>
+	
+	<!-- Zaraki Kenpachi -->
+	<vocation id="7" name="Zaraki Kenpachi" description="Zaraki Kenpachi" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="37">
+		<formula meleeDamage="15.0" distDamage="1.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0" />
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
+	</vocation>
+	
+	<!-- Byakuya Kuchiki -->
+	<vocation id="8" name="Byakuya Kuchiki" description="Byakuya Kuchiki" needpremium="0" gaincap="100" gainhp="290" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="43">
+		<formula meleeDamage="15.0" distDamage="1.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0" />
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
+	</vocation>
+	
+	<!-- Toshiro Histugaya -->
+	<vocation id="9" name="Toshiro Histugaya" description="Toshiro Histugaya" needpremium="0" gaincap="100" gainhp="290" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="49">
+		<formula meleeDamage="15.0" distDamage="1.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0" />
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
+	</vocation>
+	
+	<!-- Rukia Kuchiki -->
+	<vocation id="10" name="Rukia Kuchiki" description="Rukia Kuchiki" needpremium="0" gaincap="100" gainhp="300" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="55">
+		<formula meleeDamage="15.0" distDamage=".0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0" />
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
+	</vocation>
+	
+	<!-- Nelliel Odelschwanck-->
+	<vocation id="11" name="Nelliel Odelschwanck" description="Nelliel Odelschwanck" needpremium="0" gaincap="100" gainhp="290" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="61">
+		<formula meleeDamage="15.0" distDamage="1.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0" />
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
+	</vocation>
+	
+	<!-- Retsu Unohana-->
+	<vocation id="12" name="Retsu Unohana" description="Retsu Unohana" needpremium="0" gaincap="100" gainhp="300" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="67">
+		<formula meleeDamage="15.0" distDamage="1.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0" />
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
+	</vocation>
+	
+	<!-- Renjii Abarai -->
+	<vocation id="13" name="Renjii Abarai" description="Renjii Abarai" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="73">
+		<formula meleeDamage="15.0" distDamage="1.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0" />
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
+	</vocation>
 	
 	<!-- Gin Ichimaru -->
-	<vocation id="79" name="Gin Ichimaru" description="Gin Ichimaru" needpremium="0" gaincap="100" gainhp="320" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="79">
-		<formula meleeDamage="5.0" distDamage="1.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0" />
+	<vocation id="14" name="Gin Ichimaru" description="Gin Ichimaru" needpremium="0" gaincap="100" gainhp="300" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="79">
+		<formula meleeDamage="15.0" distDamage="1.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0" />
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
 	</vocation>
-	<vocation id="80" name="Gin Ichimaru" description="Gin Ichimaru" needpremium="0" gaincap="100" gainhp="320" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="80">
-		<formula meleeDamage="15.0" distDamage="1.0" wandDamage="1.0" magDamage="1.1" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="81" name="Gin Ichimaru" description="Gin Ichimaru" needpremium="0" gaincap="100" gainhp="320" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="81">
-		<formula meleeDamage="25.0" distDamage="1.0" wandDamage="1.0" magDamage="1.2" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="82" name="Gin Ichimaru" description="Gin Ichimaru" needpremium="0" gaincap="100" gainhp="320" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="82">
-		<formula meleeDamage="35.0" distDamage="1.0" wandDamage="1.0" magDamage="1.3" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="83" name="Gin Ichimaru" description="Gin Ichimaru" needpremium="0" gaincap="100" gainhp="320" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="83">
-		<formula meleeDamage="50.0" distDamage="1.0" wandDamage="1.0" magDamage="1.4" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	
-	
 	
 	<!-- Kuugo Ginjou -->
-	<vocation id="85" name="Kuugo Ginjou" description="Kuugo Ginjou" needpremium="0" gaincap="100" gainhp="370" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="85">
+	<vocation id="15" name="Kuugo Ginjou" description="Kuugo Ginjou" needpremium="0" gaincap="100" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="85">
 		<formula meleeDamage="5.0" distDamage="1.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0" />
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
 	</vocation>
-	<vocation id="86" name="Kuugo Ginjou" description="Kuugo Ginjou" needpremium="0" gaincap="100" gainhp="370" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="86">
-		<formula meleeDamage="15.0" distDamage="1.0" wandDamage="1.0" magDamage="1.1" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="87" name="Kuugo Ginjou" description="Kuugo Ginjou" needpremium="0" gaincap="100" gainhp="370" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="87">
-		<formula meleeDamage="25.0" distDamage="1.0" wandDamage="1.0" magDamage="1.2" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="88" name="Kuugo Ginjou" description="Kuugo Ginjou" needpremium="0" gaincap="100" gainhp="370" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="88">
-		<formula meleeDamage="35.0" distDamage="1.0" wandDamage="1.0" magDamage="1.3" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="89" name="Kuugo Ginjou" description="Kuugo Ginjou" needpremium="0" gaincap="100" gainhp="370" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="89">
-		<formula meleeDamage="50.0" distDamage="1.0" wandDamage="1.0" magDamage="1.4" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	
 	
 	<!-- Tier Halibel -->
-	<vocation id="91" name="Tier Halibel" description="Tier Halibel" needpremium="0" gaincap="100" gainhp="520" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="91">
-		<formula meleeDamage="5.0" distDamage="1.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.2" magDefense="1.0" armor="1.0" />
+	<vocation id="16" name="Tier Halibel" description="Tier Halibel" needpremium="0" gaincap="100" gainhp="350" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="91">
+		<formula meleeDamage="15.0" distDamage="1.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.2" magDefense="1.0" armor="1.0" />
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
 	</vocation>
-	<vocation id="92" name="Tier Halibel" description="Tier Halibel" needpremium="0" gaincap="100" gainhp="520" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="92">
-		<formula meleeDamage="15.0" distDamage="1.0" wandDamage="1.0" magDamage="1.1" magHealingDamage="1.0" defense="1.2" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="93" name="Tier Halibel" description="Tier Halibel" needpremium="0" gaincap="100" gainhp="520" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="93">
-		<formula meleeDamage="25.0" distDamage="1.0" wandDamage="1.0" magDamage="1.2" magHealingDamage="1.0" defense="1.2" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="94" name="Tier Halibel" description="Tier Halibel" needpremium="0" gaincap="100" gainhp="520" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="94">
-		<formula meleeDamage="35.0" distDamage="1.0" wandDamage="1.0" magDamage="1.3" magHealingDamage="1.0" defense="1.2" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="95" name="Tier Halibel" description="Tier Halibel" needpremium="0" gaincap="100" gainhp="520" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="95">
-		<formula meleeDamage="50.0" distDamage="1.0" wandDamage="1.0" magDamage="1.4" magHealingDamage="1.0" defense="1.2" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	
 	
 	<!-- Urahara Kisuke -->
-	<vocation id="98" name="Urahara Kisuke" description="Urahara Kisuke" needpremium="0" gaincap="100" gainhp="360" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="98">
-		<formula meleeDamage="5.0" distDamage="1.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0" />
+	<vocation id="17" name="Urahara Kisuke" description="Urahara Kisuke" needpremium="0" gaincap="100" gainhp="290" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="98">
+		<formula meleeDamage="15.0" distDamage="1.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0" />
 		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
 	</vocation>
-	<vocation id="99" name="Urahara Kisuke" description="Urahara Kisuke" needpremium="0" gaincap="100" gainhp="360" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="99">
-		<formula meleeDamage="15.0" distDamage="1.0" wandDamage="1.0" magDamage="1.1" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="100" name="Urahara Kisuke" description="Urahara Kisuke" needpremium="0" gaincap="100" gainhp="360" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="100">
-		<formula meleeDamage="25.0" distDamage="1.0" wandDamage="1.0" magDamage="1.2" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="101" name="Urahara Kisuke" description="Urahara Kisuke" needpremium="0" gaincap="100" gainhp="360" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="101">
-		<formula meleeDamage="35.0" distDamage="1.0" wandDamage="1.0" magDamage="1.3" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-	<vocation id="102" name="Urahara Kisuke" description="Urahara Kisuke" needpremium="0" gaincap="100" gainhp="360" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="102">
-		<formula meleeDamage="50.0" distDamage="1.0" wandDamage="1.0" magDamage="1.4" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0" />
-		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0" />
-	</vocation>
-</vocations> 
+	
   
 
 
