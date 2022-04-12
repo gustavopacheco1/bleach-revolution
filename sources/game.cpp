@@ -5143,19 +5143,16 @@ bool Game::combatChangeHealth(const CombatParams& params, Creature* attacker, Cr
 
 				if(params.combatType == COMBAT_PHYSICALDAMAGE)
 				{
-					Item* splash = NULL;
 					switch(target->getRace())
 					{
 						case RACE_VENOM:
 							textColor = COLOR_LIGHTGREEN;
 							magicEffect = MAGIC_EFFECT_POISON;
-							splash = Item::CreateItem(ITEM_SMALLSPLASH, FLUID_GREEN);
 							break;
 
 						case RACE_BLOOD:
 							textColor = COLOR_RED;
 							magicEffect = MAGIC_EFFECT_DRAW_BLOOD;
-							splash = Item::CreateItem(ITEM_SMALLSPLASH, FLUID_BLOOD);
 							break;
 
 						case RACE_UNDEAD:
@@ -5175,12 +5172,6 @@ bool Game::combatChangeHealth(const CombatParams& params, Creature* attacker, Cr
 
 						default:
 							break;
-					}
-
-					if(splash)
-					{
-						internalAddItem(NULL, target->getTile(), splash, INDEX_WHEREEVER, FLAG_NOLIMIT);
-						startDecay(splash);
 					}
 				}
 				else
