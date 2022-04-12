@@ -1,6 +1,6 @@
-local wall_id = 10933
+local wall_id = 16138
 local wall_time_in_seconds = 15
-local distance_shoot_missile_id = 41
+local distance_shoot_missile_id = 86
 
 function onUse(cid, item, fromPosition, itemEx, toPosition)
     if not (isPathable(cid, toPosition, false)) then
