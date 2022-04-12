@@ -21919,6 +21919,45 @@
 		<attribute key="slotType" value="feet" />
 	</item>
 	
+	<!-- Ultimate Vizard Set -->
+	<item id="16119" name="Ultimate Vizard Helmet">
+		<attribute key="weight" value="1000" />
+		<attribute key="armor" value="80" />
+		<attribute key="manaGain" value="5000" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="healthGain" value="5000" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="slotType" value="head" />
+	</item>
+	<item id="16120" name="Ultimate Vizard Armor">
+		<attribute key="weight" value="3000" />
+		<attribute key="armor" value="80" />
+		<attribute key="manaGain" value="5000" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="healthGain" value="5000" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="slotType" value="body" />
+	</item>
+	<item id="16121" name="Ultimate Vizard Legs">
+		<attribute key="weight" value="3000" />
+		<attribute key="armor" value="80" />
+		<attribute key="manaGain" value="5000" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="healthGain" value="5000" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="slotType" value="legs" />
+	</item>
+	<item id="16122" name="Ultimate Vizard Boots">
+		<attribute key="weight" value="2100" />
+		<attribute key="armor" value="80" />
+		<attribute key="speed" value="60" />
+		<attribute key="manaGain" value="5000" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="healthGain" value="5000" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="slotType" value="feet" />
+	</item>
+	
 	<!-- Kaname Set -->
 	<item id="16089" name="Kaname Helmet">
 		<attribute key="weight" value="1000" />
@@ -21993,6 +22032,45 @@
 		<attribute key="manaGain" value="3400" />
 		<attribute key="manaTicks" value="1000" />
 		<attribute key="healthGain" value="3400" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="slotType" value="feet" />
+	</item>
+	
+	<!-- Ultimate Nnoitra Set -->
+	<item id="16123" name="Ultimate Nnoitra Helmet">
+		<attribute key="weight" value="1000" />
+		<attribute key="armor" value="60" />
+		<attribute key="manaGain" value="3800" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="healthGain" value="3800" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="slotType" value="head" />
+	</item>
+	<item id="16124" name="Ultimate Nnoitra Armor">
+		<attribute key="weight" value="3000" />
+		<attribute key="armor" value="60" />
+		<attribute key="manaGain" value="3800" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="healthGain" value="3800" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="slotType" value="body" />
+	</item>
+	<item id="16125" name="Ultimate Nnoitra Legs">
+		<attribute key="weight" value="3000" />
+		<attribute key="armor" value="60" />
+		<attribute key="manaGain" value="3800" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="healthGain" value="3800" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="slotType" value="legs" />
+	</item>
+	<item id="16126" name="Ultimate Nnoitra Boots">
+		<attribute key="weight" value="2100" />
+		<attribute key="armor" value="60" />
+		<attribute key="speed" value="45" />
+		<attribute key="manaGain" value="3800" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="healthGain" value="3800" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="feet" />
 	</item>
@@ -22110,6 +22188,45 @@
 		<attribute key="manaGain" value="3800" />
 		<attribute key="manaTicks" value="1000" />
 		<attribute key="healthGain" value="3800" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="slotType" value="feet" />
+	</item>
+	
+	<!--  Ultimate Zangetsu Set -->
+	<item id="16127" name="Ultimate Zangetsu Helmet">
+		<attribute key="weight" value="1000" />
+		<attribute key="armor" value="70" />
+		<attribute key="manaGain" value="4200" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="healthGain" value="4200" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="slotType" value="head" />
+	</item>
+	<item id="16128" name="Ultimate Zangetsu Armor">
+		<attribute key="weight" value="3000" />
+		<attribute key="armor" value="70" />
+		<attribute key="manaGain" value="4200" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="healthGain" value="4200" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="slotType" value="body" />
+	</item>
+	<item id="16129" name="Ultimate Zangetsu Legs">
+		<attribute key="weight" value="3000" />
+		<attribute key="armor" value="70" />
+		<attribute key="manaGain" value="4200" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="healthGain" value="4200" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="slotType" value="legs" />
+	</item>
+	<item id="16130" name="Ultimate Zangetsu Boots">
+		<attribute key="weight" value="2100" />
+		<attribute key="armor" value="70" />
+		<attribute key="speed" value="50" />
+		<attribute key="manaGain" value="4200" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="healthGain" value="4200" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="feet" />
 	</item>

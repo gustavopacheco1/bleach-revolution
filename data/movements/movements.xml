@@ -768,6 +768,17 @@
 	<movevent type="Equip" itemid="16085" level="475" slot="feet" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="16085" slot="feet" event="function" value="onDeEquipItem"/>
 	
+	<!--  Ultimate Vizard Set -->
+	
+	<movevent type="Equip" itemid="16119" level="500" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="16119" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="16120" level="500" slot="armor" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="16120" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="16121" level="500" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="16121" slot="legs" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="16122" level="500" slot="feet" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="16122" slot="feet" event="function" value="onDeEquipItem"/>
+	
 	<!--  Kaname Set -->
 	
 	<movevent type="Equip" itemid="16089" level="350" slot="head" event="function" value="onEquipItem"/>
@@ -789,6 +800,17 @@
 	<movevent type="DeEquip" itemid="16095" slot="legs" event="function" value="onDeEquipItem"/>
 	<movevent type="Equip" itemid="16096" level="430" slot="feet" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="16096" slot="feet" event="function" value="onDeEquipItem"/>
+	
+	<!-- Ultimate Nnoitra Set -->
+	
+	<movevent type="Equip" itemid="16123" level="450" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="16123" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="16124" level="450" slot="armor" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="16124" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="16125" level="450" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="16125" slot="legs" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="16126" level="450" slot="feet" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="16126" slot="feet" event="function" value="onDeEquipItem"/>
 	
 	<!--  Kensei Set -->
 	
@@ -822,6 +844,17 @@
 	<movevent type="DeEquip" itemid="16109" slot="legs" event="function" value="onDeEquipItem"/>
 	<movevent type="Equip" itemid="16110" level="450" slot="feet" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="16110" slot="feet" event="function" value="onDeEquipItem"/>
+	
+	<!-- Ultimate Zangetsu Set -->
+	
+	<movevent type="Equip" itemid="16127" level="475" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="16127" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="16128" level="475" slot="armor" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="16128" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="16129" level="475" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="16129" slot="legs" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="16130" level="475" slot="feet" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="16130" slot="feet" event="function" value="onDeEquipItem"/>
 	
 	<!-- Kyoraku Set -->
 	
