@@ -14,7 +14,6 @@
     <event type="extendedopcode" name="ExtendedOpcode" event="script" value="extendedopcode.lua" />
     <event type="tradeaccept" name="PlayerTrade" event="script" value="playerTrade.lua"/>
     <event type="login" name="LoginReset" event="script" value="login_reset.lua"/>
-    <event type="login" name="RevertDeath" event="script" value="revertdeath.lua"/>
     <event type="target" name="NpcTarget" event="script" value="npc_target.lua"/>
 
     <!-- Monsters Events -->

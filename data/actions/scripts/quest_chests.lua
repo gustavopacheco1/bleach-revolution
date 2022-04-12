@@ -173,6 +173,12 @@ local questChests = {
         storage = "first_chest",
         -- Inicial Set
         items = {16135,16136,16137}
+    },
+	
+	[50033] = {
+        storage = "diamond_chest",
+        -- Items diamond
+        items = {16131,16132,16133,16134}
     }
 }
 
