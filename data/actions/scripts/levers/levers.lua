@@ -110,14 +110,26 @@ local paths = {
         destination = {x = 4561, y = 3968, z = 7},
         position = {x = 4544, y = 3955, z = 7},
         minutes_duration = 8
+    },
+
+    [26011] = {
+        teleport_id = 1387,
+        destination = {x = 4797, y = 3827, z = 7},
+        position = {x = 4668, y = 3826, z = 7},
+        minutes_duration = 8
     }
 }
 
 function onUse(cid, item, fromPosition, itemEx, toPosition)
+    if item.itemid == 1946 then
+        doTransformItem(item.uid, 1945)
+        return true
+    end
+
     local lever_aid = getItemAttribute(item.uid, "aid")
 
     if not (paths[lever_aid]) then
-        return
+        return false
     end
 
     local path = paths[lever_aid]
@@ -158,10 +170,6 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
         )
     end
 
-    if item.itemid == 1945 then
-        doTransformItem(item.uid, 1946)
-    else
-        doTransformItem(item.uid, 1945)
-    end
+    doTransformItem(item.uid, 1946)
     return true
 end
