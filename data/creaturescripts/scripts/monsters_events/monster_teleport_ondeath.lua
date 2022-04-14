@@ -22,6 +22,6 @@ function onDeath(cid, corpse, deathList)
         doTeleportThing(player, boss.teleport_to)
         doSendMagicEffect(boss.teleport_to, 10)
     end
-    
+
     return true
 end

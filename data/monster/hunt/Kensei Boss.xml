@@ -32,4 +32,7 @@
         <immunity outfit="1" />
         <immunity invisible="0" />
     </immunities>
+    <script>
+        <event name="MonsterTeleportOnDeath" />
+    </script>
 </monster>
