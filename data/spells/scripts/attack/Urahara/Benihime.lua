@@ -20,6 +20,7 @@ function onCastSpell(cid, var)
                     z = target_position.z
                 }, 704)
 
+
 				doCombat(cid, combat, var)
             end
         end, i * 275)
