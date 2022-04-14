@@ -7,6 +7,9 @@ function onLogin(cid)
 
     -- Storages
     setPlayerStorageValue(cid, "dodge_special", 0)
+    if getPlayerStorageValue(cid, "extra_life") == -1 then
+        setPlayerStorageValue(cid, "extra_life", 0)
+    end
 
     -- Events
     unregisterCreatureEvent(cid, "Immortal")

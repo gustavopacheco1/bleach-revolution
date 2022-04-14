@@ -39,7 +39,7 @@ function onCreatureSay(cid, type, msg)
 
     if not npcHandler:isFocused(cid) and getDistanceBetween(getThingPos(cid), getNpcPos()) < 5 then
         if isInArray({"hi", "hello", "oi", "olá"}, msg) then
-            local player_name = getCreatureName(cid) 
+            local player_name = getCreatureName(cid)
             talkState[talkUser] = nil
             selfSayMultiLanguage(
                 "Hello, " .. player_name .. "! I can give you some {tasks}. If you complete them all I guarantee you a good reward.",
@@ -50,14 +50,14 @@ function onCreatureSay(cid, type, msg)
             return true
         end
     end
-    
+
     if isInArray({"bye", "goodbye", "tchau", "adeus"}, msg) and npcHandler:isFocused(cid) then
-        npcHandler:releaseFocus(cid)
         selfSayMultiLanguage(
             "Goodbye!",
             "Adeus!",
             cid
         )
+        npcHandler:releaseFocus(cid)
         return true
     end
 
@@ -89,7 +89,7 @@ function onCreatureSay(cid, type, msg)
             )
             return false
         end
-        
+
         if player_task_kills >= task_monsters[player_task].total_kills then
             selfSayMultiLanguage(
                 "Have you already defeated " .. task_monsters[player_task].total_kills .. " " .. task_monsters[player_task + 1].name .. "s?",
@@ -116,19 +116,28 @@ function onCreatureSay(cid, type, msg)
             )
 
             setPlayerStorageValue(cid, "yamamoto_task_kills", 0)
+            return true
         end
 
         if talkState[talkUser] == 2 then
             if player_task_kills >= task_monsters[player_task].total_kills then
+                if player_task == #task_monsters then
+                    setPlayerStorageValue(cid, "extra_life", getPlayerStorageValue(cid, "extra_life") + 10000)
+                    doPlayerFormula(cid)
+                    npcHandler:releaseFocus(cid)
+                    return true
+                end
+
                 selfSayMultiLanguage(
-                    "You have finished the task. Your next is " .. task_monsters[player_task].total_kills .. " " .. task_monsters[player_task + 1].name .. "s.",
-                    "Você terminou a tarefa. A sua próxima é derrotar " .. task_monsters[player_task].total_kills .. " " .. task_monsters[player_task + 1].name .. "s.",
+                    "You have finished the task. Your next is " .. task_monsters[player_task + 1].total_kills .. " " .. task_monsters[player_task + 1].name .. "s.",
+                    "Você terminou a tarefa. A sua próxima é derrotar " .. task_monsters[player_task + 1].total_kills .. " " .. task_monsters[player_task + 1].name .. "s.",
                     cid
                 )
-    
+
                 setPlayerStorageValue(cid, "yamamoto_task", player_task + 1)
                 setPlayerStorageValue(cid, "yamamoto_task_kills", 0)
                 setPlayerStorageValue(cid, "yamamoto_task_monster", task_monsters[player_task + 1].name)
+                npcHandler:releaseFocus(cid)
                 return true
             end
         end

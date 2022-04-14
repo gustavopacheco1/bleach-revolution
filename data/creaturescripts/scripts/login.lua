@@ -31,6 +31,8 @@ function onLogin(cid)
         doSendMagicEffect(getCreaturePosition(cid), CONST_ME_TELEPORT)
     end
 
+    doPlayerFormula(cid)
+
     -- Events
     registerCreatureEvent(cid, "Idle")
     registerCreatureEvent(cid, "Mail")
@@ -38,7 +40,7 @@ function onLogin(cid)
     if(getPlayerOperatingSystem(cid) >= CLIENTOS_OTCLIENT_LINUX) then
 		registerCreatureEvent(cid, "ExtendedOpcode")
 	end
-    
+
     if (config.useFragHandler) then
         registerCreatureEvent(cid, "SkullCheck")
     end
@@ -52,7 +54,7 @@ function onLogin(cid)
     registerCreatureEvent(cid, "RevertDeath")
     registerCreatureEvent(cid, "Dodge")
     registerCreatureEvent(cid, "NpcTarget")
-    
+
     if getPlayerLevel(cid) > 1 then setPlayerStorageValue(cid, 171994, 1) end
     doCreatureSetStorage(cid, "save", (os.time() + 120))
     return true
