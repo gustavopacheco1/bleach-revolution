@@ -114,7 +114,7 @@ local paths = {
 
     [26011] = {
         teleport_id = 1387,
-        destination = {x = 4797, y = 3827, z = 7},
+        destination = {x = 4669, y = 3900, z = 7},
         position = {x = 4668, y = 3826, z = 7},
         minutes_duration = 8
     }
