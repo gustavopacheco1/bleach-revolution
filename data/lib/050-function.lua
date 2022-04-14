@@ -611,7 +611,7 @@ function getFormatedTime(cid, time)
 				string = string .. " hora"
 			end
 		end
-    end 
+    end
 
     if time.minutes > 0 then
         if time.hours > 0 then
@@ -662,4 +662,26 @@ function getFormatedTime(cid, time)
     end
 
     return string
+end
+
+function doPlayerFormula(cid)
+    local player_level = getPlayerLevel(cid)
+    local player_vocation = getPlayerVocation(cid)
+	local extra_life = getPlayerStorageValue(cid, "extra_life")
+
+	local formula_health = (player_level * getVocationInfo(player_vocation).healthGain) + extra_life
+	local formula_mana = (player_level * getVocationInfo(player_vocation).manaGain)
+
+    -- Set max health
+    if getCreatureMaxHealth(cid) ~= formula_health then
+        setCreatureMaxHealth(cid, formula_health)
+        doCreatureAddHealth(cid, getCreatureMaxHealth(cid), nil, nil)
+    end
+
+    -- Set max mana
+    if getCreatureMaxMana(cid) ~= formula_mana then
+        setCreatureMaxMana(cid, formula_mana)
+        doCreatureAddMana(cid, getCreatureMaxMana(cid), nil, nil)
+    end
+    return true
 end
