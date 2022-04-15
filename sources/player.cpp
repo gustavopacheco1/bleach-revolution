@@ -4790,24 +4790,10 @@ uint64_t Player::getLostExperience() const
 
 uint32_t Player::getAttackSpeed() const
 {
-	int32_t modifiers = 0;
-	if(outfitAttributes)
-	{
-		Outfit outfit;
-		if(Outfits::getInstance()->getOutfit(defaultOutfit.lookType, outfit))
-		{
-			if(outfit.attackSpeed == -1)
-				return 0;
+	int32_t attackTime = 2000 - ((getSkill(SKILL_FIST, SKILL_LEVEL) - 10) * 18);
+	if (attackTime < 200) attackTime = 200;
 
-			modifiers += outfit.attackSpeed;
-		}
-	}
-
-	Item* _weapon = weapon;
-	if(!weapon || weapon->getWeaponType() == WEAPON_AMMO)
-		_weapon = const_cast<Player*>(this)->getWeapon(true);
-
-	return (((_weapon && _weapon->getAttackSpeed() != 0) ? _weapon->getAttackSpeed() : (vocation->getAttackSpeed() / std::max((size_t)1, getWeapons().size()))) + modifiers);
+	return attackTime;
 }
 
 void Player::learnInstantSpell(const std::string& name)
