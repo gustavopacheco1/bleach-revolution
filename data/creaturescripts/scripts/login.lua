@@ -51,8 +51,8 @@ function onLogin(cid)
     registerCreatureEvent(cid, "recordIp")
     registerCreatureEvent(cid, "PlayerTrade")
     registerCreatureEvent(cid, "LoginReset")
-    registerCreatureEvent(cid, "RevertDeath")
-    registerCreatureEvent(cid, "Dodge")
+    registerCreatureEvent(cid, "TransformsAdvance")
+    registerCreatureEvent(cid, "TransformsLogin")
     registerCreatureEvent(cid, "NpcTarget")
 
     if getPlayerLevel(cid) > 1 then setPlayerStorageValue(cid, 171994, 1) end
