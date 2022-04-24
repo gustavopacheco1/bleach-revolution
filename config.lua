@@ -16,7 +16,7 @@
 	sqlType = "mysql"
 	sqlHost = "127.0.0.1"
 	sqlPort = 3306
-	sqlUser = "root"
+	sqlUser = "vm49x039med4cb"
 	sqlPass = "490zqal0ft678f"
 	sqlDatabase = "bleach-revolution"
 	sqlFile = "schemas/otxserver.s3db"
