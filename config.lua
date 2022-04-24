@@ -17,8 +17,8 @@
 	sqlHost = "127.0.0.1"
 	sqlPort = 3306
 	sqlUser = "root"
-	sqlPass = ""
-	sqlDatabase = "bleach_jack"
+	sqlPass = "490zqal0ft678f"
+	sqlDatabase = "bleach-revolution"
 	sqlFile = "schemas/otxserver.s3db"
 	sqlKeepAlive = 0
 	mysqlReadTimeout = 10
