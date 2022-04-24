@@ -28,7 +28,7 @@
 
 	-- World / Ip / Port
 	worldId = 0
-	ip = "127.0.0.1"
+	ip = "192.99.214.12"
 	worldType = "open"
 	bindOnlyGlobalAddress = false
 	loginPort = 7171
