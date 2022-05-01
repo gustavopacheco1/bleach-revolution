@@ -75,10 +75,33 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 			return true
 		end
 
-		if(item.actionid == 190 or (item.actionid ~= 0 and getPlayerLevel(cid) >= (item.actionid - getItemLevelDoor(item.itemid)))) then
+		if item.actionid == 190 then
 			doorEnter(cid, item, toPosition)
-		else
-			doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "Only the worthy may pass.")
+			return true
+		end
+
+		if item.actionid ~= 0 then
+			if not (getPlayerLevel(cid) >= (item.actionid - getItemLevelDoor(item.itemid))) then
+				MultiLanguage.doPlayerSendTextMessage(
+					cid,
+					MESSAGE_INFO_DESCR,
+					"You need to be level " .. item.actionid - getItemLevelDoor(item.itemid) .. " to pass.",
+					"Você presica ser level " .. item.actionid - getItemLevelDoor(item.itemid) .. " para passar."
+				)
+				return true
+			end
+
+			if getPlayerStorageValue(cid, "disable_gate_expertise") == 1 then
+				MultiLanguage.doPlayerSendTextMessage(
+					cid,
+					MESSAGE_INFO_DESCR,
+					"You are incapacitated to pass this door.",
+					"Você está incapacitado de passar esta porta."
+				)
+				return true
+			end
+
+			doorEnter(cid, item, toPosition)
 		end
 
 		return true
