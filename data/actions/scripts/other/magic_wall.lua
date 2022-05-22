@@ -3,7 +3,7 @@ local wall_time_in_seconds = 15
 local distance_shoot_missile_id = 86
 
 function onUse(cid, item, fromPosition, itemEx, toPosition)
-    if not (isPathable(cid, toPosition, false)) then
+    if exhaustion.check(cid, "magic_wall") then
         return false
     end
 
@@ -27,12 +27,16 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
     for i = 1, wall_time_in_seconds do
         addEvent(
             function()
-                if wall_time_in_seconds - i ~= 0 and getTileItemById(toPosition, wall_id).uid > 0 then
-                    doSendAnimatedText(toPosition, wall_time_in_seconds - i, COLOR_YELLOW)
+                if wall_time_in_seconds - i == 0 or not (getTileItemById(toPosition, wall_id).uid > 0) then
+                    return
                 end
+
+                doSendAnimatedText(toPosition, wall_time_in_seconds - i, COLOR_YELLOW)
             end,
             i * 1000
         )
     end
+
+    exhaustion.set(cid, "magic_wall", 1)
     return true
 end
