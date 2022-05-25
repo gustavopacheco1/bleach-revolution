@@ -3823,19 +3823,10 @@ void Player::doAttacking(uint32_t)
 
 	if(const Weapon* _weapon = g_weapons->getWeapon(weapon))
 	{
-		if(_weapon->interruptSwing() && !canDoAction())
-		{
-			SchedulerTask* task = createSchedulerTask(getNextActionTime(),
-				boost::bind(&Game::checkCreatureAttack, &g_game, getID()));
-			setNextActionTask(task);
-		}
-		else
-		{
-			if((!_weapon->hasExhaustion() || !hasCondition(CONDITION_EXHAUST)) && _weapon->useWeapon(this, weapon, attackedCreature))
-				lastAttack = OTSYS_TIME();
+		if((!_weapon->hasExhaustion() || !hasCondition(CONDITION_EXHAUST)) && _weapon->useWeapon(this, weapon, attackedCreature))
+			lastAttack = OTSYS_TIME();
 
-			updateWeapon();
-		}
+		updateWeapon();
 	}
 	else if(Weapon::useFist(this, attackedCreature))
 		lastAttack = OTSYS_TIME();
