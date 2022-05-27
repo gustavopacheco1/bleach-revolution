@@ -171,3 +171,27 @@ function table.merge(t1, t2, override)
 
 	return t1
 end
+
+function table.print(arr, indentLevel)
+    local string = ""
+    local indentation = "#"
+
+    if(indentLevel == nil) then
+        print(table.print(arr, 0))
+        return
+    end
+
+    for i = 0, indentLevel do
+        indentation = indentation.."\t"
+    end
+
+    for index,value in pairs(arr) do
+        if type(value) == "table" then
+            string = string..indentation..index..": \n"..table.print(value, (indentLevel + 1))
+        else
+            string = string..indentation..index..": "..value.."\n"
+        end
+    end
+
+    return string
+end
