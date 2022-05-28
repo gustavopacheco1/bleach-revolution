@@ -1,128 +1,135 @@
-local VOCATION_REVERT_DEATH = {
-    -- Ichigo Kurosaki
+local vocation_outfits = {
     ["Ichigo Kurosaki"] = {
-        [1] = 2,
-        [100] = 3,
+        [1] = 1,
+        [100] = 2
     },
 
-    -- Chad
     ["Chad"] = {
-        [1] = 157,
-        [100] = 158,
-	},
+        [1] = 3,
+        [100] = 4
+    },
 
-    -- Bazz-B
     ["Bazz-B"] = {
-        [1] = 148,
-        [100] = 149,
+        [1] = 5,
+        [100] = 6
     },
 
-    -- Orihime Inoue
     ["Orihime Inoue"] = {
-        [1] = 59,
-        [100] = 60,
+        [1] = 7,
+        [100] = 8
     },
 
-    -- Uryu Ishida
     ["Uryu Ishida"] = {
-        [1] = 34,
-        [100] = 35,
+        [1] = 9,
+        [100] = 10
     },
 
-    -- Ulquiorra Ciffer
     ["Ulquiorra Ciffer"] = {
-        [1] = 113,
-        [100] = 114,
+        [1] = 11,
+        [100] = 12
     },
 
-    -- Zaraki Kenpachi
     ["Zaraki Kenpachi"] = {
-        [1] = 123,
-        [100] = 124,
+        [1] = 13,
+        [100] = 14
     },
 
-    -- Byakuya Kuchiki
     ["Byakuya Kuchiki"] = {
-        [1] = 85,
-        [100] = 86,
+        [1] = 15,
+        [100] = 16
     },
 
-    -- Toshiro Histugaya
     ["Toshiro Hitsugaya"] = {
-        [1] = 73,
-        [100] = 74,
+        [1] = 17,
+        [100] = 18
     },
 
-    -- Rukia Kuchiki
     ["Rukia Kuchiki"] = {
-        [1] = 20,
-        [100] = 21,
+        [1] = 19,
+        [100] = 20
     },
 
-    -- Nelliel Odelschwanck
     ["Nelliel Odelschwanck"] = {
-        [1] = 97,
-        [100] = 98,
+        [1] = 21,
+        [100] = 22
     },
 
-    -- Retsu Unohana
     ["Retsu Unohana"] = {
-        [1] = 139,
-        [100] = 140,
+        [1] = 23,
+        [100] = 24
     },
 
-    -- Renjii Abarai
     ["Renjii Abarai"] = {
-        [1] = 59,
-        [100] = 60,
+        [1] = 25,
+        [100] = 26
     },
 
-	-- Gin Ichimaru
-	["Gin Ichimaru"] = {
-        [1] = 316,
-        [100] = 320,
+    ["Gin Ichimaru"] = {
+        [1] = 27,
+        [100] = 28
     },
 
-	-- Kuugo Ginjo
-	["Kuugo Ginjo"] = {
-        [1] = 326,
-        [100] = 328,
+    ["Kuugo Ginjou"] = {
+        [1] = 29,
+        [100] = 30
     },
 
-	-- Tier Halibel
-	["Tier Halibel"] = {
-        [1] = 321,
-        [100] = 324,
+    ["Tier Halibel"] = {
+        [1] = 31,
+        [100] = 32
     },
 
-	-- Urahara Kisuke
-	["Urahara Kisuke"] = {
-        [1] = 331,
-        [100] = 333,
+    ["Urahara Kisuke"] = {
+        [1] = 33,
+        [100] = 34
     }
 }
 
 function onAdvance(cid, skill, oldLevel, newLevel)
-    local player_vocation_name = getPlayerVocationName(cid)
-
-    if skill ~= SKILL__LEVEL or not VOCATION_REVERT_DEATH[player_vocation_name] then
+    if skill ~= SKILL__LEVEL then
         return true
     end
 
-    if oldLevel < 100 and newLevel >= 100 and not canPlayerWearOutfit(cid, VOCATION_REVERT_DEATH[player_vocation_name][100]) then
-        doPlayerAddOutfit(cid, VOCATION_REVERT_DEATH[player_vocation_name][100], 0)
+    local player_vocation_name = getPlayerVocationName(cid)
+
+    if not vocation_outfits[player_vocation_name] then
+        return true
     end
+
+    if newLevel < 100 and canPlayerWearOutfitId(cid, vocation_outfits[player_vocation_name][100]) then
+        doPlayerRemoveOutfitId(cid, vocation_outfits[player_vocation_name][100])
+        return true
+    end
+
+    if newLevel >= 100 and not canPlayerWearOutfitId(cid, vocation_outfits[player_vocation_name][100]) then
+        doPlayerAddOutfitId(cid, vocation_outfits[player_vocation_name][100], 0)
+    end
+
     return true
 end
 
 function onLogin(cid)
     local player_vocation_name = getPlayerVocationName(cid)
 
-    if VOCATION_REVERT_DEATH[player_vocation_name] then
-        if not canPlayerWearOutfit(cid, VOCATION_REVERT_DEATH[player_vocation_name][1]) then
-            doPlayerAddOutfit(cid, VOCATION_REVERT_DEATH[player_vocation_name][1], 0)
-            doCreatureChangeOutfit(cid, {lookType = VOCATION_REVERT_DEATH[player_vocation_name][1]})
-        end
+    if not vocation_outfits[player_vocation_name] then
+        return true
     end
+
+    if not canPlayerWearOutfitId(cid, vocation_outfits[player_vocation_name][1]) then
+        doPlayerAddOutfitId(cid, vocation_outfits[player_vocation_name][1], 0)
+        doCreatureChangeOutfitId(cid, { lookType = vocation_outfits[player_vocation_name][1] })
+    end
+
+    local player_level = getPlayerLevel(cid)
+
+    if player_level >= 100 and not canPlayerWearOutfitId(cid, vocation_outfits[player_vocation_name][100]) then
+        doPlayerAddOutfitId(cid, vocation_outfits[player_vocation_name][1], 0)
+        return true
+    end
+
+    if player_level < 100 and canPlayerWearOutfitId(cid, vocation_outfits[player_vocation_name][100]) then
+        doPlayerRemoveOutfitId(cid, vocation_outfits[player_vocation_name][100])
+    end
+
     return true
 end
