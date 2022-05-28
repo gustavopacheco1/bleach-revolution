@@ -227,14 +227,33 @@
 		<monster name="Fraccion" x="0" y="-1" z="4" spawntime="60" />
 		<monster name="Fraccion" x="1" y="1" z="4" spawntime="60" />
 	</spawn>
+	<spawn centerx="3372" centery="3807" centerz="4" radius="1">
+		<monster name="Giant Snake" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Giant Snake" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Giant Snake" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
 	<spawn centerx="2777" centery="3808" centerz="4" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="2773" centery="3809" centerz="4" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
+	<spawn centerx="3350" centery="3811" centerz="4" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Giant Snake" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3361" centery="3811" centerz="4" radius="1">
+		<monster name="Giant Snake" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Giant Snake" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Giant Snake" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
 	<spawn centerx="2777" centery="3812" centerz="4" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3340" centery="3812" centerz="4" radius="1">
+		<monster name="Giant Snake" x="0" y="-1" z="4" spawntime="60" />
+		<monster name="Giant Snake" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Giant Snake" x="1" y="1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="2781" centery="3816" centerz="4" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
@@ -1347,8 +1366,37 @@
 		<monster name="Hollow Grande" x="-1" y="-1" z="5" spawntime="60" />
 		<monster name="Hollow Grande" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3210" centery="3748" centerz="5" radius="1">
+		<monster name="Hollow Grande" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Hollow Grande" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Hollow Grande" x="-1" y="1" z="5" spawntime="60" />
+		<monster name="Hollow Grande" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3318" centery="3785" centerz="5" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Giant Snake" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3321" centery="3791" centerz="5" radius="1">
+		<monster name="Giant Snake" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Giant Snake" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3326" centery="3795" centerz="5" radius="1">
+		<monster name="Giant Snake" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Giant Snake" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3333" centery="3802" centerz="5" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3324" centery="3805" centerz="5" radius="1">
+		<monster name="Giant Snake" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Giant Snake" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="2774" centery="3807" centerz="5" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3331" centery="3810" centerz="5" radius="1">
+		<monster name="Giant Snake" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Giant Snake" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="2775" centery="3811" centerz="5" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
@@ -5455,6 +5503,18 @@
 	</spawn>
 	<spawn centerx="3213" centery="3775" centerz="6" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3343" centery="3802" centerz="6" radius="1">
+		<monster name="Giant Snake" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Giant Snake" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3352" centery="3804" centerz="6" radius="1">
+		<monster name="Giant Snake" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Giant Snake" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3359" centery="3805" centerz="6" radius="1">
+		<monster name="Giant Snake" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Giant Snake" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2780" centery="3806" centerz="6" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
