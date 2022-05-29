@@ -1,138 +1,138 @@
 <?xml version="1.0"?>
 <outfits>
-	<!-- Ichigo Kurosaki  -->
-	<outfit id="1" default="0">
-		<list gender="0-3" lookType="2" name="Initial Outfit"/>
-	</outfit>
-	<outfit id="2" default="0">
-		<list gender="0-3" lookType="3" name="Level 100 Outfit"/>
-	</outfit>
+    <!-- Ichigo Kurosaki  -->
+    <outfit id="1" default="0">
+        <list gender="0-3" lookType="2" name="Initial"/>
+    </outfit>
+    <outfit id="2" default="0">
+        <list gender="0-3" lookType="3" name="Level 100"/>
+    </outfit>
 
-	<!-- Chad -->
-	<outfit id="3" default="0">
-		<list gender="0-3" lookType="157" name="Initial Outfit"/>
-	</outfit>
-	<outfit id="4" default="0">
-		<list gender="0-3" lookType="158" name="Level 100 Outfit"/>
-	</outfit>
+    <!-- Chad -->
+    <outfit id="3" default="0">
+        <list gender="0-3" lookType="157" name="Initial"/>
+    </outfit>
+    <outfit id="4" default="0">
+        <list gender="0-3" lookType="158" name="Level 100"/>
+    </outfit>
 
-	<!-- Bazz-B -->
-	<outfit id="5" default="0">
-		<list gender="0-3" lookType="148" name="Initial Outfit"/>
-	</outfit>
-	<outfit id="6" default="0">
-		<list gender="0-3" lookType="149" name="Level 100 Outfit"/>
-	</outfit>
+    <!-- Bazz-B -->
+    <outfit id="5" default="0">
+        <list gender="0-3" lookType="148" name="Initial"/>
+    </outfit>
+    <outfit id="6" default="0">
+        <list gender="0-3" lookType="149" name="Level 100"/>
+    </outfit>
 
-	<!-- Orihime Inoue -->
-	<outfit id="7" default="0">
-		<list gender="0-3" lookType="59" name="Initial Outfit"/>
-	</outfit>
-	<outfit id="8" default="0">
-		<list gender="0-3" lookType="60" name="Level 100 Outfit"/>
-	</outfit>
+    <!-- Orihime Inoue -->
+    <outfit id="7" default="0">
+        <list gender="0-3" lookType="59" name="Initial"/>
+    </outfit>
+    <outfit id="8" default="0">
+        <list gender="0-3" lookType="60" name="Level 100"/>
+    </outfit>
 
-	<!-- Uryu Ishida -->
-	<outfit id="9" default="0">
-		<list gender="0-3" lookType="34" name="Initial Outfit"/>
-	</outfit>
-	<outfit id="10" default="0">
-		<list gender="0-3" lookType="35" name="Level 100 Outfit"/>
-	</outfit>
+    <!-- Uryu Ishida -->
+    <outfit id="9" default="0">
+        <list gender="0-3" lookType="34" name="Initial"/>
+    </outfit>
+    <outfit id="10" default="0">
+        <list gender="0-3" lookType="35" name="Level 100"/>
+    </outfit>
 
-	<!-- Ulquiorra Ciffer -->
-	<outfit id="11" default="0">
-		<list gender="0-3" lookType="113" name="Initial Outfit"/>
-	</outfit>
-	<outfit id="12" default="0">
-		<list gender="0-3" lookType="114" name="Level 100 Outfit"/>
-	</outfit>
+    <!-- Ulquiorra Ciffer -->
+    <outfit id="11" default="0">
+        <list gender="0-3" lookType="113" name="Initial"/>
+    </outfit>
+    <outfit id="12" default="0">
+        <list gender="0-3" lookType="114" name="Level 100"/>
+    </outfit>
 
-	<!-- Zaraki Kenpachi -->
-	<outfit id="13" default="0">
-		<list gender="0-3" lookType="123" name="Initial Outfit"/>
-	</outfit>
-	<outfit id="14" default="0">
-		<list gender="0-3" lookType="124" name="Level 100 Outfit"/>
-	</outfit>
+    <!-- Zaraki Kenpachi -->
+    <outfit id="13" default="0">
+        <list gender="0-3" lookType="123" name="Initial"/>
+    </outfit>
+    <outfit id="14" default="0">
+        <list gender="0-3" lookType="124" name="Level 100"/>
+    </outfit>
 
-	<!-- Byakuya Kuchiki -->
-	<outfit id="15" default="0">
-		<list gender="0-3" lookType="85" name="Initial Outfit"/>
-	</outfit>
-	<outfit id="16" default="0">
-		<list gender="0-3" lookType="86" name="Level 100 Outfit"/>
-	</outfit>
+    <!-- Byakuya Kuchiki -->
+    <outfit id="15" default="0">
+        <list gender="0-3" lookType="85" name="Initial"/>
+    </outfit>
+    <outfit id="16" default="0">
+        <list gender="0-3" lookType="86" name="Level 100"/>
+    </outfit>
 
-	<!-- Toshiro Histugaya -->
-	<outfit id="17" default="0">
-		<list gender="0-3" lookType="73" name="Initial Outfit"/>
-	</outfit>
-	<outfit id="18" default="0">
-		<list gender="0-3" lookType="74" name="Level 100 Outfit"/>
-	</outfit>
+    <!-- Toshiro Histugaya -->
+    <outfit id="17" default="0">
+        <list gender="0-3" lookType="73" name="Initial"/>
+    </outfit>
+    <outfit id="18" default="0">
+        <list gender="0-3" lookType="74" name="Level 100"/>
+    </outfit>
 
-	<!-- Rukia Kuchiki -->
-	<outfit id="19" default="0">
-		<list gender="0-3" lookType="20" name="Initial Outfit"/>
-	</outfit>
-	<outfit id="20" default="0">
-		<list gender="0-3" lookType="21" name="Level 100 Outfit"/>
-	</outfit>
+    <!-- Rukia Kuchiki -->
+    <outfit id="19" default="0">
+        <list gender="0-3" lookType="20" name="Initial"/>
+    </outfit>
+    <outfit id="20" default="0">
+        <list gender="0-3" lookType="21" name="Level 100"/>
+    </outfit>
 
-	<!-- Nelliel Odelschwanck -->
-	<outfit id="21" default="0">
-		<list gender="0-3" lookType="97" name="Initial Outfit"/>
-	</outfit>
-	<outfit id="22" default="0">
-		<list gender="0-3" lookType="98" name="Level 100 Outfit"/>
-	</outfit>
+    <!-- Nelliel Odelschwanck -->
+    <outfit id="21" default="0">
+        <list gender="0-3" lookType="97" name="Initial"/>
+    </outfit>
+    <outfit id="22" default="0">
+        <list gender="0-3" lookType="98" name="Level 100"/>
+    </outfit>
 
-	<!-- Retsu Unohana -->
-	<outfit id="23" default="0">
-		<list gender="0-3" lookType="139" name="Initial Outfit"/>
-	</outfit>
-	<outfit id="24" default="0">
-		<list gender="0-3" lookType="140" name="Level 100 Outfit"/>
-	</outfit>
+    <!-- Retsu Unohana -->
+    <outfit id="23" default="0">
+        <list gender="0-3" lookType="139" name="Initial"/>
+    </outfit>
+    <outfit id="24" default="0">
+        <list gender="0-3" lookType="140" name="Level 100"/>
+    </outfit>
 
-	<!-- Renji Abarai -->
-	<outfit id="25" default="0">
-		<list gender="0-3" lookType="59" name="Initial Outfit"/>
-	</outfit>
-	<outfit id="26" default="0">
-		<list gender="0-3" lookType="60" name="Level 100 Outfit"/>
-	</outfit>
+    <!-- Renji Abarai -->
+    <outfit id="25" default="0">
+        <list gender="0-3" lookType="59" name="Initial"/>
+    </outfit>
+    <outfit id="26" default="0">
+        <list gender="0-3" lookType="60" name="Level 100"/>
+    </outfit>
 
-	<!-- Gin Ichimaru -->
-	<outfit id="27" default="0">
-		<list gender="0-3" lookType="316" name="Initial Outfit"/>
-	</outfit>
-	<outfit id="28" default="0">
-		<list gender="0-3" lookType="320" name="Level 100 Outfit"/>
-	</outfit>
+    <!-- Gin Ichimaru -->
+    <outfit id="27" default="0">
+        <list gender="0-3" lookType="316" name="Initial"/>
+    </outfit>
+    <outfit id="28" default="0">
+        <list gender="0-3" lookType="320" name="Level 100"/>
+    </outfit>
 
-	<!-- Kuugo Ginjo -->
-	<outfit id="29" default="0">
-		<list gender="0-3" lookType="326" name="Initial Outfit"/>
-	</outfit>
-	<outfit id="30" default="0">
-		<list gender="0-3" lookType="328" name="Level 100 Outfit"/>
-	</outfit>
+    <!-- Kuugo Ginjo -->
+    <outfit id="29" default="0">
+        <list gender="0-3" lookType="326" name="Initial"/>
+    </outfit>
+    <outfit id="30" default="0">
+        <list gender="0-3" lookType="328" name="Level 100"/>
+    </outfit>
 
-	<!-- Tier Halibel -->
-	<outfit id="31" default="0">
-		<list gender="0-3" lookType="321" name="Initial Outfit"/>
-	</outfit>
-	<outfit id="32" default="0">
-		<list gender="0-3" lookType="324" name="Level 100 Outfit"/>
-	</outfit>
+    <!-- Tier Halibel -->
+    <outfit id="31" default="0">
+        <list gender="0-3" lookType="321" name="Initial"/>
+    </outfit>
+    <outfit id="32" default="0">
+        <list gender="0-3" lookType="324" name="Level 100"/>
+    </outfit>
 
-	<!-- Urahara Kisuke -->
-	<outfit id="33" default="0">
-		<list gender="0-3" lookType="331" name="Initial Outfit"/>
-	</outfit>
-	<outfit id="34" default="0">
-		<list gender="0-3" lookType="333" name="Level 100 Outfit"/>
-	</outfit>
+    <!-- Urahara Kisuke -->
+    <outfit id="33" default="0">
+        <list gender="0-3" lookType="331" name="Initial"/>
+    </outfit>
+    <outfit id="34" default="0">
+        <list gender="0-3" lookType="333" name="Level 100"/>
+    </outfit>
 </outfits>
