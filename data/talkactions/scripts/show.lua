@@ -17,7 +17,7 @@ function onSay(cid, words, param)
                 "Now you will receive the default use messages.",
                 "Agora você irá receber as mensagens de use padrão."
             )
-            setPlayerStorageValue(cid, "display_use", -1)
+            setPlayerStorageValue(cid, "display_use", nil)
         end
     end
 
@@ -37,7 +37,7 @@ function onSay(cid, words, param)
                 "Now you will receive the default technique messages.",
                 "Agora você irá receber mensagens de técnicas padrão."
             )
-            setPlayerStorageValue(cid, "display_spell", -1)
+            setPlayerStorageValue(cid, "display_spell", nil)
         end
     end
     return true

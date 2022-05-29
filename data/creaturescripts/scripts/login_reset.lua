@@ -21,7 +21,7 @@ function onLogin(cid)
 
     -- Storages
     setPlayerStorageValue(cid, "dodge_special", 0)
-    setPlayerStorageValue(cid, "disable_gate_expertise", -1)
+    setPlayerStorageValue(cid, "disable_gate_expertise", nil)
     if getPlayerStorageValue(cid, "extra_life") == -1 then
         setPlayerStorageValue(cid, "extra_life", 0)
     end

@@ -8,8 +8,6 @@ function onLogin(cid)
     if (lastLogin > 0) then
         doPlayerSendTextMessage(cid, MESSAGE_STATUS_DEFAULT, str)
         str = "Your last visit was on " .. os.date("%a %b %d %X %Y", lastLogin) .. "."
-    else
-        doCreatureChangeOutfit(cid, {lookType = VOCATION_REVERT[getPlayerVocationName(cid)].looktype})
     end
     doPlayerSendTextMessage(cid, MESSAGE_STATUS_DEFAULT, str)
 
@@ -55,7 +53,6 @@ function onLogin(cid)
     registerCreatureEvent(cid, "TransformsLogin")
     registerCreatureEvent(cid, "NpcTarget")
 
-    if getPlayerLevel(cid) > 1 then setPlayerStorageValue(cid, 171994, 1) end
     doCreatureSetStorage(cid, "save", (os.time() + 120))
     return true
 end
