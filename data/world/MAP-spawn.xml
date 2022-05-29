@@ -1,5 +1,74 @@
 <?xml version="1.0"?>
 <spawns>
+	<spawn centerx="3512" centery="3549" centerz="0" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="0" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="0" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="1" z="0" spawntime="60" />
+	</spawn>
+	<spawn centerx="3507" centery="3551" centerz="0" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="0" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="-1" z="0" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="0" spawntime="60" />
+		<monster name="Snake Hollow" x="-1" y="1" z="0" spawntime="60" />
+	</spawn>
+	<spawn centerx="3516" centery="3552" centerz="0" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="0" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="0" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="1" z="0" spawntime="60" />
+	</spawn>
+	<spawn centerx="3515" centery="3574" centerz="0" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="0" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="0" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="1" z="0" spawntime="60" />
+	</spawn>
+	<spawn centerx="3511" centery="3577" centerz="0" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="0" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="-1" z="0" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="0" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="1" z="0" spawntime="60" />
+	</spawn>
+	<spawn centerx="3516" centery="3577" centerz="0" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="0" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="-1" z="0" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="0" spawntime="60" />
+		<monster name="Snake Hollow" x="-1" y="1" z="0" spawntime="60" />
+	</spawn>
+	<spawn centerx="3503" centery="3552" centerz="1" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="1" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="-1" z="1" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="1" spawntime="60" />
+		<monster name="Snake Hollow" x="-1" y="1" z="1" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="1" z="1" spawntime="60" />
+	</spawn>
+	<spawn centerx="3502" centery="3559" centerz="1" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="1" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="-1" z="1" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="1" spawntime="60" />
+		<monster name="Snake Hollow" x="-1" y="1" z="1" spawntime="60" />
+	</spawn>
+	<spawn centerx="3535" centery="3560" centerz="1" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="1" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="-1" z="1" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="1" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="1" z="1" spawntime="60" />
+	</spawn>
+	<spawn centerx="3531" centery="3563" centerz="1" radius="1">
+		<monster name="Snake Hollow" x="1" y="-1" z="1" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="1" spawntime="60" />
+		<monster name="Snake Hollow" x="-1" y="1" z="1" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="1" z="1" spawntime="60" />
+	</spawn>
+	<spawn centerx="3535" centery="3565" centerz="1" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="1" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="-1" z="1" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="1" spawntime="60" />
+	</spawn>
+	<spawn centerx="3518" centery="3568" centerz="1" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="1" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="-1" z="1" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="1" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="1" z="1" spawntime="60" />
+	</spawn>
 	<spawn centerx="3436" centery="3242" centerz="2" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="2" spawntime="60" />
 	</spawn>
@@ -24,6 +93,37 @@
 	<spawn centerx="3409" centery="3255" centerz="2" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="2" spawntime="60" />
 		<monster name="Mini Fisher" x="0" y="1" z="2" spawntime="1895794944" />
+	</spawn>
+	<spawn centerx="3491" centery="3554" centerz="2" radius="1">
+		<monster name="Snake Hollow" x="0" y="-1" z="2" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="2" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="1" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3497" centery="3554" centerz="2" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="2" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="2" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="1" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3492" centery="3559" centerz="2" radius="1">
+		<monster name="Snake Hollow" x="0" y="-1" z="2" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="2" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="1" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3497" centery="3560" centerz="2" radius="1">
+		<monster name="Snake Hollow" x="1" y="-1" z="2" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="2" spawntime="60" />
+		<monster name="Snake Hollow" x="-1" y="1" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3527" centery="3564" centerz="2" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="2" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="2" spawntime="60" />
+		<monster name="Snake Hollow" x="-1" y="1" z="2" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="1" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3526" centery="3568" centerz="2" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="2" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="2" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="1" z="2" spawntime="60" />
 	</spawn>
 	<spawn centerx="3453" centery="3249" centerz="3" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="3" spawntime="60" />
@@ -69,6 +169,41 @@
 	</spawn>
 	<spawn centerx="3487" centery="3284" centerz="3" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3471" centery="3520" centerz="3" radius="1">
+		<monster name="Snake Hollow" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Snake Hollow" x="-1" y="0" z="3" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3477" centery="3520" centerz="3" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Snake Hollow" x="-1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3484" centery="3520" centerz="3" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3499" centery="3547" centerz="3" radius="1">
+		<monster name="Snake Hollow" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Snake Hollow" x="-1" y="0" z="3" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3492" centery="3548" centerz="3" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3520" centery="3564" centerz="3" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Snake Hollow" x="-1" y="1" z="3" spawntime="60" />
 	</spawn>
 	<spawn centerx="3473" centery="4106" centerz="3" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="3" spawntime="60" />
@@ -226,6 +361,68 @@
 	<spawn centerx="3962" centery="3493" centerz="4" radius="1">
 		<monster name="Fraccion" x="0" y="-1" z="4" spawntime="60" />
 		<monster name="Fraccion" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3477" centery="3516" centerz="4" radius="1">
+		<monster name="Snake Hollow" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Snake Hollow" x="-1" y="0" z="4" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3484" centery="3516" centerz="4" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3511" centery="3540" centerz="4" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Snake Hollow" x="-1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3494" centery="3543" centerz="4" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Snake Hollow" x="-1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3502" centery="3543" centerz="4" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="0" z="4" spawntime="60" />
+		<monster name="Snake Hollow" x="-1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3526" centery="3557" centerz="4" radius="1">
+		<monster name="Snake Hollow" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="1" z="4" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3520" centery="3558" centerz="4" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Snake Hollow" x="-1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3514" centery="3559" centerz="4" radius="1">
+		<monster name="Snake Hollow" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Snake Hollow" x="-1" y="1" z="4" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3503" centery="3565" centerz="4" radius="1">
+		<monster name="Snake Hollow" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3496" centery="3566" centerz="4" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3502" centery="3569" centerz="4" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3372" centery="3807" centerz="4" radius="1">
 		<monster name="Giant Snake" x="1" y="-1" z="4" spawntime="60" />
@@ -1049,11 +1246,53 @@
 	<spawn centerx="3947" centery="3494" centerz="5" radius="1">
 		<monster name="Fraccion" x="1" y="-1" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3468" centery="3511" centerz="5" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="-1" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="-1" y="1" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3477" centery="3511" centerz="5" radius="1">
+		<monster name="Snake Hollow" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3482" centery="3512" centerz="5" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3467" centery="3517" centerz="5" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3495" centery="3538" centerz="5" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3499" centery="3539" centerz="5" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3293" centery="3540" centerz="5" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3302" centery="3540" centerz="5" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3518" centery="3540" centerz="5" radius="1">
+		<monster name="Snake Hollow" x="0" y="-1" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3525" centery="3540" centerz="5" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3285" centery="3543" centerz="5" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="5" spawntime="60" />
@@ -1067,11 +1306,24 @@
 	<spawn centerx="3307" centery="3543" centerz="5" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3530" centery="3543" centerz="5" radius="1">
+		<monster name="Snake Hollow" x="0" y="-1" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="-1" y="1" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3294" centery="3547" centerz="5" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3302" centery="3547" centerz="5" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3521" centery="3548" centerz="5" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="-1" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="0" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="-1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3285" centery="3549" centerz="5" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="5" spawntime="60" />
@@ -1106,6 +1358,11 @@
 	<spawn centerx="3305" centery="3558" centerz="5" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3509" centery="3562" centerz="5" radius="1">
+		<monster name="Snake Hollow" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="2984" centery="3567" centerz="5" radius="1">
 		<monster name="Giant Snake Hollow" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
@@ -1115,14 +1372,34 @@
 	<spawn centerx="2999" centery="3569" centerz="5" radius="1">
 		<monster name="Giant Snake Hollow" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3492" centery="3569" centerz="5" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3509" centery="3569" centerz="5" radius="1">
+		<monster name="Snake Hollow" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="2980" centery="3570" centerz="5" radius="1">
 		<monster name="Giant Snake Hollow" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="2989" centery="3571" centerz="5" radius="1">
 		<monster name="Giant Snake Hollow" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3496" centery="3572" centerz="5" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="2999" centery="3574" centerz="5" radius="1">
 		<monster name="Giant Snake Hollow" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3504" centery="3575" centerz="5" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Snake Hollow" x="-1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="2993" centery="3576" centerz="5" radius="1">
 		<monster name="Giant Snake Hollow" x="0" y="0" z="5" spawntime="60" />
@@ -4464,11 +4741,23 @@
 	<spawn centerx="4066" centery="3502" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3478" centery="3506" centerz="6" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Snake Hollow" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="2975" centery="3507" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3452" centery="3507" centerz="6" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3471" centery="3508" centerz="6" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Snake Hollow" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3501" centery="3509" centerz="6" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
@@ -4544,6 +4833,11 @@
 	</spawn>
 	<spawn centerx="3463" centery="3534" centerz="6" radius="1">
 		<monster name="Snake Hollow" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3495" centery="3534" centerz="6" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3471" centery="3536" centerz="6" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
@@ -9645,6 +9939,12 @@
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3485" centery="3494" centerz="7" radius="1">
+		<monster name="Snake Hollow" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Snake Hollow" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3001" centery="3496" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -9690,6 +9990,13 @@
 	</spawn>
 	<spawn centerx="3006" centery="3501" centerz="7" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3482" centery="3501" centerz="7" radius="1">
+		<monster name="Snake Hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Snake Hollow" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Snake Hollow" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3401" centery="3502" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
