@@ -1,5 +1,28 @@
 <?xml version="1.0"?>
 <spawns>
+	<spawn centerx="3478" centery="3376" centerz="0" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="0" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="0" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="0" spawntime="60" />
+	</spawn>
+	<spawn centerx="3474" centery="3377" centerz="0" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="0" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="0" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="0" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="0" spawntime="60" />
+	</spawn>
+	<spawn centerx="3485" centery="3377" centerz="0" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="0" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="0" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="0" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="1" z="0" spawntime="60" />
+	</spawn>
+	<spawn centerx="3960" centery="3480" centerz="0" radius="1">
+		<monster name="Fraccion" x="1" y="-1" z="0" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="0" spawntime="60" />
+		<monster name="Fraccion" x="-1" y="1" z="0" spawntime="60" />
+		<monster name="Fraccion" x="1" y="1" z="0" spawntime="60" />
+	</spawn>
 	<spawn centerx="3512" centery="3549" centerz="0" radius="1">
 		<monster name="Snake Hollow" x="-1" y="-1" z="0" spawntime="60" />
 		<monster name="Snake Hollow" x="0" y="0" z="0" spawntime="60" />
@@ -32,6 +55,38 @@
 		<monster name="Snake Hollow" x="1" y="-1" z="0" spawntime="60" />
 		<monster name="Snake Hollow" x="0" y="0" z="0" spawntime="60" />
 		<monster name="Snake Hollow" x="-1" y="1" z="0" spawntime="60" />
+	</spawn>
+	<spawn centerx="3471" centery="3372" centerz="1" radius="1">
+		<monster name="Elite Bandit" x="0" y="0" z="1" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="0" z="1" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="1" spawntime="60" />
+	</spawn>
+	<spawn centerx="3480" centery="3373" centerz="1" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="1" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="1" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="1" spawntime="60" />
+	</spawn>
+	<spawn centerx="3504" centery="3439" centerz="1" radius="1">
+		<monster name="Rungokai Bandit" x="-1" y="-1" z="1" spawntime="60" />
+		<monster name="Rungokai Bandit" x="1" y="-1" z="1" spawntime="60" />
+		<monster name="Rungokai Bandit" x="0" y="0" z="1" spawntime="60" />
+		<monster name="Rungokai Bandit" x="-1" y="1" z="1" spawntime="60" />
+		<monster name="Rungokai Bandit" x="1" y="1" z="1" spawntime="60" />
+	</spawn>
+	<spawn centerx="3496" centery="3441" centerz="1" radius="1">
+		<monster name="Rungokai Bandit" x="-1" y="-1" z="1" spawntime="60" />
+		<monster name="Rungokai Bandit" x="1" y="-1" z="1" spawntime="60" />
+		<monster name="Rungokai Bandit" x="0" y="0" z="1" spawntime="60" />
+	</spawn>
+	<spawn centerx="3954" centery="3478" centerz="1" radius="1">
+		<monster name="Fraccion" x="1" y="-1" z="1" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="1" spawntime="60" />
+		<monster name="Fraccion" x="-1" y="1" z="1" spawntime="60" />
+	</spawn>
+	<spawn centerx="3955" centery="3481" centerz="1" radius="1">
+		<monster name="Fraccion" x="1" y="-1" z="1" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="1" spawntime="60" />
+		<monster name="Fraccion" x="1" y="1" z="1" spawntime="60" />
 	</spawn>
 	<spawn centerx="3503" centery="3552" centerz="1" radius="1">
 		<monster name="Snake Hollow" x="-1" y="-1" z="1" spawntime="60" />
@@ -93,6 +148,128 @@
 	<spawn centerx="3409" centery="3255" centerz="2" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="2" spawntime="60" />
 		<monster name="Mini Fisher" x="0" y="1" z="2" spawntime="1895794944" />
+	</spawn>
+	<spawn centerx="3472" centery="3368" centerz="2" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="2" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="2" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3479" centery="3368" centerz="2" radius="1">
+		<monster name="Elite Bandit" x="0" y="-1" z="2" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="2" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3468" centery="3427" centerz="2" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="2" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="2" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="2" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="2" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3467" centery="3430" centerz="2" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="2" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="2" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3512" centery="3438" centerz="2" radius="1">
+		<monster name="Rungokai Bandit" x="-1" y="-1" z="2" spawntime="60" />
+		<monster name="Rungokai Bandit" x="1" y="-1" z="2" spawntime="60" />
+		<monster name="Rungokai Bandit" x="0" y="0" z="2" spawntime="60" />
+		<monster name="Rungokai Bandit" x="-1" y="1" z="2" spawntime="60" />
+		<monster name="Rungokai Bandit" x="1" y="1" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3568" centery="3443" centerz="2" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="2" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3573" centery="3443" centerz="2" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="2" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="2" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3449" centery="3449" centerz="2" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="2" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="2" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3453" centery="3449" centerz="2" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="2" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="2" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3462" centery="3460" centerz="2" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="2" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="2" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="2" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="2" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3944" centery="3466" centerz="2" radius="1">
+		<monster name="Fraccion" x="0" y="0" z="2" spawntime="60" />
+		<monster name="Fraccion" x="1" y="1" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3954" centery="3466" centerz="2" radius="1">
+		<monster name="Fraccion" x="1" y="-1" z="2" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3962" centery="3466" centerz="2" radius="1">
+		<monster name="Fraccion" x="1" y="-1" z="2" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3970" centery="3466" centerz="2" radius="1">
+		<monster name="Fraccion" x="0" y="0" z="2" spawntime="60" />
+		<monster name="Fraccion" x="1" y="1" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3933" centery="3467" centerz="2" radius="1">
+		<monster name="Fraccion" x="1" y="-1" z="2" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3926" centery="3468" centerz="2" radius="1">
+		<monster name="Fraccion" x="1" y="-1" z="2" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3979" centery="3470" centerz="2" radius="1">
+		<monster name="Fraccion" x="-1" y="-1" z="2" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3982" centery="3476" centerz="2" radius="1">
+		<monster name="Fraccion" x="-1" y="-1" z="2" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3946" centery="3479" centerz="2" radius="1">
+		<monster name="Fraccion" x="-1" y="-1" z="2" spawntime="60" />
+		<monster name="Fraccion" x="1" y="-1" z="2" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3947" centery="3482" centerz="2" radius="1">
+		<monster name="Fraccion" x="1" y="-1" z="2" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="2" spawntime="60" />
+		<monster name="Fraccion" x="1" y="1" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3982" centery="3483" centerz="2" radius="1">
+		<monster name="Fraccion" x="1" y="-1" z="2" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3977" centery="3500" centerz="2" radius="1">
+		<monster name="Fraccion" x="1" y="-1" z="2" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="2" spawntime="60" />
+		<monster name="Fraccion" x="1" y="1" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3973" centery="3504" centerz="2" radius="1">
+		<monster name="Fraccion" x="1" y="-1" z="2" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3991" centery="3505" centerz="2" radius="1">
+		<monster name="Fraccion" x="1" y="-1" z="2" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3978" centery="3509" centerz="2" radius="1">
+		<monster name="Fraccion" x="1" y="-1" z="2" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3987" centery="3509" centerz="2" radius="1">
+		<monster name="Fraccion" x="1" y="-1" z="2" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="2" spawntime="60" />
 	</spawn>
 	<spawn centerx="3491" centery="3554" centerz="2" radius="1">
 		<monster name="Snake Hollow" x="0" y="-1" z="2" spawntime="60" />
@@ -263,6 +440,191 @@
 		<monster name="Mini Fisher" x="-1" y="-1" z="3" spawntime="60" />
 		<monster name="Mini Fisher" x="0" y="0" z="3" spawntime="60" />
 	</spawn>
+	<spawn centerx="3473" centery="3346" centerz="3" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3465" centery="3348" centerz="3" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3471" centery="3349" centerz="3" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3471" centery="3361" centerz="3" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3479" centery="3361" centerz="3" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3488" centery="3398" centerz="3" radius="1">
+		<monster name="Elite Bandit" x="-1" y="0" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3483" centery="3399" centerz="3" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3474" centery="3412" centerz="3" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="0" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="1" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3473" centery="3429" centerz="3" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3525" centery="3438" centerz="3" radius="1">
+		<monster name="Rungokai Bandit" x="0" y="-1" z="3" spawntime="60" />
+		<monster name="Rungokai Bandit" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Rungokai Bandit" x="-1" y="1" z="3" spawntime="60" />
+		<monster name="Rungokai Bandit" x="1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3520" centery="3440" centerz="3" radius="1">
+		<monster name="Rungokai Bandit" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Rungokai Bandit" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Rungokai Bandit" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3558" centery="3443" centerz="3" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3459" centery="3448" centerz="3" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3456" centery="3459" centerz="3" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3456" centery="3463" centerz="3" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3948" centery="3469" centerz="3" radius="1">
+		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Fraccion" x="1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3941" centery="3470" centerz="3" radius="1">
+		<monster name="Fraccion" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3957" centery="3470" centerz="3" radius="1">
+		<monster name="Fraccion" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3965" centery="3470" centerz="3" radius="1">
+		<monster name="Fraccion" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3932" centery="3471" centerz="3" radius="1">
+		<monster name="Fraccion" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Fraccion" x="1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3973" centery="3472" centerz="3" radius="1">
+		<monster name="Fraccion" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Fraccion" x="1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3927" centery="3477" centerz="3" radius="1">
+		<monster name="Fraccion" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3978" centery="3479" centerz="3" radius="1">
+		<monster name="Fraccion" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Fraccion" x="0" y="1" z="3" spawntime="60" />
+		<monster name="Fraccion" x="1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3929" centery="3484" centerz="3" radius="1">
+		<monster name="Fraccion" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3959" centery="3486" centerz="3" radius="1">
+		<monster name="Fraccion" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Fraccion" x="-1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3951" centery="3488" centerz="3" radius="1">
+		<monster name="Fraccion" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Fraccion" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3935" centery="3490" centerz="3" radius="1">
+		<monster name="Fraccion" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Fraccion" x="1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3941" centery="3496" centerz="3" radius="1">
+		<monster name="Fraccion" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Fraccion" x="1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3976" centery="3496" centerz="3" radius="1">
+		<monster name="Fraccion" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3982" centery="3496" centerz="3" radius="1">
+		<monster name="Fraccion" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3990" centery="3498" centerz="3" radius="1">
+		<monster name="Fraccion" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3950" centery="3500" centerz="3" radius="1">
+		<monster name="Fraccion" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Fraccion" x="1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3957" centery="3501" centerz="3" radius="1">
+		<monster name="Fraccion" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Fraccion" x="1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3966" centery="3503" centerz="3" radius="1">
+		<monster name="Fraccion" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Fraccion" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3977" centery="3504" centerz="3" radius="1">
+		<monster name="Fraccion" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3983" centery="3505" centerz="3" radius="1">
+		<monster name="Fraccion" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3966" centery="3510" centerz="3" radius="1">
+		<monster name="Fraccion" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
 	<spawn centerx="3471" centery="3520" centerz="3" radius="1">
 		<monster name="Snake Hollow" x="1" y="-1" z="3" spawntime="60" />
 		<monster name="Snake Hollow" x="-1" y="0" z="3" spawntime="60" />
@@ -297,6 +659,33 @@
 		<monster name="Snake Hollow" x="1" y="-1" z="3" spawntime="60" />
 		<monster name="Snake Hollow" x="0" y="0" z="3" spawntime="60" />
 		<monster name="Snake Hollow" x="-1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="4035" centery="3632" centerz="3" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Grand Fisher Lv 2" x="1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3672" centery="3652" centerz="3" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3680" centery="3652" centerz="3" radius="1">
+		<monster name="Elite Bandit" x="-1" y="0" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="0" z="3" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="4037" centery="3685" centerz="3" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="4046" centery="3685" centerz="3" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="4043" centery="3688" centerz="3" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="3" spawntime="60" />
 	</spawn>
 	<spawn centerx="3473" centery="4106" centerz="3" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="3" spawntime="60" />
@@ -405,6 +794,157 @@
 	</spawn>
 	<spawn centerx="3443" centery="3299" centerz="4" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3464" centery="3340" centerz="4" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3470" centery="3340" centerz="4" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3470" centery="3354" centerz="4" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3476" centery="3355" centerz="4" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3475" centery="3393" centerz="4" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3481" centery="3395" centerz="4" radius="1">
+		<monster name="Elite Bandit" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="0" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3489" centery="3396" centerz="4" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3472" centery="3397" centerz="4" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3466" centery="3413" centerz="4" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3518" centery="3429" centerz="4" radius="1">
+		<monster name="Rungokai Bandit" x="0" y="-1" z="4" spawntime="60" />
+		<monster name="Rungokai Bandit" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Rungokai Bandit" x="-1" y="1" z="4" spawntime="60" />
+		<monster name="Rungokai Bandit" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3534" centery="3429" centerz="4" radius="1">
+		<monster name="Rungokai Bandit" x="0" y="-1" z="4" spawntime="60" />
+		<monster name="Rungokai Bandit" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Rungokai Bandit" x="0" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3543" centery="3429" centerz="4" radius="1">
+		<monster name="Rungokai Bandit" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Rungokai Bandit" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Rungokai Bandit" x="-1" y="1" z="4" spawntime="60" />
+		<monster name="Rungokai Bandit" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3525" centery="3431" centerz="4" radius="1">
+		<monster name="Rungokai Bandit" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Rungokai Bandit" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Rungokai Bandit" x="-1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3514" centery="3434" centerz="4" radius="1">
+		<monster name="Rungokai Bandit" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Rungokai Bandit" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Rungokai Bandit" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Rungokai Bandit" x="-1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3467" centery="3435" centerz="4" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3472" centery="3435" centerz="4" radius="1">
+		<monster name="Elite Bandit" x="0" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="0" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3478" centery="3443" centerz="4" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3483" centery="3443" centerz="4" radius="1">
+		<monster name="Elite Bandit" x="0" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3547" centery="3443" centerz="4" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3467" centery="3448" centerz="4" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3494" centery="3448" centerz="4" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3501" centery="3448" centerz="4" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3510" centery="3448" centerz="4" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3516" centery="3448" centerz="4" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3525" centery="3452" centerz="4" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3533" centery="3452" centerz="4" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3450" centery="3458" centerz="4" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3944" centery="3474" centerz="4" radius="1">
 		<monster name="Fraccion" x="1" y="-1" z="4" spawntime="60" />
@@ -516,6 +1056,82 @@
 		<monster name="Snake Hollow" x="1" y="-1" z="4" spawntime="60" />
 		<monster name="Snake Hollow" x="0" y="0" z="4" spawntime="60" />
 		<monster name="Snake Hollow" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3687" centery="3591" centerz="4" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3667" centery="3594" centerz="4" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3677" centery="3594" centerz="4" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="0" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3685" centery="3595" centerz="4" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3689" centery="3599" centerz="4" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="4036" centery="3622" centerz="4" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="4036" centery="3626" centerz="4" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="4050" centery="3644" centerz="4" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="4051" centery="3648" centerz="4" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3663" centery="3649" centerz="4" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="1" z="4" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="4012" centery="3663" centerz="4" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="4007" centery="3664" centerz="4" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="4011" centery="3667" centerz="4" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="4035" centery="3675" centerz="4" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="4042" centery="3676" centerz="4" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="4046" centery="3677" centerz="4" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="4040" centery="3680" centerz="4" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3372" centery="3807" centerz="4" radius="1">
 		<monster name="Giant Snake" x="1" y="-1" z="4" spawntime="60" />
@@ -1217,6 +1833,15 @@
 	<spawn centerx="3909" centery="3333" centerz="5" radius="1">
 		<monster name="Kensei" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3462" centery="3334" centerz="5" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3469" centery="3334" centerz="5" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3890" centery="3334" centerz="5" radius="1">
 		<monster name="Kensei" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
@@ -1301,9 +1926,53 @@
 	<spawn centerx="3172" centery="3365" centerz="5" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3487" centery="3392" centerz="5" radius="1">
+		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3481" centery="3393" centerz="5" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3467" centery="3403" centerz="5" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3472" centery="3403" centerz="5" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3530" centery="3415" centerz="5" radius="1">
+		<monster name="Rungokai Bandit" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Rungokai Bandit" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Rungokai Bandit" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="2853" centery="3416" centerz="5" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Hiroshin" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3469" centery="3417" centerz="5" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3522" centery="3417" centerz="5" radius="1">
+		<monster name="Rungokai Bandit" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Rungokai Bandit" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3474" centery="3418" centerz="5" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="2853" centery="3420" centerz="5" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="5" spawntime="60" />
@@ -1312,6 +1981,15 @@
 	<spawn centerx="2860" centery="3421" centerz="5" radius="1">
 		<monster name="Hiroshin" x="-1" y="-1" z="5" spawntime="60" />
 		<monster name="Hiroshin" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3528" centery="3422" centerz="5" radius="1">
+		<monster name="Rungokai Bandit" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Rungokai Bandit" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Rungokai Bandit" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3520" centery="3423" centerz="5" radius="1">
+		<monster name="Rungokai Bandit" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Rungokai Bandit" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="2852" centery="3425" centerz="5" radius="1">
 		<monster name="Hiroshin" x="1" y="-1" z="5" spawntime="60" />
@@ -1322,6 +2000,13 @@
 	</spawn>
 	<spawn centerx="2995" centery="3425" centerz="5" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3463" centery="3427" centerz="5" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="2981" centery="3430" centerz="5" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="5" spawntime="60" />
@@ -1335,6 +2020,33 @@
 	<spawn centerx="2987" centery="3431" centerz="5" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3463" centery="3432" centerz="5" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3534" centery="3434" centerz="5" radius="1">
+		<monster name="Rungokai Bandit" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Rungokai Bandit" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Rungokai Bandit" x="-1" y="1" z="5" spawntime="60" />
+		<monster name="Rungokai Bandit" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3552" centery="3434" centerz="5" radius="1">
+		<monster name="Rungokai Bandit" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Rungokai Bandit" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Rungokai Bandit" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3545" centery="3435" centerz="5" radius="1">
+		<monster name="Rungokai Bandit" x="0" y="-1" z="5" spawntime="60" />
+		<monster name="Rungokai Bandit" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Rungokai Bandit" x="0" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3560" centery="3436" centerz="5" radius="1">
+		<monster name="Rungokai Bandit" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Rungokai Bandit" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Rungokai Bandit" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="2987" centery="3437" centerz="5" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
@@ -1347,11 +2059,71 @@
 	<spawn centerx="2981" centery="3438" centerz="5" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3534" centery="3439" centerz="5" radius="1">
+		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="2987" centery="3441" centerz="5" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="2996" centery="3441" centerz="5" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3462" centery="3442" centerz="5" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3470" centery="3443" centerz="5" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3493" centery="3443" centerz="5" radius="1">
+		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3503" centery="3443" centerz="5" radius="1">
+		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3509" centery="3443" centerz="5" radius="1">
+		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3535" centery="3443" centerz="5" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3488" centery="3444" centerz="5" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3475" centery="3448" centerz="5" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3523" centery="3448" centerz="5" radius="1">
+		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3533" centery="3449" centerz="5" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3447" centery="3454" centerz="5" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3452" centery="3454" centerz="5" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3952" centery="3474" centerz="5" radius="1">
 		<monster name="Fraccion" x="1" y="1" z="5" spawntime="60" />
@@ -1561,11 +2333,34 @@
 	<spawn centerx="2984" centery="3581" centerz="5" radius="1">
 		<monster name="Giant Snake Hollow" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3660" centery="3598" centerz="5" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3659" centery="3605" centerz="5" radius="1">
+		<monster name="Elite Bandit" x="0" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="0" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="0" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4033" centery="3608" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4039" centery="3609" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3614" centery="3612" centerz="5" radius="1">
 		<monster name="Fishbone D" x="-1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3622" centery="3612" centerz="5" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4015" centery="3612" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3633" centery="3613" centerz="5" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="5" spawntime="60" />
@@ -1579,17 +2374,35 @@
 	<spawn centerx="3628" centery="3617" centerz="5" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="4011" centery="3617" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4032" centery="3617" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4042" centery="3617" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3612" centery="3621" centerz="5" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="4253" centery="3621" centerz="5" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="4006" centery="3622" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="4248" centery="3622" centerz="5" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3620" centery="3623" centerz="5" radius="1">
 		<monster name="Fishbone D" x="1" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4030" centery="3623" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4042" centery="3623" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="4243" centery="3623" centerz="5" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
@@ -1603,6 +2416,9 @@
 	<spawn centerx="3633" centery="3624" centerz="5" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="4004" centery="3626" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="4240" centery="3627" centerz="5" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
@@ -1612,11 +2428,30 @@
 	<spawn centerx="3618" centery="3628" centerz="5" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3659" centery="3628" centerz="5" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3996" centery="3629" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4028" centery="3629" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4042" centery="3629" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3612" centery="3630" centerz="5" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3627" centery="3630" centerz="5" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4009" centery="3630" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3633" centery="3632" centerz="5" radius="1">
 		<monster name="Fishbone D" x="-1" y="1" z="5" spawntime="60" />
@@ -1636,11 +2471,24 @@
 	<spawn centerx="3628" centery="3634" centerz="5" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="4029" centery="3634" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3270" centery="3636" centerz="5" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3285" centery="3636" centerz="5" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3658" centery="3636" centerz="5" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3991" centery="3636" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="4252" centery="3636" centerz="5" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
@@ -1657,6 +2505,9 @@
 	<spawn centerx="3612" centery="3638" centerz="5" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="4011" centery="3638" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3619" centery="3639" centerz="5" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
 	</spawn>
@@ -1672,26 +2523,57 @@
 	<spawn centerx="3280" centery="3640" centerz="5" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="4000" centery="3641" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="4250" centery="3641" centerz="5" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3286" centery="3642" centerz="5" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3657" centery="3642" centerz="5" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="5" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3984" centery="3642" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="4239" centery="3642" centerz="5" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4010" centery="3643" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4039" centery="3643" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="4265" centery="3643" centerz="5" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="4044" centery="3644" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3276" centery="3645" centerz="5" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3998" centery="3645" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4002" centery="3645" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="4249" centery="3645" centerz="5" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3258" centery="3646" centerz="5" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3978" centery="3646" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="4261" centery="3646" centerz="5" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
@@ -1711,11 +2593,17 @@
 	<spawn centerx="3127" centery="3648" centerz="5" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="4044" centery="3648" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="4241" centery="3648" centerz="5" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3103" centery="3649" centerz="5" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4039" centery="3649" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="4257" centery="3649" centerz="5" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
@@ -1758,6 +2646,48 @@
 	</spawn>
 	<spawn centerx="3122" centery="3663" centerz="5" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4034" centery="3665" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3984" centery="3666" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3993" centery="3666" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4045" centery="3666" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3976" centery="3667" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4041" centery="3670" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4048" centery="3670" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3997" centery="3672" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4008" centery="3672" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4012" centery="3672" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3976" centery="3673" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="4006" centery="3677" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3982" centery="3678" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3993" centery="3678" centerz="5" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3575" centery="3719" centerz="5" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="5" spawntime="60" />
@@ -4003,6 +4933,10 @@
 	<spawn centerx="2930" centery="3327" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3471" centery="3327" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3692" centery="3327" centerz="6" radius="1">
 		<monster name="Mini Fisher" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Mini Fisher" x="1" y="1" z="6" spawntime="60" />
@@ -4019,6 +4953,10 @@
 	</spawn>
 	<spawn centerx="2874" centery="3330" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3464" centery="3330" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2983" centery="3331" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
@@ -4040,6 +4978,10 @@
 	</spawn>
 	<spawn centerx="3712" centery="3332" centerz="6" radius="1">
 		<monster name="Mini Fisher" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3474" centery="3333" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3585" centery="3333" centerz="6" radius="1">
 		<monster name="Hollow Wolf" x="0" y="-1" z="6" spawntime="60" />
@@ -4065,6 +5007,11 @@
 	</spawn>
 	<spawn centerx="2943" centery="3334" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3454" centery="3334" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3933" centery="3334" centerz="6" radius="1">
 		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
@@ -4103,8 +5050,16 @@
 	<spawn centerx="3693" centery="3340" centerz="6" radius="1">
 		<monster name="Mini Fisher" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3477" centery="3341" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="4267" centery="3341" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3458" centery="3342" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3874" centery="3342" centerz="6" radius="1">
 		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
@@ -4135,6 +5090,10 @@
 	</spawn>
 	<spawn centerx="4247" centery="3346" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3480" centery="3347" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2855" centery="3348" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
@@ -4180,6 +5139,10 @@
 		<monster name="Mummy" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Mummy" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3460" centery="3349" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3907" centery="3349" centerz="6" radius="1">
 		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -4204,6 +5167,10 @@
 	<spawn centerx="3154" centery="3353" centerz="6" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3483" centery="3353" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3881" centery="3353" centerz="6" radius="1">
 		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -4219,6 +5186,10 @@
 	</spawn>
 	<spawn centerx="4232" centery="3354" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3463" centery="3355" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2933" centery="3356" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
@@ -4279,6 +5250,10 @@
 		<monster name="Mummy" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Mummy" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3486" centery="3359" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="2926" centery="3360" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -4293,6 +5268,10 @@
 	</spawn>
 	<spawn centerx="3171" centery="3361" centerz="6" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3466" centery="3361" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3595" centery="3361" centerz="6" radius="1">
 		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" />
@@ -4381,6 +5360,10 @@
 	<spawn centerx="3183" centery="3368" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3488" centery="3368" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="4190" centery="3368" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -4407,6 +5390,10 @@
 	</spawn>
 	<spawn centerx="3224" centery="3370" centerz="6" radius="1">
 		<monster name="Hollow Wolf" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3465" centery="3370" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3595" centery="3370" centerz="6" radius="1">
 		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" />
@@ -4461,6 +5448,10 @@
 	<spawn centerx="3237" centery="3376" centerz="6" radius="1">
 		<monster name="Hollow Wolf" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3492" centery="3376" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3031" centery="3377" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -4469,6 +5460,10 @@
 	</spawn>
 	<spawn centerx="3427" centery="3377" centerz="6" radius="1">
 		<monster name="Mummy" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3469" centery="3377" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3371" centery="3378" centerz="6" radius="1">
 		<monster name="Mummy" x="0" y="-1" z="6" spawntime="60" />
@@ -4501,6 +5496,15 @@
 	</spawn>
 	<spawn centerx="2871" centery="3381" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3476" centery="3381" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3486" centery="3381" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2810" centery="3383" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
@@ -4574,6 +5578,12 @@
 	<spawn centerx="2881" centery="3397" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3479" centery="3397" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3254" centery="3398" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -4585,6 +5595,12 @@
 	</spawn>
 	<spawn centerx="2996" centery="3399" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3478" centery="3401" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4169" centery="3401" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
@@ -4627,6 +5643,18 @@
 	<spawn centerx="3264" centery="3407" centerz="6" radius="1">
 		<monster name="Hollow Wolf" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3466" centery="3407" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3473" centery="3407" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3592" centery="3408" centerz="6" radius="1">
 		<monster name="Black Wolf" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Black Wolf" x="0" y="1" z="6" spawntime="60" />
@@ -4663,6 +5691,11 @@
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Hiroshin" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3462" centery="3414" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3596" centery="3414" centerz="6" radius="1">
 		<monster name="Black Wolf" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
@@ -4681,6 +5714,11 @@
 	</spawn>
 	<spawn centerx="2997" centery="3418" centerz="6" radius="1">
 		<monster name="Hollow Wolf" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3538" centery="3419" centerz="6" radius="1">
+		<monster name="Rungokai Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Rungokai Bandit" x="-1" y="0" z="6" spawntime="60" />
+		<monster name="Rungokai Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3581" centery="3419" centerz="6" radius="1">
 		<monster name="Black Wolf" x="0" y="-1" z="6" spawntime="60" />
@@ -4703,6 +5741,23 @@
 	<spawn centerx="3275" centery="3422" centerz="6" radius="1">
 		<monster name="Hollow Wolf" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3464" centery="3422" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3470" centery="3422" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3536" centery="3424" centerz="6" radius="1">
+		<monster name="Rungokai Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Rungokai Bandit" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Rungokai Bandit" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="4144" centery="3424" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -4722,6 +5777,12 @@
 	<spawn centerx="3274" centery="3427" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3459" centery="3428" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="2985" centery="3431" centerz="6" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -4740,6 +5801,12 @@
 	<spawn centerx="3281" centery="3433" centerz="6" radius="1">
 		<monster name="Hollow Wolf" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3459" centery="3434" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="2994" centery="3435" centerz="6" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -4752,6 +5819,56 @@
 	<spawn centerx="2981" centery="3437" centerz="6" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3463" centery="3439" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3474" centery="3439" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3531" centery="3439" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3541" centery="3439" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3546" centery="3439" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3553" centery="3439" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3559" centery="3439" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3565" centery="3439" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3572" centery="3439" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3282" centery="3440" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -4761,8 +5878,29 @@
 	<spawn centerx="2999" centery="3441" centerz="6" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3474" centery="3442" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="4140" centery="3442" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3514" centery="3443" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3528" centery="3443" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3520" centery="3444" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4114" centery="3444" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
@@ -4782,11 +5920,39 @@
 	<spawn centerx="4121" centery="3447" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3480" centery="3448" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3487" centery="3448" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="2983" centery="3453" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3288" centery="3453" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3459" centery="3453" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3465" centery="3453" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3478" centery="3454" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2981" centery="3457" centerz="6" radius="1">
 		<monster name="Hollow Wolf" x="0" y="0" z="6" spawntime="60" />
@@ -5241,9 +6407,12 @@
 	</spawn>
 	<spawn centerx="3680" centery="3600" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3665" centery="3602" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3022" centery="3605" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
@@ -5259,8 +6428,18 @@
 	</spawn>
 	<spawn centerx="3686" centery="3607" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4020" centery="3608" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4008" centery="3609" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3671" centery="3611" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3612" centery="3612" centerz="6" radius="1">
@@ -5273,10 +6452,19 @@
 		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3662" centery="3612" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3678" centery="3612" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4035" centery="3613" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4041" centery="3613" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4243" centery="3613" centerz="6" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
@@ -5289,6 +6477,12 @@
 	</spawn>
 	<spawn centerx="3618" centery="3614" centerz="6" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4002" centery="3614" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4046" centery="3614" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4235" centery="3614" centerz="6" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
@@ -5305,8 +6499,17 @@
 	<spawn centerx="3465" centery="3617" centerz="6" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="4018" centery="3617" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3039" centery="3618" centerz="6" radius="1">
 		<monster name="Hollow Wolf" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3997" centery="3619" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4047" centery="3620" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4266" centery="3620" centerz="6" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
@@ -5325,15 +6528,23 @@
 	</spawn>
 	<spawn centerx="3658" centery="3622" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3672" centery="3622" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3680" centery="3622" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3686" centery="3622" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4015" centery="3622" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4231" centery="3622" centerz="6" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
@@ -5347,8 +6558,19 @@
 	<spawn centerx="3634" centery="3625" centerz="6" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3992" centery="3625" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3663" centery="3626" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4047" centery="3626" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4015" centery="3627" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3612" centery="3628" centerz="6" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
@@ -5368,6 +6590,9 @@
 	<spawn centerx="3620" centery="3630" centerz="6" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="4050" centery="3630" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3042" centery="3631" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -5375,10 +6600,14 @@
 		<monster name="Giant Snake" x="-1" y="0" z="6" spawntime="60" />
 		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3988" centery="3631" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="4229" centery="3631" centerz="6" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3679" centery="3632" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3731" centery="3632" centerz="6" radius="1">
@@ -5400,6 +6629,9 @@
 	<spawn centerx="3634" centery="3634" centerz="6" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="4002" centery="3634" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="4273" centery="3634" centerz="6" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -5411,6 +6643,8 @@
 	</spawn>
 	<spawn centerx="3686" centery="3635" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3725" centery="3635" centerz="6" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
@@ -5421,13 +6655,25 @@
 		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3671" centery="3636" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3729" centery="3636" centerz="6" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3983" centery="3636" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4015" centery="3636" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3663" centery="3637" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3997" centery="3637" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3264" centery="3638" centerz="6" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="6" spawntime="60" />
@@ -5446,6 +6692,9 @@
 		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Giant Snake" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="4052" centery="3638" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3258" centery="3639" centerz="6" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -5458,6 +6707,15 @@
 	<spawn centerx="3745" centery="3639" centerz="6" radius="1">
 		<monster name="Giant Snake" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3977" centery="3639" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4028" centery="3639" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4043" centery="3639" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3062" centery="3640" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
@@ -5477,6 +6735,12 @@
 	<spawn centerx="3730" centery="3641" centerz="6" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Giant Snake" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4005" centery="3641" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4035" centery="3641" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3082" centery="3642" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
@@ -5503,13 +6767,19 @@
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3668" centery="3644" centerz="6" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3680" centery="3644" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3726" centery="3644" centerz="6" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3993" centery="3644" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3266" centery="3645" centerz="6" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="6" spawntime="60" />
@@ -5524,8 +6794,17 @@
 	<spawn centerx="3744" centery="3645" centerz="6" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="4014" centery="3645" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3252" centery="3646" centerz="6" radius="1">
 		<monster name="Hollow Wolf" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3970" centery="3646" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4028" centery="3646" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3112" centery="3648" centerz="6" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="6" spawntime="60" />
@@ -5545,6 +6824,12 @@
 	<spawn centerx="3284" centery="3649" centerz="6" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3989" centery="3649" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4007" centery="3649" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3249" centery="3650" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -5553,6 +6838,12 @@
 	</spawn>
 	<spawn centerx="3275" centery="3650" centerz="6" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3980" centery="3650" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4033" centery="3650" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4269" centery="3650" centerz="6" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
@@ -5620,11 +6911,35 @@
 	<spawn centerx="3185" centery="3661" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="4027" centery="3661" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4034" centery="3661" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4041" centery="3661" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4049" centery="3661" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4057" centery="3661" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="4254" centery="3661" centerz="6" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3212" centery="3662" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3977" centery="3662" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3986" centery="3662" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3994" centery="3662" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3111" centery="3663" centerz="6" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="6" spawntime="60" />
@@ -5634,6 +6949,45 @@
 	</spawn>
 	<spawn centerx="3259" centery="3663" centerz="6" radius="1">
 		<monster name="Hollow Wolf" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3970" centery="3663" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4001" centery="3663" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4060" centery="3665" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4027" centery="3668" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4055" centery="3669" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3988" centery="3670" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4001" centery="3670" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3970" centery="3671" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3981" centery="3673" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3987" centery="3673" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4053" centery="3675" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3971" centery="3676" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4028" centery="3676" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3563" centery="3677" centerz="6" radius="1">
 		<monster name="Black Wolf" x="1" y="-1" z="6" spawntime="60" />
@@ -5651,6 +7005,9 @@
 		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Fishbone D" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="4001" centery="3679" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3666" centery="3680" centerz="6" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
@@ -5660,8 +7017,26 @@
 	<spawn centerx="3674" centery="3681" centerz="6" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3974" centery="3682" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3985" centery="3682" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4008" centery="3682" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3560" centery="3683" centerz="6" radius="1">
 		<monster name="Black Wolf" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3995" centery="3683" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4013" centery="3683" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4053" centery="3683" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3547" centery="3685" centerz="6" radius="1">
 		<monster name="Black Wolf" x="1" y="-1" z="6" spawntime="60" />
@@ -5676,6 +7051,9 @@
 	<spawn centerx="3665" centery="3685" centerz="6" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4029" centery="3685" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3542" centery="3686" centerz="6" radius="1">
 		<monster name="Black Wolf" x="0" y="-1" z="6" spawntime="60" />
@@ -5694,6 +7072,9 @@
 	<spawn centerx="3696" centery="3687" centerz="6" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="4012" centery="3688" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3559" centery="3689" centerz="6" radius="1">
 		<monster name="Black Wolf" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
@@ -5707,6 +7088,9 @@
 	<spawn centerx="3550" centery="3691" centerz="6" radius="1">
 		<monster name="Black Wolf" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Black Wolf" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4053" centery="3691" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3674" centery="3692" centerz="6" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
@@ -5723,8 +7107,14 @@
 		<monster name="Black Wolf" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Black Wolf" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="4043" centery="3694" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3541" centery="3695" centerz="6" radius="1">
 		<monster name="Black Wolf" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="4032" centery="3695" centerz="6" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3567" centery="3696" centerz="6" radius="1">
 		<monster name="Black Wolf" x="0" y="-1" z="6" spawntime="60" />
@@ -10862,12 +12252,6 @@
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Wolf" x="0" y="1" z="7" spawntime="1718262784" />
 	</spawn>
-	<spawn centerx="3814" centery="3562" centerz="7" radius="1">
-		<npc name="Kenji" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3833" centery="3562" centerz="7" radius="1">
-		<npc name="Kurotsuchi" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3106" centery="3563" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -11205,6 +12589,13 @@
 	<spawn centerx="3592" centery="3600" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3670" centery="3600" centerz="7" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="4010" centery="3600" centerz="7" radius="1">
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
@@ -11223,6 +12614,12 @@
 	</spawn>
 	<spawn centerx="3598" centery="3602" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3678" centery="3602" centerz="7" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4001" centery="3602" centerz="7" radius="1">
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
@@ -11261,6 +12658,12 @@
 	<spawn centerx="3594" centery="3605" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3668" centery="3605" centerz="7" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3708" centery="3605" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -11360,11 +12763,28 @@
 	<spawn centerx="3612" centery="3612" centerz="7" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3661" centery="3612" centerz="7" radius="1">
+		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3673" centery="3612" centerz="7" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3708" centery="3612" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3632" centery="3613" centerz="7" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3666" centery="3613" centerz="7" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3215" centery="3614" centerz="7" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -11396,6 +12816,13 @@
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3681" centery="3615" centerz="7" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3751" centery="3615" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -11555,6 +12982,13 @@
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3665" centery="3622" centerz="7" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3227" centery="3623" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -11568,6 +13002,13 @@
 	</spawn>
 	<spawn centerx="3651" centery="3623" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3681" centery="3623" centerz="7" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3740" centery="3623" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -11681,6 +13122,13 @@
 	<spawn centerx="3611" centery="3628" centerz="7" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3678" centery="3628" centerz="7" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3763" centery="3628" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -11733,6 +13181,19 @@
 	<spawn centerx="3640" centery="3632" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3659" centery="3632" centerz="7" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3668" centery="3632" centerz="7" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="4021" centery="3632" centerz="7" radius="1">
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
@@ -11755,6 +13216,10 @@
 	</spawn>
 	<spawn centerx="3565" centery="3634" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3681" centery="3634" centerz="7" radius="1">
+		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3697" centery="3634" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -11858,12 +13323,25 @@
 	<spawn centerx="3628" centery="3640" centerz="7" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3664" centery="3640" centerz="7" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3005" centery="3641" centerz="7" radius="1">
 		<monster name="Giant Snake Hollow" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3076" centery="3641" centerz="7" radius="1">
 		<monster name="Giant Snake Hollow" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Giant Snake Hollow" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3677" centery="3641" centerz="7" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3725" centery="3641" centerz="7" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
@@ -14945,6 +16423,11 @@
 	<spawn centerx="3112" centery="3593" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3666" centery="3593" centerz="8" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3165" centery="3594" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="0" y="-1" z="8" spawntime="60" />
 		<monster name="Giant Snake Hollow" x="1" y="1" z="8" spawntime="60" />
@@ -14961,8 +16444,30 @@
 		<monster name="Giant Snake Hollow" x="0" y="-1" z="8" spawntime="60" />
 		<monster name="Giant Snake Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3683" centery="3600" centerz="8" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3670" centery="3602" centerz="8" radius="1">
+		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3102" centery="3604" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3677" centery="3604" centerz="8" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3657" centery="3605" centerz="8" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3173" centery="3607" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="1" y="1" z="8" spawntime="60" />
@@ -14992,6 +16497,17 @@
 		<monster name="Giant Snake Hollow" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Giant Snake Hollow" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3671" centery="3609" centerz="8" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3654" centery="3610" centerz="8" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="4191" centery="3611" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -15006,6 +16522,11 @@
 	</spawn>
 	<spawn centerx="3170" centery="3616" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3670" centery="3618" centerz="8" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4194" centery="3619" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
@@ -15022,6 +16543,12 @@
 	<spawn centerx="3800" centery="3620" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3685" centery="3621" centerz="8" radius="1">
+		<monster name="Elite Bandit" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3166" centery="3623" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
@@ -15036,6 +16563,13 @@
 	<spawn centerx="3803" centery="3625" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3656" centery="3626" centerz="8" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="4173" centery="3627" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -15044,6 +16578,12 @@
 	</spawn>
 	<spawn centerx="3162" centery="3629" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3677" centery="3629" centerz="8" radius="1">
+		<monster name="Elite Bandit" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4237" centery="3629" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
@@ -15056,6 +16596,13 @@
 	</spawn>
 	<spawn centerx="3140" centery="3632" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3662" centery="3632" centerz="8" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3158" centery="3635" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="0" y="-1" z="8" spawntime="60" />
@@ -15079,6 +16626,19 @@
 	</spawn>
 	<spawn centerx="4183" centery="3637" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3670" centery="3638" centerz="8" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3680" centery="3638" centerz="8" radius="1">
+		<monster name="Elite Bandit" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4209" centery="3638" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
@@ -15110,6 +16670,19 @@
 	</spawn>
 	<spawn centerx="3855" centery="3643" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3665" centery="3645" centerz="8" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3679" centery="3645" centerz="8" radius="1">
+		<monster name="Elite Bandit" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Bandit" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3786" centery="3645" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
