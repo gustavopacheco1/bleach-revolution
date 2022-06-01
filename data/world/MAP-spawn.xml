@@ -16753,67 +16753,172 @@
 	<spawn centerx="3583" centery="3455" centerz="8" radius="1">
 		<npc name="Tessai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3386" centery="3515" centerz="8" radius="1">
+	<spawn centerx="3392" centery="3491" centerz="8" radius="1">
+		<monster name="Samurai" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Samurai" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Samurai" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3412" centery="3493" centerz="8" radius="1">
+		<monster name="Samurai" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Samurai" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Samurai" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3407" centery="3499" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3397" centery="3518" centerz="8" radius="1">
+	<spawn centerx="3392" centery="3501" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Samurai" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3403" centery="3504" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3377" centery="3519" centerz="8" radius="1">
+	<spawn centerx="3398" centery="3507" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3405" centery="3520" centerz="8" radius="1">
+	<spawn centerx="3393" centery="3508" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3414" centery="3522" centerz="8" radius="1">
+	<spawn centerx="3387" centery="3512" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3371" centery="3526" centerz="8" radius="1">
+	<spawn centerx="3360" centery="3516" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3346" centery="3527" centerz="8" radius="1">
+	<spawn centerx="3331" centery="3517" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3420" centery="3527" centerz="8" radius="1">
+	<spawn centerx="3344" centery="3517" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3362" centery="3528" centerz="8" radius="1">
+	<spawn centerx="3373" centery="3517" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3426" centery="3534" centerz="8" radius="1">
+	<spawn centerx="3385" centery="3517" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3408" centery="3538" centerz="8" radius="1">
+	<spawn centerx="3319" centery="3519" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3398" centery="3540" centerz="8" radius="1">
+	<spawn centerx="3393" centery="3522" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3418" centery="3540" centerz="8" radius="1">
+	<spawn centerx="3309" centery="3523" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3398" centery="3550" centerz="8" radius="1">
+	<spawn centerx="3403" centery="3524" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3403" centery="3560" centerz="8" radius="1">
+	<spawn centerx="3407" centery="3527" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3407" centery="3567" centerz="8" radius="1">
+	<spawn centerx="3298" centery="3529" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3411" centery="3574" centerz="8" radius="1">
+	<spawn centerx="3412" centery="3536" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3416" centery="3580" centerz="8" radius="1">
+	<spawn centerx="3292" centery="3537" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3332" centery="3583" centerz="8" radius="1">
+	<spawn centerx="3330" centery="3538" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Samurai" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3335" centery="3538" centerz="8" radius="1">
+		<monster name="Samurai" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3339" centery="3538" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3346" centery="3538" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3357" centery="3538" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3365" centery="3539" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3377" centery="3540" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3336" centery="3542" centerz="8" radius="1">
+		<monster name="Samurai" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3334" centery="3546" centerz="8" radius="1">
+		<monster name="Samurai" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Samurai" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3381" centery="3546" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3412" centery="3546" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3285" centery="3547" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3381" centery="3551" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3280" centery="3556" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3381" centery="3558" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3409" centery="3560" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3381" centery="3564" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3277" centery="3568" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3381" centery="3571" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3402" centery="3572" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3383" centery="3578" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3275" centery="3581" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3332" centery="3582" centerz="8" radius="1">
 		<monster name="Samurai Boss" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3420" centery="3585" centerz="8" radius="1">
+	<spawn centerx="3385" centery="3583" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3426" centery="3586" centerz="8" radius="1">
+	<spawn centerx="3410" centery="3585" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3421" centery="3585" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3432" centery="3585" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Samurai" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Samurai" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3387" centery="3588" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3273" centery="3590" centerz="8" radius="1">
 		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3666" centery="3593" centerz="8" radius="1">
@@ -16821,12 +16926,21 @@
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3389" centery="3595" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3269" centery="3599" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3683" centery="3600" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3390" centery="3602" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3670" centery="3602" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
@@ -16842,6 +16956,12 @@
 		<monster name="Elite Bandit" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3267" centery="3606" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3392" centery="3608" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3671" centery="3609" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="1" y="-1" z="8" spawntime="60" />
@@ -16859,6 +16979,12 @@
 	</spawn>
 	<spawn centerx="4174" centery="3612" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3267" centery="3615" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3392" centery="3615" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3798" centery="3615" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
@@ -16886,6 +17012,12 @@
 		<monster name="Elite Bandit" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3392" centery="3622" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3266" centery="3623" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3803" centery="3625" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -16902,6 +17034,9 @@
 	<spawn centerx="3811" centery="3628" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3392" centery="3629" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3677" centery="3629" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
@@ -16910,6 +17045,9 @@
 	</spawn>
 	<spawn centerx="4237" centery="3629" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3267" centery="3631" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3817" centery="3631" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
@@ -16920,6 +17058,9 @@
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3392" centery="3635" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3820" centery="3636" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
@@ -16952,6 +17093,9 @@
 	<spawn centerx="4209" centery="3638" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3391" centery="3641" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="4237" centery="3641" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -16960,6 +17104,9 @@
 	</spawn>
 	<spawn centerx="3805" centery="3642" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3267" centery="3643" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3822" centery="3643" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
@@ -16989,6 +17136,9 @@
 	<spawn centerx="3814" centery="3645" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3390" centery="3646" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="4213" centery="3648" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -17001,6 +17151,9 @@
 	<spawn centerx="4188" centery="3649" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3268" centery="3651" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="4152" centery="3651" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -17009,6 +17162,9 @@
 	</spawn>
 	<spawn centerx="3856" centery="3653" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3388" centery="3654" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3836" centery="3654" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
@@ -17024,6 +17180,12 @@
 	</spawn>
 	<spawn centerx="4104" centery="3656" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3272" centery="3657" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3328" centery="3657" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3830" centery="3657" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
@@ -17046,8 +17208,17 @@
 	<spawn centerx="3856" centery="3660" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3281" centery="3663" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3328" centery="3663" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3805" centery="3663" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3386" centery="3664" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3821" centery="3665" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
@@ -17055,11 +17226,47 @@
 	<spawn centerx="3791" centery="3666" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3291" centery="3669" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3328" centery="3669" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3381" centery="3669" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3796" centery="3671" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3304" centery="3673" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3351" centery="3673" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3361" centery="3673" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3372" centery="3673" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3814" centery="3673" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3344" centery="3674" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3313" centery="3675" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3322" centery="3675" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3329" centery="3675" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3337" centery="3675" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3814" centery="3747" centerz="8" radius="1">
 		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
