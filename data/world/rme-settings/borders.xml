@@ -917,7 +917,7 @@
 		<borderitem edge="dse" item="6881"/>
 	</border>
 	
-	<border id="134"> -- Areia Las Noches --
+	<border id="134"> -- gray sand --
         <borderitem edge="n"   item="10954"/>
         <borderitem edge="e"   item="10957"/>
         <borderitem edge="s"   item="10955"/>

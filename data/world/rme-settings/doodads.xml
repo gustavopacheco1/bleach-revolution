@@ -144,22 +144,7 @@
 		<item id="7002" chance="15"/>
 		<item id="7003" chance="15"/>
 	</brush>
-	
-	<brush name="trees" type="doodad" server_lookid="2703" draggable="true" on_blocking="false" thickness="12/100">
-		<item id="2700" chance="10"/>
-		<item id="2701" chance="10"/>
-		<item id="2702" chance="10"/>
-		<item id="2703" chance="10"/>
-		<item id="2704" chance="10"/>
-		<item id="2705" chance="10"/>
-		<item id="2706" chance="10"/>
-		<item id="2707" chance="10"/>
-		<item id="2708" chance="10"/>
-		<item id="2711" chance="10"/>
-		<item id="2702" chance="10"/>
-		<item id="7024" chance="10"/>
-	</brush>
-	
+
 	<brush name="tree stubs" type="doodad" server_lookid="5092" draggable="true" on_blocking="false" thickness="12/100">
 		<composite chance="10">
 			<tile x="0" y="0"> <item id="8786"/> </tile>
