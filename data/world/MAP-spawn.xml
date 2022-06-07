@@ -4317,9 +4317,6 @@
 	<spawn centerx="4038" centery="2707" centerz="6" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3411" centery="2710" centerz="6" radius="1">
-		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="4039" centery="2712" centerz="6" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -4329,86 +4326,8 @@
 	<spawn centerx="4070" centery="2712" centerz="6" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3429" centery="2713" centerz="6" radius="1">
-		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="4020" centery="2713" centerz="6" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3376" centery="2714" centerz="6" radius="1">
-		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3413" centery="2717" centerz="6" radius="1">
-		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3366" centery="2719" centerz="6" radius="1">
-		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3378" centery="2720" centerz="6" radius="1">
-		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3440" centery="2725" centerz="6" radius="1">
-		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3363" centery="2727" centerz="6" radius="1">
-		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3376" centery="2727" centerz="6" radius="1">
-		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3415" centery="2728" centerz="6" radius="1">
-		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3442" centery="2738" centerz="6" radius="1">
-		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3417" centery="2739" centerz="6" radius="1">
-		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3428" centery="2745" centerz="6" radius="1">
-		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3309" centery="2756" centerz="6" radius="1">
-		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3379" centery="2756" centerz="6" radius="1">
-		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3330" centery="2760" centerz="6" radius="1">
-		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3299" centery="2762" centerz="6" radius="1">
-		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3388" centery="2766" centerz="6" radius="1">
-		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3325" centery="2770" centerz="6" radius="1">
-		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3364" centery="2770" centerz="6" radius="1">
-		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3298" centery="2771" centerz="6" radius="1">
-		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3378" centery="2774" centerz="6" radius="1">
-		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3390" centery="2779" centerz="6" radius="1">
-		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3311" centery="2782" centerz="6" radius="1">
-		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3295" centery="2784" centerz="6" radius="1">
-		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3357" centery="2785" centerz="6" radius="1">
-		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3377" centery="2786" centerz="6" radius="1">
-		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2870" centery="3075" centerz="6" radius="1">
 		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
