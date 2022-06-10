@@ -107,20 +107,20 @@ function doNpcSellItem(cid, itemid, amount, subType, ignoreCap, inBackpacks, bac
 			return 0,0, {}
 		end
 	end
-	
+
 	local a = 0
 	if inBackpacks then
-	
+
 		local itemTable = {}
 		local container, b = doCreateItemEx(backpack, 1), 1
 		table.insert(itemTable, container)
 		for i = 1, amount do
-		
+
 			local item = doAddContainerItem(container, itemid, subType)
 			if(itemid == ITEM_PARCEL) then
 				doAddContainerItem(item, ITEM_LABEL)
 			end
-			
+
 			if(isInArray({(getContainerCapById(backpack) * b), amount}, i)) then
 				if doPlayerAddItemEx(cid, container, ignoreCap) ~= RETURNVALUE_NOERROR then
 					b = b - 1
@@ -129,19 +129,19 @@ function doNpcSellItem(cid, itemid, amount, subType, ignoreCap, inBackpacks, bac
 
 				a = i
 				if amount > i then
-				
+
 					container = doCreateItemEx(backpack, 1)
 					table.insert(itemTable, container)
 					b = b + 1
-					
+
 				end
 			end
 		end
 		return a, b, itemTable
 	end
-	
+
 	local itemTable = {}
-	
+
 	for i = 1, amount do
 		item = doCreateItemEx(itemid, subType)
 		if(itemid == ITEM_PARCEL) then
@@ -155,16 +155,6 @@ function doNpcSellItem(cid, itemid, amount, subType, ignoreCap, inBackpacks, bac
 	end
 
 	return a, 0, itemTable
-end
-
-function doRemoveItemIdFromPosition(id, n, position)
-	local thing = getTileItemById(position, id)
-	if(thing.itemid < 101) then
-		return false
-	end
-
-	doRemoveItem(thing.uid, n)
-	return true
 end
 
 function getNpcName()

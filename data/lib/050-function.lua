@@ -465,7 +465,7 @@ function addContainerItems(container,items)
 			else
 				insert_bp = doAddContainerItem(insert_bp, container.itemid, 1)
 				count = (#items_mod)-(free-1)
-				free = getContainerCap(insert_bp) 
+				free = getContainerCap(insert_bp)
 				count = math.ceil(count/ free)
 				doAddContainerItem(insert_bp, it.id, _c)
 				counter = 1
@@ -675,13 +675,23 @@ function doPlayerFormula(cid)
     -- Set max health
     if getCreatureMaxHealth(cid) ~= formula_health then
         setCreatureMaxHealth(cid, formula_health)
-        doCreatureAddHealth(cid, getCreatureMaxHealth(cid), nil, nil)
+        doCreatureAddHealth(cid, getCreatureMaxHealth(cid))
     end
 
     -- Set max mana
     if getCreatureMaxMana(cid) ~= formula_mana then
         setCreatureMaxMana(cid, formula_mana)
-        doCreatureAddMana(cid, getCreatureMaxMana(cid), nil, nil)
+        doCreatureAddMana(cid, getCreatureMaxMana(cid))
     end
     return true
+end
+
+function doRemoveItemIdFromPosition(id, n, position)
+	local thing = getTileItemById(position, id)
+	if(thing.itemid < 101) then
+		return false
+	end
+
+	doRemoveItem(thing.uid, n)
+	return true
 end
