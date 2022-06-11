@@ -10315,7 +10315,6 @@
 	<spawn centerx="3635" centery="3423" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="2387" centery="3425" centerz="7" radius="1" />
 	<spawn centerx="3484" centery="3425" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -10363,9 +10362,6 @@
 	<spawn centerx="4129" centery="3430" centerz="7" radius="1">
 		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="2441" centery="3431" centerz="7" radius="1">
-		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3486" centery="3431" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -10388,26 +10384,17 @@
 	<spawn centerx="4122" centery="3435" centerz="7" radius="1">
 		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="2365" centery="3436" centerz="7" radius="1">
-		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3396" centery="3437" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3409" centery="3438" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="2359" centery="3440" centerz="7" radius="1">
-		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="4116" centery="3441" centerz="7" radius="1">
 		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3392" centery="3445" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="2355" centery="3446" centerz="7" radius="1">
-		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3382" centery="3447" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -10417,9 +10404,6 @@
 	</spawn>
 	<spawn centerx="4111" centery="3449" centerz="7" radius="1">
 		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="2348" centery="3452" centerz="7" radius="1">
-		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3581" centery="3452" centerz="7" radius="1">
 		<npc name="Jinta" x="0" y="0" z="7" spawntime="60" />
@@ -10433,26 +10417,14 @@
 	<spawn centerx="4107" centery="3455" centerz="7" radius="1">
 		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="2342" centery="3457" centerz="7" radius="1">
-		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3583" centery="3458" centerz="7" radius="1">
 		<npc name="Urahara Kisuke" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="2337" centery="3459" centerz="7" radius="1">
-		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3370" centery="3459" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="2463" centery="3460" centerz="7" radius="1">
-		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3409" centery="3460" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="2449" centery="3463" centerz="7" radius="1">
-		<npc name="Hikari" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3383" centery="3463" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -10472,9 +10444,6 @@
 	<spawn centerx="3397" centery="3466" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="2449" centery="3468" centerz="7" radius="1">
-		<npc name="Kenji" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3413" centery="3468" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -10483,9 +10452,6 @@
 	</spawn>
 	<spawn centerx="4106" centery="3472" centerz="7" radius="1">
 		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="2449" centery="3473" centerz="7" radius="1">
-		<npc name="Kurotsuchi" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3514" centery="3473" centerz="7" radius="1">
 		<npc name="Hikari" x="0" y="0" z="7" spawntime="60" />
@@ -10542,9 +10508,6 @@
 	</spawn>
 	<spawn centerx="4141" centery="3483" centerz="7" radius="1">
 		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="2346" centery="3484" centerz="7" radius="1">
-		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3408" centery="3484" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -10638,9 +10601,6 @@
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="2340" centery="3494" centerz="7" radius="1">
-		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3485" centery="3494" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -10680,9 +10640,6 @@
 	</spawn>
 	<spawn centerx="3390" centery="3505" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="2336" centery="3507" centerz="7" radius="1">
-		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3406" centery="3507" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -10749,9 +10706,6 @@
 	</spawn>
 	<spawn centerx="4069" centery="3524" centerz="7" radius="1">
 		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="2457" centery="3525" centerz="7" radius="1">
-		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3398" centery="3526" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -10821,9 +10775,6 @@
 	<spawn centerx="4448" centery="3535" centerz="7" radius="1">
 		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="2463" centery="3536" centerz="7" radius="1">
-		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3385" centery="3536" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -10857,9 +10808,6 @@
 	<spawn centerx="4055" centery="3540" centerz="7" radius="1">
 		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="2455" centery="3541" centerz="7" radius="1">
-		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="4047" centery="3542" centerz="7" radius="1">
 		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -10881,12 +10829,6 @@
 		<monster name="Rungokai Bandit" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="2407" centery="3547" centerz="7" radius="1">
-		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="2452" centery="3547" centerz="7" radius="1">
-		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3464" centery="3547" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
