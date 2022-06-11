@@ -87,14 +87,6 @@
 		<item id="4624" chance="0"/>
 		<item id="4625" chance="0"/>
 
-		<item id="5757" chance="0"/>
-		<item id="5756" chance="0"/>
-		<item id="5755" chance="0"/>
-		<item id="5759" chance="0"/>
-		<item id="5760" chance="0"/>
-		<item id="5758" chance="0"/>
-		<item id="5761" chance="0"/>
-
 		<border align="outer" id="5"/>
 		<border align="inner" to="ice" id="48"/>
 	</brush>
