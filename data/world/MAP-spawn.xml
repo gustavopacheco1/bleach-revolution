@@ -9002,6 +9002,9 @@
 	<spawn centerx="4553" centery="2672" centerz="7" radius="1" />
 	<spawn centerx="4588" centery="2672" centerz="7" radius="1" />
 	<spawn centerx="4655" centery="2672" centerz="7" radius="1" />
+	<spawn centerx="3274" centery="2673" centerz="7" radius="1">
+		<npc name="Runuganga" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3434" centery="2673" centerz="7" radius="1">
 		<monster name="Adjuchas" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -9045,6 +9048,9 @@
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4614" centery="2676" centerz="7" radius="1" />
+	<spawn centerx="3265" centery="2677" centerz="7" radius="1">
+		<npc name="Nel" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3516" centery="2677" centerz="7" radius="1">
 		<monster name="Grown Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
