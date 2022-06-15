@@ -406,4 +406,15 @@
 	<instant name="Hiasobi" words="Hiasobi" lvl="400" mana="5000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="attack/Urahara/Hiasobi.lua">
 		<vocation id="17" />
 	</instant>
+	
+	<!-- Grimmjow Jaegerjaquez -->
+	<instant name="Garra de la Pantera" words="Garra de la Pantera" lvl="200" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="attack/Grimmjow/Garra de la Pantera.lua">
+		<vocation id="17" />
+	</instant>
+	<instant name="Gran Rey Cero" words="Gran Rey Cero" lvl="300" mana="4000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="150" needlearn="0" event="script" value="attack/Grimmjow/Gran Rey Cero.lua">
+		<vocation id="17" />
+	</instant>
+	<instant name="Desgarron" words="Desgarron" lvl="400" mana="5000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="attack/Grimmjow/Desgarron.lua">
+		<vocation id="18" />
+	</instant>
 </spells>
