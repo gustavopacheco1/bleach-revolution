@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Boss Quest Level: 350 -->
 <monster name="Hiroshi Boss Two" nameDescription="Hiroshi Boss Two" race="blood" experience="0" speed="900" manacost="0">
     <health now="1100000" max="1100000" />
     <look type="178" corpse="5527" />
