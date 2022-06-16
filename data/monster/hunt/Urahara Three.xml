@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Monster Level: 300 -->
 <monster name="Urahara Three" nameDescription="Urahara Three" race="blood" experience="25000" speed="6000" manacost="0">
     <health now="60000" max="60000" />
     <look type="257" corpse="5527" />
@@ -32,7 +33,7 @@
         <immunity outfit="1" />
         <immunity invisible="0" />
     </immunities>
-	
+
 	<loot>
         <item id="2160" chance="15000" count="1" countmax="1"/>
 		<item id="15724" chance="1000" count="1" countmax="1"/>
