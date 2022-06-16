@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Monster Level: 350 -->
 <monster name="Hiroshin" nameDescription="Hiroshin" race="blood" experience="30000" speed="600" manacost="0">
     <health now="55000" max="55000" />
     <look type="174" corpse="5527" />
