@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Monster Level: 200 -->
 <monster name="Gilliam" nameDescription="Gilliam" race="blood" experience="21000" speed="600" manacost="0">
     <health now="50000" max="50000" />
     <look type="44" corpse="5527" />
@@ -35,7 +36,7 @@
     <script>
         <event name="YamamotoTask" />
     </script>
-	
+
 	<loot>
         <item id="2152" chance="17000" count="20" countmax="30"/>
 		<item id="15103" chance="7000" count="1" countmax="1"/>
