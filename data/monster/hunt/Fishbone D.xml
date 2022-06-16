@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Monster Level: 175 -->
 <monster name="Fishbone D" nameDescription="Fishbone D" race="blood" experience="19000" speed="500" manacost="0">
     <health now="40000" max="40000" />
     <look type="33" corpse="5527" />
@@ -35,7 +36,7 @@
     <script>
         <event name="YamamotoTask" />
     </script>
-	
+
 	<loot>
         <item id="2152" chance="13000" count="20" countmax="30"/>
 		<item id="15104" chance="10000" count="1" countmax="1"/>
