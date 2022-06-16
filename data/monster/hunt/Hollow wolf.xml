@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Monster Level: 50 -->
 <monster name="Hollow Wolf" nameDescription="Hollow Wolf" race="blood" experience="8000" speed="100" manacost="0">
     <health now="1700" max="1700" />
     <look type="118" corpse="5527" />
@@ -35,7 +36,7 @@
     <script>
         <event name="YamamotoTask" />
     </script>
-	
+
 	<loot>
         <item id="2152" chance="15000" count="20" countmax="23"/>
     </loot>
