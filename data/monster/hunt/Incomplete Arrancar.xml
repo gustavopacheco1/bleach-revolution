@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Monster Level: 475 -->
 <monster name="Incomplete Arrancar" nameDescription="Incomplete Arrancar" race="blood" experience="50000" speed="600" manacost="0">
     <health now="75000" max="75000" />
     <look type="241" corpse="5527" />
@@ -35,7 +36,7 @@
     <script>
         <event name="YamamotoTask" />
     </script>
-	
+
 	<loot>
         <item id="2160" chance="15000" count="5" countmax="6"/>
     </loot>
