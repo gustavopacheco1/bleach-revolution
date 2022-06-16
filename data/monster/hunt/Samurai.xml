@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Monster Quest Level: 100 -->
 <monster name="Samurai" nameDescription="Samurai" race="blood" experience="0" speed="400" manacost="0">
     <health now="20000" max="20000" />
     <look type="119" corpse="5527" />
