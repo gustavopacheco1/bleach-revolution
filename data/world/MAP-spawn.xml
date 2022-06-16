@@ -15037,6 +15037,9 @@
 	<spawn centerx="3856" centery="3653" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3615" centery="3654" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3836" centery="3654" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -15051,6 +15054,9 @@
 	</spawn>
 	<spawn centerx="4104" centery="3656" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3620" centery="3657" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3830" centery="3657" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
@@ -15067,14 +15073,23 @@
 	<spawn centerx="4177" centery="3659" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3610" centery="3660" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3787" centery="3660" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3856" centery="3660" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3622" centery="3663" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3805" centery="3663" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3617" centery="3664" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3821" centery="3665" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
@@ -15082,11 +15097,47 @@
 	<spawn centerx="3791" centery="3666" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3614" centery="3670" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3651" centery="3671" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3796" centery="3671" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3656" centery="3672" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3607" centery="3673" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3715" centery="3673" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3722" centery="3673" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3814" centery="3673" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3648" centery="3676" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3653" centery="3676" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3710" centery="3676" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3729" centery="3677" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3604" centery="3679" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3706" centery="3679" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3449" centery="3680" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -15094,20 +15145,95 @@
 	<spawn centerx="3455" centery="3680" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3664" centery="3681" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3626" centery="3683" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3633" centery="3684" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3603" centery="3685" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3621" centery="3685" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3732" centery="3685" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3455" centery="3686" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3693" centery="3686" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3654" centery="3687" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3659" centery="3687" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3700" centery="3687" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3442" centery="3688" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3618" centery="3688" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3639" centery="3688" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3610" centery="3689" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3648" centery="3689" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3663" centery="3689" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3674" centery="3689" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3514" centery="3693" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3644" centery="3693" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3665" centery="3693" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3688" centery="3693" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3731" centery="3693" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3699" centery="3694" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3433" centery="3696" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3680" centery="3696" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3522" centery="3697" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3723" centery="3698" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3643" centery="3699" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3728" centery="3699" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3417" centery="3702" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -15124,8 +15250,20 @@
 	<spawn centerx="3396" centery="3703" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3678" centery="3703" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3525" centery="3704" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3642" centery="3704" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3720" centery="3704" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3731" centery="3704" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3404" centery="3705" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -15135,6 +15273,18 @@
 	</spawn>
 	<spawn centerx="3334" centery="3707" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3672" centery="3707" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3639" centery="3709" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3648" centery="3709" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3726" centery="3709" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3379" centery="3710" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -15154,11 +15304,20 @@
 	<spawn centerx="3368" centery="3712" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3667" centery="3713" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3342" centery="3716" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3364" centery="3716" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3633" centery="3716" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3644" centery="3716" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3382" centery="3717" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -15169,20 +15328,47 @@
 	<spawn centerx="3357" centery="3718" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3627" centery="3718" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3685" centery="3720" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3385" centery="3722" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3518" centery="3722" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3622" centery="3722" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3669" centery="3722" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3689" centery="3724" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3676" centery="3725" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3350" centery="3726" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3684" centery="3726" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3390" centery="3727" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3619" centery="3728" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3450" centery="3729" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3684" centery="3730" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3523" centery="3731" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -15205,6 +15391,9 @@
 	<spawn centerx="3457" centery="3734" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3620" centery="3734" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3442" centery="3736" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -15220,8 +15409,14 @@
 	<spawn centerx="3349" centery="3741" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3639" centery="3741" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3312" centery="3742" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3624" centery="3742" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3342" centery="3743" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -15229,11 +15424,17 @@
 	<spawn centerx="3541" centery="3743" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3632" centery="3743" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3317" centery="3744" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3357" centery="3744" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3647" centery="3744" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3307" centery="3746" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -15262,6 +15463,9 @@
 	<spawn centerx="3358" centery="3750" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3650" centery="3750" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3820" centery="3752" centerz="8" radius="1">
 		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -15273,6 +15477,9 @@
 	</spawn>
 	<spawn centerx="3399" centery="3756" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3647" centery="3757" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3414" centery="3758" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -15286,11 +15493,20 @@
 	<spawn centerx="3313" centery="3761" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3639" centery="3761" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3825" centery="3761" centerz="8" radius="1">
 		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3655" centery="3762" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3406" centery="3763" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3647" centery="3765" centerz="8" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3712" centery="3766" centerz="8" radius="1">
 		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
