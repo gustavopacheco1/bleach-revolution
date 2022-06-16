@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Monster Quest Level: 400 -->
 <monster name="Fake Zaraki" nameDescription="Fake Zaraki" race="blood" experience="0" speed="900" manacost="0">
     <health now="100000" max="100000" />
     <look type="53" corpse="5527" />

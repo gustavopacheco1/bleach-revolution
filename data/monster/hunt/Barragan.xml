@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Monster Quest Level: 400 -->
 <monster name="Barragan" nameDescription="Barragan" race="blood" experience="150" speed="800" manacost="0">
     <health now="400000" max="400000" />
     <look type="198" corpse="5527" />
