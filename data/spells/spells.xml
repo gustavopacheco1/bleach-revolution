@@ -428,4 +428,15 @@
 	<instant name="Hozukimaru Turn Slow" words="Hozukimaru Turn Slow" lvl="400" mana="5000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="attack/Ikkaku/Hozukimaru Turn Slow.lua">
 		<vocation id="19" />
 	</instant>
+	
+	<!-- Coyote Starrk -->
+	<instant name="Cero Metralleta" words="Cero Metralleta" lvl="200" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="0" event="script" value="attack/Starrk/Cero Metralleta.lua">
+		<vocation id="20" />
+	</instant>
+	<instant name="Ceero" words="Ceero" lvl="300" mana="4000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="150" needlearn="0" event="script" value="attack/Starrk/Ceero.lua">
+		<vocation id="20" />
+	</instant>
+	<instant name="Colmillo" words="Colmillo" lvl="400" mana="5000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="attack/Starrk/Colmillo.lua">
+		<vocation id="20" />
+	</instant>
 </spells>
