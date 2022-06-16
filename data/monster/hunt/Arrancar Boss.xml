@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Boss Drop Level: 475 -->
 <monster name="Arrancar Boss" nameDescription="Arrancar Boss" race="blood" experience="0" speed="300" manacost="0">
     <health now="2000000" max="2000000" />
     <look type="31" corpse="5527" />
