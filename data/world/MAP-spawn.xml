@@ -83,6 +83,30 @@
 	<spawn centerx="3417" centery="2711" centerz="1" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="1" spawntime="60" />
 	</spawn>
+	<spawn centerx="3819" centery="2818" centerz="1" radius="1">
+		<monster name="Espada" x="0" y="0" z="1" spawntime="60" />
+	</spawn>
+	<spawn centerx="3829" centery="2819" centerz="1" radius="1">
+		<monster name="Espada" x="0" y="0" z="1" spawntime="60" />
+	</spawn>
+	<spawn centerx="3814" centery="2820" centerz="1" radius="1">
+		<monster name="Espada" x="0" y="0" z="1" spawntime="60" />
+	</spawn>
+	<spawn centerx="3835" centery="2820" centerz="1" radius="1">
+		<monster name="Espada" x="0" y="0" z="1" spawntime="60" />
+	</spawn>
+	<spawn centerx="3821" centery="2825" centerz="1" radius="1">
+		<monster name="Espada" x="0" y="0" z="1" spawntime="60" />
+	</spawn>
+	<spawn centerx="3829" centery="2825" centerz="1" radius="1">
+		<monster name="Espada" x="0" y="0" z="1" spawntime="60" />
+	</spawn>
+	<spawn centerx="3836" centery="2826" centerz="1" radius="1">
+		<monster name="Espada" x="0" y="0" z="1" spawntime="60" />
+	</spawn>
+	<spawn centerx="3813" centery="2827" centerz="1" radius="1">
+		<monster name="Espada" x="0" y="0" z="1" spawntime="60" />
+	</spawn>
 	<spawn centerx="3471" centery="3372" centerz="1" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="1" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="0" z="1" spawntime="60" />
@@ -202,6 +226,24 @@
 	</spawn>
 	<spawn centerx="3435" centery="2740" centerz="2" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3834" centery="2818" centerz="2" radius="1">
+		<monster name="Espada" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3819" centery="2819" centerz="2" radius="1">
+		<monster name="Espada" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3815" centery="2825" centerz="2" radius="1">
+		<monster name="Espada" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3829" centery="2825" centerz="2" radius="1">
+		<monster name="Espada" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3836" centery="2825" centerz="2" radius="1">
+		<monster name="Espada" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3821" centery="2826" centerz="2" radius="1">
+		<monster name="Espada" x="0" y="0" z="2" spawntime="60" />
 	</spawn>
 	<spawn centerx="3436" centery="3242" centerz="2" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="2" spawntime="60" />
@@ -498,6 +540,24 @@
 	</spawn>
 	<spawn centerx="3297" centery="2773" centerz="3" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3816" centery="2819" centerz="3" radius="1">
+		<monster name="Espada" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3829" centery="2819" centerz="3" radius="1">
+		<monster name="Espada" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3813" centery="2825" centerz="3" radius="1">
+		<monster name="Espada" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3821" centery="2825" centerz="3" radius="1">
+		<monster name="Espada" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3830" centery="2826" centerz="3" radius="1">
+		<monster name="Espada" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3836" centery="2826" centerz="3" radius="1">
+		<monster name="Espada" x="0" y="0" z="3" spawntime="60" />
 	</spawn>
 	<spawn centerx="3467" centery="3244" centerz="3" radius="1">
 		<monster name="Mini Fisher" x="-1" y="-1" z="3" spawntime="60" />
@@ -985,9 +1045,57 @@
 	<spawn centerx="3473" centery="4129" centerz="3" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="3" spawntime="60" />
 	</spawn>
+	<spawn centerx="3832" centery="2691" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3836" centery="2694" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3842" centery="2694" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3849" centery="2694" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3857" centery="2694" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3866" centery="2694" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3875" centery="2694" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3802" centery="2695" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3813" centery="2695" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3827" centery="2695" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3794" centery="2704" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3875" centery="2704" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3833" centery="2705" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
 	<spawn centerx="3412" centery="2710" centerz="4" radius="1">
 		<monster name="Arrancar Hollow" x="-1" y="-1" z="4" spawntime="60" />
 		<monster name="Arrancar Hollow" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3871" centery="2710" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3875" centery="2713" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3794" centery="2715" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3368" centery="2716" centerz="4" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="4" spawntime="60" />
@@ -1001,11 +1109,53 @@
 	<spawn centerx="3434" centery="2720" centerz="4" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
+	<spawn centerx="3833" centery="2724" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3827" centery="2725" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3839" centery="2725" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3875" centery="2725" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3794" centery="2726" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
 	<spawn centerx="3426" centery="2732" centerz="4" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3420" centery="2734" centerz="4" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3835" centery="2734" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3876" centery="2734" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3794" centery="2736" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3875" centery="2744" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3792" centery="2746" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3799" centery="2751" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3879" centery="2751" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3790" centery="2752" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3873" centery="2752" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3371" centery="2754" centerz="4" radius="1">
 		<monster name="Arrancar Hollow" x="1" y="-1" z="4" spawntime="60" />
@@ -1018,9 +1168,33 @@
 	<spawn centerx="3305" centery="2761" centerz="4" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
+	<spawn centerx="3876" centery="2763" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3832" centery="2771" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
 	<spawn centerx="3370" centery="2772" centerz="4" radius="1">
 		<monster name="Arrancar Hollow" x="-1" y="-1" z="4" spawntime="60" />
 		<monster name="Arrancar Hollow" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3875" centery="2773" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3826" centery="2776" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3841" centery="2777" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3850" centery="2777" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3859" centery="2777" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3867" centery="2777" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3298" centery="2778" centerz="4" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="4" spawntime="60" />
@@ -1028,6 +1202,57 @@
 	<spawn centerx="3388" centery="2779" centerz="4" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="-1" z="4" spawntime="60" />
 		<monster name="Arrancar Hollow" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3832" centery="2784" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3815" centery="2804" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3830" centery="2806" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3788" centery="2808" centerz="4" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3814" centery="2810" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3792" centery="2811" centerz="4" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3829" centery="2811" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3821" centery="2812" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3835" centery="2812" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3788" centery="2819" centerz="4" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3821" centery="2819" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3836" centery="2819" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3792" centery="2820" centerz="4" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3828" centery="2822" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3815" centery="2825" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3821" centery="2826" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3835" centery="2826" centerz="4" radius="1">
+		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3461" centery="3248" centerz="4" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="4" spawntime="60" />
@@ -2071,8 +2296,35 @@
 	<spawn centerx="4129" centery="2693" centerz="5" radius="1">
 		<monster name="Arrancar Watcher" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3795" centery="2695" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3805" centery="2695" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3815" centery="2695" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3825" centery="2695" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3844" centery="2695" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3857" centery="2695" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3867" centery="2695" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="4122" centery="2695" centerz="5" radius="1">
 		<monster name="Arrancar Watcher" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3833" centery="2696" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3876" centery="2697" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="4115" centery="2698" centerz="5" radius="1">
 		<monster name="Arrancar Watcher" x="0" y="0" z="5" spawntime="60" />
@@ -2082,6 +2334,12 @@
 	</spawn>
 	<spawn centerx="4111" centery="2700" centerz="5" radius="1">
 		<monster name="Arrancar Watcher" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3794" centery="2702" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3833" centery="2702" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="4105" centery="2702" centerz="5" radius="1">
 		<monster name="Arrancar Watcher" x="0" y="0" z="5" spawntime="60" />
@@ -2095,9 +2353,24 @@
 	<spawn centerx="4123" centery="2705" centerz="5" radius="1">
 		<monster name="Arrancar Watcher" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3872" centery="2708" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3412" centery="2710" centerz="5" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="-1" z="5" spawntime="60" />
 		<monster name="Arrancar Hollow" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3794" centery="2710" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3880" centery="2710" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3833" centery="2712" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3876" centery="2714" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3377" centery="2717" centerz="5" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="5" spawntime="60" />
@@ -2105,8 +2378,14 @@
 	<spawn centerx="3381" centery="2720" centerz="5" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3794" centery="2720" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3411" centery="2722" centerz="5" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3833" centery="2722" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3380" centery="2724" centerz="5" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="5" spawntime="60" />
@@ -2117,11 +2396,50 @@
 	<spawn centerx="3443" centery="2724" centerz="5" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3875" centery="2725" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3417" centery="2726" centerz="5" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3826" centery="2726" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3794" centery="2730" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3839" centery="2730" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3831" centery="2733" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3876" centery="2737" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3794" centery="2739" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3791" centery="2745" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3795" centery="2746" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3873" centery="2748" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3879" centery="2751" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3797" centery="2752" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3305" centery="2753" centerz="5" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3876" centery="2759" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3382" centery="2760" centerz="5" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="5" spawntime="60" />
@@ -2135,11 +2453,20 @@
 	<spawn centerx="3384" centery="2766" centerz="5" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3876" centery="2768" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3837" centery="2770" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3327" centery="2771" centerz="5" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3384" centery="2771" centerz="5" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3830" centery="2771" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3391" centery="2772" centerz="5" radius="1">
 		<monster name="Arrancar Hollow" x="1" y="-1" z="5" spawntime="60" />
@@ -2147,6 +2474,15 @@
 	</spawn>
 	<spawn centerx="3362" centery="2775" centerz="5" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3847" centery="2776" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3865" centery="2776" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3876" centery="2776" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3306" centery="2777" centerz="5" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="5" spawntime="60" />
@@ -2157,6 +2493,12 @@
 	<spawn centerx="3383" centery="2777" centerz="5" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3856" centery="2777" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3836" centery="2779" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3312" centery="2782" centerz="5" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
@@ -2166,11 +2508,59 @@
 	<spawn centerx="3379" centery="2782" centerz="5" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3828" centery="2782" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3366" centery="2785" centerz="5" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3373" centery="2785" centerz="5" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3813" centery="2805" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3829" centery="2805" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3789" centery="2809" centerz="5" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3821" centery="2810" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3828" centery="2812" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3834" centery="2812" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3813" centery="2813" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3787" centery="2816" centerz="5" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3793" centery="2819" centerz="5" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3814" centery="2820" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3829" centery="2820" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3837" centery="2824" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3814" centery="2826" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3821" centery="2826" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3830" centery="2826" centerz="5" radius="1">
+		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3431" centery="3248" centerz="5" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
@@ -4442,6 +4832,9 @@
 	<spawn centerx="3575" centery="2690" centerz="6" radius="1">
 		<monster name="Grown Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3832" centery="2690" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3547" centery="2692" centerz="6" radius="1">
 		<monster name="Grown Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -4459,6 +4852,33 @@
 	</spawn>
 	<spawn centerx="3572" centery="2695" centerz="6" radius="1">
 		<monster name="Grown Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3794" centery="2695" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3805" centery="2695" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3814" centery="2695" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3825" centery="2695" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3836" centery="2695" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3850" centery="2695" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3858" centery="2695" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3868" centery="2695" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3875" centery="2696" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3549" centery="2698" centerz="6" radius="1">
 		<monster name="Grown Hollow" x="0" y="0" z="6" spawntime="60" />
@@ -4508,11 +4928,20 @@
 	<spawn centerx="4112" centery="2703" centerz="6" radius="1">
 		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3794" centery="2704" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3876" centery="2704" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="4123" centery="2704" centerz="6" radius="1">
 		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4128" centery="2704" centerz="6" radius="1">
 		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3833" centery="2705" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4059" centery="2706" centerz="6" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
@@ -4523,6 +4952,9 @@
 	<spawn centerx="3413" centery="2710" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3871" centery="2711" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3374" centery="2712" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
@@ -4539,8 +4971,17 @@
 	<spawn centerx="3370" centery="2713" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3794" centery="2713" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3878" centery="2713" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="4020" centery="2713" centerz="6" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3833" centery="2715" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3412" centery="2717" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
@@ -4548,14 +4989,35 @@
 	<spawn centerx="3421" centery="2719" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3794" centery="2721" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3875" centery="2721" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3829" centery="2724" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3431" centery="2726" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3410" centery="2727" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3875" centery="2728" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3439" centery="2729" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3794" centery="2729" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3837" centery="2730" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3828" centery="2731" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3413" centery="2734" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
@@ -4563,20 +5025,41 @@
 	<spawn centerx="3444" centery="2737" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3875" centery="2737" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3794" centery="2738" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3419" centery="2743" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3439" centery="2744" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3791" centery="2747" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3874" centery="2747" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3429" centery="2749" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3797" centery="2749" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3880" centery="2751" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3322" centery="2753" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3381" centery="2753" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3790" centery="2753" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3316" centery="2756" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
@@ -4586,6 +5069,9 @@
 	</spawn>
 	<spawn centerx="3388" centery="2758" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3875" centery="2758" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3298" centery="2759" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
@@ -4614,6 +5100,9 @@
 	<spawn centerx="3379" centery="2768" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3875" centery="2768" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3334" centery="2769" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -4622,6 +5111,9 @@
 	</spawn>
 	<spawn centerx="3303" centery="2770" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3832" centery="2771" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3314" centery="2772" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
@@ -4641,11 +5133,32 @@
 	<spawn centerx="3396" centery="2776" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3848" centery="2776" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3866" centery="2776" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3875" centery="2776" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3856" centery="2777" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3838" centery="2778" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3826" centery="2780" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3370" centery="2782" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3326" centery="2783" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3834" centery="2783" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3293" centery="2784" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
@@ -4673,6 +5186,51 @@
 	</spawn>
 	<spawn centerx="3373" centery="2792" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3834" centery="2807" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3821" centery="2808" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3792" centery="2810" centerz="6" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3814" centery="2810" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3829" centery="2812" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3819" centery="2813" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3836" centery="2813" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3789" centery="2815" centerz="6" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3820" centery="2819" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3836" centery="2820" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3792" centery="2821" centerz="6" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3814" centery="2824" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3829" centery="2826" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3836" centery="2826" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3821" centery="2827" centerz="6" radius="1">
+		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2870" centery="3075" centerz="6" radius="1">
 		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
@@ -9204,6 +9762,9 @@
 	<spawn centerx="3398" centery="2691" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3828" centery="2691" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3339" centery="2692" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -9231,6 +9792,30 @@
 	<spawn centerx="4019" centery="2694" centerz="7" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3795" centery="2695" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3802" centery="2695" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3811" centery="2695" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3822" centery="2695" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3843" centery="2695" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3852" centery="2695" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3861" centery="2695" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3870" centery="2695" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3909" centery="2695" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -9242,6 +9827,9 @@
 	</spawn>
 	<spawn centerx="3593" centery="2696" centerz="7" radius="1">
 		<monster name="Grown Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3833" centery="2696" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3962" centery="2696" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
@@ -9267,6 +9855,9 @@
 	<spawn centerx="3584" centery="2699" centerz="7" radius="1">
 		<monster name="Grown Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3829" centery="2699" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3983" centery="2699" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -9276,14 +9867,32 @@
 	<spawn centerx="4054" centery="2699" centerz="7" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3818" centery="2700" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3400" centery="2701" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3794" centery="2701" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3876" centery="2701" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3988" centery="2701" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3843" centery="2702" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3863" centery="2702" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3940" centery="2702" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3805" centery="2703" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3902" centery="2703" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
@@ -9339,6 +9948,15 @@
 	<spawn centerx="3933" centery="2709" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3794" centery="2710" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3833" centery="2710" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3857" centery="2710" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3940" centery="2710" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -9347,8 +9965,17 @@
 		<monster name="Arrancar Hollow" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3847" centery="2711" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3871" centery="2711" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3389" centery="2712" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3825" centery="2712" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4036" centery="2712" centerz="7" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
@@ -9358,6 +9985,9 @@
 	</spawn>
 	<spawn centerx="3318" centery="2713" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3807" centery="2713" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3935" centery="2713" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
@@ -9371,8 +10001,14 @@
 	<spawn centerx="3989" centery="2714" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3878" centery="2715" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3951" centery="2715" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3817" centery="2717" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3345" centery="2718" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -9380,8 +10016,29 @@
 	<spawn centerx="3295" centery="2719" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3794" centery="2719" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3865" centery="2719" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3973" centery="2719" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3832" centery="2720" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3849" centery="2720" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3875" centery="2722" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3802" centery="2724" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3840" centery="2724" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3327" centery="2725" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -9389,17 +10046,59 @@
 	<spawn centerx="3401" centery="2725" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3794" centery="2727" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3827" centery="2727" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3856" centery="2727" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3840" centery="2729" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3868" centery="2729" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3875" centery="2730" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3814" centery="2731" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3831" centery="2732" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3291" centery="2734" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3343" centery="2734" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3848" centery="2734" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3324" centery="2736" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3794" centery="2736" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3359" centery="2738" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3864" centery="2738" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3875" centery="2738" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3805" centery="2740" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3854" centery="2742" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3382" centery="2743" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -9407,20 +10106,68 @@
 	<spawn centerx="3408" centery="2744" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3822" centery="2744" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3794" centery="2746" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3781" centery="2747" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3839" centery="2747" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3878" centery="2747" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3303" centery="2748" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3396" centery="2749" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3790" centery="2750" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3872" centery="2750" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3865" centery="2751" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3289" centery="2752" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3778" centery="2752" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3797" centery="2752" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3879" centery="2753" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3811" centery="2754" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3417" centery="2755" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3345" centery="2757" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3828" centery="2757" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3848" centery="2758" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3875" centery="2759" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3801" centery="2761" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3281" centery="2762" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -9431,20 +10178,44 @@
 	<spawn centerx="3385" centery="2762" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3786" centery="2762" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3370" centery="2764" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3406" centery="2766" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3817" centery="2766" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3324" centery="2767" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3779" centery="2767" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3867" centery="2767" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3791" centery="2768" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3854" centery="2768" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3388" centery="2769" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3270" centery="2770" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3834" centery="2770" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3875" centery="2770" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3370" centery="2773" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -9458,8 +10229,35 @@
 	<spawn centerx="3416" centery="2774" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3805" centery="2774" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3855" centery="2776" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3835" centery="2777" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3844" centery="2777" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3864" centery="2777" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3873" centery="2777" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3385" centery="2778" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3787" centery="2778" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3813" centery="2778" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3829" centery="2778" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3373" centery="2779" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -9470,8 +10268,32 @@
 	<spawn centerx="3404" centery="2783" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3801" centery="2784" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3846" centery="2785" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3863" centery="2785" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3873" centery="2785" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3818" centery="2789" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3287" centery="2790" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3780" centery="2791" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3792" centery="2791" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3839" centery="2792" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3308" centery="2793" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -9482,8 +10304,20 @@
 	<spawn centerx="3350" centery="2795" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3863" centery="2795" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3392" centery="2796" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3816" centery="2797" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3854" centery="2797" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3874" centery="2797" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3370" centery="2798" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -9491,8 +10325,14 @@
 	<spawn centerx="3277" centery="2799" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3798" centery="2799" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3339" centery="2800" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3831" centery="2800" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3259" centery="2801" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -9503,14 +10343,111 @@
 	<spawn centerx="3402" centery="2804" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3816" centery="2806" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3829" centery="2806" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3789" centery="2807" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3864" centery="2807" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="456905472" />
+		<monster name="Incomplete Arrancar" x="0" y="1" z="7" spawntime="456905472" />
+	</spawn>
+	<spawn centerx="3778" centery="2808" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3279" centery="2809" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3353" centery="2809" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3864" centery="2809" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3380" centery="2810" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3850" centery="2810" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3809" centery="2811" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3813" centery="2811" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3836" centery="2811" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3819" centery="2812" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3829" centery="2812" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3793" centery="2813" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3799" centery="2816" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3781" centery="2817" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3815" centery="2819" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3830" centery="2820" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3847" centery="2820" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3821" centery="2821" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3872" centery="2821" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3808" centery="2822" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3860" centery="2824" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3830" centery="2825" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3836" centery="2826" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3818" centery="2827" centerz="7" radius="1">
+		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3799" centery="2829" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3845" centery="2831" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3813" centery="2832" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3830" centery="2833" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3867" centery="2835" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3805" centery="2838" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3821" centery="2838" centerz="7" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2928" centery="3074" centerz="7" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
@@ -14341,6 +15278,12 @@
 		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3777" centery="2812" centerz="8" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3778" centery="2818" centerz="8" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3472" centery="3160" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -16701,6 +17644,12 @@
 	<spawn centerx="4017" centery="2761" centerz="9" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="3778" centery="2810" centerz="9" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="3777" centery="2817" centerz="9" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="3444" centery="3143" centerz="9" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
@@ -17530,5 +18479,92 @@
 	</spawn>
 	<spawn centerx="3410" centery="2710" centerz="10" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="3778" centery="2813" centerz="10" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="3778" centery="2819" centerz="10" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="3781" centery="2806" centerz="11" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="3787" centery="2806" centerz="11" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="3794" centery="2806" centerz="11" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="3801" centery="2806" centerz="11" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="3777" centery="2811" centerz="11" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="3793" centery="2812" centerz="11" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="3803" centery="2812" centerz="11" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="3785" centery="2815" centerz="11" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="3777" centery="2818" centerz="11" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="3794" centery="2818" centerz="11" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="3803" centery="2819" centerz="11" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="3781" centery="2823" centerz="11" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="3789" centery="2823" centerz="11" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="3798" centery="2823" centerz="11" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="3807" centery="2802" centerz="12" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="12" spawntime="60" />
+	</spawn>
+	<spawn centerx="3777" centery="2803" centerz="12" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="12" spawntime="60" />
+	</spawn>
+	<spawn centerx="3807" centery="2808" centerz="12" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="12" spawntime="60" />
+	</spawn>
+	<spawn centerx="3776" centery="2809" centerz="12" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="12" spawntime="60" />
+	</spawn>
+	<spawn centerx="3778" centery="2814" centerz="12" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="12" spawntime="60" />
+	</spawn>
+	<spawn centerx="3784" centery="2814" centerz="12" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="12" spawntime="60" />
+	</spawn>
+	<spawn centerx="3790" centery="2814" centerz="12" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="12" spawntime="60" />
+	</spawn>
+	<spawn centerx="3800" centery="2814" centerz="12" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="12" spawntime="60" />
+	</spawn>
+	<spawn centerx="3807" centery="2814" centerz="12" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="12" spawntime="60" />
+	</spawn>
+	<spawn centerx="3776" centery="2820" centerz="12" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="12" spawntime="60" />
+	</spawn>
+	<spawn centerx="3807" centery="2823" centerz="12" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="12" spawntime="60" />
+	</spawn>
+	<spawn centerx="3776" centery="2827" centerz="12" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="12" spawntime="60" />
+	</spawn>
+	<spawn centerx="3808" centery="2828" centerz="12" radius="1">
+		<monster name="Incomplete Arrancar" x="0" y="0" z="12" spawntime="60" />
 	</spawn>
 </spawns>
