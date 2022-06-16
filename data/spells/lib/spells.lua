@@ -1,3 +1,31 @@
+function doCombatLoop(cid, combat, effect, loop_amount, loop_ms_delay)
+    for i = 0, loop_amount-1 do
+        addEvent(function()
+            if not isCreature(cid) then
+                return
+            end
+
+            local target = getCreatureTarget(cid)
+
+            if isCreature(target) then
+                local target_position = getCreaturePosition(target)
+
+                if isSightClear(getCreaturePosition(cid), target_position, false) then
+                    if effect then
+                        doSendMagicEffect({
+                            x = target_position.x + effect.x,
+                            y = target_position.y + effect.y,
+                            z = target_position.z
+                        }, effect.id)
+                    end
+
+                    doCombat(cid, combat, numberToVariant(target))
+                end
+            end
+        end, i * loop_ms_delay)
+    end
+end
+
 --Waves
 AREA_WAVE4 = {
 	{1, 1, 1, 1, 1},
