@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Monster Level: 450 -->
 <monster name="Adjuchas" nameDescription="Adjuchas" race="blood" experience="45000" speed="600" manacost="0">
     <health now="65000" max="65000" />
     <look type="273" corpse="5527" />
@@ -35,7 +36,7 @@
     <script>
         <event name="YamamotoTask" />
     </script>
-	
+
 	<loot>
         <item id="2160" chance="15000" count="5" countmax="6"/>
     </loot>
