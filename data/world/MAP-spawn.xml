@@ -6452,9 +6452,6 @@
 	<spawn centerx="4069" centery="3509" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3549" centery="3510" centerz="6" radius="1">
-		<npc name="Isshin Kurosaki" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="4047" centery="3512" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -10870,6 +10867,9 @@
 	</spawn>
 	<spawn centerx="3383" centery="3463" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3530" centery="3463" centerz="7" radius="1">
+		<npc name="Isshin Kurosaki" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4104" centery="3463" centerz="7" radius="1">
 		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
