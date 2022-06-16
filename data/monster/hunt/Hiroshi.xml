@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Monster Quest Level: 350 -->
 <monster name="Hiroshi" nameDescription="Hiroshi" race="blood" experience="0" speed="800" manacost="0">
     <health now="400000" max="400000" />
     <look type="174" corpse="5527" />

@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Monster Quest Level: 350 -->
 <monster name="Hollow Snake" nameDescription="Hollow Snake" race="blood" experience="0" speed="700" manacost="0">
     <health now="900000" max="900000" />
     <look type="32" corpse="5527" />
