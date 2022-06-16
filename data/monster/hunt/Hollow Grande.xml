@@ -36,7 +36,6 @@
     <script>
         <event name="YamamotoTask" />
     </script>
-
 	<loot>
         <item id="2152" chance="13000" count="20" countmax="30"/>
 		<item id="15105" chance="8000" count="1" countmax="1"/>
