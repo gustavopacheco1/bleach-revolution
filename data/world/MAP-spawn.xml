@@ -14794,42 +14794,272 @@
 	<spawn centerx="3395" centery="3494" centerz="8" radius="1" />
 	<spawn centerx="3404" centery="3499" centerz="8" radius="1" />
 	<spawn centerx="3396" centery="3501" centerz="8" radius="1" />
+	<spawn centerx="3526" centery="3501" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Rat" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3458" centery="3503" centerz="8" radius="1">
+		<monster name="Rat" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3528" centery="3506" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3533" centery="3507" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3558" centery="3508" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3462" centery="3509" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3537" centery="3510" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3405" centery="3511" centerz="8" radius="1" />
+	<spawn centerx="3528" centery="3511" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3479" centery="3512" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3559" centery="3512" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3564" centery="3512" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3353" centery="3513" centerz="8" radius="1" />
+	<spawn centerx="3468" centery="3513" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3501" centery="3513" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3364" centery="3515" centerz="8" radius="1" />
+	<spawn centerx="3508" centery="3515" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3521" centery="3516" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3543" centery="3516" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3328" centery="3517" centerz="8" radius="1" />
+	<spawn centerx="3483" centery="3517" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3515" centery="3517" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3500" centery="3518" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3339" centery="3519" centerz="8" radius="1" />
+	<spawn centerx="3553" centery="3519" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3520" centery="3520" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3326" centery="3522" centerz="8" radius="1" />
+	<spawn centerx="3487" centery="3522" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3548" centery="3522" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3375" centery="3523" centerz="8" radius="1" />
 	<spawn centerx="3406" centery="3523" centerz="8" radius="1" />
+	<spawn centerx="3494" centery="3524" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3332" centery="3525" centerz="8" radius="1" />
+	<spawn centerx="3521" centery="3526" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3557" centery="3526" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3526" centery="3527" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3564" centery="3528" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3571" centery="3528" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3403" centery="3529" centerz="8" radius="1" />
+	<spawn centerx="3545" centery="3529" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3575" centery="3530" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3378" centery="3531" centerz="8" radius="1" />
+	<spawn centerx="3516" centery="3531" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3571" centery="3532" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3527" centery="3533" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3543" centery="3533" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3399" centery="3534" centerz="8" radius="1" />
+	<spawn centerx="3578" centery="3534" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3513" centery="3535" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3478" centery="3537" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3542" centery="3538" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3568" centery="3538" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3376" centery="3539" centerz="8" radius="1" />
 	<spawn centerx="3392" centery="3539" centerz="8" radius="1" />
+	<spawn centerx="3508" centery="3539" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3314" centery="3541" centerz="8" radius="1" />
 	<spawn centerx="3383" centery="3541" centerz="8" radius="1" />
+	<spawn centerx="3475" centery="3542" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3500" centery="3542" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3292" centery="3543" centerz="8" radius="1" />
 	<spawn centerx="3372" centery="3544" centerz="8" radius="1" />
+	<spawn centerx="3479" centery="3544" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3543" centery="3544" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3302" centery="3545" centerz="8" radius="1" />
 	<spawn centerx="3322" centery="3545" centerz="8" radius="1" />
 	<spawn centerx="3380" centery="3545" centerz="8" radius="1" />
+	<spawn centerx="3505" centery="3545" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3565" centery="3545" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3484" centery="3546" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3474" centery="3547" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3538" centery="3547" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3292" centery="3548" centerz="8" radius="1" />
 	<spawn centerx="3358" centery="3548" centerz="8" radius="1" />
 	<spawn centerx="3334" centery="3549" centerz="8" radius="1" />
 	<spawn centerx="3347" centery="3549" centerz="8" radius="1" />
+	<spawn centerx="3494" centery="3549" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3575" centery="3549" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3468" centery="3550" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3563" centery="3550" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3385" centery="3551" centerz="8" radius="1" />
+	<spawn centerx="3538" centery="3552" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3463" centery="3553" centerz="8" radius="1">
+		<monster name="Rat" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3560" centery="3554" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3578" centery="3554" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3489" centery="3555" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3535" centery="3556" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3389" centery="3557" centerz="8" radius="1" />
 	<spawn centerx="3399" centery="3557" centerz="8" radius="1" />
+	<spawn centerx="3480" centery="3557" centerz="8" radius="1">
+		<monster name="Rat" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3496" centery="3557" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3282" centery="3558" centerz="8" radius="1" />
+	<spawn centerx="3556" centery="3559" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3464" centery="3560" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3483" centery="3560" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3550" centery="3561" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3503" centery="3562" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3533" centery="3562" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3391" centery="3564" centerz="8" radius="1" />
+	<spawn centerx="3512" centery="3564" centerz="8" radius="1">
+		<monster name="Rat" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3276" centery="3565" centerz="8" radius="1" />
 	<spawn centerx="3405" centery="3565" centerz="8" radius="1" />
+	<spawn centerx="3553" centery="3565" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3509" centery="3566" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3557" centery="3567" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3387" centery="3568" centerz="8" radius="1" />
+	<spawn centerx="3529" centery="3568" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3383" centery="3571" centerz="8" radius="1" />
 	<spawn centerx="3405" centery="3572" centerz="8" radius="1" />
+	<spawn centerx="3534" centery="3573" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3275" centery="3574" centerz="8" radius="1" />
+	<spawn centerx="3529" centery="3575" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3376" centery="3577" centerz="8" radius="1" />
 	<spawn centerx="3283" centery="3580" centerz="8" radius="1" />
 	<spawn centerx="3406" centery="3581" centerz="8" radius="1" />
