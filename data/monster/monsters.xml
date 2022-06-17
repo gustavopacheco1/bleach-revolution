@@ -78,7 +78,8 @@
 	<monster name="Menos" file="hunt/Menos.xml"/>
 	<monster name="Legendary menos" file="hunt/Legendary Menos.xml"/>
 	<monster name="Rat" file="hunt/Rat.xml"/>
-	
+
 	<!-- Clones -->
 	<monster name="Rukia Clone" file="clones/Rukia Clone.xml"/>
+	<monster name="Wolf Clone" file="clones/Wolf.xml"/>
 </monsters>

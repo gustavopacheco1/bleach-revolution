@@ -1,39 +1,7 @@
-local spell = {
-    multiplier = 0.4, -- 0.3 = 30%, 0.4 = 40%...
-    cooldown = 50
-}
+local spell_cooldown = 50
 
 local combat = createCombatObject()
 setCombatParam(combat, COMBAT_PARAM_DISTANCEEFFECT, 76)
-
-local function doSummonWolf(cid, i, player_base_speed)
-    if not isCreature(cid) then
-        return true
-    end
-
-    if getTileInfo(getCreaturePosition(cid)).protection then
-        stopEvent(doSummonWolf)
-        return MultiLanguage.doPlayerSendTextMessage(
-            cid,
-            MESSAGE_INFO_DESCR,
-            "Your technique was canceled. You may not use it in protection zone.",
-            "Sua técnica foi cancelada. Você não pode utilizá-la em área protegida."
-        )
-    end
-    doCreatureSay(cid, "loop")
-
-    doSummonMonster(cid, "Hollow Wolf Clone")
-    for _, clone in ipairs(getCreatureSummons(cid)) do
-        if getCreatureSpeed(clone) ~= player_base_speed then
-            doChangeSpeed(clone, player_base_speed)
-        end
-        doCreatureSetHideHealth(clone, true)
-    end
-
-    if i == 4 then
-        registerCreatureEvent(cid, "WolfAttack")
-    end
-end
 
 function onCastSpell(cid, var)
     if exhaustion.check(cid, "special") then
@@ -56,23 +24,22 @@ function onCastSpell(cid, var)
 
             if getTileInfo(getCreaturePosition(cid)).protection then
                 in_pz = true
-
                 doRemoveCreatureSummons(cid)
 
                 return MultiLanguage.doPlayerSendTextMessage(
                     cid,
                     MESSAGE_INFO_DESCR,
                     "Your technique was cancelled. You may not use it in protection zone.",
-                    "Sua técnica foi cancelada. Você não pode utilizá-la em área protegida."
+                    "Sua t�cnica foi cancelada. Voc� n�o pode utiliz�-la em �rea protegida."
                 )
             end
 
-            doSummonMonster(cid, "Hollow Wolf Clone")
-            for _, clone in ipairs(getCreatureSummons(cid)) do
-                if getCreatureSpeed(clone) ~= player_base_speed then
-                    doChangeSpeed(clone, player_base_speed)
+            doSummonMonster(cid, "Wolf Clone")
+            for _, summon in ipairs(getCreatureSummons(cid)) do
+                if getCreatureSpeed(summon) ~= player_base_speed then
+                    doChangeSpeed(summon, player_base_speed)
                 end
-                doCreatureSetHideHealth(clone, true)
+                doCreatureSetHideHealth(summon, true)
             end
 
             if i == 4 then
@@ -81,6 +48,6 @@ function onCastSpell(cid, var)
         end, i * 2000)
     end
 
-    exhaustion.set(cid, "special", spell.cooldown)
+    exhaustion.set(cid, "special", spell_cooldown)
     return true
 end

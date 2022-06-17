@@ -16,8 +16,8 @@
 	sqlType = "mysql"
 	sqlHost = "127.0.0.1"
 	sqlPort = 3306
-	sqlUser = "vm49x039med4cb"
-	sqlPass = "490zqal0ft678f"
+	sqlUser = "root"
+	sqlPass = ""
 	sqlDatabase = "bleach-revolution"
 	sqlFile = "schemas/otxserver.s3db"
 	sqlKeepAlive = 0
@@ -140,7 +140,7 @@
 		rookLevelToLeaveRook = 8
 		rookTownId = 1
 		useRookSystem = true
-		
+
 		-- Monsters Attack Config
 		-- set monsterAttacksOnlyDamagePlayers to false if you want monster's attacks to damage other nearby monsters
 		monsterAttacksOnlyDamagePlayers = true
@@ -408,8 +408,8 @@
 	deSpawnRadius = 50
 
 	-- Summons
-	maxPlayerSummons = 2
-	teleportAllSummons = false
+	maxPlayerSummons = 10
+	teleportAllSummons = true
 	teleportPlayerSummons = true
 
 	-- Logs
