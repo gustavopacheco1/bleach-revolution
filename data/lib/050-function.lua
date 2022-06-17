@@ -695,3 +695,11 @@ function doRemoveItemIdFromPosition(id, n, position)
 	doRemoveItem(thing.uid, n)
 	return true
 end
+
+function doRemoveCreatureSummons(cid)
+    for _, summon in ipairs(getCreatureSummons(cid)) do
+        doSendMagicEffect(getCreaturePosition(summon), CONST_ME_POFF)
+        doRemoveCreature(summon)
+    end
+    return true
+end
