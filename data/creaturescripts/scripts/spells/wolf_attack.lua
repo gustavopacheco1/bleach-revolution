@@ -1,5 +1,6 @@
 function onAttack(cid, target)
     unregisterCreatureEvent(cid, "WolfAttack")
+    setPlayerStorageValue(cid, "special", nil)
 
     local target_position = getCreaturePosition(target)
 
