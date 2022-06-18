@@ -59,10 +59,13 @@
     <instant name="Soo Zabimaru" words="soo zabimaru" lvl="400" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0" event="script" value="special/reflect/soo_zabimaru.lua">
         <vocation id="13"/> <!-- Renjii Abarai -->
     </instant>
-
     <instant name="Nozarashi" words="Nozarashi" lvl="400" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0" event="script" value="special/reflect/soo_zabimaru.lua">
         <vocation id="7"/> <!-- Zaraki Kenpachi -->
     </instant>
+    <instant name="ikkaku special 2" words="ikkaku special 2" lvl="450" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0" event="script" value="special/reflect/ikkaku-special-2.lua">
+        <vocation id="19"/> <!-- Ikkaku Madarame -->
+    </instant>
+
 
     <!-- Immortal -->
     <instant name="Resurreccion" words="resurreccion" lvl="400" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0" event="script" value="special/immortal/resurreccion.lua">
@@ -162,6 +165,9 @@
     </instant>
     <instant name="starrk special 2" words="starrk special 2" lvl="450" mana="1000" prem="0" aggressive="0" exhaustion="2000" needlearn="0" event="script" value="special/buffs/starrk-special-2.lua">
         <vocation id="20"/> <!-- Coyote Starrk -->
+    </instant>
+    <instant name="ikkaku special 1" words="ikkaku special 1" lvl="450" mana="1000" prem="0" aggressive="0" exhaustion="2000" needlearn="0" event="script" value="special/buffs/ikkaku-special-1.lua">
+        <vocation id="19"/> <!-- Ikkaku Madarame -->
     </instant>
 
 

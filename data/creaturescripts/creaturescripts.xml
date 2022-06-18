@@ -28,5 +28,6 @@
     <event type="statschange" name="Dodge" event="script" value="spells/dodge.lua"/>
     <event type="statschange" name="ReflectSooZabimaru" event="script" value="spells/reflect_soo_zabimaru.lua"/>
     <event type="statschange" name="ReflectNozarashi" event="script" value="spells/reflect_nozarashi.lua"/>
+    <event type="statschange" name="PhysicalProtection" event="script" value="spells/physical_protection.lua"/>
     <event type="attack" name="WolfAttack" event="script" value="spells/wolf_attack.lua"/>
 </creaturescripts>
