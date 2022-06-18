@@ -26,6 +26,29 @@ function doCombatLoop(cid, combat, effect, loop_amount, loop_ms_delay)
     end
 end
 
+function checkSpecialCooldown(cid)
+    if exhaustion.check(cid, "special") then
+        local exhaust = exhaustion.get(cid, "special")
+
+        if not tonumber(exhaust) then
+            doPlayerSendCancel(cid, "You are exhausted.")
+            return true
+        end
+
+        local plural = ""
+        if exhaust ~= 1 then
+            plural = "s"
+        end
+        MultiLanguage.doPlayerSendCancel(
+            cid,
+            "Cooldown: " .. exhaust .. " second" .. plural,
+            "Cooldown: " .. exhaust .. " segundo" .. plural
+        )
+        return true
+    end
+    return false
+end
+
 --Waves
 AREA_WAVE4 = {
 	{1, 1, 1, 1, 1},

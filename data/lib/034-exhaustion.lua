@@ -5,13 +5,17 @@ exhaustion =
 			return false
 		end
 
-		return getCreatureStorage(cid, storage) >= os.time()
+		return getCreatureStorage(cid, storage) >= os.time() or getCreatureStorage(cid, storage) == 1
 	end,
 
 	get = function (cid, storage)
 		if(getPlayerFlagValue(cid, PLAYERFLAG_HASNOEXHAUSTION)) then
 			return false
 		end
+
+        if getCreatureStorage(cid, storage) == 1 then
+            return "undefined"
+        end
 
 		local exhaust = tonumber(getCreatureStorage(cid, storage))
 		if(exhaust > 0) then
