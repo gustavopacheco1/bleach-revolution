@@ -86,7 +86,7 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 					cid,
 					MESSAGE_INFO_DESCR,
 					"You need to be level " .. item.actionid - getItemLevelDoor(item.itemid) .. " to pass.",
-					"Você presica ser level " .. item.actionid - getItemLevelDoor(item.itemid) .. " para passar."
+					"Você presica ser nível " .. item.actionid - getItemLevelDoor(item.itemid) .. " para passar."
 				)
 				return true
 			end
