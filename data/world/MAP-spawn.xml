@@ -13627,14 +13627,26 @@
 	<spawn centerx="4636" centery="3859" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2990" centery="3860" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3548" centery="3860" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4605" centery="3861" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2984" centery="3862" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2987" centery="3864" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="4476" centery="3864" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2981" centery="3866" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4539" centery="3867" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
@@ -13648,6 +13660,15 @@
 	<spawn centerx="4470" centery="3869" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2982" centery="3870" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2989" centery="3871" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3000" centery="3871" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="4449" centery="3871" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -13656,6 +13677,18 @@
 	</spawn>
 	<spawn centerx="4640" centery="3871" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2995" centery="3872" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2985" centery="3873" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3003" centery="3873" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3014" centery="3873" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3492" centery="3873" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
@@ -13672,14 +13705,53 @@
 	<spawn centerx="4536" centery="3874" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2990" centery="3875" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3009" centery="3875" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3649" centery="3875" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2981" centery="3876" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2997" centery="3876" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3018" centery="3876" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4652" centery="3877" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2994" centery="3879" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3004" centery="3879" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3012" centery="3879" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3603" centery="3879" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2988" centery="3881" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2983" centery="3882" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2997" centery="3882" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3007" centery="3882" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3015" centery="3882" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3561" centery="3882" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
@@ -13690,8 +13762,32 @@
 	<spawn centerx="2835" centery="3883" centerz="7" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3060" centery="3883" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3012" centery="3884" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3032" centery="3884" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3037" centery="3884" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3052" centery="3884" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2990" centery="3885" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="4536" centery="3885" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3028" centery="3886" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3046" centery="3886" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4663" centery="3886" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
@@ -13699,8 +13795,23 @@
 	<spawn centerx="2837" centery="3887" centerz="7" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3040" centery="3887" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="2833" centery="3888" centerz="7" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3008" centery="3888" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3014" centery="3888" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3024" centery="3888" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3055" centery="3888" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3657" centery="3888" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
@@ -13715,21 +13826,81 @@
 	<spawn centerx="3623" centery="3890" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3034" centery="3891" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3039" centery="3891" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3045" centery="3891" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3049" centery="3891" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3559" centery="3891" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3494" centery="3892" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3012" centery="3893" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3028" centery="3893" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3052" centery="3893" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3023" centery="3894" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3008" centery="3895" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3057" centery="3895" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3585" centery="3895" centerz="7" radius="1" />
+	<spawn centerx="3036" centery="3896" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3041" centery="3896" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="4539" centery="3896" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3032" centery="3897" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3051" centery="3897" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3014" centery="3898" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4667" centery="3899" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3026" centery="3900" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3046" centery="3900" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3011" centery="3901" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3037" centery="3901" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3634" centery="3901" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3058" centery="3902" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3556" centery="3902" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
@@ -13737,27 +13908,93 @@
 	<spawn centerx="4549" centery="3902" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3016" centery="3903" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3031" centery="3903" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3572" centery="3903" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3652" centery="3903" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3053" centery="3904" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3523" centery="3904" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3595" centery="3905" centerz="7" radius="1" />
+	<spawn centerx="3026" centery="3906" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3036" centery="3906" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3042" centery="3906" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3058" centery="3906" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3048" centery="3908" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3492" centery="3908" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3031" centery="3910" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3063" centery="3910" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3027" centery="3911" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3039" centery="3911" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3052" centery="3911" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3074" centery="3911" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3080" centery="3912" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4559" centery="3912" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3021" centery="3913" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3045" centery="3913" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3057" centery="3913" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3034" centery="3914" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3570" centery="3914" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3077" centery="3915" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3083" centery="3915" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3553" centery="3915" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3064" centery="3916" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3514" centery="3916" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
@@ -13765,10 +14002,49 @@
 	<spawn centerx="3643" centery="3916" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3027" centery="3917" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3060" centery="3917" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3606" centery="3917" centerz="7" radius="1" />
+	<spawn centerx="3041" centery="3918" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3073" centery="3918" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3037" centery="3919" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3047" centery="3919" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3052" centery="3919" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3084" centery="3919" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3596" centery="3920" centerz="7" radius="1" />
 	<spawn centerx="4556" centery="3921" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3031" centery="3922" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3057" centery="3922" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3076" centery="3924" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3040" centery="3925" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3050" centery="3925" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3584" centery="3925" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
@@ -13779,11 +14055,20 @@
 	<spawn centerx="4665" centery="3925" centerz="7" radius="1">
 		<monster name="Vizard Four Boss" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3055" centery="3926" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3500" centery="3926" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3046" centery="3927" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="4537" centery="3928" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3052" centery="3929" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3548" centery="3929" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
@@ -13791,11 +14076,26 @@
 	<spawn centerx="4523" centery="3929" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3069" centery="3930" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3075" centery="3930" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3044" centery="3931" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3647" centery="3931" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4513" centery="3931" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3049" centery="3933" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3065" centery="3933" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3576" centery="3934" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
@@ -13803,11 +14103,29 @@
 	<spawn centerx="4505" centery="3934" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3034" centery="3936" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3074" centery="3936" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3029" centery="3937" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3060" centery="3937" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3096" centery="3938" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="4465" centery="3938" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4536" centery="3938" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3091" centery="3939" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3538" centery="3939" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
@@ -13818,8 +14136,56 @@
 	<spawn centerx="4494" centery="3940" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3024" centery="3941" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3063" centery="3941" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3087" centery="3941" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="4480" centery="3941" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3036" centery="3942" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3076" centery="3942" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3098" centery="3942" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3030" centery="3943" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3082" centery="3943" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3012" centery="3944" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3016" centery="3944" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3043" centery="3944" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3072" centery="3944" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3091" centery="3944" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3101" centery="3945" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3005" centery="3946" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3050" centery="3946" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3485" centery="3946" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
@@ -13827,8 +14193,32 @@
 	<spawn centerx="3590" centery="3946" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3020" centery="3947" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3036" centery="3947" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3615" centery="3947" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3008" centery="3948" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3031" centery="3948" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3078" centery="3948" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3087" centery="3948" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3094" centery="3948" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3114" centery="3948" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3557" centery="3948" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
@@ -13839,20 +14229,110 @@
 	<spawn centerx="4538" centery="3948" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3016" centery="3949" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3026" centery="3949" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3054" centery="3949" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3101" centery="3950" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3527" centery="3950" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3042" centery="3951" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3049" centery="3951" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3506" centery="3951" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3006" centery="3952" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3013" centery="3952" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3021" centery="3952" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3082" centery="3952" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3029" centery="3953" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3086" centery="3953" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3120" centery="3953" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3036" centery="3954" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3061" centery="3954" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3056" centery="3955" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3093" centery="3955" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3072" centery="3956" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3603" centery="3956" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3048" centery="3957" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3097" centery="3957" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3483" centery="3957" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3028" centery="3958" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3065" centery="3958" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3042" centery="3960" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3101" centery="3960" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3109" centery="3960" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3124" centery="3960" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3058" centery="3961" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3507" centery="3961" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3033" centery="3962" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3053" centery="3962" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3068" centery="3962" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3526" centery="3962" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="1" z="7" spawntime="60" />
@@ -13863,8 +14343,17 @@
 	<spawn centerx="3585" centery="3962" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3049" centery="3963" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3062" centery="3963" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3478" centery="3963" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3082" centery="3964" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3473" centery="3964" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
@@ -13872,8 +14361,32 @@
 	<spawn centerx="3558" centery="3964" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3039" centery="3965" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3089" centery="3965" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3105" centery="3965" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3546" centery="3965" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3100" centery="3966" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3046" centery="3967" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3078" centery="3967" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3094" centery="3967" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3035" centery="3968" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3472" centery="3968" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
@@ -13881,14 +14394,86 @@
 	<spawn centerx="3477" centery="3968" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3054" centery="3969" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3085" centery="3969" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3120" centery="3969" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3482" centery="3969" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3532" centery="3969" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3080" centery="3971" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3105" centery="3971" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3045" centery="3972" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3050" centery="3972" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3075" centery="3972" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="4573" centery="3972" centerz="7" radius="1">
 		<monster name="Vizard Three Boss" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3039" centery="3974" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3069" centery="3974" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3085" centery="3974" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3063" centery="3976" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3076" centery="3976" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3081" centery="3978" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3086" centery="3979" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3060" centery="3981" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3066" centery="3981" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3071" centery="3981" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3078" centery="3982" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3055" centery="3984" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3052" centery="3985" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3062" centery="3985" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3084" centery="3985" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3089" centery="3985" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3168" centery="4001" centerz="7" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
