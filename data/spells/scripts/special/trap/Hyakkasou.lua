@@ -14,8 +14,7 @@ setCombatArea(combat, area)
 setCombatParam(combat, COMBAT_PARAM_EFFECT, 653)
 
 function onCastSpell(cid, var)
-    if exhaustion.check(cid, "special") then
-        doPlayerSendCancel(cid, "Cooldown " .. exhaustion.get(cid, "special") .. "s")
+    if checkSpecialCooldown(cid) then
         return false
     end
 

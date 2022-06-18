@@ -19,8 +19,7 @@ setConditionParam(condition, CONDITION_PARAM_SKILL_SHIELD, 5)
 setCombatCondition(combat, condition)
 
 function onCastSpell(cid, var)
-    if exhaustion.check(cid, "special") then
-        doPlayerSendCancel(cid, "Cooldown " .. exhaustion.get(cid, "special") .. "s")
+    if checkSpecialCooldown(cid) then
         return false
     end
 

@@ -7,8 +7,7 @@ local combat = createCombatObject()
 setCombatParam(combat, COMBAT_PARAM_DISTANCEEFFECT, 76)
 
 function onCastSpell(cid, var)
-    if exhaustion.check(cid, "special") then
-        doPlayerSendCancel(cid, "Cooldown " .. exhaustion.get(cid, "special") .. "s")
+    if checkSpecialCooldown(cid) then
         return false
     end
 
@@ -23,7 +22,7 @@ function onCastSpell(cid, var)
     local damage = -getCreatureMaxHealth(cid) * spell.multiplier
     doTargetCombatHealth(cid, target, COMBAT_ENERGYDAMAGE, damage, damage, false)
 	doCreatureAddHealth(cid, damage, false, COLOR_RED)
-    
+
     exhaustion.set(cid, "special", spell.cooldown)
     doCombat(cid, combat, var)
     return true

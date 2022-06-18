@@ -4,15 +4,14 @@ local spell = {
 }
 
 function onCastSpell(cid, var)
-    if exhaustion.check(cid, "special") then
-        doPlayerSendCancel(cid, "Cooldown " .. exhaustion.get(cid, "special") .. "s")
+    if checkSpecialCooldown(cid) then
         return false
     end
 
     doCreatureExecuteTalkAction(cid, "###invisible", true)
     doSetCreatureOutfit(cid, {lookType = 0}, (spell.duration - 0.25) * 1000)
     setCreatureTarget(cid, nil)
-    
+
 	registerCreatureEvent(cid, "InvisibleSpellStats")
 	registerCreatureEvent(cid, "InvisibleSpellAttack")
 	registerCreatureEvent(cid, "InvisibleSpellTarget")

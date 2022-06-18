@@ -1,19 +1,13 @@
-local spell_cooldown = 50
-
 local combat = createCombatObject()
 setCombatParam(combat, COMBAT_PARAM_DISTANCEEFFECT, 76)
 
 function onCastSpell(cid, var)
-    if exhaustion.check(cid, "special") then
-        doPlayerSendCancel(cid, "Cooldown " .. exhaustion.get(cid, "special") .. "s")
+    if checkSpecialCooldown(cid) then
         return false
     end
 
+    setPlayerStorageValue(cid, "special", 1)
     local player_base_speed = getCreatureBaseSpeed(cid)
-
-    for _, summon in ipairs(getCreatureSummons(cid)) do
-        doRemoveCreature(summon)
-    end
 
     local in_pz = false
     for i = 0, 4 do
@@ -48,6 +42,5 @@ function onCastSpell(cid, var)
         end, i * 2000)
     end
 
-    exhaustion.set(cid, "special", spell_cooldown)
     return true
 end

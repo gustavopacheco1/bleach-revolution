@@ -1,8 +1,8 @@
 local spell = {
     cooldown = 50,
     duration = 30,
-    outfit = 63,
-    effect = 606
+    outfit = 451,
+    effect = 3
 }
 
 local combat = createCombatObject()
@@ -11,10 +11,8 @@ setCombatParam(combat, COMBAT_PARAM_AGGRESSIVE, false)
 local condition = createConditionObject(CONDITION_ATTRIBUTES)
 setConditionParam(condition, CONDITION_PARAM_TICKS, spell.duration * 1000)
 setConditionParam(condition, CONDITION_PARAM_BUFF, true)
-setConditionParam(condition, CONDITION_PARAM_STAT_MAGICLEVEL, 5)
-setConditionParam(condition, CONDITION_PARAM_SKILL_FIST, 5)
-setConditionParam(condition, CONDITION_PARAM_SKILL_SWORD, 5)
-setConditionParam(condition, CONDITION_PARAM_SKILL_SHIELD, 5)
+setConditionParam(condition, CONDITION_PARAM_STAT_MAGICLEVEL, 15)
+setConditionParam(condition, CONDITION_PARAM_SKILL_FIST, 30)
 setCombatCondition(combat, condition)
 
 function onCastSpell(cid, var)
@@ -24,8 +22,8 @@ function onCastSpell(cid, var)
 
     local player_position = getCreaturePosition(cid)
     doSendMagicEffect({
-        x = player_position.x,
-        y = player_position.y,
+        x = player_position.x + 1,
+        y = player_position.y + 1,
         z = player_position.z,
     }, spell.effect)
 

@@ -4,8 +4,7 @@ local spell = {
 }
 
 function onCastSpell(cid, var)
-    if exhaustion.check(cid, "special") then
-        doPlayerSendCancel(cid, "Cooldown " .. exhaustion.get(cid, "special") .. "s")
+    if checkSpecialCooldown(cid) then
         return false
     end
 
@@ -19,7 +18,7 @@ function onCastSpell(cid, var)
 				},380)
 		end, i * 1000)
 	end
-	
+
     registerCreatureEvent(cid, "Immortal")
     doCreatureSetNoMove(cid, true)
 

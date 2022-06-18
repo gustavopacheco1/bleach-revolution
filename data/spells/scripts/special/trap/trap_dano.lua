@@ -19,8 +19,7 @@ setCombatFormula(combat_damage, COMBAT_FORMULA_LEVELMAGIC, -15.0, 0, -15.0, 0)
 setCombatParam(combat_damage, COMBAT_PARAM_EFFECT, 543)
 
 function onCastSpell(cid, var)
-    if exhaustion.check(cid, "special") then
-        doPlayerSendCancel(cid, "Cooldown " .. exhaustion.get(cid, "special") .. "s")
+    if checkSpecialCooldown(cid) then
         return false
     end
 
