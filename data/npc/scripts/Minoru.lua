@@ -12,8 +12,8 @@ local talkState = {}
 local travelState = {}
 
 -- ["nome da cidade em minúsculo"] = {"nome da cidade certo", gold, posição para onde o player irá teleportar, posição do npc da cidade}
-local cities =
-["karakura"] = {"Karakura", 300, {x = 3536, y = 3269, z = 6}, {x = 3534, y = 3267, z = 6},
+local cities = {
+    ["karakura"] = {"Karakura", 300, {x = 3536, y = 3269, z = 6}, {x = 3534, y = 3267, z = 6},
     ["silbern"] = {"Silbern", 300, {x = 3783, y = 3525, z = 6}, {x = 3781, y = 3525, z = 6}}
 }
 
