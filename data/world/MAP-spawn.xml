@@ -7972,10 +7972,6 @@
 	<spawn centerx="3601" centery="4094" centerz="6" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3329" centery="4095" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Menos" x="0" y="1" z="6" spawntime="-788662784" />
-	</spawn>
 	<spawn centerx="3347" centery="4096" centerz="6" radius="1">
 		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -7984,6 +7980,10 @@
 	</spawn>
 	<spawn centerx="3552" centery="4096" centerz="6" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3332" centery="4097" centerz="6" radius="1">
+		<monster name="Menos" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Menos" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3566" centery="4097" centerz="6" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
@@ -13561,9 +13561,9 @@
 	<spawn centerx="3034" centery="3878" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3053" centery="3878" centerz="7" radius="1">
-		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Red Hollow" x="0" y="1" z="7" spawntime="-2134051840" />
+	<spawn centerx="3057" centery="3878" centerz="7" radius="1">
+		<monster name="Red Hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Red Hollow" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2780" centery="3879" centerz="7" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
