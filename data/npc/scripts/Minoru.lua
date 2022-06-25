@@ -13,7 +13,7 @@ local travelState = {}
 
 -- ["nome da cidade em minúsculo"] = {"nome da cidade certo", gold, posição para onde o player irá teleportar, posição do npc da cidade}
 local cities = {
-    ["karakura"] = {"Karakura", 300, {x = 3513, y = 3443, z = 6}, {x = 3512, y = 3443, z = 6}},
+    ["karakura"] = {"Karakura", 300, {x = 3536, y = 3269, z = 6}, {x = 3534, y = 3267, z = 6},
     ["silbern"] = {"Silbern", 300, {x = 3783, y = 3525, z = 6}, {x = 3781, y = 3525, z = 6}}
 }
 
@@ -34,7 +34,7 @@ function onCreatureSay(cid, type, msg)
             return true
         end
     end
-    
+
     if isInArray({"bye", "goodbye", "tchau", "adeus"}, msg) and npcHandler:isFocused(cid) then
         npcHandler:releaseFocus(cid)
         selfSayMultiLanguage(
@@ -88,7 +88,7 @@ function onCreatureSay(cid, type, msg)
         doTeleportThing(cid, cities[travelState[cid]][3])
         npcHandler:releaseFocus(cid)
     end
-    
+
     return true
 end
 

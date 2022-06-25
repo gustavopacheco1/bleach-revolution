@@ -1027,6 +1027,87 @@
 		<monster name="Hollow Grande" x="-1" y="-1" z="3" spawntime="60" />
 		<monster name="Hollow Grande" x="0" y="0" z="3" spawntime="60" />
 	</spawn>
+	<spawn centerx="2791" centery="3867" centerz="3" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="2796" centery="3867" centerz="3" radius="1">
+		<monster name="Fake Zaraki" x="0" y="-1" z="3" spawntime="60" />
+		<monster name="Fake Zaraki" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="2784" centery="3869" centerz="3" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="2791" centery="3870" centerz="3" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="2800" centery="3870" centerz="3" radius="1">
+		<monster name="Fake Zaraki" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Fake Zaraki" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="2788" centery="3871" centerz="3" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="2795" centery="3872" centerz="3" radius="1">
+		<monster name="Fake Zaraki" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Fake Zaraki" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Fake Zaraki" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Fake Zaraki" x="1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="2804" centery="3872" centerz="3" radius="1">
+		<monster name="Fake Zaraki" x="0" y="-1" z="3" spawntime="60" />
+		<monster name="Fake Zaraki" x="-1" y="0" z="3" spawntime="60" />
+		<monster name="Fake Zaraki" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="2792" centery="3874" centerz="3" radius="1">
+		<monster name="Fake Zaraki" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Fake Zaraki" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="2795" centery="3877" centerz="3" radius="1">
+		<monster name="Fake Zaraki" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Fake Zaraki" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3339" centery="4079" centerz="3" radius="1">
+		<monster name="Menos" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3328" centery="4082" centerz="3" radius="1">
+		<monster name="Menos" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3343" centery="4085" centerz="3" radius="1">
+		<monster name="Menos" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3350" centery="4085" centerz="3" radius="1">
+		<monster name="Menos" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3339" centery="4088" centerz="3" radius="1">
+		<monster name="Menos" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3328" centery="4091" centerz="3" radius="1">
+		<monster name="Menos" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3348" centery="4093" centerz="3" radius="1">
+		<monster name="Menos" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3338" centery="4094" centerz="3" radius="1">
+		<monster name="Menos" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3324" centery="4095" centerz="3" radius="1">
+		<monster name="Menos" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3354" centery="4097" centerz="3" radius="1">
+		<monster name="Menos" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3331" centery="4099" centerz="3" radius="1">
+		<monster name="Menos" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3344" centery="4099" centerz="3" radius="1">
+		<monster name="Menos" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3331" centery="4103" centerz="3" radius="1">
+		<monster name="Menos" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3345" centery="4104" centerz="3" radius="1">
+		<monster name="Menos" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
 	<spawn centerx="3473" centery="4106" centerz="3" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="3" spawntime="60" />
 	</spawn>
@@ -1835,12 +1916,6 @@
 		<monster name="Giant Snake" x="0" y="0" z="4" spawntime="60" />
 		<monster name="Giant Snake" x="1" y="1" z="4" spawntime="60" />
 	</spawn>
-	<spawn centerx="2777" centery="3808" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2773" centery="3809" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
 	<spawn centerx="3350" centery="3811" centerz="4" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="4" spawntime="60" />
 		<monster name="Giant Snake" x="1" y="1" z="4" spawntime="60" />
@@ -1850,138 +1925,51 @@
 		<monster name="Giant Snake" x="1" y="-1" z="4" spawntime="60" />
 		<monster name="Giant Snake" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
-	<spawn centerx="2777" centery="3812" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
 	<spawn centerx="3340" centery="3812" centerz="4" radius="1">
 		<monster name="Giant Snake" x="0" y="-1" z="4" spawntime="60" />
 		<monster name="Giant Snake" x="0" y="0" z="4" spawntime="60" />
 		<monster name="Giant Snake" x="1" y="1" z="4" spawntime="60" />
 	</spawn>
-	<spawn centerx="2781" centery="3816" centerz="4" radius="1">
+	<spawn centerx="2791" centery="3866" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Fake Zaraki" x="-1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2797" centery="3867" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Fake Zaraki" x="-1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2787" centery="3869" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="-1" y="-1" z="4" spawntime="60" />
 		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
-	<spawn centerx="2786" centery="3817" centerz="4" radius="1">
+	<spawn centerx="2793" centery="3870" centerz="4" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Fake Zaraki" x="-1" y="1" z="4" spawntime="60" />
+		<monster name="Fake Zaraki" x="1" y="1" z="4" spawntime="60" />
 	</spawn>
-	<spawn centerx="2792" centery="3818" centerz="4" radius="1">
+	<spawn centerx="2803" centery="3870" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="1" y="-1" z="4" spawntime="60" />
 		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Fake Zaraki" x="0" y="1" z="4" spawntime="60" />
 	</spawn>
-	<spawn centerx="2798" centery="3818" centerz="4" radius="1">
+	<spawn centerx="2790" centery="3872" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="-1" y="-1" z="4" spawntime="60" />
 		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Fake Zaraki" x="1" y="1" z="4" spawntime="60" />
 	</spawn>
-	<spawn centerx="2803" centery="3818" centerz="4" radius="1">
+	<spawn centerx="2800" centery="3872" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Fake Zaraki" x="1" y="-1" z="4" spawntime="60" />
 		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Fake Zaraki" x="1" y="1" z="4" spawntime="60" />
 	</spawn>
-	<spawn centerx="2809" centery="3818" centerz="4" radius="1">
+	<spawn centerx="2794" centery="3875" centerz="4" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Fake Zaraki" x="0" y="1" z="4" spawntime="60" />
 	</spawn>
-	<spawn centerx="2814" centery="3821" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2817" centery="3825" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2819" centery="3830" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2790" centery="3835" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2796" centery="3835" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2801" centery="3835" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2783" centery="3836" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2818" centery="3836" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2778" centery="3837" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2806" centery="3838" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2813" centery="3838" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2773" centery="3840" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2769" centery="3844" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2767" centery="3849" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2768" centery="3855" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2774" centery="3856" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2806" centery="3856" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2779" centery="3857" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2788" centery="3857" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2797" centery="3857" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2815" centery="3858" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2822" centery="3860" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2819" centery="3868" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2813" centery="3871" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2772" centery="3872" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2777" centery="3873" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2769" centery="3878" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2811" centery="3878" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2779" centery="3879" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2789" centery="3881" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2797" centery="3882" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2806" centery="3883" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2771" centery="3885" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2763" centery="3892" centerz="4" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2772" centery="3892" centerz="4" radius="1">
-		<monster name="Zaraki Legendary" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="2767" centery="3898" centerz="4" radius="1">
+	<spawn centerx="2798" centery="3878" centerz="4" radius="1">
+		<monster name="Fake Zaraki" x="-1" y="-1" z="4" spawntime="60" />
 		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3834" centery="3968" centerz="4" radius="1">
@@ -2104,8 +2092,47 @@
 	<spawn centerx="3609" centery="4079" centerz="4" radius="1">
 		<monster name="Legendary Zangetsu" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
+	<spawn centerx="3329" centery="4081" centerz="4" radius="1">
+		<monster name="Menos" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3345" centery="4081" centerz="4" radius="1">
+		<monster name="Menos" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3338" centery="4084" centerz="4" radius="1">
+		<monster name="Menos" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3330" centery="4089" centerz="4" radius="1">
+		<monster name="Menos" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3345" centery="4090" centerz="4" radius="1">
+		<monster name="Menos" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3324" centery="4091" centerz="4" radius="1">
+		<monster name="Menos" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3337" centery="4091" centerz="4" radius="1">
+		<monster name="Menos" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3353" centery="4091" centerz="4" radius="1">
+		<monster name="Menos" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3331" centery="4097" centerz="4" radius="1">
+		<monster name="Menos" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3342" centery="4098" centerz="4" radius="1">
+		<monster name="Menos" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
 	<spawn centerx="3474" centery="4100" centerz="4" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3351" centery="4101" centerz="4" radius="1">
+		<monster name="Menos" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3326" centery="4103" centerz="4" radius="1">
+		<monster name="Menos" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3340" centery="4103" centerz="4" radius="1">
+		<monster name="Menos" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3478" centery="4104" centerz="4" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
@@ -3495,174 +3522,18 @@
 		<monster name="Giant Snake" x="-1" y="-1" z="5" spawntime="60" />
 		<monster name="Giant Snake" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="2774" centery="3807" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="3331" centery="3810" centerz="5" radius="1">
 		<monster name="Giant Snake" x="1" y="-1" z="5" spawntime="60" />
 		<monster name="Giant Snake" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="2775" centery="3811" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+	<spawn centerx="2794" centery="3872" centerz="5" radius="1">
+		<monster name="Zaraki Legendary" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="2779" centery="3815" centerz="5" radius="1">
+	<spawn centerx="2803" centery="3872" centerz="5" radius="1">
+		<monster name="Fake Zaraki" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Fake Zaraki" x="1" y="-1" z="5" spawntime="60" />
 		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2785" centery="3815" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2794" centery="3815" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2801" centery="3816" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2807" centery="3818" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2811" centery="3821" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2814" centery="3825" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2780" centery="3830" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2787" centery="3830" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2812" centery="3831" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2793" centery="3832" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2775" centery="3834" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2797" centery="3835" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2803" centery="3836" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2769" centery="3837" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2766" centery="3843" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2771" centery="3846" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2817" centery="3847" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2822" centery="3847" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2777" centery="3848" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2810" centery="3849" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2827" centery="3849" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2783" centery="3850" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2806" centery="3852" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2829" centery="3853" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2785" centery="3856" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2804" centery="3856" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2827" centery="3859" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2803" centery="3861" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2823" centery="3861" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2781" centery="3862" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2774" centery="3863" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2768" centery="3865" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2821" centery="3865" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2825" centery="3867" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2803" centery="3868" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2765" centery="3871" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2805" centery="3873" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2765" centery="3877" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2811" centery="3877" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2815" centery="3880" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2762" centery="3882" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2791" centery="3883" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2798" centery="3883" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2784" centery="3884" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2812" centery="3885" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2805" centery="3886" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2780" centery="3888" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2761" centery="3889" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2778" centery="3893" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2763" centery="3895" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2773" centery="3896" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="2767" centery="3899" centerz="5" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Fake Zaraki" x="-1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3477" centery="3961" centerz="5" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="5" spawntime="60" />
@@ -3817,6 +3688,21 @@
 	<spawn centerx="3832" centery="4046" centerz="5" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3149" centery="4049" centerz="5" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3153" centery="4051" centerz="5" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3149" centery="4053" centerz="5" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3146" centery="4056" centerz="5" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3152" centery="4056" centerz="5" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3574" centery="4058" centerz="5" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
@@ -3847,26 +3733,11 @@
 	<spawn centerx="3614" centery="4070" centerz="5" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="3396" centery="4071" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3402" centery="4071" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3408" centery="4071" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3414" centery="4071" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3393" centery="4074" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3414" centery="4077" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="3615" centery="4077" centerz="5" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3331" centery="4079" centerz="5" radius="1">
+		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3546" centery="4079" centerz="5" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="5" spawntime="60" />
@@ -3874,7 +3745,7 @@
 	<spawn centerx="3583" centery="4079" centerz="5" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="3393" centery="4081" centerz="5" radius="1">
+	<spawn centerx="3343" centery="4080" centerz="5" radius="1">
 		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3599" centery="4081" centerz="5" radius="1">
@@ -3886,28 +3757,37 @@
 	<spawn centerx="3571" centery="4082" centerz="5" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="3414" centery="4084" centerz="5" radius="1">
+	<spawn centerx="3338" centery="4085" centerz="5" radius="1">
+		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3326" centery="4086" centerz="5" radius="1">
 		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3613" centery="4086" centerz="5" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3352" centery="4088" centerz="5" radius="1">
+		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3546" centery="4088" centerz="5" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="3393" centery="4089" centerz="5" radius="1">
+	<spawn centerx="3331" centery="4089" centerz="5" radius="1">
 		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="3414" centery="4090" centerz="5" radius="1">
+	<spawn centerx="3344" centery="4089" centerz="5" radius="1">
+		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3336" centery="4092" centerz="5" radius="1">
+		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3349" centery="4093" centerz="5" radius="1">
 		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3609" centery="4093" centerz="5" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="3393" centery="4095" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3414" centery="4095" centerz="5" radius="1">
+	<spawn centerx="3324" centery="4095" centerz="5" radius="1">
 		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3476" centery="4095" centerz="5" radius="1">
@@ -3915,6 +3795,12 @@
 	</spawn>
 	<spawn centerx="3551" centery="4095" centerz="5" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3329" centery="4097" centerz="5" radius="1">
+		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3343" centery="4097" centerz="5" radius="1">
+		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3468" centery="4097" centerz="5" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
@@ -3928,128 +3814,47 @@
 	<spawn centerx="3599" centery="4098" centerz="5" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3353" centery="4099" centerz="5" radius="1">
+		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3577" centery="4099" centerz="5" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3589" centery="4099" centerz="5" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="3395" centery="4100" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3403" centery="4100" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3410" centery="4100" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="3464" centery="4100" centerz="5" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3311" centery="4101" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3317" centery="4101" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3324" centery="4101" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3330" centery="4101" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3335" centery="4101" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3340" centery="4101" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3347" centery="4101" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3353" centery="4102" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3481" centery="4102" centerz="5" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="3309" centery="4106" centerz="5" radius="1">
+	<spawn centerx="3328" centery="4103" centerz="5" radius="1">
+		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3342" centery="4104" centerz="5" radius="1">
 		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3483" centery="4106" centerz="5" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="3353" centery="4107" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="3464" centery="4107" centerz="5" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3353" centery="4112" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3485" centery="4112" centerz="5" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="3309" centery="4113" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="3464" centery="4114" centerz="5" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3353" centery="4117" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3309" centery="4118" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3486" centery="4118" centerz="5" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="3314" centery="4120" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3320" centery="4120" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3328" centery="4120" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3335" centery="4120" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3342" centery="4120" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3349" centery="4120" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="3464" centery="4122" centerz="5" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="3389" centery="4126" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3397" centery="4126" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3404" centery="4126" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3412" centery="4126" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3419" centery="4126" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="3486" centery="4126" centerz="5" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3389" centery="4131" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3422" centery="4131" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3464" centery="4131" centerz="5" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
@@ -4060,56 +3865,11 @@
 	<spawn centerx="3466" centery="4136" centerz="5" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="3389" centery="4138" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3422" centery="4138" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="3481" centery="4139" centerz="5" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3471" centery="4140" centerz="5" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3389" centery="4143" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3422" centery="4145" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3389" centery="4148" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3422" centery="4151" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3389" centery="4153" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3422" centery="4157" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3389" centery="4158" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3391" centery="4163" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3398" centery="4163" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3404" centery="4163" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3410" centery="4163" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3418" centery="4163" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3422" centery="4163" centerz="5" radius="1">
-		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="4717" centery="2073" centerz="6" radius="1" />
 	<spawn centerx="4722" centery="2079" centerz="6" radius="1" />
@@ -7729,146 +7489,82 @@
 		<monster name="Giant Snake" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Giant Snake" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="2780" centery="3806" centerz="6" radius="1">
+	<spawn centerx="2796" centery="3861" centerz="6" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="2774" centery="3807" centerz="6" radius="1">
-		<monster name="Fake Zaraki" x="0" y="-1" z="6" spawntime="797669376" />
+	<spawn centerx="2811" centery="3862" centerz="6" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="2786" centery="3809" centerz="6" radius="1">
+	<spawn centerx="2790" centery="3863" centerz="6" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="2770" centery="3811" centerz="6" radius="1">
+	<spawn centerx="2804" centery="3863" centerz="6" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="2791" centery="3812" centerz="6" radius="1">
+	<spawn centerx="2785" centery="3864" centerz="6" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="2796" centery="3814" centerz="6" radius="1">
+	<spawn centerx="2780" centery="3866" centerz="6" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="2801" centery="3815" centerz="6" radius="1">
+	<spawn centerx="2803" centery="3866" centerz="6" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="2808" centery="3815" centerz="6" radius="1">
+	<spawn centerx="2795" centery="3867" centerz="6" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="2771" centery="3818" centerz="6" radius="1">
+	<spawn centerx="2812" centery="3867" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Fake Zaraki" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Fake Zaraki" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2776" centery="3869" centerz="6" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="2815" centery="3818" centerz="6" radius="1">
+	<spawn centerx="2785" centery="3869" centerz="6" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="2776" centery="3824" centerz="6" radius="1">
+	<spawn centerx="2807" centery="3870" centerz="6" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="2818" centery="3824" centerz="6" radius="1">
+	<spawn centerx="2782" centery="3871" centerz="6" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="2778" centery="3831" centerz="6" radius="1">
+	<spawn centerx="2789" centery="3872" centerz="6" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="2818" centery="3831" centerz="6" radius="1">
+	<spawn centerx="2794" centery="3872" centerz="6" radius="1">
+		<monster name="Fake Zaraki" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="2778" centery="3837" centerz="6" radius="1">
+	<spawn centerx="2800" centery="3872" centerz="6" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="2818" centery="3839" centerz="6" radius="1">
+	<spawn centerx="2806" centery="3875" centerz="6" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="2772" centery="3842" centerz="6" radius="1">
+	<spawn centerx="2795" centery="3876" centerz="6" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="2823" centery="3845" centerz="6" radius="1">
+	<spawn centerx="2787" centery="3877" centerz="6" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="2766" centery="3846" centerz="6" radius="1">
+	<spawn centerx="2791" centery="3879" centerz="6" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="2827" centery="3848" centerz="6" radius="1">
+	<spawn centerx="2803" centery="3879" centerz="6" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="2766" centery="3853" centerz="6" radius="1">
+	<spawn centerx="2797" centery="3881" centerz="6" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="2829" centery="3853" centerz="6" radius="1">
+	<spawn centerx="2803" centery="3884" centerz="6" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="2801" centery="3855" centerz="6" radius="1">
+	<spawn centerx="2799" centery="3885" centerz="6" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="2794" centery="3859" centerz="6" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="2829" centery="3859" centerz="6" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="2764" centery="3860" centerz="6" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="2806" centery="3863" centerz="6" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="2825" centery="3863" centerz="6" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="2786" centery="3864" centerz="6" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="2822" centery="3866" centerz="6" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="2762" centery="3867" centerz="6" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="2787" centery="3870" centerz="6" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="2808" centery="3870" centerz="6" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="2792" centery="3873" centerz="6" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="2763" centery="3874" centerz="6" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="2810" centery="3876" centerz="6" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="2795" centery="3879" centerz="6" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="2763" centery="3882" centerz="6" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="2812" centery="3882" centerz="6" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="2790" centery="3885" centerz="6" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="2826" centery="3885" centerz="6" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="2817" centery="3886" centerz="6" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="2779" centery="3887" centerz="6" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="2764" centery="3889" centerz="6" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="2775" centery="3894" centerz="6" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="2762" centery="3897" centerz="6" radius="1">
-		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="2769" centery="3900" centerz="6" radius="1">
+	<spawn centerx="2803" centery="3888" centerz="6" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3831" centery="3955" centerz="6" radius="1">
@@ -7955,11 +7651,29 @@
 	<spawn centerx="3850" centery="4001" centerz="6" radius="1">
 		<monster name="Nnoitra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3728" centery="4002" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3734" centery="4003" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3722" centery="4005" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3740" centery="4005" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3852" centery="4005" centerz="6" radius="1">
 		<monster name="Nnoitra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3811" centery="4006" centerz="6" radius="1">
 		<monster name="Nnoitra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3744" centery="4008" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3719" centery="4010" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3853" centery="4010" centerz="6" radius="1">
 		<monster name="Nnoitra" x="0" y="0" z="6" spawntime="60" />
@@ -7967,14 +7681,50 @@
 	<spawn centerx="3811" centery="4011" centerz="6" radius="1">
 		<monster name="Nnoitra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3747" centery="4012" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3140" centery="4014" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3146" centery="4015" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3705" centery="4015" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3720" centery="4015" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3809" centery="4015" centerz="6" radius="1">
 		<monster name="Nnoitra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3692" centery="4016" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3852" centery="4016" centerz="6" radius="1">
 		<monster name="Nnoitra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3748" centery="4017" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3139" centery="4018" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3699" centery="4018" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3712" centery="4018" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3803" centery="4018" centerz="6" radius="1">
 		<monster name="Nnoitra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3146" centery="4020" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3132" centery="4021" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3810" centery="4021" centerz="6" radius="1">
 		<monster name="Nnoitra" x="0" y="0" z="6" spawntime="60" />
@@ -7982,17 +7732,65 @@
 	<spawn centerx="3849" centery="4021" centerz="6" radius="1">
 		<monster name="Nnoitra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3136" centery="4023" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3143" centery="4023" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3722" centery="4023" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3747" centery="4023" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3139" centery="4026" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3810" centery="4026" centerz="6" radius="1">
 		<monster name="Nnoitra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3846" centery="4026" centerz="6" radius="1">
 		<monster name="Nnoitra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3146" centery="4027" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3726" centery="4027" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3745" centery="4027" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3134" centery="4028" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3143" centery="4029" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3731" centery="4029" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3151" centery="4030" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3812" centery="4030" centerz="6" radius="1">
 		<monster name="Nnoitra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3736" centery="4031" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3742" centery="4031" centerz="6" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3843" centery="4031" centerz="6" radius="1">
 		<monster name="Nnoitra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3184" centery="4036" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3190" centery="4036" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3811" centery="4036" centerz="6" radius="1">
 		<monster name="Nnoitra" x="0" y="0" z="6" spawntime="60" />
@@ -8000,26 +7798,86 @@
 	<spawn centerx="3842" centery="4038" centerz="6" radius="1">
 		<monster name="Nnoitra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3181" centery="4040" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3186" centery="4040" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3812" centery="4041" centerz="6" radius="1">
 		<monster name="Nnoitra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3190" centery="4043" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3842" centery="4044" centerz="6" radius="1">
 		<monster name="Nnoitra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3185" centery="4045" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3813" centery="4045" centerz="6" radius="1">
 		<monster name="Nnoitra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3181" centery="4046" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3198" centery="4047" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3210" centery="4047" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3192" centery="4048" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3204" centery="4048" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3846" centery="4048" centerz="6" radius="1">
 		<monster name="Nnoitra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3150" centery="4049" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3155" centery="4049" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3161" centery="4049" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3166" centery="4049" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3185" centery="4050" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3815" centery="4050" centerz="6" radius="1">
 		<monster name="Nnoitra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3181" centery="4051" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3151" centery="4053" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3159" centery="4053" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3166" centery="4053" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3818" centery="4053" centerz="6" radius="1">
 		<monster name="Nnoitra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3191" centery="4054" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3842" centery="4054" centerz="6" radius="1">
 		<monster name="Nnoitra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3184" centery="4055" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3824" centery="4055" centerz="6" radius="1">
 		<monster name="Nnoitra" x="0" y="0" z="6" spawntime="60" />
@@ -8051,16 +7909,13 @@
 	<spawn centerx="3597" centery="4071" centerz="6" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3406" centery="4073" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3586" centery="4074" centerz="6" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3607" centery="4075" centerz="6" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3405" centery="4077" centerz="6" radius="1">
+	<spawn centerx="3335" centery="4079" centerz="6" radius="1">
 		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3543" centery="4080" centerz="6" radius="1">
@@ -8072,7 +7927,13 @@
 	<spawn centerx="3583" centery="4082" centerz="6" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3406" centery="4085" centerz="6" radius="1">
+	<spawn centerx="3347" centery="4083" centerz="6" radius="1">
+		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3327" centery="4084" centerz="6" radius="1">
+		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3340" centery="4084" centerz="6" radius="1">
 		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3560" centery="4085" centerz="6" radius="1">
@@ -8081,7 +7942,10 @@
 	<spawn centerx="3609" centery="4088" centerz="6" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3406" centery="4090" centerz="6" radius="1">
+	<spawn centerx="3331" centery="4089" centerz="6" radius="1">
+		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3345" centery="4089" centerz="6" radius="1">
 		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3476" centery="4090" centerz="6" radius="1">
@@ -8093,13 +7957,22 @@
 	<spawn centerx="3543" centery="4091" centerz="6" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3324" centery="4093" centerz="6" radius="1">
+		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3338" centery="4093" centerz="6" radius="1">
+		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3353" centery="4093" centerz="6" radius="1">
+		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3482" centery="4093" centerz="6" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3601" centery="4094" centerz="6" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3406" centery="4095" centerz="6" radius="1">
+	<spawn centerx="3347" centery="4096" centerz="6" radius="1">
 		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3461" centery="4096" centerz="6" radius="1">
@@ -8108,8 +7981,15 @@
 	<spawn centerx="3552" centery="4096" centerz="6" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3332" centery="4097" centerz="6" radius="1">
+		<monster name="Menos" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Menos" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3566" centery="4097" centerz="6" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3338" centery="4098" centerz="6" radius="1">
+		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3485" centery="4098" centerz="6" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
@@ -8120,11 +8000,14 @@
 	<spawn centerx="3590" centery="4098" centerz="6" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3406" centery="4100" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3458" centery="4102" centerz="6" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3331" centery="4103" centerz="6" radius="1">
+		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3347" centery="4103" centerz="6" radius="1">
+		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3487" centery="4103" centerz="6" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
@@ -8132,9 +8015,6 @@
 	<spawn centerx="3579" centery="4104" centerz="6" radius="1">
 		<monster name="Zangetsu" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3405" centery="4105" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3567" centery="4105" centerz="6" radius="1">
 		<monster name="Zangetsu" x="1" y="-1" z="6" spawntime="60" />
@@ -8146,69 +8026,12 @@
 	<spawn centerx="3489" centery="4107" centerz="6" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3406" centery="4109" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3315" centery="4110" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3327" centery="4110" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3344" centery="4110" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3358" centery="4110" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3373" centery="4110" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3385" centery="4110" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3416" centery="4110" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3458" centery="4110" centerz="6" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3320" centery="4111" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3335" centery="4111" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3351" centery="4111" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3366" centery="4111" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3379" centery="4111" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3392" centery="4111" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3399" centery="4111" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3410" centery="4111" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3421" centery="4111" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3427" centery="4111" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3538" centery="4111" centerz="6" radius="1">
 		<monster name="Zangetsu" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3308" centery="4112" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3582" centery="4112" centerz="6" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
@@ -8230,9 +8053,6 @@
 		<monster name="Zangetsu" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3406" centery="4117" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3459" centery="4118" centerz="6" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -8241,9 +8061,6 @@
 	</spawn>
 	<spawn centerx="3492" centery="4123" centerz="6" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3406" centery="4124" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3587" centery="4124" centerz="6" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
@@ -8254,9 +8071,6 @@
 	<spawn centerx="3548" centery="4127" centerz="6" radius="1">
 		<monster name="Zangetsu" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3406" centery="4130" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3559" centery="4130" centerz="6" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="6" spawntime="60" />
@@ -8271,17 +8085,11 @@
 	<spawn centerx="3459" centery="4136" centerz="6" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3406" centery="4137" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3488" centery="4140" centerz="6" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3464" centery="4141" centerz="6" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3406" centery="4144" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3483" centery="4144" centerz="6" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
@@ -8289,25 +8097,11 @@
 	<spawn centerx="3473" centery="4145" centerz="6" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3406" centery="4151" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3590" centery="4152" centerz="6" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3597" centery="4152" centerz="6" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3391" centery="4153" centerz="6" radius="1">
-		<monster name="Menos" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Menos" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3395" centery="4153" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3401" centery="4153" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3584" centery="4154" centerz="6" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
@@ -8320,9 +8114,6 @@
 	</spawn>
 	<spawn centerx="3580" centery="4156" centerz="6" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3406" centery="4157" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3576" centery="4158" centerz="6" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
@@ -8350,12 +8141,6 @@
 	</spawn>
 	<spawn centerx="3532" centery="4162" centerz="6" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3406" centery="4163" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3411" centery="4163" centerz="6" radius="1">
-		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3615" centery="4164" centerz="6" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
@@ -13544,11 +13329,29 @@
 	<spawn centerx="4625" centery="3855" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2785" centery="3857" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2790" centery="3857" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Fake Zaraki" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Fake Zaraki" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2794" centery="3857" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3562" centery="3857" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3577" centery="3857" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2805" centery="3858" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2814" centery="3858" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3497" centery="3858" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
@@ -13568,17 +13371,81 @@
 	<spawn centerx="4636" centery="3859" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2781" centery="3860" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2990" centery="3860" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3548" centery="3860" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4605" centery="3861" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2773" centery="3862" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2777" centery="3862" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2790" centery="3862" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2796" centery="3862" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2811" centery="3862" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2984" centery="3862" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2803" centery="3863" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2784" centery="3864" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2819" centery="3864" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2987" centery="3864" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3032" centery="3864" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="4476" centery="3864" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2770" centery="3866" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2981" centery="3866" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2777" centery="3867" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2793" centery="3867" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2797" centery="3867" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2806" centery="3867" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2812" centery="3867" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="4539" centery="3867" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2786" centery="3869" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3564" centery="3869" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
@@ -13589,6 +13456,27 @@
 	<spawn centerx="4470" centery="3869" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2802" centery="3870" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2817" centery="3870" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2982" centery="3870" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2796" centery="3871" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2807" centery="3871" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2989" centery="3871" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3000" centery="3871" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="4449" centery="3871" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -13597,6 +13485,27 @@
 	</spawn>
 	<spawn centerx="4640" centery="3871" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2781" centery="3872" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2995" centery="3872" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2773" centery="3873" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2791" centery="3873" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2985" centery="3873" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3003" centery="3873" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3014" centery="3873" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3492" centery="3873" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
@@ -13607,41 +13516,182 @@
 	<spawn centerx="4424" centery="3873" centerz="7" radius="1">
 		<monster name="Vizard Two Boss" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2811" centery="3874" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3532" centery="3874" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4536" centery="3874" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2798" centery="3875" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2990" centery="3875" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3009" centery="3875" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3649" centery="3875" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2785" centery="3876" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2806" centery="3876" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2981" centery="3876" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2997" centery="3876" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3018" centery="3876" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2816" centery="3877" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4652" centery="3877" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3034" centery="3878" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3057" centery="3878" centerz="7" radius="1">
+		<monster name="Red Hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Red Hollow" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2780" centery="3879" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2823" centery="3879" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2994" centery="3879" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3004" centery="3879" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3012" centery="3879" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3024" centery="3879" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3603" centery="3879" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2792" centery="3880" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2803" centery="3880" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2809" centery="3881" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2819" centery="3881" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2988" centery="3881" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2827" centery="3882" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2983" centery="3882" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2997" centery="3882" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3007" centery="3882" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3015" centery="3882" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3065" centery="3882" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3561" centery="3882" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2788" centery="3883" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2798" centery="3883" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="2831" centery="3883" centerz="7" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="2835" centery="3883" centerz="7" radius="1">
+	<spawn centerx="3060" centery="3883" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2815" centery="3884" centerz="7" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3012" centery="3884" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3032" centery="3884" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3037" centery="3884" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3052" centery="3884" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2804" centery="3885" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2990" centery="3885" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4536" centery="3885" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3028" centery="3886" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3046" centery="3886" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="4663" centery="3886" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="2837" centery="3887" centerz="7" radius="1">
+	<spawn centerx="2799" centery="3887" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Fake Zaraki" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Fake Zaraki" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3040" centery="3887" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2820" centery="3888" centerz="7" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="2833" centery="3888" centerz="7" radius="1">
+	<spawn centerx="2827" centery="3888" centerz="7" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3008" centery="3888" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3014" centery="3888" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3024" centery="3888" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3055" centery="3888" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3657" centery="3888" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
@@ -13652,9 +13702,30 @@
 	<spawn centerx="3577" centery="3889" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2795" centery="3890" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3601" centery="3890" centerz="7" radius="1" />
 	<spawn centerx="3623" centery="3890" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2802" centery="3891" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2812" centery="3891" centerz="7" radius="1">
+		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3034" centery="3891" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3039" centery="3891" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3045" centery="3891" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3049" centery="3891" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3559" centery="3891" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
@@ -13662,15 +13733,69 @@
 	<spawn centerx="3494" centery="3892" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3012" centery="3893" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3028" centery="3893" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3052" centery="3893" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3023" centery="3894" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3008" centery="3895" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3057" centery="3895" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3063" centery="3895" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3585" centery="3895" centerz="7" radius="1" />
+	<spawn centerx="3036" centery="3896" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3041" centery="3896" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="4539" centery="3896" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3018" centery="3897" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3032" centery="3897" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3051" centery="3897" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3014" centery="3898" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4667" centery="3899" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3026" centery="3900" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3046" centery="3900" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3011" centery="3901" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3037" centery="3901" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3634" centery="3901" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3058" centery="3902" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3556" centery="3902" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
@@ -13678,27 +13803,111 @@
 	<spawn centerx="4549" centery="3902" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3016" centery="3903" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3031" centery="3903" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3572" centery="3903" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3652" centery="3903" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3053" centery="3904" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3523" centery="3904" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3595" centery="3905" centerz="7" radius="1" />
+	<spawn centerx="3026" centery="3906" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3036" centery="3906" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3042" centery="3906" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3058" centery="3906" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3079" centery="3907" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3048" centery="3908" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3067" centery="3908" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3492" centery="3908" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3031" centery="3910" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3063" centery="3910" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3027" centery="3911" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3039" centery="3911" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3052" centery="3911" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3074" centery="3911" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3017" centery="3912" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3080" centery="3912" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4559" centery="3912" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3021" centery="3913" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3045" centery="3913" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3057" centery="3913" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3034" centery="3914" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3570" centery="3914" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3003" centery="3915" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3077" centery="3915" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3083" centery="3915" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3092" centery="3915" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3553" centery="3915" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2985" centery="3916" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3064" centery="3916" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3514" centery="3916" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
@@ -13706,10 +13915,58 @@
 	<spawn centerx="3643" centery="3916" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3027" centery="3917" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3060" centery="3917" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3606" centery="3917" centerz="7" radius="1" />
+	<spawn centerx="2996" centery="3918" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3041" centery="3918" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3073" centery="3918" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3037" centery="3919" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3047" centery="3919" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3052" centery="3919" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3084" centery="3919" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3596" centery="3920" centerz="7" radius="1" />
+	<spawn centerx="2988" centery="3921" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="4556" centery="3921" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3031" centery="3922" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3057" centery="3922" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3066" centery="3924" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3076" centery="3924" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3040" centery="3925" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3050" centery="3925" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3584" centery="3925" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
@@ -13720,11 +13977,23 @@
 	<spawn centerx="4665" centery="3925" centerz="7" radius="1">
 		<monster name="Vizard Four Boss" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3055" centery="3926" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3500" centery="3926" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3046" centery="3927" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="4537" centery="3928" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3023" centery="3929" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3052" centery="3929" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3548" centery="3929" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
@@ -13732,11 +14001,29 @@
 	<spawn centerx="4523" centery="3929" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3058" centery="3930" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3069" centery="3930" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3075" centery="3930" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3044" centery="3931" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3647" centery="3931" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4513" centery="3931" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3049" centery="3933" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3065" centery="3933" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3576" centery="3934" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
@@ -13744,11 +14031,32 @@
 	<spawn centerx="4505" centery="3934" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3034" centery="3936" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3074" centery="3936" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3029" centery="3937" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3060" centery="3937" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3096" centery="3938" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="4465" centery="3938" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4536" centery="3938" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3015" centery="3939" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3091" centery="3939" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3538" centery="3939" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
@@ -13756,11 +14064,65 @@
 	<spawn centerx="3630" centery="3939" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3054" centery="3940" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="4494" centery="3940" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3024" centery="3941" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3063" centery="3941" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3087" centery="3941" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="4480" centery="3941" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3036" centery="3942" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3076" centery="3942" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3098" centery="3942" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3030" centery="3943" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3082" centery="3943" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3000" centery="3944" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3012" centery="3944" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3016" centery="3944" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3043" centery="3944" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3072" centery="3944" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3091" centery="3944" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3101" centery="3945" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3005" centery="3946" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3050" centery="3946" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3485" centery="3946" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
@@ -13768,8 +14130,35 @@
 	<spawn centerx="3590" centery="3946" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3020" centery="3947" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3036" centery="3947" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3615" centery="3947" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3008" centery="3948" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3031" centery="3948" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3071" centery="3948" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3078" centery="3948" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3087" centery="3948" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3094" centery="3948" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3114" centery="3948" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3557" centery="3948" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
@@ -13780,35 +14169,119 @@
 	<spawn centerx="4538" centery="3948" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3016" centery="3949" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3026" centery="3949" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3054" centery="3949" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3101" centery="3950" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3527" centery="3950" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3042" centery="3951" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3049" centery="3951" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3506" centery="3951" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3248" centery="3953" centerz="7" radius="1">
-		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3006" centery="3952" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3237" centery="3954" centerz="7" radius="1">
-		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3013" centery="3952" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3219" centery="3956" centerz="7" radius="1">
-		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3021" centery="3952" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3082" centery="3952" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3029" centery="3953" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3086" centery="3953" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3120" centery="3953" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3036" centery="3954" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3061" centery="3954" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3056" centery="3955" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3093" centery="3955" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3006" centery="3956" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3072" centery="3956" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3603" centery="3956" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3048" centery="3957" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3097" centery="3957" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3483" centery="3957" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3028" centery="3958" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3065" centery="3958" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3084" centery="3959" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3022" centery="3960" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3042" centery="3960" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3101" centery="3960" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3109" centery="3960" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3124" centery="3960" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3058" centery="3961" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3507" centery="3961" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3228" centery="3962" centerz="7" radius="1">
-		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3033" centery="3962" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3252" centery="3962" centerz="7" radius="1">
-		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3053" centery="3962" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3068" centery="3962" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3526" centery="3962" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="1" z="7" spawntime="60" />
@@ -13819,8 +14292,17 @@
 	<spawn centerx="3585" centery="3962" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3049" centery="3963" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3062" centery="3963" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3478" centery="3963" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3082" centery="3964" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3473" centery="3964" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
@@ -13828,14 +14310,38 @@
 	<spawn centerx="3558" centery="3964" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3039" centery="3965" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3089" centery="3965" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3105" centery="3965" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3546" centery="3965" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3245" centery="3966" centerz="7" radius="1">
-		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3100" centery="3966" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3258" centery="3966" centerz="7" radius="1">
-		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3046" centery="3967" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3070" centery="3967" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3078" centery="3967" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3094" centery="3967" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3035" centery="3968" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3113" centery="3968" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3472" centery="3968" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
@@ -13843,8 +14349,14 @@
 	<spawn centerx="3477" centery="3968" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3221" centery="3969" centerz="7" radius="1">
-		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3054" centery="3969" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3085" centery="3969" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3120" centery="3969" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3482" centery="3969" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
@@ -13852,11 +14364,182 @@
 	<spawn centerx="3532" centery="3969" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3080" centery="3971" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3105" centery="3971" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3045" centery="3972" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3050" centery="3972" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3059" centery="3972" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3075" centery="3972" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="4573" centery="3972" centerz="7" radius="1">
 		<monster name="Vizard Three Boss" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3234" centery="3973" centerz="7" radius="1">
-		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3022" centery="3974" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3039" centery="3974" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3069" centery="3974" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3085" centery="3974" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3063" centery="3976" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3076" centery="3976" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3081" centery="3978" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3037" centery="3979" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3086" centery="3979" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3048" centery="3981" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3060" centery="3981" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3066" centery="3981" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3071" centery="3981" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3078" centery="3982" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3015" centery="3984" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3055" centery="3984" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3052" centery="3985" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3062" centery="3985" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3084" centery="3985" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3089" centery="3985" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3006" centery="3987" centerz="7" radius="1">
+		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3168" centery="4001" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Grand Fisher" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3158" centery="4003" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Grand Fisher" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3180" centery="4003" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3166" centery="4004" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Grand Fisher" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3174" centery="4007" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3157" centery="4009" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3730" centery="4009" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3736" centery="4010" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3164" centery="4011" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3152" centery="4013" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3176" centery="4013" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3146" centery="4014" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3140" centery="4015" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3184" centery="4015" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3673" centery="4015" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3682" centery="4015" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3162" centery="4016" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3663" centery="4016" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3767" centery="4016" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3668" centery="4017" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3686" centery="4017" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3742" centery="4017" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3756" centery="4017" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3772" centery="4017" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3777" centery="4017" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3121" centery="4018" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3145" centery="4018" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3678" centery="4018" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3726" centery="4018" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3788" centery="4018" centerz="7" radius="1">
 		<monster name="Nnoitra" x="1" y="-1" z="7" spawntime="60" />
@@ -13870,29 +14553,490 @@
 		<monster name="Nnoitra" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Nnoitra" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3171" centery="4019" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3764" centery="4019" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3125" centery="4020" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3131" centery="4020" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3138" centery="4020" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3153" centery="4021" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3181" centery="4021" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3188" centery="4021" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3198" centery="4021" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3161" centery="4022" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3730" centery="4022" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3740" centery="4022" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3204" centery="4023" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3133" centery="4024" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3141" centery="4024" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3735" centery="4024" centerz="7" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3127" centery="4025" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3146" centery="4025" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3193" centery="4025" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3198" centery="4025" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3209" centery="4025" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3168" centery="4027" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3186" centery="4027" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3178" centery="4028" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3140" centery="4029" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3146" centery="4029" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3157" centery="4029" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3203" centery="4029" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3214" centery="4029" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3130" centery="4030" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3194" centery="4030" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3135" centery="4031" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3208" centery="4032" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3139" centery="4033" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3150" centery="4033" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3172" centery="4033" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3185" centery="4033" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3199" centery="4033" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3144" centery="4034" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3204" centery="4034" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3163" centery="4035" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3129" centery="4036" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3119" centery="4037" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3125" centery="4037" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3184" centery="4037" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3189" centery="4037" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3193" centery="4037" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3199" centery="4037" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3209" centery="4037" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3133" centery="4038" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3138" centery="4038" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3143" centery="4038" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3148" centery="4038" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3152" centery="4038" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3156" centery="4038" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3176" centery="4039" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3181" centery="4040" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3185" centery="4040" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3190" centery="4040" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3166" centery="4041" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3204" centery="4041" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3138" centery="4042" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3209" centery="4042" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3130" centery="4043" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3148" centery="4043" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3161" centery="4043" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3199" centery="4043" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3155" centery="4044" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3142" centery="4045" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3174" centery="4045" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3181" centery="4045" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3134" centery="4046" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3196" centery="4047" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3202" centery="4047" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3185" centery="4048" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3191" centery="4048" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3208" centery="4048" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3129" centery="4049" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3149" centery="4049" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3153" centery="4049" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3158" centery="4049" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3164" centery="4049" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3177" centery="4050" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3181" centery="4051" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3153" centery="4052" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3158" centery="4052" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3167" centery="4052" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3171" centery="4052" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3163" centery="4053" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3191" centery="4053" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3146" centery="4055" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3185" centery="4055" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3151" centery="4056" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3157" centery="4056" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3161" centery="4056" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3166" centery="4057" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3176" centery="4057" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3324" centery="4064" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3341" centery="4065" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3316" centery="4066" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3333" centery="4066" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3322" centery="4068" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3353" centery="4068" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3336" centery="4069" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3311" centery="4071" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3326" centery="4072" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3341" centery="4072" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3350" centery="4073" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3359" centery="4074" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3314" centery="4076" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3335" centery="4076" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3347" centery="4077" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3326" centery="4079" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3340" centery="4079" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3309" centery="4080" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3318" centery="4080" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3331" centery="4080" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3359" centery="4082" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3363" centery="4082" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3348" centery="4083" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3338" centery="4084" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3354" centery="4084" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3321" centery="4087" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3307" centery="4088" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3312" centery="4088" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3325" centery="4088" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3331" centery="4089" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3338" centery="4090" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3345" centery="4090" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3367" centery="4090" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3316" centery="4091" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3352" centery="4091" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3362" centery="4091" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3357" centery="4092" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3345" centery="4095" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3320" centery="4096" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3333" centery="4097" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3307" centery="4098" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3324" centery="4098" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3311" centery="4099" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3354" centery="4099" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3367" centery="4099" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3316" centery="4103" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3337" centery="4103" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3346" centery="4103" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3355" centery="4104" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3361" centery="4105" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3307" centery="4106" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3321" centery="4107" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3329" centery="4107" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3345" centery="4107" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3574" centery="4108" centerz="7" radius="1">
 		<monster name="Zangetsu" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Zangetsu" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3435" centery="4110" centerz="7" radius="1">
-		<monster name="Menos" x="1" y="-1" z="7" spawntime="60" />
+	<spawn centerx="3367" centery="4109" centerz="7" radius="1">
 		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Menos" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3441" centery="4110" centerz="7" radius="1">
-		<monster name="Menos" x="1" y="-1" z="7" spawntime="60" />
+	<spawn centerx="3311" centery="4112" centerz="7" radius="1">
 		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Menos" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3447" centery="4110" centerz="7" radius="1">
-		<monster name="Menos" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Menos" x="1" y="-1" z="7" spawntime="60" />
+	<spawn centerx="3348" centery="4112" centerz="7" radius="1">
 		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Menos" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3316" centery="4114" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3325" centery="4114" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3338" centery="4114" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3351" centery="4114" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3545" centery="4114" centerz="7" radius="1">
 		<monster name="Zangetsu" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Zangetsu" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3307" centery="4115" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3515" centery="4115" centerz="7" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="7" spawntime="60" />
@@ -13918,9 +15062,30 @@
 		<monster name="Zangetsu" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Zangetsu" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3342" centery="4118" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3367" centery="4118" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3321" centery="4119" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3329" centery="4119" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3373" centery="4119" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3582" centery="4119" centerz="7" radius="1">
 		<monster name="Zangetsu" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Zangetsu" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3362" centery="4120" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3310" centery="4121" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3549" centery="4121" centerz="7" radius="1">
 		<monster name="Zangetsu" x="-1" y="-1" z="7" spawntime="60" />
@@ -13930,6 +15095,9 @@
 		<monster name="Zangetsu" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Zangetsu" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3346" centery="4122" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3576" centery="4122" centerz="7" radius="1">
 		<monster name="Zangetsu" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Zangetsu" x="0" y="0" z="7" spawntime="60" />
@@ -13938,33 +15106,127 @@
 		<monster name="Zangetsu" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Zangetsu" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3313" centery="4124" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3330" centery="4125" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3317" centery="4126" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3373" centery="4126" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3324" centery="4127" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3367" centery="4127" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3309" centery="4128" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3356" centery="4128" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3567" centery="4128" centerz="7" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3342" centery="4130" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3334" centery="4133" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3351" centery="4133" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3316" centery="4134" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3566" centery="4134" centerz="7" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3310" centery="4135" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3372" centery="4135" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3326" centery="4136" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3342" centery="4136" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3322" centery="4138" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3363" centery="4138" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3337" centery="4139" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3346" centery="4139" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3356" centery="4140" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3566" centery="4140" centerz="7" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3313" centery="4142" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3332" centery="4142" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3320" centery="4143" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3346" centery="4143" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3368" centery="4143" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3566" centery="4144" centerz="7" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3333" centery="4147" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3344" centery="4147" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3354" centery="4147" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3320" centery="4148" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3364" centery="4148" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3566" centery="4150" centerz="7" radius="1">
 		<monster name="Zangetsu" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3391" centery="4152" centerz="7" radius="1">
-		<monster name="Menos" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Menos" x="1" y="-1" z="7" spawntime="60" />
+	<spawn centerx="3327" centery="4151" centerz="7" radius="1">
 		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Menos" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3406" centery="4153" centerz="7" radius="1">
-		<monster name="Legendary Menos" x="0" y="0" z="7" spawntime="3600" />
+	<spawn centerx="3334" centery="4151" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3388" centery="4155" centerz="7" radius="1">
-		<monster name="Menos" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Menos" x="1" y="-1" z="7" spawntime="60" />
+	<spawn centerx="3341" centery="4151" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3347" centery="4151" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3356" centery="4151" centerz="7" radius="1">
 		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3595" centery="4159" centerz="7" radius="1">
@@ -16157,14 +17419,32 @@
 	<spawn centerx="4161" centery="3955" centerz="8" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3798" centery="3957" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="4056" centery="3957" centerz="8" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3711" centery="3958" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4093" centery="3958" centerz="8" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3792" centery="3959" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="4176" centery="3959" centerz="8" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3781" centery="3961" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3788" centery="3963" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3798" centery="3963" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3535" centery="3964" centerz="8" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
@@ -16187,8 +17467,29 @@
 	<spawn centerx="3631" centery="3964" centerz="8" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3679" centery="3964" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3708" centery="3964" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3577" centery="3965" centerz="8" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3773" centery="3965" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3715" centery="3966" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3724" centery="3967" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3671" centery="3968" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3680" centery="3968" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4082" centery="3970" centerz="8" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
@@ -16196,17 +17497,56 @@
 	<spawn centerx="4237" centery="3970" centerz="8" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3734" centery="3971" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3676" centery="3972" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3775" centery="3973" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="4063" centery="3973" centerz="8" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3683" centery="3976" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3522" centery="3978" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3736" centery="3978" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3771" centery="3980" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3518" centery="3982" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3687" centery="3985" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3765" centery="3985" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3734" centery="3986" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3514" centery="3988" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3725" centery="3989" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3759" centery="3989" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3680" centery="3990" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3719" centery="3995" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3453" centery="3996" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
@@ -16220,8 +17560,14 @@
 	<spawn centerx="3511" centery="3997" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3754" centery="3997" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3445" centery="3998" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3679" centery="3998" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3437" centery="3999" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
@@ -16229,11 +17575,29 @@
 	<spawn centerx="3469" centery="4000" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3761" centery="4001" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3725" centery="4002" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3516" centery="4003" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3682" centery="4003" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3749" centery="4003" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3782" centery="4003" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3474" centery="4005" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3789" centery="4005" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3507" centery="4006" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
@@ -16241,11 +17605,38 @@
 	<spawn centerx="3523" centery="4007" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3766" centery="4008" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3501" centery="4009" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3660" centery="4009" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3725" centery="4009" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3654" centery="4010" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3680" centery="4010" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3746" centery="4010" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3772" centery="4010" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3780" centery="4010" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3528" centery="4011" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3786" centery="4011" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3480" centery="4012" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
@@ -16253,14 +17644,41 @@
 	<spawn centerx="3495" centery="4012" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3673" centery="4013" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3667" centery="4014" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3742" centery="4014" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3488" centery="4015" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3534" centery="4015" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3657" centery="4016" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3711" centery="4016" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3718" centery="4016" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3728" centery="4016" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3735" centery="4016" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3541" centery="4017" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3688" centery="4017" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3548" centery="4018" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
@@ -16268,11 +17686,32 @@
 	<spawn centerx="3558" centery="4020" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3705" centery="4020" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3693" centery="4023" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3700" centery="4024" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3725" centery="4024" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3489" centery="4025" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3487" centery="4032" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3725" centery="4032" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3716" centery="4036" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3727" centery="4039" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3483" centery="4040" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
@@ -16280,9 +17719,18 @@
 	<spawn centerx="3397" centery="4041" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3711" centery="4042" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3750" centery="4042" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3404" centery="4043" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Arrancar Misteryo" x="1" y="0" z="8" spawntime="791142144" />
+	</spawn>
+	<spawn centerx="3757" centery="4043" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3392" centery="4045" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
@@ -16299,6 +17747,9 @@
 	<spawn centerx="3448" centery="4046" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3731" centery="4046" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3471" centery="4047" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -16311,8 +17762,20 @@
 	<spawn centerx="3456" centery="4048" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3698" centery="4048" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3706" centery="4048" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3463" centery="4049" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3745" centery="4049" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3762" centery="4049" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3420" centery="4050" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
@@ -16320,14 +17783,29 @@
 	<spawn centerx="3483" centery="4051" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3736" centery="4051" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3690" centery="4055" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3486" centery="4057" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3763" centery="4058" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3488" centery="4061" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3695" centery="4061" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3498" centery="4062" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3688" centery="4063" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3482" centery="4066" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
@@ -16335,8 +17813,17 @@
 	<spawn centerx="3505" centery="4066" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3693" centery="4066" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3761" centery="4067" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3477" centery="4068" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3768" centery="4068" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3470" centery="4070" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
@@ -16346,6 +17833,9 @@
 	</spawn>
 	<spawn centerx="3464" centery="4072" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3762" centery="4073" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3457" centery="4076" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
@@ -16373,6 +17863,9 @@
 	</spawn>
 	<spawn centerx="3423" centery="4090" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3334" centery="4093" centerz="8" radius="1">
+		<monster name="Legendary Menos" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3418" centery="4093" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
