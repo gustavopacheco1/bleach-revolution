@@ -581,6 +581,27 @@ bool Combat::CombatHealthFunc(Creature* caster, Creature* target, const CombatPa
 	if(_params.element.damage && _params.element.type != COMBAT_NONE)
 		g_game.combatBlockHit(_params.element.type, caster, target, _params.element.damage, params.blockedByShield, params.blockedByArmor, params.itemId != 0, true);
 
+    std::string damageIncreasePercentage = "0", absorbIncreasePercentage = "0";
+
+    switch (_params.combatType) {
+        case COMBAT_ENERGYDAMAGE:
+            if (caster->getPlayer())
+                caster->getStorage("energyDamage", damageIncreasePercentage);
+            if (target->getPlayer())
+                target->getStorage("energyAbsorb", absorbIncreasePercentage);
+            break;
+
+        case COMBAT_PHYSICALDAMAGE:
+            if (caster->getPlayer())
+                caster->getStorage("physicalDamage", damageIncreasePercentage);
+            if (target->getPlayer())
+                target->getStorage("physicalAbsorb", absorbIncreasePercentage);
+            break;
+    }
+
+    int32_t changePercentage = atoi(damageIncreasePercentage.c_str()) - atoi(absorbIncreasePercentage.c_str());
+    change += (changePercentage * change) / 100;
+
 	if(g_config.getBool(ConfigManager::USE_BLACK_SKULL))
 	{
 		if(caster && caster->getPlayer() && target->getPlayer() && target->getSkull() != SKULL_BLACK)
