@@ -12765,6 +12765,12 @@
 	<spawn centerx="3576" centery="3683" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3395" centery="3684" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3405" centery="3684" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3437" centery="3684" centerz="7" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -12777,6 +12783,9 @@
 	</spawn>
 	<spawn centerx="4152" centery="3684" centerz="7" radius="1">
 		<monster name="Quincy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3383" centery="3685" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3541" centery="3685" centerz="7" radius="1">
 		<monster name="Black Wolf" x="0" y="-1" z="7" spawntime="60" />
@@ -12808,6 +12817,9 @@
 	</spawn>
 	<spawn centerx="3666" centery="3687" centerz="7" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3417" centery="3688" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3547" centery="3688" centerz="7" radius="1">
 		<monster name="Black Wolf" x="1" y="-1" z="7" spawntime="60" />
@@ -12873,6 +12885,9 @@
 	<spawn centerx="3994" centery="3691" centerz="7" radius="1">
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3370" centery="3692" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3553" centery="3692" centerz="7" radius="1">
 		<monster name="Black Wolf" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
@@ -12918,11 +12933,17 @@
 	<spawn centerx="4412" centery="3696" centerz="7" radius="1">
 		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3420" centery="3697" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3756" centery="3697" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4003" centery="3697" centerz="7" radius="1">
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3357" centery="3698" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3437" centery="3698" centerz="7" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
@@ -13007,6 +13028,9 @@
 	<spawn centerx="3750" centery="3705" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3349" centery="3706" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3644" centery="3706" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="1" z="7" spawntime="60" />
@@ -13063,6 +13087,9 @@
 	<spawn centerx="3700" centery="3713" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3362" centery="3714" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3605" centery="3714" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -13084,8 +13111,17 @@
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3395" centery="3716" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3440" centery="3716" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3714" centery="3716" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3381" centery="3717" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3649" centery="3717" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
@@ -13112,6 +13148,9 @@
 	<spawn centerx="3693" centery="3719" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3351" centery="3720" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3569" centery="3720" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
@@ -13122,6 +13161,9 @@
 	</spawn>
 	<spawn centerx="3721" centery="3720" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3448" centery="3721" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3575" centery="3721" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="-1" y="-1" z="7" spawntime="60" />
@@ -13155,6 +13197,9 @@
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Hollow Grande" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3362" centery="3725" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3572" centery="3725" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
@@ -13168,13 +13213,55 @@
 	<spawn centerx="3689" centery="3725" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3412" centery="3727" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3645" centery="3727" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3393" centery="3728" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3445" centery="3729" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3374" centery="3730" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3351" centery="3733" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3326" centery="3735" centerz="7" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3457" centery="3736" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3402" centery="3739" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3478" centery="3739" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3414" centery="3740" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3384" centery="3743" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3359" centery="3745" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3369" centery="3745" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3446" centery="3746" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3405" centery="3748" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3345" centery="3749" centerz="7" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3321" centery="3750" centerz="7" radius="1">
@@ -13187,6 +13274,9 @@
 		<monster name="Hollow Grande" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3459" centery="3753" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3480" centery="3753" centerz="7" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -13194,13 +13284,34 @@
 		<monster name="Hollow Grande" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3382" centery="3755" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3450" centery="3759" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="4503" centery="3759" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3361" centery="3760" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3437" centery="3762" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3376" centery="3763" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4552" centery="3763" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3342" centery="3764" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3322" centery="3767" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3454" centery="3767" centerz="7" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4474" centery="3768" centerz="7" radius="1">
@@ -13215,8 +13326,32 @@
 	<spawn centerx="4538" centery="3769" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3414" centery="3771" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3356" centery="3773" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3386" centery="3773" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3374" centery="3776" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3446" centery="3776" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="4526" centery="3776" centerz="7" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3462" centery="3777" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3400" centery="3778" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3435" centery="3778" centerz="7" radius="1">
+		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3329" centery="3783" centerz="7" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
