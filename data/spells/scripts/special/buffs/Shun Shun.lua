@@ -1,7 +1,7 @@
 local spell = {
     cooldown = 50,
     duration = 30,
-    outfit = 63,
+    outfit = 386,
     effect = 606
 }
 

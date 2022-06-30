@@ -1,7 +1,7 @@
 local spell = {
     cooldown = 50,
     duration = 30,
-    outfit = 161,
+    outfit = 411,
     effect = 255
 }
 
@@ -14,7 +14,7 @@ setConditionParam(condition, CONDITION_PARAM_BUFF, true)
 setConditionParam(condition, CONDITION_PARAM_STAT_MAGICLEVEL, 10)
 setConditionParam(condition, CONDITION_PARAM_SKILL_FIST, 10)
 setConditionParam(condition, CONDITION_PARAM_SKILL_SWORD, 10)
-setConditionParam(condition, CONDITION_PARAM_SKILL_SHIELD, 10)
+setConditionParam(condition, CONDITION_PARAM_SKILL_SHIELD, 30)
 setCombatCondition(combat, condition)
 
 function onCastSpell(cid, var)
