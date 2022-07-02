@@ -1,5 +1,5 @@
 function onStatsChange(cid, attacker, type, combat, value)
-    if not (value >= 1 and (type == STATSCHANGE_HEALTHLOSS) or combat == COMBAT_PHYSICALDAMAGE or isPlayer(attacker)) then
+    if type ~= STATSCHANGE_HEALTHLOSS or combat ~= COMBAT_PHYSICALDAMAGE or not isPlayer(attacker) then
         return true
     end
 
