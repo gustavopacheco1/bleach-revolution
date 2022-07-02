@@ -1,8 +1,8 @@
 local spell = {
     cooldown = 50,
     duration = 30,
-    outfit = 313,
-    effect = 3
+    outfit = 417,
+    effect = 141
 }
 
 local combat = createCombatObject()
