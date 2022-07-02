@@ -10478,7 +10478,6 @@
 	<spawn centerx="3668" centery="3356" centerz="7" radius="1">
 		<monster name="Mini Fisher" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="2340" centery="3357" centerz="7" radius="1" />
 	<spawn centerx="3417" centery="3357" centerz="7" radius="1">
 		<monster name="Mummy" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
