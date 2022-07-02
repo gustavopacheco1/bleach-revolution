@@ -8,14 +8,14 @@
 
 	<!-- Weapon Soul Upgrade -->
 	<action itemid="10624;10625;10626;10627;15820;15122;15411;15730;15819;15431;15091;15823;15423;15424" event="script" value="weapon_soul_upgrade.lua" />
-	
+
 	<!-- Levers -->
 	<action itemid="1945;1946" script="levers/levers.lua" />
 	<action uniqueid="30001" script="levers/anihilator.lua" />
 
 	<!-- Quests -->
 	<action itemid="15661" script="quest_chests.lua" />
-	
+
 	<!-- Tools -->
 	<action itemid="2420;2442" event="script" value="tools/machete.lua"/>
 	<action itemid="2550" event="script" value="tools/scythe.lua"/>
@@ -23,7 +23,7 @@
 	<action itemid="2554;5710" event="script" value="tools/shovel.lua"/>
 	<action itemid="2120;7731" event="script" value="tools/rope.lua"/>
 	<action itemid="2553" event="script" value="tools/pick.lua"/>
-	
+
 	<!-- Food -->
 	<action itemid="2328;2362-2363;2666-2669;2671-2689;2691;2693;2695-2696;2787-2796;5097;6125;6278;6279;6394;6501;6541;6545:6569;6574;7158;7159;7372-7377;7909;8838-8845;8847;9005;9996" event="script" value="other/food.lua" />
 
@@ -43,8 +43,7 @@
 	<action itemid="1209-1214;1219-1262;1539-1542;2086-2092;3535-3552;4913-4918;5082-5085;5098-5145;5278-5295;5515-5518;5732-5737;5745-5749;6192-6209;6249-6266;6795-6802;6891-6908;7033-7050;7054-7057;8541-8558;9165-9184;9267-9284;10268-10285;10468-10486;10775-10792" event="script" value="other/doors.lua" />
 
 	<!-- Teleports -->
-	<action actionid="20000" script="teleports/urahara_market_trolley.lua" />
-	<action actionid="20001" script="teleports/cave_entrance.lua" />
+	<action uniqueid="20000;20001;20002;20003" script="teleports/teleports.lua" />
 
 	<!-- Other -->
 	<action itemid="2036;1728;1877;6091;8187" event="script" value="other/watch.lua"/>
