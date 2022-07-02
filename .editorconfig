@@ -4,7 +4,12 @@ root = true
 end_of_line = lf
 insert_final_newline = true
 trim_trailing_whitespace = true
-indent_style = space
+indent_style = tab
 
-[*.{xml,lua}]
+[*.{cpp,h,lua,xml}]
 indent_size = 4
+
+[**.{.cpp,.h}]
+# Options not ubiquitous, but useful
+indent_brace_style = K&R
+spaces_around_brackets = none
