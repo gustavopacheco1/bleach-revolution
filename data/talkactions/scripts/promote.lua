@@ -41,6 +41,8 @@ function onSay(cid, words, param, channel)
 		return true
 	end
 
+	setPlayerStorageValue(cid, "group", newGroup)
+
 	local str = "been " .. (group < newGroup and "promoted" or "demoted") .. " to " .. getGroupInfo(newGroup).name .. "."
 	if(not config.broadcast) then
 		doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, param .. " has " .. str)

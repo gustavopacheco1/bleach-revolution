@@ -52,6 +52,7 @@ function onLogin(cid)
     registerCreatureEvent(cid, "TransformsAdvance")
     registerCreatureEvent(cid, "TransformsLogin")
     registerCreatureEvent(cid, "NpcTarget")
+    registerCreatureEvent(cid, "Death")
 
     doCreatureSetStorage(cid, "save", (os.time() + 120))
     return true
