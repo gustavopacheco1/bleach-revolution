@@ -39,10 +39,10 @@ RSA::~RSA()
 	mpz_clear(m_mod);
 }
 
-bool RSA::initialize(const std::string& file)
+bool RSA::initialize(const std::string &file)
 {
-	FILE* f = fopen(file.c_str(), "r");
-	if(!f)
+	FILE *f = fopen(file.c_str(), "r");
+	if (!f)
 		return false;
 
 	char p[512], q[512], d[512];
@@ -54,7 +54,7 @@ bool RSA::initialize(const std::string& file)
 	return true;
 }
 
-void RSA::initialize(const char* p, const char* q, const char* d)
+void RSA::initialize(const char *p, const char *q, const char *d)
 {
 	boost::recursive_mutex::scoped_lock lockClass(rsaLock);
 
@@ -78,7 +78,7 @@ void RSA::initialize(const char* p, const char* q, const char* d)
 	mpz_clear(qm1);
 }
 
-void RSA::decrypt(char* msg)
+void RSA::decrypt(char *msg)
 {
 	boost::recursive_mutex::scoped_lock lockClass(rsaLock);
 	mpz_t c, v1, v2, u2, tmp;
@@ -100,7 +100,7 @@ void RSA::decrypt(char* msg)
 	mpz_mul(tmp, u2, m_u);
 
 	mpz_mod(u2, tmp, m_q);
-	if(mpz_cmp_si(u2, 0) < 0)
+	if (mpz_cmp_si(u2, 0) < 0)
 	{
 		mpz_add(tmp, u2, m_q);
 		mpz_set(u2, tmp);
@@ -110,7 +110,7 @@ void RSA::decrypt(char* msg)
 	mpz_set_ui(c, 0);
 	mpz_add(c, v1, tmp);
 
-	size_t count = (mpz_sizeinbase(c, 2) + 7)/8;
+	size_t count = (mpz_sizeinbase(c, 2) + 7) / 8;
 	memset(msg, 0, 128 - count);
 	mpz_export(&msg[128 - count], NULL, 1, 1, 0, 0, c);
 
@@ -121,7 +121,7 @@ void RSA::decrypt(char* msg)
 	mpz_clear(tmp);
 }
 
-void RSA::getPublicKey(char* buffer)
+void RSA::getPublicKey(char *buffer)
 {
 	size_t count = (mpz_sizeinbase(m_mod, 2) + 7) / 8;
 	memset(buffer, 0, 128 - count);

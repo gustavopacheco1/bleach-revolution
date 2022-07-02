@@ -3,7 +3,7 @@ local config = {
 	pinMinLength = 4, -- minimum pin length
 	pinMaxLength = 4, -- maximum pin length
 	pinStorage = 3006, -- only if pin enabled (used to store player pin)
-	transferDisabledVocations = {0} -- disable non vocation characters
+	transferDisabledVocations = { 0 } -- disable non vocation characters
 }
 
 local talkState = {}
@@ -15,12 +15,15 @@ local keywordHandler = KeywordHandler:new()
 local npcHandler = NpcHandler:new(keywordHandler)
 NpcSystem.parseParameters(npcHandler)
 
-function onCreatureAppear(cid)			npcHandler:onCreatureAppear(cid)		end
-function onCreatureDisappear(cid)		npcHandler:onCreatureDisappear(cid)		end
-function onCreatureSay(cid, type, msg)		npcHandler:onCreatureSay(cid, type, msg)	end
-function onThink()				npcHandler:onThink()				end
+function onCreatureAppear(cid) npcHandler:onCreatureAppear(cid) end
 
-if(config.pin) then
+function onCreatureDisappear(cid) npcHandler:onCreatureDisappear(cid) end
+
+function onCreatureSay(cid, type, msg) npcHandler:onCreatureSay(cid, type, msg) end
+
+function onThink() npcHandler:onThink() end
+
+if (config.pin) then
 	bank_pin = {
 		get = function(cid)
 			return getPlayerStorageValue(cid, config.pinStorage)
@@ -35,7 +38,7 @@ if(config.pin) then
 		end,
 
 		validate = function(code)
-			if(not isNumber(code)) then
+			if (not isNumber(code)) then
 				return false
 			end
 
@@ -45,10 +48,10 @@ if(config.pin) then
 	}
 end
 
-if(not getPlayerBalance) then
+if (not getPlayerBalance) then
 	getPlayerBalance = function(cid)
 		local result = db.getResult("SELECT `balance` FROM `players` WHERE `id` = " .. getPlayerGUID(cid))
-		if(result:getID() == -1) then
+		if (result:getID() == -1) then
 			return false
 		end
 
@@ -64,7 +67,7 @@ if(not getPlayerBalance) then
 
 	doPlayerWithdrawMoney = function(cid, amount)
 		local balance = getPlayerBalance(cid)
-		if(amount > balance or not doPlayerAddMoney(cid, amount)) then
+		if (amount > balance or not doPlayerAddMoney(cid, amount)) then
 			return false
 		end
 
@@ -73,7 +76,7 @@ if(not getPlayerBalance) then
 	end
 
 	doPlayerDepositMoney = function(cid, amount)
-		if(not doPlayerRemoveMoney(cid, amount)) then
+		if (not doPlayerRemoveMoney(cid, amount)) then
 			return false
 		end
 
@@ -83,19 +86,22 @@ if(not getPlayerBalance) then
 
 	doPlayerTransferMoneyTo = function(cid, target, amount)
 		local balance = getPlayerBalance(cid)
-		if(amount > balance) then
+		if (amount > balance) then
 			return false
 		end
 
 		local tid = getPlayerByName(target)
-		if(tid > 0) then
+		if (tid > 0) then
 			doPlayerSetBalance(tid, getPlayerBalance(tid) + amount)
 		else
-			if(playerExists(target) == false) then
+			if (playerExists(target) == false) then
 				return false
 			end
 
-			db.executeQuery("UPDATE `player_storage` SET `value` = `value` + '" .. amount .. "' WHERE `player_id` = (SELECT `id` FROM `players` WHERE `name` = '" .. escapeString(player) .. "') AND `key` = '" .. balance_storage .. "'")
+			db.executeQuery("UPDATE `player_storage` SET `value` = `value` + '" ..
+				amount ..
+				"' WHERE `player_id` = (SELECT `id` FROM `players` WHERE `name` = '" ..
+				escapeString(player) .. "') AND `key` = '" .. balance_storage .. "'")
 		end
 
 		doPlayerSetBalance(cid, getPlayerBalance(cid) - amount)
@@ -103,7 +109,7 @@ if(not getPlayerBalance) then
 	end
 end
 
-if(not doPlayerSave) then
+if (not doPlayerSave) then
 	local function doPlayerSave(cid)
 		return true
 	end
@@ -111,7 +117,7 @@ end
 
 local function getPlayerVocationByName(name)
 	local result = db.getResult("SELECT `vocation` FROM `players` WHERE `name` = " .. db.escapeString(name))
-	if(result:getID() == -1) then
+	if (result:getID() == -1) then
 		return false
 	end
 
@@ -127,7 +133,7 @@ end
 local function getCount(string)
 	local b, e = string:find("%d+")
 	local money = b and e and tonumber(string:sub(b, e)) or -1
-	if(isValidMoney(money)) then
+	if (isValidMoney(money)) then
 		return money
 	end
 	return -1
@@ -140,31 +146,31 @@ end
 
 function creatureSayCallback(cid, type, msg)
 
-	if(not npcHandler:isFocused(cid)) then
+	if (not npcHandler:isFocused(cid)) then
 		return false
 	end
 
----------------------------- pin -------------------------
-	if(config.pin) then
-		if(talkState[cid] == "verify-pin") then
+	---------------------------- pin -------------------------
+	if (config.pin) then
+		if (talkState[cid] == "verify-pin") then
 			talkState[cid] = 0
 			pin[cid] = getCount(msg)
-			if(not bank_pin.logged(cid)) then
+			if (not bank_pin.logged(cid)) then
 				selfSay("Invalid pin code entered. Please try again.", cid)
 				return true
 			end
 
 			selfSay("You have been successfully logged in.", cid)
-		elseif(talkState[cid] == "new-pin") then
+		elseif (talkState[cid] == "new-pin") then
 			talkState[cid] = 0
 
-			if(bank_pin.get(cid) ~= -1 and not bank_pin.logged(cid)) then
+			if (bank_pin.get(cid) ~= -1 and not bank_pin.logged(cid)) then
 				selfSay("Please login before attempting to change your pin code.", cid)
 				talkState[cid] = "verify-pin"
 				return true
 			end
 
-			if(msgcontains(msg, 'reset') or msgcontains(msg, 'remove') or msgcontains(msg, 'clear')) then
+			if (msgcontains(msg, 'reset') or msgcontains(msg, 'remove') or msgcontains(msg, 'clear')) then
 				selfSay("Pin code has been removed.", cid)
 				pin[cid] = nil
 				bank_pin.set(cid, -1)
@@ -172,12 +178,12 @@ function creatureSayCallback(cid, type, msg)
 			end
 
 			pin[cid] = getCount(msg)
-			if(bank_pin.validate(pin[cid])) then
+			if (bank_pin.validate(pin[cid])) then
 				selfSay("Pin code successfully changed.", cid)
 				bank_pin.set(cid, pin[cid])
 			else
 				local str = ""
-				if(config.pinMinLength ~= config.pinMaxLength) then
+				if (config.pinMinLength ~= config.pinMaxLength) then
 					str = config.pinMinLength .. " - " .. config.pinMaxLength
 				else
 					str = config.pinMinLength
@@ -187,36 +193,39 @@ function creatureSayCallback(cid, type, msg)
 			end
 
 			return true
-		elseif(msgcontains(msg, 'balance') or
+		elseif (msgcontains(msg, 'balance') or
 			msgcontains(msg, 'deposit') or
 			msgcontains(msg, 'withdraw') or
 			msgcontains(msg, 'transfer')) then
-				if(bank_pin.get(cid) ~= -1 and not bank_pin.logged(cid)) then
-					selfSay("Please tell me your bank pin code before making any transactions.", cid)
-					talkState[cid] = "verify-pin"
-					return true
-				end
+			if (bank_pin.get(cid) ~= -1 and not bank_pin.logged(cid)) then
+				selfSay("Please tell me your bank pin code before making any transactions.", cid)
+				talkState[cid] = "verify-pin"
+				return true
+			end
 
-				talkState[cid] = 0
-		elseif(msgcontains(msg, 'login')) then
+			talkState[cid] = 0
+		elseif (msgcontains(msg, 'login')) then
 			talkState[cid] = "verify-pin"
 			return true
-		elseif(msgcontains(msg, 'pin')) then
+		elseif (msgcontains(msg, 'pin')) then
 			selfSay("Please tell me your new pin code.", cid)
 			talkState[cid] = "new-pin"
 			return true
 		end
 	end
----------------------------- help ------------------------
+	---------------------------- help ------------------------
 	if msgcontains(msg, 'advanced') then
 		if isInArray(config.transferDisabledVocations, getPlayerVocation(cid)) then
-			selfSay("Once you are on the Tibian mainland, you can access new functions of your bank account, such as transferring money to other players safely or taking part in house auctions.", cid)
+			selfSay("Once you are on the Tibian mainland, you can access new functions of your bank account, such as transferring money to other players safely or taking part in house auctions."
+				, cid)
 		else
-			selfSay("Renting a house has never been this easy. Simply make a bid for an auction. We will check immediately if you have enough money.", cid)
+			selfSay("Renting a house has never been this easy. Simply make a bid for an auction. We will check immediately if you have enough money."
+				, cid)
 		end
 		talkState[cid] = 0
 	elseif msgcontains(msg, 'help') or msgcontains(msg, 'functions') then
-		selfSay("You can check the {balance} of your bank account, {deposit} money or {withdraw} it. You can also {transfer} money to other characters, provided that they have a vocation.", cid)
+		selfSay("You can check the {balance} of your bank account, {deposit} money or {withdraw} it. You can also {transfer} money to other characters, provided that they have a vocation."
+			, cid)
 		talkState[cid] = 0
 	elseif msgcontains(msg, 'bank') then
 		npcHandler:say("We can change money for you. You can also access your bank account.", cid)
@@ -224,11 +233,11 @@ function creatureSayCallback(cid, type, msg)
 	elseif msgcontains(msg, 'job') then
 		npcHandler:say("I work in this bank. I can change money for you and help you with your bank account.", cid)
 		talkState[cid] = 0
----------------------------- balance ---------------------
+		---------------------------- balance ---------------------
 	elseif msgcontains(msg, 'balance') then
 		selfSay("Your account balance is " .. getPlayerBalance(cid) .. " gold.", cid)
 		talkState[cid] = 0
----------------------------- deposit ---------------------
+		---------------------------- deposit ---------------------
 	elseif msgcontains(msg, 'deposit all') and getPlayerMoney(cid) > 0 then
 		count[cid] = getPlayerMoney(cid)
 		if not isValidMoney(count[cid]) then
@@ -261,14 +270,17 @@ function creatureSayCallback(cid, type, msg)
 			if not doPlayerDepositMoney(cid, count[cid]) then
 				selfSay("You don\'t have enough gold.", cid)
 			else
-				selfSay("Alright, we have added the amount of " .. count[cid] .. " gold to your balance. You can withdraw your money anytime you want to. Your account balance is " .. getPlayerBalance(cid) .. ".", cid)
+				selfSay("Alright, we have added the amount of " ..
+					count[cid] ..
+					" gold to your balance. You can withdraw your money anytime you want to. Your account balance is " ..
+					getPlayerBalance(cid) .. ".", cid)
 				doPlayerSave(cid)
 			end
 		elseif msgcontains(msg, 'no') then
 			selfSay("As you wish. Is there something else I can do for you?", cid)
 		end
 		talkState[cid] = 0
----------------------------- withdraw --------------------
+		---------------------------- withdraw --------------------
 	elseif msgcontains(msg, 'withdraw') then
 		selfSay("Please tell me how much gold you would like to withdraw.", cid)
 		talkState[cid] = 6
@@ -284,10 +296,12 @@ function creatureSayCallback(cid, type, msg)
 	elseif talkState[cid] == 7 then
 		if msgcontains(msg, 'yes') then
 			if not doPlayerWithdrawMoney(cid, count[cid]) then
-				selfSay("There is not enough gold on your account. Your account balance is " .. getPlayerBalance(cid) .. ". Please tell me the amount of gold coins you would like to withdraw.", cid)
+				selfSay("There is not enough gold on your account. Your account balance is " ..
+					getPlayerBalance(cid) .. ". Please tell me the amount of gold coins you would like to withdraw.", cid)
 				talkState[cid] = 0
 			else
-				selfSay("Here you are, " .. count[cid] .. " gold. Please let me know if there is something else I can do for you.", cid)
+				selfSay("Here you are, " .. count[cid] .. " gold. Please let me know if there is something else I can do for you.",
+					cid)
 				talkState[cid] = 0
 				doPlayerSave(cid)
 			end
@@ -295,7 +309,7 @@ function creatureSayCallback(cid, type, msg)
 			selfSay("As you wish. Is there something else I can do for you?", cid)
 			talkState[cid] = 0
 		end
----------------------------- transfer --------------------
+		---------------------------- transfer --------------------
 	elseif msgcontains(msg, 'transfer') then
 		selfSay("Please tell me the amount of gold you would like to transfer.", cid)
 		talkState[cid] = 11
@@ -338,10 +352,11 @@ function creatureSayCallback(cid, type, msg)
 	elseif talkState[cid] == 13 then
 		if msgcontains(msg, 'yes') then
 			local targetVocation = getPlayerVocationByName(transfer[cid])
-			if not targetVocation or isInArray(config.transferDisabledVocations, targetVocation) or not doPlayerTransferMoneyTo(cid, transfer[cid], count[cid]) then
+			if not targetVocation or isInArray(config.transferDisabledVocations, targetVocation) or
+				not doPlayerTransferMoneyTo(cid, transfer[cid], count[cid]) then
 				selfSay("This player does not exist on this world or have no vocation.", cid)
 			else
-				selfSay("You have transferred " .. count[cid] .. " gold to \"" .. transfer[cid] .."\".", cid)
+				selfSay("You have transferred " .. count[cid] .. " gold to \"" .. transfer[cid] .. "\".", cid)
 				transfer[cid] = nil
 				doPlayerSave(cid)
 			end
@@ -349,7 +364,7 @@ function creatureSayCallback(cid, type, msg)
 			selfSay("As you wish. Is there something else I can do for you?", cid)
 		end
 		talkState[cid] = 0
----------------------------- money exchange --------------
+		---------------------------- money exchange --------------
 	elseif msgcontains(msg, 'change gold') then
 		npcHandler:say("How many platinum coins would you like to get?", cid)
 		talkState[cid] = 14
@@ -359,7 +374,8 @@ function creatureSayCallback(cid, type, msg)
 			talkState[cid] = 0
 		else
 			count[cid] = getCount(msg)
-			npcHandler:say("So you would like me to change " .. count[cid] * 100 .. " of your gold coins into " .. count[cid] .. " platinum coins?", cid)
+			npcHandler:say("So you would like me to change " ..
+				count[cid] * 100 .. " of your gold coins into " .. count[cid] .. " platinum coins?", cid)
 			talkState[cid] = 15
 		end
 	elseif talkState[cid] == 15 then
@@ -394,7 +410,8 @@ function creatureSayCallback(cid, type, msg)
 			talkState[cid] = 0
 		else
 			count[cid] = getCount(msg)
-			npcHandler:say("So you would like me to change " .. count[cid] .. " of your platinum coins into " .. count[cid] * 100 .. " gold coins for you?", cid)
+			npcHandler:say("So you would like me to change " ..
+				count[cid] .. " of your platinum coins into " .. count[cid] * 100 .. " gold coins for you?", cid)
 			talkState[cid] = 18
 		end
 	elseif talkState[cid] == 18 then
@@ -415,7 +432,8 @@ function creatureSayCallback(cid, type, msg)
 			talkState[cid] = 0
 		else
 			count[cid] = getCount(msg)
-			npcHandler:say("So you would like me to change " .. count[cid] * 100 .. " of your platinum coins into " .. count[cid] .. " crystal coins for you?", cid)
+			npcHandler:say("So you would like me to change " ..
+				count[cid] * 100 .. " of your platinum coins into " .. count[cid] .. " crystal coins for you?", cid)
 			talkState[cid] = 20
 		end
 	elseif talkState[cid] == 20 then
@@ -439,12 +457,13 @@ function creatureSayCallback(cid, type, msg)
 			talkState[cid] = 0
 		else
 			count[cid] = getCount(msg)
-			npcHandler:say("So you would like me to change " .. count[cid] .. " of your crystal coins into " .. count[cid] * 100 .. " platinum coins for you?", cid)
+			npcHandler:say("So you would like me to change " ..
+				count[cid] .. " of your crystal coins into " .. count[cid] * 100 .. " platinum coins for you?", cid)
 			talkState[cid] = 22
 		end
 	elseif talkState[cid] == 22 then
 		if msgcontains(msg, 'yes') then
-			if doPlayerRemoveItem(cid, 2160, count[cid])  then
+			if doPlayerRemoveItem(cid, 2160, count[cid]) then
 				npcHandler:say("Here you are.", cid)
 				doPlayerAddItem(cid, 2152, count[cid] * 100)
 			else
@@ -455,7 +474,8 @@ function creatureSayCallback(cid, type, msg)
 		end
 		talkState[cid] = 0
 	elseif msgcontains(msg, 'change') then
-		npcHandler:say("There are three different coin types in Tibia: 100 gold coins equal 1 platinum coin, 100 platinum coins equal 1 crystal coin. So if you'd like to change 100 gold into 1 platinum, simply say '{change gold}' and then '1 platinum'.", cid)
+		npcHandler:say("There are three different coin types in Tibia: 100 gold coins equal 1 platinum coin, 100 platinum coins equal 1 crystal coin. So if you'd like to change 100 gold into 1 platinum, simply say '{change gold}' and then '1 platinum'."
+			, cid)
 		talkState[cid] = 0
 	end
 

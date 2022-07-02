@@ -1,4 +1,4 @@
-local DISTILLERY = {5513, 5514, 5469, 5470}
+local DISTILLERY = { 5513, 5514, 5469, 5470 }
 local ITEM_RUM_FLASK = 5553
 local ITEM_POOL = 2016
 
@@ -16,10 +16,10 @@ local TYPE_LAVA = 26
 local TYPE_RUM = 27
 local TYPE_SWAMP = 28
 
-local oilLamps = {[2046] = 2044}
-local casks = {[1771] = TYPE_WATER, [1772] = TYPE_BEER, [1773] = TYPE_WINE}
-local alcoholDrinks = {TYPE_BEER, TYPE_WINE, TYPE_RUM}
-local poisonDrinks = {TYPE_SLIME, TYPE_SWAMP}
+local oilLamps = { [2046] = 2044 }
+local casks = { [1771] = TYPE_WATER, [1772] = TYPE_BEER, [1773] = TYPE_WINE }
+local alcoholDrinks = { TYPE_BEER, TYPE_WINE, TYPE_RUM }
+local poisonDrinks = { TYPE_SLIME, TYPE_SWAMP }
 
 local drunk = createConditionObject(CONDITION_DRUNK)
 setConditionParam(drunk, CONDITION_PARAM_TICKS, 60000)
@@ -36,46 +36,46 @@ local exhaust = createConditionObject(CONDITION_EXHAUST)
 setConditionParam(exhaust, CONDITION_PARAM_TICKS, (getConfigInfo('timeBetweenExActions') - 100))
 
 function onUse(cid, item, fromPosition, itemEx, toPosition)
-	if(itemEx.uid == cid) then
-		if(item.type == TYPE_EMPTY) then
+	if (itemEx.uid == cid) then
+		if (item.type == TYPE_EMPTY) then
 			doPlayerSendCancel(cid, "It is empty.")
 			return true
 		end
 
-		if(item.type == TYPE_MANA_FLUID) then
-			if(hasCondition(cid, CONDITION_EXHAUST_HEAL)) then
+		if (item.type == TYPE_MANA_FLUID) then
+			if (hasCondition(cid, CONDITION_EXHAUST_HEAL)) then
 				doPlayerSendDefaultCancel(cid, RETURNVALUE_YOUAREEXHAUSTED)
 				return true
 			end
 
-			if(not doPlayerAddMana(cid, math.random(80, 160))) then
+			if (not doPlayerAddMana(cid, math.random(80, 160))) then
 				return false
 			end
 
 			doCreatureSay(cid, "Aaaah...", TALKTYPE_MONSTER)
 			doSendMagicEffect(toPosition, CONST_ME_MAGIC_BLUE)
 			doAddCondition(cid, exhaust)
-		elseif(item.type == TYPE_LIFE_FLUID) then
-			if(hasCondition(cid, CONDITION_EXHAUST_HEAL)) then
+		elseif (item.type == TYPE_LIFE_FLUID) then
+			if (hasCondition(cid, CONDITION_EXHAUST_HEAL)) then
 				doPlayerSendDefaultCancel(cid, RETURNVALUE_YOUAREEXHAUSTED)
 				return true
 			end
 
-			if(not doCreatureAddHealth(cid, math.random(40, 75))) then
+			if (not doCreatureAddHealth(cid, math.random(40, 75))) then
 				return false
 			end
 
 			doCreatureSay(cid, "Aaaah...", TALKTYPE_MONSTER)
 			doSendMagicEffect(toPosition, CONST_ME_MAGIC_BLUE)
 			doAddCondition(cid, exhaust)
-		elseif(isInArray(alcoholDrinks, item.type)) then
-			if(not doTargetCombatCondition(0, cid, drunk, CONST_ME_NONE)) then
+		elseif (isInArray(alcoholDrinks, item.type)) then
+			if (not doTargetCombatCondition(0, cid, drunk, CONST_ME_NONE)) then
 				return false
 			end
 
 			doCreatureSay(cid, "Aaah...", TALKTYPE_MONSTER)
-		elseif(isInArray(poisonDrinks, item.type)) then
-			if(not doTargetCombatCondition(0, cid, poison, CONST_ME_NONE)) then
+		elseif (isInArray(poisonDrinks, item.type)) then
+			if (not doTargetCombatCondition(0, cid, poison, CONST_ME_NONE)) then
 				return false
 			end
 
@@ -88,10 +88,10 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 		return true
 	end
 
-	if(not isCreature(itemEx.uid)) then
-		if(item.type == TYPE_EMPTY) then
-			if(item.itemid == ITEM_RUM_FLASK and isInArray(DISTILLERY, itemEx.itemid)) then
-				if(itemEx.actionid == 100) then
+	if (not isCreature(itemEx.uid)) then
+		if (item.type == TYPE_EMPTY) then
+			if (item.itemid == ITEM_RUM_FLASK and isInArray(DISTILLERY, itemEx.itemid)) then
+				if (itemEx.actionid == 100) then
 					doItemEraseAttribute(itemEx.uid, "description")
 					doItemEraseAttribute(itemEx.uid, "aid")
 					doChangeTypeItem(item.uid, TYPE_RUM)
@@ -101,19 +101,19 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 				return true
 			end
 
-			if(isItemFluidContainer(itemEx.itemid) and itemEx.type ~= TYPE_EMPTY) then
+			if (isItemFluidContainer(itemEx.itemid) and itemEx.type ~= TYPE_EMPTY) then
 				doChangeTypeItem(item.uid, itemEx.type)
 				doChangeTypeItem(itemEx.uid, TYPE_EMPTY)
 				return true
 			end
 
-			if(casks[itemEx.itemid] ~= nil) then
+			if (casks[itemEx.itemid] ~= nil) then
 				doChangeTypeItem(item.uid, casks[itemEx.itemid])
 				return true
 			end
 
 			local fluidEx = getFluidSourceType(itemEx.itemid)
-			if(fluidEx ~= false) then
+			if (fluidEx ~= false) then
 				doChangeTypeItem(item.uid, fluidEx)
 				return true
 			end
@@ -122,13 +122,13 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 			return true
 		end
 
-		if(item.type == TYPE_OIL and oilLamps[itemEx.itemid] ~= nil) then
+		if (item.type == TYPE_OIL and oilLamps[itemEx.itemid] ~= nil) then
 			doTransformItem(itemEx.uid, oilLamps[itemEx.itemid])
 			doChangeTypeItem(item.uid, TYPE_NONE)
 			return true
 		end
 
-		if(hasProperty(itemEx.uid, CONST_PROP_BLOCKSOLID)) then
+		if (hasProperty(itemEx.uid, CONST_PROP_BLOCKSOLID)) then
 			return false
 		end
 	end

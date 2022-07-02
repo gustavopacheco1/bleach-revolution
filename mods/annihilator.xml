@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mod name="annihilator" version="1.0" author="The Forgotten Server" contact="otland.net" enabled="yes">
-	<config name="annihilator-config"><![CDATA[
+	<config name="annihilator-config">
+		<![CDATA[
 		levers = {
 			-- About array format:
 			--     unique id for the switch => quest info
@@ -52,9 +53,11 @@
 				doorId = 1219
 			}
 		}
-	]]></config>
+	]]>
+	</config>
 
-	<action uniqueid="30015" override="yes" event="script"><![CDATA[
+	<action uniqueid="30015" override="yes" event="script">
+		<![CDATA[
 		domodlib('annihilator-config')
 		local _levers = {}
 		for uid, lever in pairs(levers) do
@@ -135,5 +138,6 @@
 			doTransformItem(item.uid, item.itemid + 1)
 			return true
 		end
-	]]></action>
+	]]>
+	</action>
 </mod>

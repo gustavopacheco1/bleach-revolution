@@ -11,19 +11,19 @@ local coins = {
 }
 
 function onUse(cid, item, fromPosition, itemEx, toPosition)
-	if(getPlayerFlagValue(cid, PLAYERFLAG_CANNOTPICKUPITEM)) then
+	if (getPlayerFlagValue(cid, PLAYERFLAG_CANNOTPICKUPITEM)) then
 		return false
 	end
 
 	local coin = coins[item.itemid]
-	if(not coin) then
+	if (not coin) then
 		return false
 	end
 
-	if(coin.to ~= nil and item.type == ITEMCOUNT_MAX) then
+	if (coin.to ~= nil and item.type == ITEMCOUNT_MAX) then
 		doChangeTypeItem(item.uid, item.type - item.type)
 		doPlayerAddItem(cid, coin.to, 1)
-	elseif(coin.from ~= nil) then
+	elseif (coin.from ~= nil) then
 		doChangeTypeItem(item.uid, item.type - 1)
 		doPlayerAddItem(cid, coin.from, ITEMCOUNT_MAX)
 	end

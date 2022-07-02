@@ -22,68 +22,68 @@
 class Position;
 class Town
 {
-	public:
-		Town(uint32_t townId) {id = townId;}
-		virtual ~Town() {}
+public:
+	Town(uint32_t townId) { id = townId; }
+	virtual ~Town() {}
 
-		Position getPosition() const {return position;}
-		std::string getName() const {return name;}
+	Position getPosition() const { return position; }
+	std::string getName() const { return name; }
 
-		void setPosition(const Position& pos) {position = pos;}
-		void setName(const std::string& townName) {name = townName;}
+	void setPosition(const Position &pos) { position = pos; }
+	void setName(const std::string &townName) { name = townName; }
 
-		uint32_t getID() const {return id;}
+	uint32_t getID() const { return id; }
 
-	private:
-		uint32_t id;
-		std::string name;
-		Position position;
+private:
+	uint32_t id;
+	std::string name;
+	Position position;
 };
 
-typedef std::map<uint32_t, Town*> TownMap;
+typedef std::map<uint32_t, Town *> TownMap;
 class Towns
 {
-	public:
-		static Towns* getInstance()
+public:
+	static Towns *getInstance()
+	{
+		static Towns instance;
+		return &instance;
+	}
+
+	bool addTown(uint32_t townId, Town *town)
+	{
+		TownMap::iterator it = townMap.find(townId);
+		if (it != townMap.end())
+			return false;
+
+		townMap[townId] = town;
+		return true;
+	}
+
+	Town *getTown(const std::string &townName)
+	{
+		for (TownMap::iterator it = townMap.begin(); it != townMap.end(); ++it)
 		{
-			static Towns instance;
-			return &instance;
-		}
-
-		bool addTown(uint32_t townId, Town* town)
-		{
-			TownMap::iterator it = townMap.find(townId);
-			if(it != townMap.end())
-				return false;
-
-			townMap[townId] = town;
-			return true;
-		}
-
-		Town* getTown(const std::string& townName)
-		{
-			for(TownMap::iterator it = townMap.begin(); it != townMap.end(); ++it)
-			{
-				if(boost::algorithm::iequals(it->second->getName(), townName))
-					return it->second;
-			}
-
-			return NULL;
-		}
-
-		Town* getTown(uint32_t townId)
-		{
-			TownMap::iterator it = townMap.find(townId);
-			if(it != townMap.end())
+			if (boost::algorithm::iequals(it->second->getName(), townName))
 				return it->second;
-
-			return NULL;
 		}
 
-		TownMap::const_iterator getFirstTown() const {return townMap.begin();}
-		TownMap::const_iterator getLastTown() const {return townMap.end();}
+		return NULL;
+	}
 
-	private:
-		TownMap townMap;
+	Town *getTown(uint32_t townId)
+	{
+		TownMap::iterator it = townMap.find(townId);
+		if (it != townMap.end())
+			return it->second;
+
+		return NULL;
+	}
+
+	TownMap::const_iterator getFirstTown() const { return townMap.begin(); }
+	TownMap::const_iterator getLastTown() const { return townMap.end(); }
+
+private:
+	TownMap townMap;
 };
 #endif

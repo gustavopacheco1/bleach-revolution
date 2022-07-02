@@ -30,57 +30,56 @@
 
 class DatabaseSQLite : public _Database
 {
-	public:
-		DatabaseSQLite():
-			m_handle(NULL) {}
-		DATABASE_VIRTUAL ~DatabaseSQLite() {sqlite3_close(m_handle);}
+public:
+	DatabaseSQLite() : m_handle(NULL) {}
+	DATABASE_VIRTUAL ~DatabaseSQLite() { sqlite3_close(m_handle); }
 
-		DATABASE_VIRTUAL bool connect();
+	DATABASE_VIRTUAL bool connect();
 
-		DATABASE_VIRTUAL bool beginTransaction() {return query("BEGIN");}
-		DATABASE_VIRTUAL bool rollback() {return query("ROLLBACK");}
-		DATABASE_VIRTUAL bool commit() {return query("COMMIT");}
+	DATABASE_VIRTUAL bool beginTransaction() { return query("BEGIN"); }
+	DATABASE_VIRTUAL bool rollback() { return query("ROLLBACK"); }
+	DATABASE_VIRTUAL bool commit() { return query("COMMIT"); }
 
-		DATABASE_VIRTUAL bool query(std::string query);
-		DATABASE_VIRTUAL DBResult* storeQuery(std::string query);
+	DATABASE_VIRTUAL bool query(std::string query);
+	DATABASE_VIRTUAL DBResult *storeQuery(std::string query);
 
-		DATABASE_VIRTUAL std::string escapeString(std::string s);
-		DATABASE_VIRTUAL std::string escapeBlob(const char* s, uint32_t length);
+	DATABASE_VIRTUAL std::string escapeString(std::string s);
+	DATABASE_VIRTUAL std::string escapeBlob(const char *s, uint32_t length);
 
-		DATABASE_VIRTUAL uint64_t getLastInsertId() {return (uint64_t)sqlite3_last_insert_rowid(m_handle);}
+	DATABASE_VIRTUAL uint64_t getLastInsertId() { return (uint64_t)sqlite3_last_insert_rowid(m_handle); }
 
-		DATABASE_VIRTUAL std::string getStringComparer() {return "LIKE ";}
-		DATABASE_VIRTUAL std::string getUpdateLimiter() {return ";";}
-		DATABASE_VIRTUAL DatabaseEngine_t getDatabaseEngine() {return DATABASE_ENGINE_SQLITE;}
+	DATABASE_VIRTUAL std::string getStringComparer() { return "LIKE "; }
+	DATABASE_VIRTUAL std::string getUpdateLimiter() { return ";"; }
+	DATABASE_VIRTUAL DatabaseEngine_t getDatabaseEngine() { return DATABASE_ENGINE_SQLITE; }
 
-	protected:
-		std::string _parse(const std::string& s);
+protected:
+	std::string _parse(const std::string &s);
 
-		boost::recursive_mutex sqliteLock;
-		sqlite3* m_handle;
+	boost::recursive_mutex sqliteLock;
+	sqlite3 *m_handle;
 };
 
 class SQLiteResult : public _DBResult
 {
 	friend class DatabaseSQLite;
 
-	public:
-		DATABASE_VIRTUAL int32_t getDataInt(const std::string& s);
-		DATABASE_VIRTUAL int64_t getDataLong(const std::string& s);
-		DATABASE_VIRTUAL std::string getDataString(const std::string& s);
-		DATABASE_VIRTUAL const char* getDataStream(const std::string& s, uint64_t& size);
+public:
+	DATABASE_VIRTUAL int32_t getDataInt(const std::string &s);
+	DATABASE_VIRTUAL int64_t getDataLong(const std::string &s);
+	DATABASE_VIRTUAL std::string getDataString(const std::string &s);
+	DATABASE_VIRTUAL const char *getDataStream(const std::string &s, uint64_t &size);
 
-		DATABASE_VIRTUAL void free();
-		DATABASE_VIRTUAL bool next() {return sqlite3_step(m_handle) == SQLITE_ROW;}
+	DATABASE_VIRTUAL void free();
+	DATABASE_VIRTUAL bool next() { return sqlite3_step(m_handle) == SQLITE_ROW; }
 
-	protected:
-		SQLiteResult(sqlite3_stmt* stmt);
-		DATABASE_VIRTUAL ~SQLiteResult();
+protected:
+	SQLiteResult(sqlite3_stmt *stmt);
+	DATABASE_VIRTUAL ~SQLiteResult();
 
-		typedef std::map<const std::string, uint32_t> listNames_t;
-		listNames_t m_listNames;
+	typedef std::map<const std::string, uint32_t> listNames_t;
+	listNames_t m_listNames;
 
-		sqlite3_stmt* m_handle;
+	sqlite3_stmt *m_handle;
 };
 #endif
 #endif

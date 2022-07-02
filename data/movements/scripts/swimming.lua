@@ -1,9 +1,9 @@
-local outfit = {lookType = 267, lookHead = 0, lookBody = 0, lookLegs = 0, lookFeet = 0, lookTypeEx = 0, lookAddons = 0}
+local outfit = { lookType = 267, lookHead = 0, lookBody = 0, lookLegs = 0, lookFeet = 0, lookTypeEx = 0, lookAddons = 0 }
 
 function onStepIn(cid, item, position, lastPosition, fromPosition, toPosition, actor)
-	if(hasCondition(cid, CONDITION_OUTFIT, 0, CONDITIONID_COMBAT) and getCreatureOutfit(cid).lookType == outfit.lookType) then
+	if (hasCondition(cid, CONDITION_OUTFIT, 0, CONDITIONID_COMBAT) and getCreatureOutfit(cid).lookType == outfit.lookType) then
 		doRemoveCondition(cid, CONDITION_OUTFIT)
-		if(not isPlayerGhost(cid)) then
+		if (not isPlayerGhost(cid)) then
 			doSendMagicEffect(position, CONST_ME_POFF)
 		end
 	end
@@ -12,17 +12,17 @@ function onStepIn(cid, item, position, lastPosition, fromPosition, toPosition, a
 end
 
 function onStepOut(cid, item, position, lastPosition, fromPosition, toPosition, actor)
-	if(not isPlayer(cid)) then
+	if (not isPlayer(cid)) then
 		return true
 	end
 
 	local tmp = getTileInfo(toPosition)
-	if(tmp.trashHolder) then
-		if(doTileQueryAdd(cid, toPosition, 4) ~= RETURNVALUE_NOERROR) then
+	if (tmp.trashHolder) then
+		if (doTileQueryAdd(cid, toPosition, 4) ~= RETURNVALUE_NOERROR) then
 			return false
 		end
 
-		if(not isPlayerGhost(cid)) then
+		if (not isPlayerGhost(cid)) then
 			doSendMagicEffect(fromPosition, CONST_ME_POFF)
 			doSendMagicEffect(toPosition, CONST_ME_WATERSPLASH)
 		end

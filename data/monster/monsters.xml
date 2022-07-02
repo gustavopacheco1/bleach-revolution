@@ -23,7 +23,7 @@
 	<monster name="Wolf" file="hunt/Wolf.xml"/>
 	<monster name="Bandit" file="hunt/Bandit.xml"/>
 	<monster name="Elite Bandit" file="hunt/Elite Bandit.xml"/>
-    <monster name="Grown Hollow" file="hunt/Grown Hollow.xml"/>
+	<monster name="Grown Hollow" file="hunt/Grown Hollow.xml"/>
 	<monster name="Barragan Soldier" file="hunt/Barragan Soldier.xml"/>
 	<monster name="Mugetsu" file="hunt/Mugetsu.xml"/>
 	<monster name="Espada" file="hunt/Espada.xml"/>
@@ -35,7 +35,7 @@
 	<monster name="Jagdarmee" file="hunt/Jagdarmee.xml"/>
 	<monster name="Urahara" file="hunt/Urahara.xml"/>
 	<monster name="Urahara Two" file="hunt/Urahara Two.xml"/>
-    <monster name="Urahara Three" file="hunt/Urahara Three.xml"/>
+	<monster name="Urahara Three" file="hunt/Urahara Three.xml"/>
 	<monster name="Legendary Grand Fisher" file="hunt/Legendary Grand Fisher.xml"/>
 	<monster name="Mugetsu Especial" file="hunt/Mugetsu Especial.xml"/>
 	<monster name="Nnoitra Two" file="hunt/Nnoitra Two.xml"/>
@@ -68,7 +68,7 @@
 	<monster name="Especial Hollow Snake" file="hunt/Especial Hollow Snake.xml"/>
 	<monster name="Fake Zaraki" file="hunt/Fake Zaraki.xml"/>
 	<monster name="Zaraki Legendary" file="hunt/Zaraki Legendary.xml"/>
-    <monster name="Vizard" file="hunt/Vizard.xml"/>
+	<monster name="Vizard" file="hunt/Vizard.xml"/>
 	<monster name="Vizard One" file="hunt/Vizard One.xml"/>
 	<monster name="Vizard Two" file="hunt/Vizard Two.xml"/>
 	<monster name="Vizard Three" file="hunt/Vizard Three.xml"/>

@@ -27,22 +27,22 @@
 extern ConfigManager g_config;
 extern Game g_game;
 
-ReturnValue Mailbox::canSend(const Item* item, Creature* actor) const
+ReturnValue Mailbox::canSend(const Item *item, Creature *actor) const
 {
-	if(item->getID() != ITEM_PARCEL && item->getID() != ITEM_LETTER)
+	if (item->getID() != ITEM_PARCEL && item->getID() != ITEM_LETTER)
 		return RET_NOTPOSSIBLE;
 
-	if(actor)
+	if (actor)
 	{
-		if(Player* player = actor->getPlayer())
+		if (Player *player = actor->getPlayer())
 		{
-			if(player->hasCondition(CONDITION_MUTED, 2))
+			if (player->hasCondition(CONDITION_MUTED, 2))
 				return RET_YOUAREEXHAUSTED;
 
-			if(player->getMailAttempts() >= g_config.getNumber(ConfigManager::MAIL_ATTEMPTS))
+			if (player->getMailAttempts() >= g_config.getNumber(ConfigManager::MAIL_ATTEMPTS))
 			{
-				if(Condition* condition = Condition::createCondition(CONDITIONID_DEFAULT,
-					CONDITION_MUTED, g_config.getNumber(ConfigManager::MAIL_BLOCK), 0, false, 2))
+				if (Condition *condition = Condition::createCondition(CONDITIONID_DEFAULT,
+																	  CONDITION_MUTED, g_config.getNumber(ConfigManager::MAIL_BLOCK), 0, false, 2))
 				{
 					player->addCondition(condition);
 					player->setLastMail(1); // auto erase
@@ -59,53 +59,53 @@ ReturnValue Mailbox::canSend(const Item* item, Creature* actor) const
 	return RET_NOERROR;
 }
 
-ReturnValue Mailbox::__queryAdd(int32_t, const Thing* thing, uint32_t,
-	uint32_t, Creature* actor/* = NULL*/) const
+ReturnValue Mailbox::__queryAdd(int32_t, const Thing *thing, uint32_t,
+								uint32_t, Creature *actor /* = NULL*/) const
 {
-	if(const Item* item = thing->getItem())
+	if (const Item *item = thing->getItem())
 		return canSend(item, actor);
 
 	return RET_NOTPOSSIBLE;
 }
 
-ReturnValue Mailbox::__queryMaxCount(int32_t, const Thing*, uint32_t count, uint32_t& maxQueryCount,
-	uint32_t) const
+ReturnValue Mailbox::__queryMaxCount(int32_t, const Thing *, uint32_t count, uint32_t &maxQueryCount,
+									 uint32_t) const
 {
 	maxQueryCount = std::max((uint32_t)1, count);
 	return RET_NOERROR;
 }
 
-void Mailbox::__addThing(Creature* actor, int32_t, Thing* thing)
+void Mailbox::__addThing(Creature *actor, int32_t, Thing *thing)
 {
-	Item* item = thing->getItem();
-	if(!item)
+	Item *item = thing->getItem();
+	if (!item)
 		return;
 
-	if(canSend(item, actor) == RET_NOERROR)
+	if (canSend(item, actor) == RET_NOERROR)
 		sendItem(actor, item);
 }
 
-bool Mailbox::sendItem(Creature* actor, Item* item)
+bool Mailbox::sendItem(Creature *actor, Item *item)
 {
 	uint32_t depotId = 0;
 	std::string name;
-	if(!getRecipient(item, name, depotId) || name.empty() || !depotId)
+	if (!getRecipient(item, name, depotId) || name.empty() || !depotId)
 		return false;
 
 	return IOLoginData::getInstance()->playerMail(actor, name, depotId, item);
 }
 
-bool Mailbox::getDepotId(const std::string& townString, uint32_t& depotId)
+bool Mailbox::getDepotId(const std::string &townString, uint32_t &depotId)
 {
-	Town* town = Towns::getInstance()->getTown(townString);
-	if(!town)
+	Town *town = Towns::getInstance()->getTown(townString);
+	if (!town)
 		return false;
 
 	std::string disabledTowns = g_config.getString(ConfigManager::MAILBOX_DISABLED_TOWNS);
-	if(disabledTowns.size())
+	if (disabledTowns.size())
 	{
 		IntegerVec tmpVec = vectorAtoi(explodeString(disabledTowns, ","));
-		if(tmpVec[0] != 0 && std::find(tmpVec.begin(), tmpVec.end(), town->getID()) != tmpVec.end())
+		if (tmpVec[0] != 0 && std::find(tmpVec.begin(), tmpVec.end(), town->getID()) != tmpVec.end())
 			return false;
 	}
 
@@ -113,18 +113,18 @@ bool Mailbox::getDepotId(const std::string& townString, uint32_t& depotId)
 	return true;
 }
 
-bool Mailbox::getRecipient(Item* item, std::string& name, uint32_t& depotId)
+bool Mailbox::getRecipient(Item *item, std::string &name, uint32_t &depotId)
 {
-	if(!item)
+	if (!item)
 		return false;
 
-	if(item->getID() == ITEM_PARCEL) /**We need to get the text from the label incase its a parcel**/
+	if (item->getID() == ITEM_PARCEL) /**We need to get the text from the label incase its a parcel**/
 	{
-		if(Container* parcel = item->getContainer())
+		if (Container *parcel = item->getContainer())
 		{
-			for(ItemList::const_iterator cit = parcel->getItems(); cit != parcel->getEnd(); ++cit)
+			for (ItemList::const_iterator cit = parcel->getItems(); cit != parcel->getEnd(); ++cit)
 			{
-				if((*cit)->getID() == ITEM_LABEL && !(*cit)->getText().empty())
+				if ((*cit)->getID() == ITEM_LABEL && !(*cit)->getText().empty())
 				{
 					item = (*cit);
 					break;
@@ -132,31 +132,31 @@ bool Mailbox::getRecipient(Item* item, std::string& name, uint32_t& depotId)
 			}
 		}
 	}
-	else if(item->getID() != ITEM_LETTER) // The item is somehow not a parcel or letter
+	else if (item->getID() != ITEM_LETTER) // The item is somehow not a parcel or letter
 	{
 		std::clog << "[Error - Mailbox::getReciver] Trying to get receiver from unkown item with id: " << item->getID() << "!" << std::endl;
 		return false;
 	}
 
-	if(!item || item->getText().empty()) // No label or letter found or its empty
+	if (!item || item->getText().empty()) // No label or letter found or its empty
 		return false;
 
 	std::istringstream iss(item->getText(), std::istringstream::in);
 	uint32_t curLine = 0;
 
 	std::string tmp, townString;
-	while(getline(iss, tmp, '\n') && curLine < 2)
+	while (getline(iss, tmp, '\n') && curLine < 2)
 	{
-		if(curLine == 0)
+		if (curLine == 0)
 			name = tmp;
-		else if(curLine == 1)
+		else if (curLine == 1)
 			townString = tmp;
 
 		++curLine;
 	}
 
 	trimString(name);
-	if(townString.empty())
+	if (townString.empty())
 		return false;
 
 	trimString(townString);

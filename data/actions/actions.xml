@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <actions>
 	<!-- Default script, responsible for destroyItem -->
-	<action default="yes" event="script" value="default.lua" />
+	<action default="yes" event="script" value="default.lua"/>
 
 	<!-- Potions -->
 	<action itemid="16111;16112;16113;16114;16116;16117;16118" event="script" value="potions.lua"/>
 
 	<!-- Weapon Soul Upgrade -->
-	<action itemid="10624;10625;10626;10627;15820;15122;15411;15730;15819;15431;15091;15823;15423;15424" event="script" value="weapon_soul_upgrade.lua" />
+	<action itemid="10624;10625;10626;10627;15820;15122;15411;15730;15819;15431;15091;15823;15423;15424" event="script" value="weapon_soul_upgrade.lua"/>
 
 	<!-- Levers -->
-	<action itemid="1945;1946" script="levers/levers.lua" />
-	<action uniqueid="30001" script="levers/anihilator.lua" />
+	<action itemid="1945;1946" script="levers/levers.lua"/>
+	<action uniqueid="30001" script="levers/anihilator.lua"/>
 
 	<!-- Quests -->
-	<action itemid="15661" script="quest_chests.lua" />
+	<action itemid="15661" script="quest_chests.lua"/>
 
 	<!-- Tools -->
 	<action itemid="2420;2442" event="script" value="tools/machete.lua"/>
@@ -25,126 +25,126 @@
 	<action itemid="2553" event="script" value="tools/pick.lua"/>
 
 	<!-- Food -->
-	<action itemid="2328;2362-2363;2666-2669;2671-2689;2691;2693;2695-2696;2787-2796;5097;6125;6278;6279;6394;6501;6541;6545:6569;6574;7158;7159;7372-7377;7909;8838-8845;8847;9005;9996" event="script" value="other/food.lua" />
+	<action itemid="2328;2362-2363;2666-2669;2671-2689;2691;2693;2695-2696;2787-2796;5097;6125;6278;6279;6394;6501;6541;6545:6569;6574;7158;7159;7372-7377;7909;8838-8845;8847;9005;9996" event="script" value="other/food.lua"/>
 
 	<!-- Decay To -->
-	<action itemid="2041-2042;2044-2045;2047-2048;2050-2055;5812-5813;7183-7184;9006-9007;9976-9979" event="script" value="other/decayto.lua" />
+	<action itemid="2041-2042;2044-2045;2047-2048;2050-2055;5812-5813;7183-7184;9006-9007;9976-9979" event="script" value="other/decayto.lua"/>
 
 	<!-- Change gold -->
-	<action itemid="2148;2152;2160" event="script" value="other/changegold.lua" />
+	<action itemid="2148;2152;2160" event="script" value="other/changegold.lua"/>
 
 	<!-- Teleport (stairs, ladders) -->
-	<action itemid="430;1386;1369;3678;5543;8580;8599;10035" event="script" value="other/teleport.lua" />
+	<action itemid="430;1386;1369;3678;5543;8580;8599;10035" event="script" value="other/teleport.lua"/>
 
 	<!-- Windows -->
-	<action itemid="5303-5305;6436-6473;6788-6791;7025-7032;10264-10267;10488-10491" event="script" value="other/windows.lua" />
+	<action itemid="5303-5305;6436-6473;6788-6791;7025-7032;10264-10267;10488-10491" event="script" value="other/windows.lua"/>
 
 	<!-- Doors -->
-	<action itemid="1209-1214;1219-1262;1539-1542;2086-2092;3535-3552;4913-4918;5082-5085;5098-5145;5278-5295;5515-5518;5732-5737;5745-5749;6192-6209;6249-6266;6795-6802;6891-6908;7033-7050;7054-7057;8541-8558;9165-9184;9267-9284;10268-10285;10468-10486;10775-10792" event="script" value="other/doors.lua" />
+	<action itemid="1209-1214;1219-1262;1539-1542;2086-2092;3535-3552;4913-4918;5082-5085;5098-5145;5278-5295;5515-5518;5732-5737;5745-5749;6192-6209;6249-6266;6795-6802;6891-6908;7033-7050;7054-7057;8541-8558;9165-9184;9267-9284;10268-10285;10468-10486;10775-10792" event="script" value="other/doors.lua"/>
 
 	<!-- Teleports -->
-	<action uniqueid="20000;20001;20002;20003" script="teleports/teleports.lua" />
+	<action uniqueid="20000;20001;20002;20003" script="teleports/teleports.lua"/>
 
 	<!-- Other -->
 	<action itemid="2036;1728;1877;6091;8187" event="script" value="other/watch.lua"/>
-	<action itemid="2096;2566" event="script" value="other/pumpkinhead.lua" />
-	<action itemid="2114" event="script" value="other/piggybank.lua" />
-	<action itemid="5792-5797" event="script" value="other/dice.lua" />
-	<action itemid="6576" event="script" value="other/fireworksrocket.lua" />
-	<action itemid="5791" event="script" value="other/stuffeddragon.lua" />
-	<action itemid="3901-3938;5086-5088;6114-6115;6372-6373;7700;7960-7962;8692-8693;10295" event="script" value="other/constructionkits.lua" />
-	<action itemid="2175;6120;8900-8904;8918" event="script" value="other/spellbook.lua" />
-	<action itemid="7904-7907" event="script" value="other/furniturebeds.lua" />
-	<action itemid="2692;2694" event="script" value="other/createbread.lua" />
-	<action itemid="1775;2005;2006;2007;2008;2009;2011;2012;2013;2014;2015;2023;2031;2032;2033;2034;2562;2574;2575;2576;2577;3941;3942;5553;10150" event="script" value="other/containers.lua" />
-	<action itemid="2293" event="script" allowfaruse="1" blockwalls="1" value="other/magic_wall.lua" />
+	<action itemid="2096;2566" event="script" value="other/pumpkinhead.lua"/>
+	<action itemid="2114" event="script" value="other/piggybank.lua"/>
+	<action itemid="5792-5797" event="script" value="other/dice.lua"/>
+	<action itemid="6576" event="script" value="other/fireworksrocket.lua"/>
+	<action itemid="5791" event="script" value="other/stuffeddragon.lua"/>
+	<action itemid="3901-3938;5086-5088;6114-6115;6372-6373;7700;7960-7962;8692-8693;10295" event="script" value="other/constructionkits.lua"/>
+	<action itemid="2175;6120;8900-8904;8918" event="script" value="other/spellbook.lua"/>
+	<action itemid="7904-7907" event="script" value="other/furniturebeds.lua"/>
+	<action itemid="2692;2694" event="script" value="other/createbread.lua"/>
+	<action itemid="1775;2005;2006;2007;2008;2009;2011;2012;2013;2014;2015;2023;2031;2032;2033;2034;2562;2574;2575;2576;2577;3941;3942;5553;10150" event="script" value="other/containers.lua"/>
+	<action itemid="2293" event="script" allowfaruse="1" blockwalls="1" value="other/magic_wall.lua"/>
 
 	<!-- Increase/Decrease ItemId -->
-	<action itemid="461" event="function" value="increaseItemId" />
-	<action itemid="462" event="function" value="decreaseItemId" />
-	<action itemid="1873" event="function" value="increaseItemId" />
-	<action itemid="1874" event="function" value="decreaseItemId" />
-	<action itemid="1875" event="function" value="increaseItemId" />
-	<action itemid="1876" event="function" value="decreaseItemId" />
-	<action itemid="2162" event="function" value="increaseItemId" />
-	<action itemid="2163" event="function" value="decreaseItemId" />
-	<action itemid="3743" event="function" value="increaseItemId" />
-	<action itemid="3744" event="function" value="decreaseItemId" />
-	<action itemid="3947" event="function" value="increaseItemId" />
-	<action itemid="3948" event="function" value="decreaseItemId" />
-	<action itemid="1479" event="function" value="increaseItemId" />
-	<action itemid="1480" event="function" value="decreaseItemId" />
-	<action itemid="1945" event="function" value="increaseItemId" />
-	<action itemid="1946" event="function" value="decreaseItemId" />
-	<action itemid="2037" event="function" value="increaseItemId" />
-	<action itemid="2038" event="function" value="decreaseItemId" />
-	<action itemid="2039" event="function" value="increaseItemId" />
-	<action itemid="2040" event="function" value="decreaseItemId" />
-	<action itemid="2058" event="function" value="increaseItemId" />
-	<action itemid="2059" event="function" value="decreaseItemId" />
-	<action itemid="2060" event="function" value="increaseItemId" />
-	<action itemid="2061" event="function" value="decreaseItemId" />
-	<action itemid="2066" event="function" value="increaseItemId" />
-	<action itemid="2067" event="function" value="decreaseItemId" />
-	<action itemid="2068" event="function" value="increaseItemId" />
-	<action itemid="2069" event="function" value="decreaseItemId" />
-	<action itemid="2064" event="function" value="increaseItemId" />
-	<action itemid="2065" event="function" value="decreaseItemId" />
-	<action itemid="2578" event="function" value="increaseItemId" />
-	<action itemid="1786" event="function" value="increaseItemId" />
-	<action itemid="1787" event="function" value="decreaseItemId" />
-	<action itemid="1788" event="function" value="increaseItemId" />
-	<action itemid="1789" event="function" value="decreaseItemId" />
-	<action itemid="1790" event="function" value="increaseItemId" />
-	<action itemid="1791" event="function" value="decreaseItemId" />
-	<action itemid="1792" event="function" value="increaseItemId" />
-	<action itemid="1793" event="function" value="decreaseItemId" />
-	<action itemid="1634" event="function" value="increaseItemId" />
-	<action itemid="1635" event="function" value="decreaseItemId" />
-	<action itemid="1636" event="function" value="increaseItemId" />
-	<action itemid="1637" event="function" value="decreaseItemId" />
-	<action itemid="1638" event="function" value="increaseItemId" />
-	<action itemid="1639" event="function" value="decreaseItemId" />
-	<action itemid="1640" event="function" value="increaseItemId" />
-	<action itemid="1641" event="function" value="decreaseItemId" />
-	<action itemid="7058" event="function" value="increaseItemId" />
-	<action itemid="7059" event="function" value="decreaseItemId" />
-	<action itemid="8684" event="function" value="increaseItemId" />
-	<action itemid="8685" event="function" value="decreaseItemId" />
-	<action itemid="8686" event="function" value="increaseItemId" />
-	<action itemid="8687" event="function" value="decreaseItemId" />
-	<action itemid="8688" event="function" value="increaseItemId" />
-	<action itemid="8689" event="function" value="decreaseItemId" />
-	<action itemid="8690" event="function" value="increaseItemId" />
-	<action itemid="8691" event="function" value="decreaseItemId" />
-	<action itemid="9575" event="function" value="increaseItemId" />
-	<action itemid="9576" event="function" value="decreaseItemId" />
-	<action itemid="9577" event="function" value="increaseItemId" />
-	<action itemid="9578" event="function" value="decreaseItemId" />
-	<action itemid="9579" event="function" value="increaseItemId" />
-	<action itemid="9580" event="function" value="decreaseItemId" />
-	<action itemid="9581" event="function" value="increaseItemId" />
-	<action itemid="9582" event="function" value="decreaseItemId" />
-	<action itemid="9624" event="function" value="increaseItemId" />
-	<action itemid="9625" event="function" value="decreaseItemId" />
-	<action itemid="9747" event="function" value="increaseItemId" />
-	<action itemid="9748" event="function" value="decreaseItemId" />
-	<action itemid="9749" event="function" value="increaseItemId" />
-	<action itemid="9750" event="function" value="decreaseItemId" />
-	<action itemid="9825" event="function" value="increaseItemId" />
-	<action itemid="9826" event="function" value="decreaseItemId" />
-	<action itemid="9827" event="function" value="increaseItemId" />
-	<action itemid="9828" event="function" value="decreaseItemId" />
-	<action itemid="9973" event="function" value="increaseItemId" />
-	<action itemid="9974" event="function" value="decreaseItemId" />
-	<action itemid="10044" event="function" value="increaseItemId" />
-	<action itemid="10045" event="function" value="decreaseItemId" />
-	<action itemid="10971" event="function" value="increaseItemId" />
-	<action itemid="10972" event="function" value="decreaseItemId" />
-	<action itemid="10973" event="function" value="increaseItemId" />
-	<action itemid="10974" event="function" value="decreaseItemId" />
-	<action itemid="10999" event="function" value="increaseItemId" />
-	<action itemid="11000" event="function" value="decreaseItemId" />
-	<action itemid="11001" event="function" value="increaseItemId" />
-	<action itemid="11002" event="function" value="decreaseItemId" />
+	<action itemid="461" event="function" value="increaseItemId"/>
+	<action itemid="462" event="function" value="decreaseItemId"/>
+	<action itemid="1873" event="function" value="increaseItemId"/>
+	<action itemid="1874" event="function" value="decreaseItemId"/>
+	<action itemid="1875" event="function" value="increaseItemId"/>
+	<action itemid="1876" event="function" value="decreaseItemId"/>
+	<action itemid="2162" event="function" value="increaseItemId"/>
+	<action itemid="2163" event="function" value="decreaseItemId"/>
+	<action itemid="3743" event="function" value="increaseItemId"/>
+	<action itemid="3744" event="function" value="decreaseItemId"/>
+	<action itemid="3947" event="function" value="increaseItemId"/>
+	<action itemid="3948" event="function" value="decreaseItemId"/>
+	<action itemid="1479" event="function" value="increaseItemId"/>
+	<action itemid="1480" event="function" value="decreaseItemId"/>
+	<action itemid="1945" event="function" value="increaseItemId"/>
+	<action itemid="1946" event="function" value="decreaseItemId"/>
+	<action itemid="2037" event="function" value="increaseItemId"/>
+	<action itemid="2038" event="function" value="decreaseItemId"/>
+	<action itemid="2039" event="function" value="increaseItemId"/>
+	<action itemid="2040" event="function" value="decreaseItemId"/>
+	<action itemid="2058" event="function" value="increaseItemId"/>
+	<action itemid="2059" event="function" value="decreaseItemId"/>
+	<action itemid="2060" event="function" value="increaseItemId"/>
+	<action itemid="2061" event="function" value="decreaseItemId"/>
+	<action itemid="2066" event="function" value="increaseItemId"/>
+	<action itemid="2067" event="function" value="decreaseItemId"/>
+	<action itemid="2068" event="function" value="increaseItemId"/>
+	<action itemid="2069" event="function" value="decreaseItemId"/>
+	<action itemid="2064" event="function" value="increaseItemId"/>
+	<action itemid="2065" event="function" value="decreaseItemId"/>
+	<action itemid="2578" event="function" value="increaseItemId"/>
+	<action itemid="1786" event="function" value="increaseItemId"/>
+	<action itemid="1787" event="function" value="decreaseItemId"/>
+	<action itemid="1788" event="function" value="increaseItemId"/>
+	<action itemid="1789" event="function" value="decreaseItemId"/>
+	<action itemid="1790" event="function" value="increaseItemId"/>
+	<action itemid="1791" event="function" value="decreaseItemId"/>
+	<action itemid="1792" event="function" value="increaseItemId"/>
+	<action itemid="1793" event="function" value="decreaseItemId"/>
+	<action itemid="1634" event="function" value="increaseItemId"/>
+	<action itemid="1635" event="function" value="decreaseItemId"/>
+	<action itemid="1636" event="function" value="increaseItemId"/>
+	<action itemid="1637" event="function" value="decreaseItemId"/>
+	<action itemid="1638" event="function" value="increaseItemId"/>
+	<action itemid="1639" event="function" value="decreaseItemId"/>
+	<action itemid="1640" event="function" value="increaseItemId"/>
+	<action itemid="1641" event="function" value="decreaseItemId"/>
+	<action itemid="7058" event="function" value="increaseItemId"/>
+	<action itemid="7059" event="function" value="decreaseItemId"/>
+	<action itemid="8684" event="function" value="increaseItemId"/>
+	<action itemid="8685" event="function" value="decreaseItemId"/>
+	<action itemid="8686" event="function" value="increaseItemId"/>
+	<action itemid="8687" event="function" value="decreaseItemId"/>
+	<action itemid="8688" event="function" value="increaseItemId"/>
+	<action itemid="8689" event="function" value="decreaseItemId"/>
+	<action itemid="8690" event="function" value="increaseItemId"/>
+	<action itemid="8691" event="function" value="decreaseItemId"/>
+	<action itemid="9575" event="function" value="increaseItemId"/>
+	<action itemid="9576" event="function" value="decreaseItemId"/>
+	<action itemid="9577" event="function" value="increaseItemId"/>
+	<action itemid="9578" event="function" value="decreaseItemId"/>
+	<action itemid="9579" event="function" value="increaseItemId"/>
+	<action itemid="9580" event="function" value="decreaseItemId"/>
+	<action itemid="9581" event="function" value="increaseItemId"/>
+	<action itemid="9582" event="function" value="decreaseItemId"/>
+	<action itemid="9624" event="function" value="increaseItemId"/>
+	<action itemid="9625" event="function" value="decreaseItemId"/>
+	<action itemid="9747" event="function" value="increaseItemId"/>
+	<action itemid="9748" event="function" value="decreaseItemId"/>
+	<action itemid="9749" event="function" value="increaseItemId"/>
+	<action itemid="9750" event="function" value="decreaseItemId"/>
+	<action itemid="9825" event="function" value="increaseItemId"/>
+	<action itemid="9826" event="function" value="decreaseItemId"/>
+	<action itemid="9827" event="function" value="increaseItemId"/>
+	<action itemid="9828" event="function" value="decreaseItemId"/>
+	<action itemid="9973" event="function" value="increaseItemId"/>
+	<action itemid="9974" event="function" value="decreaseItemId"/>
+	<action itemid="10044" event="function" value="increaseItemId"/>
+	<action itemid="10045" event="function" value="decreaseItemId"/>
+	<action itemid="10971" event="function" value="increaseItemId"/>
+	<action itemid="10972" event="function" value="decreaseItemId"/>
+	<action itemid="10973" event="function" value="increaseItemId"/>
+	<action itemid="10974" event="function" value="decreaseItemId"/>
+	<action itemid="10999" event="function" value="increaseItemId"/>
+	<action itemid="11000" event="function" value="decreaseItemId"/>
+	<action itemid="11001" event="function" value="increaseItemId"/>
+	<action itemid="11002" event="function" value="decreaseItemId"/>
 </actions>

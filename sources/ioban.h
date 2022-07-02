@@ -59,52 +59,52 @@ typedef std::vector<Ban> BansVec;
 
 class IOBan
 {
-	protected:
-		IOBan() {}
+protected:
+	IOBan() {}
 
-	public:
-		virtual ~IOBan() {}
-		static IOBan* getInstance()
-		{
-			static IOBan instance;
-			return &instance;
-		}
+public:
+	virtual ~IOBan() {}
+	static IOBan *getInstance()
+	{
+		static IOBan instance;
+		return &instance;
+	}
 
-		bool isIpBanished(uint32_t ip, uint32_t mask = 0xFFFFFFFF) const;
-		bool isPlayerBanished(uint32_t guid, PlayerBan_t type) const;
-		bool isPlayerBanished(std::string name, PlayerBan_t type) const;
-		bool isAccountBanished(uint32_t account, uint32_t playerId = 0) const;
+	bool isIpBanished(uint32_t ip, uint32_t mask = 0xFFFFFFFF) const;
+	bool isPlayerBanished(uint32_t guid, PlayerBan_t type) const;
+	bool isPlayerBanished(std::string name, PlayerBan_t type) const;
+	bool isAccountBanished(uint32_t account, uint32_t playerId = 0) const;
 
-		bool addIpBanishment(uint32_t ip, int64_t banTime, uint32_t reasonId,
-			std::string comment, uint32_t gamemaster, uint32_t mask = 0xFFFFFFFF, std::string statement = "") const;
-		bool addPlayerBanishment(uint32_t playerId, int64_t banTime, uint32_t reasonId, ViolationAction_t actionId,
-			std::string comment, uint32_t gamemaster, PlayerBan_t type, std::string statement = "") const;
-		bool addPlayerBanishment(std::string name, int64_t banTime, uint32_t reasonId, ViolationAction_t actionId,
-			std::string comment, uint32_t gamemaster, PlayerBan_t type, std::string statement = "") const;
-		bool addAccountBanishment(uint32_t account, int64_t banTime, uint32_t reasonId, ViolationAction_t actionId,
-			std::string comment, uint32_t gamemaster, uint32_t playerId, std::string statement = "") const;
-		bool addNotation(uint32_t account, uint32_t reasonId,
-			std::string comment, uint32_t gamemaster, uint32_t playerId, std::string statement = "") const;
-		bool addStatement(uint32_t playerId, uint32_t reasonId,
-			std::string comment, uint32_t gamemaster, int16_t channelId = -1, std::string statement = "") const;
-		bool addStatement(std::string name, uint32_t reasonId,
-			std::string comment, uint32_t gamemaster, int16_t channelId = -1, std::string statement = "") const;
+	bool addIpBanishment(uint32_t ip, int64_t banTime, uint32_t reasonId,
+						 std::string comment, uint32_t gamemaster, uint32_t mask = 0xFFFFFFFF, std::string statement = "") const;
+	bool addPlayerBanishment(uint32_t playerId, int64_t banTime, uint32_t reasonId, ViolationAction_t actionId,
+							 std::string comment, uint32_t gamemaster, PlayerBan_t type, std::string statement = "") const;
+	bool addPlayerBanishment(std::string name, int64_t banTime, uint32_t reasonId, ViolationAction_t actionId,
+							 std::string comment, uint32_t gamemaster, PlayerBan_t type, std::string statement = "") const;
+	bool addAccountBanishment(uint32_t account, int64_t banTime, uint32_t reasonId, ViolationAction_t actionId,
+							  std::string comment, uint32_t gamemaster, uint32_t playerId, std::string statement = "") const;
+	bool addNotation(uint32_t account, uint32_t reasonId,
+					 std::string comment, uint32_t gamemaster, uint32_t playerId, std::string statement = "") const;
+	bool addStatement(uint32_t playerId, uint32_t reasonId,
+					  std::string comment, uint32_t gamemaster, int16_t channelId = -1, std::string statement = "") const;
+	bool addStatement(std::string name, uint32_t reasonId,
+					  std::string comment, uint32_t gamemaster, int16_t channelId = -1, std::string statement = "") const;
 
-		bool removeIpBanishment(uint32_t ip, uint32_t mask = 0xFFFFFFFF) const;
-		bool removePlayerBanishment(uint32_t guid, PlayerBan_t type) const;
-		bool removePlayerBanishment(std::string name, PlayerBan_t type) const;
-		bool removeAccountBanishment(uint32_t account, uint32_t playerId = 0) const;
-		bool removeNotations(uint32_t account, uint32_t playerId = 0) const;
-		bool removeStatements(uint32_t playerId, int16_t channelId = -1) const;
-		bool removeStatements(std::string name, int16_t channelId = -1) const;
+	bool removeIpBanishment(uint32_t ip, uint32_t mask = 0xFFFFFFFF) const;
+	bool removePlayerBanishment(uint32_t guid, PlayerBan_t type) const;
+	bool removePlayerBanishment(std::string name, PlayerBan_t type) const;
+	bool removeAccountBanishment(uint32_t account, uint32_t playerId = 0) const;
+	bool removeNotations(uint32_t account, uint32_t playerId = 0) const;
+	bool removeStatements(uint32_t playerId, int16_t channelId = -1) const;
+	bool removeStatements(std::string name, int16_t channelId = -1) const;
 
-		bool getData(Ban& ban) const;
-		std::vector<Ban> getList(Ban_t type, uint32_t value = 0, uint32_t param = 0);
+	bool getData(Ban &ban) const;
+	std::vector<Ban> getList(Ban_t type, uint32_t value = 0, uint32_t param = 0);
 
-		uint32_t getNotationsCount(uint32_t account, uint32_t playerId = 0) const;
-		uint32_t getStatementsCount(uint32_t playerId, int16_t channelId = -1) const;
-		uint32_t getStatementsCount(std::string name, int16_t channelId = -1) const;
+	uint32_t getNotationsCount(uint32_t account, uint32_t playerId = 0) const;
+	uint32_t getStatementsCount(uint32_t playerId, int16_t channelId = -1) const;
+	uint32_t getStatementsCount(std::string name, int16_t channelId = -1) const;
 
-		bool clearTemporials() const;
+	bool clearTemporials() const;
 };
 #endif

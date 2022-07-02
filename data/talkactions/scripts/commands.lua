@@ -3,14 +3,14 @@ local config = {
 }
 
 function onSay(cid, words, param, channel)
-	if(not checkExhausted(cid, 666, 10)) then
+	if (not checkExhausted(cid, 666, 10)) then
 		return true
 	end
 
 	local playerAccess, t = getPlayerAccess(cid), {}
 	for i, talk in ipairs(getTalkActionList()) do
-		if(not talk.hidden and playerAccess >= talk.access) then
-			if(config.ingameGuilds or (talk.functionName ~= "guildjoin" and talk.functionName ~= "guildcreate")) then
+		if (not talk.hidden and playerAccess >= talk.access) then
+			if (config.ingameGuilds or (talk.functionName ~= "guildjoin" and talk.functionName ~= "guildcreate")) then
 				table.insert(t, talk)
 			end
 		end
@@ -20,8 +20,8 @@ function onSay(cid, words, param, channel)
 	local lastAccess, str = -1, ""
 	for i, talk in ipairs(t) do
 		local line = ""
-		if(lastAccess ~= talk.access) then
-			if(i ~= 1) then
+		if (lastAccess ~= talk.access) then
+			if (i ~= 1) then
 				line = "\n"
 			end
 			lastAccess = talk.access

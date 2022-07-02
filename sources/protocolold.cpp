@@ -24,7 +24,7 @@
 extern Game g_game;
 
 #ifdef __ENABLE_SERVER_DIAGNOSTIC__
-//uint32_t ProtocolOld::protocolOldCount = 0;
+// uint32_t ProtocolOld::protocolOldCount = 0;
 
 #endif
 #ifdef __DEBUG_NET_DETAIL__
@@ -35,7 +35,7 @@ void ProtocolOld::deleteProtocolTask()
 }
 
 #endif
-void ProtocolOld::disconnectClient(uint8_t error, const char* message)
+void ProtocolOld::disconnectClient(uint8_t error, const char *message)
 {
 	OutputMessage_ptr output = OutputMessagePool::getOutputMessage();
 	output->addByte(error);
@@ -44,9 +44,9 @@ void ProtocolOld::disconnectClient(uint8_t error, const char* message)
 	disconnect();
 }
 
-void ProtocolOld::onRecvFirstMessage(NetworkMessage& msg)
+void ProtocolOld::onRecvFirstMessage(NetworkMessage &msg)
 {
-	if(g_game.getGameState() == GAMESTATE_SHUTDOWN)
+	if (g_game.getGameState() == GAMESTATE_SHUTDOWN)
 	{
 		disconnect();
 		return;
@@ -56,10 +56,10 @@ void ProtocolOld::onRecvFirstMessage(NetworkMessage& msg)
 	uint16_t version = msg.get<uint16_t>();
 
 	msg.skipBytes(12);
-	if(version <= 760)
+	if (version <= 760)
 		disconnectClient(0x0A, "Only clients with protocol " CLIENT_VERSION_STRING " allowed!");
 
-	if(!RSA_decrypt(msg))
+	if (!RSA_decrypt(msg))
 	{
 		disconnect();
 		return;
@@ -69,7 +69,7 @@ void ProtocolOld::onRecvFirstMessage(NetworkMessage& msg)
 	enableXTEAEncryption();
 	setXTEAKey(key);
 
-	if(version <= 822)
+	if (version <= 822)
 		disableChecksum();
 
 	disconnectClient(0x0A, "Only clients with protocol " CLIENT_VERSION_STRING " allowed!");

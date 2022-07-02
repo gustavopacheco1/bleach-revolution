@@ -1,24 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mod name="events mods" version="1.0" author="slawkens - edited by: mattyx14" contact="marty@otland.net" enabled="yes">
-	<changelog><![CDATA[
+	<changelog>
+		<![CDATA[
 		* [01/06/2012 v1.0] Adori blank event
 		* [01/06/2012 v1.0] Display items in bag event
 		* [01/06/2012 v1.0] Highscorebook event
 		* [01/06/2012 v1.0] Peeper event
 		* [01/06/2012 v1.0] Spell Reward for level
-	]]></changelog>
+	]]>
+	</changelog>
 
-<!-- Adori blank event -->
-	<description><![CDATA[
+	<!-- Adori blank event -->
+	<description>
+		<![CDATA[
 		This modification creates a new spell - "adori blank", which will conjure a blank rune when used.
-	]]></description>
+	]]>
+	</description>
 
 	<conjure name="Blank Runes" words="adori blank" mana="50" soul="1" conjureId="2260" conjureCount="1" exhaustion="1000" groups="3,1000,1000" icon="23" needlearn="0" event="function" value="conjureRune">
 		<vocation id="1;2;3;5;6;7"/>
 	</conjure>
 
-<!-- Display items in bag event -->
-	<action itemid="1987-1988;1991-2004;2365;3939;3960;5926-5927;5949-5950;7342;9774-9775;10518-10522;11119;11241-11242;11243;11244;11263" event="script" override="yes"><![CDATA[
+	<!-- Display items in bag event -->
+	<action itemid="1987-1988;1991-2004;2365;3939;3960;5926-5927;5949-5950;7342;9774-9775;10518-10522;11119;11241-11242;11243;11244;11263" event="script" override="yes">
+		<![CDATA[
 		function onUse(cid, item, fromPosition, itemEx, toPosition)
 			local enableLootBagDisplay = getBooleanFromString(getConfigValue('enableLootBagDisplay'))
 			if(enableLootBagDisplay) then
@@ -54,20 +59,24 @@
 				end
 			end
 		end
-	]]></action>
+	]]>
+	</action>
 
-<!-- Highscorebook event -->
-	<action itemid="1981" event="buffer"><![CDATA[
+	<!-- Highscorebook event -->
+	<action itemid="1981" event="buffer">
+		<![CDATA[
 		if(item.actionid >= 150 and item.actionid <= 158) then
 			doShowTextDialog(cid, item.itemid, getHighscoreString((item.actionid - 150)))
 		else
 			_result = false
 		end
-	]]></action>
+	]]>
+	</action>
 	<item id="1981" article="a" name="highscore book" override="yes"/>
 
-<!-- Peeper event -->
-	<config name="peeper-config"><![CDATA[
+	<!-- Peeper event -->
+	<config name="peeper-config">
+		<![CDATA[
 		-- anonymously or display peeper name?
 		anonymous = "no"
 
@@ -76,9 +85,11 @@
 
 		-- message color (type)
 		messageType = MESSAGE_STATUS_DEFAULT
-	]]></config>
+	]]>
+	</config>
 
-	<event type="look" name="peeper-event" event="script"><![CDATA[
+	<event type="look" name="peeper-event" event="script">
+		<![CDATA[
 		domodlib('peeper-config')
 
 		local config = {
@@ -94,15 +105,19 @@
 
 			return true
 		end
-	]]></event>
+	]]>
+	</event>
 
-	<event type="login" name="peeper-login" event="buffer"><![CDATA[
+	<event type="login" name="peeper-login" event="buffer">
+		<![CDATA[
 		registerCreatureEvent(cid, "peeper-event")
 		_result = true
-	]]></event>
+	]]>
+	</event>
 
-<!-- Spell Reward for level -->
-	<event type="advance" name="spell-up-event" event="script"><![CDATA[
+	<!-- Spell Reward for level -->
+	<event type="advance" name="spell-up-event" event="script">
+		<![CDATA[
 		local s = {
 			repeatAfterDeath = true, -- true -> player will always get the msg at lvlup | false -> player will only get the 1st time the gets the new level
 			detailedInfo = true, -- true -> player will get name, words, mana & mana% info of spells | false -> player will only get the name and the words of the spells
@@ -113,7 +128,7 @@
 
 		function onAdvance(cid, skill, oldlevel, newlevel)
 			if skill ~= SKILL__LEVEL or not s.repeatAfterDeath and getCreatureStorage(cid, s.Storage) >= newlevel then
-				return true 
+				return true
 			end
 
 			local t = {}
@@ -153,10 +168,13 @@
 			end
 			return true
 		end
-	]]></event>
+	]]>
+	</event>
 
-	<event type="login" name="spell-up-login" event="buffer"><![CDATA[
+	<event type="login" name="spell-up-login" event="buffer">
+		<![CDATA[
 		registerCreatureEvent(cid, "spell-up-event")
 		_result = true
-	]]></event>
+	]]>
+	</event>
 </mod>

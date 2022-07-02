@@ -1,37 +1,37 @@
 local spell = {
-    duration = 10,
-    cooldown = 60
+	duration = 10,
+	cooldown = 60
 }
 
 function onCastSpell(cid, var)
-    if checkSpecialCooldown(cid) then
-        return false
-    end
+	if checkSpecialCooldown(cid) then
+		return false
+	end
 
-    local player_group_id = getPlayerGroupId(cid)
+	local player_group_id = getPlayerGroupId(cid)
 
-    local clone = doCreateMonster("Rukia Clone", getCreaturePosition(cid), false, true)
-    doCreatureChangeOutfit(clone, getCreatureOutfit(cid))
-    doCreatureSetLookDir(clone, getCreatureLookDir(cid))
-    doCreatureSetHideHealth(clone, true)
+	local clone = doCreateMonster("Rukia Clone", getCreaturePosition(cid), false, true)
+	doCreatureChangeOutfit(clone, getCreatureOutfit(cid))
+	doCreatureSetLookDir(clone, getCreatureLookDir(cid))
+	doCreatureSetHideHealth(clone, true)
 
-    doCreatureAddHealth(cid, getCreatureMaxHealth(cid))
-    setPlayerGroupId(cid, 8)
-    doCreatureExecuteTalkAction(cid, "###invisible", true)
-    doSetCreatureOutfit(cid, {lookType = 0}, (spell.duration - 0.25) * 1000)
-    setCreatureTarget(cid, nil)
+	doCreatureAddHealth(cid, getCreatureMaxHealth(cid))
+	setPlayerGroupId(cid, 8)
+	doCreatureExecuteTalkAction(cid, "###invisible", true)
+	doSetCreatureOutfit(cid, { lookType = 0 }, (spell.duration - 0.25) * 1000)
+	setCreatureTarget(cid, nil)
 
-    addEvent(function()
-        if isCreature(cid) then
-            doCreatureExecuteTalkAction(cid, "###invisible", true)
-            setPlayerGroupId(cid, player_group_id)
-        end
-        if isCreature(clone) then
-            doSendMagicEffect(getCreaturePosition(clone), 2)
-            doRemoveCreature(clone)
-        end
-    end, spell.duration * 1000)
+	addEvent(function()
+		if isCreature(cid) then
+			doCreatureExecuteTalkAction(cid, "###invisible", true)
+			setPlayerGroupId(cid, player_group_id)
+		end
+		if isCreature(clone) then
+			doSendMagicEffect(getCreaturePosition(clone), 2)
+			doRemoveCreature(clone)
+		end
+	end, spell.duration * 1000)
 
-    exhaustion.set(cid, "special", spell.cooldown)
-    return true
+	exhaustion.set(cid, "special", spell.cooldown)
+	return true
 end

@@ -1,17 +1,17 @@
 function onSay(cid, words, param, channel)
-	if(not checkExhausted(cid, 666, 10)) then
+	if (not checkExhausted(cid, 666, 10)) then
 		return true
 	end
 
 	local house = getHouseFromPos(getCreaturePosition(cid))
-	if(not house) then
+	if (not house) then
 		doPlayerSendCancel(cid, "You are not inside a house.")
 		doSendMagicEffect(getCreaturePosition(cid), CONST_ME_POFF)
 		return false
 	end
 
 	local owner = getHouseInfo(house).owner
-	if(owner ~= getPlayerGUID(cid) and (owner ~= getPlayerGuildId(cid) or getPlayerGuildLevel(cid) ~= GUILDLEVEL_LEADER)) then
+	if (owner ~= getPlayerGUID(cid) and (owner ~= getPlayerGuildId(cid) or getPlayerGuildLevel(cid) ~= GUILDLEVEL_LEADER)) then
 		doPlayerSendCancel(cid, "You are not the owner of this house.")
 		doSendMagicEffect(getCreaturePosition(cid), CONST_ME_POFF)
 		return false

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <mod name="Perfect Auto Loot" version="2.0" author="Vodkart" contact="none.com" enabled="yes">
-<config name="Loot_func"><![CDATA[
+	<config name="Loot_func">
+		<![CDATA[
 
 info = {
 	distro = 1, -- 1 = TFS // 2 = talk modificada
@@ -50,8 +51,8 @@ end
 function doAddItemFromAutoloot(cid, itemid)
          if not existsAutoloot(cid) then
             doCreateLootUserName(cid, itemid) return true
-         end 
-         local file = io.open(info.directory.."/"..getCreatureName(cid)..".txt", "a+")							
+         end
+         local file = io.open(info.directory.."/"..getCreatureName(cid)..".txt", "a+")
          file:write('\n'..itemid)
          file:close()
 end
@@ -79,7 +80,7 @@ function doCleanAutoloot(cid)
 return os.remove(info.directory.."/"..getCreatureName(cid)..".txt")
 end
 function ShowItemsTabble(cid)
-	local auto_list = getItensFromAutoloot(cid)	
+	local auto_list = getItensFromAutoloot(cid)
 	local n,str = 0,"[+] Auto Loot Commands [+]\n\n!autoloot itemname --> Para adicionar ou remover um item da lista.\n!autoloot money --> Para coletar os golds automaticamente.\n!autoloot clear --> Para limpar a lista do seu autoloot.\n!autoloot on/off --> Para ligar ou desligar seu autoloot.\n!autoloot message --> Para ligar ou desligar a mensagem do autoloot.\n!autoloot color --> Para mudar a cor da mensagem do seu autoloot.\n!autoloot warn --> Para ligar ou desligar o aviso dos slots que faltam na sua backpack.\n!autoloot deposit --> Para ligar ou desligar o envio do dinheiro para o banco.\n\n[+] Auto Loot Info [+]\n\nSystem: "..(getPlayerStorageValue(cid, info.Storages[1]) <= 0 and "Activated" or "Disabled")..".\nGold Collecting: "..(getPlayerStorageValue(cid, info.Storages[2]) > 0 and "Activated" or "Disabled")..".\nMessage: "..(getPlayerStorageValue(cid, info.Storages[6]) <= 0 and "Activated" or "Disabled")..".\nColor Message: "..Color_Loot[getPlayerColorLootMessage(cid)][2]..".\nWarn Backpack: "..(getPlayerStorageValue(cid, info.Storages[3]) <= 0 and "Activated" or "Disabled")..".\nAutomatic Gold Deposit: "..(getPlayerStorageValue(cid, info.Storages[4]) > 0 and "Activated" or "Disabled")..".\nTotal Bank Balance: ["..getPlayerBalance(cid).."]\nMaximum Slots: ["..#auto_list.."/"..(isPremium(cid) and info.Max_Slots.premium or info.Max_Slots.free).."]\n\n[+] Auto Loot Slots [+]\n\n"
 	if #auto_list > 0 then
 		for i = 1, #auto_list do
@@ -205,16 +206,16 @@ function corpseRetireItems(cid, pos)
 						else
 							str = str.." ".. info.article.." " .. info.name ..","
 							doPlayerAddItem(cid, id)
-						end 
-						doRemoveItem(item.uid)	
+						end
+						doRemoveItem(item.uid)
 					end
 				end
 			end
-			if str ~= "" and getPlayerStorageValue(cid, info.Storages[6]) <= 0 then 
-				doPlayerSendTextMessage(cid, Color_Loot[getPlayerColorLootMessage(cid)][1],"[Auto Loot Collect]:"..string.sub(str, 1, -2)..".") 
+			if str ~= "" and getPlayerStorageValue(cid, info.Storages[6]) <= 0 then
+				doPlayerSendTextMessage(cid, Color_Loot[getPlayerColorLootMessage(cid)][1],"[Auto Loot Collect]:"..string.sub(str, 1, -2)..".")
 			end
 			if getPlayerStorageValue(cid, info.Storages[3]) <= 0 and slots > 0 and slots <= info.Warn_Bp_Slots then
-				doPlayerSendTextMessage(cid,18,"[Auto Loot Warn] You only have "..slots.." slots free in your backpack!") 
+				doPlayerSendTextMessage(cid,18,"[Auto Loot Warn] You only have "..slots.." slots free in your backpack!")
 			end
 		end
 	end
@@ -228,10 +229,10 @@ function ExistItemByName(name) -- by vodka
 return true
 end
 ]]>
-</config>
+	</config>
 
-<event type="login" name="LootLogin" event="script">
-<![CDATA[
+	<event type="login" name="LootLogin" event="script">
+		<![CDATA[
 domodlib('Loot_func')
 function onLogin(cid)
 	registerCreatureEvent(cid, "LootEventKIll")
@@ -245,10 +246,10 @@ function onLogin(cid)
 	registerCreatureEvent(cid, "AutolootRBTCombat")
 	return true
 end]]>
-</event>
+	</event>
 
-<event type="death" name="AutolootRBTDeath" event="script">
-<![CDATA[
+	<event type="death" name="AutolootRBTDeath" event="script">
+		<![CDATA[
 domodlib('Loot_func')
 function onDeath(cid, corpse)
 	if corpse.uid <= 0 then return true end
@@ -262,10 +263,10 @@ function onDeath(cid, corpse)
     return true
 end
 ]]>
-</event>
+	</event>
 
-<event type="combat" name="AutolootRBTCombat" event="script">
-<![CDATA[
+	<event type="combat" name="AutolootRBTCombat" event="script">
+		<![CDATA[
 
 if isPlayer(cid) and isMonster(target) then
 		registerCreatureEvent(target, "AutolootRBTDeath")
@@ -273,10 +274,10 @@ end
 
 return true
 ]]>
-</event>
+	</event>
 
-<talkaction words="!autoloot;/autoloot" event="buffer">
-<![CDATA[
+	<talkaction words="!autoloot;/autoloot" event="buffer">
+		<![CDATA[
 domodlib('Loot_func')
 local param, slots = param:lower(), isPremium(cid) and info.Max_Slots.premium or info.Max_Slots.free
 if not param or param == "" then
@@ -318,8 +319,8 @@ else
 	end
 end
 local var = isInTable(cid, item)
-if isInArray(info.Money_ids, item) then 
-	doPlayerSendTextMessage(cid, MESSAGE_FIRST, "Enter !autoloot money to add money in your list!") return true	
+if isInArray(info.Money_ids, item) then
+	doPlayerSendTextMessage(cid, MESSAGE_FIRST, "Enter !autoloot money to add money in your list!") return true
 elseif isInArray(info.BlockItemsList, item) then
 	doPlayerSendCancel(cid, "You can not add this item in the list!") return true
 elseif not var and #getItensFromAutoloot(cid) >= slots then
@@ -335,6 +336,6 @@ end
 setPlayerStorageValue(cid, info.Storages[7], os.time()+info.Talkaction_delay)
 doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE,not var and "you added the item "..param.." in the list" or "you removed the item "..param.." from the list, please wait 5 seconds to save the directory.")
 return true]]>
-</talkaction>
+	</talkaction>
 
 </mod>

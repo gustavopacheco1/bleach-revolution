@@ -34,35 +34,35 @@ typedef std::map<std::string, LibBlock> LibMap;
 
 class ScriptManager
 {
-	public:
-		static ScriptManager* getInstance()
-		{
-			static ScriptManager instance;
-			return &instance;
-		}
+public:
+	static ScriptManager *getInstance()
+	{
+		static ScriptManager instance;
+		return &instance;
+	}
 
-		ScriptManager();
-		virtual ~ScriptManager() {clearMods();}
+	ScriptManager();
+	virtual ~ScriptManager() { clearMods(); }
 
-		bool loadSystem();
-		bool loadMods();
+	bool loadSystem();
+	bool loadMods();
 
-		void clearMods();
-		bool reloadMods();
+	void clearMods();
+	bool reloadMods();
 
-		inline LibMap::iterator getFirstLib() {return libMap.begin();}
-		inline LibMap::iterator getLastLib() {return libMap.end();}
+	inline LibMap::iterator getFirstLib() { return libMap.begin(); }
+	inline LibMap::iterator getLastLib() { return libMap.end(); }
 
-		inline ModMap::iterator getFirstMod() {return modMap.begin();}
-		inline ModMap::iterator getLastMod() {return modMap.end();}
+	inline ModMap::iterator getFirstMod() { return modMap.begin(); }
+	inline ModMap::iterator getLastMod() { return modMap.end(); }
 
-	protected:
-		bool loadFromXml(const std::string& file, bool& enabled);
+protected:
+	bool loadFromXml(const std::string &file, bool &enabled);
 
-	private:
-		bool modsLoaded;
+private:
+	bool modsLoaded;
 
-		LibMap libMap;
-		ModMap modMap;
+	LibMap libMap;
+	ModMap modMap;
 };
 #endif

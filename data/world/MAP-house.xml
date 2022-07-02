@@ -1,75 +1,75 @@
 <?xml version="1.0"?>
 <houses>
-	<house name="Karakura House 1" houseid="191" entryx="3547" entryy="3526" entryz="7" rent="0" townid="1" size="56" />
-	<house name="Karakura House 2" houseid="192" entryx="3557" entryy="3526" entryz="7" rent="0" townid="1" size="56" />
-	<house name="Karakura House 3" houseid="193" entryx="3568" entryy="3526" entryz="7" rent="0" townid="1" size="56" />
-	<house name="Karakura House 4" houseid="194" entryx="3579" entryy="3526" entryz="7" rent="0" townid="1" size="56" />
-	<house name="Karakura House 5" houseid="195" entryx="3590" entryy="3526" entryz="7" rent="0" townid="1" size="56" />
-	<house name="Karakura House 6" houseid="196" entryx="3601" entryy="3526" entryz="7" rent="0" townid="1" size="56" />
-	<house name="Karakura House 7" houseid="197" entryx="3612" entryy="3526" entryz="7" rent="0" townid="1" size="56" />
-	<house name="Karakura House 8" houseid="198" entryx="3593" entryy="3511" entryz="7" rent="0" townid="1" size="66" />
-	<house name="Karakura House 9" houseid="199" entryx="3604" entryy="3520" entryz="7" rent="0" townid="1" size="48" />
-	<house name="Karakura House 10" houseid="200" entryx="3598" entryy="3508" entryz="7" rent="0" townid="1" size="64" />
-	<house name="Karakura House 11" houseid="203" entryx="3603" entryy="3494" entryz="7" rent="0" townid="1" size="63" />
-	<house name="Karakura House 12" houseid="204" entryx="3592" entryy="3494" entryz="7" rent="0" townid="1" size="70" />
-	<house name="Karakura House 13" houseid="205" entryx="3594" entryy="3502" entryz="6" rent="0" townid="1" size="35" />
-	<house name="Karakura House 14" houseid="206" entryx="3597" entryy="3501" entryz="6" rent="0" townid="1" size="24" />
-	<house name="Karakura House 15" houseid="207" entryx="3604" entryy="3501" entryz="6" rent="0" townid="1" size="28" />
-	<house name="Karakura House 16" houseid="208" entryx="3594" entryy="3498" entryz="5" rent="0" townid="1" size="35" />
-	<house name="Karakura House 17" houseid="209" entryx="3599" entryy="3498" entryz="5" rent="0" townid="1" size="28" />
-	<house name="Karakura House 18" houseid="210" entryx="3602" entryy="3508" entryz="6" rent="0" townid="1" size="28" />
-	<house name="Karakura House 19" houseid="211" entryx="3606" entryy="3510" entryz="5" rent="0" townid="1" size="16" />
-	<house name="Karakura House 20" houseid="212" entryx="3600" entryy="3516" entryz="6" rent="0" townid="1" size="66" />
-	<house name="Karakura House 21" houseid="213" entryx="3597" entryy="3515" entryz="5" rent="0" townid="1" size="48" />
-	<house name="Karakura House 22" houseid="214" entryx="3583" entryy="3494" entryz="7" rent="0" townid="1" size="42" />
-	<house name="Karakura House 23" houseid="215" entryx="3576" entryy="3494" entryz="7" rent="0" townid="1" size="42" />
-	<house name="Karakura House 24" houseid="216" entryx="3569" entryy="3494" entryz="7" rent="0" townid="1" size="42" />
-	<house name="Karakura House 25" houseid="217" entryx="3578" entryy="3500" entryz="6" rent="0" townid="1" size="42" />
-	<house name="Karakura House 26" houseid="218" entryx="3573" entryy="3500" entryz="6" rent="0" townid="1" size="42" />
-	<house name="Karakura House 27" houseid="219" entryx="3570" entryy="3501" entryz="5" rent="0" townid="1" size="24" />
-	<house name="Karakura House 28" houseid="220" entryx="3581" entryy="3488" entryz="7" rent="0" townid="1" size="34" />
-	<house name="Karakura House 29" houseid="221" entryx="3581" entryy="3473" entryz="7" rent="0" townid="1" size="25" />
-	<house name="Karakura House 30" houseid="222" entryx="3575" entryy="3473" entryz="7" rent="0" townid="1" size="24" />
-	<house name="Karakura House 31" houseid="223" entryx="3568" entryy="3473" entryz="7" rent="0" townid="1" size="25" />
-	<house name="Karakura House 32" houseid="224" entryx="3568" entryy="3488" entryz="7" rent="0" townid="1" size="34" />
-	<house name="Karakura House 33" houseid="225" entryx="3577" entryy="3477" entryz="6" rent="0" townid="1" size="98" />
-	<house name="Karakura House 34" houseid="226" entryx="3573" entryy="3477" entryz="6" rent="0" townid="1" size="24" />
-	<house name="Karakura House 35" houseid="227" entryx="3568" entryy="3482" entryz="6" rent="0" townid="1" size="19" />
-	<house name="Karakura House 36" houseid="228" entryx="3603" entryy="3467" entryz="7" rent="0" townid="1" size="170" />
-	<house name="Karakura House 37" houseid="229" entryx="3568" entryy="3463" entryz="7" rent="0" townid="1" size="24" />
-	<house name="Karakura House 38" houseid="230" entryx="3568" entryy="3456" entryz="7" rent="0" townid="1" size="24" />
-	<house name="Karakura House 39" houseid="231" entryx="3571" entryy="3459" entryz="6" rent="0" townid="1" size="20" />
-	<house name="Karakura House 40" houseid="232" entryx="3552" entryy="3477" entryz="7" rent="0" townid="1" size="72" />
-	<house name="Karakura House 41" houseid="233" entryx="3543" entryy="3477" entryz="7" rent="0" townid="1" size="48" />
-	<house name="Karakura House 42" houseid="234" entryx="3548" entryy="3464" entryz="7" rent="0" townid="1" size="56" />
-	<house name="Karakura House 43" houseid="235" entryx="3548" entryy="3456" entryz="7" rent="0" townid="1" size="72" />
-	<house name="Karakura House 44" houseid="236" entryx="3545" entryy="3455" entryz="6" rent="0" townid="1" size="25" />
-	<house name="Karakura House 45" houseid="237" entryx="3545" entryy="3460" entryz="6" rent="0" townid="1" size="25" />
-	<house name="Karakura House 46" houseid="238" entryx="3543" entryy="3458" entryz="5" rent="0" townid="1" size="25" />
-	<house name="Karakura House 47" houseid="239" entryx="3547" entryy="3474" entryz="6" rent="0" townid="1" size="44" />
-	<house name="Karakura House 48" houseid="240" entryx="3549" entryy="3474" entryz="6" rent="0" townid="1" size="79" />
-	<house name="Karakura House 49" houseid="241" entryx="3544" entryy="3474" entryz="5" rent="0" townid="1" size="32" />
-	<house name="Karakura House 50" houseid="242" entryx="3542" entryy="3474" entryz="4" rent="0" townid="1" size="20" />
-	<house name="Karakura House 51" houseid="243" entryx="3552" entryy="3483" entryz="7" rent="1769986400" townid="1" size="54" />
-	<house name="Karakura House 52" houseid="244" entryx="3542" entryy="3483" entryz="7" rent="0" townid="1" size="54" />
-	<house name="Karakura House 53" houseid="245" entryx="3542" entryy="3499" entryz="7" rent="0" townid="1" size="54" />
-	<house name="Karakura House 54" houseid="246" entryx="3552" entryy="3499" entryz="7" rent="0" townid="1" size="54" />
-	<house name="Karakura House 55" houseid="247" entryx="3541" entryy="3494" entryz="6" rent="0" townid="1" size="56" />
-	<house name="Karakura House 56" houseid="248" entryx="3551" entryy="3491" entryz="6" rent="0" townid="1" size="55" />
-	<house name="Karakura House 57" houseid="249" entryx="3550" entryy="3487" entryz="5" rent="0" townid="1" size="25" />
-	<house name="Karakura House 58" houseid="250" entryx="3546" entryy="3487" entryz="5" rent="0" townid="1" size="56" />
-	<house name="Karakura House 59" houseid="251" entryx="3530" entryy="3501" entryz="7" rent="0" townid="1" size="68" />
-	<house name="Karakura House 60" houseid="252" entryx="3522" entryy="3489" entryz="7" rent="0" townid="1" size="77" />
-	<house name="Karakura House 61" houseid="253" entryx="3517" entryy="3489" entryz="7" rent="0" townid="1" size="70" />
-	<house name="Karakura House 62" houseid="254" entryx="3517" entryy="3494" entryz="7" rent="0" townid="1" size="61" />
-	<house name="Karakura House 63" houseid="255" entryx="3514" entryy="3504" entryz="7" rent="0" townid="1" size="42" />
-	<house name="Karakura House 64" houseid="256" entryx="3510" entryy="3516" entryz="7" rent="0" townid="1" size="61" />
-	<house name="Karakura House 65" houseid="257" entryx="3530" entryy="3506" entryz="7" rent="0" townid="1" size="68" />
-	<house name="Karakura House 66" houseid="258" entryx="3512" entryy="3501" entryz="6" rent="0" townid="1" size="49" />
-	<house name="Karakura House 67" houseid="259" entryx="3510" entryy="3493" entryz="5" rent="0" townid="1" size="49" />
-	<house name="Karakura House 68" houseid="260" entryx="3514" entryy="3489" entryz="6" rent="0" townid="1" size="49" />
-	<house name="Karakura House 69" houseid="261" entryx="3526" entryy="3489" entryz="6" rent="0" townid="1" size="63" />
-	<house name="Karakura House 70" houseid="262" entryx="3532" entryy="3492" entryz="5" rent="0" townid="1" size="42" />
-	<house name="Karakura House 71" houseid="263" entryx="3514" entryy="3512" entryz="6" rent="0" townid="1" size="56" />
-	<house name="Karakura House 72" houseid="264" entryx="3511" entryy="3513" entryz="5" rent="0" townid="1" size="35" />
+	<house name="Karakura House 1" houseid="191" entryx="3547" entryy="3526" entryz="7" rent="0" townid="1" size="56"/>
+	<house name="Karakura House 2" houseid="192" entryx="3557" entryy="3526" entryz="7" rent="0" townid="1" size="56"/>
+	<house name="Karakura House 3" houseid="193" entryx="3568" entryy="3526" entryz="7" rent="0" townid="1" size="56"/>
+	<house name="Karakura House 4" houseid="194" entryx="3579" entryy="3526" entryz="7" rent="0" townid="1" size="56"/>
+	<house name="Karakura House 5" houseid="195" entryx="3590" entryy="3526" entryz="7" rent="0" townid="1" size="56"/>
+	<house name="Karakura House 6" houseid="196" entryx="3601" entryy="3526" entryz="7" rent="0" townid="1" size="56"/>
+	<house name="Karakura House 7" houseid="197" entryx="3612" entryy="3526" entryz="7" rent="0" townid="1" size="56"/>
+	<house name="Karakura House 8" houseid="198" entryx="3593" entryy="3511" entryz="7" rent="0" townid="1" size="66"/>
+	<house name="Karakura House 9" houseid="199" entryx="3604" entryy="3520" entryz="7" rent="0" townid="1" size="48"/>
+	<house name="Karakura House 10" houseid="200" entryx="3598" entryy="3508" entryz="7" rent="0" townid="1" size="64"/>
+	<house name="Karakura House 11" houseid="203" entryx="3603" entryy="3494" entryz="7" rent="0" townid="1" size="63"/>
+	<house name="Karakura House 12" houseid="204" entryx="3592" entryy="3494" entryz="7" rent="0" townid="1" size="70"/>
+	<house name="Karakura House 13" houseid="205" entryx="3594" entryy="3502" entryz="6" rent="0" townid="1" size="35"/>
+	<house name="Karakura House 14" houseid="206" entryx="3597" entryy="3501" entryz="6" rent="0" townid="1" size="24"/>
+	<house name="Karakura House 15" houseid="207" entryx="3604" entryy="3501" entryz="6" rent="0" townid="1" size="28"/>
+	<house name="Karakura House 16" houseid="208" entryx="3594" entryy="3498" entryz="5" rent="0" townid="1" size="35"/>
+	<house name="Karakura House 17" houseid="209" entryx="3599" entryy="3498" entryz="5" rent="0" townid="1" size="28"/>
+	<house name="Karakura House 18" houseid="210" entryx="3602" entryy="3508" entryz="6" rent="0" townid="1" size="28"/>
+	<house name="Karakura House 19" houseid="211" entryx="3606" entryy="3510" entryz="5" rent="0" townid="1" size="16"/>
+	<house name="Karakura House 20" houseid="212" entryx="3600" entryy="3516" entryz="6" rent="0" townid="1" size="66"/>
+	<house name="Karakura House 21" houseid="213" entryx="3597" entryy="3515" entryz="5" rent="0" townid="1" size="48"/>
+	<house name="Karakura House 22" houseid="214" entryx="3583" entryy="3494" entryz="7" rent="0" townid="1" size="42"/>
+	<house name="Karakura House 23" houseid="215" entryx="3576" entryy="3494" entryz="7" rent="0" townid="1" size="42"/>
+	<house name="Karakura House 24" houseid="216" entryx="3569" entryy="3494" entryz="7" rent="0" townid="1" size="42"/>
+	<house name="Karakura House 25" houseid="217" entryx="3578" entryy="3500" entryz="6" rent="0" townid="1" size="42"/>
+	<house name="Karakura House 26" houseid="218" entryx="3573" entryy="3500" entryz="6" rent="0" townid="1" size="42"/>
+	<house name="Karakura House 27" houseid="219" entryx="3570" entryy="3501" entryz="5" rent="0" townid="1" size="24"/>
+	<house name="Karakura House 28" houseid="220" entryx="3581" entryy="3488" entryz="7" rent="0" townid="1" size="34"/>
+	<house name="Karakura House 29" houseid="221" entryx="3581" entryy="3473" entryz="7" rent="0" townid="1" size="25"/>
+	<house name="Karakura House 30" houseid="222" entryx="3575" entryy="3473" entryz="7" rent="0" townid="1" size="24"/>
+	<house name="Karakura House 31" houseid="223" entryx="3568" entryy="3473" entryz="7" rent="0" townid="1" size="25"/>
+	<house name="Karakura House 32" houseid="224" entryx="3568" entryy="3488" entryz="7" rent="0" townid="1" size="34"/>
+	<house name="Karakura House 33" houseid="225" entryx="3577" entryy="3477" entryz="6" rent="0" townid="1" size="98"/>
+	<house name="Karakura House 34" houseid="226" entryx="3573" entryy="3477" entryz="6" rent="0" townid="1" size="24"/>
+	<house name="Karakura House 35" houseid="227" entryx="3568" entryy="3482" entryz="6" rent="0" townid="1" size="19"/>
+	<house name="Karakura House 36" houseid="228" entryx="3603" entryy="3467" entryz="7" rent="0" townid="1" size="170"/>
+	<house name="Karakura House 37" houseid="229" entryx="3568" entryy="3463" entryz="7" rent="0" townid="1" size="24"/>
+	<house name="Karakura House 38" houseid="230" entryx="3568" entryy="3456" entryz="7" rent="0" townid="1" size="24"/>
+	<house name="Karakura House 39" houseid="231" entryx="3571" entryy="3459" entryz="6" rent="0" townid="1" size="20"/>
+	<house name="Karakura House 40" houseid="232" entryx="3552" entryy="3477" entryz="7" rent="0" townid="1" size="72"/>
+	<house name="Karakura House 41" houseid="233" entryx="3543" entryy="3477" entryz="7" rent="0" townid="1" size="48"/>
+	<house name="Karakura House 42" houseid="234" entryx="3548" entryy="3464" entryz="7" rent="0" townid="1" size="56"/>
+	<house name="Karakura House 43" houseid="235" entryx="3548" entryy="3456" entryz="7" rent="0" townid="1" size="72"/>
+	<house name="Karakura House 44" houseid="236" entryx="3545" entryy="3455" entryz="6" rent="0" townid="1" size="25"/>
+	<house name="Karakura House 45" houseid="237" entryx="3545" entryy="3460" entryz="6" rent="0" townid="1" size="25"/>
+	<house name="Karakura House 46" houseid="238" entryx="3543" entryy="3458" entryz="5" rent="0" townid="1" size="25"/>
+	<house name="Karakura House 47" houseid="239" entryx="3547" entryy="3474" entryz="6" rent="0" townid="1" size="44"/>
+	<house name="Karakura House 48" houseid="240" entryx="3549" entryy="3474" entryz="6" rent="0" townid="1" size="79"/>
+	<house name="Karakura House 49" houseid="241" entryx="3544" entryy="3474" entryz="5" rent="0" townid="1" size="32"/>
+	<house name="Karakura House 50" houseid="242" entryx="3542" entryy="3474" entryz="4" rent="0" townid="1" size="20"/>
+	<house name="Karakura House 51" houseid="243" entryx="3552" entryy="3483" entryz="7" rent="1769986400" townid="1" size="54"/>
+	<house name="Karakura House 52" houseid="244" entryx="3542" entryy="3483" entryz="7" rent="0" townid="1" size="54"/>
+	<house name="Karakura House 53" houseid="245" entryx="3542" entryy="3499" entryz="7" rent="0" townid="1" size="54"/>
+	<house name="Karakura House 54" houseid="246" entryx="3552" entryy="3499" entryz="7" rent="0" townid="1" size="54"/>
+	<house name="Karakura House 55" houseid="247" entryx="3541" entryy="3494" entryz="6" rent="0" townid="1" size="56"/>
+	<house name="Karakura House 56" houseid="248" entryx="3551" entryy="3491" entryz="6" rent="0" townid="1" size="55"/>
+	<house name="Karakura House 57" houseid="249" entryx="3550" entryy="3487" entryz="5" rent="0" townid="1" size="25"/>
+	<house name="Karakura House 58" houseid="250" entryx="3546" entryy="3487" entryz="5" rent="0" townid="1" size="56"/>
+	<house name="Karakura House 59" houseid="251" entryx="3530" entryy="3501" entryz="7" rent="0" townid="1" size="68"/>
+	<house name="Karakura House 60" houseid="252" entryx="3522" entryy="3489" entryz="7" rent="0" townid="1" size="77"/>
+	<house name="Karakura House 61" houseid="253" entryx="3517" entryy="3489" entryz="7" rent="0" townid="1" size="70"/>
+	<house name="Karakura House 62" houseid="254" entryx="3517" entryy="3494" entryz="7" rent="0" townid="1" size="61"/>
+	<house name="Karakura House 63" houseid="255" entryx="3514" entryy="3504" entryz="7" rent="0" townid="1" size="42"/>
+	<house name="Karakura House 64" houseid="256" entryx="3510" entryy="3516" entryz="7" rent="0" townid="1" size="61"/>
+	<house name="Karakura House 65" houseid="257" entryx="3530" entryy="3506" entryz="7" rent="0" townid="1" size="68"/>
+	<house name="Karakura House 66" houseid="258" entryx="3512" entryy="3501" entryz="6" rent="0" townid="1" size="49"/>
+	<house name="Karakura House 67" houseid="259" entryx="3510" entryy="3493" entryz="5" rent="0" townid="1" size="49"/>
+	<house name="Karakura House 68" houseid="260" entryx="3514" entryy="3489" entryz="6" rent="0" townid="1" size="49"/>
+	<house name="Karakura House 69" houseid="261" entryx="3526" entryy="3489" entryz="6" rent="0" townid="1" size="63"/>
+	<house name="Karakura House 70" houseid="262" entryx="3532" entryy="3492" entryz="5" rent="0" townid="1" size="42"/>
+	<house name="Karakura House 71" houseid="263" entryx="3514" entryy="3512" entryz="6" rent="0" townid="1" size="56"/>
+	<house name="Karakura House 72" houseid="264" entryx="3511" entryy="3513" entryz="5" rent="0" townid="1" size="35"/>
 </houses>

@@ -2,12 +2,12 @@ function createClass(parent)
 	local newClass = {}
 	function newClass:new(instance)
 		local instance = instance or {}
-		setmetatable(instance, {__index = newClass})
+		setmetatable(instance, { __index = newClass })
 		return instance
 	end
 
-	if(parent ~= nil) then
-		setmetatable(newClass, {__index = parent})
+	if (parent ~= nil) then
+		setmetatable(newClass, { __index = parent })
 	end
 
 	function newClass:getSelf()
@@ -20,8 +20,8 @@ function createClass(parent)
 
 	function newClass:isa(class)
 		local tmp = newClass
-		while(tmp ~= nil) do
-			if(tmp == class) then
+		while (tmp ~= nil) do
+			if (tmp == class) then
 				return true
 			end
 

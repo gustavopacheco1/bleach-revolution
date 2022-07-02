@@ -17,4 +17,4 @@
 #include "otpch.h"
 
 #include "cylinder.h"
-VirtualCylinder* VirtualCylinder::virtualCylinder = new VirtualCylinder;
+VirtualCylinder *VirtualCylinder::virtualCylinder = new VirtualCylinder;

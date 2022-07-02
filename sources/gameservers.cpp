@@ -25,7 +25,7 @@
 
 void GameServers::clear()
 {
-	for(GameServersMap::iterator it = serverList.begin(); it != serverList.end(); ++it)
+	for (GameServersMap::iterator it = serverList.begin(); it != serverList.end(); ++it)
 		delete it->second;
 
 	serverList.clear();
@@ -39,8 +39,8 @@ bool GameServers::reload()
 
 bool GameServers::loadFromXml(bool result)
 {
-	xmlDocPtr doc = xmlParseFile(getFilePath(FILE_TYPE_XML,"servers.xml").c_str());
-	if(!doc)
+	xmlDocPtr doc = xmlParseFile(getFilePath(FILE_TYPE_XML, "servers.xml").c_str());
+	if (!doc)
 	{
 		std::clog << "[Warning - GameServers::loadFromXml] Cannot load servers file." << std::endl;
 		std::clog << getLastXMLError() << std::endl;
@@ -48,7 +48,7 @@ bool GameServers::loadFromXml(bool result)
 	}
 
 	xmlNodePtr root = xmlDocGetRootElement(doc);
-	if(xmlStrcmp(root->name,(const xmlChar*)"servers"))
+	if (xmlStrcmp(root->name, (const xmlChar *)"servers"))
 	{
 		std::clog << "[Error - GameServers::loadFromXml] Malformed servers file." << std::endl;
 		xmlFreeDoc(doc);
@@ -57,16 +57,16 @@ bool GameServers::loadFromXml(bool result)
 
 	std::string strValue;
 	int32_t intValue;
-	for(xmlNodePtr p = root->children; p; p = p->next)
+	for (xmlNodePtr p = root->children; p; p = p->next)
 	{
-		if(xmlStrcmp(p->name, (const xmlChar*)"server"))
+		if (xmlStrcmp(p->name, (const xmlChar *)"server"))
 			continue;
 
 		std::string name, address;
 		uint32_t id, versionMin, versionMax;
 
 		IntegerVec ports;
-		if(readXMLInteger(p, "id", intValue))
+		if (readXMLInteger(p, "id", intValue))
 			id = intValue;
 		else
 		{
@@ -74,13 +74,13 @@ bool GameServers::loadFromXml(bool result)
 			continue;
 		}
 
-		if(serverList.find(id) != serverList.end())
+		if (serverList.find(id) != serverList.end())
 		{
 			std::clog << "[Error - GameServers::loadFromXml] Duplicate server id " << id << ", skipping" << std::endl;
 			continue;
 		}
 
-		if(readXMLString(p, "name", strValue))
+		if (readXMLString(p, "name", strValue))
 			name = strValue;
 		else
 		{
@@ -88,7 +88,7 @@ bool GameServers::loadFromXml(bool result)
 			std::clog << "[Warning - GameServers::loadFromXml] Missing name for server " << id << ", using default" << std::endl;
 		}
 
-		if(readXMLInteger(p, "versionMin", intValue))
+		if (readXMLInteger(p, "versionMin", intValue))
 			versionMin = intValue;
 		else
 		{
@@ -96,7 +96,7 @@ bool GameServers::loadFromXml(bool result)
 			std::clog << "[Warning - GameServers::loadFromXml] Missing versionMin for server " << id << ", using default" << std::endl;
 		}
 
-		if(readXMLInteger(p, "versionMax", intValue))
+		if (readXMLInteger(p, "versionMax", intValue))
 			versionMax = intValue;
 		else
 		{
@@ -104,7 +104,7 @@ bool GameServers::loadFromXml(bool result)
 			std::clog << "[Warning - GameServers::loadFromXml] Missing versionMax for server " << id << ", using default" << std::endl;
 		}
 
-		if(readXMLString(p, "address", strValue) || readXMLString(p, "ip", strValue))
+		if (readXMLString(p, "address", strValue) || readXMLString(p, "ip", strValue))
 			address = strValue;
 		else
 		{
@@ -112,7 +112,7 @@ bool GameServers::loadFromXml(bool result)
 			std::clog << "[Warning - GameServers::loadFromXml] Missing address for server " << id << ", using default" << std::endl;
 		}
 
-		if(readXMLString(p, "port", strValue))
+		if (readXMLString(p, "port", strValue))
 			ports = vectorAtoi(explodeString(strValue, ","));
 		else
 		{
@@ -120,19 +120,19 @@ bool GameServers::loadFromXml(bool result)
 			std::clog << "[Warning - GameServers::loadFromXml] Missing port for server " << id << ", using default" << std::endl;
 		}
 
-		if(GameServer* server = new GameServer(name, versionMin, versionMax, inet_addr(address.c_str()), ports))
+		if (GameServer *server = new GameServer(name, versionMin, versionMax, inet_addr(address.c_str()), ports))
 			serverList[id] = server;
 		else
 			std::clog << "[Error - GameServers::loadFromXml] Couldn't add server " << name << std::endl;
 	}
 
-	if(result)
+	if (result)
 	{
 		std::clog << "> Servers loaded:" << std::endl;
-		for(GameServersMap::iterator it = serverList.begin(); it != serverList.end(); ++it)
+		for (GameServersMap::iterator it = serverList.begin(); it != serverList.end(); ++it)
 		{
 			IntegerVec games = it->second->getPorts();
-			for(IntegerVec::const_iterator tit = games.begin(); tit != games.end(); ++tit)
+			for (IntegerVec::const_iterator tit = games.begin(); tit != games.end(); ++tit)
 				std::clog << it->second->getName() << " (" << it->second->getAddress() << ":" << *tit << ")" << std::endl;
 		}
 	}
@@ -141,10 +141,10 @@ bool GameServers::loadFromXml(bool result)
 	return true;
 }
 
-GameServer* GameServers::getServerById(uint32_t id) const
+GameServer *GameServers::getServerById(uint32_t id) const
 {
 	GameServersMap::const_iterator it = serverList.find(id);
-	if(it != serverList.end())
+	if (it != serverList.end())
 		return it->second;
 
 	return NULL;

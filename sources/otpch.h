@@ -26,22 +26,21 @@
 #define strcasecmp _stricmp
 #endif
 
-
 #if defined WINDOWS
 #include <winerror.h>
 #endif
 
-//libxml
+// libxml
 #include <libxml/xmlmemory.h>
 #include <libxml/parser.h>
 #include <libxml/threads.h>
 
-//boost
+// boost
 #include <boost/config.hpp>
 #include <boost/function.hpp>
 #include <boost/bind.hpp>
 #include <boost/regex.hpp>
 
-//otserv
+// otserv
 #include "configmanager.h"
 #include "thing.h"

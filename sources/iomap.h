@@ -101,29 +101,29 @@ struct OTBM_HouseTile_coords
 
 class IOMap
 {
-	public:
-		IOMap() {}
-		virtual ~IOMap() {}
+public:
+	IOMap() {}
+	virtual ~IOMap() {}
 
-		static Tile* createTile(Item*& ground, Item* item, uint16_t px, uint16_t py, uint16_t pz);
-		bool loadMap(Map* map, const std::string& identifier);
+	static Tile *createTile(Item *&ground, Item *item, uint16_t px, uint16_t py, uint16_t pz);
+	bool loadMap(Map *map, const std::string &identifier);
 
-		/* Load the spawns
-		 * \param map pointer to the Map class
-		 * \returns Returns true if the spawns were loaded successfully
-		 */
-		bool loadSpawns(Map* map);
+	/* Load the spawns
+	 * \param map pointer to the Map class
+	 * \returns Returns true if the spawns were loaded successfully
+	 */
+	bool loadSpawns(Map *map);
 
-		/* Load the houses (not house tile-data)
-		 * \param map pointer to the Map class
-		 * \returns Returns true if the houses were loaded successfully
-		 */
-		bool loadHouses(Map* map);
+	/* Load the houses (not house tile-data)
+	 * \param map pointer to the Map class
+	 * \returns Returns true if the houses were loaded successfully
+	 */
+	bool loadHouses(Map *map);
 
-		const std::string& getLastErrorString() const {return errorString;}
-		void setLastErrorString(const std::string& _errorString) {errorString = _errorString;}
+	const std::string &getLastErrorString() const { return errorString; }
+	void setLastErrorString(const std::string &_errorString) { errorString = _errorString; }
 
-	protected:
-		std::string errorString;
+protected:
+	std::string errorString;
 };
 #endif

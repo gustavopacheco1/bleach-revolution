@@ -1,8 +1,8 @@
 local spell = {
-    cooldown = 50,
-    duration = 30,
-    outfit = 275,
-    effect = 669
+	cooldown = 50,
+	duration = 30,
+	outfit = 275,
+	effect = 669
 }
 
 local combat = createCombatObject()
@@ -19,12 +19,12 @@ setConditionParam(condition, CONDITION_PARAM_SKILL_SHIELD, 5)
 setCombatCondition(combat, condition)
 
 function onCastSpell(cid, var)
-    if checkSpecialCooldown(cid) then
-        return false
-    end
+	if checkSpecialCooldown(cid) then
+		return false
+	end
 
-	doSetCreatureOutfit(cid, {lookType = spell.outfit}, spell.duration * 1000)
+	doSetCreatureOutfit(cid, { lookType = spell.outfit }, spell.duration * 1000)
 	exhaustion.set(cid, "special", spell.cooldown)
 	doCombat(cid, combat, var)
-    return true
+	return true
 end

@@ -21,20 +21,20 @@
 
 extern Game g_game;
 
-Attr_ReadValue Teleport::readAttr(AttrTypes_t attr, PropStream& propStream)
+Attr_ReadValue Teleport::readAttr(AttrTypes_t attr, PropStream &propStream)
 {
-	if(attr != ATTR_TELE_DEST)
+	if (attr != ATTR_TELE_DEST)
 		return Item::readAttr(attr, propStream);
 
-	TeleportDest* dest;
-	if(!propStream.getStruct(dest))
+	TeleportDest *dest;
+	if (!propStream.getStruct(dest))
 		return ATTR_READ_ERROR;
 
 	setDestination(Position(dest->_x, dest->_y, dest->_z));
 	return ATTR_READ_CONTINUE;
 }
 
-bool Teleport::serializeAttr(PropWriteStream& propWriteStream) const
+bool Teleport::serializeAttr(PropWriteStream &propWriteStream) const
 {
 	bool ret = Item::serializeAttr(propWriteStream);
 	propWriteStream.addByte(ATTR_TELE_DEST);
@@ -48,27 +48,28 @@ bool Teleport::serializeAttr(PropWriteStream& propWriteStream) const
 	return ret;
 }
 
-void Teleport::__addThing(Creature* actor, int32_t, Thing* thing)
+void Teleport::__addThing(Creature *actor, int32_t, Thing *thing)
 {
-	if(!thing || thing->isRemoved())
+	if (!thing || thing->isRemoved())
 		return;
 
-	Tile* destTile = g_game.getTile(destination);
-	if(!destTile)
+	Tile *destTile = g_game.getTile(destination);
+	if (!destTile)
 		return;
-		
-	if(destTile->hasFlag(TILESTATE_TELEPORT)){
+
+	if (destTile->hasFlag(TILESTATE_TELEPORT))
+	{
 		std::clog << "[Warning - Teleport] The teleport at " << getPosition() << " leads to another teleport, this could cause a crash!" << std::endl;
 		return;
 	}
 
-	if(Creature* creature = thing->getCreature())
+	if (Creature *creature = thing->getCreature())
 	{
 		g_game.addMagicEffect(creature->getPosition(), MAGIC_EFFECT_TELEPORT, creature->isGhost());
 		creature->getTile()->moveCreature(actor, creature, destTile);
 		g_game.addMagicEffect(destTile->getPosition(), MAGIC_EFFECT_TELEPORT, creature->isGhost());
 	}
-	else if(Item* item = thing->getItem())
+	else if (Item *item = thing->getItem())
 	{
 		g_game.addMagicEffect(item->getPosition(), MAGIC_EFFECT_TELEPORT);
 		g_game.internalMoveItem(actor, item->getTile(), destTile, INDEX_WHEREEVER, item, item->getItemCount(), NULL);

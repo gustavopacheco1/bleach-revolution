@@ -21,7 +21,6 @@
 #include <iostream>
 #include <boost/regex.hpp>
 
-
 #include "database.h"
 #include "databasesqlite.h"
 
@@ -38,11 +37,11 @@ bool DatabaseSQLite::connect()
 {
 	// test for existence of database file;
 	// sqlite3_open will create a new one if it isn't there (what we don't want)
-	if(!fileExists(g_config.getString(ConfigManager::SQL_FILE)))
+	if (!fileExists(g_config.getString(ConfigManager::SQL_FILE)))
 		return false;
 
 	// Initialize sqlite
-	if(sqlite3_open(g_config.getString(ConfigManager::SQL_FILE).c_str(), &m_handle) == SQLITE_OK)
+	if (sqlite3_open(g_config.getString(ConfigManager::SQL_FILE).c_str(), &m_handle) == SQLITE_OK)
 	{
 		m_connected = true;
 		return true;
@@ -53,24 +52,24 @@ bool DatabaseSQLite::connect()
 	return false;
 }
 
-std::string DatabaseSQLite::_parse(const std::string& s)
+std::string DatabaseSQLite::_parse(const std::string &s)
 {
 	std::string query = "";
 	query.reserve(s.size());
 
 	bool inString = false;
-	for(uint32_t i = 0; i < s.length(); ++i)
+	for (uint32_t i = 0; i < s.length(); ++i)
 	{
 		uint8_t ch = s[i];
-		if(ch == '\'')
+		if (ch == '\'')
 		{
-			if(inString && s[i + 1] != '\'')
+			if (inString && s[i + 1] != '\'')
 				inString = false;
 			else
 				inString = true;
 		}
 
-		if(ch == '`' && !inString)
+		if (ch == '`' && !inString)
 			ch = '"';
 
 		query += ch;
@@ -82,19 +81,19 @@ std::string DatabaseSQLite::_parse(const std::string& s)
 bool DatabaseSQLite::query(std::string query)
 {
 	boost::recursive_mutex::scoped_lock lockClass(sqliteLock);
-	if(!m_connected)
+	if (!m_connected)
 		return false;
 
 	std::string buf = _parse(query);
-	sqlite3_stmt* stmt;
+	sqlite3_stmt *stmt;
 
 	m_lock.lock();
-	if(sqlite3_prepare_v2(m_handle, buf.c_str(), buf.length(), &stmt, NULL) != SQLITE_OK)
+	if (sqlite3_prepare_v2(m_handle, buf.c_str(), buf.length(), &stmt, NULL) != SQLITE_OK)
 	{
 		sqlite3_finalize(stmt);
 		m_lock.unlock();
 
-		std::clog << "sqlite3_prepare_v2(): SQLITE ERROR: " << sqlite3_errmsg(m_handle)  << " (" << buf << ")" << std::endl;
+		std::clog << "sqlite3_prepare_v2(): SQLITE ERROR: " << sqlite3_errmsg(m_handle) << " (" << buf << ")" << std::endl;
 		return false;
 	}
 
@@ -102,65 +101,65 @@ bool DatabaseSQLite::query(std::string query)
 	sqlite3_finalize(stmt);
 
 	m_lock.unlock();
-	if(ret == SQLITE_OK || ret == SQLITE_DONE || ret == SQLITE_ROW)
+	if (ret == SQLITE_OK || ret == SQLITE_DONE || ret == SQLITE_ROW)
 		return true;
 
 	std::clog << "sqlite3_step(): SQLITE ERROR: " << sqlite3_errmsg(m_handle) << std::endl;
 	return false;
 }
 
-DBResult* DatabaseSQLite::storeQuery(std::string query)
+DBResult *DatabaseSQLite::storeQuery(std::string query)
 {
 	boost::recursive_mutex::scoped_lock lockClass(sqliteLock);
-	if(!m_connected)
+	if (!m_connected)
 		return NULL;
 
 	std::string buf = _parse(query);
-	sqlite3_stmt* stmt;
+	sqlite3_stmt *stmt;
 
 	m_lock.lock();
-	if(sqlite3_prepare_v2(m_handle, buf.c_str(), buf.length(), &stmt, NULL) != SQLITE_OK)
+	if (sqlite3_prepare_v2(m_handle, buf.c_str(), buf.length(), &stmt, NULL) != SQLITE_OK)
 	{
 		sqlite3_finalize(stmt);
 		m_lock.unlock();
 
-		std::clog << "sqlite3_prepare_v2(): SQLITE ERROR: " << sqlite3_errmsg(m_handle)  << " (" << buf << ")" << std::endl;
+		std::clog << "sqlite3_prepare_v2(): SQLITE ERROR: " << sqlite3_errmsg(m_handle) << " (" << buf << ")" << std::endl;
 		return NULL;
 	}
 
 	m_lock.unlock();
-	DBResult* result = new SQLiteResult(stmt);
+	DBResult *result = new SQLiteResult(stmt);
 	return verifyResult(result);
 }
 
 std::string DatabaseSQLite::escapeString(std::string s)
 {
 	// remember about quoiting even an empty string!
-	if(!s.size())
+	if (!s.size())
 		return std::string("''");
 
 	// the worst case is 2n + 3
-	char* output = new char[(s.length() << 1) + 3];
+	char *output = new char[(s.length() << 1) + 3];
 	// quotes escaped string and frees temporary buffer
 	sqlite3_snprintf((s.length() << 1) + 1, output, "%Q", s.c_str());
 
 	std::string r(output);
 	delete[] output;
 
-	//escape % and _ because we are using LIKE operator.
+	// escape % and _ because we are using LIKE operator.
 	r = boost::regex_replace(r, boost::regex("%"), "\\%");
 	r = boost::regex_replace(r, boost::regex("_"), "\\_");
-	if(r[r.length() - 1] != '\'')
+	if (r[r.length() - 1] != '\'')
 		r += "'";
 
 	return r;
 }
 
-std::string DatabaseSQLite::escapeBlob(const char* s, uint32_t length)
+std::string DatabaseSQLite::escapeBlob(const char *s, uint32_t length)
 {
 	std::string buf = "x'";
-	char* hex = new char[2 + 1]; //need one extra byte for null-character
-	for(uint32_t i = 0; i < length; ++i)
+	char *hex = new char[2 + 1]; // need one extra byte for null-character
+	for (uint32_t i = 0; i < length; ++i)
 	{
 		sprintf(hex, "%02x", ((uint8_t)s[i]));
 		buf += hex;
@@ -171,32 +170,32 @@ std::string DatabaseSQLite::escapeBlob(const char* s, uint32_t length)
 	return buf;
 }
 
-int32_t SQLiteResult::getDataInt(const std::string& s)
+int32_t SQLiteResult::getDataInt(const std::string &s)
 {
 	listNames_t::iterator it = m_listNames.find(s);
-	if(it != m_listNames.end())
+	if (it != m_listNames.end())
 		return sqlite3_column_int(m_handle, it->second);
 
 	std::clog << "Error during getDataInt(" << s << ")." << std::endl;
 	return 0; // Failed
 }
 
-int64_t SQLiteResult::getDataLong(const std::string& s)
+int64_t SQLiteResult::getDataLong(const std::string &s)
 {
 	listNames_t::iterator it = m_listNames.find(s);
-	if(it != m_listNames.end())
+	if (it != m_listNames.end())
 		return sqlite3_column_int64(m_handle, it->second);
 
 	std::clog << "Error during getDataLong(" << s << ")." << std::endl;
 	return 0; // Failed
 }
 
-std::string SQLiteResult::getDataString(const std::string& s)
+std::string SQLiteResult::getDataString(const std::string &s)
 {
 	listNames_t::iterator it = m_listNames.find(s);
-	if(it != m_listNames.end() )
+	if (it != m_listNames.end())
 	{
-		std::string value = (const char*)sqlite3_column_text(m_handle, it->second);
+		std::string value = (const char *)sqlite3_column_text(m_handle, it->second);
 		return value;
 	}
 
@@ -204,12 +203,12 @@ std::string SQLiteResult::getDataString(const std::string& s)
 	return std::string(""); // Failed
 }
 
-const char* SQLiteResult::getDataStream(const std::string& s, uint64_t& size)
+const char *SQLiteResult::getDataStream(const std::string &s, uint64_t &size)
 {
 	listNames_t::iterator it = m_listNames.find(s);
-	if(it != m_listNames.end())
+	if (it != m_listNames.end())
 	{
-		const char* value = (const char*)sqlite3_column_blob(m_handle, it->second);
+		const char *value = (const char *)sqlite3_column_blob(m_handle, it->second);
 		size = sqlite3_column_bytes(m_handle, it->second);
 		return value;
 	}
@@ -220,7 +219,7 @@ const char* SQLiteResult::getDataStream(const std::string& s, uint64_t& size)
 
 void SQLiteResult::free()
 {
-	if(!m_handle)
+	if (!m_handle)
 	{
 		std::clog << "[Critical - SQLiteResult::free] Trying to free already freed result!!!" << std::endl;
 		return;
@@ -235,21 +234,21 @@ void SQLiteResult::free()
 
 SQLiteResult::~SQLiteResult()
 {
-	if(!m_handle)
+	if (!m_handle)
 		return;
 
 	sqlite3_finalize(m_handle);
 	m_listNames.clear();
 }
 
-SQLiteResult::SQLiteResult(sqlite3_stmt* stmt)
+SQLiteResult::SQLiteResult(sqlite3_stmt *stmt)
 {
-	if(!stmt)
+	if (!stmt)
 		return;
 
 	m_handle = stmt;
 	int32_t fields = sqlite3_column_count(m_handle);
-	for(int32_t i = 0; i < fields; ++i)
+	for (int32_t i = 0; i < fields; ++i)
 		m_listNames[sqlite3_column_name(m_handle, i)] = i;
 }
 #endif

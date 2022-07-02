@@ -5,10 +5,10 @@ local config = {
 
 function onUse(cid, item, fromPosition, itemEx, toPosition)
 	local str = ""
-	if(config.tibianTime) then
+	if (config.tibianTime) then
 		local var = getTibiaTime()
 		str = var.hours .. ':' .. var.minutes
-	elseif(config.twentyFour) then
+	elseif (config.twentyFour) then
 		str = os.date('%H:%M')
 	else
 		str = os.date('%I:%M %p')

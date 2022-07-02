@@ -25,31 +25,31 @@ struct Wait
 	bool premium;
 	int64_t timeout;
 };
-typedef std::list<Wait*> WaitList;
+typedef std::list<Wait *> WaitList;
 
 class Player;
 class WaitingList
 {
-	public:
-		virtual ~WaitingList() {waitList.clear();}
-		static WaitingList* getInstance()
-		{
-			static WaitingList waitingList;
-			return &waitingList;
-		}
+public:
+	virtual ~WaitingList() { waitList.clear(); }
+	static WaitingList *getInstance()
+	{
+		static WaitingList waitingList;
+		return &waitingList;
+	}
 
-		bool login(const Player* player);
-		int32_t getSlot(const Player* player);
+	bool login(const Player *player);
+	int32_t getSlot(const Player *player);
 
-		static int32_t getTime(int32_t slot);
+	static int32_t getTime(int32_t slot);
 
-	protected:
-		WaitingList() {}
-		void cleanup();
+protected:
+	WaitingList() {}
+	void cleanup();
 
-		WaitList::iterator find(const Player* player, uint32_t& slot);
-		int32_t getTimeout(int32_t slot) {return getTime(slot) + 15;}
+	WaitList::iterator find(const Player *player, uint32_t &slot);
+	int32_t getTimeout(int32_t slot) { return getTime(slot) + 15; }
 
-		WaitList waitList;
+	WaitList waitList;
 };
 #endif

@@ -2,7 +2,7 @@
 -- Modified by TheForgottenServer Team,
 -- Modified by The OTX Server Team.
 
-if(Queue == nil) then
+if (Queue == nil) then
 	Queue = {
 		customers = nil,
 		handler = nil,
@@ -26,7 +26,7 @@ if(Queue == nil) then
 
 	-- Pushes a new cid onto the tail of this queue.
 	function Queue:push(cid)
-		if(isPlayer(cid)) then
+		if (isPlayer(cid)) then
 			table.insert(self.customers, cid)
 		end
 	end
@@ -48,7 +48,7 @@ if(Queue == nil) then
 
 	-- Returns true if htis queue is empty.
 	function Queue:empty()
-		return(self:peek() == nil)
+		return (self:peek() == nil)
 	end
 
 	-- Returns the amount of players currently in the queue.
@@ -58,7 +58,7 @@ if(Queue == nil) then
 
 	-- Returns true if the creature with the given cid can be greeted by this npc.
 	function Queue:canGreet(cid)
-		if(isPlayer(cid)) then
+		if (isPlayer(cid)) then
 			return self.handler:isInRange(cid)
 		end
 
@@ -67,7 +67,7 @@ if(Queue == nil) then
 
 	-- Greets the player with the given cid.
 	function Queue:greet(cid)
-		if(self.handler ~= nil) then
+		if (self.handler ~= nil) then
 			self.handler:greet(cid)
 		else
 			error('No handler assigned to queue!')
@@ -78,8 +78,8 @@ if(Queue == nil) then
 	function Queue:greetNext()
 		while (not self:empty()) do
 			local nextPlayer = self:pop()
-			if(self:canGreet(nextPlayer)) then
-				if(callback == nil or callback(nextPlayer)) then
+			if (self:canGreet(nextPlayer)) then
+				if (callback == nil or callback(nextPlayer)) then
 					self:greet(nextPlayer)
 					return true
 				end

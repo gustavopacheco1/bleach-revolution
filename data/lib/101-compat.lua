@@ -1,6 +1,6 @@
 --[[
  * File containing deprecated functions and constants used by alot of scripts and other engines
-]]--
+]] --
 
 TRUE = true
 FALSE = false
@@ -248,7 +248,7 @@ PlayerFlag_HideHealth = 47
 PlayerFlag_CanPassThroughAllCreatures = 48
 
 PlayerCustomFlag_AllowIdle = 0
-PlayerCustomFlag_CanSeePosition	= 1
+PlayerCustomFlag_CanSeePosition = 1
 PlayerCustomFlag_CanSeeItemDetails = 2
 PlayerCustomFlag_CanSeeCreatureDetails = 3
 PlayerCustomFlag_NotSearchable = 4

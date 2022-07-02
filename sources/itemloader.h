@@ -28,17 +28,17 @@ enum itemgroup_t
 	ITEM_GROUP_NONE = 0,
 	ITEM_GROUP_GROUND,
 	ITEM_GROUP_CONTAINER,
-	ITEM_GROUP_WEAPON, //deprecated
-	ITEM_GROUP_AMMUNITION, //deprecated
-	ITEM_GROUP_ARMOR, //deprecated
+	ITEM_GROUP_WEAPON,	   // deprecated
+	ITEM_GROUP_AMMUNITION, // deprecated
+	ITEM_GROUP_ARMOR,	   // deprecated
 	ITEM_GROUP_CHARGES,
-	ITEM_GROUP_TELEPORT, //deprecated
-	ITEM_GROUP_MAGICFIELD, //deprecated
-	ITEM_GROUP_WRITEABLE, //deprecated
-	ITEM_GROUP_KEY, //deprecated
+	ITEM_GROUP_TELEPORT,   // deprecated
+	ITEM_GROUP_MAGICFIELD, // deprecated
+	ITEM_GROUP_WRITEABLE,  // deprecated
+	ITEM_GROUP_KEY,		   // deprecated
 	ITEM_GROUP_SPLASH,
 	ITEM_GROUP_FLUID,
-	ITEM_GROUP_DOOR, //deprecated
+	ITEM_GROUP_DOOR, // deprecated
 	ITEM_GROUP_DEPRECATED,
 	ITEM_GROUP_LAST
 };
@@ -133,7 +133,7 @@ enum itemflags_t
 	FLAG_CANNOTDECAY = 1 << 19,
 	FLAG_ALLOWDISTREAD = 1 << 20,
 	FLAG_UNUSED = 1 << 21,
-	FLAG_CLIENTCHARGES = 1 << 22, //deprecated
+	FLAG_CLIENTCHARGES = 1 << 22, // deprecated
 	FLAG_LOOKTHROUGH = 1 << 23,
 	FLAG_ANIMATION = 1 << 24,
 	FLAG_WALKSTACK = 1 << 25

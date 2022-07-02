@@ -22,21 +22,31 @@
 class NetworkMessage;
 class ProtocolOld : public Protocol
 {
-	public:
-		// static protocol information
-		enum {server_sends_first = false};
-		enum {protocol_identifier = 0x01};
-		enum {use_checksum = false};
-		static const char* protocol_name() {
-			return "old login protocol";
-		}
+public:
+	// static protocol information
+	enum
+	{
+		server_sends_first = false
+	};
+	enum
+	{
+		protocol_identifier = 0x01
+	};
+	enum
+	{
+		use_checksum = false
+	};
+	static const char *protocol_name()
+	{
+		return "old login protocol";
+	}
 
-		explicit ProtocolOld(Connection_ptr connection): Protocol(connection) {}
+	explicit ProtocolOld(Connection_ptr connection) : Protocol(connection) {}
 
-		void onRecvFirstMessage(NetworkMessage& msg) final;
+	void onRecvFirstMessage(NetworkMessage &msg) final;
 
-	protected:
-		void disconnectClient(uint8_t error, const char* message);
+protected:
+	void disconnectClient(uint8_t error, const char *message);
 };
 
 #endif

@@ -1,8 +1,8 @@
 local spell = {
-    cooldown = 50,
-    duration = 30,
-    outfit = 433,
-    effect = 572
+	cooldown = 50,
+	duration = 30,
+	outfit = 433,
+	effect = 572
 }
 
 local combat = createCombatObject()
@@ -18,20 +18,20 @@ setConditionParam(condition, CONDITION_PARAM_SKILL_SHIELD, 5)
 setCombatCondition(combat, condition)
 
 function onCastSpell(cid, var)
-    if exhaustion.check(cid, "special") then
-        doPlayerSendCancel(cid, "Cooldown " .. exhaustion.get(cid, "special") .. "s")
-        return false
-    end
+	if exhaustion.check(cid, "special") then
+		doPlayerSendCancel(cid, "Cooldown " .. exhaustion.get(cid, "special") .. "s")
+		return false
+	end
 
-    local player_position = getCreaturePosition(cid)
-    doSendMagicEffect({
-        x = player_position.x,
-        y = player_position.y,
-        z = player_position.z,
-    }, spell.effect)
+	local player_position = getCreaturePosition(cid)
+	doSendMagicEffect({
+		x = player_position.x,
+		y = player_position.y,
+		z = player_position.z,
+	}, spell.effect)
 
-	doSetCreatureOutfit(cid, {lookType = spell.outfit}, spell.duration * 1000)
+	doSetCreatureOutfit(cid, { lookType = spell.outfit }, spell.duration * 1000)
 	exhaustion.set(cid, "special", spell.cooldown)
 	doCombat(cid, combat, var)
-    return true
+	return true
 end

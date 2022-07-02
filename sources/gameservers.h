@@ -22,50 +22,49 @@
 
 class GameServer
 {
-	public:
-		GameServer(): name("TheOTXServer"), address(LOCALHOST),
-			versionMin(CLIENT_VERSION_MIN), versionMax(CLIENT_VERSION_MAX) {}
-		GameServer(std::string _name, uint32_t _versionMin, uint32_t _versionMax, uint32_t _address, std::vector<int32_t> _ports):
-			name(_name), address(_address), versionMin(_versionMin), versionMax(_versionMax), ports(_ports) {}
-		virtual ~GameServer() {}
+public:
+	GameServer() : name("TheOTXServer"), address(LOCALHOST),
+				   versionMin(CLIENT_VERSION_MIN), versionMax(CLIENT_VERSION_MAX) {}
+	GameServer(std::string _name, uint32_t _versionMin, uint32_t _versionMax, uint32_t _address, std::vector<int32_t> _ports) : name(_name), address(_address), versionMin(_versionMin), versionMax(_versionMax), ports(_ports) {}
+	virtual ~GameServer() {}
 
-		std::string getName() const {return name;}
-		uint32_t getVersionMin() const {return versionMin;}
-		uint32_t getVersionMax() const {return versionMax;}
+	std::string getName() const { return name; }
+	uint32_t getVersionMin() const { return versionMin; }
+	uint32_t getVersionMax() const { return versionMax; }
 
-		uint32_t getAddress() const {return address;}
-		std::vector<int32_t> getPorts() const {return ports;}
+	uint32_t getAddress() const { return address; }
+	std::vector<int32_t> getPorts() const { return ports; }
 
-	protected:
-		std::string name;
-		uint32_t address, versionMin, versionMax;
-		std::vector<int32_t> ports;
+protected:
+	std::string name;
+	uint32_t address, versionMin, versionMax;
+	std::vector<int32_t> ports;
 };
 
-typedef std::map<uint32_t, GameServer*> GameServersMap;
+typedef std::map<uint32_t, GameServer *> GameServersMap;
 class GameServers
 {
-	public:
-		GameServers() {}
-		virtual ~GameServers() {clear();}
+public:
+	GameServers() {}
+	virtual ~GameServers() { clear(); }
 
-		static GameServers* getInstance()
-		{
-			static GameServers instance;
-			return &instance;
-		}
+	static GameServers *getInstance()
+	{
+		static GameServers instance;
+		return &instance;
+	}
 
-		bool loadFromXml(bool result);
-		bool reload();
+	bool loadFromXml(bool result);
+	bool reload();
 
-		GameServer* getServerById(uint32_t id) const;
+	GameServer *getServerById(uint32_t id) const;
 
-		GameServersMap::const_iterator getFirstServer() const {return serverList.begin();}
-		GameServersMap::const_iterator getLastServer() const {return serverList.end();}
+	GameServersMap::const_iterator getFirstServer() const { return serverList.begin(); }
+	GameServersMap::const_iterator getLastServer() const { return serverList.end(); }
 
-	protected:
-		void clear();
+protected:
+	void clear();
 
-		GameServersMap serverList;
+	GameServersMap serverList;
 };
 #endif

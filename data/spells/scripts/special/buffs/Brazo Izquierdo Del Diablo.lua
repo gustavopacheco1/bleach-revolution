@@ -1,8 +1,8 @@
 local spell = {
-    cooldown = 50,
-    duration = 15,
-    dodge_percentage = 50,
-    effect = 658
+	cooldown = 50,
+	duration = 15,
+	dodge_percentage = 50,
+	effect = 658
 }
 
 local combat = createCombatObject()
@@ -12,24 +12,24 @@ setConditionParam(condition, CONDITION_PARAM_BUFF, true)
 setCombatCondition(combat, condition)
 
 function onCastSpell(cid, var)
-    if checkSpecialCooldown(cid) then
-        return false
-    end
+	if checkSpecialCooldown(cid) then
+		return false
+	end
 
-    local player_position = getCreaturePosition(cid)
-    doSendMagicEffect({
-        x = player_position.x,
-        y = player_position.y,
-        z = player_position.z
-    }, spell.effect)
+	local player_position = getCreaturePosition(cid)
+	doSendMagicEffect({
+		x = player_position.x,
+		y = player_position.y,
+		z = player_position.z
+	}, spell.effect)
 
-    setPlayerStorageValue(cid, "dodge_special", spell.dodge_percentage)
-    addEvent(function()
-        if isCreature(cid) then
-            setPlayerStorageValue(cid, "dodge_special", 0)
-        end
-    end, spell.duration * 1000)
-    exhaustion.set(cid, "special", spell.cooldown)
-    doCombat(cid, combat, var)
-    return true
+	setPlayerStorageValue(cid, "dodge_special", spell.dodge_percentage)
+	addEvent(function()
+		if isCreature(cid) then
+			setPlayerStorageValue(cid, "dodge_special", 0)
+		end
+	end, spell.duration * 1000)
+	exhaustion.set(cid, "special", spell.cooldown)
+	doCombat(cid, combat, var)
+	return true
 end

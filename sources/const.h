@@ -113,7 +113,7 @@ enum MagicEffect_t
 	MAGIC_EFFECT_EXTENDED = 0xFFFE,
 	MAGIC_EFFECT_LAST = MAGIC_EFFECT_EXTENDED,
 
-	//for internal use, dont send to client
+	// for internal use, dont send to client
 	MAGIC_EFFECT_NONE = 0xFF,
 	MAGIC_EFFECT_UNKNOWN = 0xFFFF
 };
@@ -165,8 +165,8 @@ enum ShootEffect_t
 	SHOOT_EFFECT_EXTENDED = 0xFFFE,
 	SHOOT_EFFECT_LAST = SHOOT_EFFECT_EXTENDED,
 
-	//for internal use, dont send to client
-	SHOOT_EFFECT_WEAPONTYPE = 0xFE, //254
+	// for internal use, dont send to client
+	SHOOT_EFFECT_WEAPONTYPE = 0xFE, // 254
 	SHOOT_EFFECT_NONE = 0xFF,
 	SHOOT_EFFECT_UNKNOWN = 0xFFFF
 };
@@ -199,25 +199,25 @@ enum MessageClasses
 	MSG_SPEAK_MONSTER_FIRST = MSG_SPEAK_MONSTER_SAY,
 	MSG_SPEAK_MONSTER_LAST = MSG_SPEAK_MONSTER_YELL,
 
-	MSG_STATUS_CONSOLE_RED = 18, /*Red message in local chat*/
-	MSG_EVENT_ORANGE = 19, /*Orange message in local chat*/
+	MSG_STATUS_CONSOLE_RED = 18,	/*Red message in local chat*/
+	MSG_EVENT_ORANGE = 19,			/*Orange message in local chat*/
 	MSG_STATUS_CONSOLE_ORANGE = 20, /*Orange message in local chat*/
-	MSG_STATUS_WARNING = 21, /*Red message in game window and in the console*/
-	MSG_EVENT_ADVANCE = 22, /*White message in game window and in the console*/
-	MSG_EVENT_DEFAULT = 23, /*White message at the bottom of the game window and in the console*/
-	MSG_STATUS_DEFAULT = 24, /*White message at the bottom of the game window and in the console*/
-	MSG_INFO_DESCR = 25, /*Green message in game window and in the console*/
-	MSG_STATUS_SMALL = 26, /*White message at the bottom of the game window"*/
-	MSG_STATUS_CONSOLE_BLUE = 27, /*Teal message in local chat*/
+	MSG_STATUS_WARNING = 21,		/*Red message in game window and in the console*/
+	MSG_EVENT_ADVANCE = 22,			/*White message in game window and in the console*/
+	MSG_EVENT_DEFAULT = 23,			/*White message at the bottom of the game window and in the console*/
+	MSG_STATUS_DEFAULT = 24,		/*White message at the bottom of the game window and in the console*/
+	MSG_INFO_DESCR = 25,			/*Green message in game window and in the console*/
+	MSG_STATUS_SMALL = 26,			/*White message at the bottom of the game window"*/
+	MSG_STATUS_CONSOLE_BLUE = 27,	/*Teal message in local chat*/
 
-	//for internal use
-	MSG_LOOT = MSG_INFO_DESCR, /*Green message in game window and in the console*/
-	MSG_TRADE_NPC = MSG_INFO_DESCR, /*Green message in game window and in the console*/
-	MSG_EVENT_GUILD = MSG_INFO_DESCR, /*Green message in game window and in the console*/
+	// for internal use
+	MSG_LOOT = MSG_INFO_DESCR,			   /*Green message in game window and in the console*/
+	MSG_TRADE_NPC = MSG_INFO_DESCR,		   /*Green message in game window and in the console*/
+	MSG_EVENT_GUILD = MSG_INFO_DESCR,	   /*Green message in game window and in the console*/
 	MSG_PARTY_MANAGEMENT = MSG_INFO_DESCR, /*Green message in game window and in the console*/
-	MSG_PARTY = MSG_INFO_DESCR, /*Green message in game window and in the console*/
-	MSG_REPORT = MSG_EVENT_ADVANCE, /*White message in game window and in the console*/
-	MSG_HOTKEY_USE = MSG_INFO_DESCR, /*Green message in game window*/
+	MSG_PARTY = MSG_INFO_DESCR,			   /*Green message in game window and in the console*/
+	MSG_REPORT = MSG_EVENT_ADVANCE,		   /*White message in game window and in the console*/
+	MSG_HOTKEY_USE = MSG_INFO_DESCR,	   /*Green message in game window*/
 	MSG_DAMAGE_DEALT = MSG_STATUS_DEFAULT,
 	MSG_DAMAGE_RECEIVED = MSG_STATUS_DEFAULT,
 	MSG_HEALED = MSG_STATUS_DEFAULT,
@@ -294,40 +294,38 @@ enum FluidTypes_t
 };
 
 const uint8_t reverseFluidMap[] =
-{
-	FLUID_EMPTY,
-	FLUID_WATER,
-	FLUID_MANA,
-	FLUID_BEER,
-	FLUID_EMPTY,
-	FLUID_BLOOD,
-	FLUID_SLIME,
-	FLUID_EMPTY,
-	FLUID_LEMONADE,
-	FLUID_MILK
-};
+	{
+		FLUID_EMPTY,
+		FLUID_WATER,
+		FLUID_MANA,
+		FLUID_BEER,
+		FLUID_EMPTY,
+		FLUID_BLOOD,
+		FLUID_SLIME,
+		FLUID_EMPTY,
+		FLUID_LEMONADE,
+		FLUID_MILK};
 
 const uint8_t clientToServerFluidMap[] =
-{
-	FLUID_EMPTY,
-	FLUID_WATER,
-	FLUID_MANA,
-	FLUID_BEER,
-	FLUID_MUD,
-	FLUID_BLOOD,
-	FLUID_SLIME,
-	FLUID_RUM,
-	FLUID_LEMONADE,
-	FLUID_MILK,
-	FLUID_WINE,
-	FLUID_LIFE,
-	FLUID_URINE,
-	FLUID_OIL,
-	FLUID_FRUITJUICE,
-	FLUID_COCONUTMILK,
-	FLUID_TEA,
-	FLUID_MEAD
-};
+	{
+		FLUID_EMPTY,
+		FLUID_WATER,
+		FLUID_MANA,
+		FLUID_BEER,
+		FLUID_MUD,
+		FLUID_BLOOD,
+		FLUID_SLIME,
+		FLUID_RUM,
+		FLUID_LEMONADE,
+		FLUID_MILK,
+		FLUID_WINE,
+		FLUID_LIFE,
+		FLUID_URINE,
+		FLUID_OIL,
+		FLUID_FRUITJUICE,
+		FLUID_COCONUTMILK,
+		FLUID_TEA,
+		FLUID_MEAD};
 
 enum ClientFluidTypes_t
 {
@@ -344,16 +342,15 @@ enum ClientFluidTypes_t
 };
 
 const uint8_t fluidMap[] =
-{
-	CLIENTFLUID_EMPTY,
-	CLIENTFLUID_BLUE,
-	CLIENTFLUID_RED,
-	CLIENTFLUID_BROWN_1,
-	CLIENTFLUID_GREEN,
-	CLIENTFLUID_YELLOW,
-	CLIENTFLUID_WHITE,
-	CLIENTFLUID_PURPLE
-};
+	{
+		CLIENTFLUID_EMPTY,
+		CLIENTFLUID_BLUE,
+		CLIENTFLUID_RED,
+		CLIENTFLUID_BROWN_1,
+		CLIENTFLUID_GREEN,
+		CLIENTFLUID_YELLOW,
+		CLIENTFLUID_WHITE,
+		CLIENTFLUID_PURPLE};
 
 enum Color_t
 {
@@ -627,13 +624,12 @@ struct MessageDetails
 {
 	int32_t value;
 	Color_t color;
-	MessageDetails* sub;
+	MessageDetails *sub;
 
-	MessageDetails(int32_t value = 0, Color_t color = COLOR_WHITE):
-		value(value), color(color), sub(NULL) {}
+	MessageDetails(int32_t value = 0, Color_t color = COLOR_WHITE) : value(value), color(color), sub(NULL) {}
 };
 
-//Reserved player storage key ranges
+// Reserved player storage key ranges
 //[10000000 - 20000000]
 #define PSTRG_RESERVED_RANGE_START 10000000
 #define PSTRG_RESERVED_RANGE_SIZE 10000000

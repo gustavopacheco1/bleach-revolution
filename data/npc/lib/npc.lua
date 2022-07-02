@@ -15,7 +15,7 @@ function selfMoveToThing(id)
 	local thing = getThing(id)
 
 	errors(true)
-	if(thing.uid == 0) then
+	if (thing.uid == 0) then
 		return
 	end
 
@@ -25,14 +25,14 @@ function selfMoveToThing(id)
 end
 
 function selfMoveTo(x, y, z)
-	local position = {x = 0, y = 0, z = 0}
-	if(type(x) ~= "table") then
+	local position = { x = 0, y = 0, z = 0 }
+	if (type(x) ~= "table") then
 		position = Position(x, y, z)
 	else
 		position = x
 	end
 
-	if(isValidPosition(position)) then
+	if (isValidPosition(position)) then
 		doSteerCreature(getNpcId(), position)
 	end
 end
@@ -51,17 +51,17 @@ function getNpcDistanceTo(id)
 	local thing = getThing(id)
 
 	errors(true)
-	if(thing.uid == 0) then
+	if (thing.uid == 0) then
 		return nil
 	end
 
 	local c = getCreaturePosition(id)
-	if(not isValidPosition(c)) then
+	if (not isValidPosition(c)) then
 		return nil
 	end
 
 	local s = getCreaturePosition(getNpcId())
-	if(not isValidPosition(s) or s.z ~= c.z) then
+	if (not isValidPosition(s) or s.z ~= c.z) then
 		return nil
 	end
 
@@ -70,11 +70,11 @@ end
 
 function doMessageCheck(message, keyword, exact)
 	local exact = exact or false
-	if(type(keyword) == "table") then
+	if (type(keyword) == "table") then
 		return isInArray(keyword, message, exact)
 	end
 
-	if(exact) then
+	if (exact) then
 		return message == keyword
 	end
 
@@ -85,7 +85,7 @@ end
 function doNpcSellItem(cid, itemid, amount, subType, ignoreCap, inBackpacks, backpack)
 	local amount = amount or 1
 	local subType = subType or 0
-	local ignoreCap =  false
+	local ignoreCap = false
 	local inBackpacks = inBackpacks or false
 	local backpack = backpack or 1988
 	local item = 0
@@ -100,11 +100,11 @@ function doNpcSellItem(cid, itemid, amount, subType, ignoreCap, inBackpacks, bac
 		local ret = doPlayerAddItemEx(cid, stuff, ignoreCap)
 
 		if ret == RETURNVALUE_NOERROR then
-			return amount,0, {stuff}
+			return amount, 0, { stuff }
 		elseif ret == RETURNVALUE_NOTENOUGHROOM then
-			return 0,0, {}
+			return 0, 0, {}
 		elseif ret == RETURNVALUE_NOTENOUGHCAPACITY then
-			return 0,0, {}
+			return 0, 0, {}
 		end
 	end
 
@@ -117,11 +117,11 @@ function doNpcSellItem(cid, itemid, amount, subType, ignoreCap, inBackpacks, bac
 		for i = 1, amount do
 
 			local item = doAddContainerItem(container, itemid, subType)
-			if(itemid == ITEM_PARCEL) then
+			if (itemid == ITEM_PARCEL) then
 				doAddContainerItem(item, ITEM_LABEL)
 			end
 
-			if(isInArray({(getContainerCapById(backpack) * b), amount}, i)) then
+			if (isInArray({ (getContainerCapById(backpack) * b), amount }, i)) then
 				if doPlayerAddItemEx(cid, container, ignoreCap) ~= RETURNVALUE_NOERROR then
 					b = b - 1
 					return a, b, itemTable
@@ -144,10 +144,10 @@ function doNpcSellItem(cid, itemid, amount, subType, ignoreCap, inBackpacks, bac
 
 	for i = 1, amount do
 		item = doCreateItemEx(itemid, subType)
-		if(itemid == ITEM_PARCEL) then
+		if (itemid == ITEM_PARCEL) then
 			doAddContainerItem(item, ITEM_LABEL)
 		end
-		if(doPlayerAddItemEx(cid, item, ignoreCap) ~= RETURNVALUE_NOERROR) then
+		if (doPlayerAddItemEx(cid, item, ignoreCap) ~= RETURNVALUE_NOERROR) then
 			return a, 0, itemTable
 		end
 		table.insert(itemTable, item)

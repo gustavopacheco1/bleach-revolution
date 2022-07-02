@@ -67,103 +67,112 @@ class Player;
 
 class Manager
 {
-	public:
-		virtual ~Manager() {m_clients.clear();}
-		static Manager* getInstance()
-		{
-			static Manager instance;
-			return &instance;
-		}
+public:
+	virtual ~Manager() { m_clients.clear(); }
+	static Manager *getInstance()
+	{
+		static Manager instance;
+		return &instance;
+	}
 
-		bool addConnection(ProtocolManager* client);
-		bool loginConnection(ProtocolManager* client);
-		void removeConnection(ProtocolManager* client);
+	bool addConnection(ProtocolManager *client);
+	bool loginConnection(ProtocolManager *client);
+	void removeConnection(ProtocolManager *client);
 
-		bool allow(uint32_t ip) const;
-		LuaReturn_t execute(const std::string& script);
+	bool allow(uint32_t ip) const;
+	LuaReturn_t execute(const std::string &script);
 
-		void output(const std::string& message);
-		void addUser(Player* player);
-		void removeUser(uint32_t playerId);
+	void output(const std::string &message);
+	void addUser(Player *player);
+	void removeUser(uint32_t playerId);
 
-		void talk(uint32_t playerId, uint16_t channelId, MessageClasses type, const std::string& message);
-		void addUser(uint32_t playerId, uint16_t channelId);
-		void removeUser(uint32_t playerId, uint16_t channelId);
+	void talk(uint32_t playerId, uint16_t channelId, MessageClasses type, const std::string &message);
+	void addUser(uint32_t playerId, uint16_t channelId);
+	void removeUser(uint32_t playerId, uint16_t channelId);
 
-	protected:
-		Manager() {}
-		LuaInterface* m_interface;
+protected:
+	Manager() {}
+	LuaInterface *m_interface;
 
-		typedef std::map<ProtocolManager*, bool> ClientMap;
-		ClientMap m_clients;
+	typedef std::map<ProtocolManager *, bool> ClientMap;
+	ClientMap m_clients;
 };
-
 
 class ProtocolManager : public Protocol
 {
-	public:
+public:
 #ifdef __ENABLE_SERVER_DIAGNOSTIC__
-		static uint32_t protocolManagerCount;
+	static uint32_t protocolManagerCount;
 #endif
-		virtual void onRecvFirstMessage(NetworkMessage& msg);
+	virtual void onRecvFirstMessage(NetworkMessage &msg);
 
-		ProtocolManager(Connection_ptr connection): Protocol(connection)
-		{
-			m_state = NO_CONNECTED;
-			m_loginTries = m_lastCommand = m_channels = 0;
-			m_startTime = time(NULL);
+	ProtocolManager(Connection_ptr connection) : Protocol(connection)
+	{
+		m_state = NO_CONNECTED;
+		m_loginTries = m_lastCommand = m_channels = 0;
+		m_startTime = time(NULL);
 #ifdef __ENABLE_SERVER_DIAGNOSTIC__
-			protocolManagerCount++;
+		protocolManagerCount++;
 #endif
-		}
-		virtual ~ProtocolManager()
-		{
+	}
+	virtual ~ProtocolManager()
+	{
 #ifdef __ENABLE_SERVER_DIAGNOSTIC__
-			protocolManagerCount--;
+		protocolManagerCount--;
 #endif
-		}
+	}
 
-                enum {server_sends_first = false};
-                enum {protocol_identifier = 0xFD};
-                enum {use_checksum = false};
-                static const char* protocol_name() {
-                        return "manager protocol";
-                }
+	enum
+	{
+		server_sends_first = false
+	};
+	enum
+	{
+		protocol_identifier = 0xFD
+	};
+	enum
+	{
+		use_checksum = false
+	};
+	static const char *protocol_name()
+	{
+		return "manager protocol";
+	}
 
-		bool checkChannel(uint16_t channelId) const {return ((m_channels & (uint32_t)channelId) == (uint32_t)channelId);}
+	bool checkChannel(uint16_t channelId) const { return ((m_channels & (uint32_t)channelId) == (uint32_t)channelId); }
 
-		void output(const std::string& message);
-		void addUser(Player* player);
-		void removeUser(uint32_t playerId);
+	void output(const std::string &message);
+	void addUser(Player *player);
+	void removeUser(uint32_t playerId);
 
-		void talk(uint32_t playerId, uint16_t channelId, MessageClasses type, const std::string& message);
-		void addUser(uint32_t playerId, uint16_t channelId);
-		void removeUser(uint32_t playerId, uint16_t channelId);
+	void talk(uint32_t playerId, uint16_t channelId, MessageClasses type, const std::string &message);
+	void addUser(uint32_t playerId, uint16_t channelId);
+	void removeUser(uint32_t playerId, uint16_t channelId);
 
-	protected:
-		enum ProtocolState_t
-		{
-			NO_CONNECTED,
-			NO_LOGGED_IN,
-			LOGGED_IN,
-		};
+protected:
+	enum ProtocolState_t
+	{
+		NO_CONNECTED,
+		NO_LOGGED_IN,
+		LOGGED_IN,
+	};
 
-		virtual void parsePacket(NetworkMessage& msg);
-		virtual void release();
+	virtual void parsePacket(NetworkMessage &msg);
+	virtual void release();
 
-		void pong();
-		void execute(std::string lua);
-		void user(uint32_t playerId);
+	void pong();
+	void execute(std::string lua);
+	void user(uint32_t playerId);
 
-		void channels();
-		void chat(std::string name, uint16_t channelId, MessageClasses type, std::string message);
-		void channel(uint16_t channelId, bool opening);
+	void channels();
+	void chat(std::string name, uint16_t channelId, MessageClasses type, std::string message);
+	void channel(uint16_t channelId, bool opening);
 
-	private:
-		void addLogLine(LogType_t type, std::string message);
+private:
+	void addLogLine(LogType_t type, std::string message);
 
-		int32_t m_loginTries;
-		ProtocolState_t m_state;
-		uint32_t m_lastCommand, m_startTime, m_channels;
+	int32_t m_loginTries;
+	ProtocolState_t m_state;
+	uint32_t m_lastCommand, m_startTime, m_channels;
 };
 #endif

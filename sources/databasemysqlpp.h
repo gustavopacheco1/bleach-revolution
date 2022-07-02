@@ -34,48 +34,49 @@
 
 class DatabaseMySQLpp : public _Database
 {
-	public:
-		DatabaseMySQLpp();
-		DATABASE_VIRTUAL ~DatabaseMySQLpp();
+public:
+	DatabaseMySQLpp();
+	DATABASE_VIRTUAL ~DatabaseMySQLpp();
 
-		DATABASE_VIRTUAL bool connect(bool _reconnect);
-		DATABASE_VIRTUAL bool multiLine() const {return true;}
+	DATABASE_VIRTUAL bool connect(bool _reconnect);
+	DATABASE_VIRTUAL bool multiLine() const { return true; }
 
-		DATABASE_VIRTUAL bool beginTransaction();
-		DATABASE_VIRTUAL bool rollback();
-		DATABASE_VIRTUAL bool commit();
+	DATABASE_VIRTUAL bool beginTransaction();
+	DATABASE_VIRTUAL bool rollback();
+	DATABASE_VIRTUAL bool commit();
 
-		DATABASE_VIRTUAL bool query(std::string query);
-		DATABASE_VIRTUAL DBResult* storeQuery(std::string query);
+	DATABASE_VIRTUAL bool query(std::string query);
+	DATABASE_VIRTUAL DBResult *storeQuery(std::string query);
 
-		DATABASE_VIRTUAL std::string escapeString(std::string s) {return escapeBlob(s.c_str(), s.length());}
-		DATABASE_VIRTUAL std::string escapeBlob(const char* s, uint32_t length);
+	DATABASE_VIRTUAL std::string escapeString(std::string s) { return escapeBlob(s.c_str(), s.length()); }
+	DATABASE_VIRTUAL std::string escapeBlob(const char *s, uint32_t length);
 
-		DATABASE_VIRTUAL uint64_t getLastInsertId();
-		DATABASE_VIRTUAL DatabaseEngine_t getDatabaseEngine() {return DATABASE_ENGINE_MYSQL;}
+	DATABASE_VIRTUAL uint64_t getLastInsertId();
+	DATABASE_VIRTUAL DatabaseEngine_t getDatabaseEngine() { return DATABASE_ENGINE_MYSQL; }
 
-	protected:
-		sql::mysql::MySQL_Driver* m_driver;
-		sql::mysql::MySQL_Connection* m_connection;
+protected:
+	sql::mysql::MySQL_Driver *m_driver;
+	sql::mysql::MySQL_Connection *m_connection;
 };
 
 class MySQLppResult : public _DBResult
 {
 	friend class DatabaseMySQLpp;
-	public:
-		DATABASE_VIRTUAL int32_t getDataInt(const std::string& s);
-		DATABASE_VIRTUAL int64_t getDataLong(const std::string& s);
-		DATABASE_VIRTUAL std::string getDataString(const std::string& s);
-		DATABASE_VIRTUAL const char* getDataStream(const std::string& s, uint64_t& size);
 
-		DATABASE_VIRTUAL void free();
-		DATABASE_VIRTUAL bool next();
+public:
+	DATABASE_VIRTUAL int32_t getDataInt(const std::string &s);
+	DATABASE_VIRTUAL int64_t getDataLong(const std::string &s);
+	DATABASE_VIRTUAL std::string getDataString(const std::string &s);
+	DATABASE_VIRTUAL const char *getDataStream(const std::string &s, uint64_t &size);
 
-	protected:
-		MySQLppResult(sql::ResultSet* result);
-		DATABASE_VIRTUAL ~MySQLppResult();
+	DATABASE_VIRTUAL void free();
+	DATABASE_VIRTUAL bool next();
 
-		sql::ResultSet* m_result;
+protected:
+	MySQLppResult(sql::ResultSet *result);
+	DATABASE_VIRTUAL ~MySQLppResult();
+
+	sql::ResultSet *m_result;
 };
 #endif
 #endif

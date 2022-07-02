@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>  
-<mod name="Simple Task" version="3.0" author="Vodkart" contact="xtibia.com" enabled="yes">  
-<config name="task_func"><![CDATA[
+<?xml version="1.0" encoding="UTF-8"?>
+<mod name="Simple Task" version="3.0" author="Vodkart" contact="xtibia.com" enabled="yes">
+	<config name="task_func">
+		<![CDATA[
 
 tasktabble = {
 ["evil janemba"] = {monster_race={"evil janemba"}, storage_start = 200221, storage = 91021,count = 5000, exp = 70000, money = 200000, reward = {{12696,1},{2160,500},{2148,1},{2152,1}}},
@@ -180,13 +181,17 @@ end
 		  end
 		  return iter
 		end
-]]></config>
-<event type="login" name="TaskLogin" event="script"><![CDATA[
+]]>
+	</config>
+	<event type="login" name="TaskLogin" event="script">
+		<![CDATA[
 function onLogin(cid)
 registerCreatureEvent(cid, "KillTask")
 return true
-end]]></event>
-<talkaction words="/task;!task" event="buffer"><![CDATA[
+end]]>
+	</event>
+	<talkaction words="/task;!task" event="buffer">
+		<![CDATA[
 domodlib('task_func')
 local param = string.lower(param)
 if param == "rank" then
@@ -201,8 +206,10 @@ str = str..k.." = ".. (not tonumber(contagem) and "["..contagem.."]" or "["..((c
 end
 str = str .. ""
 return doShowTextDialog(cid, 12749, str)
-]]></talkaction>	
-<event type="kill" name="KillTask" event="script"><![CDATA[
+]]>
+	</talkaction>
+	<event type="kill" name="KillTask" event="script">
+		<![CDATA[
 domodlib('task_func')
 function onKill(cid, target, lastHit)
 if(isMonster(target) == true) then
@@ -224,5 +231,6 @@ end
 end
 end
 return true
-end]]></event>
+end]]>
+	</event>
 </mod>

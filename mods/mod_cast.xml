@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mod name="Mod Cast" version="1.0" author="Martyx" contact="martyx@otland.net" enabled="yes">
-	<event type="logout" name="cast-log-out" event="script"><![CDATA[
+	<event type="logout" name="cast-log-out" event="script">
+		<![CDATA[
 		function onLogout(cid, forceLogout)
 			if(getCreatureNoMove(cid)) then
 				return false
@@ -13,8 +14,10 @@
 			doCreatureSetStorage(cid, "save")
 			return true
 		end
-	]]></event>
-	<globalevent name="viewers" interval="10000" event="script"><![CDATA[
+	]]>
+	</event>
+	<globalevent name="viewers" interval="10000" event="script">
+		<![CDATA[
 		function onThink(interval)
 			local players = getPlayersOnline()
 			for _, pid in ipairs(players) do
@@ -26,8 +29,10 @@
 
 			return true
 		end
-	]]></globalevent>
-	<talkaction words="/live;!live" event="script"><![CDATA[
+	]]>
+	</globalevent>
+	<talkaction words="/live;!live" event="script">
+		<![CDATA[
 		function onSay(cid, words, param, channelId)
 			local t, data = string.explode(param, " ", 1), getPlayerSpectators(cid)
 			if(isInArray({'off', 'no', 'disable'}, t[1])) then
@@ -255,5 +260,6 @@
 
 			return true
 		end
-	]]></talkaction>
+	]]>
+	</talkaction>
 </mod>

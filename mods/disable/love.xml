@@ -28,5 +28,5 @@
 
 		doPlayerSendCancel(cid, 'Need a player to love')
 		return true
-	]]></talkaction> 
+	]]></talkaction>
 </mod>

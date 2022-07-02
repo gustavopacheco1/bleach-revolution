@@ -22,63 +22,63 @@
 
 class Teleport : public Item, public Cylinder
 {
-	public:
-		Teleport(uint16_t type): Item(type) {}
-		virtual ~Teleport() {}
+public:
+	Teleport(uint16_t type) : Item(type) {}
+	virtual ~Teleport() {}
 
-		virtual Teleport* getTeleport() {return this;}
-		virtual const Teleport* getTeleport() const {return this;}
+	virtual Teleport *getTeleport() { return this; }
+	virtual const Teleport *getTeleport() const { return this; }
 
-		//serialization
-		virtual Attr_ReadValue readAttr(AttrTypes_t attr, PropStream& propStream);
-		virtual bool serializeAttr(PropWriteStream& propWriteStream) const;
+	// serialization
+	virtual Attr_ReadValue readAttr(AttrTypes_t attr, PropStream &propStream);
+	virtual bool serializeAttr(PropWriteStream &propWriteStream) const;
 
-		void setDestination(const Position& pos) {destination = pos;}
-		Position getDestination() const {return destination;}
+	void setDestination(const Position &pos) { destination = pos; }
+	Position getDestination() const { return destination; }
 
-		//cylinder implementations
-		virtual Cylinder* getParent() {return Item::getParent();}
-		virtual const Cylinder* getParent() const {return Item::getParent();}
-		virtual bool isRemoved() const {return Item::isRemoved();}
-		virtual Position getPosition() const {return Item::getPosition();}
-		virtual Tile* getTile() {return Item::getTile();}
-		virtual const Tile* getTile() const {return Item::getTile();}
-		virtual Item* getItem() {return this;}
-		virtual const Item* getItem() const {return this;}
-		virtual Creature* getCreature() {return NULL;}
-		virtual const Creature* getCreature() const {return NULL;}
+	// cylinder implementations
+	virtual Cylinder *getParent() { return Item::getParent(); }
+	virtual const Cylinder *getParent() const { return Item::getParent(); }
+	virtual bool isRemoved() const { return Item::isRemoved(); }
+	virtual Position getPosition() const { return Item::getPosition(); }
+	virtual Tile *getTile() { return Item::getTile(); }
+	virtual const Tile *getTile() const { return Item::getTile(); }
+	virtual Item *getItem() { return this; }
+	virtual const Item *getItem() const { return this; }
+	virtual Creature *getCreature() { return NULL; }
+	virtual const Creature *getCreature() const { return NULL; }
 
-		virtual ReturnValue __queryAdd(int32_t, const Thing*, uint32_t,
-			uint32_t, Creature* = NULL) const {return RET_NOTPOSSIBLE;}
-		virtual ReturnValue __queryMaxCount(int32_t, const Thing*, uint32_t,
-			uint32_t&, uint32_t) const {return RET_NOTPOSSIBLE;}
-		virtual ReturnValue __queryRemove(const Thing*, uint32_t,
-			uint32_t, Creature* = NULL) const {return RET_NOERROR;}
-		virtual Cylinder* __queryDestination(int32_t&, const Thing*, Item**,
-			uint32_t&) {return this;}
+	virtual ReturnValue __queryAdd(int32_t, const Thing *, uint32_t,
+								   uint32_t, Creature * = NULL) const { return RET_NOTPOSSIBLE; }
+	virtual ReturnValue __queryMaxCount(int32_t, const Thing *, uint32_t,
+										uint32_t &, uint32_t) const { return RET_NOTPOSSIBLE; }
+	virtual ReturnValue __queryRemove(const Thing *, uint32_t,
+									  uint32_t, Creature * = NULL) const { return RET_NOERROR; }
+	virtual Cylinder *__queryDestination(int32_t &, const Thing *, Item **,
+										 uint32_t &) { return this; }
 
-		virtual void __addThing(Creature* actor, Thing* thing) {return __addThing(actor, 0, thing);}
-		virtual void __addThing(Creature* actor, int32_t index, Thing* thing);
+	virtual void __addThing(Creature *actor, Thing *thing) { return __addThing(actor, 0, thing); }
+	virtual void __addThing(Creature *actor, int32_t index, Thing *thing);
 
-		virtual void __updateThing(Thing*, uint16_t, uint32_t) {}
-		virtual void __replaceThing(uint32_t, Thing*) {}
+	virtual void __updateThing(Thing *, uint16_t, uint32_t) {}
+	virtual void __replaceThing(uint32_t, Thing *) {}
 
-		virtual void __removeThing(Thing*, uint32_t) {}
+	virtual void __removeThing(Thing *, uint32_t) {}
 
-		virtual void postAddNotification(Creature* actor, Thing* thing, const Cylinder* oldParent,
-			int32_t index, CylinderLink_t)
-		{
-			if(getParent())
-				getParent()->postAddNotification(actor, thing, oldParent, index, LINK_PARENT);
-		}
-		virtual void postRemoveNotification(Creature* actor, Thing* thing, const Cylinder* newParent,
-			int32_t index, bool isCompleteRemoval, CylinderLink_t)
-		{
-			if(getParent())
-				getParent()->postRemoveNotification(actor, thing, newParent, index, isCompleteRemoval, LINK_PARENT);
-		}
+	virtual void postAddNotification(Creature *actor, Thing *thing, const Cylinder *oldParent,
+									 int32_t index, CylinderLink_t)
+	{
+		if (getParent())
+			getParent()->postAddNotification(actor, thing, oldParent, index, LINK_PARENT);
+	}
+	virtual void postRemoveNotification(Creature *actor, Thing *thing, const Cylinder *newParent,
+										int32_t index, bool isCompleteRemoval, CylinderLink_t)
+	{
+		if (getParent())
+			getParent()->postRemoveNotification(actor, thing, newParent, index, isCompleteRemoval, LINK_PARENT);
+	}
 
-	private:
-		Position destination;
+private:
+	Position destination;
 };
 #endif

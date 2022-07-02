@@ -726,7 +726,7 @@ BEGIN
 	SELECT RAISE(ROLLBACK, 'INSERT on table "player_killers" violates foreign: "player_id"')
 	WHERE NEW."player_id" IS NULL
 		OR (SELECT "id" FROM "players" WHERE "id" = NEW."player_id") IS NULL;
-	
+
 	SELECT RAISE(ROLLBACK, 'INSERT on table "player_killers" violates foreign: "kill_id"')
 	WHERE NEW."kill_id" IS NULL
 		OR (SELECT "id" FROM "killers" WHERE "id" = NEW."kill_id") IS NULL;
@@ -740,7 +740,7 @@ BEGIN
 	SELECT RAISE(ROLLBACK, 'UPDATE on table "player_killers" violates foreign: "player_id"')
 	WHERE NEW."player_id" IS NULL
 		OR (SELECT "id" FROM "players" WHERE "id" = NEW."player_id") IS NULL;
-		
+
 	SELECT RAISE(ROLLBACK, 'UPDATE on table "killers" violates foreign: "kill_id"')
 	WHERE NEW."kill_id" IS NULL
 		OR (SELECT "id" FROM "killers" WHERE "id" = NEW."kill_id") IS NULL;

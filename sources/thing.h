@@ -97,46 +97,46 @@ class Creature;
 
 class Thing
 {
-	protected:
-		Thing(): parent(NULL), refCount(0) {}
+protected:
+	Thing() : parent(NULL), refCount(0) {}
 
-	public:
-		virtual ~Thing() {}
+public:
+	virtual ~Thing() {}
 
-		void addRef() {++refCount;}
-		void unRef()
-		{
-			--refCount;
-			if(!refCount)
-				delete this;
-		}
+	void addRef() { ++refCount; }
+	void unRef()
+	{
+		--refCount;
+		if (!refCount)
+			delete this;
+	}
 
-		virtual std::string getDescription(int32_t lookDistance) const = 0;
+	virtual std::string getDescription(int32_t lookDistance) const = 0;
 
-		Cylinder* getParent() {return parent;}
-		const Cylinder* getParent() const {return parent;}
+	Cylinder *getParent() { return parent; }
+	const Cylinder *getParent() const { return parent; }
 
-		virtual void setParent(Cylinder* cylinder) {parent = cylinder;}
+	virtual void setParent(Cylinder *cylinder) { parent = cylinder; }
 
-		Cylinder* getTopParent();
-		const Cylinder* getTopParent() const;
+	Cylinder *getTopParent();
+	const Cylinder *getTopParent() const;
 
-		virtual Tile* getTile();
-		virtual const Tile* getTile() const;
+	virtual Tile *getTile();
+	virtual const Tile *getTile() const;
 
-		virtual Position getPosition() const;
-		virtual int32_t getThrowRange() const = 0;
-		virtual bool isPushable() const = 0;
+	virtual Position getPosition() const;
+	virtual int32_t getThrowRange() const = 0;
+	virtual bool isPushable() const = 0;
 
-		virtual Item* getItem() {return NULL;}
-		virtual const Item* getItem() const {return NULL;}
-		virtual Creature* getCreature() {return NULL;}
-		virtual const Creature* getCreature() const {return NULL;}
+	virtual Item *getItem() { return NULL; }
+	virtual const Item *getItem() const { return NULL; }
+	virtual Creature *getCreature() { return NULL; }
+	virtual const Creature *getCreature() const { return NULL; }
 
-		virtual bool isRemoved() const;
+	virtual bool isRemoved() const;
 
-	private:
-		Cylinder* parent;
-		int16_t refCount;
+private:
+	Cylinder *parent;
+	int16_t refCount;
 };
 #endif

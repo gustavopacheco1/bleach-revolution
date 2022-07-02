@@ -36,62 +36,62 @@ enum GlobalEvent_t
 };
 
 class GlobalEvent;
-typedef std::map<std::string, GlobalEvent*> GlobalEventMap;
+typedef std::map<std::string, GlobalEvent *> GlobalEventMap;
 
 class GlobalEvents : public BaseEvents
 {
-	public:
-		GlobalEvents();
-		virtual ~GlobalEvents();
-		void startup();
+public:
+	GlobalEvents();
+	virtual ~GlobalEvents();
+	void startup();
 
-		void timer();
-		void think();
-		void execute(GlobalEvent_t type);
+	void timer();
+	void think();
+	void execute(GlobalEvent_t type);
 
-		GlobalEventMap getEventMap(GlobalEvent_t type);
-		void clearMap(GlobalEventMap& map);
+	GlobalEventMap getEventMap(GlobalEvent_t type);
+	void clearMap(GlobalEventMap &map);
 
-	protected:
-		virtual std::string getScriptBaseName() const {return "globalevents";}
-		virtual void clear();
+protected:
+	virtual std::string getScriptBaseName() const { return "globalevents"; }
+	virtual void clear();
 
-		virtual Event* getEvent(const std::string& nodeName);
-		virtual bool registerEvent(Event* event, xmlNodePtr p, bool override);
+	virtual Event *getEvent(const std::string &nodeName);
+	virtual bool registerEvent(Event *event, xmlNodePtr p, bool override);
 
-		virtual LuaInterface& getInterface() {return m_interface;}
-		LuaInterface m_interface;
+	virtual LuaInterface &getInterface() { return m_interface; }
+	LuaInterface m_interface;
 
-		GlobalEventMap thinkMap, serverMap, timerMap;
+	GlobalEventMap thinkMap, serverMap, timerMap;
 };
 
 class GlobalEvent : public Event
 {
-	public:
-		GlobalEvent(LuaInterface* _interface);
-		virtual ~GlobalEvent() {}
+public:
+	GlobalEvent(LuaInterface *_interface);
+	virtual ~GlobalEvent() {}
 
-		virtual bool configureEvent(xmlNodePtr p);
+	virtual bool configureEvent(xmlNodePtr p);
 
-		int32_t executeRecord(uint32_t current, uint32_t old, Player* player);
-		int32_t executeEvent();
+	int32_t executeRecord(uint32_t current, uint32_t old, Player *player);
+	int32_t executeEvent();
 
-		GlobalEvent_t getEventType() const {return m_eventType;}
-		std::string getName() const {return m_name;}
+	GlobalEvent_t getEventType() const { return m_eventType; }
+	std::string getName() const { return m_name; }
 
-		uint32_t getInterval() const {return m_interval;}
+	uint32_t getInterval() const { return m_interval; }
 
-		int64_t getLastExecution() const {return m_lastExecution;}
-		void setLastExecution(int64_t time) {m_lastExecution = time;}
+	int64_t getLastExecution() const { return m_lastExecution; }
+	void setLastExecution(int64_t time) { m_lastExecution = time; }
 
-	protected:
-		GlobalEvent_t m_eventType;
+protected:
+	GlobalEvent_t m_eventType;
 
-		virtual std::string getScriptEventName() const;
-		virtual std::string getScriptEventParams() const;
+	virtual std::string getScriptEventName() const;
+	virtual std::string getScriptEventParams() const;
 
-		std::string m_name;
-		int64_t m_lastExecution;
-		uint32_t m_interval;
+	std::string m_name;
+	int64_t m_lastExecution;
+	uint32_t m_interval;
 };
 #endif

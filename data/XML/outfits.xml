@@ -135,7 +135,7 @@
     <outfit id="34" default="0">
         <list gender="0-3" lookType="333" name="Level 100"/>
     </outfit>
-	
+
     <!-- Grimmjow Jaegerjaquez -->
     <outfit id="35" default="0">
         <list gender="0-3" lookType="406" name="Initial"/>
@@ -143,7 +143,7 @@
     <outfit id="36" default="0">
         <list gender="0-3" lookType="407" name="Level 100"/>
     </outfit>
-	
+
 	<!-- Ikkaku Madarame -->
     <outfit id="37" default="0">
         <list gender="0-3" lookType="434" name="Initial"/>
@@ -151,7 +151,7 @@
     <outfit id="38" default="0">
         <list gender="0-3" lookType="436" name="Level 100"/>
     </outfit>
-	
+
 	<!-- Coyote Starrk -->
     <outfit id="39" default="0">
         <list gender="0-3" lookType="448" name="Initial"/>
@@ -159,7 +159,7 @@
     <outfit id="40" default="0">
         <list gender="0-3" lookType="449" name="Level 100"/>
     </outfit>
-	
+
 	<!-- Nnoitra Gilga -->
     <outfit id="41" default="0">
         <list gender="0-3" lookType="336" name="Initial"/>

@@ -36,70 +36,72 @@ Dispatcher::Dispatcher()
 
 void Dispatcher::dispatcherThread()
 {
-	#if defined __EXCEPTION_TRACER__
+#if defined __EXCEPTION_TRACER__
 	ExceptionHandler dispatcherExceptionHandler;
 	dispatcherExceptionHandler.InstallHandler();
-	#endif
+#endif
 
 	boost::unique_lock<boost::mutex> taskLockUnique(m_taskLock, boost::defer_lock);
-	while(Dispatcher::m_threadState != Dispatcher::STATE_TERMINATED)
+	while (Dispatcher::m_threadState != Dispatcher::STATE_TERMINATED)
 	{
 		// check if there are tasks waiting
 		taskLockUnique.lock();
-		if(m_taskList.empty()) //if the list is empty wait for signal
+		if (m_taskList.empty()) // if the list is empty wait for signal
 			m_taskSignal.wait(taskLockUnique);
 
-		if(!m_taskList.empty() && Dispatcher::m_threadState != Dispatcher::STATE_TERMINATED)
+		if (!m_taskList.empty() && Dispatcher::m_threadState != Dispatcher::STATE_TERMINATED)
 		{
 			// take the first task
-			Task* task = m_taskList.front();
+			Task *task = m_taskList.front();
 			m_taskList.pop_front();
 			taskLockUnique.unlock();
 
-			if(!task->hasExpired())
+			if (!task->hasExpired())
 			{
 				(*task)();
 
 				g_game.clearSpectatorCache();
 			}
 			delete task;
-		} else {
+		}
+		else
+		{
 			taskLockUnique.unlock();
 		}
 	}
 
-	#if defined __EXCEPTION_TRACER__
+#if defined __EXCEPTION_TRACER__
 	dispatcherExceptionHandler.RemoveHandler();
-	#endif
+#endif
 }
 
-void Dispatcher::addTask(Task* task, bool front/* = false*/)
+void Dispatcher::addTask(Task *task, bool front /* = false*/)
 {
 	bool signal = false;
 	m_taskLock.lock();
-	if(Dispatcher::m_threadState == Dispatcher::STATE_RUNNING)
+	if (Dispatcher::m_threadState == Dispatcher::STATE_RUNNING)
 	{
 		signal = m_taskList.empty();
-		if(front)
+		if (front)
 			m_taskList.push_front(task);
 		else
 			m_taskList.push_back(task);
 	}
-	#ifdef __DEBUG_SCHEDULER__
+#ifdef __DEBUG_SCHEDULER__
 	else
 		std::clog << "[Error - Dispatcher::addTask] Dispatcher thread is terminated." << std::endl;
-	#endif
+#endif
 
 	m_taskLock.unlock();
 	// send a signal if the list was empty
-	if(signal)
+	if (signal)
 		m_taskSignal.notify_one();
 }
 
 void Dispatcher::flush()
 {
-	Task* task = NULL;
-	while(!m_taskList.empty())
+	Task *task = NULL;
+	while (!m_taskList.empty())
 	{
 		task = m_taskList.front();
 		m_taskList.pop_front();

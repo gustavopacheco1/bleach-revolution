@@ -29,7 +29,7 @@
 typedef std::vector<std::string> StringVec;
 typedef std::vector<int32_t> IntegerVec;
 
-typedef boost::tokenizer<boost::char_separator<char> > tokenizer;
+typedef boost::tokenizer<boost::char_separator<char>> tokenizer;
 typedef std::map<int32_t, bool> VocationMap;
 enum FileType_t
 {
@@ -48,7 +48,7 @@ enum DistributionType_t
 };
 
 template <typename T>
-inline void asString(const T& object, std::string& s)
+inline void asString(const T &object, std::string &s)
 {
 	std::ostringstream ss;
 	ss << object;
@@ -56,33 +56,33 @@ inline void asString(const T& object, std::string& s)
 }
 
 template <typename T>
-inline std::string asString(const T& object)
+inline std::string asString(const T &object)
 {
 	std::ostringstream ss;
 	ss << object;
 	return ss.str();
 }
 
-template<class T>
-inline T fromString(const std::string& s)
+template <class T>
+inline T fromString(const std::string &s)
 {
-	std::istringstream ss (s);
+	std::istringstream ss(s);
 	T t;
 	ss >> t;
 	return t;
 }
 
-void trim_right(std::string& source, const std::string& t);
-void trim_left(std::string& source, const std::string& t);
-std::string trimString(std::string& str);
+void trim_right(std::string &source, const std::string &t);
+void trim_left(std::string &source, const std::string &t);
+std::string trimString(std::string &str);
 
-void toLowerCaseString(std::string& source);
-void toUpperCaseString(std::string& source);
+void toLowerCaseString(std::string &source);
+void toUpperCaseString(std::string &source);
 
-std::string asLowerCaseString(const std::string& source);
-std::string asUpperCaseString(const std::string& source);
+std::string asLowerCaseString(const std::string &source);
+std::string asUpperCaseString(const std::string &source);
 
-bool replaceString(std::string& text, const std::string& key, const std::string& value);
+bool replaceString(std::string &text, const std::string &key, const std::string &value);
 bool booleanString(std::string source);
 
 char upchar(char character);
@@ -103,10 +103,10 @@ bool isValidName(std::string text, bool forceUppercaseOnFirstLetter = true);
 
 std::string transformToSHA1(std::string plainText, bool upperCase);
 
-void _encrypt(std::string& str, bool upperCase);
-bool encryptTest(std::string plain, std::string& hash);
+void _encrypt(std::string &str, bool upperCase);
+bool encryptTest(std::string plain, std::string &hash);
 
-StringVec explodeString(const std::string& string, const std::string& separator, bool trim = true, uint16_t limit = 0);
+StringVec explodeString(const std::string &string, const std::string &separator, bool trim = true, uint16_t limit = 0);
 IntegerVec vectorAtoi(StringVec stringVector);
 std::string parseParams(tokenizer::iterator &it, tokenizer::iterator end); // TODO: replace by StringVec...
 
@@ -127,22 +127,22 @@ double round(double v);
 #endif
 
 bool hasBitSet(uint32_t flag, uint32_t flags);
-uint32_t adlerChecksum(uint8_t* data, size_t length);
+uint32_t adlerChecksum(uint8_t *data, size_t length);
 
-bool utf8ToLatin1(char* inText, std::string& outText);
-bool latin1ToUtf8(char* inText, std::string& outText);
+bool utf8ToLatin1(char *inText, std::string &outText);
+bool latin1ToUtf8(char *inText, std::string &outText);
 
-bool readXMLInteger(xmlNodePtr node, const char* tag, int32_t& value);
-bool readXMLInteger64(xmlNodePtr node, const char* tag, int64_t& value);
-bool readXMLFloat(xmlNodePtr node, const char* tag, float& value);
-bool readXMLString(xmlNodePtr node, const char* tag, std::string& value);
-bool readXMLContentString(xmlNodePtr node, std::string& value);
-bool parseXMLContentString(xmlNodePtr node, std::string& value);
+bool readXMLInteger(xmlNodePtr node, const char *tag, int32_t &value);
+bool readXMLInteger64(xmlNodePtr node, const char *tag, int64_t &value);
+bool readXMLFloat(xmlNodePtr node, const char *tag, float &value);
+bool readXMLString(xmlNodePtr node, const char *tag, std::string &value);
+bool readXMLContentString(xmlNodePtr node, std::string &value);
+bool parseXMLContentString(xmlNodePtr node, std::string &value);
 std::string getLastXMLError();
 
 std::string parseVocationString(StringVec vocStringVec);
-bool parseVocationNode(xmlNodePtr vocationNode, VocationMap& vocationMap, StringVec& vocStringMap, std::string& errorStr);
-bool parseIntegerVec(std::string str, IntegerVec& intVector);
+bool parseVocationNode(xmlNodePtr vocationNode, VocationMap &vocationMap, StringVec &vocStringMap, std::string &errorStr);
+bool parseIntegerVec(std::string str, IntegerVec &intVector);
 
 Skulls_t getSkulls(std::string strValue);
 PartyShields_t getShields(std::string strValue);
@@ -153,15 +153,15 @@ Direction getDirectionTo(Position pos1, Position pos2, bool extended = true);
 Direction getReverseDirection(Direction dir);
 Position getNextPosition(Direction direction, Position pos);
 
-MagicEffect_t getMagicEffect(const std::string& strValue);
-ShootEffect_t getShootType(const std::string& strValue);
-Ammo_t getAmmoType(const std::string& strValue);
-AmmoAction_t getAmmoAction(const std::string& strValue);
-CombatType_t getCombatType(const std::string& strValue);
-FluidTypes_t getFluidType(const std::string& strValue);
-skills_t getSkillId(const std::string& strValue);
-WeaponType_t getWeaponType(const std::string& strValue);
-void getCombatDetails(CombatType_t combatType, MagicEffect_t& magicEffect, Color_t& textColor);
+MagicEffect_t getMagicEffect(const std::string &strValue);
+ShootEffect_t getShootType(const std::string &strValue);
+Ammo_t getAmmoType(const std::string &strValue);
+AmmoAction_t getAmmoAction(const std::string &strValue);
+CombatType_t getCombatType(const std::string &strValue);
+FluidTypes_t getFluidType(const std::string &strValue);
+skills_t getSkillId(const std::string &strValue);
+WeaponType_t getWeaponType(const std::string &strValue);
+void getCombatDetails(CombatType_t combatType, MagicEffect_t &magicEffect, Color_t &textColor);
 
 std::string getCombatName(CombatType_t combatType);
 std::string getSkillName(uint16_t skillId, bool suffix = true);
@@ -169,7 +169,7 @@ std::string getReason(int32_t reasonId);
 std::string getAction(ViolationAction_t actionId, bool ipBanishment);
 std::string getWeaponName(WeaponType_t weaponType);
 
-bool fileExists(const std::string& filename);
+bool fileExists(const std::string &filename);
 std::string getFilePath(FileType_t type, std::string name = "");
 
 extern uint8_t serverFluidToClient(uint8_t serverFluid);

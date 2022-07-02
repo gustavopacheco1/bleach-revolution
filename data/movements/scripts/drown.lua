@@ -8,11 +8,11 @@ function onStepIn(cid, item, position, fromPosition)
 		return true
 	end
 
-	if(math.random(1, 10) == 1) then
+	if (math.random(1, 10) == 1) then
 		doSendMagicEffect(position, CONST_ME_BUBBLES)
 	end
 
-	if(not isPlayer(cid)) then
+	if (not isPlayer(cid)) then
 		return false
 	end
 
@@ -21,15 +21,15 @@ function onStepIn(cid, item, position, fromPosition)
 end
 
 function onStepOut(cid, item, position, lastPosition, fromPosition, toPosition, actor)
-	if(not isPlayer(cid)) then
+	if (not isPlayer(cid)) then
 		return false
 	end
 
 	local slotItem = getPlayerSlotItem(cid, CONST_SLOT_HEAD)
-	if(slotItem.uid ~= 0 and slotItem.itemid == 12541) then
+	if (slotItem.uid ~= 0 and slotItem.itemid == 12541) then
 		toPosition.stackpos = 0
 		local ground = getTileThingByPos(toPosition)
-		if(ground.uid ~= 0 and not isInArray(underWater, ground.itemid)) then
+		if (ground.uid ~= 0 and not isInArray(underWater, ground.itemid)) then
 			local itemInfo = getItemInfo(slotItem.itemid)
 			doTransformItem(slotItem.uid, 5461)
 		end

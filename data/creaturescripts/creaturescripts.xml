@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <creaturescripts>
-    <!-- Login -->
-    <event type="login" name="PlayerLogin" event="script" value="login.lua"/>
+	<!-- Login -->
+	<event type="login" name="PlayerLogin" event="script" value="login.lua"/>
 
-    <!-- Server Events -->
-    <event type="channeljoin" name="GuildEvents" event="script" value="guild.lua"/>
-    <event type="mailreceive" name="Mail" event="script" value="mail.lua"/>
-    <event type="reportbug" name="ReportBug" script="reportbug.lua"/>
-    <event type="advance" name="AdvanceSave" event="script" value="advancesave.lua"/>
-    <event type="think" name="Idle" event="script" value="idle.lua"/>
-    <event type="think" name="SkullCheck" event="script" value="skullcheck.lua"/>
-    <event type="login" name="recordIp" event="script" value="recordIp.lua"/>
-    <event type="extendedopcode" name="ExtendedOpcode" event="script" value="extendedopcode.lua"/>
-    <event type="tradeaccept" name="PlayerTrade" event="script" value="playerTrade.lua"/>
-    <event type="login" name="LoginReset" event="script" value="login_reset.lua"/>
-    <event type="advance" name="TransformsAdvance" event="script" value="transforms.lua"/>
-    <event type="login" name="TransformsLogin" event="script" value="transforms.lua"/>
-    <event type="target" name="NpcTarget" event="script" value="npc_target.lua"/>
+	<!-- Server Events -->
+	<event type="channeljoin" name="GuildEvents" event="script" value="guild.lua"/>
+	<event type="mailreceive" name="Mail" event="script" value="mail.lua"/>
+	<event type="reportbug" name="ReportBug" script="reportbug.lua"/>
+	<event type="advance" name="AdvanceSave" event="script" value="advancesave.lua"/>
+	<event type="think" name="Idle" event="script" value="idle.lua"/>
+	<event type="think" name="SkullCheck" event="script" value="skullcheck.lua"/>
+	<event type="login" name="recordIp" event="script" value="recordIp.lua"/>
+	<event type="extendedopcode" name="ExtendedOpcode" event="script" value="extendedopcode.lua"/>
+	<event type="tradeaccept" name="PlayerTrade" event="script" value="playerTrade.lua"/>
+	<event type="login" name="LoginReset" event="script" value="login_reset.lua"/>
+	<event type="advance" name="TransformsAdvance" event="script" value="transforms.lua"/>
+	<event type="login" name="TransformsLogin" event="script" value="transforms.lua"/>
+	<event type="target" name="NpcTarget" event="script" value="npc_target.lua"/>
 
-    <!-- Monsters Events -->
-    <event type="statschange" name="TrainerShielding" event="script" value="monsters_events/trainer_shielding.lua"/>
-    <event type="death" name="MonsterTeleportOnDeath" event="script" value="monsters_events/monster_teleport_ondeath.lua"/>
-    <event type="death" name="YamamotoTask" event="script" value="monsters_events/yamamoto_task.lua"/>
+	<!-- Monsters Events -->
+	<event type="statschange" name="TrainerShielding" event="script" value="monsters_events/trainer_shielding.lua"/>
+	<event type="death" name="MonsterTeleportOnDeath" event="script" value="monsters_events/monster_teleport_ondeath.lua"/>
+	<event type="death" name="YamamotoTask" event="script" value="monsters_events/yamamoto_task.lua"/>
 
-    <!-- Spells -->
-    <event type="statschange" name="Immortal" event="script" value="spells/immortal.lua"/>
-    <event type="statschange" name="Dodge" event="script" value="spells/dodge.lua"/>
-    <event type="statschange" name="ReflectSooZabimaru" event="script" value="spells/reflect_soo_zabimaru.lua"/>
-    <event type="statschange" name="ReflectNozarashi" event="script" value="spells/reflect_nozarashi.lua"/>
-    <event type="statschange" name="PhysicalProtection" event="script" value="spells/physical_protection.lua"/>
-    <event type="attack" name="WolfAttack" event="script" value="spells/wolf_attack.lua"/>
+	<!-- Spells -->
+	<event type="statschange" name="Immortal" event="script" value="spells/immortal.lua"/>
+	<event type="statschange" name="Dodge" event="script" value="spells/dodge.lua"/>
+	<event type="statschange" name="ReflectSooZabimaru" event="script" value="spells/reflect_soo_zabimaru.lua"/>
+	<event type="statschange" name="ReflectNozarashi" event="script" value="spells/reflect_nozarashi.lua"/>
+	<event type="statschange" name="PhysicalProtection" event="script" value="spells/physical_protection.lua"/>
+	<event type="attack" name="WolfAttack" event="script" value="spells/wolf_attack.lua"/>
 </creaturescripts>

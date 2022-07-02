@@ -1,5 +1,5 @@
 function onUse(cid, item, fromPosition, itemEx, toPosition)
-	if(fromPosition.x ~= CONTAINER_POSITION) then
+	if (fromPosition.x ~= CONTAINER_POSITION) then
 		doSendMagicEffect(fromPosition, math.random(CONST_ME_FIREWORK_YELLOW, CONST_ME_FIREWORK_BLUE))
 	else
 		doCreatureSay(cid, "Ouch! Rather place it on the ground next time.", TALKTYPE_MONSTER)

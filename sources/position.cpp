@@ -18,7 +18,7 @@
 #include <iomanip>
 #include "position.h"
 
-std::ostream& operator<<(std::ostream& os, const Position& pos)
+std::ostream &operator<<(std::ostream &os, const Position &pos)
 {
 	os << "( " << std::setw(5) << std::setfill('0') << pos.x;
 	os << " / " << std::setw(5) << std::setfill('0') << pos.y;
@@ -27,36 +27,36 @@ std::ostream& operator<<(std::ostream& os, const Position& pos)
 	return os;
 }
 
-std::ostream& operator<<(std::ostream& os, const Direction& dir)
+std::ostream &operator<<(std::ostream &os, const Direction &dir)
 {
-	switch(dir)
+	switch (dir)
 	{
-		case NORTH:
-			os << "North";
-			break;
-		case EAST:
-			os << "East";
-			break;
-		case WEST:
-			os << "West";
-			break;
-		case SOUTH:
-			os << "South";
-			break;
-		case SOUTHWEST:
-			os << "South-West";
-			break;
-		case SOUTHEAST:
-			os << "South-East";
-			break;
-		case NORTHWEST:
-			os << "North-West";
-			break;
-		case NORTHEAST:
-			os << "North-East";
-			break;
-		default:
-			break;
+	case NORTH:
+		os << "North";
+		break;
+	case EAST:
+		os << "East";
+		break;
+	case WEST:
+		os << "West";
+		break;
+	case SOUTH:
+		os << "South";
+		break;
+	case SOUTHWEST:
+		os << "South-West";
+		break;
+	case SOUTHEAST:
+		os << "South-East";
+		break;
+	case NORTHWEST:
+		os << "North-West";
+		break;
+	case NORTHEAST:
+		os << "North-East";
+		break;
+	default:
+		break;
 	}
 
 	return os;

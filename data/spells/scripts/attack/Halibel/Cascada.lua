@@ -3,20 +3,20 @@ setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_ENERGYDAMAGE)
 setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -13.0, 0, -13.0, 0)
 
 function onCastSpell(cid, var)
-    if exhaustion.check(cid, 120) then
-        doPlayerSendCancel(cid, "You are exhausted.")
-        return false
-    end
+	if exhaustion.check(cid, 120) then
+		doPlayerSendCancel(cid, "You are exhausted.")
+		return false
+	end
 
-    local target_position = getCreaturePosition(getCreatureTarget(cid))
-    doSendMagicEffect(target_position, 319)
-	
-    doSendMagicEffect({
-        x = target_position.x + 3,
-        y = target_position.y + 1,
-        z = target_position.z
-    }, 382)
+	local target_position = getCreaturePosition(getCreatureTarget(cid))
+	doSendMagicEffect(target_position, 319)
 
-    exhaustion.set(cid, 120, 1)
-    return doCombat(cid, combat, var)
+	doSendMagicEffect({
+		x = target_position.x + 3,
+		y = target_position.y + 1,
+		z = target_position.z
+	}, 382)
+
+	exhaustion.set(cid, 120, 1)
+	return doCombat(cid, combat, var)
 end

@@ -10,7 +10,7 @@
 		function onSay(cid, words, param)
 			str = "Quests: "
 
-			for i,x in pairs (quest) do 
+			for i,x in pairs (quest) do
 				local st = getPlayerStorageValue(cid, i)
 				str = str.."\n ".. x.name .. " ["..(st >= x.start and st <= eNd and "Completed" or "Uncompleted").. "]"
 			end

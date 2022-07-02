@@ -33,27 +33,27 @@
 extern ConfigManager g_config;
 #endif
 
-Database* _Database::m_instance = NULL;
+Database *_Database::m_instance = NULL;
 
-Database* _Database::getInstance()
+Database *_Database::getInstance()
 {
-	if(!m_instance)
+	if (!m_instance)
 	{
 #if defined MULTI_SQL_DRIVERS
 #ifdef __USE_MYSQL__
-		if(g_config.getString(ConfigManager::SQL_TYPE) == "mysql")
+		if (g_config.getString(ConfigManager::SQL_TYPE) == "mysql")
 			m_instance = new DatabaseMySQL;
 #endif
 #ifdef __USE_MYSQLPP__
-		else if(g_config.getString(ConfigManager::SQL_TYPE) == "mysql++")
+		else if (g_config.getString(ConfigManager::SQL_TYPE) == "mysql++")
 			m_instance = new DatabaseMySQLpp;
 #endif
 #ifdef __USE_SQLITE__
-		else if(g_config.getString(ConfigManager::SQL_TYPE) == "sqlite")
+		else if (g_config.getString(ConfigManager::SQL_TYPE) == "sqlite")
 			m_instance = new DatabaseSQLite;
 #endif
 #ifdef __USE_PGSQL__
-		else if(g_config.getString(ConfigManager::SQL_TYPE) == "pgsql")
+		else if (g_config.getString(ConfigManager::SQL_TYPE) == "pgsql")
 			m_instance = new DatabasePgSQL;
 #endif
 #else
@@ -65,16 +65,16 @@ Database* _Database::getInstance()
 	return m_instance;
 }
 
-DBResult* _Database::verifyResult(DBResult* result)
+DBResult *_Database::verifyResult(DBResult *result)
 {
-	if(result->next())
+	if (result->next())
 		return result;
 
 	result->free();
 	return NULL;
 }
 
-DBInsert::DBInsert(Database* db)
+DBInsert::DBInsert(Database *db)
 {
 	m_db = db;
 	m_rows = 0;
@@ -91,17 +91,17 @@ void DBInsert::setQuery(std::string query)
 
 bool DBInsert::addRow(std::string row)
 {
-	if(!m_multiLine) // executes INSERT for current row
+	if (!m_multiLine) // executes INSERT for current row
 		return m_db->query(m_query + "(" + row + ")");
 
 	m_rows++;
 	int32_t size = m_buf.length();
 	// adds new row to buffer
-	if(!size)
+	if (!size)
 		m_buf = "(" + row + ")";
-	else if(size > 8192)
+	else if (size > 8192)
 	{
-		if(!execute())
+		if (!execute())
 			return false;
 
 		m_buf = "(" + row + ")";
@@ -112,7 +112,7 @@ bool DBInsert::addRow(std::string row)
 	return true;
 }
 
-bool DBInsert::addRow(std::ostringstream& row)
+bool DBInsert::addRow(std::ostringstream &row)
 {
 	bool ret = addRow(row.str());
 	row.str("");
@@ -121,7 +121,7 @@ bool DBInsert::addRow(std::ostringstream& row)
 
 bool DBInsert::execute()
 {
-	if(!m_multiLine || m_buf.length() < 1 || !m_rows) // INSERTs were executed on-fly or there's no rows to execute
+	if (!m_multiLine || m_buf.length() < 1 || !m_rows) // INSERTs were executed on-fly or there's no rows to execute
 		return true;
 
 	// executes buffer

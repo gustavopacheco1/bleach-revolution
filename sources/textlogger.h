@@ -38,30 +38,30 @@ enum LogType_t
 
 class Logger
 {
-	public:
-		virtual ~Logger() {close();}
-		static Logger* getInstance()
-		{
-			static Logger instance;
-			return &instance;
-		}
+public:
+	virtual ~Logger() { close(); }
+	static Logger *getInstance()
+	{
+		static Logger instance;
+		return &instance;
+	}
 
-		void open();
-		void close();
+	void open();
+	void close();
 
-		bool isLoaded() const {return m_loaded;}
+	bool isLoaded() const { return m_loaded; }
 
-		void iFile(LogFile_t file, std::string output, bool newLine);
-		void eFile(std::string file, std::string output, bool newLine);
+	void iFile(LogFile_t file, std::string output, bool newLine);
+	void eFile(std::string file, std::string output, bool newLine);
 
-		void log(const char* func, LogType_t type, std::string message, std::string channel = "", bool newLine = true);
+	void log(const char *func, LogType_t type, std::string message, std::string channel = "", bool newLine = true);
 
-	private:
-		Logger() {m_loaded = false;}
-		void internal(FILE* file, std::string output, bool newLine);
+private:
+	Logger() { m_loaded = false; }
+	void internal(FILE *file, std::string output, bool newLine);
 
-		FILE* m_files[LOGFILE_LAST + 1];
-		bool m_loaded;
+	FILE *m_files[LOGFILE_LAST + 1];
+	bool m_loaded;
 };
 
 #define LOG_MESSAGE(type, message, channel) \
@@ -69,20 +69,20 @@ class Logger
 
 class OutputHandler : public std::streambuf
 {
-	public:
-		virtual ~OutputHandler();
-		static OutputHandler* getInstance()
-		{
-			static OutputHandler instance;
-			return &instance;
-		}
+public:
+	virtual ~OutputHandler();
+	static OutputHandler *getInstance()
+	{
+		static OutputHandler instance;
+		return &instance;
+	}
 
-	protected:
-		OutputHandler();
-		std::streambuf::int_type overflow(std::streambuf::int_type c = traits_type::eof());
+protected:
+	OutputHandler();
+	std::streambuf::int_type overflow(std::streambuf::int_type c = traits_type::eof());
 
-		std::streambuf* log;
-		std::streambuf* err;
-		std::string m_cache;
+	std::streambuf *log;
+	std::streambuf *err;
+	std::string m_cache;
 };
 #endif

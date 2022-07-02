@@ -24,83 +24,83 @@
 #include "creature.h"
 #include "player.h"
 
-Cylinder* Thing::getTopParent()
+Cylinder *Thing::getTopParent()
 {
-	//tile
-	Cylinder* aux = getParent();
-	if(!aux)
-		return dynamic_cast<Cylinder*>(this);
+	// tile
+	Cylinder *aux = getParent();
+	if (!aux)
+		return dynamic_cast<Cylinder *>(this);
 
-	Cylinder* prev = dynamic_cast<Cylinder*>(this);
-	while(aux->getParent())
+	Cylinder *prev = dynamic_cast<Cylinder *>(this);
+	while (aux->getParent())
 	{
 		prev = aux;
 		aux = aux->getParent();
 	}
 
-	if(dynamic_cast<Cylinder*>(prev))
+	if (dynamic_cast<Cylinder *>(prev))
 		return prev;
 
 	return aux;
 }
 
-const Cylinder* Thing::getTopParent() const
+const Cylinder *Thing::getTopParent() const
 {
-	//tile
-	const Cylinder* aux = getParent();
-	if(!aux)
-		return dynamic_cast<const Cylinder*>(this);
+	// tile
+	const Cylinder *aux = getParent();
+	if (!aux)
+		return dynamic_cast<const Cylinder *>(this);
 
-	const Cylinder* prev = dynamic_cast<const Cylinder*>(this);
-	while(aux->getParent())
+	const Cylinder *prev = dynamic_cast<const Cylinder *>(this);
+	while (aux->getParent())
 	{
 		prev = aux;
 		aux = aux->getParent();
 	}
 
-	if(dynamic_cast<const Cylinder*>(prev))
+	if (dynamic_cast<const Cylinder *>(prev))
 		return prev;
 
 	return aux;
 }
 
-Tile* Thing::getTile()
+Tile *Thing::getTile()
 {
-	Cylinder* cylinder = getTopParent();
+	Cylinder *cylinder = getTopParent();
 #ifdef __DEBUG_MOVESYS__
-	if(!cylinder)
+	if (!cylinder)
 	{
 		std::clog << "[Failure - Thing::getTile] NULL tile" << std::endl;
 		return &(Tile::nullTile);
 	}
 #endif
 
-	if(cylinder->getParent())
+	if (cylinder->getParent())
 		cylinder = cylinder->getParent();
 
-	return dynamic_cast<Tile*>(cylinder);
+	return dynamic_cast<Tile *>(cylinder);
 }
 
-const Tile* Thing::getTile() const
+const Tile *Thing::getTile() const
 {
-	const Cylinder* cylinder = getTopParent();
+	const Cylinder *cylinder = getTopParent();
 #ifdef __DEBUG_MOVESYS__
-	if(!cylinder)
+	if (!cylinder)
 	{
 		std::clog << "[Failure - Thing::getTile] NULL tile" << std::endl;
 		return &(Tile::nullTile);
 	}
 #endif
 
-	if(cylinder->getParent())
+	if (cylinder->getParent())
 		cylinder = cylinder->getParent();
 
-	return dynamic_cast<const Tile*>(cylinder);
+	return dynamic_cast<const Tile *>(cylinder);
 }
 
 Position Thing::getPosition() const
 {
-	if(const Tile* tile = getTile())
+	if (const Tile *tile = getTile())
 		return tile->getPosition();
 
 #ifdef __DEBUG_MOVESYS__
@@ -111,8 +111,8 @@ Position Thing::getPosition() const
 
 bool Thing::isRemoved() const
 {
-	const Cylinder* aux = getParent();
-	if(!aux)
+	const Cylinder *aux = getParent();
+	if (!aux)
 		return true;
 
 	return aux->isRemoved();

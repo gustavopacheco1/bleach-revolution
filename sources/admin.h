@@ -132,93 +132,102 @@ class RSA;
 
 class Admin
 {
-	public:
-		virtual ~Admin();
-		static Admin* getInstance()
-		{
-			static Admin instance;
-			return &instance;
-		}
+public:
+	virtual ~Admin();
+	static Admin *getInstance()
+	{
+		static Admin instance;
+		return &instance;
+	}
 
-		bool addConnection();
-		void removeConnection();
+	bool addConnection();
+	void removeConnection();
 
-		uint16_t getPolicy() const;
-		uint32_t getOptions() const;
+	uint16_t getPolicy() const;
+	uint32_t getOptions() const;
 
-		static Item* createMail(const std::string xmlData, std::string& name, uint32_t& depotId);
-		bool allow(uint32_t ip) const;
+	static Item *createMail(const std::string xmlData, std::string &name, uint32_t &depotId);
+	bool allow(uint32_t ip) const;
 
-		bool isEncypted() const {return m_encrypted;}
-		RSA* getRSAKey(uint8_t type);
+	bool isEncypted() const { return m_encrypted; }
+	RSA *getRSAKey(uint8_t type);
 
-	protected:
-		Admin();
+protected:
+	Admin();
 
-		int32_t m_currentConnections;
-		bool m_encrypted;
+	int32_t m_currentConnections;
+	bool m_encrypted;
 
-		RSA* m_key_RSA1024XTEA;
+	RSA *m_key_RSA1024XTEA;
 };
 
 class ProtocolAdmin : public Protocol
 {
-	public:
+public:
 #ifdef __ENABLE_SERVER_DIAGNOSTIC__
-		static uint32_t protocolAdminCount;
+	static uint32_t protocolAdminCount;
 #endif
-		virtual void onRecvFirstMessage(NetworkMessage& msg);
+	virtual void onRecvFirstMessage(NetworkMessage &msg);
 
-		ProtocolAdmin(Connection_ptr connection): Protocol(connection)
-		{
-			m_state = NO_CONNECTED;
-			m_loginTries = m_lastCommand = 0;
-			m_startTime = time(NULL);
+	ProtocolAdmin(Connection_ptr connection) : Protocol(connection)
+	{
+		m_state = NO_CONNECTED;
+		m_loginTries = m_lastCommand = 0;
+		m_startTime = time(NULL);
 #ifdef __ENABLE_SERVER_DIAGNOSTIC__
-			protocolAdminCount++;
+		protocolAdminCount++;
 #endif
-		}
-		virtual ~ProtocolAdmin()
-		{
+	}
+	virtual ~ProtocolAdmin()
+	{
 #ifdef __ENABLE_SERVER_DIAGNOSTIC__
-			protocolAdminCount--;
+		protocolAdminCount--;
 #endif
-		}
+	}
 
-		enum {protocolId = 0xFE};
-		enum {isSingleSocket = false};
-		enum {hasChecksum = false};
-		static const char* protocolName() {return "admin protocol";}
+	enum
+	{
+		protocolId = 0xFE
+	};
+	enum
+	{
+		isSingleSocket = false
+	};
+	enum
+	{
+		hasChecksum = false
+	};
+	static const char *protocolName() { return "admin protocol"; }
 
-	protected:
-		enum ProtocolState_t
-		{
-			NO_CONNECTED,
-			ENCRYPTION_NO_SET,
-			ENCRYPTION_OK,
-			NO_LOGGED_IN,
-			LOGGED_IN
-		};
+protected:
+	enum ProtocolState_t
+	{
+		NO_CONNECTED,
+		ENCRYPTION_NO_SET,
+		ENCRYPTION_OK,
+		NO_LOGGED_IN,
+		LOGGED_IN
+	};
 
-		virtual void parsePacket(NetworkMessage& msg);
-		virtual void releaseProtocol();
+	virtual void parsePacket(NetworkMessage &msg);
+	virtual void releaseProtocol();
 #ifdef __DEBUG_NET_DETAIL__
-		virtual void deleteProtocolTask();
+	virtual void deleteProtocolTask();
 #endif
 
-		// commands
-		void adminCommandPayHouses();
-		void adminCommandReload(int8_t reload);
+	// commands
+	void adminCommandPayHouses();
+	void adminCommandReload(int8_t reload);
 
-		void adminCommandKickPlayer(const std::string& name);
-		void adminCommandSendMail(const std::string& xmlData);
+	void adminCommandKickPlayer(const std::string &name);
+	void adminCommandSendMail(const std::string &xmlData);
 
-	private:
-		void addLogLine(LogType_t type, std::string message);
+private:
+	void addLogLine(LogType_t type, std::string message);
 
-		int32_t m_loginTries;
-		ProtocolState_t m_state;
-		uint32_t m_lastCommand, m_startTime;
+	int32_t m_loginTries;
+	ProtocolState_t m_state;
+	uint32_t m_lastCommand, m_startTime;
 };
 #endif
 #endif

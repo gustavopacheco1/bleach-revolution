@@ -35,133 +35,133 @@ class WeaponWand;
 
 class Weapons : public BaseEvents
 {
-	public:
-		Weapons();
-		virtual ~Weapons() {clear();}
+public:
+	Weapons();
+	virtual ~Weapons() { clear(); }
 
-		bool loadDefaults();
-		const Weapon* getWeapon(const Item* item) const;
+	bool loadDefaults();
+	const Weapon *getWeapon(const Item *item) const;
 
-		static int32_t getMaxMeleeDamage(int32_t attackSkill, int32_t attackValue);
-		static int32_t getMaxWeaponDamage(int32_t level, int32_t attackSkill, int32_t attackValue, float attackFactor);
+	static int32_t getMaxMeleeDamage(int32_t attackSkill, int32_t attackValue);
+	static int32_t getMaxWeaponDamage(int32_t level, int32_t attackSkill, int32_t attackValue, float attackFactor);
 
-	protected:
-		virtual std::string getScriptBaseName() const {return "weapons";}
-		virtual void clear();
+protected:
+	virtual std::string getScriptBaseName() const { return "weapons"; }
+	virtual void clear();
 
-		virtual Event* getEvent(const std::string& nodeName);
-		virtual bool registerEvent(Event* event, xmlNodePtr p, bool override);
+	virtual Event *getEvent(const std::string &nodeName);
+	virtual bool registerEvent(Event *event, xmlNodePtr p, bool override);
 
-		virtual LuaInterface& getInterface() {return m_interface;}
-		LuaInterface m_interface;
+	virtual LuaInterface &getInterface() { return m_interface; }
+	LuaInterface m_interface;
 
-		typedef std::map<uint32_t, Weapon*> WeaponMap;
-		WeaponMap weapons;
+	typedef std::map<uint32_t, Weapon *> WeaponMap;
+	WeaponMap weapons;
 };
 
 class Weapon : public Event
 {
-	public:
-		Weapon(LuaInterface* _interface);
-		virtual ~Weapon() {}
+public:
+	Weapon(LuaInterface *_interface);
+	virtual ~Weapon() {}
 
-		static bool useFist(Player* player, Creature* target);
+	static bool useFist(Player *player, Creature *target);
 
-		virtual bool loadFunction(const std::string& functionName);
-		virtual bool configureEvent(xmlNodePtr p);
-		virtual bool configureWeapon(const ItemType& it);
+	virtual bool loadFunction(const std::string &functionName);
+	virtual bool configureEvent(xmlNodePtr p);
+	virtual bool configureWeapon(const ItemType &it);
 
-		virtual int32_t playerWeaponCheck(Player* player, Creature* target) const;
+	virtual int32_t playerWeaponCheck(Player *player, Creature *target) const;
 
-		uint16_t getID() const {return id;}
-		virtual bool interruptSwing() const {return !swing;}
-		CombatParams getCombatParam() const {return params;}
+	uint16_t getID() const { return id; }
+	virtual bool interruptSwing() const { return !swing; }
+	CombatParams getCombatParam() const { return params; }
 
-		virtual bool useWeapon(Player* player, Item* item, Creature* target) const;
-		virtual int32_t getWeaponDamage(const Player* player, const Creature* target, const Item* item, bool& isCritical, bool maxDamage = false) const = 0;
-		virtual int32_t getWeaponElementDamage(const Player*, const Item*, bool = false) const {return 0;}
+	virtual bool useWeapon(Player *player, Item *item, Creature *target) const;
+	virtual int32_t getWeaponDamage(const Player *player, const Creature *target, const Item *item, bool &isCritical, bool maxDamage = false) const = 0;
+	virtual int32_t getWeaponElementDamage(const Player *, const Item *, bool = false) const { return 0; }
 
-		uint32_t getReqLevel() const {return level;}
-		uint32_t getReqMagLv() const {return magLevel;}
-		bool hasExhaustion() const {return exhaustion != 0;}
-		bool isPremium() const {return premium;}
-		bool isWieldedUnproperly() const {return wieldUnproperly;}
+	uint32_t getReqLevel() const { return level; }
+	uint32_t getReqMagLv() const { return magLevel; }
+	bool hasExhaustion() const { return exhaustion != 0; }
+	bool isPremium() const { return premium; }
+	bool isWieldedUnproperly() const { return wieldUnproperly; }
 
-	protected:
-		virtual std::string getScriptEventName() const {return "onUseWeapon";}
-		virtual std::string getScriptEventParams() const {return "cid, var";}
+protected:
+	virtual std::string getScriptEventName() const { return "onUseWeapon"; }
+	virtual std::string getScriptEventParams() const { return "cid, var"; }
 
-		bool executeUseWeapon(Player* player, const LuaVariant& var) const;
+	bool executeUseWeapon(Player *player, const LuaVariant &var) const;
 
-		bool internalUseWeapon(Player* player, Item* item, Creature* target, int32_t damageModifier) const;
-		bool internalUseWeapon(Player* player, Item* item, Tile* tile) const;
+	bool internalUseWeapon(Player *player, Item *item, Creature *target, int32_t damageModifier) const;
+	bool internalUseWeapon(Player *player, Item *item, Tile *tile) const;
 
-		virtual void onUsedWeapon(Player* player, Item* item, Tile* destTile) const;
-		virtual void onUsedAmmo(Player* player, Item* item, Tile* destTile) const;
-		virtual bool getSkillType(const Player*, const Item*, skills_t&, uint64_t&) const {return false;}
+	virtual void onUsedWeapon(Player *player, Item *item, Tile *destTile) const;
+	virtual void onUsedAmmo(Player *player, Item *item, Tile *destTile) const;
+	virtual bool getSkillType(const Player *, const Item *, skills_t &, uint64_t &) const { return false; }
 
-		int32_t getManaCost(const Player* player) const;
+	int32_t getManaCost(const Player *player) const;
 
-		uint16_t id;
-		uint32_t exhaustion;
-		bool enabled, premium, wieldUnproperly, swing;
-		int32_t level, magLevel, mana, manaPercent, soul;
+	uint16_t id;
+	uint32_t exhaustion;
+	bool enabled, premium, wieldUnproperly, swing;
+	int32_t level, magLevel, mana, manaPercent, soul;
 
-		AmmoAction_t ammoAction;
-		CombatParams params;
+	AmmoAction_t ammoAction;
+	CombatParams params;
 
-	private:
-		VocationMap vocWeaponMap;
+private:
+	VocationMap vocWeaponMap;
 };
 
 class WeaponMelee : public Weapon
 {
-	public:
-		WeaponMelee(LuaInterface* _interface);
-		virtual ~WeaponMelee() {}
+public:
+	WeaponMelee(LuaInterface *_interface);
+	virtual ~WeaponMelee() {}
 
-		virtual bool useWeapon(Player* player, Item* item, Creature* target) const;
-		virtual int32_t getWeaponDamage(const Player* player, const Creature* target, const Item* item, bool& isCritical, bool maxDamage = false) const;
-		virtual int32_t getWeaponElementDamage(const Player* player, const Item* item, bool maxDamage = false) const;
+	virtual bool useWeapon(Player *player, Item *item, Creature *target) const;
+	virtual int32_t getWeaponDamage(const Player *player, const Creature *target, const Item *item, bool &isCritical, bool maxDamage = false) const;
+	virtual int32_t getWeaponElementDamage(const Player *player, const Item *item, bool maxDamage = false) const;
 
-	protected:
-		virtual bool getSkillType(const Player* player, const Item* item, skills_t& skill, uint64_t& skillPoint) const;
+protected:
+	virtual bool getSkillType(const Player *player, const Item *item, skills_t &skill, uint64_t &skillPoint) const;
 };
 
 class WeaponDistance : public Weapon
 {
-	public:
-		WeaponDistance(LuaInterface* _interface);
-		virtual ~WeaponDistance() {}
+public:
+	WeaponDistance(LuaInterface *_interface);
+	virtual ~WeaponDistance() {}
 
-		virtual bool configureWeapon(const ItemType& it);
+	virtual bool configureWeapon(const ItemType &it);
 
-		virtual int32_t playerWeaponCheck(Player* player, Creature* target) const;
+	virtual int32_t playerWeaponCheck(Player *player, Creature *target) const;
 
-		virtual bool useWeapon(Player* player, Item* item, Creature* target) const;
-		virtual int32_t getWeaponDamage(const Player* player, const Creature* target, const Item* item, bool& isCritical, bool maxDamage = false) const;
+	virtual bool useWeapon(Player *player, Item *item, Creature *target) const;
+	virtual int32_t getWeaponDamage(const Player *player, const Creature *target, const Item *item, bool &isCritical, bool maxDamage = false) const;
 
-	protected:
-		virtual void onUsedAmmo(Player* player, Item* item, Tile* destTile) const;
-		virtual bool getSkillType(const Player* player, const Item* item, skills_t& skill, uint64_t& skillPoint) const;
+protected:
+	virtual void onUsedAmmo(Player *player, Item *item, Tile *destTile) const;
+	virtual bool getSkillType(const Player *player, const Item *item, skills_t &skill, uint64_t &skillPoint) const;
 
-		int32_t hitChance, maxHitChance, breakChance, attack;
+	int32_t hitChance, maxHitChance, breakChance, attack;
 };
 
 class WeaponWand : public Weapon
 {
-	public:
-		WeaponWand(LuaInterface* _interface);
-		virtual ~WeaponWand() {}
+public:
+	WeaponWand(LuaInterface *_interface);
+	virtual ~WeaponWand() {}
 
-		virtual bool configureEvent(xmlNodePtr p);
-		virtual bool configureWeapon(const ItemType& it);
+	virtual bool configureEvent(xmlNodePtr p);
+	virtual bool configureWeapon(const ItemType &it);
 
-		virtual int32_t getWeaponDamage(const Player* player, const Creature* target, const Item* item, bool& isCritical, bool maxDamage = false) const;
+	virtual int32_t getWeaponDamage(const Player *player, const Creature *target, const Item *item, bool &isCritical, bool maxDamage = false) const;
 
-	protected:
-		virtual bool getSkillType(const Player*, const Item*, skills_t&, uint64_t&) const {return false;}
+protected:
+	virtual bool getSkillType(const Player *, const Item *, skills_t &, uint64_t &) const { return false; }
 
-		int32_t minChange, maxChange;
+	int32_t minChange, maxChange;
 };
 #endif

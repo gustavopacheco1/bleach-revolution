@@ -1,5 +1,5 @@
 function onUse(cid, item, fromPosition, itemEx, toPosition)
-	if(math.random(1, 6) == 1) then
+	if (math.random(1, 6) == 1) then
 		doSendMagicEffect(fromPosition, CONST_ME_POFF)
 		doPlayerAddItem(cid, ITEM_GOLD_COIN, 1)
 		doTransformItem(item.uid, 2115)

@@ -26,82 +26,89 @@ class Protocol;
 
 class OutputMessage : public NetworkMessage
 {
-	public:
-		OutputMessage():
-			outputBufferStart(INITIAL_BUFFER_POSITION) {}
+public:
+	OutputMessage() : outputBufferStart(INITIAL_BUFFER_POSITION) {}
 
-		// non-copyable
-		OutputMessage(const OutputMessage&) = delete;
-		OutputMessage& operator=(const OutputMessage&) = delete;
+	// non-copyable
+	OutputMessage(const OutputMessage &) = delete;
+	OutputMessage &operator=(const OutputMessage &) = delete;
 
-		uint8_t* getOutputBuffer() {
-			return buffer + outputBufferStart;
+	uint8_t *getOutputBuffer()
+	{
+		return buffer + outputBufferStart;
+	}
+
+	void writeMessageLength()
+	{
+		add_header(length);
+	}
+
+	void addCryptoHeader(bool addChecksum)
+	{
+		if (addChecksum)
+		{
+			add_header(adlerChecksum(buffer + outputBufferStart, length));
 		}
 
-		void writeMessageLength() {
-			add_header(length);
-		}
+		writeMessageLength();
+	}
 
-		void addCryptoHeader(bool addChecksum) {
-			if (addChecksum) {
-				add_header(adlerChecksum(buffer + outputBufferStart, length));
-			}
+	inline void append(const NetworkMessage &msg)
+	{
+		auto msgLen = msg.getLength();
+		memcpy(buffer + position, msg.getBuffer() + 8, msgLen);
+		length += msgLen;
+		position += msgLen;
+	}
 
-			writeMessageLength();
-		}
+	inline void append(const OutputMessage_ptr &msg)
+	{
+		auto msgLen = msg->getLength();
+		memcpy(buffer + position, msg->getBuffer() + 8, msgLen);
+		length += msgLen;
+		position += msgLen;
+	}
 
-		inline void append(const NetworkMessage& msg) {
-			auto msgLen = msg.getLength();
-			memcpy(buffer + position, msg.getBuffer() + 8, msgLen);
-			length += msgLen;
-			position += msgLen;
-		}
+protected:
+	template <typename T>
+	inline void add_header(T add)
+	{
+		assert(outputBufferStart >= sizeof(T));
+		outputBufferStart -= sizeof(T);
+		memcpy(buffer + outputBufferStart, &add, sizeof(T));
+		// added header size to the message size
+		length += sizeof(T);
+	}
 
-		inline void append(const OutputMessage_ptr& msg) {
-			auto msgLen = msg->getLength();
-			memcpy(buffer + position, msg->getBuffer() + 8, msgLen);
-			length += msgLen;
-			position += msgLen;
-		}
-
-	protected:
-		template <typename T>
-		inline void add_header(T add) {
-			assert(outputBufferStart >= sizeof(T));
-			outputBufferStart -= sizeof(T);
-			memcpy(buffer + outputBufferStart, &add, sizeof(T));
-			//added header size to the message size
-			length += sizeof(T);
-		}
-
-		MsgSize_t outputBufferStart;
+	MsgSize_t outputBufferStart;
 };
 
 class OutputMessagePool
 {
-	public:
-		// non-copyable
-		OutputMessagePool(const OutputMessagePool&) = delete;
-		OutputMessagePool& operator=(const OutputMessagePool&) = delete;
+public:
+	// non-copyable
+	OutputMessagePool(const OutputMessagePool &) = delete;
+	OutputMessagePool &operator=(const OutputMessagePool &) = delete;
 
-		static OutputMessagePool& getInstance() {
-			static OutputMessagePool instance;
-			return instance;
-		}
+	static OutputMessagePool &getInstance()
+	{
+		static OutputMessagePool instance;
+		return instance;
+	}
 
-		void sendAll();
-		void scheduleSendAll();
+	void sendAll();
+	void scheduleSendAll();
 
-		static OutputMessage_ptr getOutputMessage();
+	static OutputMessage_ptr getOutputMessage();
 
-		void addProtocolToAutosend(Protocol_ptr protocol);
-		void removeProtocolFromAutosend(const Protocol_ptr& protocol);
-	private:
-		OutputMessagePool() = default;
-		//NOTE: A vector is used here because this container is mostly read
-		//and relatively rarely modified (only when a client connects/disconnects)
-		std::vector<Protocol_ptr> bufferedProtocols;
+	void addProtocolToAutosend(Protocol_ptr protocol);
+	void removeProtocolFromAutosend(const Protocol_ptr &protocol);
+
+private:
+	OutputMessagePool() = default;
+	// NOTE: A vector is used here because this container is mostly read
+	// and relatively rarely modified (only when a client connects/disconnects)
+	std::vector<Protocol_ptr> bufferedProtocols;
 };
-
 
 #endif

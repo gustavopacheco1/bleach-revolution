@@ -20,50 +20,51 @@
 #include "otsystem.h"
 #include <unordered_map>
 
-template<class T> class AutoList : public std::unordered_map<uint32_t, T*>
+template <class T>
+class AutoList : public std::unordered_map<uint32_t, T *>
 {
-	public:
-		AutoList() {}
-		virtual ~AutoList() {}
+public:
+	AutoList() {}
+	virtual ~AutoList() {}
 };
 
 class AutoId
 {
-	public:
-		AutoId()
+public:
+	AutoId()
+	{
+		boost::recursive_mutex::scoped_lock lockClass(lock);
+		++count;
+		if (count >= 0xFFFFFF)
+			count = 1000;
+
+		while (list.find(count) != list.end())
 		{
-			boost::recursive_mutex::scoped_lock lockClass(lock);
-			++count;
-			if(count >= 0xFFFFFF)
+			if (count >= 0xFFFFFF)
 				count = 1000;
-
-			while(list.find(count) != list.end())
-			{
-				if(count >= 0xFFFFFF)
-					count = 1000;
-				else
-					++count;
-			}
-
-			list.insert(count);
-			autoId = count;
+			else
+				++count;
 		}
 
-		virtual ~AutoId()
-		{
-			std::set<uint32_t>::iterator it = list.find(autoId);
-			if(it != list.end())
-				list.erase(it);
-		}
+		list.insert(count);
+		autoId = count;
+	}
 
-		uint32_t autoId;
+	virtual ~AutoId()
+	{
+		std::set<uint32_t>::iterator it = list.find(autoId);
+		if (it != list.end())
+			list.erase(it);
+	}
 
-	protected:
-		static uint32_t count;
+	uint32_t autoId;
 
-		typedef std::set<uint32_t> List;
-		static List list;
+protected:
+	static uint32_t count;
 
-		static boost::recursive_mutex lock;
+	typedef std::set<uint32_t> List;
+	static List list;
+
+	static boost::recursive_mutex lock;
 };
 #endif

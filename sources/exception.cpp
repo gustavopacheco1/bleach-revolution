@@ -26,26 +26,26 @@
 #include "exception.h"
 
 #ifdef DEBUG_REPORT
-	#undef DEBUG_REPORT
+#undef DEBUG_REPORT
 #endif
 #define DEBUG_REPORT ExceptionHandler::dumpStack();
 
 #ifdef WINDOWS
-	int ExceptionHandler::ref_counter = 0;
-#else //Unix/Linux
-	#include <execinfo.h>
-	#include <signal.h>
-	#include <ucontext.h>
-	#include <sys/time.h>
-	#include <sys/resource.h> /* POSIX.1-2001 */
+int ExceptionHandler::ref_counter = 0;
+#else // Unix/Linux
+#include <execinfo.h>
+#include <signal.h>
+#include <ucontext.h>
+#include <sys/time.h>
+#include <sys/resource.h> /* POSIX.1-2001 */
 
-	extern time_t start_time;
-	void _SigHandler(int signum, siginfo_t *info, void* secret);
-	#ifndef COMPILER_STRING
-		#define COMPILER_STRING ""
-	#endif
+extern time_t start_time;
+void _SigHandler(int signum, siginfo_t *info, void *secret);
+#ifndef COMPILER_STRING
+#define COMPILER_STRING ""
+#endif
 
-	#define COMPILATION_DATE  __DATE__ " " __TIME__
+#define COMPILATION_DATE __DATE__ " " __TIME__
 #endif
 
 ExceptionHandler::ExceptionHandler()
@@ -55,7 +55,7 @@ ExceptionHandler::ExceptionHandler()
 
 ExceptionHandler::~ExceptionHandler()
 {
-	if(isInstalled)
+	if (isInstalled)
 		RemoveHandler();
 }
 
@@ -63,19 +63,19 @@ bool ExceptionHandler::InstallHandler()
 {
 #ifdef WINDOWS
 	++ref_counter;
-	if(ref_counter == 1)
+	if (ref_counter == 1)
 		SetUnhandledExceptionFilter(ExceptionHandler::MiniDumpExceptionHandler);
 
-//Unix/Linux
+// Unix/Linux
 #else
 	struct sigaction sa;
 	sa.sa_sigaction = &_SigHandler;
-	sigemptyset (&sa.sa_mask);
+	sigemptyset(&sa.sa_mask);
 	sa.sa_flags = SA_RESTART | SA_SIGINFO;
 
-	sigaction(SIGILL, &sa, NULL);		// illegal instruction
-	sigaction(SIGSEGV, &sa, NULL);	// segmentation fault
-	sigaction(SIGFPE, &sa, NULL);		// floating-point exception
+	sigaction(SIGILL, &sa, NULL);  // illegal instruction
+	sigaction(SIGSEGV, &sa, NULL); // segmentation fault
+	sigaction(SIGFPE, &sa, NULL);  // floating-point exception
 #endif
 
 	isInstalled = true;
@@ -84,19 +84,19 @@ bool ExceptionHandler::InstallHandler()
 
 bool ExceptionHandler::RemoveHandler()
 {
-	if(!isInstalled)
+	if (!isInstalled)
 		return false;
 
 #ifdef WINDOWS
 	--ref_counter;
-	if(ref_counter == 0)
+	if (ref_counter == 0)
 		SetUnhandledExceptionFilter(NULL);
 
-//Unix/Linux
+// Unix/Linux
 #else
-	signal(SIGILL, SIG_DFL);	// illegal instruction
-	signal(SIGSEGV, SIG_DFL);	// segmentation fault
-	signal(SIGFPE, SIG_DFL);	// floating-point exception
+	signal(SIGILL, SIG_DFL);	   // illegal instruction
+	signal(SIGSEGV, SIG_DFL);	   // segmentation fault
+	signal(SIGFPE, SIG_DFL);	   // floating-point exception
 #endif
 
 	isInstalled = false;
@@ -104,7 +104,7 @@ bool ExceptionHandler::RemoveHandler()
 }
 
 #ifdef WINDOWS
-long ExceptionHandler::MiniDumpExceptionHandler(EXCEPTION_POINTERS* exceptionPointers /*= NULL*/)
+long ExceptionHandler::MiniDumpExceptionHandler(EXCEPTION_POINTERS *exceptionPointers /*= NULL*/)
 {
 	std::clog << "Unhandled exception, generating minidump..." << std::endl;
 
@@ -114,16 +114,16 @@ long ExceptionHandler::MiniDumpExceptionHandler(EXCEPTION_POINTERS* exceptionPoi
 	// "theforgottenserver_DD-MM-YYYY_HH-MM-SS.mdmp"
 	char fileName[64] = {"\0"};
 	sprintf(fileName, "theforgottenserver_%02u-%02u-%04u_%02u-%02u-%02u.mdmp",
-		systemTime.wDay, systemTime.wMonth, systemTime.wYear,
-		systemTime.wHour, systemTime.wMinute, systemTime.wSecond);
+			systemTime.wDay, systemTime.wMonth, systemTime.wYear,
+			systemTime.wHour, systemTime.wMinute, systemTime.wSecond);
 
 	// Create the dump file
-	HANDLE hFile = CreateFileA(fileName, GENERIC_READ|GENERIC_WRITE,
-		FILE_SHARE_DELETE|FILE_SHARE_READ|FILE_SHARE_WRITE,
-		NULL, CREATE_ALWAYS, FILE_ATTRIBUTE_NORMAL, NULL);
+	HANDLE hFile = CreateFileA(fileName, GENERIC_READ | GENERIC_WRITE,
+							   FILE_SHARE_DELETE | FILE_SHARE_READ | FILE_SHARE_WRITE,
+							   NULL, CREATE_ALWAYS, FILE_ATTRIBUTE_NORMAL, NULL);
 
 	// If we cannot create the file, then we cannot dump the memory
-	if(!hFile || hFile == INVALID_HANDLE_VALUE)
+	if (!hFile || hFile == INVALID_HANDLE_VALUE)
 	{
 		std::clog << "Cannot create dump file, error: " << GetLastError() << std::endl;
 		return EXCEPTION_CONTINUE_SEARCH;
@@ -141,14 +141,14 @@ long ExceptionHandler::MiniDumpExceptionHandler(EXCEPTION_POINTERS* exceptionPoi
 	MINIDUMP_TYPE flags = (MINIDUMP_TYPE)(MiniDumpWithIndirectlyReferencedMemory);
 
 	BOOL dumpResult = MiniDumpWriteDump(hProcess, processId, hFile, flags,
-		&exceptionInformation, NULL, NULL);
+										&exceptionInformation, NULL, NULL);
 
 	// Delete the dump file if we cannot generate the crash trace
-	if(!dumpResult)
+	if (!dumpResult)
 	{
 		std::clog << "Cannot generate minidump, error: " << GetLastError() << std::endl;
 
-		//Close file and delete it
+		// Close file and delete it
 		CloseHandle(hFile);
 		DeleteFileA(fileName);
 
@@ -159,17 +159,17 @@ long ExceptionHandler::MiniDumpExceptionHandler(EXCEPTION_POINTERS* exceptionPoi
 
 	return EXCEPTION_EXECUTE_HANDLER;
 }
-#else //Unix/Linux
+#else // Unix/Linux
 #define BACKTRACE_DEPTH 128
-void _SigHandler(int signum, siginfo_t *info, void* secret)
+void _SigHandler(int signum, siginfo_t *info, void *secret)
 {
 	bool file;
 
 	int addrs;
-	void* buffer[BACKTRACE_DEPTH];
-	char** symbols;
+	void *buffer[BACKTRACE_DEPTH];
+	char **symbols;
 
-	ucontext_t context = *(ucontext_t*)secret;
+	ucontext_t context = *(ucontext_t *)secret;
 	rusage resources;
 	rlimit resourcelimit;
 	greg_t esp = 0;
@@ -177,9 +177,9 @@ void _SigHandler(int signum, siginfo_t *info, void* secret)
 	char date_buff[80];
 
 	std::ostream *outdriver;
-	std::clog << "Error: generating report file..." <<std::endl;
-	std::ofstream output("report.txt",std::ios_base::app);
-	if(output.fail())
+	std::clog << "Error: generating report file..." << std::endl;
+	std::ofstream output("report.txt", std::ios_base::app);
+	if (output.fail())
 	{
 		outdriver = &std::clog;
 		file = false;
@@ -195,12 +195,13 @@ void _SigHandler(int signum, siginfo_t *info, void* secret)
 	*outdriver << "*****************************************************" << std::endl;
 	*outdriver << "Error report - " << std::ctime(&rawtime) << std::endl;
 	*outdriver << "Compiler info - " << COMPILER_STRING << std::endl;
-	*outdriver << "Compilation Date - " << COMPILATION_DATE << std::endl << std::endl;
+	*outdriver << "Compilation Date - " << COMPILATION_DATE << std::endl
+			   << std::endl;
 
-	if(getrusage(RUSAGE_SELF, &resources) != -1)
+	if (getrusage(RUSAGE_SELF, &resources) != -1)
 	{
 		//- global memory information
-		if(getrlimit(RLIMIT_AS, &resourcelimit) != -1)
+		if (getrlimit(RLIMIT_AS, &resourcelimit) != -1)
 		{
 			// note: This is not POSIX standard, but it is available in Unix System V release 4, Linux, and 4.3 BSD
 			long memusage = resources.ru_ixrss + resources.ru_idrss + resources.ru_isrss;
@@ -208,8 +209,8 @@ void _SigHandler(int signum, siginfo_t *info, void* secret)
 			long memavail = memtotal - memusage;
 			long memload = long(float(memusage / memtotal) * 100.f);
 			*outdriver << "Memory load: " << memload << "K " << std::endl
-				<< "Total memory: " << memtotal << "K "
-				<< "available: " << memavail << "K" << std::endl;
+					   << "Total memory: " << memtotal << "K "
+					   << "available: " << memavail << "K" << std::endl;
 		}
 		//-process info
 		// creation time
@@ -217,26 +218,25 @@ void _SigHandler(int signum, siginfo_t *info, void* secret)
 		strftime(date_buff, 80, "%d-%m-%Y %H:%M:%S", ts);
 		// kernel time
 		*outdriver << "Kernel time: " << (resources.ru_stime.tv_sec / 3600)
-			<< ":" << ((resources.ru_stime.tv_sec % 3600) / 60)
-			<< ":" << ((resources.ru_stime.tv_sec % 3600) % 60)
-			<< "." << (resources.ru_stime.tv_usec / 1000)
-			<< std::endl;
+				   << ":" << ((resources.ru_stime.tv_sec % 3600) / 60)
+				   << ":" << ((resources.ru_stime.tv_sec % 3600) % 60)
+				   << "." << (resources.ru_stime.tv_usec / 1000)
+				   << std::endl;
 		// user time
 		*outdriver << "User time: " << (resources.ru_utime.tv_sec / 3600)
-			<< ":" << ((resources.ru_utime.tv_sec % 3600) / 60)
-			<< ":" << ((resources.ru_utime.tv_sec % 3600) % 60)
-			<< "." << (resources.ru_utime.tv_usec / 1000)
-			<< std::endl;
+				   << ":" << ((resources.ru_utime.tv_sec % 3600) / 60)
+				   << ":" << ((resources.ru_utime.tv_sec % 3600) % 60)
+				   << "." << (resources.ru_utime.tv_usec / 1000)
+				   << std::endl;
 	}
 	// TODO: Process thread count (is it really needed anymore?)
 	*outdriver << std::endl;
-
 
 	outdriver->flags(std::ios::hex | std::ios::showbase);
 	*outdriver << "Signal: " << signum;
 
 	{
-	#if __WORDSIZE == 32
+#if __WORDSIZE == 32
 		*outdriver << " at eip = " << context.uc_mcontext.gregs[REG_EIP] << std::endl;
 		*outdriver << "eax = " << context.uc_mcontext.gregs[REG_EAX] << std::endl;
 		*outdriver << "ebx = " << context.uc_mcontext.gregs[REG_EBX] << std::endl;
@@ -248,7 +248,7 @@ void _SigHandler(int signum, siginfo_t *info, void* secret)
 		*outdriver << "esp = " << context.uc_mcontext.gregs[REG_ESP] << std::endl;
 		*outdriver << "efl = " << context.uc_mcontext.gregs[REG_EFL] << std::endl;
 		esp = context.uc_mcontext.gregs[REG_ESP];
-	#else // 64-bit
+#else // 64-bit
 		*outdriver << " at rip = " << context.uc_mcontext.gregs[REG_RIP] << std::endl;
 		*outdriver << "rax = " << context.uc_mcontext.gregs[REG_RAX] << std::endl;
 		*outdriver << "rbx = " << context.uc_mcontext.gregs[REG_RBX] << std::endl;
@@ -260,7 +260,7 @@ void _SigHandler(int signum, siginfo_t *info, void* secret)
 		*outdriver << "rsp = " << context.uc_mcontext.gregs[REG_RSP] << std::endl;
 		*outdriver << "efl = " << context.uc_mcontext.gregs[REG_EFL] << std::endl;
 		esp = context.uc_mcontext.gregs[REG_RSP];
-	#endif
+#endif
 	}
 	outdriver->flush();
 	*outdriver << std::endl;
@@ -268,23 +268,22 @@ void _SigHandler(int signum, siginfo_t *info, void* secret)
 	// stack backtrace
 	addrs = backtrace(buffer, BACKTRACE_DEPTH);
 	symbols = backtrace_symbols(buffer, addrs);
-	if(symbols != NULL && addrs != 0)
+	if (symbols != NULL && addrs != 0)
 	{
 		*outdriver << "---Stack Trace---" << std::endl;
-		if(esp != 0)
+		if (esp != 0)
 		{
-			*outdriver << "From: " << (unsigned long)esp <<
-				" to: " << (unsigned long)(esp+addrs) << std::endl;
+			*outdriver << "From: " << (unsigned long)esp << " to: " << (unsigned long)(esp + addrs) << std::endl;
 		}
-		for(int i = 0; i != addrs; ++i)
+		for (int i = 0; i != addrs; ++i)
 		{
 			*outdriver << symbols[i] << std::endl;
 		}
 	}
 	outdriver->flush();
 
-	if(file)
-		((std::ofstream*)outdriver)->close();
+	if (file)
+		((std::ofstream *)outdriver)->close();
 
 	_exit(1);
 }

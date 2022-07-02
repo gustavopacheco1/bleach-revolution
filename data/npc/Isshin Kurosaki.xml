@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <npc name="Isshin Kurosaki" script="isshin kurosaki.lua" walkinterval="0">
-	<health now="100" max="100" />
-	<look type="286" />
+	<health now="100" max="100"/>
+	<look type="286"/>
 </npc>

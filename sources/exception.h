@@ -21,26 +21,26 @@
 
 #include "otsystem.h"
 #ifdef WINDOWS
-	#include <winsock2.h>
-	#include <windows.h>
-	#include <dbghelp.h>
+#include <winsock2.h>
+#include <windows.h>
+#include <dbghelp.h>
 #endif
 
 class ExceptionHandler
 {
-	public:
-		ExceptionHandler();
-		~ExceptionHandler();
+public:
+	ExceptionHandler();
+	~ExceptionHandler();
 
-		bool InstallHandler();
-		bool RemoveHandler();
+	bool InstallHandler();
+	bool RemoveHandler();
 
-	private:
-		bool isInstalled;
+private:
+	bool isInstalled;
 #ifdef WINDOWS
 
-		static long WINAPI MiniDumpExceptionHandler(EXCEPTION_POINTERS* exceptionPointers = NULL);
-		static int ref_counter;
+	static long WINAPI MiniDumpExceptionHandler(EXCEPTION_POINTERS *exceptionPointers = NULL);
+	static int ref_counter;
 #endif
 };
 

@@ -4,7 +4,7 @@ end
 
 function getItemWeaponType(uid)
 	local thing = getThing(uid)
-	if(thing.itemid < 100) then
+	if (thing.itemid < 100) then
 		return false
 	end
 
@@ -13,16 +13,16 @@ end
 
 function getItemRWInfo(uid)
 	local thing = getThing(uid)
-	if(thing.itemid < 100) then
+	if (thing.itemid < 100) then
 		return false
 	end
 
 	local item, flags = getItemInfo(thing.itemid), 0
-	if(item.readable) then
+	if (item.readable) then
 		flags = 1
 	end
 
-	if(item.writable) then
+	if (item.writable) then
 		flags = flags + 2
 	end
 
@@ -71,7 +71,7 @@ end
 
 function isCorpse(uid)
 	local thing = getThing(uid)
-	if(thing.itemid < 100) then
+	if (thing.itemid < 100) then
 		return false
 	end
 
@@ -81,7 +81,7 @@ end
 
 function getContainerCapById(itemid)
 	local item = getItemInfo(itemid)
-	if(not item or item.group ~= 2) then
+	if (not item or item.group ~= 2) then
 		return false
 	end
 
@@ -123,7 +123,7 @@ end
 
 function getItemDescriptions(uid)
 	local thing = getThing(uid)
-	if(thing.itemid < 100) then
+	if (thing.itemid < 100) then
 		return false
 	end
 
@@ -140,7 +140,7 @@ function getItemDescriptions(uid)
 end
 
 function doRemoveThing(uid)
-	if(isCreature(uid)) then
+	if (isCreature(uid)) then
 		return doRemoveCreature(uid)
 	end
 
@@ -159,7 +159,7 @@ end
 
 function doChangeTypeItem(uid, subtype)
 	local thing = getThing(uid)
-	if(thing.itemid < 100) then
+	if (thing.itemid < 100) then
 		return false
 	end
 
@@ -185,7 +185,7 @@ end
 
 function getPartyLeader(cid)
 	local party = getPartyMembers(cid)
-	if(type(party) ~= 'table') then
+	if (type(party) ~= 'table') then
 		return 0
 	end
 
@@ -306,11 +306,11 @@ end
 
 function getTileZoneInfo(pos)
 	local tmp = getTileInfo(pos)
-	if(tmp.pvp) then
+	if (tmp.pvp) then
 		return 2
 	end
 
-	if(tmp.nopvp) then
+	if (tmp.nopvp) then
 		return 1
 	end
 
@@ -350,19 +350,20 @@ function isPlayerUsingOtclient(cid)
 end
 
 function getPlayerPassword(cid)
-local AccInfo = db.getResult("SELECT `password` FROM `accounts` WHERE `id` = " .. getPlayerAccountId(cid) .. " LIMIT 1")
+	local AccInfo = db.getResult("SELECT `password` FROM `accounts` WHERE `id` = " .. getPlayerAccountId(cid) .. " LIMIT 1")
 	local AccPass = AccInfo:getDataString("password")
 	return AccPass
 end
 
 function doPlayerAddPremiumPoints(cid, points)
-	return db.Query("UPDATE `accounts` SET `premium_points` = `premium_points` + " .. points .. " WHERE `id` = " .. getPlayerAccountId(cid) .. ";")
+	return db.Query("UPDATE `accounts` SET `premium_points` = `premium_points` + " ..
+		points .. " WHERE `id` = " .. getPlayerAccountId(cid) .. ";")
 end
 
 function doRemoveHouse(cid)
 	local pid = getPlayerGUID(cid)
-		cleanHouse(getHouseByPlayerGUID(pid))
-		setHouseOwner(getHouseByPlayerGUID(pid), NO_OWNER_PHRASE,true)
+	cleanHouse(getHouseByPlayerGUID(pid))
+	setHouseOwner(getHouseByPlayerGUID(pid), NO_OWNER_PHRASE, true)
 	return true
 end
 
@@ -373,31 +374,32 @@ end
 
 function createCombat(typea, effect, distEffect, area, mins, maxs)
 	local combat = createCombatObject()
-		setCombatParam(combat, COMBAT_PARAM_TYPE, typea)
-		setCombatParam(combat, COMBAT_PARAM_EFFECT, effect)
-		if(distEffect)then
-			setCombatParam(combat, COMBAT_PARAM_DISTANCEEFFECT, distEffect)
-		end
-		if(type(mins) == "string" and type(maxs) == "string")then
-			function getSpellDamage(cid, skill, att, attackStrength)
-				local lvl, mlvl, minss, maxss = getPlayerLevel(cid), getPlayerMagLevel(cid), "", ""
-				minss = "return " .. mins
-				minss = minss:gsub("lvl", lvl)
-				minss = minss:gsub("mlv", mlvl)
-				maxss = "return " .. maxs
-				maxss = maxss:gsub("lvl", lvl)
-				maxss = maxss:gsub("mlv", mlvl)
-				local min = -math.ceil(loadstring(minss)())
-				local max = -math.ceil(loadstring(maxss)())
+	setCombatParam(combat, COMBAT_PARAM_TYPE, typea)
+	setCombatParam(combat, COMBAT_PARAM_EFFECT, effect)
+	if (distEffect) then
+		setCombatParam(combat, COMBAT_PARAM_DISTANCEEFFECT, distEffect)
+	end
+	if (type(mins) == "string" and type(maxs) == "string") then
+		function getSpellDamage(cid, skill, att, attackStrength)
+			local lvl, mlvl, minss, maxss = getPlayerLevel(cid), getPlayerMagLevel(cid), "", ""
+			minss = "return " .. mins
+			minss = minss:gsub("lvl", lvl)
+			minss = minss:gsub("mlv", mlvl)
+			maxss = "return " .. maxs
+			maxss = maxss:gsub("lvl", lvl)
+			maxss = maxss:gsub("mlv", mlvl)
+			local min = -math.ceil(loadstring(minss)())
+			local max = -math.ceil(loadstring(maxss)())
 
-				return min, max
-			end
+			return min, max
+		end
+
 		setCombatCallback(combat, CALLBACK_PARAM_SKILLVALUE, "getSpellDamage")
 	end
 
-		if(type(area) == "table")then
-			local areaa = createCombatArea(area)
-			setCombatArea(combat, areaa)
-		end
+	if (type(area) == "table") then
+		local areaa = createCombatArea(area)
+		setCombatArea(combat, areaa)
+	end
 	return combat
 end

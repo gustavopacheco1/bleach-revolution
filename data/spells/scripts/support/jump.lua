@@ -1,11 +1,11 @@
-local SPOTS = {384, 418, 8278, 8592, 13189, 15635}
+local SPOTS = { 384, 418, 8278, 8592, 13189, 15635 }
 
 function onCastSpell(cid, var)
 	local position = getThingPosition(cid)
 	position.stackpos = 0
 
 	local ground = getThingFromPos(position)
-	if(isInArray(SPOTS, ground.itemid)) then
+	if (isInArray(SPOTS, ground.itemid)) then
 		local newPosition = position
 		newPosition.y = newPosition.y + 1
 		newPosition.z = newPosition.z - 1

@@ -132,7 +132,7 @@
 	</instant>
 	<conjure name="Conjure Food" words="shokuji no jutsu" lvl="2" mana="20" soul="1" conjureId="2666" conjureCount="10" aggressive="0" exhaustion="1000" needlearn="0" event="function" value="conjureItem">
 	</conjure>
-	
+
 	<!--- Naruto Jutsus -->
 	<instant name="Throw Kunai no jutsu" words="throw kunai" lvl="2" mana="20" prem="0" range="3" casterTargetOrDirection="1" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="throwkunai.lua">
 	</instant>
@@ -339,7 +339,7 @@
         <vocation id="458"/>
 	</instant>
         <instant name="Chouza Akimichi" words="chouzaakimichicode" lvl="250" mana="8100" aggressive="1" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="summons/chouzaakimichi.lua">
-		<vocation id="458"/>        
+		<vocation id="458"/>
    	</instant>
          <instant name="Dark Snake" words="dark snake" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="1" exhaustion="3000" blocktype="all" enabled="0" script="summons/darksnake.lua">
         <vocation id="458"/>
@@ -399,7 +399,7 @@
         <vocation id="458"/>
   	</instant>
          <instant name="God Kill" words="god kill" allowfaruse="1" lvl="9965" mana="120" needtarget="1" prem="1" exhaustion="50000" script="summons/godkill.lua">
-        <vocation id="458"/>        
+        <vocation id="458"/>
 	</instant>
         <instant name="Amaterasu Follow" words="amaterasu follow" lvl="40" mana="1400" aggressive="1"  exhaustion="2000" needlearn="0" event="script" value="naruto/testeamaterasu.lua">
 		<vocation id="458"/>
@@ -423,13 +423,13 @@
 		<vocation id="458"/>
 	</instant>
 	<instant name="Wrath of Naturetres" words="exevo gran mas teratres" lvl="55" mana="770" prem="1" selftarget="1" exhaustion="2000" needlearn="0" event="script" value="summons/wrath of naturetres.lua">
-		<vocation id="458"/>		
+		<vocation id="458"/>
 	</instant>
 	<instant name="Kakashi Raikiri" words="kakashiraikiricode" lvl="55" mana="770" prem="1" selftarget="1" exhaustion="2000" needlearn="0" event="script" value="summons/kakashiraikiri.lua">
-		<vocation id="458"/>		
+		<vocation id="458"/>
 	</instant>
 	<instant name="Anko Cobras" words="ankocobrascode" lvl="55" mana="770" prem="1" selftarget="1" exhaustion="2000" needlearn="0" event="script" value="summons/ankocobras.lua">
-		<vocation id="458"/>                
+		<vocation id="458"/>
 	</instant>
         <instant name="Garra Follow" words="garra follow" lvl="40" mana="1400" aggressive="1"  exhaustion="2000" needlearn="0" event="script" value="naruto/garra.lua">
 		<vocation id="458"/>
@@ -490,7 +490,7 @@
 		<vocation id="21"/>
 		<vocation id="22"/>
 		<vocation id="23"/>
-		<vocation id="24"/>	
+		<vocation id="24"/>
 	</instant>
         <instant name="Amaterasu Protect" words="amaterasu protect" lvl="225" mana="7000" aggressive="1" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="sasuke/auraspell.lua">
 		<vocation id="13"/>
@@ -504,7 +504,7 @@
 		<vocation id="21"/>
 		<vocation id="22"/>
 		<vocation id="23"/>
-		<vocation id="24"/>		
+		<vocation id="24"/>
 	</instant>
         <instant name="Chidori" words="chidori" lvl="40" mana="1500" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="sasuke/chidori.lua">
 		<vocation id="13"/>
@@ -639,7 +639,7 @@
         <vocation id="205"/>
         <vocation id="206"/>
         <vocation id="207"/>
-        <vocation id="208"/>	        
+        <vocation id="208"/>
            <vocation id="210"/>
 	        <vocation id="211"/>
 		<vocation id="212"/>
@@ -795,7 +795,7 @@
 		<vocation id="30"/>
 		<vocation id="31"/>
 		<vocation id="32"/>
-		<vocation id="33"/>		
+		<vocation id="33"/>
 	</instant>
         <instant name="Omote Renge" words="omote renge" lvl="50" mana="0" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="lee/lotos.lua">
 		<vocation id="25"/>
@@ -1176,7 +1176,7 @@
 		<vocation id="458"/>
   </instant>
         <instant name="Suna no Yoroi" words="suna no yoroi" aggressive="0" lvl="130" mana="4000"  needtarget="1" range="5" exhaustion="1000" event="script" value="gaara/protecao.lua">
-		<vocation id="458"/>	
+		<vocation id="458"/>
   </instant>
         <instant name="Suna No Tate" words="suna no tate" aggressive="0" prem="1" selftarget="1" lvl="200" mana="10000"  exhaustion="1000" event="script" value="gaara/sunatate.lua">
 		<vocation id="50"/>
@@ -1251,7 +1251,7 @@
 		<vocation id="58"/>
 		<vocation id="58"/>
 		<vocation id="59"/>
-		<vocation id="60"/>	
+		<vocation id="60"/>
 	</instant>
         <instant name="Sabaku Taisou" words="sabaku taisou" lvl="100" mana="4000" aggressive="1" prem="1" range="4" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="gaara/sabaku taisou.lua">
 		<vocation id="50"/>
@@ -1552,7 +1552,7 @@
 		<vocation id="132"/>
 		<vocation id="133"/>
 		<vocation id="134"/>
-		<vocation id="135"/>		
+		<vocation id="135"/>
  	</instant>
         <instant name="Hakke Kuushou" words="hakke kuushou" allowfaruse="1" lvl="100" mana="120" direction="1" prem="1" exhaustion="1000" blocktype="all" needlearn="0" script="hinata/hakke kuushou.lua">
 		<vocation id="458"/>
@@ -1591,7 +1591,7 @@
 		<vocation id="134"/>
 		<vocation id="135"/>
 	</instant>
-	
+
 		<!--- Neji Jutsus -->
         <instant name="Hakkeshou Dai Kaiten" words="hakkeshou dai kaiten" lvl="225" mana="5500" aggressive="1"  exhaustion="1000" needlearn="0" event="script" value="neji/Hakkeshou Dai Kaiten.lua">
 		<vocation id="70"/>
@@ -1610,14 +1610,14 @@
 		<vocation id="134"/>
 		<vocation id="135"/>
 	</instant>
-	
+
 		<!--- Tenten Jutsus -->
         <instant name="Souryuu Kyuuheki" words="souryuu kyuuheki" aggressive="0" prem="1" selftarget="1" lvl="200" mana="10000"  exhaustion="1500" event="script" value="tenten/souryuu kyuuheki.lua">
 		<vocation id="150"/>
 		<vocation id="151"/>
 		<vocation id="152"/>
 		<vocation id="153"/>
-		<vocation id="154"/>		
+		<vocation id="154"/>
 	</instant>
         <instant name="Senbows no jutsu" words="senbows no jutsu" lvl="40" mana="1800" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="tenten/senbows.lua">
 		<vocation id="150"/>
@@ -1631,7 +1631,7 @@
 		<vocation id="151"/>
 		<vocation id="152"/>
 		<vocation id="153"/>
-		<vocation id="154"/>	
+		<vocation id="154"/>
 	</instant>
         <instant name="Explosive Paper no jutsu" words="explosive paper" lvl="70" mana="3100" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="tenten/explosivepaper.lua">
 		<vocation id="151"/>
@@ -1667,7 +1667,7 @@
 		<vocation id="153"/>
 		<vocation id="154"/>
 	</instant>
-	
+
 		<!--- Itachi Jutsus -->
         <instant name="Mangekyou Susano" words="mangekyou susano" aggressive="0" prem="1" selftarget="1" lvl="200" mana="10000"  exhaustion="1000" event="script" value="itachi/susano.lua">
 		<vocation id="170"/>
@@ -1808,7 +1808,7 @@
 		<vocation id="22"/>
 		<vocation id="23"/>
 		<vocation id="24"/>
-		
+
 	</instant>
         <instant name="Mangekyou Susano Atack" words="mangekyou susano atack" lvl="250" mana="8000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1500" needlearn="0" event="script" value="itachi/susanoatak.lua">
 		<vocation id="170"/>
@@ -1820,7 +1820,7 @@
 		<vocation id="176"/>
 		<vocation id="177"/>
 	</instant>
-	
+
 			<!--- Killer Bee Jutsus -->
         <instant name="Raiton Yoroi" words="raiton yoroi" aggressive="0" prem="1" selftarget="1" lvl="200" mana="1000"  exhaustion="1000" event="script" value="killer/raitonyoroi.lua">
         <vocation id="190"/>
@@ -1905,9 +1905,9 @@
 		<vocation id="193"/>
 		<vocation id="194"/>
 		<vocation id="195"/>
-		<vocation id="196"/>                                                		
-	</instant>    
-        
+		<vocation id="196"/>
+	</instant>
+
         			<!--- Kakashi Jutsus -->
         <instant name="Mangekyou Sharingan" words="mangekyou sharingan" aggressive="0" prem="1" selftarget="1" lvl="200" mana="10000"  exhaustion="1000" event="script" value="kakashi/buff.lua">
         <vocation id="200"/>
@@ -2019,8 +2019,8 @@
         <vocation id="205"/>
         <vocation id="206"/>
         <vocation id="207"/>
-        <vocation id="208"/>                                                                        
-	</instant>     
+        <vocation id="208"/>
+	</instant>
 <instant name="Meteor no jutsu" words="Meteor no jutsu" lvl="300" mana="7500" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="2200" needlearn="0" event="script" value="madara/meteor.lua">
         	        <vocation id="210"/>
 	        <vocation id="211"/>
@@ -2028,8 +2028,8 @@
 		<vocation id="213"/>
 		<vocation id="214"/>
 		<vocation id="215"/>
-		<vocation id="216"/>                                                                       
-	</instant>  
+		<vocation id="216"/>
+	</instant>
 	<instant name="Katon meteor no jutsu" words="katon meteor no jutsu" lvl="400" mana="10000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="2200" needlearn="0" event="script" value="madara/katonmeteor.lua">
         	        <vocation id="210"/>
 	        <vocation id="211"/>
@@ -2037,8 +2037,8 @@
 		<vocation id="213"/>
 		<vocation id="214"/>
 		<vocation id="215"/>
-		<vocation id="216"/>                                                                       
-	</instant>          	
+		<vocation id="216"/>
+	</instant>
 	<instant name="Amaterasuu" words="Amaterasuu" lvl="250" mana="8000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1400" needlearn="0" event="script" value="madara/amaterasuu.lua">
         	        <vocation id="210"/>
 	        <vocation id="211"/>
@@ -2046,6 +2046,6 @@
 		<vocation id="213"/>
 		<vocation id="214"/>
 		<vocation id="215"/>
-		<vocation id="216"/>                                                                       
-	</instant>   
+		<vocation id="216"/>
+	</instant>
 </spells>

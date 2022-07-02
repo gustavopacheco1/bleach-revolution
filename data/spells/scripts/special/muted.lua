@@ -1,7 +1,7 @@
 local spell = {
-    cooldown = 50,
-    duration = 3,
-    effect = 20,
+	cooldown = 50,
+	duration = 3,
+	effect = 20,
 }
 
 local condition = createConditionObject(CONDITION_MUTED)
@@ -13,19 +13,19 @@ function onCastSpell(cid, var)
 		return false
 	end
 
-    local target = getCreatureTarget(cid)
+	local target = getCreatureTarget(cid)
 
-    if not (isPlayer(target)) then
-        MultiLanguage.doPlayerSendCancel(
-            cid,
-            "You may only use this technique in players.",
-            "Você só pode utilizar esta técnica em players."
-        )
-        return false
-    end
+	if not (isPlayer(target)) then
+		MultiLanguage.doPlayerSendCancel(
+			cid,
+			"You may only use this technique in players.",
+			"Você só pode utilizar esta técnica em players."
+		)
+		return false
+	end
 
-    doSendMagicEffect(getCreaturePosition(target), spell.effect)
-    doAddCondition(target, condition)
-	exhaustion.set(cid, "special" , spell.cooldown)
+	doSendMagicEffect(getCreaturePosition(target), spell.effect)
+	doAddCondition(target, condition)
+	exhaustion.set(cid, "special", spell.cooldown)
 	return true
 end

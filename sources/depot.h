@@ -21,55 +21,55 @@
 
 class Depot : public Container
 {
-	public:
-		Depot(uint16_t type);
-		virtual ~Depot() {}
+public:
+	Depot(uint16_t type);
+	virtual ~Depot() {}
 
-		virtual Depot* getDepot() {return this;}
-		virtual const Depot* getDepot() const {return this;}
+	virtual Depot *getDepot() { return this; }
+	virtual const Depot *getDepot() const { return this; }
 
-		//serialization
-		virtual Attr_ReadValue readAttr(AttrTypes_t attr, PropStream& propStream);
+	// serialization
+	virtual Attr_ReadValue readAttr(AttrTypes_t attr, PropStream &propStream);
 
-		uint32_t getDepotId() const;
+	uint32_t getDepotId() const;
 
-		void setMaxDepotLimit(uint32_t count) {depotLimit = count;}
+	void setMaxDepotLimit(uint32_t count) { depotLimit = count; }
 
-		//cylinder implementations
-		virtual Cylinder* getParent() {return Item::getParent();}
-		virtual const Cylinder* getParent() const {return Item::getParent();}
-		virtual bool isRemoved() const {return Item::isRemoved();}
-		virtual Position getPosition() const {return Item::getPosition();}
-		virtual Tile* getTile() {return Item::getTile();}
-		virtual const Tile* getTile() const {return Item::getTile();}
-		virtual Item* getItem() {return this;}
-		virtual const Item* getItem() const {return this;}
-		virtual Creature* getCreature() {return NULL;}
-		virtual const Creature* getCreature() const {return NULL;}
+	// cylinder implementations
+	virtual Cylinder *getParent() { return Item::getParent(); }
+	virtual const Cylinder *getParent() const { return Item::getParent(); }
+	virtual bool isRemoved() const { return Item::isRemoved(); }
+	virtual Position getPosition() const { return Item::getPosition(); }
+	virtual Tile *getTile() { return Item::getTile(); }
+	virtual const Tile *getTile() const { return Item::getTile(); }
+	virtual Item *getItem() { return this; }
+	virtual const Item *getItem() const { return this; }
+	virtual Creature *getCreature() { return NULL; }
+	virtual const Creature *getCreature() const { return NULL; }
 
-		virtual ReturnValue __queryAdd(int32_t index, const Thing* thing, uint32_t count,
-			uint32_t flags, Creature* actor = NULL) const;
+	virtual ReturnValue __queryAdd(int32_t index, const Thing *thing, uint32_t count,
+								   uint32_t flags, Creature *actor = NULL) const;
 
-		virtual ReturnValue __queryMaxCount(int32_t index, const Thing* thing, uint32_t count,
-			uint32_t& maxQueryCount, uint32_t flags) const;
+	virtual ReturnValue __queryMaxCount(int32_t index, const Thing *thing, uint32_t count,
+										uint32_t &maxQueryCount, uint32_t flags) const;
 
-		virtual void postAddNotification(Creature* actor, Thing* thing, const Cylinder* oldParent,
-			int32_t index, CylinderLink_t link = LINK_OWNER);
-		virtual void postRemoveNotification(Creature* actor, Thing* thing, const Cylinder* newParent,
-			int32_t index, bool isCompleteRemoval, CylinderLink_t link = LINK_OWNER);
+	virtual void postAddNotification(Creature *actor, Thing *thing, const Cylinder *oldParent,
+									 int32_t index, CylinderLink_t link = LINK_OWNER);
+	virtual void postRemoveNotification(Creature *actor, Thing *thing, const Cylinder *newParent,
+										int32_t index, bool isCompleteRemoval, CylinderLink_t link = LINK_OWNER);
 
-		//overrides
-		virtual bool canRemove() const {return false;}
+	// overrides
+	virtual bool canRemove() const { return false; }
 
-	private:
-		uint32_t depotLimit;
+private:
+	uint32_t depotLimit;
 };
 
 inline uint32_t Depot::getDepotId() const
 {
 	bool ok;
 	int32_t v = getIntegerAttribute("depotid", ok);
-	if(ok)
+	if (ok)
 		return (uint32_t)v;
 
 	return 0;

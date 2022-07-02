@@ -2,8 +2,8 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 	local t = {}
 	for i = 0, getPlayerInstantSpellCount(cid) - 1 do
 		local spell = getPlayerInstantSpellInfo(cid, i)
-		if(spell.level ~= 0) then
-			if(spell.manapercent > 0) then
+		if (spell.level ~= 0) then
+			if (spell.manapercent > 0) then
 				spell.mana = spell.manapercent .. "%"
 			end
 
@@ -15,8 +15,8 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 	local text, prevLevel = "", -1
 	for i, spell in ipairs(t) do
 		local line = ""
-		if(prevLevel ~= spell.level) then
-			if(i ~= 1) then
+		if (prevLevel ~= spell.level) then
+			if (i ~= 1) then
 				line = "\n"
 			end
 

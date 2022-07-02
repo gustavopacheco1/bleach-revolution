@@ -1,5 +1,5 @@
 function onSay(cid, words, param, channel)
-	if(param == '') then
+	if (param == '') then
 		return true
 	end
 

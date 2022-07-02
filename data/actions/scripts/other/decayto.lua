@@ -17,7 +17,7 @@ local ITEM_IDS = {
 }
 
 function onUse(cid, item, fromPosition, itemEx, toPosition)
-	if(not ITEM_IDS[item.itemid]) then
+	if (not ITEM_IDS[item.itemid]) then
 		return false
 	end
 

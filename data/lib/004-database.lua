@@ -4,7 +4,7 @@ db.stringComparison = db.stringComparer
 db.executeQuery = db.query
 db.quote = db.escapeString
 
-if(result == nil) then
+if (result == nil) then
 	print("> WARNING: Couldn't load database lib.")
 	return
 end
@@ -34,7 +34,7 @@ end
 function Result:create(_query)
 	self:setQuery(_query)
 	local _id = db.storeQuery(self:getQuery())
-	if(_id) then
+	if (_id) then
 		self:setID(_id)
 	end
 
@@ -43,7 +43,7 @@ end
 
 function Result:getRows(free)
 	local free = free or false
-	if(self:getID() == -1) then
+	if (self:getID() == -1) then
 		error("[Result:getRows] Result not set!")
 	end
 
@@ -54,7 +54,7 @@ function Result:getRows(free)
 
 	local _query = self:getQuery()
 	self:free()
-	if(not free) then
+	if (not free) then
 		self:create(_query)
 	end
 
@@ -62,7 +62,7 @@ function Result:getRows(free)
 end
 
 function Result:getDataInt(s)
-	if(self:getID() == -1) then
+	if (self:getID() == -1) then
 		error("[Result:getDataInt] Result not set!")
 	end
 
@@ -70,7 +70,7 @@ function Result:getDataInt(s)
 end
 
 function Result:getDataLong(s)
-	if(self:getID() == -1) then
+	if (self:getID() == -1) then
 		error("[Result:getDataLong] Result not set!")
 	end
 
@@ -78,7 +78,7 @@ function Result:getDataLong(s)
 end
 
 function Result:getDataString(s)
-	if(self:getID() == -1) then
+	if (self:getID() == -1) then
 		error("[Result:getDataString] Result not set!")
 	end
 
@@ -86,7 +86,7 @@ function Result:getDataString(s)
 end
 
 function Result:getDataStream(s)
-	if(self:getID() == -1) then
+	if (self:getID() == -1) then
 		error("[Result:getDataStream] Result not set!")
 	end
 
@@ -94,7 +94,7 @@ function Result:getDataStream(s)
 end
 
 function Result:next()
-	if(self:getID() == -1) then
+	if (self:getID() == -1) then
 		error("[Result:next] Result not set!")
 	end
 
@@ -102,7 +102,7 @@ function Result:next()
 end
 
 function Result:free()
-	if(self:getID() == -1) then
+	if (self:getID() == -1) then
 		error("[Result:free] Result not set!")
 	end
 
@@ -114,7 +114,7 @@ end
 
 Result.numRows = Result.getRows
 function db.getResult(query)
-	if(type(query) ~= 'string') then
+	if (type(query) ~= 'string') then
 		return nil
 	end
 

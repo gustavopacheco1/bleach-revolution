@@ -70,7 +70,7 @@ CREATE TABLE `players`
 	`looklegs` INT NOT NULL DEFAULT 0,
 	`looktype` INT NOT NULL DEFAULT 136,
 	`lookaddons` INT NOT NULL DEFAULT 0,
-	`lookmount` INT NOT NULL DEFAULT 0, 
+	`lookmount` INT NOT NULL DEFAULT 0,
 	`maglevel` INT NOT NULL DEFAULT 0,
 	`mana` INT NOT NULL DEFAULT 0,
 	`manamax` INT NOT NULL DEFAULT 0,

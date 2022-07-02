@@ -1,5 +1,5 @@
 function onSay(cid, words, param, channel)
-	if(param == '') then
+	if (param == '') then
 		doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "Command param required.")
 		return true
 	end
@@ -9,25 +9,25 @@ function onSay(cid, words, param, channel)
 	local pos = getCreaturePosition(cid)
 
 	local id = tonumber(t[1])
-	if(not id) then
+	if (not id) then
 		errors(false)
 		id = getItemIdByName(t[1])
 		errors(true)
 
-		if(not id) then
+		if (not id) then
 			doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "Item with such name does not exists.")
 			return true
 		end
 	end
 
 	local amount = 100
-	if(t[2]) then
+	if (t[2]) then
 		amount = t[2]
 	end
 
 	local item = doCreateItemEx(id, amount)
-	if(t[3] and getBooleanFromString(t[3])) then
-		if(t[4] and getBooleanFromString(t[4])) then
+	if (t[3] and getBooleanFromString(t[3])) then
+		if (t[4] and getBooleanFromString(t[4])) then
 			pos = getCreatureLookPosition(cid)
 		end
 
@@ -36,13 +36,13 @@ function onSay(cid, words, param, channel)
 		ret = doPlayerAddItemEx(cid, item, true)
 	end
 
-	if(ret ~= RETURNVALUE_NOERROR) then
+	if (ret ~= RETURNVALUE_NOERROR) then
 		doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "Couldn't add item: " .. t[1])
 		return true
 	end
 
 	doDecayItem(item)
-	if(not isPlayerGhost(cid)) then
+	if (not isPlayerGhost(cid)) then
 		doSendMagicEffect(pos, CONST_ME_MAGIC_RED)
 	end
 
