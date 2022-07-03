@@ -2919,8 +2919,8 @@ void ProtocolGame::AddCreature(OutputMessage_ptr msg, const Creature *creature, 
 void ProtocolGame::AddPlayerStats(OutputMessage_ptr msg)
 {
 	msg->addByte(0xA0);
-	msg->add<uint16_t>(player->getHealth());
-	msg->add<uint16_t>(player->getPlayerInfo(PLAYERINFO_MAXHEALTH));
+	msg->add<uint32_t>(player->getHealth());
+	msg->add<uint32_t>(player->getPlayerInfo(PLAYERINFO_MAXHEALTH));
 	uint32_t capacity = uint32_t(player->getFreeCapacity() * 100);
 	if (capacity >= INT32_MAX)
 		msg->add<uint32_t>(INT32_MAX);
@@ -2935,8 +2935,8 @@ void ProtocolGame::AddPlayerStats(OutputMessage_ptr msg)
 
 	msg->add<uint16_t>(player->getPlayerInfo(PLAYERINFO_LEVEL));
 	msg->addByte(player->getPlayerInfo(PLAYERINFO_LEVELPERCENT));
-	msg->add<uint16_t>(player->getPlayerInfo(PLAYERINFO_MANA));
-	msg->add<uint16_t>(player->getPlayerInfo(PLAYERINFO_MAXMANA));
+	msg->add<uint32_t>(player->getPlayerInfo(PLAYERINFO_MANA));
+	msg->add<uint32_t>(player->getPlayerInfo(PLAYERINFO_MAXMANA));
 	msg->addByte(player->getPlayerInfo(PLAYERINFO_MAGICLEVEL));
 	msg->addByte(player->getPlayerInfo(PLAYERINFO_MAGICLEVELPERCENT));
 	msg->addByte(player->getPlayerInfo(PLAYERINFO_SOUL));
