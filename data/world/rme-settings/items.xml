@@ -21918,7 +21918,7 @@
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="feet" />
 	</item>
-
+	
 	<!-- Ultimate Vizard Set -->
 	<item id="16119" name="Ultimate Vizard Helmet">
 		<attribute key="weight" value="1000" />
@@ -21957,7 +21957,7 @@
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="feet" />
 	</item>
-
+	
 	<!-- Kaname Set -->
 	<item id="16089" name="Kaname Helmet">
 		<attribute key="weight" value="1000" />
@@ -21996,7 +21996,7 @@
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="feet" />
 	</item>
-
+	
 	<!-- Nnoitra Set -->
 	<item id="16093" name="Nnoitra Helmet">
 		<attribute key="weight" value="1000" />
@@ -22035,7 +22035,7 @@
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="feet" />
 	</item>
-
+	
 	<!-- Ultimate Nnoitra Set -->
 	<item id="16123" name="Ultimate Nnoitra Helmet">
 		<attribute key="weight" value="1000" />
@@ -22074,7 +22074,7 @@
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="feet" />
 	</item>
-
+	
 	<!-- Kensei Set -->
 	<item id="16097" name="Kensei Helmet">
 		<attribute key="weight" value="1000" />
@@ -22113,7 +22113,7 @@
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="feet" />
 	</item>
-
+	
 	<!-- Halibel Set -->
 	<item id="11384" name="Halibel Helmet">
 		<attribute key="weight" value="1000" />
@@ -22152,7 +22152,7 @@
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="feet" />
 	</item>
-
+	
 	<!--  Zangetsu Set -->
 	<item id="16107" name="Zangetsu Helmet">
 		<attribute key="weight" value="1000" />
@@ -22191,7 +22191,7 @@
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="feet" />
 	</item>
-
+	
 	<!--  Ultimate Zangetsu Set -->
 	<item id="16127" name="Ultimate Zangetsu Helmet">
 		<attribute key="weight" value="1000" />
@@ -22639,7 +22639,7 @@
 		<attribute key="range" value="10" />
 		<attribute key="hitChance" value="100" />
 	</item>
-
+	
 	<!-- Swords -->
 	<item id="15410" name="Shinigami Sword">
 		<attribute key="weight" value="2500" />
@@ -22674,7 +22674,7 @@
 		<attribute key="weaponType" value="sword" />
 		<attribute key="description" value="Soul: 0" />
 	</item>
-
+	
 	<!-- Gloves -->
 	<item id="15819" name="Brazo El Diablo">
 		<attribute key="weight" value="2500" />
