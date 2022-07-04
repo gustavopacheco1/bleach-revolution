@@ -1,12 +1,6 @@
-local config = {
-	loginMessage = getConfigValue('loginMessage'),
-	useFragHandler = getBooleanFromString(getConfigValue('useFragHandler'))
-}
-
 function onLogin(cid)
-	local lastLogin, str = getPlayerLastLoginSaved(cid), config.loginMessage
+	local lastLogin, str = getPlayerLastLoginSaved(cid), getConfigValue('loginMessage')
 	if (lastLogin > 0) then
-		doPlayerSendTextMessage(cid, MESSAGE_STATUS_DEFAULT, str)
 		str = "Your last visit was on " .. os.date("%a %b %d %X %Y", lastLogin) .. "."
 	end
 	doPlayerSendTextMessage(cid, MESSAGE_STATUS_DEFAULT, str)
@@ -39,7 +33,7 @@ function onLogin(cid)
 		registerCreatureEvent(cid, "ExtendedOpcode")
 	end
 
-	if (config.useFragHandler) then
+	if (getBooleanFromString(getConfigValue('useFragHandler'))) then
 		registerCreatureEvent(cid, "SkullCheck")
 	end
 
