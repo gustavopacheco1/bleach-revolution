@@ -22,8 +22,7 @@ function onSay(cid, words, param, channel)
 			name = account
 		end
 
-		doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE,
-			name .. " has been " .. (ban.expires == -1 and "undeleted" or "unbanned") .. ".")
+		doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, name .. " has been " .. (ban.expires == -1 and "undeleted" or "unbanned") .. ".")
 	end
 
 	if (tmp) then
@@ -48,8 +47,7 @@ function onSay(cid, words, param, channel)
 
 	ban = getBanData(guid, BAN_PLAYER, PLAYERBAN_BANISHMENT)
 	if (ban and doRemovePlayerBanishment(guid, PLAYERBAN_BANISHMENT)) then
-		doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE,
-			param .. " has been " .. (ban.expires == -1 and "undeleted" or "unbanned") .. ".")
+		doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, param .. " has been " .. (ban.expires == -1 and "undeleted" or "unbanned") .. ".")
 	end
 
 	return true

@@ -198,7 +198,7 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 
 	if not (questChests[quest_chest_aid]) then return end
 
-	if getPlayerStorageValue(cid, questChests[quest_chest_aid].storage) ~= -1 then
+	if getPlayerStorageValue(cid, questChests[quest_chest_aid].storage) ~= 0 then
 		doSendMagicEffect(getCreaturePosition(cid), 2)
 		return MultiLanguage.doPlayerSendTextMessage(
 			cid,

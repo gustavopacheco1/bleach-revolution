@@ -40,7 +40,7 @@ function onCastSpell(cid, var)
 	local target_corpse
 
 	for _, spectator in ipairs(getSpectators(player_position, 7, 5)) do
-		if spectator ~= cid and getCreatureStorage(spectator, "dead_player_id") ~= -1 and
+		if spectator ~= cid and getCreatureStorage(spectator, "dead_player_id") ~= 0 and
 			isSightClear(player_position, getCreaturePosition(spectator), false) then
 			if param == "all" then
 				target_corpse = getClosestTarget(cid, target_corpse, spectator)

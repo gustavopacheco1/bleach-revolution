@@ -2,7 +2,7 @@ function onSay(cid, words, param)
 	param = param:lower()
 
 	if isInArray({ "use", "using" }, param) then
-		if getPlayerStorageValue(cid, "display_use") == -1 then
+		if getPlayerStorageValue(cid, "display_use") == 0 then
 			MultiLanguage.doPlayerSendTextMessage(
 				cid,
 				MESSAGE_EVENT_ADVANCE,
@@ -21,8 +21,8 @@ function onSay(cid, words, param)
 		end
 	end
 
-	if isInArray({ "tecnica", "tecnicas", "technique", "techniques", "spell", "spells" }, param) then
-		if getPlayerStorageValue(cid, "display_spell") == -1 then
+	if isInArray({ "técnica", "técnicas", "technique", "techniques", "spell", "spells" }, param) then
+		if getPlayerStorageValue(cid, "display_spell") == 0 then
 			MultiLanguage.doPlayerSendTextMessage(
 				cid,
 				MESSAGE_EVENT_ADVANCE,

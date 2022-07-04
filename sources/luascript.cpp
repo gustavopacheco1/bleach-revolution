@@ -518,7 +518,7 @@ bool ScriptEnviroment::getStorage(const std::string &key, std::string &value) co
 		return true;
 	}
 
-	value = "-1";
+	value = "0";
 	return false;
 }
 
@@ -5265,7 +5265,7 @@ int32_t LuaInterface::luaGetCreatureStorage(lua_State *L)
 			}
 		}
 		else
-			lua_pushnumber(L, -1);
+			lua_pushnumber(L, 0);
 	}
 	else
 	{
