@@ -6,7 +6,7 @@
 	<instant name="Kaidou Heal" words="kaidou heal" lvl="250" mana="1500" prem="0" aggressive="0" needtarget="1" params="1" exhaustion="1500" needlearn="0" event="script" value="healing/kaidou_heal.lua">
 		<vocation id="12"/> <!-- Retsu Unohana -->
 	</instant>
-	<instant name="Ayame" words="ayame" lvl="250" mana="1500" prem="0" aggressive="0" needtarget="1" params="1" exhaustion="1500" needlearn="0" event="script" value="healing/Ayame.lua">
+	<instant name="Ayame" words="ayame" lvl="250" mana="1500" prem="0" aggressive="0" needtarget="1" params="1" exhaustion="1500" needlearn="0" event="script" value="healing/ayame.lua">
 		<vocation id="4"/> <!-- Orihime Inoue -->
 	</instant>
 
@@ -90,10 +90,10 @@
 	</instant>
 
 	<!-- Paralyze -->
-	<instant name="Burner 3" words="Burner 3" lvl="400" mana="1000" prem="0" range="5" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="1" event="script" value="special/paralyze/Burner 3.lua">
+	<instant name="Burner 3" words="Burner 3" lvl="400" mana="1000" prem="0" range="5" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="1" event="script" value="special/paralyze/burner 3.lua">
 		<vocation id="3"/> <!-- Bazz-B -->
 	</instant>
-	<instant name="Tsugi" words="Tsugi" lvl="400" mana="1000" prem="0" range="5" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="1" event="script" value="special/paralyze/Tsugi.lua">
+	<instant name="Tsugi" words="Tsugi" lvl="400" mana="1000" prem="0" range="5" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="1" event="script" value="special/paralyze/tsugi.lua">
 		<vocation id="10"/> <!-- Rukia Kuchiki -->
 	</instant>
 	<instant name="Muted Paralyze" words="Muted Paralyze" lvl="450" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" needlearn="1" event="script" value="special/paralyze/muted_paralyze.lua">
@@ -151,9 +151,6 @@
 	<instant name="Jie Jin Minazuki" words="Jie Jin Minazuki" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" needlearn="1" event="script" value="special/buffs/Jie Jin Minazuki.lua">
 		<vocation id="12"/> <!-- Retsu Unohana -->
 	</instant>
-	<instant name="Sado Yasutora" words="Sado Yasutora" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" needlearn="1" event="script" value="special/buffs/Sado Yasutora.lua">
-		<vocation id="2"/> <!-- Chad -->
-	</instant>
 	<instant name="Kamishini no Yari" words="Kamishini no Yari" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" needlearn="1" event="script" value="special/buffs/Kamishini no Yari.lua">
 		<vocation id="14"/> <!-- Gin Ichimaru -->
 	</instant>
@@ -175,10 +172,10 @@
 
 
 	<!-- Attack -->
-	<instant name="Seki" words="Seki" lvl="10" mana="100" prem="0" range="8" needtarget="1" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Seki.lua"/>
-	<instant name="Geki" words="Geki" lvl="30" mana="200" prem="0" range="8" needtarget="1" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Geki.lua"/>
+	<instant name="Seki" words="Seki" lvl="10" mana="100" prem="0" range="8" needtarget="1" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/seki.lua"/>
+	<instant name="Geki" words="Geki" lvl="30" mana="200" prem="0" range="8" needtarget="1" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/geki.lua"/>
 	<instant name="Shitotsu Sansen" words="Shitotsu Sansen" lvl="75" mana="300" prem="0" range="8" needtarget="1" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/shitotsu_sansen.lua"/>
-	<instant name="Gochutekkan" words="Gochutekkan" lvl="100" mana="500" prem="0" range="8" needtarget="1" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Gochutekkan.lua"/>
+	<instant name="Gochutekkan" words="Gochutekkan" lvl="100" mana="500" prem="0" range="8" needtarget="1" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/gochutekkan.lua"/>
 
 	<!-- Area -->
 	<instant name="Getsuga Area" words="Getsuga Area" lvl="100" mana="1000" prem="0" range="8" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="attack/Area/Getsuga Area.lua">
@@ -273,7 +270,7 @@
 	<instant name="Hakusui" words="Hakusui" lvl="300" mana="4000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="150" needlearn="0" event="script" value="attack/Byakuya/Hakusui.lua">
 		<vocation id="8"/>
 	</instant>
-	<instant name="Saketsu" words="Saketsu" lvl="400" mana="5000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="attack/Byakuya/Saketsu.lua">
+	<instant name="Saketsu" words="Saketsu" lvl="400" mana="5000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="attack/Byakuya/saketsu.lua">
 		<vocation id="8"/>
 	</instant>
 
