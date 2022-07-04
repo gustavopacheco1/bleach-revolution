@@ -5,7 +5,7 @@ function onLogin(cid)
 
 	local player_group_id = getPlayerGroupId(cid)
 	if player_group_id == 8 then
-		if getPlayerStorageValue(cid, "group") ~= -1 then
+		if getPlayerStorageValue(cid, "group") ~= 0 then
 			setPlayerGroupId(cid, getPlayerStorageValue(cid, "group"))
 		else
 			setPlayerGroupId(cid, 1)
@@ -20,11 +20,19 @@ function onLogin(cid)
 	doPlayerFormula(cid)
 
 	-- Storages
-	setPlayerStorageValue(cid, "dodge_special", 0)
 	setPlayerStorageValue(cid, "disable_gate_expertise", nil)
 	setPlayerStorageValue(cid, "special", nil)
-	if getPlayerStorageValue(cid, "extra_life") == -1 then
-		setPlayerStorageValue(cid, "extra_life", 0)
+
+	for _, storage in ipairs({
+		{ "energyDamage", "temporaryEnergyDamage" },
+		{ "energyAbsorb", "temporaryEnergyAbsorb" },
+		{ "phyisicalDamage", "temporaryPhysicalDamage" },
+		{ "physicalAbsorb", "temporaryPhysicalAbsorb" }
+	}) do
+		if getCreatureStorage(cid, storage[2]) ~= 0 then
+			doCreatureSetStorage(cid, storage[1], getCreatureStorage(cid, storage[1]) - getCreatureStorage(cid, storage[2]))
+		end
+		doCreatureSetStorage(cid, storage[2], nil)
 	end
 	return true
 end
