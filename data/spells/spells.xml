@@ -54,6 +54,9 @@
 	<instant name="starrk special 1" words="starrk special 1" lvl="400" mana="1000" prem="0" aggressive="1" exhaustion="2000" needlearn="1" event="script" value="special/starrk-special-1.lua">
 		<vocation id="20"/> <!-- Coyote Starrk -->
 	</instant>
+	<instant name="nnoitra special 1" words="nnoitra special 1" lvl="400" mana="1000" prem="0" aggressive="1" exhaustion="2000" needlearn="1" event="script" value="special/nnoitra-special-1.lua">
+		<vocation id="21"/> <!-- Nnoitra Gilga -->
+	</instant>
 
 	<!-- Reflect -->
 	<instant name="Soo Zabimaru" words="soo zabimaru" lvl="400" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" needlearn="1" event="script" value="special/reflect/soo_zabimaru.lua">
