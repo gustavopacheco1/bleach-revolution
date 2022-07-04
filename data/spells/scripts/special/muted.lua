@@ -4,12 +4,8 @@ local spell = {
 	effect = 20,
 }
 
-local condition = createConditionObject(CONDITION_MUTED)
-setConditionParam(condition, CONDITION_PARAM_TICKS, spell.duration * 1000)
-
 function onCastSpell(cid, var)
-	if exhaustion.check(cid, "special") then
-		doPlayerSendCancel(cid, "Cooldown " .. exhaustion.get(cid, "special") .. "s")
+	if checkSpecialCooldown(cid) then
 		return false
 	end
 
@@ -25,7 +21,8 @@ function onCastSpell(cid, var)
 	end
 
 	doSendMagicEffect(getCreaturePosition(target), spell.effect)
-	doAddCondition(target, condition)
+	doMutePlayer(cid, spell.duration)
+
 	exhaustion.set(cid, "special", spell.cooldown)
 	return true
 end
