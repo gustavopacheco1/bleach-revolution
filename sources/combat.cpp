@@ -591,17 +591,24 @@ bool Combat::CombatHealthFunc(Creature *caster, Creature *target, const CombatPa
 	switch (_params.combatType)
 	{
 	case COMBAT_ENERGYDAMAGE:
+	{
 		if (caster->getPlayer())
 			caster->getStorage("energyDamage", damageIncreasePercentage);
 		if (target->getPlayer())
 			target->getStorage("energyAbsorb", absorbIncreasePercentage);
 		break;
+	}
 
 	case COMBAT_PHYSICALDAMAGE:
+	{
 		if (caster->getPlayer())
 			caster->getStorage("physicalDamage", damageIncreasePercentage);
 		if (target->getPlayer())
 			target->getStorage("physicalAbsorb", absorbIncreasePercentage);
+		break;
+	}
+
+	default:
 		break;
 	}
 
