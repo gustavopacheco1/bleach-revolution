@@ -151,9 +151,6 @@
 	<instant name="Jie Jin Minazuki" words="Jie Jin Minazuki" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" needlearn="1" event="script" value="special/buffs/Jie Jin Minazuki.lua">
 		<vocation id="12"/> <!-- Retsu Unohana -->
 	</instant>
-	<instant name="Sado Yasutora" words="Sado Yasutora" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" needlearn="1" event="script" value="special/buffs/Sado Yasutora.lua">
-		<vocation id="2"/> <!-- Chad -->
-	</instant>
 	<instant name="Kamishini no Yari" words="Kamishini no Yari" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" needlearn="1" event="script" value="special/buffs/Kamishini no Yari.lua">
 		<vocation id="14"/> <!-- Gin Ichimaru -->
 	</instant>
