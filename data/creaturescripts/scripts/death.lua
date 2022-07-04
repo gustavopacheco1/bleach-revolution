@@ -32,16 +32,21 @@ function onStatsChange(cid, attacker, type, combat, value)
 	end
 
 	addEvent(function()
-		if isCreature(clone) then
-			if isPlayer(cid) then
-				if getPlayerGroupId(cid) == 8 then
-					doTeleportThing(cid, death_position)
-					doCreatureAddHealth(cid, -getCreatureMaxHealth(cid))
-				end
-			end
-
-			doRemoveCreature(clone)
+		if not isCreature(clone) then
+			return
 		end
+
+		doRemoveCreature(clone)
+
+		if not isCreature(cid) then
+			return
+		end
+
+		if getPlayerGroupId(cid) == 8 then
+			doTeleportThing(cid, death_position)
+			doCreatureAddHealth(cid, -getCreatureMaxHealth(cid))
+		end
+
 	end, 6000)
 
 	return false
