@@ -24,10 +24,10 @@ function onLogin(cid)
 	setPlayerStorageValue(cid, "special", nil)
 
 	for _, storage in ipairs({
-		{ "energyDamage", "temporaryEnergyDamage" },
-		{ "energyAbsorb", "temporaryEnergyAbsorb" },
-		{ "phyisicalDamage", "temporaryPhysicalDamage" },
-		{ "physicalAbsorb", "temporaryPhysicalAbsorb" }
+		{ "energyDamage", "tempEnergyDamage" },
+		{ "energyAbsorb", "tempEnergyAbsorb" },
+		{ "phyisicalDamage", "tempPhysicalDamage" },
+		{ "physicalAbsorb", "tempPhysicalAbsorb" }
 	}) do
 		if getCreatureStorage(cid, storage[2]) ~= 0 then
 			doCreatureSetStorage(cid, storage[1], getCreatureStorage(cid, storage[1]) - getCreatureStorage(cid, storage[2]))
