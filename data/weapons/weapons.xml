@@ -20,6 +20,6 @@
 	<distance id="15423" event="script" value="legendary del relampago.lua"/>
 	<distance id="15424" event="script" value="especial del relampago.lua"/>
 	<distance id="15090" event="script" value="inical bow.lua"/>
-	<distance id="15091" event="script" value="quincy bow.lua"/>
+	<distance id="15091" event="script" value="quincy Bow.lua"/>
 
 </weapons>

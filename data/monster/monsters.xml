@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <monsters>
-	<monster name="Black wolf" file="hunt/Black wolf.xml"/>
+	<monster name="Black Wolf" file="hunt/black wolf.xml"/>
 	<monster name="Snake hollow" file="hunt/Snake hollow.xml"/>
 	<monster name="Arrancar hollow" file="hunt/Arrancar hollow.xml"/>
 	<monster name="Gilliam" file="hunt/Gilliam.xml"/>
