@@ -169,6 +169,9 @@
 	<instant name="ikkaku special 1" words="ikkaku special 1" lvl="450" mana="1000" prem="0" aggressive="0" exhaustion="2000" needlearn="1" event="script" value="special/buffs/ikkaku-special-1.lua">
 		<vocation id="19"/> <!-- Ikkaku Madarame -->
 	</instant>
+	<instant name="grimmjow special 1" words="grimmjow special 1" lvl="400" mana="1000" prem="0" aggressive="0" exhaustion="2000" needlearn="1" event="script" value="special/buffs/grimmjow-special-1.lua">
+		<vocation id="18"/> <!-- Grimmjow Jaegerjaquez -->
+	</instant>
 
 
 	<!-- Attack -->
