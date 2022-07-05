@@ -2,10 +2,10 @@ local combat = createCombatObject()
 setCombatParam(combat, COMBAT_PARAM_HITCOLOR, COLOR_PINK)
 setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_ENERGYDAMAGE)
 setCombatParam(combat, COMBAT_PARAM_DISTANCEEFFECT, 69)
-setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -17.0, 0, -17.0, 0)
+setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -116.0, 0, -116.0, 0)
 
 function onCastSpell(cid, var)
-	if exhaustion.check(cid, 45670) then
+	if exhaustion.check(cid, 270) then
 		doPlayerSendCancel(cid, "You are exhausted.")
 		return false
 	end
@@ -22,9 +22,9 @@ function onCastSpell(cid, var)
 
 				doCombat(cid, combat, var)
 			end
-		end, i * 275)
+		end, i * 150)
 	end
 
-	exhaustion.set(cid, 45670, 1)
+	exhaustion.set(cid, 270, 2,7)
 	return true
 end
