@@ -926,11 +926,6 @@
 	<spawn centerx="3455" centery="3602" centerz="3" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="3" spawntime="60" />
 	</spawn>
-	<spawn centerx="4035" centery="3632" centerz="3" radius="1">
-		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="3" spawntime="60" />
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="3" spawntime="60" />
-		<monster name="Grand Fisher Lv 2" x="1" y="1" z="3" spawntime="60" />
-	</spawn>
 	<spawn centerx="3672" centery="3652" centerz="3" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="3" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="-1" z="3" spawntime="60" />
@@ -943,15 +938,6 @@
 		<monster name="Elite Bandit" x="0" y="0" z="3" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="0" z="3" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="1" z="3" spawntime="60" />
-	</spawn>
-	<spawn centerx="4037" centery="3685" centerz="3" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="3" spawntime="60" />
-	</spawn>
-	<spawn centerx="4046" centery="3685" centerz="3" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="3" spawntime="60" />
-	</spawn>
-	<spawn centerx="4043" centery="3688" centerz="3" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="3" spawntime="60" />
 	</spawn>
 	<spawn centerx="3182" centery="3720" centerz="3" radius="1">
 		<monster name="Hollow Grande" x="-1" y="-1" z="3" spawntime="60" />
@@ -1766,18 +1752,6 @@
 	<spawn centerx="3434" centery="3612" centerz="4" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
-	<spawn centerx="4036" centery="3622" centerz="4" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="4036" centery="3626" centerz="4" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="4050" centery="3644" centerz="4" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="4051" centery="3648" centerz="4" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
 	<spawn centerx="3663" centery="3649" centerz="4" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="4" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="-1" z="4" spawntime="60" />
@@ -1785,27 +1759,6 @@
 		<monster name="Elite Bandit" x="-1" y="1" z="4" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="1" z="4" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="4012" centery="3663" centerz="4" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="4007" centery="3664" centerz="4" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="4011" centery="3667" centerz="4" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="4035" centery="3675" centerz="4" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="4042" centery="3676" centerz="4" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="4046" centery="3677" centerz="4" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="4040" centery="3680" centerz="4" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3203" centery="3717" centerz="4" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="4" spawntime="60" />
@@ -3107,20 +3060,11 @@
 	<spawn centerx="3428" centery="3607" centerz="5" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="4033" centery="3608" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4039" centery="3609" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="3614" centery="3612" centerz="5" radius="1">
 		<monster name="Fishbone D" x="-1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3622" centery="3612" centerz="5" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4015" centery="3612" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3633" centery="3613" centerz="5" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="5" spawntime="60" />
@@ -3134,35 +3078,17 @@
 	<spawn centerx="3628" centery="3617" centerz="5" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="4011" centery="3617" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4032" centery="3617" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4042" centery="3617" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="3612" centery="3621" centerz="5" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="4253" centery="3621" centerz="5" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="4006" centery="3622" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="4248" centery="3622" centerz="5" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3620" centery="3623" centerz="5" radius="1">
 		<monster name="Fishbone D" x="1" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4030" centery="3623" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4042" centery="3623" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="4243" centery="3623" centerz="5" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
@@ -3175,9 +3101,6 @@
 	</spawn>
 	<spawn centerx="3633" centery="3624" centerz="5" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4004" centery="3626" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="4240" centery="3627" centerz="5" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
@@ -3195,23 +3118,11 @@
 		<monster name="Elite Bandit" x="-1" y="1" z="5" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="3996" centery="3629" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4028" centery="3629" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4042" centery="3629" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="3612" centery="3630" centerz="5" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3627" centery="3630" centerz="5" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4009" centery="3630" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3633" centery="3632" centerz="5" radius="1">
 		<monster name="Fishbone D" x="-1" y="1" z="5" spawntime="60" />
@@ -3228,18 +3139,12 @@
 	<spawn centerx="3628" centery="3634" centerz="5" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="4029" centery="3634" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="3658" centery="3636" centerz="5" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="5" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="-1" z="5" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Elite Bandit" x="-1" y="1" z="5" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3991" centery="3636" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="4252" centery="3636" centerz="5" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
@@ -3253,17 +3158,11 @@
 	<spawn centerx="3612" centery="3638" centerz="5" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="4011" centery="3638" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="3619" centery="3639" centerz="5" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3628" centery="3639" centerz="5" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4000" centery="3641" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="4250" centery="3641" centerz="5" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
@@ -3275,47 +3174,20 @@
 		<monster name="Elite Bandit" x="-1" y="1" z="5" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="3984" centery="3642" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="4239" centery="3642" centerz="5" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4010" centery="3643" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4039" centery="3643" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="4265" centery="3643" centerz="5" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="4044" centery="3644" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3998" centery="3645" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4002" centery="3645" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="4249" centery="3645" centerz="5" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3978" centery="3646" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="4261" centery="3646" centerz="5" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="4044" centery="3648" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="4241" centery="3648" centerz="5" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4039" centery="3649" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="4257" centery="3649" centerz="5" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
@@ -3325,48 +3197,6 @@
 	</spawn>
 	<spawn centerx="4252" centery="3650" centerz="5" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4034" centery="3665" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3984" centery="3666" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3993" centery="3666" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4045" centery="3666" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3976" centery="3667" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4041" centery="3670" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4048" centery="3670" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3997" centery="3672" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4008" centery="3672" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4012" centery="3672" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3976" centery="3673" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4006" centery="3677" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3982" centery="3678" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3993" centery="3678" centerz="5" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3194" centery="3719" centerz="5" radius="1">
 		<monster name="Hollow Grande" x="1" y="-1" z="5" spawntime="60" />
@@ -6714,12 +6544,6 @@
 		<monster name="Elite Bandit" x="1" y="0" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4020" centery="3608" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4008" centery="3609" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3671" centery="3611" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
@@ -6743,12 +6567,6 @@
 		<monster name="Elite Bandit" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4035" centery="3613" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4041" centery="3613" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="4243" centery="3613" centerz="6" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -6757,12 +6575,6 @@
 	</spawn>
 	<spawn centerx="3618" centery="3614" centerz="6" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4002" centery="3614" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4046" centery="3614" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4235" centery="3614" centerz="6" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
@@ -6778,15 +6590,6 @@
 	</spawn>
 	<spawn centerx="3465" centery="3617" centerz="6" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4018" centery="3617" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3997" centery="3619" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4047" centery="3620" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4266" centery="3620" centerz="6" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
@@ -6820,9 +6623,6 @@
 		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4015" centery="3622" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="4231" centery="3622" centerz="6" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -6835,19 +6635,10 @@
 	<spawn centerx="3634" centery="3625" centerz="6" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3992" centery="3625" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3663" centery="3626" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4047" centery="3626" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4015" centery="3627" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3612" centery="3628" centerz="6" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
@@ -6867,15 +6658,9 @@
 	<spawn centerx="3620" centery="3630" centerz="6" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4050" centery="3630" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3745" centery="3631" centerz="6" radius="1">
 		<monster name="Giant Snake" x="-1" y="0" z="6" spawntime="60" />
 		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3988" centery="3631" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4229" centery="3631" centerz="6" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
@@ -6893,9 +6678,6 @@
 	</spawn>
 	<spawn centerx="3634" centery="3634" centerz="6" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4002" centery="3634" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4273" centery="3634" centerz="6" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
@@ -6924,18 +6706,9 @@
 	<spawn centerx="3729" centery="3636" centerz="6" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3983" centery="3636" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4015" centery="3636" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3663" centery="3637" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3997" centery="3637" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3612" centery="3638" centerz="6" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
@@ -6948,9 +6721,6 @@
 		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Giant Snake" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4052" centery="3638" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3619" centery="3639" centerz="6" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
@@ -6961,24 +6731,9 @@
 		<monster name="Giant Snake" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3977" centery="3639" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4028" centery="3639" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4043" centery="3639" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3730" centery="3641" centerz="6" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Giant Snake" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4005" centery="3641" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4035" centery="3641" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4273" centery="3642" centerz="6" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
@@ -6998,36 +6753,12 @@
 	<spawn centerx="3726" centery="3644" centerz="6" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3993" centery="3644" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3735" centery="3645" centerz="6" radius="1">
 		<monster name="Giant Snake" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3744" centery="3645" centerz="6" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4014" centery="3645" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3970" centery="3646" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4028" centery="3646" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3989" centery="3649" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4007" centery="3649" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3980" centery="3650" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4033" centery="3650" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4269" centery="3650" centerz="6" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
@@ -7044,71 +6775,8 @@
 	<spawn centerx="4247" centery="3660" centerz="6" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4027" centery="3661" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4034" centery="3661" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4041" centery="3661" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4049" centery="3661" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4057" centery="3661" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="4254" centery="3661" centerz="6" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3977" centery="3662" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3986" centery="3662" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3994" centery="3662" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3970" centery="3663" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4001" centery="3663" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4060" centery="3665" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4027" centery="3668" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4055" centery="3669" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3988" centery="3670" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4001" centery="3670" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3970" centery="3671" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3981" centery="3673" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3987" centery="3673" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4053" centery="3675" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3971" centery="3676" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4028" centery="3676" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3563" centery="3677" centerz="6" radius="1">
 		<monster name="Black Wolf" x="1" y="-1" z="6" spawntime="60" />
@@ -7126,9 +6794,6 @@
 		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Fishbone D" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4001" centery="3679" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3666" centery="3680" centerz="6" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
@@ -7138,26 +6803,8 @@
 	<spawn centerx="3674" centery="3681" centerz="6" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3974" centery="3682" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3985" centery="3682" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4008" centery="3682" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3560" centery="3683" centerz="6" radius="1">
 		<monster name="Black Wolf" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3995" centery="3683" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4013" centery="3683" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4053" centery="3683" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3684" centery="3684" centerz="6" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
@@ -7178,9 +6825,6 @@
 		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4029" centery="3685" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3542" centery="3686" centerz="6" radius="1">
 		<monster name="Black Wolf" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
@@ -7198,9 +6842,6 @@
 	<spawn centerx="3696" centery="3687" centerz="6" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4012" centery="3688" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3559" centery="3689" centerz="6" radius="1">
 		<monster name="Black Wolf" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
@@ -7214,9 +6855,6 @@
 	<spawn centerx="3550" centery="3691" centerz="6" radius="1">
 		<monster name="Black Wolf" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Black Wolf" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4053" centery="3691" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3674" centery="3692" centerz="6" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
@@ -7233,14 +6871,8 @@
 		<monster name="Black Wolf" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Black Wolf" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4043" centery="3694" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3541" centery="3695" centerz="6" radius="1">
 		<monster name="Black Wolf" x="0" y="-1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4032" centery="3695" centerz="6" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3567" centery="3696" centerz="6" radius="1">
 		<monster name="Black Wolf" x="0" y="-1" z="6" spawntime="60" />
@@ -10251,9 +9883,6 @@
 	<spawn centerx="3945" centery="3331" centerz="7" radius="1">
 		<monster name="Kensei" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4187" centery="3331" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3623" centery="3332" centerz="7" radius="1">
 		<monster name="Hollow Wolf" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Hollow Wolf" x="0" y="1" z="7" spawntime="60" />
@@ -10264,9 +9893,6 @@
 	<spawn centerx="3951" centery="3332" centerz="7" radius="1">
 		<monster name="Kensei" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4195" centery="3333" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3652" centery="3334" centerz="7" radius="1">
 		<monster name="Mini Fisher" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
@@ -10276,9 +9902,6 @@
 	<spawn centerx="3488" centery="3335" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4185" centery="3335" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3565" centery="3336" centerz="7" radius="1">
 		<monster name="Hollow Wolf" x="-1" y="-1" z="7" spawntime="60" />
@@ -10305,9 +9928,6 @@
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4175" centery="3338" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3945" centery="3339" centerz="7" radius="1">
 		<monster name="Kensei" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -10321,17 +9941,11 @@
 	<spawn centerx="3957" centery="3341" centerz="7" radius="1">
 		<monster name="Kensei" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4279" centery="3341" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="2901" centery="3342" centerz="7" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3582" centery="3342" centerz="7" radius="1">
 		<monster name="Hollow Wolf" x="-1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4270" centery="3342" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3593" centery="3344" centerz="7" radius="1">
 		<monster name="Hollow Wolf" x="-1" y="-1" z="7" spawntime="60" />
@@ -10349,9 +9963,6 @@
 	<spawn centerx="3725" centery="3345" centerz="7" radius="1">
 		<monster name="Mini Fisher" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4260" centery="3345" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3956" centery="3346" centerz="7" radius="1">
 		<monster name="Kensei" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -10362,12 +9973,6 @@
 	<spawn centerx="3393" centery="3347" centerz="7" radius="1">
 		<monster name="Mummy" x="-1" y="1" z="7" spawntime="60" />
 		<monster name="Mummy" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4172" centery="3347" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4266" centery="3347" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3372" centery="3349" centerz="7" radius="1">
 		<monster name="Mummy" x="1" y="-1" z="7" spawntime="60" />
@@ -10380,9 +9985,6 @@
 		<monster name="Mummy" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Mummy" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4254" centery="3349" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3718" centery="3350" centerz="7" radius="1">
 		<monster name="Mini Fisher" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
@@ -10394,9 +9996,6 @@
 	</spawn>
 	<spawn centerx="3959" centery="3350" centerz="7" radius="1">
 		<monster name="Kensei" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4243" centery="3350" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3400" centery="3351" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="-1" z="7" spawntime="60" />
@@ -10412,9 +10011,6 @@
 	<spawn centerx="3951" centery="3351" centerz="7" radius="1">
 		<monster name="Kensei" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4249" centery="3351" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3594" centery="3352" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -10429,9 +10025,6 @@
 	</spawn>
 	<spawn centerx="3926" centery="3354" centerz="7" radius="1">
 		<monster name="Kensei" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4235" centery="3354" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3938" centery="3355" centerz="7" radius="1">
 		<monster name="Kensei" x="0" y="0" z="7" spawntime="60" />
@@ -10450,9 +10043,6 @@
 	</spawn>
 	<spawn centerx="3960" centery="3357" centerz="7" radius="1">
 		<monster name="Kensei" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4179" centery="3357" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2887" centery="3358" centerz="7" radius="1">
 		<monster name="Hiroshin" x="-1" y="-1" z="7" spawntime="60" />
@@ -10481,9 +10071,6 @@
 	<spawn centerx="3700" centery="3359" centerz="7" radius="1">
 		<monster name="Mini Fisher" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4230" centery="3359" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3370" centery="3360" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
@@ -10495,9 +10082,6 @@
 	</spawn>
 	<spawn centerx="3937" centery="3361" centerz="7" radius="1">
 		<monster name="Kensei" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4224" centery="3361" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3493" centery="3363" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="-1" z="7" spawntime="60" />
@@ -10514,15 +10098,9 @@
 		<monster name="Mummy" x="-1" y="1" z="7" spawntime="60" />
 		<monster name="Mummy" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4218" centery="3364" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="2806" centery="3365" centerz="7" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Hiroshin" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4211" centery="3367" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3429" centery="3368" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="-1" z="7" spawntime="60" />
@@ -10534,12 +10112,6 @@
 	<spawn centerx="3498" centery="3368" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4175" centery="3368" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4206" centery="3368" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3383" centery="3369" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="-1" z="7" spawntime="60" />
@@ -10565,9 +10137,6 @@
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4206" centery="3374" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="2801" centery="3375" centerz="7" radius="1">
 		<monster name="Hiroshin" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
@@ -10579,9 +10148,6 @@
 	<spawn centerx="3504" centery="3376" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4171" centery="3376" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3381" centery="3377" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="-1" z="7" spawntime="60" />
@@ -10600,12 +10166,6 @@
 	<spawn centerx="2810" centery="3380" centerz="7" radius="1">
 		<monster name="Hiroshin" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4169" centery="3380" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4204" centery="3381" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3437" centery="3383" centerz="7" radius="1">
 		<monster name="Mummy" x="1" y="-1" z="7" spawntime="60" />
@@ -10653,12 +10213,6 @@
 	<spawn centerx="3529" centery="3386" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4201" centery="3386" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4193" centery="3388" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3583" centery="3389" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -10682,9 +10236,6 @@
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4182" centery="3391" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3531" centery="3392" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -10698,9 +10249,6 @@
 	</spawn>
 	<spawn centerx="3556" centery="3393" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4175" centery="3393" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3514" centery="3394" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -10732,9 +10280,6 @@
 	</spawn>
 	<spawn centerx="3584" centery="3400" centerz="7" radius="1">
 		<monster name="Black Wolf" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4168" centery="3400" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3510" centery="3401" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
@@ -10775,9 +10320,6 @@
 		<monster name="Rungokai Bandit" x="-1" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4162" centery="3407" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3498" centery="3409" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -10813,9 +10355,6 @@
 	<spawn centerx="3633" centery="3414" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4153" centery="3414" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3486" centery="3415" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
@@ -10856,9 +10395,6 @@
 	<spawn centerx="3634" centery="3419" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4145" centery="3421" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3496" centery="3422" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
@@ -10903,9 +10439,6 @@
 		<monster name="Rungokai Bandit" x="-1" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4137" centery="3427" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3645" centery="3428" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -10923,9 +10456,6 @@
 	<spawn centerx="3637" centery="3430" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4129" centery="3430" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3486" centery="3431" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
@@ -10946,17 +10476,11 @@
 	<spawn centerx="3624" centery="3434" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4122" centery="3435" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3396" centery="3437" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3409" centery="3438" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4116" centery="3441" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3392" centery="3445" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -10967,9 +10491,6 @@
 	<spawn centerx="3408" centery="3447" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4111" centery="3449" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3581" centery="3452" centerz="7" radius="1">
 		<npc name="Jinta" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -10978,9 +10499,6 @@
 	</spawn>
 	<spawn centerx="3395" centery="3454" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4107" centery="3455" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3583" centery="3458" centerz="7" radius="1">
 		<npc name="Urahara Kisuke" x="0" y="0" z="7" spawntime="60" />
@@ -10997,9 +10515,6 @@
 	<spawn centerx="3530" centery="3463" centerz="7" radius="1">
 		<npc name="Isshin Kurosaki" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4104" centery="3463" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3424" centery="3464" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -11014,12 +10529,6 @@
 	</spawn>
 	<spawn centerx="3413" centery="3468" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4098" centery="3469" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4106" centery="3472" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3514" centery="3473" centerz="7" radius="1">
 		<npc name="Hikari" x="0" y="0" z="7" spawntime="60" />
@@ -11036,17 +10545,8 @@
 	<spawn centerx="3421" centery="3476" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4093" centery="3476" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3475" centery="3478" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4111" centery="3478" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4143" centery="3479" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3491" centery="3481" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
@@ -11063,19 +10563,10 @@
 	<spawn centerx="3482" centery="3482" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4114" centery="3482" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3431" centery="3483" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4073" centery="3483" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4141" centery="3483" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3408" centery="3484" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -11088,20 +10579,8 @@
 	<spawn centerx="3467" centery="3484" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4058" centery="3484" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4049" centery="3485" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4093" centery="3485" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3378" centery="3486" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4140" centery="3486" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3428" centery="3487" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
@@ -11112,16 +10591,10 @@
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4067" centery="3487" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3447" centery="3488" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4119" centery="3488" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3442" centery="3489" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
@@ -11131,19 +10604,10 @@
 	<spawn centerx="3456" centery="3489" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4042" centery="3489" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3431" centery="3490" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4131" centery="3490" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4123" centery="3491" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3369" centery="3492" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -11155,9 +10619,6 @@
 		<monster name="Rungokai Bandit" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4089" centery="3492" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3425" centery="3493" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
@@ -11181,15 +10642,6 @@
 	<spawn centerx="3449" centery="3498" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4083" centery="3498" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4038" centery="3499" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4004" centery="3500" centerz="7" radius="1">
-		<monster name="Barragan Boss Two" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3482" centery="3501" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Snake Hollow" x="1" y="-1" z="7" spawntime="60" />
@@ -11200,12 +10652,6 @@
 	<spawn centerx="3401" centery="3502" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4077" centery="3502" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4447" centery="3502" centerz="7" radius="1">
-		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3390" centery="3505" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -11215,14 +10661,8 @@
 	<spawn centerx="3375" centery="3508" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4071" centery="3508" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3446" centery="3509" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4039" centery="3510" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3365" centery="3514" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -11230,38 +10670,14 @@
 	<spawn centerx="3400" centery="3514" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4069" centery="3514" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4473" centery="3515" centerz="7" radius="1">
-		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3551" centery="3516" centerz="7" radius="1">
 		<npc name="Yamamoto" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4028" centery="3516" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3381" centery="3517" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4024" centery="3517" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4412" centery="3517" centerz="7" radius="1">
-		<monster name="Legendary Grand Fisher" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3409" centery="3518" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4020" centery="3518" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4040" centery="3519" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4028" centery="3520" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3446" centery="3523" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
@@ -11272,14 +10688,8 @@
 	<spawn centerx="3386" centery="3524" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4069" centery="3524" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3398" centery="3526" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4038" centery="3526" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3366" centery="3529" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -11302,9 +10712,6 @@
 	</spawn>
 	<spawn centerx="3689" centery="3531" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4066" centery="3532" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3674" centery="3533" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
@@ -11334,15 +10741,6 @@
 	<spawn centerx="3703" centery="3535" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4031" centery="3535" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4038" centery="3535" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4448" centery="3535" centerz="7" radius="1">
-		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3385" centery="3536" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -11350,9 +10748,6 @@
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4062" centery="3537" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3418" centery="3538" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
@@ -11372,12 +10767,6 @@
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4055" centery="3540" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4047" centery="3542" centerz="7" radius="1">
-		<monster name="Barragan" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3652" centery="3544" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
@@ -11439,9 +10828,6 @@
 	<spawn centerx="3685" centery="3552" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4424" centery="3552" centerz="7" radius="1">
-		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3453" centery="3553" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="-1" z="7" spawntime="60" />
@@ -11522,9 +10908,6 @@
 	<spawn centerx="3547" centery="3564" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4506" centery="3564" centerz="7" radius="1">
-		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3646" centery="3565" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -11536,9 +10919,6 @@
 	</spawn>
 	<spawn centerx="3668" centery="3568" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4476" centery="3569" centerz="7" radius="1">
-		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3552" centery="3571" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -11583,9 +10963,6 @@
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4434" centery="3579" centerz="7" radius="1">
-		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3666" centery="3580" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -11604,9 +10981,6 @@
 	</spawn>
 	<spawn centerx="3720" centery="3582" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4148" centery="3582" centerz="7" radius="1">
-		<monster name="Quincy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3707" centery="3583" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="-1" z="7" spawntime="60" />
@@ -11658,9 +11032,6 @@
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4134" centery="3588" centerz="7" radius="1">
-		<monster name="Quincy" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3456" centery="3589" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -11695,9 +11066,6 @@
 	</spawn>
 	<spawn centerx="3727" centery="3591" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4512" centery="3591" centerz="7" radius="1">
-		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3434" centery="3592" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -11744,12 +11112,6 @@
 	<spawn centerx="3721" centery="3597" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4027" centery="3597" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4038" centery="3597" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3545" centery="3598" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -11762,14 +11124,8 @@
 	<spawn centerx="3701" centery="3598" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4125" centery="3598" centerz="7" radius="1">
-		<monster name="Quincy" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3640" centery="3599" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4018" centery="3599" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3592" centery="3600" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
@@ -11780,9 +11136,6 @@
 		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Elite Bandit" x="-1" y="1" z="7" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4010" centery="3600" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3580" centery="3602" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
@@ -11795,12 +11148,6 @@
 		<monster name="Elite Bandit" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4001" centery="3602" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4048" centery="3602" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3538" centery="3604" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
@@ -11830,9 +11177,6 @@
 	<spawn centerx="3645" centery="3606" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4025" centery="3606" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3586" centery="3607" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
@@ -11840,9 +11184,6 @@
 	</spawn>
 	<spawn centerx="3732" centery="3607" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3994" centery="3607" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3591" centery="3608" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
@@ -11863,9 +11204,6 @@
 	<spawn centerx="3651" centery="3610" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4238" centery="3610" centerz="7" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3585" centery="3611" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -11873,15 +11211,6 @@
 	</spawn>
 	<spawn centerx="3702" centery="3611" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4052" centery="3611" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4131" centery="3611" centerz="7" radius="1">
-		<monster name="Quincy" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4251" centery="3611" centerz="7" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3547" centery="3612" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
@@ -11947,26 +11276,14 @@
 	<spawn centerx="3751" centery="3615" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4511" centery="3615" centerz="7" radius="1">
-		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3508" centery="3616" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3516" centery="3616" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3988" centery="3616" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3640" centery="3617" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4056" centery="3617" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4228" centery="3617" centerz="7" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3529" centery="3618" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
@@ -11974,20 +11291,11 @@
 	<spawn centerx="3645" centery="3618" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4262" centery="3618" centerz="7" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4457" centery="3618" centerz="7" radius="1">
-		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3611" centery="3619" centerz="7" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3624" centery="3619" centerz="7" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4022" centery="3619" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3566" centery="3620" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
@@ -12000,12 +11308,6 @@
 	</spawn>
 	<spawn centerx="3703" centery="3621" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3982" centery="3621" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4137" centery="3621" centerz="7" radius="1">
-		<monster name="Quincy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3665" centery="3622" centerz="7" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="7" spawntime="60" />
@@ -12042,14 +11344,8 @@
 	<spawn centerx="3754" centery="3624" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4175" centery="3624" centerz="7" radius="1">
-		<monster name="Quincy" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3499" centery="3625" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4189" centery="3625" centerz="7" radius="1">
-		<monster name="Quincy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3626" centery="3626" centerz="7" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
@@ -12059,18 +11355,6 @@
 	</spawn>
 	<spawn centerx="3646" centery="3626" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3976" centery="3626" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4061" centery="3626" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4432" centery="3626" centerz="7" radius="1">
-		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4484" centery="3626" centerz="7" radius="1">
-		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3515" centery="3627" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
@@ -12090,15 +11374,6 @@
 	</spawn>
 	<spawn centerx="3763" centery="3628" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4255" centery="3628" centerz="7" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4225" centery="3629" centerz="7" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4270" centery="3629" centerz="7" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3465" centery="3630" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
@@ -12125,9 +11400,6 @@
 	<spawn centerx="3745" centery="3631" centerz="7" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4142" centery="3631" centerz="7" radius="1">
-		<monster name="Quincy" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3640" centery="3632" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -12144,17 +11416,8 @@
 		<monster name="Elite Bandit" x="-1" y="1" z="7" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4021" centery="3632" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3477" centery="3633" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3969" centery="3633" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4169" centery="3633" centerz="7" radius="1">
-		<monster name="Quincy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3565" centery="3634" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
@@ -12174,9 +11437,6 @@
 	</spawn>
 	<spawn centerx="3762" centery="3634" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4193" centery="3634" centerz="7" radius="1">
-		<monster name="Quincy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3463" centery="3635" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -12209,15 +11469,6 @@
 		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Giant Snake" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4065" centery="3636" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4182" centery="3636" centerz="7" radius="1">
-		<monster name="Quincy" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4236" centery="3636" centerz="7" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3491" centery="3637" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -12226,9 +11477,6 @@
 	</spawn>
 	<spawn centerx="3646" centery="3637" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4222" centery="3637" centerz="7" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3572" centery="3638" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -12240,15 +11488,6 @@
 	<spawn centerx="3745" centery="3638" centerz="7" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Giant Snake" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3961" centery="3639" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4213" centery="3639" centerz="7" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4260" centery="3639" centerz="7" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3467" centery="3640" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -12286,17 +11525,8 @@
 		<monster name="Giant Snake" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4272" centery="3641" centerz="7" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3478" centery="3642" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4144" centery="3642" centerz="7" radius="1">
-		<monster name="Quincy" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4158" centery="3642" centerz="7" radius="1">
-		<monster name="Quincy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3507" centery="3643" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -12307,9 +11537,6 @@
 	</spawn>
 	<spawn centerx="3759" centery="3644" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4019" centery="3644" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3471" centery="3645" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="-1" z="7" spawntime="60" />
@@ -12334,14 +11561,8 @@
 	<spawn centerx="3766" centery="3646" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4245" centery="3646" centerz="7" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3480" centery="3647" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3959" centery="3647" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3469" centery="3648" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
@@ -12363,17 +11584,11 @@
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4064" centery="3648" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3564" centery="3649" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3646" centery="3649" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4187" centery="3649" centerz="7" radius="1">
-		<monster name="Quincy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3463" centery="3650" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
@@ -12385,28 +11600,16 @@
 	<spawn centerx="3570" centery="3650" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4435" centery="3650" centerz="7" radius="1">
-		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3472" centery="3651" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4136" centery="3651" centerz="7" radius="1">
-		<monster name="Quincy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3508" centery="3652" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4229" centery="3652" centerz="7" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3486" centery="3653" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4265" centery="3653" centerz="7" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3512" centery="3654" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
@@ -12431,54 +11634,9 @@
 	<spawn centerx="3693" centery="3655" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3958" centery="3655" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4123" centery="3655" centerz="7" radius="1">
-		<monster name="Quincy" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4462" centery="3655" centerz="7" radius="1">
-		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3469" centery="3656" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3933" centery="3656" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="-1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3941" centery="3656" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3949" centery="3656" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3973" centery="3656" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3982" centery="3656" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3995" centery="3656" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4009" centery="3656" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4020" centery="3656" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4032" centery="3656" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4045" centery="3656" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4057" centery="3656" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4111" centery="3656" centerz="7" radius="1">
-		<monster name="Quincy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3490" centery="3657" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
@@ -12501,9 +11659,6 @@
 	<spawn centerx="3546" centery="3658" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4071" centery="3658" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3464" centery="3659" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
@@ -12521,12 +11676,6 @@
 	<spawn centerx="3766" centery="3659" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4145" centery="3659" centerz="7" radius="1">
-		<monster name="Quincy" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4487" centery="3659" centerz="7" radius="1">
-		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3468" centery="3660" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -12537,9 +11686,6 @@
 	<spawn centerx="3702" centery="3660" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4255" centery="3660" centerz="7" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3501" centery="3661" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -12548,9 +11694,6 @@
 	</spawn>
 	<spawn centerx="3760" centery="3662" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4242" centery="3662" centerz="7" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3675" centery="3663" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
@@ -12576,9 +11719,6 @@
 	<spawn centerx="3766" centery="3665" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3961" centery="3665" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3565" centery="3667" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -12591,12 +11731,6 @@
 	<spawn centerx="3661" centery="3668" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4019" centery="3668" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4148" centery="3668" centerz="7" radius="1">
-		<monster name="Quincy" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3517" centery="3669" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -12607,9 +11741,6 @@
 	<spawn centerx="3682" centery="3669" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4067" centery="3670" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3552" centery="3671" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -12619,9 +11750,6 @@
 	</spawn>
 	<spawn centerx="3572" centery="3672" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4502" centery="3672" centerz="7" radius="1">
-		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3530" centery="3673" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -12647,18 +11775,9 @@
 	<spawn centerx="3767" centery="3676" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3953" centery="3676" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3554" centery="3677" centerz="7" radius="1">
 		<monster name="Black Wolf" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Black Wolf" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4021" centery="3677" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4180" centery="3677" centerz="7" radius="1">
-		<monster name="Quincy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3544" centery="3678" centerz="7" radius="1">
 		<monster name="Black Wolf" x="-1" y="-1" z="7" spawntime="60" />
@@ -12675,12 +11794,6 @@
 	</spawn>
 	<spawn centerx="3690" centery="3679" centerz="7" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3962" centery="3679" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4062" centery="3679" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3550" centery="3680" centerz="7" radius="1">
 		<monster name="Black Wolf" x="0" y="-1" z="7" spawntime="60" />
@@ -12710,9 +11823,6 @@
 	</spawn>
 	<spawn centerx="3697" centery="3684" centerz="7" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4152" centery="3684" centerz="7" radius="1">
-		<monster name="Quincy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3541" centery="3685" centerz="7" radius="1">
 		<monster name="Black Wolf" x="0" y="-1" z="7" spawntime="60" />
@@ -12753,15 +11863,6 @@
 		<monster name="Fishbone D" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Fishbone D" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3969" centery="3688" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4021" centery="3688" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4176" centery="3688" centerz="7" radius="1">
-		<monster name="Quincy" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3746" centery="3689" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -12769,12 +11870,6 @@
 	<spawn centerx="3755" centery="3689" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4061" centery="3689" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4481" centery="3689" centerz="7" radius="1">
-		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3562" centery="3690" centerz="7" radius="1">
 		<monster name="Black Wolf" x="-1" y="-1" z="7" spawntime="60" />
@@ -12785,9 +11880,6 @@
 		<monster name="Fishbone D" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4452" centery="3690" centerz="7" radius="1">
-		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3577" centery="3691" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -12796,12 +11888,6 @@
 	</spawn>
 	<spawn centerx="3692" centery="3691" centerz="7" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3984" centery="3691" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3994" centery="3691" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3553" centery="3692" centerz="7" radius="1">
 		<monster name="Black Wolf" x="0" y="-1" z="7" spawntime="60" />
@@ -12828,9 +11914,6 @@
 	<spawn centerx="3685" centery="3693" centerz="7" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4432" centery="3693" centerz="7" radius="1">
-		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3738" centery="3694" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -12842,17 +11925,8 @@
 		<monster name="Rungokai Bandit" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4161" centery="3696" centerz="7" radius="1">
-		<monster name="Quincy" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4412" centery="3696" centerz="7" radius="1">
-		<monster name="Mugetsu Especial" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3756" centery="3697" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4003" centery="3697" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3545" centery="3698" centerz="7" radius="1">
 		<monster name="Black Wolf" x="0" y="-1" z="7" spawntime="60" />
@@ -12890,21 +11964,9 @@
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4055" centery="3699" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3739" centery="3700" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4015" centery="3700" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4029" centery="3701" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4041" centery="3701" centerz="7" radius="1">
-		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3591" centery="3703" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -13076,9 +12138,6 @@
 	<spawn centerx="3645" centery="3727" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4554" centery="3751" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3242" centery="3753" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
@@ -13086,105 +12145,6 @@
 	<spawn centerx="3246" centery="3754" centerz="7" radius="1">
 		<monster name="Hollow Grande" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4503" centery="3759" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4552" centery="3763" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4474" centery="3768" centerz="7" radius="1">
-		<monster name="Vizard One Boss" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4515" centery="3768" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4538" centery="3769" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4526" centery="3776" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4535" centery="3788" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4586" centery="3791" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4574" centery="3796" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4544" centery="3798" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4564" centery="3801" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4552" centery="3811" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4447" centery="3825" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4459" centery="3825" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4549" centery="3826" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4663" centery="3826" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4438" centery="3827" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4427" centery="3831" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4467" centery="3831" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4547" centery="3838" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4653" centery="3838" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4473" centery="3839" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4485" centery="3843" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4498" centery="3843" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4509" centery="3844" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4522" centery="3846" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4532" centery="3847" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4644" centery="3847" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4476" centery="3852" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4554" centery="3852" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4566" centery="3852" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4580" centery="3853" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4625" centery="3855" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2785" centery="3857" centerz="7" radius="1">
 		<monster name="Fake Zaraki" x="-1" y="0" z="7" spawntime="60" />
@@ -13216,18 +12176,6 @@
 	<spawn centerx="3528" centery="3858" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4590" centery="3858" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4614" centery="3858" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4541" centery="3859" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4636" centery="3859" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="2781" centery="3860" centerz="7" radius="1">
 		<monster name="Fake Zaraki" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
@@ -13237,9 +12185,6 @@
 	</spawn>
 	<spawn centerx="3548" centery="3860" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4605" centery="3861" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2773" centery="3862" centerz="7" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
@@ -13274,9 +12219,6 @@
 	<spawn centerx="3032" centery="3864" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4476" centery="3864" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="2770" centery="3866" centerz="7" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -13298,9 +12240,6 @@
 	<spawn centerx="2812" centery="3867" centerz="7" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4539" centery="3867" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="2786" centery="3869" centerz="7" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -13309,9 +12248,6 @@
 	</spawn>
 	<spawn centerx="3587" centery="3869" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4470" centery="3869" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2802" centery="3870" centerz="7" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
@@ -13333,15 +12269,6 @@
 	</spawn>
 	<spawn centerx="3000" centery="3871" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4449" centery="3871" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4461" centery="3871" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4640" centery="3871" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2781" centery="3872" centerz="7" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
@@ -13370,17 +12297,11 @@
 	<spawn centerx="3617" centery="3873" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4424" centery="3873" centerz="7" radius="1">
-		<monster name="Vizard Two Boss" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="2811" centery="3874" centerz="7" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3532" centery="3874" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4536" centery="3874" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2798" centery="3875" centerz="7" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
@@ -13411,9 +12332,6 @@
 	</spawn>
 	<spawn centerx="2816" centery="3877" centerz="7" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4652" centery="3877" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3034" centery="3878" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -13512,17 +12430,11 @@
 	<spawn centerx="2990" centery="3885" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4536" centery="3885" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3028" centery="3886" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3046" centery="3886" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4663" centery="3886" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2799" centery="3887" centerz="7" radius="1">
 		<monster name="Fake Zaraki" x="0" y="0" z="7" spawntime="60" />
@@ -13622,9 +12534,6 @@
 	<spawn centerx="3041" centery="3896" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4539" centery="3896" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3018" centery="3897" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -13636,9 +12545,6 @@
 	</spawn>
 	<spawn centerx="3014" centery="3898" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4667" centery="3899" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3026" centery="3900" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -13660,9 +12566,6 @@
 	</spawn>
 	<spawn centerx="3556" centery="3902" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4549" centery="3902" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3016" centery="3903" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -13732,9 +12635,6 @@
 	</spawn>
 	<spawn centerx="3080" centery="3912" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4559" centery="3912" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3021" centery="3913" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -13814,9 +12714,6 @@
 	<spawn centerx="2988" centery="3921" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4556" centery="3921" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3031" centery="3922" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -13838,12 +12735,6 @@
 	<spawn centerx="3584" centery="3925" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4548" centery="3925" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4665" centery="3925" centerz="7" radius="1">
-		<monster name="Vizard Four Boss" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3055" centery="3926" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -13856,9 +12747,6 @@
 	<spawn centerx="3046" centery="3927" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4537" centery="3928" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3023" centery="3929" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -13867,9 +12755,6 @@
 	</spawn>
 	<spawn centerx="3548" centery="3929" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4523" centery="3929" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3058" centery="3930" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -13886,9 +12771,6 @@
 	<spawn centerx="3647" centery="3931" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4513" centery="3931" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3049" centery="3933" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -13897,9 +12779,6 @@
 	</spawn>
 	<spawn centerx="3576" centery="3934" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4505" centery="3934" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3034" centery="3936" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -13916,12 +12795,6 @@
 	<spawn centerx="3096" centery="3938" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4465" centery="3938" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4536" centery="3938" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3015" centery="3939" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -13937,9 +12810,6 @@
 	<spawn centerx="3054" centery="3940" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4494" centery="3940" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3024" centery="3941" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -13948,9 +12818,6 @@
 	</spawn>
 	<spawn centerx="3087" centery="3941" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4480" centery="3941" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3036" centery="3942" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -14035,9 +12902,6 @@
 	</spawn>
 	<spawn centerx="3571" centery="3948" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4538" centery="3948" centerz="7" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3016" centery="3949" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -14251,9 +13115,6 @@
 	</spawn>
 	<spawn centerx="3075" centery="3972" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4573" centery="3972" centerz="7" radius="1">
-		<monster name="Vizard Three Boss" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3022" centery="3974" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -15843,11 +14704,143 @@
 	<spawn centerx="3811" centery="3373" centerz="8" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4406" centery="3390" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4414" centery="3392" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4404" centery="3394" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4394" centery="3397" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4498" centery="3400" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4489" centery="3401" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4479" centery="3404" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4391" centery="3406" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4485" centery="3406" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4473" centery="3408" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4462" centery="3409" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4468" centery="3410" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4454" centery="3413" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4398" centery="3416" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4449" centery="3418" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4443" centery="3420" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4844" centery="3420" centerz="8" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4437" centery="3423" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4430" centery="3426" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4394" centery="3427" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4425" centery="3427" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4425" centery="3433" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4870" centery="3433" centerz="8" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4390" centery="3435" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4809" centery="3435" centerz="8" radius="1">
+		<monster name="Legendary Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4388" centery="3439" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4423" centery="3440" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4420" centery="3445" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4412" centery="3447" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4401" centery="3450" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4394" centery="3452" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4845" centery="3453" centerz="8" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3583" centery="3455" centerz="8" radius="1">
 		<npc name="Tessai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4387" centery="3459" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4381" centery="3466" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4821" centery="3470" centerz="8" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4372" centery="3473" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4364" centery="3480" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4903" centery="3482" centerz="8" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4356" centery="3486" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4873" centery="3487" centerz="8" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4348" centery="3489" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3395" centery="3494" centerz="8" radius="1" />
+	<spawn centerx="4341" centery="3494" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4831" centery="3497" centerz="8" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3404" centery="3499" centerz="8" radius="1" />
+	<spawn centerx="4335" centery="3500" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3396" centery="3501" centerz="8" radius="1" />
 	<spawn centerx="3526" centery="3501" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
@@ -15866,8 +14859,14 @@
 	<spawn centerx="3558" centery="3508" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4330" centery="3508" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3462" centery="3509" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4909" centery="3509" centerz="8" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3537" centery="3510" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
@@ -15891,6 +14890,9 @@
 	</spawn>
 	<spawn centerx="3501" centery="3513" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4326" centery="3514" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3364" centery="3515" centerz="8" radius="1" />
 	<spawn centerx="3508" centery="3515" centerz="8" radius="1">
@@ -15916,6 +14918,9 @@
 	<spawn centerx="3553" centery="3519" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="5326" centery="3519" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3520" centery="3520" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -15925,6 +14930,9 @@
 	</spawn>
 	<spawn centerx="3548" centery="3522" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4323" centery="3522" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3375" centery="3523" centerz="8" radius="1" />
 	<spawn centerx="3406" centery="3523" centerz="8" radius="1" />
@@ -15941,11 +14949,17 @@
 	<spawn centerx="3526" centery="3527" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="5275" centery="3527" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3564" centery="3528" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3571" centery="3528" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4317" centery="3528" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3403" centery="3529" centerz="8" radius="1" />
 	<spawn centerx="3545" centery="3529" centerz="8" radius="1">
@@ -15958,6 +14972,12 @@
 	<spawn centerx="3516" centery="3531" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4325" centery="3531" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5324" centery="3531" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3571" centery="3532" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -15967,6 +14987,9 @@
 	<spawn centerx="3543" centery="3533" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4908" centery="3533" centerz="8" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3399" centery="3534" centerz="8" radius="1" />
 	<spawn centerx="3578" centery="3534" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
@@ -15974,14 +14997,35 @@
 	<spawn centerx="3513" centery="3535" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4312" centery="3535" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4854" centery="3536" centerz="8" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5246" centery="3536" centerz="8" radius="1">
+		<monster name="Vizard One Boss" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5287" centery="3536" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3478" centery="3537" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4330" centery="3537" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5310" centery="3537" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3542" centery="3538" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3568" centery="3538" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4362" centery="3538" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3376" centery="3539" centerz="8" radius="1" />
 	<spawn centerx="3392" centery="3539" centerz="8" radius="1" />
@@ -15990,19 +15034,46 @@
 	</spawn>
 	<spawn centerx="3314" centery="3541" centerz="8" radius="1" />
 	<spawn centerx="3383" centery="3541" centerz="8" radius="1" />
+	<spawn centerx="4333" centery="3541" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3475" centery="3542" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3500" centery="3542" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4292" centery="3542" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4360" centery="3542" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3292" centery="3543" centerz="8" radius="1" />
+	<spawn centerx="4277" centery="3543" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3372" centery="3544" centerz="8" radius="1" />
 	<spawn centerx="3479" centery="3544" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3543" centery="3544" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4268" centery="3544" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4312" centery="3544" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4829" centery="3544" centerz="8" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4881" centery="3544" centerz="8" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5298" centery="3544" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3302" centery="3545" centerz="8" radius="1" />
 	<spawn centerx="3322" centery="3545" centerz="8" radius="1" />
@@ -16013,8 +15084,14 @@
 	<spawn centerx="3565" centery="3545" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4359" centery="3545" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3484" centery="3546" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4286" centery="3546" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3474" centery="3547" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
@@ -16022,8 +15099,14 @@
 	<spawn centerx="3538" centery="3547" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4338" centery="3547" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3292" centery="3548" centerz="8" radius="1" />
 	<spawn centerx="3358" centery="3548" centerz="8" radius="1" />
+	<spawn centerx="4261" centery="3548" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3334" centery="3549" centerz="8" radius="1" />
 	<spawn centerx="3347" centery="3549" centerz="8" radius="1" />
 	<spawn centerx="3494" centery="3549" centerz="8" radius="1">
@@ -16032,13 +15115,22 @@
 	<spawn centerx="3575" centery="3549" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4350" centery="3549" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3468" centery="3550" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3563" centery="3550" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4342" centery="3550" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3385" centery="3551" centerz="8" radius="1" />
+	<spawn centerx="4308" centery="3551" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3538" centery="3552" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -16058,6 +15150,9 @@
 	<spawn centerx="3535" centery="3556" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="5307" centery="3556" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3389" centery="3557" centerz="8" radius="1" />
 	<spawn centerx="3399" centery="3557" centerz="8" radius="1" />
 	<spawn centerx="3480" centery="3557" centerz="8" radius="1">
@@ -16067,9 +15162,21 @@
 	<spawn centerx="3496" centery="3557" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4302" centery="3557" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3282" centery="3558" centerz="8" radius="1" />
+	<spawn centerx="4257" centery="3558" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3556" centery="3559" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4223" centery="3559" centerz="8" radius="1">
+		<monster name="Barragan Boss Two" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5358" centery="3559" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3464" centery="3560" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
@@ -16079,6 +15186,9 @@
 	</spawn>
 	<spawn centerx="3550" centery="3561" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4296" centery="3561" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3503" centery="3562" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
@@ -16091,6 +15201,9 @@
 		<monster name="Rat" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="5346" centery="3564" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3276" centery="3565" centerz="8" radius="1" />
 	<spawn centerx="3405" centery="3565" centerz="8" radius="1" />
 	<spawn centerx="3553" centery="3565" centerz="8" radius="1">
@@ -16099,39 +15212,126 @@
 	<spawn centerx="3509" centery="3566" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="5316" centery="3566" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3557" centery="3567" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4290" centery="3567" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3387" centery="3568" centerz="8" radius="1" />
 	<spawn centerx="3529" centery="3568" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4832" centery="3568" centerz="8" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4258" centery="3569" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5336" centery="3569" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3383" centery="3571" centerz="8" radius="1" />
 	<spawn centerx="3405" centery="3572" centerz="8" radius="1" />
 	<spawn centerx="3534" centery="3573" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4288" centery="3573" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4859" centery="3573" centerz="8" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3275" centery="3574" centerz="8" radius="1" />
 	<spawn centerx="3529" centery="3575" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4247" centery="3575" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4243" centery="3576" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3376" centery="3577" centerz="8" radius="1" />
+	<spawn centerx="4239" centery="3577" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4884" centery="3577" centerz="8" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4259" centery="3578" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4247" centery="3579" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5324" centery="3579" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3283" centery="3580" centerz="8" radius="1" />
 	<spawn centerx="3406" centery="3581" centerz="8" radius="1" />
 	<spawn centerx="3332" centery="3582" centerz="8" radius="1">
 		<monster name="Samurai Boss" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4288" centery="3583" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3410" centery="3585" centerz="8" radius="1" />
 	<spawn centerx="3418" centery="3585" centerz="8" radius="1" />
 	<spawn centerx="3424" centery="3585" centerz="8" radius="1" />
 	<spawn centerx="3432" centery="3585" centerz="8" radius="1" />
+	<spawn centerx="4257" centery="3585" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3278" centery="3586" centerz="8" radius="1" />
 	<spawn centerx="3374" centery="3586" centerz="8" radius="1" />
 	<spawn centerx="3285" centery="3587" centerz="8" radius="1" />
+	<spawn centerx="4899" centery="3590" centerz="8" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4285" centery="3591" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3666" centery="3593" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5219" centery="3593" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5231" centery="3593" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4250" centery="3594" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4257" centery="3594" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5321" centery="3594" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5435" centery="3594" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5210" centery="3595" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4281" centery="3596" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4274" centery="3599" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5199" centery="3599" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5239" centery="3599" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3683" centery="3600" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="8" spawntime="60" />
@@ -16139,6 +15339,9 @@
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4266" centery="3601" centerz="8" radius="1">
+		<monster name="Barragan" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3670" centery="3602" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
@@ -16155,6 +15358,21 @@
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="5319" centery="3606" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5425" centery="3606" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4878" centery="3607" centerz="8" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5245" centery="3607" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4849" centery="3608" centerz="8" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3671" centery="3609" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
@@ -16166,37 +15384,61 @@
 		<monster name="Elite Bandit" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="4191" centery="3611" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="4829" centery="3611" centerz="8" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="4174" centery="3612" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="5257" centery="3611" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5270" centery="3611" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5281" centery="3612" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4809" centery="3614" centerz="8" radius="1">
+		<monster name="Mugetsu Especial" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5294" centery="3614" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3798" centery="3615" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5304" centery="3615" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5416" centery="3615" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3670" centery="3618" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="4194" centery="3619" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="4211" centery="3619" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="4232" centery="3619" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="3800" centery="3620" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5248" centery="3620" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5326" centery="3620" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5338" centery="3620" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3685" centery="3621" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="0" y="-1" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5352" centery="3621" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5397" centery="3623" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3803" centery="3625" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
@@ -16208,8 +15450,17 @@
 		<monster name="Elite Bandit" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="4173" centery="3627" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="5362" centery="3626" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5386" centery="3626" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5313" centery="3627" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5408" centery="3627" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3811" centery="3628" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
@@ -16220,8 +15471,8 @@
 		<monster name="Elite Bandit" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="4237" centery="3629" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="5377" centery="3629" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3817" centery="3631" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
@@ -16233,20 +15484,17 @@
 		<monster name="Elite Bandit" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="5248" centery="3632" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5311" centery="3635" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3820" centery="3636" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="4153" centery="3636" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="4171" centery="3636" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="4199" centery="3636" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="4183" centery="3637" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="5242" centery="3637" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3670" centery="3638" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="8" spawntime="60" />
@@ -16261,17 +15509,29 @@
 		<monster name="Elite Bandit" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="4209" centery="3638" centerz="8" radius="1">
+	<spawn centerx="5221" centery="3639" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5233" centery="3639" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5412" centery="3639" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4367" centery="3641" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="4237" centery="3641" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="5196" centery="3641" centerz="8" radius="1">
+		<monster name="Vizard Two Boss" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3795" centery="3642" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3805" centery="3642" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5308" centery="3642" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3822" centery="3643" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
@@ -16301,20 +15561,14 @@
 	<spawn centerx="3814" centery="3645" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="4213" centery="3648" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="5424" centery="3645" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="4228" centery="3648" centerz="8" radius="1">
+	<spawn centerx="4353" centery="3647" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3840" centery="3649" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="4188" centery="3649" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="4152" centery="3651" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3784" centery="3653" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
@@ -16322,11 +15576,17 @@
 	<spawn centerx="3856" centery="3653" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="5308" centery="3653" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3615" centery="3654" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3836" centery="3654" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5435" centery="3654" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3812" centery="3656" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
@@ -16334,11 +15594,11 @@
 	<spawn centerx="3822" centery="3656" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="4084" centery="3656" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="4246" centery="3656" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="4104" centery="3656" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="4257" centery="3656" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3620" centery="3657" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
@@ -16346,17 +15606,14 @@
 	<spawn centerx="3830" centery="3657" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="4093" centery="3657" centerz="8" radius="1">
+	<spawn centerx="4344" centery="3657" centerz="8" radius="1">
 		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="4200" centery="3657" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="4237" centery="3658" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="4160" centery="3659" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="4177" centery="3659" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="4229" centery="3659" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3610" centery="3660" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
@@ -16367,6 +15624,12 @@
 	<spawn centerx="3856" centery="3660" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4220" centery="3661" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4267" centery="3661" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3622" centery="3663" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -16376,14 +15639,41 @@
 	<spawn centerx="3617" centery="3664" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="5311" centery="3664" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3821" centery="3665" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4244" centery="3665" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3791" centery="3666" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4213" centery="3666" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5439" centery="3667" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4457" centery="3669" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3614" centery="3670" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4271" centery="3670" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4350" centery="3670" centerz="8" radius="1">
+		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4470" centery="3670" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5321" centery="3670" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3651" centery="3671" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
@@ -16406,6 +15696,9 @@
 	<spawn centerx="3814" centery="3673" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4207" centery="3675" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3648" centery="3676" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -16415,8 +15708,20 @@
 	<spawn centerx="3710" centery="3676" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4275" centery="3676" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4447" centery="3676" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3729" centery="3677" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4481" centery="3677" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4241" centery="3678" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3604" centery="3679" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
@@ -16430,14 +15735,29 @@
 	<spawn centerx="3455" centery="3680" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4201" centery="3680" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4356" centery="3680" centerz="8" radius="1">
+		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5331" centery="3680" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3664" centery="3681" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3626" centery="3683" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4394" centery="3683" centerz="8" radius="1">
+		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3633" centery="3684" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4408" centery="3684" centerz="8" radius="1">
+		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3603" centery="3685" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
@@ -16447,6 +15767,12 @@
 	</spawn>
 	<spawn centerx="3732" centery="3685" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4195" centery="3685" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4280" centery="3685" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3455" centery="3686" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -16463,6 +15789,9 @@
 	<spawn centerx="3700" centery="3687" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4474" centery="3687" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3442" centery="3688" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -16471,6 +15800,12 @@
 	</spawn>
 	<spawn centerx="3639" centery="3688" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4444" centery="3688" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4489" centery="3688" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3610" centery="3689" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
@@ -16483,6 +15818,21 @@
 	</spawn>
 	<spawn centerx="3674" centery="3689" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5328" centery="3689" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4361" centery="3690" centerz="8" radius="1">
+		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4240" centery="3691" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4188" centery="3692" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4388" centery="3692" centerz="8" radius="1">
+		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3514" centery="3693" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -16499,8 +15849,26 @@
 	<spawn centerx="3731" centery="3693" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4412" centery="3693" centerz="8" radius="1">
+		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5320" centery="3693" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5437" centery="3693" centerz="8" radius="1">
+		<monster name="Vizard Four Boss" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3699" centery="3694" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4284" centery="3695" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4401" centery="3695" centerz="8" radius="1">
+		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4455" centery="3695" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3433" centery="3696" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -16508,11 +15876,29 @@
 	<spawn centerx="3680" centery="3696" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4441" centery="3696" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5309" centery="3696" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3522" centery="3697" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="5295" centery="3697" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3723" centery="3698" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4180" centery="3698" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4432" centery="3698" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4479" centery="3698" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3643" centery="3699" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
@@ -16520,11 +15906,26 @@
 	<spawn centerx="3728" centery="3699" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="5285" centery="3699" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4491" centery="3700" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4363" centery="3701" centerz="8" radius="1">
+		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4377" centery="3701" centerz="8" radius="1">
+		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3417" centery="3702" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3514" centery="3702" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5277" centery="3702" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3375" centery="3703" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -16537,6 +15938,9 @@
 	</spawn>
 	<spawn centerx="3678" centery="3703" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4238" centery="3703" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3525" centery="3704" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -16556,11 +15960,32 @@
 	<spawn centerx="3423" centery="3705" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4464" centery="3705" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4178" centery="3706" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5237" centery="3706" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5308" centery="3706" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3334" centery="3707" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3672" centery="3707" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4283" centery="3707" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4406" centery="3708" centerz="8" radius="1">
+		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5266" centery="3708" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3639" centery="3709" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
@@ -16571,14 +15996,23 @@
 	<spawn centerx="3726" centery="3709" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="5252" centery="3709" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3379" centery="3710" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3414" centery="3710" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4355" centery="3710" centerz="8" radius="1">
+		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3526" centery="3711" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4448" centery="3711" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3329" centery="3712" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -16589,8 +16023,53 @@
 	<spawn centerx="3368" centery="3712" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4484" centery="3712" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3667" centery="3713" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4177" centery="3714" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4342" centery="3714" centerz="8" radius="1">
+		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4152" centery="3715" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="-1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4160" centery="3715" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4168" centery="3715" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4192" centery="3715" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4201" centery="3715" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4214" centery="3715" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4228" centery="3715" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4239" centery="3715" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4251" centery="3715" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4264" centery="3715" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4276" centery="3715" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4330" centery="3715" centerz="8" radius="1">
+		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3342" centery="3716" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -16604,8 +16083,14 @@
 	<spawn centerx="3644" centery="3716" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="5310" centery="3716" centerz="8" radius="1">
+		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3382" centery="3717" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4290" centery="3717" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3349" centery="3718" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -16616,8 +16101,17 @@
 	<spawn centerx="3627" centery="3718" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4364" centery="3718" centerz="8" radius="1">
+		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4474" centery="3719" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3685" centery="3720" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4461" centery="3721" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3385" centery="3722" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -16634,6 +16128,9 @@
 	<spawn centerx="3689" centery="3724" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4180" centery="3724" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3676" centery="3725" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -16646,11 +16143,20 @@
 	<spawn centerx="3390" centery="3727" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4238" centery="3727" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4367" centery="3727" centerz="8" radius="1">
+		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3619" centery="3728" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3450" centery="3729" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4286" centery="3729" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3684" centery="3730" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
@@ -16679,17 +16185,35 @@
 	<spawn centerx="3620" centery="3734" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4172" centery="3735" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3442" centery="3736" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3533" centery="3736" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4240" centery="3736" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4399" centery="3736" centerz="8" radius="1">
+		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4181" centery="3738" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4281" centery="3738" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3455" centery="3739" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3407" centery="3740" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="5345" centery="3740" centerz="8" radius="1">
+		<monster name="Vizard Three Boss" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3349" centery="3741" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -16711,6 +16235,9 @@
 	</spawn>
 	<spawn centerx="3632" centery="3743" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4371" centery="3743" centerz="8" radius="1">
+		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3317" centery="3744" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -16739,8 +16266,20 @@
 	<spawn centerx="3814" centery="3747" centerz="8" radius="1">
 		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4188" centery="3747" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4240" centery="3747" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4395" centery="3747" centerz="8" radius="1">
+		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3403" centery="3748" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4280" centery="3748" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3311" centery="3749" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -16751,6 +16290,12 @@
 	<spawn centerx="3650" centery="3750" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4203" centery="3750" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4213" centery="3750" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3820" centery="3752" centerz="8" radius="1">
 		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -16760,8 +16305,14 @@
 	<spawn centerx="3408" centery="3755" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4380" centery="3755" centerz="8" radius="1">
+		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3399" centery="3756" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4222" centery="3756" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3647" centery="3757" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
@@ -16769,11 +16320,23 @@
 	<spawn centerx="3414" centery="3758" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4274" centery="3758" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3776" centery="3759" centerz="8" radius="1">
 		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4234" centery="3759" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3707" centery="3760" centerz="8" radius="1">
 		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4248" centery="3760" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4260" centery="3760" centerz="8" radius="1">
+		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3313" centery="3761" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
