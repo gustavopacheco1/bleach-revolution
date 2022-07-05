@@ -5,7 +5,7 @@ setCombatParam(combat, COMBAT_PARAM_DISTANCEEFFECT, 81)
 setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -20.0, 0, -20.0, 0)
 
 function onCastSpell(cid, var)
-	if exhaustion.check(cid, 350) then
+	if exhaustion.check(cid, 250) then
 		doPlayerSendCancel(cid, "You are exhausted.")
 		return false
 	end
@@ -22,9 +22,9 @@ function onCastSpell(cid, var)
 
 				doCombat(cid, combat, var)
 			end
-		end, i * 275)
+		end, i * 100)
 	end
 
-	exhaustion.set(cid, 350, 3,5)
+	exhaustion.set(cid, 250, 2,5)
 	return true
 end
