@@ -6,7 +6,7 @@ setCombatParam(combat, COMBAT_PARAM_EFFECT, 484)
 setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -15.0, 0, -15.0, 0)
 
 function onCastSpell(cid, var)
-	if exhaustion.check(cid, 45670) then
+	if exhaustion.check(cid, 100) then
 		doPlayerSendCancel(cid, "You are exhausted.")
 		return false
 	end
@@ -19,6 +19,6 @@ function onCastSpell(cid, var)
 		end, i * 275)
 	end
 
-	exhaustion.set(cid, 45670, 1)
+	exhaustion.set(cid, 100, 1)
 	return true
 end
