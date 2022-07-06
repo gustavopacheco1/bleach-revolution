@@ -9,6 +9,6 @@ function onCastSpell(cid, var)
 		return false
 	end
 
-	exhaustion.set(cid, 270, 2,7)
+	exhaustion.set(cid, 270, 2)
 	return doCombat(cid, combat, var)
 end

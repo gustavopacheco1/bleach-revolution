@@ -22,6 +22,6 @@ function onCastSpell(cid, var)
 		z = target_position.z
 	}, 201)
 
-	exhaustion.set(cid, 270, 2,7)
+	exhaustion.set(cid, 270, 2)
 	return doCombat(cid, combat, var)
 end
