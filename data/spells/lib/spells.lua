@@ -1,4 +1,4 @@
-function doCombatLoop(cid, combat, effect, loop_amount, loop_ms_delay)
+function doCombatLoop(cid, combat, loop_amount, loop_ms_delay, effect)
 	for i = 0, loop_amount - 1 do
 		addEvent(function()
 			if not isCreature(cid) then
@@ -8,20 +8,24 @@ function doCombatLoop(cid, combat, effect, loop_amount, loop_ms_delay)
 			local target = getCreatureTarget(cid)
 
 			if isCreature(target) then
-				local target_position = getCreaturePosition(target)
-
-				if isSightClear(getCreaturePosition(cid), target_position, false) then
-					if effect then
-						doSendMagicEffect({
-							x = target_position.x + effect.x,
-							y = target_position.y + effect.y,
-							z = target_position.z
-						}, effect.id)
-					end
-
-					doCombat(cid, combat, numberToVariant(target))
-				end
+				return
 			end
+
+			local target_position = getCreaturePosition(target)
+
+			if not isSightClear(getCreaturePosition(cid), target_position, false) then
+				return
+			end
+
+			if effect then
+				doSendMagicEffect({
+					x = target_position.x + effect.x,
+					y = target_position.y + effect.y,
+					z = target_position.z
+				}, effect.id)
+			end
+
+			doCombat(cid, combat, numberToVariant(target))
 		end, i * loop_ms_delay)
 	end
 end

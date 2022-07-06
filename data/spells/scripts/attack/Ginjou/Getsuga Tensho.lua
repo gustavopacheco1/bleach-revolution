@@ -10,7 +10,13 @@ function onCastSpell(cid, var)
 		return false
 	end
 
-	doCombatLoop(cid, combat, { id = 695, x = 1, y = 1 }, 5, 275)
+	doCombatLoop(
+		cid,
+		combat,
+		5,
+		275,
+		{ id = 695, x = 1, y = 1 }
+	)
 
 	exhaustion.set(cid, 200, 2)
 	return true
