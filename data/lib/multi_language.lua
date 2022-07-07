@@ -13,5 +13,13 @@ MultiLanguage = {
 		end
 
 		return doPlayerSendTextMessage(cid, MessageClass, message_pt)
-	end
+	end,
+
+	doCreatureSay = function(uid, cid, text_en, text_pt)
+        if getPlayerStorageValue(cid, "language") == "en" then
+            return doCreatureSay(uid, text_en)
+        end
+
+        return doCreatureSay(uid, text_pt)
+    end
 }
