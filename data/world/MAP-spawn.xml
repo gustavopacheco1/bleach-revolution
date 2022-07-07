@@ -104,24 +104,25 @@
 		<monster name="Espada" x="0" y="0" z="1" spawntime="60" />
 		<monster name="Espada" x="0" y="1" z="1" spawntime="60" />
 	</spawn>
-	<spawn centerx="3829" centery="2819" centerz="1" radius="1">
-		<monster name="Espada" x="1" y="-1" z="1" spawntime="60" />
-		<monster name="Espada" x="-1" y="0" z="1" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="1" spawntime="60" />
-		<monster name="Espada" x="1" y="1" z="1" spawntime="60" />
-	</spawn>
-	<spawn centerx="3814" centery="2820" centerz="1" radius="1">
-		<monster name="Espada" x="0" y="-1" z="1" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="1" spawntime="60" />
-		<monster name="Espada" x="1" y="0" z="1" spawntime="60" />
-		<monster name="Espada" x="0" y="1" z="1" spawntime="60" />
-	</spawn>
 	<spawn centerx="3835" centery="2820" centerz="1" radius="1">
 		<monster name="Espada" x="-1" y="-1" z="1" spawntime="60" />
 		<monster name="Espada" x="0" y="-1" z="1" spawntime="60" />
 		<monster name="Espada" x="0" y="0" z="1" spawntime="60" />
 		<monster name="Espada" x="1" y="0" z="1" spawntime="60" />
 		<monster name="Espada" x="-1" y="1" z="1" spawntime="60" />
+	</spawn>
+	<spawn centerx="3816" centery="2824" centerz="1" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="1" spawntime="60" />
+		<monster name="Espada" x="1" y="-1" z="1" spawntime="60" />
+		<monster name="Espada" x="-1" y="0" z="1" spawntime="60" />
+		<monster name="Espada" x="0" y="1" z="1" spawntime="60" />
+	</spawn>
+	<spawn centerx="3832" centery="2824" centerz="1" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="1" spawntime="60" />
+		<monster name="Espada" x="0" y="-1" z="1" spawntime="60" />
+		<monster name="Espada" x="1" y="0" z="1" spawntime="60" />
+		<monster name="Espada" x="0" y="1" z="1" spawntime="60" />
+		<monster name="Espada" x="1" y="1" z="1" spawntime="60" />
 	</spawn>
 	<spawn centerx="3821" centery="2825" centerz="1" radius="1">
 		<monster name="Espada" x="0" y="-1" z="1" spawntime="60" />
@@ -281,17 +282,19 @@
 		<monster name="Arrancar Hollow" x="1" y="-1" z="2" spawntime="60" />
 		<monster name="Arrancar Hollow" x="0" y="0" z="2" spawntime="60" />
 	</spawn>
-	<spawn centerx="3834" centery="2818" centerz="2" radius="1">
-		<monster name="Espada" x="-1" y="0" z="2" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="2" spawntime="60" />
-		<monster name="Espada" x="0" y="1" z="2" spawntime="60" />
-	</spawn>
-	<spawn centerx="3819" centery="2819" centerz="2" radius="1">
+	<spawn centerx="3817" centery="2820" centerz="2" radius="1">
 		<monster name="Espada" x="0" y="-1" z="2" spawntime="60" />
 		<monster name="Espada" x="-1" y="0" z="2" spawntime="60" />
 		<monster name="Espada" x="0" y="0" z="2" spawntime="60" />
 		<monster name="Espada" x="1" y="0" z="2" spawntime="60" />
 		<monster name="Espada" x="0" y="1" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="3832" centery="2822" centerz="2" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="2" spawntime="60" />
+		<monster name="Espada" x="0" y="-1" z="2" spawntime="60" />
+		<monster name="Espada" x="-1" y="0" z="2" spawntime="60" />
+		<monster name="Espada" x="0" y="1" z="2" spawntime="60" />
+		<monster name="Espada" x="1" y="1" z="2" spawntime="60" />
 	</spawn>
 	<spawn centerx="3815" centery="2825" centerz="2" radius="1">
 		<monster name="Espada" x="0" y="-1" z="2" spawntime="60" />
@@ -673,17 +676,17 @@
 		<monster name="Arrancar Hollow" x="0" y="0" z="3" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="1" z="3" spawntime="60" />
 	</spawn>
-	<spawn centerx="3816" centery="2819" centerz="3" radius="1">
-		<monster name="Espada" x="0" y="-1" z="3" spawntime="60" />
-		<monster name="Espada" x="-1" y="0" z="3" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="3" spawntime="60" />
-		<monster name="Espada" x="1" y="1" z="3" spawntime="60" />
-	</spawn>
 	<spawn centerx="3829" centery="2819" centerz="3" radius="1">
 		<monster name="Espada" x="0" y="-1" z="3" spawntime="60" />
 		<monster name="Espada" x="0" y="0" z="3" spawntime="60" />
 		<monster name="Espada" x="1" y="0" z="3" spawntime="60" />
 		<monster name="Espada" x="-1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="3817" centery="2823" centerz="3" radius="1">
+		<monster name="Espada" x="0" y="-1" z="3" spawntime="60" />
+		<monster name="Espada" x="-1" y="0" z="3" spawntime="60" />
+		<monster name="Espada" x="1" y="0" z="3" spawntime="60" />
+		<monster name="Espada" x="0" y="1" z="3" spawntime="60" />
 	</spawn>
 	<spawn centerx="3813" centery="2825" centerz="3" radius="1">
 		<monster name="Espada" x="0" y="-1" z="3" spawntime="60" />
