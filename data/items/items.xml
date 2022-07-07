@@ -3071,13 +3071,6 @@
 	<item id="2194" article="a" name="mysterious fetish">
 		<attribute key="weight" value="490"/>
 	</item>
-	<item id="2195" name="Shinigami Boots">
-		<attribute key="weight" value="750"/>
-		<attribute key="slotType" value="feet"/>
-		<attribute key="speed" value="60"/>
-		<attribute key="skillSword" value="5"/>
-		<attribute key="magiclevelpoints" value="2"/>
-	</item>
 	<item id="2196" article="a" name="Forever Amulet of Loss">
 		<attribute key="weight" value="420"/>
 		<attribute key="slotType" value="necklace"/>
@@ -21805,38 +21798,38 @@
 	<!-- Founder Set -->
 	<item id="15715" name="Founder Helmet">
 		<attribute key="weight" value="1000"/>
-		<attribute key="armor" value="80"/>
-		<attribute key="manaGain" value="4500"/>
+		<attribute key="armor" value="60"/>
+		<attribute key="manaGain" value="800"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="4500"/>
+		<attribute key="healthGain" value="1200"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15716" name="Founder Armor">
 		<attribute key="weight" value="3000"/>
-		<attribute key="armor" value="80"/>
-		<attribute key="manaGain" value="4500"/>
+		<attribute key="armor" value="60"/>
+		<attribute key="manaGain" value="800"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="4500"/>
+		<attribute key="healthGain" value="1200"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
 	<item id="15717" name="Founder Legs">
 		<attribute key="weight" value="3000"/>
-		<attribute key="armor" value="80"/>
-		<attribute key="manaGain" value="4500"/>
+		<attribute key="armor" value="60"/>
+		<attribute key="manaGain" value="800"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="4500"/>
+		<attribute key="healthGain" value="1200"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
 	<item id="15718" name="Founder Boots">
 		<attribute key="weight" value="2100"/>
-		<attribute key="armor" value="80"/>
-		<attribute key="speed" value="60"/>
-		<attribute key="manaGain" value="4500"/>
+		<attribute key="armor" value="60"/>
+		<attribute key="speed" value="30"/>
+		<attribute key="manaGain" value="800"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="4500"/>
+		<attribute key="healthGain" value="1200"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
@@ -21844,38 +21837,38 @@
 	<!-- Set Vip -->
 	<item id="15723" name="Vasto Lorde Helmet">
 		<attribute key="weight" value="1000"/>
-		<attribute key="armor" value="40"/>
-		<attribute key="manaGain" value="3500"/>
+		<attribute key="armor" value="70"/>
+		<attribute key="manaGain" value="1500"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="3500"/>
+		<attribute key="healthGain" value="2600"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15726" name="Vasto Lorde Armor">
 		<attribute key="weight" value="3000"/>
-		<attribute key="armor" value="40"/>
-		<attribute key="manaGain" value="3500"/>
+		<attribute key="armor" value="70"/>
+		<attribute key="manaGain" value="1500"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="3500"/>
+		<attribute key="healthGain" value="2600"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
 	<item id="15727" name="Vasto Lorde Legs">
 		<attribute key="weight" value="3000"/>
-		<attribute key="armor" value="40"/>
-		<attribute key="manaGain" value="3500"/>
+		<attribute key="armor" value="70"/>
+		<attribute key="manaGain" value="1500"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="3500"/>
+		<attribute key="healthGain" value="2600"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
 	<item id="15722" name="Vasto Lorde Boots">
 		<attribute key="weight" value="2100"/>
-		<attribute key="armor" value="40"/>
-		<attribute key="speed" value="30"/>
-		<attribute key="manaGain" value="3500"/>
+		<attribute key="armor" value="70"/>
+		<attribute key="speed" value="45"/>
+		<attribute key="manaGain" value="1500"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="3500"/>
+		<attribute key="healthGain" value="2600"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
@@ -21883,38 +21876,38 @@
 	<!-- Vizard Set -->
 	<item id="16088" name="Vizard Helmet">
 		<attribute key="weight" value="1000"/>
-		<attribute key="armor" value="70"/>
-		<attribute key="manaGain" value="4000"/>
+		<attribute key="armor" value="50"/>
+		<attribute key="manaGain" value="900"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="4000"/>
+		<attribute key="healthGain" value="2000"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="16087" name="Vizard Armor">
 		<attribute key="weight" value="3000"/>
-		<attribute key="armor" value="70"/>
-		<attribute key="manaGain" value="4000"/>
+		<attribute key="armor" value="50"/>
+		<attribute key="manaGain" value="900"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="4000"/>
+		<attribute key="healthGain" value="2000"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
 	<item id="16086" name="Vizard Legs">
 		<attribute key="weight" value="3000"/>
-		<attribute key="armor" value="70"/>
-		<attribute key="manaGain" value="4000"/>
+		<attribute key="armor" value="50"/>
+		<attribute key="manaGain" value="900"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="4000"/>
+		<attribute key="healthGain" value="2000"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
 	<item id="16085" name="Vizard Boots">
 		<attribute key="weight" value="2100"/>
-		<attribute key="armor" value="70"/>
-		<attribute key="speed" value="50"/>
-		<attribute key="manaGain" value="4000"/>
+		<attribute key="armor" value="50"/>
+		<attribute key="speed" value="30"/>
+		<attribute key="manaGain" value="900"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="4000"/>
+		<attribute key="healthGain" value="2000"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
@@ -21922,38 +21915,38 @@
 	<!-- Ultimate Vizard Set -->
 	<item id="16119" name="Ultimate Vizard Helmet">
 		<attribute key="weight" value="1000"/>
-		<attribute key="armor" value="80"/>
-		<attribute key="manaGain" value="5000"/>
+		<attribute key="armor" value="55"/>
+		<attribute key="manaGain" value="1100"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="5000"/>
+		<attribute key="healthGain" value="2200"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="16120" name="Ultimate Vizard Armor">
 		<attribute key="weight" value="3000"/>
-		<attribute key="armor" value="80"/>
-		<attribute key="manaGain" value="5000"/>
+		<attribute key="armor" value="55"/>
+		<attribute key="manaGain" value="1100"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="5000"/>
+		<attribute key="healthGain" value="2200"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
 	<item id="16121" name="Ultimate Vizard Legs">
 		<attribute key="weight" value="3000"/>
-		<attribute key="armor" value="80"/>
-		<attribute key="manaGain" value="5000"/>
+		<attribute key="armor" value="55"/>
+		<attribute key="manaGain" value="1100"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="5000"/>
+		<attribute key="healthGain" value="2200"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
 	<item id="16122" name="Ultimate Vizard Boots">
 		<attribute key="weight" value="2100"/>
-		<attribute key="armor" value="80"/>
-		<attribute key="speed" value="60"/>
-		<attribute key="manaGain" value="5000"/>
+		<attribute key="armor" value="55"/>
+		<attribute key="speed" value="32"/>
+		<attribute key="manaGain" value="1100"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="5000"/>
+		<attribute key="healthGain" value="2200"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
@@ -21961,38 +21954,38 @@
 	<!-- Kaname Set -->
 	<item id="16089" name="Kaname Helmet">
 		<attribute key="weight" value="1000"/>
-		<attribute key="armor" value="40"/>
-		<attribute key="manaGain" value="2500"/>
+		<attribute key="armor" value="35"/>
+		<attribute key="manaGain" value="500"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="2500"/>
+		<attribute key="healthGain" value="1400"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="16090" name="Kaname Armor">
 		<attribute key="weight" value="3000"/>
-		<attribute key="armor" value="40"/>
-		<attribute key="manaGain" value="2500"/>
+		<attribute key="armor" value="35"/>
+		<attribute key="manaGain" value="500"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="2500"/>
+		<attribute key="healthGain" value="1400"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
 	<item id="16091" name="Kaname Legs">
 		<attribute key="weight" value="3000"/>
-		<attribute key="armor" value="40"/>
-		<attribute key="manaGain" value="2500"/>
+		<attribute key="armor" value="35"/>
+		<attribute key="manaGain" value="500"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="2500"/>
+		<attribute key="healthGain" value="1400"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
 	<item id="16092" name="Kaname Boots">
 		<attribute key="weight" value="2100"/>
-		<attribute key="armor" value="40"/>
-		<attribute key="speed" value="30"/>
-		<attribute key="manaGain" value="2500"/>
+		<attribute key="armor" value="35"/>
+		<attribute key="speed" value="23"/>
+		<attribute key="manaGain" value="500"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="2500"/>
+		<attribute key="healthGain" value="1400"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
@@ -22000,38 +21993,38 @@
 	<!-- Nnoitra Set -->
 	<item id="16093" name="Nnoitra Helmet">
 		<attribute key="weight" value="1000"/>
-		<attribute key="armor" value="55"/>
-		<attribute key="manaGain" value="3400"/>
+		<attribute key="armor" value="40"/>
+		<attribute key="manaGain" value="600"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="3400"/>
+		<attribute key="healthGain" value="1600"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="16094" name="Nnoitra Armor">
 		<attribute key="weight" value="3000"/>
-		<attribute key="armor" value="55"/>
-		<attribute key="manaGain" value="3400"/>
+		<attribute key="armor" value="40"/>
+		<attribute key="manaGain" value="600"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="3400"/>
+		<attribute key="healthGain" value="1600"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
 	<item id="16095" name="Nnoitra Legs">
 		<attribute key="weight" value="3000"/>
-		<attribute key="armor" value="55"/>
-		<attribute key="manaGain" value="3400"/>
+		<attribute key="armor" value="40"/>
+		<attribute key="manaGain" value="600"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="3400"/>
+		<attribute key="healthGain" value="1600"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
 	<item id="16096" name="Nnoitra Boots">
 		<attribute key="weight" value="2100"/>
-		<attribute key="armor" value="55"/>
-		<attribute key="speed" value="40"/>
-		<attribute key="manaGain" value="3400"/>
+		<attribute key="armor" value="40"/>
+		<attribute key="speed" value="25"/>
+		<attribute key="manaGain" value="600"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="3400"/>
+		<attribute key="healthGain" value="1600"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
@@ -22039,38 +22032,38 @@
 	<!-- Ultimate Nnoitra Set -->
 	<item id="16123" name="Ultimate Nnoitra Helmet">
 		<attribute key="weight" value="1000"/>
-		<attribute key="armor" value="60"/>
-		<attribute key="manaGain" value="3800"/>
+		<attribute key="armor" value="45"/>
+		<attribute key="manaGain" value="800"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="3800"/>
+		<attribute key="healthGain" value="1800"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="16124" name="Ultimate Nnoitra Armor">
 		<attribute key="weight" value="3000"/>
-		<attribute key="armor" value="60"/>
-		<attribute key="manaGain" value="3800"/>
+		<attribute key="armor" value="45"/>
+		<attribute key="manaGain" value="800"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="3800"/>
+		<attribute key="healthGain" value="1800"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
 	<item id="16125" name="Ultimate Nnoitra Legs">
 		<attribute key="weight" value="3000"/>
-		<attribute key="armor" value="60"/>
-		<attribute key="manaGain" value="3800"/>
+		<attribute key="armor" value="45"/>
+		<attribute key="manaGain" value="800"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="3800"/>
+		<attribute key="healthGain" value="1800"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
 	<item id="16126" name="Ultimate Nnoitra Boots">
 		<attribute key="weight" value="2100"/>
-		<attribute key="armor" value="60"/>
-		<attribute key="speed" value="45"/>
-		<attribute key="manaGain" value="3800"/>
+		<attribute key="armor" value="45"/>
+		<attribute key="speed" value="27"/>
+		<attribute key="manaGain" value="800"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="3800"/>
+		<attribute key="healthGain" value="1800"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
@@ -22078,38 +22071,30 @@
 	<!-- Kensei Set -->
 	<item id="16097" name="Kensei Helmet">
 		<attribute key="weight" value="1000"/>
-		<attribute key="armor" value="25"/>
-		<attribute key="manaGain" value="1700"/>
-		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="1700"/>
+		<attribute key="armor" value="15"/>
+		<attribute key="healthGain" value="600"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="16098" name="Kensei Armor">
 		<attribute key="weight" value="3000"/>
-		<attribute key="armor" value="25"/>
-		<attribute key="manaGain" value="1700"/>
-		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="1700"/>
+		<attribute key="armor" value="15"/>
+		<attribute key="healthGain" value="600"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
 	<item id="16099" name="Kensei Legs">
 		<attribute key="weight" value="3000"/>
-		<attribute key="armor" value="25"/>
-		<attribute key="manaGain" value="1700"/>
-		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="1700"/>
+		<attribute key="armor" value="15"/>
+		<attribute key="healthGain" value="600"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
 	<item id="16100" name="Kensei Boots">
 		<attribute key="weight" value="2100"/>
-		<attribute key="armor" value="25"/>
-		<attribute key="speed" value="20"/>
-		<attribute key="manaGain" value="1700"/>
-		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="1700"/>
+		<attribute key="armor" value="15"/>
+		<attribute key="speed" value="15"/>
+		<attribute key="healthGain" value="600"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
@@ -22117,38 +22102,38 @@
 	<!-- Halibel Set -->
 	<item id="11384" name="Halibel Helmet">
 		<attribute key="weight" value="1000"/>
-		<attribute key="armor" value="50"/>
-		<attribute key="manaGain" value="3000"/>
+		<attribute key="armor" value="30"/>
+		<attribute key="manaGain" value="400"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="3000"/>
+		<attribute key="healthGain" value="1200"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="16101" name="Halibel Armor">
 		<attribute key="weight" value="3000"/>
-		<attribute key="armor" value="50"/>
-		<attribute key="manaGain" value="3000"/>
+		<attribute key="armor" value="30"/>
+		<attribute key="manaGain" value="400"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="3000"/>
+		<attribute key="healthGain" value="1200"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
 	<item id="16102" name="Halibel Legs">
 		<attribute key="weight" value="3000"/>
-		<attribute key="armor" value="50"/>
-		<attribute key="manaGain" value="3000"/>
+		<attribute key="armor" value="30"/>
+		<attribute key="manaGain" value="400"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="3000"/>
+		<attribute key="healthGain" value="1200"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
 	<item id="16103" name="halibel Boots">
 		<attribute key="weight" value="2100"/>
-		<attribute key="armor" value="50"/>
-		<attribute key="speed" value="35"/>
-		<attribute key="manaGain" value="3000"/>
+		<attribute key="armor" value="30"/>
+		<attribute key="speed" value="20"/>
+		<attribute key="manaGain" value="400"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="3000"/>
+		<attribute key="healthGain" value="1200"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
@@ -22156,38 +22141,38 @@
 	<!--  Zangetsu Set -->
 	<item id="16107" name="Zangetsu Helmet">
 		<attribute key="weight" value="1000"/>
-		<attribute key="armor" value="60"/>
-		<attribute key="manaGain" value="3800"/>
+		<attribute key="armor" value="45"/>
+		<attribute key="manaGain" value="700"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="3800"/>
+		<attribute key="healthGain" value="1800"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="16108" name="Zangetsu Armor">
 		<attribute key="weight" value="3000"/>
-		<attribute key="armor" value="60"/>
-		<attribute key="manaGain" value="3800"/>
+		<attribute key="armor" value="45"/>
+		<attribute key="manaGain" value="700"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="3800"/>
+		<attribute key="healthGain" value="1800"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
 	<item id="16109" name="Zangetsu Legs">
 		<attribute key="weight" value="3000"/>
-		<attribute key="armor" value="60"/>
-		<attribute key="manaGain" value="3800"/>
+		<attribute key="armor" value="45"/>
+		<attribute key="manaGain" value="700"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="3800"/>
+		<attribute key="healthGain" value="1800"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
 	<item id="16110" name="Zangetsu Boots">
 		<attribute key="weight" value="2100"/>
-		<attribute key="armor" value="60"/>
-		<attribute key="speed" value="45"/>
-		<attribute key="manaGain" value="3800"/>
+		<attribute key="armor" value="45"/>
+		<attribute key="speed" value="27"/>
+		<attribute key="manaGain" value="700"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="3800"/>
+		<attribute key="healthGain" value="1800"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
@@ -22195,77 +22180,69 @@
 	<!--  Ultimate Zangetsu Set -->
 	<item id="16127" name="Ultimate Zangetsu Helmet">
 		<attribute key="weight" value="1000"/>
-		<attribute key="armor" value="70"/>
-		<attribute key="manaGain" value="4200"/>
+		<attribute key="armor" value="50"/>
+		<attribute key="manaGain" value="900"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="4200"/>
+		<attribute key="healthGain" value="2000"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="16128" name="Ultimate Zangetsu Armor">
 		<attribute key="weight" value="3000"/>
-		<attribute key="armor" value="70"/>
-		<attribute key="manaGain" value="4200"/>
+		<attribute key="armor" value="50"/>
+		<attribute key="manaGain" value="900"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="4200"/>
+		<attribute key="healthGain" value="2000"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
 	<item id="16129" name="Ultimate Zangetsu Legs">
 		<attribute key="weight" value="3000"/>
-		<attribute key="armor" value="70"/>
-		<attribute key="manaGain" value="4200"/>
+		<attribute key="armor" value="50"/>
+		<attribute key="manaGain" value="900"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="4200"/>
+		<attribute key="healthGain" value="2000"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
 	<item id="16130" name="Ultimate Zangetsu Boots">
 		<attribute key="weight" value="2100"/>
-		<attribute key="armor" value="70"/>
-		<attribute key="speed" value="50"/>
-		<attribute key="manaGain" value="4200"/>
+		<attribute key="armor" value="50"/>
+		<attribute key="speed" value="30"/>
+		<attribute key="manaGain" value="900"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="4200"/>
+		<attribute key="healthGain" value="2000"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
-	<!-- Samurai -->
+	<!-- Samurai Set -->
 	<item id="15077" name="Samurai Helmet">
 		<attribute key="weight" value="1000"/>
-		<attribute key="armor" value="18"/>
-		<attribute key="manaGain" value="1000"/>
-		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="1000"/>
+		<attribute key="armor" value="10"/>
+		<attribute key="healthGain" value="400"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15076" name="Samurai Armor">
 		<attribute key="weight" value="3000"/>
-		<attribute key="armor" value="18"/>
-		<attribute key="manaGain" value="1000"/>
-		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="1000"/>
+		<attribute key="armor" value="10"/>
+		<attribute key="healthGain" value="400"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
 	<item id="15078" name="Samurai Legs">
 		<attribute key="weight" value="3000"/>
-		<attribute key="armor" value="18"/>
-		<attribute key="manaGain" value="1000"/>
-		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="1000"/>
+		<attribute key="armor" value="10"/>
+		<attribute key="healthGain" value="400"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
 	<item id="15075" name="Samurai Boots">
 		<attribute key="weight" value="2100"/>
-		<attribute key="armor" value="18"/>
-		<attribute key="speed" value="20"/>
-		<attribute key="manaGain" value="1000"/>
-		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="1000"/>
+		<attribute key="armor" value="10"/>
+		<attribute key="speed" value="10"/>
+		<attribute key="healthGain" value="400"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
@@ -22299,80 +22276,80 @@
 		<attribute key="slotType" value="legs"/>
 	</item>
 
-	<!-- Urahara -->
+	<!-- Urahara set -->
 	<item id="15724" name="Urahara Helmet">
 		<attribute key="weight" value="1000"/>
-		<attribute key="armor" value="28"/>
-		<attribute key="manaGain" value="2000"/>
+		<attribute key="armor" value="20"/>
+		<attribute key="manaGain" value="200"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="2000"/>
+		<attribute key="healthGain" value="1000"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15111" name="Urahara Armor">
 		<attribute key="weight" value="3000"/>
-		<attribute key="armor" value="28"/>
-		<attribute key="manaGain" value="2000"/>
+		<attribute key="armor" value="20"/>
+		<attribute key="manaGain" value="200"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="2000"/>
+		<attribute key="healthGain" value="1000"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
 	<item id="16115" name="Urahara Legs">
 		<attribute key="weight" value="3000"/>
-		<attribute key="armor" value="28"/>
-		<attribute key="manaGain" value="2000"/>
+		<attribute key="armor" value="20"/>
+		<attribute key="manaGain" value="200"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="2000"/>
+		<attribute key="healthGain" value="1000"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
 	<item id="15815" name="Urahara Boots">
 		<attribute key="weight" value="2100"/>
-		<attribute key="armor" value="28"/>
-		<attribute key="speed" value="25"/>
-		<attribute key="manaGain" value="2000"/>
+		<attribute key="armor" value="20"/>
+		<attribute key="speed" value="20"/>
+		<attribute key="manaGain" value="200"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="2000"/>
+		<attribute key="healthGain" value="1000"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
-	<!-- Mummy -->
+	<!-- Mummy Set -->
 	<item id="10690" name="Mummy Helmet">
 		<attribute key="weight" value="1000"/>
-		<attribute key="armor" value="40"/>
-		<attribute key="manaGain" value="3000"/>
+		<attribute key="armor" value="17"/>
+		<attribute key="manaGain" value="100"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="3000"/>
+		<attribute key="healthGain" value="800"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="10687" name="Mummy Armor">
 		<attribute key="weight" value="3000"/>
-		<attribute key="armor" value="40"/>
-		<attribute key="manaGain" value="3000"/>
+		<attribute key="armor" value="17"/>
+		<attribute key="manaGain" value="100"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="3000"/>
+		<attribute key="healthGain" value="800"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
 	<item id="10688" name="Mummy Legs">
 		<attribute key="weight" value="3000"/>
-		<attribute key="armor" value="40"/>
-		<attribute key="manaGain" value="3000"/>
+		<attribute key="armor" value="17"/>
+		<attribute key="manaGain" value="100"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="3000"/>
+		<attribute key="healthGain" value="800"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
 	<item id="10689" name="Mummy Boots">
 		<attribute key="weight" value="2100"/>
-		<attribute key="armor" value="40"/>
-		<attribute key="speed" value="35"/>
-		<attribute key="manaGain" value="3000"/>
+		<attribute key="armor" value="17"/>
+		<attribute key="speed" value="15"/>
+		<attribute key="manaGain" value="100"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="3000"/>
+		<attribute key="healthGain" value="800"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
@@ -22380,19 +22357,19 @@
 	<!-- Kyoraku -->
 	<item id="10677" name="Kyoraku Helmet">
 		<attribute key="weight" value="1000"/>
-		<attribute key="armor" value="35"/>
-		<attribute key="manaGain" value="2400"/>
+		<attribute key="armor" value="25"/>
+		<attribute key="manaGain" value="300"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="2400"/>
+		<attribute key="healthGain" value="900"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="10661" name="Kyoraku Armor">
 		<attribute key="weight" value="3000"/>
-		<attribute key="armor" value="35"/>
-		<attribute key="manaGain" value="2400"/>
+		<attribute key="armor" value="25"/>
+		<attribute key="manaGain" value="300"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="2400"/>
+		<attribute key="healthGain" value="900"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
@@ -22401,18 +22378,18 @@
 	<item id="15222" name="Blank Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="25"/>
-		<attribute key="manaGain" value="2300"/>
+		<attribute key="manaGain" value="250"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="2300"/>
+		<attribute key="healthGain" value="800"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
 	<item id="15229" name="Blank Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="25"/>
-		<attribute key="manaGain" value="2300"/>
+		<attribute key="manaGain" value="250"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="2300"/>
+		<attribute key="healthGain" value="800"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
@@ -22493,8 +22470,6 @@
 	<item id="16136" name="Shinigami Armor">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="5"/>
-		<attribute key="manaGain" value="200"/>
-		<attribute key="manaTicks" value="1000"/>
 		<attribute key="healthGain" value="200"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
@@ -22502,8 +22477,6 @@
 	<item id="16135" name="Shinigami Legs">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="5"/>
-		<attribute key="manaGain" value="200"/>
-		<attribute key="manaTicks" value="1000"/>
 		<attribute key="healthGain" value="200"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="Legs"/>
@@ -22511,8 +22484,6 @@
 	<item id="16137" name="Shinigami Boots">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="5"/>
-		<attribute key="manaGain" value="200"/>
-		<attribute key="manaTicks" value="1000"/>
 		<attribute key="healthGain" value="200"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="Feet"/>
