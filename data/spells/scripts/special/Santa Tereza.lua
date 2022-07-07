@@ -2,7 +2,6 @@ local spell = {
 	cooldown = 10,
 	effect_on_cast = 90,
 	loops = 10,
-	outfit = 453,
 	loop_effect = 40,
 }
 
