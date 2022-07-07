@@ -8,7 +8,7 @@ function onCreatureDisappear(cid) npcHandler:onCreatureDisappear(cid) end
 
 function onCreatureSay(cid, type, msg) npcHandler:onCreatureSay(cid, type, msg) end
 
-function onThink() npcHandler:onThink() end
+function onThink() npcHandler:onThinkCreatureSay() end
 
 function onPlayerEndTrade(cid) npcHandler:onPlayerEndTrade(cid) end
 
