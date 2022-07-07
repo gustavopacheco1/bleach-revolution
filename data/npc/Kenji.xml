@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<npc name="Kenji" script="kenji.lua" walkinterval="0">
+<npc name="Kenji" script="data/npc/scripts/vendors/kenji.lua" walkinterval="0">
 	<health now="100" max="100"/>
 	<look type="233"/>
 </npc>
