@@ -51,10 +51,10 @@
 	<instant name="Muted" words="Muted" lvl="450" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" exhaustedGroup="special" needlearn="1" event="script" value="special/muted.lua">
 		<vocation id="17"/> <!-- Urahara Kisuke -->
 	</instant>
-	<instant name="starrk special 1" words="starrk special 1" lvl="400" mana="1000" prem="0" aggressive="1" exhaustion="2000" exhaustedGroup="special" needlearn="1" event="script" value="special/starrk-special-1.lua">
+	<instant name="Los Lobos" words="Los Lobos" lvl="400" mana="1000" prem="0" aggressive="1" exhaustion="2000" exhaustedGroup="special" needlearn="1" event="script" value="special/Los Lobos.lua">
 		<vocation id="20"/> <!-- Coyote Starrk -->
 	</instant>
-	<instant name="nnoitra special 1" words="nnoitra special 1" lvl="400" mana="1000" prem="0" aggressive="1" exhaustion="2000" exhaustedGroup="special" needlearn="1" event="script" value="special/nnoitra-special-1.lua">
+	<instant name="Santa Tereza" words="Santa Tereza" lvl="400" mana="1000" prem="0" aggressive="1" exhaustion="2000" exhaustedGroup="special" needlearn="1" event="script" value="special/Santa Tereza.lua">
 		<vocation id="21"/> <!-- Nnoitra Gilga -->
 	</instant>
 
@@ -65,7 +65,7 @@
 	<instant name="Nozarashi" words="Nozarashi" lvl="400" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" exhaustedGroup="special" needlearn="1" event="script" value="special/reflect/soo_zabimaru.lua">
 		<vocation id="7"/> <!-- Zaraki Kenpachi -->
 	</instant>
-	<instant name="ikkaku special 2" words="ikkaku special 2" lvl="450" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" exhaustedGroup="special" needlearn="1" event="script" value="special/reflect/ikkaku-special-2.lua">
+	<instant name="Resistencia aprimorada" words="Resistencia aprimorada" lvl="450" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" exhaustedGroup="special" needlearn="1" event="script" value="special/reflect/Resistencia aprimorada.lua">
 		<vocation id="19"/> <!-- Ikkaku Madarame -->
 	</instant>
 
@@ -163,13 +163,13 @@
 	<instant name="Fullbringer" words="Fullbringer" aggressive="0" prem="0" selftarget="1" lvl="400" mana="1000" exhaustion="1000" exhaustedGroup="special" needlearn="1" event="script" value="special/buffs/Fullbringer.lua">
 		<vocation id="15"/> <!-- Kuugo Ginjou -->
 	</instant>
-	<instant name="starrk special 2" words="starrk special 2" lvl="450" mana="1000" prem="0" aggressive="0" exhaustion="2000" exhaustedGroup="special" needlearn="1" event="script" value="special/buffs/starrk-special-2.lua">
+	<instant name="Lilynette" words="Lilynette" lvl="450" mana="1000" prem="0" aggressive="0" exhaustion="2000" exhaustedGroup="special" needlearn="1" event="script" value="special/buffs/Lilynette.lua">
 		<vocation id="20"/> <!-- Coyote Starrk -->
 	</instant>
-	<instant name="ikkaku special 1" words="ikkaku special 1" lvl="450" mana="1000" prem="0" aggressive="0" exhaustion="2000" exhaustedGroup="special" needlearn="1" event="script" value="special/buffs/ikkaku-special-1.lua">
+	<instant name="Ryumon Hozukimaru" words="Ryumon Hozukimaru" lvl="450" mana="1000" prem="0" aggressive="0" exhaustion="2000" exhaustedGroup="special" needlearn="1" event="script" value="special/buffs/Ryumon Hozukimaru.lua">
 		<vocation id="19"/> <!-- Ikkaku Madarame -->
 	</instant>
-	<instant name="grimmjow special 1" words="grimmjow special 1" lvl="400" mana="1000" prem="0" aggressive="0" exhaustion="2000" exhaustedGroup="special" needlearn="1" event="script" value="special/buffs/grimmjow-special-1.lua">
+	<instant name="Dechire Pantera" words="Dechire Pantera" lvl="400" mana="1000" prem="0" aggressive="0" exhaustion="2000" exhaustedGroup="special" needlearn="1" event="script" value="special/buffs/Dechire Pantera.lua">
 		<vocation id="18"/> <!-- Grimmjow Jaegerjaquez -->
 	</instant>
 
