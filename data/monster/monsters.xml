@@ -39,7 +39,7 @@
 	<monster name="Legendary Grand Fisher" file="hunt/Legendary Grand Fisher.xml"/>
 	<monster name="Mugetsu Especial" file="hunt/Mugetsu Especial.xml"/>
 	<monster name="Nnoitra Two" file="hunt/Nnoitra Two.xml"/>
-	<monster name="Nnoitra Boss" file="hunt/Nnoitra Boss.xml"/>
+	<monster name="Legendary Nnoitra" file="hunt/Legendary Nnoitra.xml"/>
 	<monster name="Vizard Legendary" file="hunt/Vizard Legendary.xml"/>
 	<monster name="Vizard One Boss" file="hunt/Vizard One Boss.xml"/>
 	<monster name="Vizard Two Boss" file="hunt/Vizard Two Boss.xml"/>
@@ -78,6 +78,13 @@
 	<monster name="Menos" file="hunt/Menos.xml"/>
 	<monster name="Legendary menos" file="hunt/Legendary Menos.xml"/>
 	<monster name="Rat" file="hunt/Rat.xml"/>
+	<monster name="Legendary Kaname" file="hunt/Legendary Kaname.xml"/>
+	<monster name="Legendary Kyoraku" file="hunt/Legendary Kyoraku.xml"/>
+	<monster name="Legendary Blank" file="hunt/Legendary Blank.xml"/>
+	<monster name="Soldier Barragan" file="hunt/Soldier Barragan.xml"/>
+	<monster name="Aaroniero" file="hunt/Aaroniero.xml"/>
+	<monster name="Yammany" file="hunt/Yammany.xml"/>
+	<monster name="Soldier Watcher" file="hunt/Soldier Watcher.xml"/>
 
 	<!-- Clones -->
 	<monster name="Rukia Clone" file="clones/Rukia Clone.xml"/>
