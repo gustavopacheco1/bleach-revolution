@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <monster name="Legendary Grand Fisher" nameDescription="Legendary Grand Fisher" race="blood" experience="0" speed="400" manacost="0">
-    <health now="100000000" max="100000000" />
+    <health now="1000000" max="1000000" />
     <look type="11" corpse="5527" />
     <targetchange interval="5000" chance="8" />
     <strategy attack="100" defense="0" />
@@ -18,7 +18,7 @@
         <flag runonhealth="0" />
     </flags>
     <attacks>
-        <attack name="melee" interval="2000" min="-50000" max="-55000" />
+        <attack name="melee" interval="2000" min="-20000" max="-20000" />
     </attacks>
     <defenses armor="0" defense="0" />
     <immunities>
