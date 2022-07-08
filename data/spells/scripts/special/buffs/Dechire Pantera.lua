@@ -2,7 +2,8 @@ local spell = {
 	cooldown = 50,
 	duration = 30,
 	effect = 462,
-	energy_damage = 50 -- Porcentagem de quanto o dano das spells vai aumentar
+	energy_damage = 50, -- Porcentagem de quanto o dano das spells vai aumentar
+	outfit = 408
 }
 
 function onCastSpell(cid, var)
@@ -32,6 +33,7 @@ function onCastSpell(cid, var)
 		end
 	end, spell.duration * 1000)
 
+	doSetCreatureOutfit(cid, { lookType = spell.outfit }, spell.duration * 1000)
 	exhaustion.set(cid, "special", spell.cooldown)
 	return true
 end

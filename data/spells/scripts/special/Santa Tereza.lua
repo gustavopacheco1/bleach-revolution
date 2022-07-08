@@ -3,6 +3,7 @@ local spell = {
 	effect_on_cast = 90,
 	loops = 10,
 	loop_effect = 40,
+	outfit = 453
 }
 
 function onCastSpell(cid, var)
@@ -29,6 +30,7 @@ function onCastSpell(cid, var)
 		end, i * 1000)
 	end
 
+	doSetCreatureOutfit(cid, { lookType = spell.outfit }, spell.duration * 1000)
 	doSendMagicEffect(getCreaturePosition(target), spell.effect_on_cast)
 	exhaustion.set(cid, "special", spell.cooldown)
 	return true

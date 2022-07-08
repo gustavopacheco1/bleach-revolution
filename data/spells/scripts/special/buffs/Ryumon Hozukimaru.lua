@@ -1,7 +1,8 @@
 local spell = {
 	cooldown = 50,
 	duration = 30,
-	effect = 462
+	effect = 462,
+	outfit = 438
 }
 
 local combat = createCombatObject()
@@ -27,6 +28,7 @@ function onCastSpell(cid, var)
 	}, spell.effect)
 
 	exhaustion.set(cid, "special", spell.cooldown)
+	doSetCreatureOutfit(cid, { lookType = spell.outfit }, spell.duration * 1000)
 	doCombat(cid, combat, var)
 	return true
 end
