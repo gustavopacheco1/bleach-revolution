@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Monster Level: 175 -->
+<!-- Monster Level: 100 -->
 <monster name="Fishbone D" nameDescription="Fishbone D" race="blood" experience="19000" speed="500" manacost="0">
     <health now="40000" max="40000" />
     <look type="33" corpse="5527" />
@@ -19,7 +19,7 @@
         <flag runonhealth="0" />
     </flags>
     <attacks>
-        <attack name="melee" interval="2000" min="-4000" max="-4100" />
+        <attack name="melee" interval="2000" min="-3500" max="-3700" />
     </attacks>
     <defenses armor="0" defense="0" />
     <immunities>
@@ -36,7 +36,7 @@
         <event name="YamamotoTask" />
     </script>
 	<loot>
-        <item id="2152" chance="13000" count="20" countmax="30"/>
+        <item id="2148" chance="1000" count="1" countmax="5"/>
 		<item id="15104" chance="10000" count="1" countmax="1"/>
     </loot>
 </monster>

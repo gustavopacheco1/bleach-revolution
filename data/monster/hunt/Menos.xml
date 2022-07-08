@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Monster Level: 430 -->
-<monster name="Menos" nameDescription="Menos" race="blood" experience="3500" speed="600" manacost="0">
+<!-- Monster Level: 230 -->
+<monster name="Menos" nameDescription="Menos" race="blood" experience="0" speed="600" manacost="0">
     <health now="55000" max="55000" />
     <look type="341" corpse="5527" />
     <targetchange interval="5000" chance="8" />
@@ -19,7 +19,7 @@
         <flag runonhealth="0" />
     </flags>
     <attacks>
-        <attack name="melee" interval="2000" min="-45100" max="-45500" />
+        <attack name="melee" interval="2000" min="-13100" max="-13500" />
     </attacks>
     <defenses armor="0" defense="0" />
     <immunities>
@@ -33,10 +33,10 @@
         <immunity invisible="0" />
     </immunities>
 	<loot>
-        <item id="2160" chance="15000" count="2" countmax="3"/>
-		<item id="10624" chance="3000" count="1" countmax="1"/>
-		<item id="10625" chance="2500" count="1" countmax="1"/>
-		<item id="10626" chance="2000" count="1" countmax="1"/>
-		<item id="10627" chance="1000" count="1" countmax="1"/>
+        <item id="2152" chance="2000" count="1" countmax="2"/>
+		<item id="10624" chance="500" count="1" countmax="1"/>
+		<item id="10625" chance="500" count="1" countmax="1"/>
+		<item id="10626" chance="500" count="1" countmax="1"/>
+		<item id="10627" chance="500" count="1" countmax="1"/>
     </loot>
 </monster>

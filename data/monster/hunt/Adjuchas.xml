@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Monster Level: 450 -->
+<!-- Monster Level: 250 -->
 <monster name="Adjuchas" nameDescription="Adjuchas" race="blood" experience="45000" speed="600" manacost="0">
     <health now="65000" max="65000" />
     <look type="273" corpse="5527" />
@@ -19,7 +19,7 @@
         <flag runonhealth="0" />
     </flags>
     <attacks>
-        <attack name="melee" interval="2000" min="-50100" max="-50500" />
+        <attack name="melee" interval="2000" min="-15100" max="-15500" />
     </attacks>
     <defenses armor="0" defense="0" />
     <immunities>
@@ -36,6 +36,6 @@
         <event name="YamamotoTask" />
     </script>
 	<loot>
-        <item id="2160" chance="15000" count="5" countmax="6"/>
+        <item id="2152" chance="2000" count="1" countmax="2"/>
     </loot>
 </monster>

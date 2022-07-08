@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Monster Level: 100 -->
+<!-- Monster Level: 70 -->
 <monster name="Mini Fisher" nameDescription="Mini Fisher" race="blood" experience="16000" speed="400" manacost="0">
     <health now="30000" max="30000" />
     <look type="13" corpse="5527" />
@@ -19,7 +19,7 @@
         <flag runonhealth="0" />
     </flags>
     <attacks>
-        <attack name="melee" interval="2000" min="-15000" max="-15100" />
+        <attack name="melee" interval="2000" min="-2500" max="-2900" />
     </attacks>
     <defenses armor="0" defense="0" />
     <immunities>
@@ -36,6 +36,6 @@
         <event name="YamamotoTask" />
     </script>
 	<loot>
-        <item id="2152" chance="10000" count="20" countmax="40"/>
+        <item id="2148" chance="1000" count="1" countmax="4"/>
     </loot>
 </monster>

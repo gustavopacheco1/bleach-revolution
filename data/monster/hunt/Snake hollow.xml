@@ -19,7 +19,7 @@
         <flag runonhealth="0" />
     </flags>
     <attacks>
-        <attack name="melee" interval="2000" min="-100" max="-120" />
+        <attack name="melee" interval="2000" min="-500" max="-900" />
     </attacks>
     <defenses armor="0" defense="0" />
     <immunities>
@@ -36,6 +36,6 @@
         <event name="YamamotoTask" />
     </script>
 	<loot>
-        <item id="2148" chance="15000" count="5" countmax="10"/>
+        <item id="2148" chance="500" count="1" countmax="1"/>
     </loot>
 </monster>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Monster Level: 400 -->
+<!-- Monster Level: 200 -->
 <monster name="Arrancar Hollow" nameDescription="Arrancar Hollow" race="blood" experience="35000" speed="600" manacost="0">
     <health now="50000" max="50000" />
     <look type="31" corpse="5527" />
@@ -19,7 +19,7 @@
         <flag runonhealth="0" />
     </flags>
     <attacks>
-        <attack name="melee" interval="2000" min="-55000" max="-55100" />
+        <attack name="melee" interval="2000" min="-12100" max="-12500" />
     </attacks>
     <defenses armor="0" defense="0" />
     <immunities>
@@ -36,6 +36,6 @@
         <event name="YamamotoTask" />
     </script>
 	<loot>
-        <item id="2160" chance="15000" count="3" countmax="4"/>
+        <item id="2152" chance="2000" count="1" countmax="2"/>
     </loot>
 </monster>

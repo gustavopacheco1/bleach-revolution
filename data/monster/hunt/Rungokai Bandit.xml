@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Monster Level: 1 -->
+<!-- Monster Level: 30 -->
 <monster name="Rungokai Bandit" nameDescription="Rungokai Bandit" race="blood" experience="4000" speed="100" manacost="0">
     <health now="1500" max="1500" />
     <look type="338" corpse="5527" />
@@ -19,7 +19,7 @@
         <flag runonhealth="0" />
     </flags>
     <attacks>
-        <attack name="melee" interval="2000" min="-130" max="-135" />
+        <attack name="melee" interval="2000" min="-1500" max="-1900" />
     </attacks>
     <defenses armor="0" defense="0" />
     <immunities>
@@ -33,6 +33,6 @@
         <immunity invisible="0" />
     </immunities>
 	<loot>
-        <item id="2152" chance="15000" count="15" countmax="19"/>
+        <item id="2148" chance="500" count="1" countmax="2"/>
     </loot>
 </monster>
