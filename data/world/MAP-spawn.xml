@@ -5554,14 +5554,13 @@
 		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3985" centery="2633" centerz="6" radius="1">
-		<monster name="Hollow Grande" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Hollow Grande" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Hollow Grande" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3993" centery="2633" centerz="6" radius="1">
-		<monster name="Hollow Grande" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Hollow Grande" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Hollow Grande" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="6" spawntime="60" />
+		<monster name="Barragan Soldier" x="1" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3910" centery="2634" centerz="6" radius="1">
 		<monster name="Incomplete Arrancar" x="-1" y="-1" z="6" spawntime="60" />
@@ -8716,8 +8715,8 @@
 	<spawn centerx="4069" centery="3519" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3690" centery="3523" centerz="6" radius="1">
-		<monster name="Legendary Kyoraku" x="0" y="0" z="6" spawntime="60" />
+	<spawn centerx="3686" centery="3521" centerz="6" radius="1">
+		<monster name="Legendary Kyoraku" x="1" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4042" centery="3523" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
@@ -11282,7 +11281,8 @@
 		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3900" centery="2568" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3893" centery="2569" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
@@ -11291,7 +11291,8 @@
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3909" centery="2583" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3965" centery="2583" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
@@ -11300,10 +11301,12 @@
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3999" centery="2584" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3972" centery="2585" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3994" centery="2585" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
@@ -11315,7 +11318,8 @@
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3895" centery="2588" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3939" centery="2590" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
@@ -11339,7 +11343,8 @@
 		<monster name="Espada" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4015" centery="2591" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3926" centery="2592" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="-1" z="7" spawntime="60" />
@@ -11348,7 +11353,7 @@
 		<monster name="Espada" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3955" centery="2592" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3966" centery="2592" centerz="7" radius="1">
 		<monster name="Espada" x="1" y="-1" z="7" spawntime="60" />
@@ -11393,7 +11398,8 @@
 		<monster name="Espada" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4053" centery="2597" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3971" centery="2598" centerz="7" radius="1">
 		<monster name="Espada" x="-1" y="-1" z="7" spawntime="60" />
@@ -11420,7 +11426,8 @@
 		<monster name="Espada" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4036" centery="2600" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4015" centery="2601" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
@@ -11438,7 +11445,8 @@
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3892" centery="2606" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3912" centery="2606" centerz="7" radius="1">
 		<monster name="Espada" x="-1" y="-1" z="7" spawntime="60" />
@@ -11460,7 +11468,8 @@
 		<monster name="Espada" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3944" centery="2608" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3964" centery="2608" centerz="7" radius="1">
 		<monster name="Espada" x="-1" y="-1" z="7" spawntime="60" />
@@ -11470,7 +11479,8 @@
 		<monster name="Espada" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4077" centery="2608" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3889" centery="2611" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
@@ -11482,10 +11492,12 @@
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4049" centery="2612" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3968" centery="2613" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4034" centery="2613" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
@@ -11515,7 +11527,8 @@
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3943" centery="2617" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3991" centery="2617" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
@@ -11533,7 +11546,8 @@
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4064" centery="2620" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3893" centery="2621" centerz="7" radius="1">
 		<monster name="Incomplete Arrancar" x="1" y="-1" z="7" spawntime="60" />
@@ -11557,7 +11571,8 @@
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3881" centery="2625" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4026" centery="2626" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
@@ -11580,7 +11595,8 @@
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4053" centery="2628" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3942" centery="2629" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
@@ -11597,7 +11613,8 @@
 		<monster name="Incomplete Arrancar" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3952" centery="2632" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4072" centery="2632" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
@@ -11606,7 +11623,8 @@
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3990" centery="2634" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4047" centery="2634" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
@@ -11620,7 +11638,8 @@
 		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3933" centery="2637" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3892" centery="2638" centerz="7" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="-1" z="7" spawntime="60" />
@@ -11636,7 +11655,8 @@
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4036" centery="2638" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4025" centery="2639" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
@@ -11651,10 +11671,12 @@
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4054" centery="2641" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4082" centery="2641" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3884" centery="2642" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
@@ -11678,7 +11700,8 @@
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3982" centery="2646" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3998" centery="2646" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
@@ -11702,10 +11725,12 @@
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3882" centery="2650" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4002" centery="2650" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4033" centery="2650" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
@@ -11730,7 +11755,8 @@
 		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4041" centery="2654" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3915" centery="2655" centerz="7" radius="1">
 		<monster name="Incomplete Arrancar" x="1" y="-1" z="7" spawntime="60" />
@@ -11742,13 +11768,16 @@
 		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3937" centery="2657" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4065" centery="2657" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3961" centery="2658" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3579" centery="2659" centerz="7" radius="1">
 		<monster name="Grown Hollow" x="-1" y="-1" z="7" spawntime="60" />
@@ -11760,7 +11789,8 @@
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3990" centery="2659" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4006" centery="2660" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
@@ -11793,7 +11823,8 @@
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4035" centery="2664" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3433" centery="2666" centerz="7" radius="1">
 		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="60" />
@@ -11826,10 +11857,12 @@
 		<monster name="Adjuchas" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3944" centery="2666" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4081" centery="2666" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3451" centery="2667" centerz="7" radius="1">
 		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="60" />
@@ -11862,16 +11895,19 @@
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3884" centery="2668" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3918" centery="2668" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3896" centery="2669" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3907" centery="2669" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3966" centery="2669" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
@@ -11882,7 +11918,8 @@
 		<monster name="Adjuchas" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3929" centery="2671" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4046" centery="2671" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
@@ -11896,10 +11933,12 @@
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4003" centery="2672" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4025" centery="2672" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4066" centery="2672" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
@@ -11926,7 +11965,8 @@
 		<monster name="Grown Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3960" centery="2674" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3565" centery="2675" centerz="7" radius="1">
 		<monster name="Grown Hollow" x="-1" y="-1" z="7" spawntime="60" />
@@ -11941,7 +11981,8 @@
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4054" centery="2675" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4029" centery="2676" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
@@ -12019,7 +12060,8 @@
 		<monster name="Adjuchas" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4001" centery="2679" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3426" centery="2680" centerz="7" radius="1">
 		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="60" />
@@ -12035,10 +12077,12 @@
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3949" centery="2680" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3980" centery="2680" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3599" centery="2681" centerz="7" radius="1">
 		<monster name="Grown Hollow" x="-1" y="-1" z="7" spawntime="60" />
@@ -12065,7 +12109,8 @@
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4078" centery="2682" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3341" centery="2683" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -12105,7 +12150,7 @@
 		<monster name="Adjuchas" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3901" centery="2685" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3477" centery="2686" centerz="7" radius="1">
 		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="60" />
@@ -12120,7 +12165,7 @@
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3890" centery="2688" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4027" centery="2688" centerz="7" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
@@ -12172,7 +12217,8 @@
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3922" centery="2690" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3398" centery="2691" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="1" y="-1" z="7" spawntime="60" />
@@ -12200,10 +12246,12 @@
 		<monster name="Arrancar Hollow" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3967" centery="2693" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3991" centery="2693" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4048" centery="2693" centerz="7" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
@@ -12298,10 +12346,12 @@
 		<monster name="Arrancar Hollow" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3941" centery="2697" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4012" centery="2697" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3951" centery="2698" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
@@ -12374,7 +12424,8 @@
 		<monster name="Incomplete Arrancar" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3902" centery="2703" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3908" centery="2703" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
@@ -12393,7 +12444,8 @@
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3959" centery="2704" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3916" centery="2705" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
@@ -12505,7 +12557,8 @@
 		<monster name="Incomplete Arrancar" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3935" centery="2713" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3306" centery="2714" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="1" y="-1" z="7" spawntime="60" />
@@ -12516,7 +12569,8 @@
 		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3989" centery="2714" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3878" centery="2715" centerz="7" radius="1">
 		<monster name="Espada" x="-1" y="-1" z="7" spawntime="60" />
@@ -12525,7 +12579,8 @@
 		<monster name="Espada" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3951" centery="2715" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3817" centery="2717" centerz="7" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
@@ -12551,7 +12606,8 @@
 		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3973" centery="2719" centerz="7" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3832" centery="2720" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
@@ -18976,7 +19032,7 @@
 		<monster name="Mummy" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3730" centery="3928" centerz="7" radius="1">
-		<monster name="Mummy" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Mummy" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3744" centery="3928" centerz="7" radius="1">
 		<monster name="Mummy" x="-1" y="0" z="7" spawntime="60" />
@@ -22531,6 +22587,12 @@
 		<monster name="Grand Fisher Lv 2" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4382" centery="3637" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="5242" centery="3637" centerz="8" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -22558,6 +22620,12 @@
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4395" centery="3638" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="5221" centery="3639" centerz="8" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -22568,7 +22636,16 @@
 		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4367" centery="3641" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4414" centery="3641" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="5196" centery="3641" centerz="8" radius="1">
 		<monster name="Vizard Two Boss" x="0" y="0" z="8" spawntime="60" />
@@ -22633,8 +22710,23 @@
 	<spawn centerx="5424" centery="3645" centerz="8" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4388" centery="3646" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="4353" centery="3647" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4434" centery="3647" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3840" centery="3649" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
@@ -22643,6 +22735,12 @@
 		<monster name="Grand Fisher Lv 2" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4377" centery="3652" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3784" centery="3653" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
@@ -22694,6 +22792,13 @@
 	<spawn centerx="4257" centery="3656" centerz="8" radius="1">
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4440" centery="3656" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3620" centery="3657" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -22706,13 +22811,22 @@
 		<monster name="Grand Fisher Lv 2" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4344" centery="3657" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4237" centery="3658" centerz="8" radius="1">
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4229" centery="3659" centerz="8" radius="1">
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4429" centery="3659" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3610" centery="3660" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
@@ -22722,6 +22836,20 @@
 	</spawn>
 	<spawn centerx="3856" centery="3660" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4335" centery="3660" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4367" centery="3660" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4108" centery="3661" centerz="8" radius="1">
 		<monster name="Grand Fisher Lv 2" x="-1" y="-1" z="8" spawntime="60" />
@@ -22743,6 +22871,13 @@
 	<spawn centerx="3617" centery="3664" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4324" centery="3664" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="5311" centery="3664" centerz="8" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -22758,8 +22893,27 @@
 	<spawn centerx="4213" centery="3666" centerz="8" radius="1">
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4404" centery="3666" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="5439" centery="3667" centerz="8" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4375" centery="3668" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4419" centery="3668" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4457" centery="3669" centerz="8" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
@@ -22771,7 +22925,16 @@
 		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4350" centery="3670" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4391" centery="3670" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4470" centery="3670" centerz="8" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
@@ -22800,8 +22963,21 @@
 	<spawn centerx="3814" centery="3673" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4317" centery="3674" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="4207" centery="3675" centerz="8" radius="1">
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4415" centery="3675" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3648" centery="3676" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
@@ -22848,7 +23024,8 @@
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4356" centery="3680" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="5331" centery="3680" centerz="8" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
@@ -22863,6 +23040,13 @@
 		<monster name="Fraccion" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Fraccion" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4323" centery="3682" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3626" centery="3683" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -22873,13 +23057,15 @@
 		<monster name="Fraccion" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4394" centery="3683" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3633" centery="3684" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4408" centery="3684" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3603" centery="3685" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
@@ -22941,11 +23127,18 @@
 	<spawn centerx="3674" centery="3689" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4330" centery="3689" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="5328" centery="3689" centerz="8" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4361" centery="3690" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4240" centery="3691" centerz="8" radius="1">
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
@@ -22954,7 +23147,8 @@
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4388" centery="3692" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3514" centery="3693" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -22972,7 +23166,9 @@
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4412" centery="3693" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="5320" centery="3693" centerz="8" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
@@ -22987,7 +23183,9 @@
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4401" centery="3695" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4455" centery="3695" centerz="8" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
@@ -23011,6 +23209,12 @@
 	</spawn>
 	<spawn centerx="3522" centery="3697" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4327" centery="3697" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="5295" centery="3697" centerz="8" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
@@ -23040,16 +23244,24 @@
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4363" centery="3701" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4377" centery="3701" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3417" centery="3702" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3514" centery="3702" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4395" centery="3702" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="5277" centery="3702" centerz="8" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
@@ -23093,6 +23305,12 @@
 	<spawn centerx="4178" centery="3706" centerz="8" radius="1">
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4331" centery="3706" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="5237" centery="3706" centerz="8" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -23114,7 +23332,9 @@
 		<monster name="Grand Fisher Lv 2" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4406" centery="3708" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="5266" centery="3708" centerz="8" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
@@ -23138,7 +23358,9 @@
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4355" centery="3710" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3526" centery="3711" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -23165,7 +23387,9 @@
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4342" centery="3714" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4111" centery="3715" centerz="8" radius="1">
 		<monster name="Grand Fisher Lv 2" x="-1" y="-1" z="8" spawntime="60" />
@@ -23216,7 +23440,9 @@
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4330" centery="3715" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3342" centery="3716" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -23249,7 +23475,21 @@
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4364" centery="3718" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4409" centery="3718" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4447" centery="3719" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4474" centery="3719" centerz="8" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
@@ -23287,6 +23527,18 @@
 	<spawn centerx="3684" centery="3726" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4330" centery="3726" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4433" centery="3726" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3390" centery="3727" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -23294,10 +23546,18 @@
 		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4367" centery="3727" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3619" centery="3728" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4422" centery="3728" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3450" centery="3729" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -23345,7 +23605,15 @@
 		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4399" centery="3736" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4325" centery="3737" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4181" centery="3738" centerz="8" radius="1">
 		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="8" spawntime="60" />
@@ -23353,8 +23621,20 @@
 	<spawn centerx="4281" centery="3738" centerz="8" radius="1">
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4422" centery="3738" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3455" centery="3739" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4340" centery="3739" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3407" centery="3740" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -23384,7 +23664,9 @@
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4371" centery="3743" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3317" centery="3744" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -23394,6 +23676,13 @@
 	</spawn>
 	<spawn centerx="3647" centery="3744" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4349" centery="3745" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3307" centery="3746" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -23419,8 +23708,16 @@
 	<spawn centerx="4240" centery="3747" centerz="8" radius="1">
 		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4362" centery="3747" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="4395" centery="3747" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3403" centery="3748" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -23428,8 +23725,20 @@
 	<spawn centerx="4280" centery="3748" centerz="8" radius="1">
 		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4413" centery="3748" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3311" centery="3749" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4405" centery="3749" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3358" centery="3750" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -23449,11 +23758,19 @@
 	<spawn centerx="3546" centery="3754" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4423" centery="3754" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3408" centery="3755" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4380" centery="3755" centerz="8" radius="1">
-		<monster name="Quincy" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3399" centery="3756" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -23485,6 +23802,18 @@
 	<spawn centerx="4260" centery="3760" centerz="8" radius="1">
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4386" centery="3760" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4433" centery="3760" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3313" centery="3761" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -23512,6 +23841,12 @@
 	<spawn centerx="3770" centery="3767" centerz="8" radius="1">
 		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4414" centery="3768" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3539" centery="3769" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -23520,6 +23855,12 @@
 	</spawn>
 	<spawn centerx="3830" centery="3771" centerz="8" radius="1">
 		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4389" centery="3771" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3320" centery="3772" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -23532,6 +23873,18 @@
 	</spawn>
 	<spawn centerx="3764" centery="3774" centerz="8" radius="1">
 		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4423" centery="3774" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4440" centery="3774" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3717" centery="3775" centerz="8" radius="1">
 		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
@@ -23548,11 +23901,23 @@
 	<spawn centerx="3532" centery="3777" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="4382" centery="3777" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3793" centery="3778" centerz="8" radius="1">
 		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3549" centery="3779" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4393" centery="3781" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3761" centery="3782" centerz="8" radius="1">
 		<monster name="Ryu" x="0" y="0" z="8" spawntime="60" />
@@ -23583,6 +23948,12 @@
 	</spawn>
 	<spawn centerx="3510" centery="3785" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4406" centery="3785" centerz="8" radius="1">
+		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3350" centery="3786" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
