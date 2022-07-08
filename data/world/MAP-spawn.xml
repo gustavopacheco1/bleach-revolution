@@ -25624,8 +25624,8 @@
 	<spawn centerx="3523" centery="3919" centerz="9" radius="1">
 		<monster name="Gilliam" x="0" y="1" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="4239" centery="3988" centerz="9" radius="1">
-		<monster name="Nnoitra Boss" x="0" y="0" z="9" spawntime="60" />
+	<spawn centerx="4238" centery="3988" centerz="9" radius="1">
+		<monster name="Legendary Nnoitra" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3461" centery="4085" centerz="9" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="9" spawntime="60" />
