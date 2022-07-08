@@ -4110,20 +4110,8 @@
 		<monster name="Fishbone D" x="0" y="-1" z="5" spawntime="60" />
 		<monster name="Fishbone D" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="4253" centery="3621" centerz="5" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4248" centery="3622" centerz="5" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="3620" centery="3623" centerz="5" radius="1">
 		<monster name="Fishbone D" x="1" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4243" centery="3623" centerz="5" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4258" centery="3623" centerz="5" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3626" centery="3624" centerz="5" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="5" spawntime="60" />
@@ -4132,12 +4120,6 @@
 	<spawn centerx="3633" centery="3624" centerz="5" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
 		<monster name="Fishbone D" x="-1" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4240" centery="3627" centerz="5" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4262" centery="3627" centerz="5" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3618" centery="3628" centerz="5" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="5" spawntime="60" />
@@ -4161,12 +4143,6 @@
 		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
 		<monster name="Fishbone D" x="-1" y="1" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="4240" centery="3632" centerz="5" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4264" centery="3632" centerz="5" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="3621" centery="3633" centerz="5" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="5" spawntime="60" />
 		<monster name="Fishbone D" x="1" y="1" z="5" spawntime="60" />
@@ -4181,15 +4157,6 @@
 		<monster name="Elite Bandit" x="-1" y="1" z="5" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="4252" centery="3636" centerz="5" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4239" centery="3637" centerz="5" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4266" centery="3637" centerz="5" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="3612" centery="3638" centerz="5" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="5" spawntime="60" />
 		<monster name="Fishbone D" x="1" y="1" z="5" spawntime="60" />
@@ -4201,9 +4168,6 @@
 	<spawn centerx="3628" centery="3639" centerz="5" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="4250" centery="3641" centerz="5" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="3657" centery="3642" centerz="5" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="5" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="-1" z="5" spawntime="60" />
@@ -4211,40 +4175,16 @@
 		<monster name="Elite Bandit" x="-1" y="1" z="5" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="4239" centery="3642" centerz="5" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4265" centery="3643" centerz="5" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4249" centery="3645" centerz="5" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="3984" centery="3646" centerz="5" radius="1">
 		<monster name="Grand Fisher Lv 2" x="-1" y="-1" z="5" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="5" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="4261" centery="3646" centerz="5" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="4025" centery="3647" centerz="5" radius="1">
 		<monster name="Grand Fisher Lv 2" x="-1" y="-1" z="5" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="5" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4241" centery="3648" centerz="5" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4257" centery="3649" centerz="5" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4247" centery="3650" centerz="5" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4252" centery="3650" centerz="5" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="4015" centery="3652" centerz="5" radius="1">
 		<monster name="Grand Fisher Lv 2" x="-1" y="-1" z="5" spawntime="60" />
@@ -9003,12 +8943,6 @@
 		<monster name="Fraccion" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4243" centery="3613" centerz="6" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4253" centery="3613" centerz="6" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3618" centery="3614" centerz="6" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Fishbone D" x="1" y="1" z="6" spawntime="60" />
@@ -9017,9 +8951,6 @@
 		<monster name="Fraccion" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Fraccion" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4235" centery="3614" centerz="6" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3419" centery="3615" centerz="6" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
@@ -9031,9 +8962,6 @@
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="-1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4259" centery="3615" centerz="6" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3977" centery="3616" centerz="6" radius="1">
 		<monster name="Fraccion" x="-1" y="-1" z="6" spawntime="60" />
@@ -9063,9 +8991,6 @@
 		<monster name="Fraccion" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Fraccion" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4266" centery="3620" centerz="6" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3611" centery="3621" centerz="6" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
@@ -9098,15 +9023,9 @@
 		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4231" centery="3622" centerz="6" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="4005" centery="3623" centerz="6" radius="1">
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Fraccion" x="-1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4271" centery="3623" centerz="6" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3460" centery="3625" centerz="6" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
@@ -9169,9 +9088,6 @@
 		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Giant Snake" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4229" centery="3631" centerz="6" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3679" centery="3632" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
@@ -9195,9 +9111,6 @@
 	<spawn centerx="3634" centery="3634" centerz="6" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Fishbone D" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4273" centery="3634" centerz="6" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3620" centery="3635" centerz="6" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
@@ -9287,12 +9200,6 @@
 		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Giant Snake" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4273" centery="3642" centerz="6" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4230" centery="3643" centerz="6" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3668" centery="3644" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
@@ -9339,16 +9246,10 @@
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Fraccion" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4269" centery="3650" centerz="6" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="4096" centery="3652" centerz="6" radius="1">
 		<monster name="Fraccion" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Fraccion" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4232" centery="3653" centerz="6" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4082" centery="3655" centerz="6" radius="1">
 		<monster name="Fraccion" x="-1" y="-1" z="6" spawntime="60" />
@@ -9361,15 +9262,6 @@
 		<monster name="Fraccion" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4264" centery="3658" centerz="6" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4239" centery="3660" centerz="6" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4247" centery="3660" centerz="6" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3973" centery="3661" centerz="6" radius="1">
 		<monster name="Fraccion" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
@@ -9379,9 +9271,6 @@
 		<monster name="Fraccion" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Fraccion" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4254" centery="3661" centerz="6" radius="1">
-		<monster name="Jagdarmee" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3392" centery="3663" centerz="6" radius="1">
 		<monster name="Hollow Grande" x="1" y="-1" z="6" spawntime="60" />
