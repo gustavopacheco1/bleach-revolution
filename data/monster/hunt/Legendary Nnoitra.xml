@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Boss Drop Level: 475 -->
-<monster name="Nnoitra Boss" nameDescription="Nnoitra Boss" race="blood" experience="0" speed="800" manacost="0">
+<monster name="Legendary Nnoitra" nameDescription="Legendary Nnoitra" race="blood" experience="0" speed="800" manacost="0">
     <health now="2000000" max="2000000" />
     <look type="337" corpse="5527" />
     <targetchange interval="5000" chance="8" />
@@ -35,5 +35,9 @@
 	<loot>
         <item id="2160" chance="15000" count="20" countmax="25"/>
 		<item id="15744" chance="1000" count="1" countmax="1"/>
+		<item id="16093" chance="1000" count="1" countmax="1"/>
+		<item id="16094" chance="1000" count="1" countmax="1"/>
+		<item id="16095" chance="1000" count="1" countmax="1"/>
+		<item id="16096" chance="1000" count="1" countmax="1"/>
     </loot>
 </monster>
