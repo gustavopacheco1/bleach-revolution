@@ -8661,6 +8661,11 @@
 	<spawn centerx="4042" centery="3523" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2641" centery="3524" centerz="6" radius="1">
+		<monster name="Arrancar Hollow" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3781" centery="3525" centerz="6" radius="1">
 		<npc name="Minoru" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -8669,6 +8674,16 @@
 	</spawn>
 	<spawn centerx="4065" centery="3526" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2636" centery="3527" centerz="6" radius="1">
+		<monster name="Arrancar Hollow" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2653" centery="3529" centerz="6" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3499" centery="3529" centerz="6" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
@@ -8681,6 +8696,11 @@
 	</spawn>
 	<spawn centerx="4061" centery="3532" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2635" centery="3533" centerz="6" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3463" centery="3534" centerz="6" radius="1">
 		<monster name="Snake Hollow" x="1" y="-1" z="6" spawntime="60" />
@@ -15101,6 +15121,11 @@
 	</spawn>
 	<spawn centerx="3398" centery="3526" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2641" centery="3529" centerz="7" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3366" centery="3529" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -22197,6 +22222,12 @@
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2631" centery="3492" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3395" centery="3494" centerz="8" radius="1" />
 	<spawn centerx="4341" centery="3494" centerz="8" radius="1">
 		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
@@ -22238,6 +22269,11 @@
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2627" centery="3500" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3396" centery="3501" centerz="8" radius="1" />
 	<spawn centerx="3526" centery="3501" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
@@ -22261,6 +22297,12 @@
 	</spawn>
 	<spawn centerx="3558" centery="3508" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2619" centery="3509" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3462" centery="3509" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
@@ -22296,6 +22338,19 @@
 	<spawn centerx="3501" centery="3513" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2633" centery="3514" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2682" centery="3514" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3364" centery="3515" centerz="8" radius="1" />
 	<spawn centerx="3508" centery="3515" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
@@ -22318,6 +22373,13 @@
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2578" centery="3517" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3328" centery="3517" centerz="8" radius="1" />
 	<spawn centerx="3483" centery="3517" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
@@ -22328,12 +22390,25 @@
 	<spawn centerx="3500" centery="3518" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2758" centery="3519" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3339" centery="3519" centerz="8" radius="1" />
 	<spawn centerx="3553" centery="3519" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="5326" centery="3519" centerz="8" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2696" centery="3520" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3520" centery="3520" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
@@ -22363,11 +22438,23 @@
 	<spawn centerx="3557" centery="3526" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2651" centery="3527" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3526" centery="3527" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="5275" centery="3527" centerz="8" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2662" centery="3528" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3564" centery="3528" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
@@ -22381,9 +22468,34 @@
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2605" centery="3529" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2641" centery="3529" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2753" centery="3529" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3403" centery="3529" centerz="8" radius="1" />
 	<spawn centerx="3545" centery="3529" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2584" centery="3530" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3575" centery="3530" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
@@ -22394,6 +22506,12 @@
 	</spawn>
 	<spawn centerx="5324" centery="3531" centerz="8" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2713" centery="3532" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3571" centery="3532" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
@@ -22410,6 +22528,12 @@
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2692" centery="3533" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3527" centery="3533" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -22419,6 +22543,13 @@
 	<spawn centerx="4908" centery="3533" centerz="8" radius="1">
 		<monster name="Mugetsu Especial" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2622" centery="3534" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3399" centery="3534" centerz="8" radius="1" />
 	<spawn centerx="3578" centery="3534" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
@@ -22427,6 +22558,12 @@
 		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2675" centery="3535" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3513" centery="3535" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
@@ -22451,6 +22588,19 @@
 	</spawn>
 	<spawn centerx="5287" centery="3536" centerz="8" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2730" centery="3537" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2746" centery="3537" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3478" centery="3537" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
@@ -22523,6 +22673,12 @@
 	</spawn>
 	<spawn centerx="5298" centery="3544" centerz="8" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2636" centery="3545" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3302" centery="3545" centerz="8" radius="1" />
 	<spawn centerx="3322" centery="3545" centerz="8" radius="1" />
@@ -22601,6 +22757,12 @@
 		<monster name="Jagdarmee" x="-1" y="0" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2618" centery="3552" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3538" centery="3552" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -22635,6 +22797,13 @@
 		<monster name="Jagdarmee" x="0" y="1" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2728" centery="3556" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3535" centery="3556" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -22662,7 +22831,27 @@
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2553" centery="3558" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2576" centery="3558" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3282" centery="3558" centerz="8" radius="1" />
+	<spawn centerx="2755" centery="3559" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3556" centery="3559" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -22699,6 +22888,13 @@
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2595" centery="3563" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3391" centery="3564" centerz="8" radius="1" />
 	<spawn centerx="3512" centery="3564" centerz="8" radius="1">
 		<monster name="Rat" x="-1" y="-1" z="8" spawntime="60" />
@@ -22706,6 +22902,25 @@
 	</spawn>
 	<spawn centerx="5346" centery="3564" centerz="8" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2625" centery="3565" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2715" centery="3565" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2739" centery="3565" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3276" centery="3565" centerz="8" radius="1" />
 	<spawn centerx="3405" centery="3565" centerz="8" radius="1" />
@@ -22723,6 +22938,12 @@
 	</spawn>
 	<spawn centerx="5316" centery="3566" centerz="8" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2769" centery="3567" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3557" centery="3567" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
@@ -22774,6 +22995,13 @@
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2642" centery="3573" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3534" centery="3573" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -22781,6 +23009,12 @@
 		<monster name="Mugetsu Especial" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3275" centery="3574" centerz="8" radius="1" />
+	<spawn centerx="2703" centery="3575" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3529" centery="3575" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -22803,6 +23037,13 @@
 	<spawn centerx="4884" centery="3577" centerz="8" radius="1">
 		<monster name="Mugetsu Especial" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2610" centery="3578" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="4273" centery="3578" centerz="8" radius="1">
 		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="0" y="-1" z="8" spawntime="60" />
@@ -22812,7 +23053,21 @@
 	<spawn centerx="5324" centery="3579" centerz="8" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2771" centery="3580" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3283" centery="3580" centerz="8" radius="1" />
+	<spawn centerx="2754" centery="3581" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3406" centery="3581" centerz="8" radius="1" />
 	<spawn centerx="3332" centery="3582" centerz="8" radius="1">
 		<monster name="Samurai Boss" x="0" y="0" z="8" spawntime="60" />
@@ -22832,6 +23087,12 @@
 		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2708" centery="3585" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3410" centery="3585" centerz="8" radius="1" />
 	<spawn centerx="3418" centery="3585" centerz="8" radius="1" />
@@ -22857,6 +23118,13 @@
 		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2749" centery="3590" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="4162" centery="3590" centerz="8" radius="1">
 		<monster name="Grand Fisher Lv 2" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
@@ -22871,6 +23139,13 @@
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2705" centery="3593" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3666" centery="3593" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="1" y="-1" z="8" spawntime="60" />
@@ -22887,6 +23162,13 @@
 	</spawn>
 	<spawn centerx="5231" centery="3593" centerz="8" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2617" centery="3594" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="5321" centery="3594" centerz="8" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
@@ -22913,6 +23195,13 @@
 		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2759" centery="3599" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4017" centery="3599" centerz="8" radius="1">
 		<monster name="Grand Fisher Lv 2" x="-1" y="-1" z="8" spawntime="60" />
@@ -22957,6 +23246,13 @@
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2698" centery="3606" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="5319" centery="3606" centerz="8" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -22972,6 +23268,13 @@
 	<spawn centerx="4849" centery="3608" centerz="8" radius="1">
 		<monster name="Mugetsu Especial" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2567" centery="3609" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3671" centery="3609" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
@@ -22981,6 +23284,13 @@
 		<monster name="Grand Fisher Lv 2" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2616" centery="3610" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3654" centery="3610" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="8" spawntime="60" />
@@ -23001,6 +23311,12 @@
 	</spawn>
 	<spawn centerx="5270" centery="3611" centerz="8" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2712" centery="3612" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="5281" centery="3612" centerz="8" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
@@ -23035,6 +23351,12 @@
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2578" centery="3619" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3800" centery="3620" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -23067,6 +23389,18 @@
 	<spawn centerx="3803" centery="3625" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2591" centery="3626" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2614" centery="3626" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3656" centery="3626" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="-1" z="8" spawntime="60" />
@@ -23079,6 +23413,12 @@
 	</spawn>
 	<spawn centerx="5386" centery="3626" centerz="8" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2713" centery="3627" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4056" centery="3627" centerz="8" radius="1">
 		<monster name="Grand Fisher Lv 2" x="-1" y="-1" z="8" spawntime="60" />
@@ -23217,6 +23557,14 @@
 	</spawn>
 	<spawn centerx="5308" centery="3642" centerz="8" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2704" centery="3643" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3822" centery="3643" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />

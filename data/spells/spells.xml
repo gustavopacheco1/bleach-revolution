@@ -3,16 +3,16 @@
 	<!-- Healing -->
 	<instant name="regeneration" words="regeneration" lvl="5" mana="1000" aggressive="0" selftarget="1" exhaustion="1500" exhaustedGroup="heal" needlearn="0" event="script" value="healing/regeneration.lua"/>
 	<instant name="Big Regeneration" words="big regeneration" lvl="150" mana="2000" aggressive="0" selftarget="1" exhaustion="2000" exhaustedGroup="heal" needlearn="0" event="script" value="healing/big_regeneration.lua"/>
-	<instant name="Kaidou Heal" words="kaidou heal" lvl="250" mana="2500" prem="0" aggressive="0" needtarget="1" params="1" exhaustion="1500" exhaustedGroup="heal" needlearn="0" event="script" value="healing/kaidou_heal.lua">
+	<instant name="Kaidou Heal" words="kaidou heal" lvl="70" mana="2500" prem="0" aggressive="0" needtarget="1" params="1" exhaustion="1500" exhaustedGroup="heal" needlearn="0" event="script" value="healing/kaidou_heal.lua">
 		<vocation id="12"/> <!-- Retsu Unohana -->
 	</instant>
-	<instant name="Ayame" words="ayame" lvl="250" mana="2500" prem="0" aggressive="0" needtarget="1" params="1" exhaustion="1500" exhaustedGroup="heal" needlearn="0" event="script" value="healing/ayame.lua">
+	<instant name="Ayame" words="ayame" lvl="70" mana="2500" prem="0" aggressive="0" needtarget="1" params="1" exhaustion="1500" exhaustedGroup="heal" needlearn="0" event="script" value="healing/ayame.lua">
 		<vocation id="4"/> <!-- Orihime Inoue -->
 	</instant>
 
 
 	<!-- Support -->
-	<instant name="Jura" words="aura" lvl="15" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" exhaustedGroup="support" needlearn="0" event="script" value="support/aura.lua"/>
+	<instant name="aura" words="aura" lvl="15" mana="1000" aggressive="0" selftarget="1" exhaustion="1000" exhaustedGroup="support" needlearn="0" event="script" value="support/aura.lua"/>
 	<instant name="Jump" words="jump" lvl="20" mana="2000" prem="0" aggressive="0" selftarget="1" exhaustion="3000" exhaustedGroup="support" needlearn="0" event="script" value="support/jump.lua"/>
 	<instant name="Reiatsu Speed" words="reiatsu speed" lvl="100" mana="2000" prem="0" aggressive="0" selftarget="1" exhaustion="10000" exhaustedGroup="support" needlearn="0" event="script" value="support/reiatsu_speed.lua"/>
 	<instant name="Speed Up" words="speed up" lvl="30" mana="1000" prem="0" aggressive="0" selftarget="1" exhaustion="10000" exhaustedGroup="support" needlearn="0" event="script" value="support/speed_up.lua"/>
