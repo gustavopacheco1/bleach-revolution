@@ -21951,12 +21951,12 @@
 		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="2457" centery="3444" centerz="8" radius="1">
-		<monster name="Arrancar Hollow" x="0" y="-1" z="8" spawntime="60" />
+	<spawn centerx="2458" centery="3444" centerz="8" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
-		<monster name="Arrancar Hollow" x="-1" y="0" z="8" spawntime="60" />
-		<monster name="Arrancar Hollow" x="0" y="1" z="8" spawntime="60" />
-		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="-1812406272" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="2256" centery="3446" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="0" y="-1" z="8" spawntime="60" />
@@ -24824,18 +24824,18 @@
 	<spawn centerx="3398" centery="3732" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="2422" centery="3733" centerz="8" radius="1">
-		<monster name="Giant Snake Hollow" x="-1" y="-1" z="8" spawntime="60" />
-		<monster name="Giant Snake Hollow" x="1" y="-1" z="8" spawntime="60" />
-		<monster name="Giant Snake Hollow" x="-1" y="1" z="8" spawntime="-1812253440" />
-		<monster name="Giant Snake Hollow" x="0" y="1" z="8" spawntime="60" />
-		<monster name="Giant Snake Hollow" x="1" y="1" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="3407" centery="3733" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3423" centery="3733" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2423" centery="3734" centerz="8" radius="1">
+		<monster name="Giant Snake Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Giant Snake Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Giant Snake Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Giant Snake Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Giant Snake Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3350" centery="3734" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
