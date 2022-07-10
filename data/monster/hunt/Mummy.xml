@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Monster Level: 400 -->
+<!-- Monster Level: 70 -->
 <monster name="Mummy" nameDescription="Mummy" race="blood" experience="35000" speed="600" manacost="0">
     <health now="50000" max="50000" />
     <look type="12" corpse="5527" />
@@ -19,7 +19,7 @@
         <flag runonhealth="0" />
     </flags>
     <attacks>
-        <attack name="melee" interval="2000" min="-50000" max="-50100" />
+        <attack name="melee" interval="2000" min="-2500" max="-2900" />
     </attacks>
     <defenses armor="0" defense="0" />
     <immunities>
@@ -33,10 +33,10 @@
         <immunity invisible="0" />
     </immunities>
 	<loot>
-        <item id="2160" chance="15000" count="2" countmax="3"/>
-		<item id="10690" chance="2000" count="1" countmax="1"/>
-		<item id="10687" chance="3000" count="1" countmax="1"/>
-		<item id="10688" chance="2000" count="1" countmax="1"/>
-		<item id="10689" chance="1000" count="1" countmax="1"/>
+        <item id="2148" chance="500" count="1" countmax="4"/>
+		<item id="10690" chance="500" count="1" countmax="1"/>
+		<item id="10687" chance="500" count="1" countmax="1"/>
+		<item id="10688" chance="500" count="1" countmax="1"/>
+		<item id="10689" chance="500" count="1" countmax="1"/>
     </loot>
 </monster>

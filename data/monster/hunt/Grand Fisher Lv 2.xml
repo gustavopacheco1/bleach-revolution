@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Monster Level: 430 -->
+<!-- Monster Level: 230 -->
 <monster name="Grand Fisher Lv 2" nameDescription="Grande Fisher Lv 2" race="blood" experience="38000" speed="600" manacost="0">
     <health now="55000" max="55000" />
     <look type="11" corpse="5527" />
@@ -19,7 +19,7 @@
         <flag runonhealth="0" />
     </flags>
     <attacks>
-        <attack name="melee" interval="2000" min="-45000" max="-45100" />
+        <attack name="melee" interval="2000" min="-13100" max="-13500" />
     </attacks>
     <defenses armor="0" defense="0" />
     <immunities>
@@ -33,7 +33,7 @@
         <immunity invisible="0" />
     </immunities>
 	<loot>
-        <item id="2160" chance="15000" count="2" countmax="3"/>
-		<item id="15099" chance="7000" count="1" countmax="1"/>
+        <item id="2152" chance="2000" count="1" countmax="2"/>
+		<item id="15099" chance="500" count="1" countmax="1"/>
     </loot>
 </monster>

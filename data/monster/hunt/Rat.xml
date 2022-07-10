@@ -19,7 +19,7 @@
         <flag runonhealth="0" />
     </flags>
     <attacks>
-        <attack name="melee" interval="2000" min="-40" max="-50" />
+        <attack name="melee" interval="2000" min="-100" max="-150" />
     </attacks>
     <defenses armor="0" defense="0" />
     <immunities>
@@ -33,6 +33,6 @@
         <immunity invisible="0" />
     </immunities>
 	<loot>
-        <item id="2148" chance="15000" count="5" countmax="10"/>
+        <item id="2148" chance="500" count="1" countmax="1"/>
     </loot>
 </monster>

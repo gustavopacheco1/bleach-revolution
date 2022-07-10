@@ -89,7 +89,7 @@ function onCreatureSay(cid, type, msg)
 
 	if talkState[talkUser] == 2 then
 		if isInArray({ "yes", "sim" }, msg) then
-			doTeleportThing(cid, { x = 4401, y = 3694, z = 7 })
+			doTeleportThing(cid, {x = 4799, y = 3612, z = 8})
 			MultiLanguage.doPlayerSendTextMessage(
 				cid,
 				MESSAGE_EVENT_ADVANCE,

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Monster Level: 300 -->
+<!-- Monster Level: 150 -->
 <monster name="Fraccion" nameDescription="Fraccion" race="blood" experience="25000" speed="600" manacost="0">
     <health now="50000" max="50000" />
     <look type="10" corpse="5527" />
@@ -19,7 +19,7 @@
         <flag runonhealth="0" />
     </flags>
     <attacks>
-        <attack name="melee" interval="2000" min="-30000" max="-30100" />
+        <attack name="melee" interval="2000" min="-7100" max="-7500" />
     </attacks>
     <defenses armor="0" defense="0" />
     <immunities>
@@ -36,6 +36,6 @@
         <event name="YamamotoTask" />
     </script>
 	<loot>
-        <item id="2160" chance="15000" count="2" countmax="3"/>
+        <item id="2148" chance="1500" count="1" countmax="5"/>
     </loot>
 </monster>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Monster Level: 275 -->
+<!-- Monster Level: 140 -->
 <monster name="Urahara Two" nameDescription="Urahara Two" race="blood" experience="20000" speed="500" manacost="0">
     <health now="50000" max="50000" />
     <look type="255" corpse="5527" />
@@ -19,7 +19,7 @@
         <flag runonhealth="0" />
     </flags>
     <attacks>
-        <attack name="melee" interval="2000" min="-35000" max="-37000" />
+        <attack name="melee" interval="2000" min="-6100" max="-6500" />
     </attacks>
     <defenses armor="0" defense="0" />
     <immunities>
@@ -33,8 +33,8 @@
         <immunity invisible="0" />
     </immunities>
 	<loot>
-        <item id="2160" chance="15000" count="1" countmax="1"/>
-		<item id="15724" chance="1000" count="1" countmax="1"/>
-		<item id="15111" chance="2000" count="1" countmax="1"/>
+        <item id="2148" chance="1000" count="1" countmax="5"/>
+		<item id="15724" chance="500" count="1" countmax="1"/>
+		<item id="15111" chance="500" count="1" countmax="1"/>
     </loot>
 </monster>

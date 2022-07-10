@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Monster Level: 350 -->
+<!-- Monster Level: 150 -->
 <monster name="Nnoitra" nameDescription="Nnoitra" race="blood" experience="30000" speed="600" manacost="0">
     <health now="55000" max="55000" />
     <look type="104" corpse="5527" />
@@ -19,7 +19,7 @@
         <flag runonhealth="0" />
     </flags>
     <attacks>
-        <attack name="melee" interval="2000" min="-50100" max="-50500" />
+        <attack name="melee" interval="2000" min="-7100" max="-7500" />
     </attacks>
     <defenses armor="0" defense="0" />
     <immunities>
@@ -36,6 +36,6 @@
         <event name="YamamotoTask" />
     </script>
 	<loot>
-        <item id="2160" chance="15000" count="2" countmax="3"/>
+        <item id="2148" chance="1500" count="1" countmax="5"/>
     </loot>
 </monster>

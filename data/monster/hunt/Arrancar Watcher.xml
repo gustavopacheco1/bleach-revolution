@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Monster Level: 475 -->
+<!-- Monster Level: 275 -->
 <monster name="Arrancar Watcher" nameDescription="Arrancar Watcher" race="blood" experience="50000" speed="600" manacost="0">
     <health now="75000" max="75000" />
     <look type="147" corpse="5527" />
@@ -19,7 +19,7 @@
         <flag runonhealth="0" />
     </flags>
     <attacks>
-        <attack name="melee" interval="2000" min="-70000" max="-73000" />
+        <attack name="melee" interval="2000" min="-18100" max="-18500" />
     </attacks>
     <defenses armor="0" defense="0" />
     <immunities>
@@ -36,6 +36,6 @@
         <event name="YamamotoTask" />
     </script>
 	<loot>
-        <item id="2160" chance="15000" count="5" countmax="6"/>
+        <item id="2152" chance="2000" count="1" countmax="4"/>
     </loot>
 </monster>

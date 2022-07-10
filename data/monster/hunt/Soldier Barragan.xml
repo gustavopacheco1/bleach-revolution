@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Monster Level: 1 -->
-<monster name="Bandit" nameDescription="Bandit" race="blood" experience="2800" speed="100" manacost="0">
-    <health now="900" max="900" />
-    <look type="136" corpse="5527" />
+<!-- Boss Level: 475 -->
+<monster name="Soldier Barragan" nameDescription="Soldier Barragan" race="blood" experience="0" speed="1200" manacost="0">
+    <health now="200000" max="200000" />
+    <look type="130" corpse="5527" />
     <targetchange interval="5000" chance="8" />
     <strategy attack="100" defense="0" />
     <flags>
@@ -19,7 +19,7 @@
         <flag runonhealth="0" />
     </flags>
     <attacks>
-        <attack name="melee" interval="2000" min="-500" max="-900" />
+        <attack name="melee" interval="1500" min="-115100" max="-115500" />
     </attacks>
     <defenses armor="0" defense="0" />
     <immunities>
@@ -33,6 +33,6 @@
         <immunity invisible="0" />
     </immunities>
 	<loot>
-        <item id="2148" chance="500" count="1" countmax="1"/>
+        <item id="2160" chance="15000" count="1" countmax="2"/>
     </loot>
 </monster>

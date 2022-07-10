@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Monster Level: 430 -->
+<!-- Monster Level: 250 -->
 <monster name="Jagdarmee" nameDescription="Jagdarmee" race="blood" experience="38000" speed="600" manacost="0">
     <health now="55000" max="55000" />
     <look type="294" corpse="5527" />
@@ -19,7 +19,7 @@
         <flag runonhealth="0" />
     </flags>
     <attacks>
-        <attack name="melee" interval="2000" min="-40000" max="-45000" />
+        <attack name="melee" interval="2000" min="-15100" max="-15500" />
     </attacks>
     <defenses armor="0" defense="0" />
     <immunities>
@@ -36,6 +36,6 @@
         <event name="YamamotoTask" />
     </script>
 	<loot>
-        <item id="2160" chance="15000" count="2" countmax="3"/>
+        <item id="2152" chance="2000" count="1" countmax="2"/>
     </loot>
 </monster>
