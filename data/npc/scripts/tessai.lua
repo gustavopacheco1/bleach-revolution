@@ -24,13 +24,13 @@ function onCreatureSay(cid, type, msg)
 				local player_vocation_name = getPlayerVocationName(cid)
 
 				selfSayMultiLanguage(
-					"Congratulations! You proof that you are capable of domain your greatest techniques. You've learned two new techniques: ".. SPECIALS[player_vocation_name][400] .. " and " .. SPECIALS[player_vocation_name][450] .. ".",
-					"Parabéns! Você provou que é capaz de dominar suas melhores técnicas. Você aprendeu duas novas técnicas: " .. SPECIALS[player_vocation_name][400] .. " e " .. SPECIALS[player_vocation_name][450] .. ".",
+					"Congratulations! You proof that you are capable of domain your greatest techniques. You've learned two new techniques: ".. SPECIALS[player_vocation_name][100] .. " and " .. SPECIALS[player_vocation_name][150] .. ".",
+					"Parabéns! Você provou que é capaz de dominar suas melhores técnicas. Você aprendeu duas novas técnicas: " .. SPECIALS[player_vocation_name][100] .. " e " .. SPECIALS[player_vocation_name][150] .. ".",
 					cid
 				)
 
-				doPlayerLearnInstantSpell(cid, SPECIALS[player_vocation_name][400])
-				doPlayerLearnInstantSpell(cid, SPECIALS[player_vocation_name][450])
+				doPlayerLearnInstantSpell(cid, SPECIALS[player_vocation_name][100])
+				doPlayerLearnInstantSpell(cid, SPECIALS[player_vocation_name][150])
 
 				setPlayerStorageValue(cid, "tessai_quest", 2)
 				return true
@@ -76,7 +76,7 @@ function onCreatureSay(cid, type, msg)
 		return true
 	end
 
-	if (not npcHandler:isFocused(cid)) or getPlayerLevel(cid) < 400 then
+	if (not npcHandler:isFocused(cid)) or getPlayerLevel(cid) < 100 then
 		return false
 	end
 

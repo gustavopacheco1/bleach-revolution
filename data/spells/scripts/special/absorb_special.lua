@@ -9,7 +9,7 @@ local function getPlayerBestSpecialLevel(target)
 	local last_special_level = 0
 
 	if SPECIALS[getPlayerVocationName(target)] then
-		for _, level in ipairs({ 400, 450 }) do
+		for _, level in ipairs({ 100, 150 }) do
 			if getPlayerLevel(target) >= level and
 				getPlayerLearnedInstantSpell(target, SPECIALS[getPlayerVocationName(target)[level]]) then
 				last_special_level = level

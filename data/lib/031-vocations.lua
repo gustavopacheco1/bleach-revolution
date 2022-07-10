@@ -1,11 +1,11 @@
 SPECIALS = {
 	["Zaraki Kenpachi"] = {
-		[400] = "Nozarashi",
-		[450] = "Bankai"
+		[100] = "Nozarashi",
+		[150] = "Bankai"
 	},
 
 	["Tier Halibel"] = {
-		[400] = "Invisivel",
-		[450] = "Hirviendo"
+		[100] = "Invisivel",
+		[150] = "Hirviendo"
 	}
 }
