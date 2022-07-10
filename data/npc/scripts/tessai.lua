@@ -24,16 +24,13 @@ function onCreatureSay(cid, type, msg)
 				local player_vocation_name = getPlayerVocationName(cid)
 
 				selfSayMultiLanguage(
-					"Congratulations! You proof that you are capable of domain your greatest techniques. You've learned two new techniques: "
-					.. vocation_specials[player_vocation_name][400] .. " and " .. vocation_specials[player_vocation_name][450] .. ".",
-					"Parabéns! Você provou que é capaz de dominar suas melhores técnicas. Você aprendeu duas novas técnicas: " ..
-					vocation_specials[player_vocation_name][400] .. " e " .. vocation_specials[player_vocation_name][450] .. ".",
+					"Congratulations! You proof that you are capable of domain your greatest techniques. You've learned two new techniques: ".. SPECIALS[player_vocation_name][400] .. " and " .. SPECIALS[player_vocation_name][450] .. ".",
+					"Parabéns! Você provou que é capaz de dominar suas melhores técnicas. Você aprendeu duas novas técnicas: " .. SPECIALS[player_vocation_name][400] .. " e " .. SPECIALS[player_vocation_name][450] .. ".",
 					cid
 				)
 
-
-				doPlayerLearnInstantSpell(cid, vocation_specials[player_vocation_name][400])
-				doPlayerLearnInstantSpell(cid, vocation_specials[player_vocation_name][450])
+				doPlayerLearnInstantSpell(cid, SPECIALS[player_vocation_name][400])
+				doPlayerLearnInstantSpell(cid, SPECIALS[player_vocation_name][450])
 
 				setPlayerStorageValue(cid, "tessai_quest", 2)
 				return true
@@ -51,10 +48,8 @@ function onCreatureSay(cid, type, msg)
 
 			if getPlayerLevel(cid) < 400 then
 				selfSayMultiLanguage(
-					"I can teach you to domain your greatest techniques. However, I can already see that you are not capable to domain it yet. Come back here when you reach level 400."
-					,
-					"Eu posso te ensinar a dominar as suas melhores técnicas. Porém, eu já consigo perceber que você não é capaz de dominá-las ainda. Volte aqui quando alcançar o nível 400."
-					,
+					"I can teach you to domain your greatest techniques. However, I can already see that you are not capable to domain it yet. Come back here when you reach level 400.",
+					"Eu posso te ensinar a dominar as suas melhores técnicas. Porém, eu já consigo perceber que você não é capaz de dominá-las ainda. Volte aqui quando alcançar o nível 400.",
 					cid
 				)
 				npcHandler:addFocus(cid)
@@ -62,10 +57,8 @@ function onCreatureSay(cid, type, msg)
 			end
 
 			selfSayMultiLanguage(
-				"I can teach you to domain your greatest techniques. However, you need to prove me that you are capable completing my {challenge}."
-				,
-				"Eu posso te ensinar a dominar as suas melhores técnicas. Porém, você deve me provar que é capaz completando o meu {desafio}."
-				,
+				"I can teach you to domain your greatest techniques. However, you need to prove me that you are capable completing my {challenge}.",
+				"Eu posso te ensinar a dominar as suas melhores técnicas. Porém, você deve me provar que é capaz completando o meu {desafio}.",
 				cid
 			)
 			npcHandler:addFocus(cid)
