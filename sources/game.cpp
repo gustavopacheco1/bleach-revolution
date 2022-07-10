@@ -5052,8 +5052,8 @@ bool Game::combatChangeHealth(const CombatParams &params, Creature *attacker, Cr
 
 			std::ostringstream ss;
 			char buffer[20];
-			sprintf(buffer, "+%d", healthChange);
-			addAnimatedText(list, targetPos, COLOR_MAYABLUE, buffer);
+			sprintf(buffer, "%d", healthChange);
+			addAnimatedText(list, targetPos, COLOR_PASTELRED, buffer);
 			if (!textList.empty())
 			{
 				if (!attacker)
@@ -5337,8 +5337,8 @@ bool Game::combatChangeMana(Creature *attacker, Creature *target, int32_t manaCh
 
 			std::ostringstream ss;
 			char buffer[20];
-			sprintf(buffer, "+%d", manaChange);
-			addAnimatedText(list, targetPos, COLOR_DARKPURPLE, buffer);
+			sprintf(buffer, "%d", manaChange);
+			addAnimatedText(list, targetPos, COLOR_MAYABLUE, buffer);
 			if (!textList.empty())
 			{
 				if (!attacker)
