@@ -28,7 +28,7 @@
 
 	-- World / Ip / Port
 	worldId = 0
-	ip = "192.99.214.12"
+	ip = "127.0.0.1"
 	worldType = "open"
 	bindOnlyGlobalAddress = false
 	loginPort = 7171
@@ -444,5 +444,5 @@
 	adminEncryptionData = ""
 
 	-- Don't edit use at your own risk
-	saveGlobalStorage = false
+	saveGlobalStorage = true
 	bufferMutedOnSpellFailure = false
