@@ -1,9 +1,5 @@
 function onStatsChange(cid, attacker, type, combat, value)
-	if not
-		(
-		value >= 1 and
-			(type == STATSCHANGE_HEALTHLOSS or (type == STATSCHANGE_MANALOSS and getCreatureCondition(cid, CONDITION_MANASHIELD))
-			)) then
+	if not (value >= 1 and (type == STATSCHANGE_HEALTHLOSS or (type == STATSCHANGE_MANALOSS and getCreatureCondition(cid, CONDITION_MANASHIELD)))) then
 		return true
 	end
 
@@ -11,7 +7,7 @@ function onStatsChange(cid, attacker, type, combat, value)
 		return true
 	end
 
-	if getPlayerGroupId(cid) == 8 then
+	if getPlayerGroupId(cid) == 7 then
 		return true
 	end
 
@@ -20,15 +16,13 @@ function onStatsChange(cid, attacker, type, combat, value)
 	local clone = doCreateMonster("Rukia Clone", getCreaturePosition(cid), false, true)
 	doCreatureChangeOutfit(clone, getCreatureOutfit(cid))
 	doCreatureSetHideHealth(clone, true)
-	addEvent(function()
-		doCreatureSetStorage(clone, "dead_player_id", cid)
-	end, 1000)
+	addEvent(doCreatureSetStorage, 1000, clone, "dead_player_id", cid)
 
 	setCreatureTarget(cid, nil)
 	doCreatureAddHealth(cid, getCreatureMaxHealth(cid))
-	doPlayerSetGroupId(cid, 8)
+	doPlayerSetGroupId(cid, 7)
 	if not isPlayerGhost(cid) then
-		doCreatureSay(cid, "invisible")
+		doCreatureExecuteTalkAction(cid, "###invisible", true)
 	end
 
 	addEvent(function()
@@ -42,7 +36,7 @@ function onStatsChange(cid, attacker, type, combat, value)
 			return
 		end
 
-		if getPlayerGroupId(cid) == 8 then
+		if getPlayerGroupId(cid) == 7 then
 			doTeleportThing(cid, death_position)
 			doCreatureAddHealth(cid, -getCreatureMaxHealth(cid))
 		end

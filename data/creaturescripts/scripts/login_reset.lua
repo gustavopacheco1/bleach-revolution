@@ -4,7 +4,7 @@ function onLogin(cid)
 	end
 
 	local player_group_id = getPlayerGroupId(cid)
-	if player_group_id == 8 then
+	if player_group_id == 7 then
 		if getPlayerStorageValue(cid, "group") ~= 0 then
 			setPlayerGroupId(cid, getPlayerStorageValue(cid, "group"))
 		else
