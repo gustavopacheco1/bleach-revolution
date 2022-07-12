@@ -12,10 +12,10 @@
 <stage minlevel="201"     maxlevel="250"      multiplier="3"/>
 <stage minlevel="251"     maxlevel="300"      multiplier="2"/>
 <stage minlevel="301"     maxlevel="350"      multiplier="1"/>
-<stage minlevel="351"     maxlevel="400"      multiplier="0,5"/>
-<stage minlevel="401"     maxlevel="450"      multiplier="0,4"/>
-<stage minlevel="451"     maxlevel="500"      multiplier="0,3"/>
-<stage minlevel="501"     maxlevel="550"      multiplier="0,2"/>
-<stage minlevel="551"     maxlevel="600"      multiplier="0,1"/>
-<stage minlevel="601"     maxlevel="650"      multiplier="0"/>
+<stage minlevel="351"     maxlevel="400"      multiplier="0.5"/>
+<stage minlevel="401"     maxlevel="450"      multiplier="0.4"/>
+<stage minlevel="451"     maxlevel="500"      multiplier="0.3"/>
+<stage minlevel="501"     maxlevel="550"      multiplier="0.2"/>
+<stage minlevel="551"     maxlevel="600"      multiplier="0.1"/>
+<stage minlevel="601"     maxlevel="1000"      multiplier="0.1"/>
 </stages>

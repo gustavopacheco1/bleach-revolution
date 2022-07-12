@@ -22739,31 +22739,171 @@
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="11105" name="Hyourinmaru">
+	<item id="15736" name="Hyourinmaru">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="8"/>
 		<attribute key="attack" value="10"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="11722" name="Gamuza">
+	<item id="16401" name="Hyourinmaru">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="15"/>
+		<attribute key="attack" value="20"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16408" name="Hyourinmaru">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="20"/>
+		<attribute key="attack" value="30"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16414" name="Hyourinmaru">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="25"/>
+		<attribute key="attack" value="40"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16420" name="Hyourinmaru">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="30"/>
+		<attribute key="attack" value="50"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16424" name="Hyourinmaru">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="35"/>
+		<attribute key="attack" value="60"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16336" name="Gamuza">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="8"/>
 		<attribute key="attack" value="10"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="11721" name="Pantera">
+	<item id="16402" name="Gamuza">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="15"/>
+		<attribute key="attack" value="20"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16406" name="Gamuza">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="20"/>
+		<attribute key="attack" value="30"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16413" name="Gamuza">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="25"/>
+		<attribute key="attack" value="40"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16419" name="Gamuza">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="30"/>
+		<attribute key="attack" value="50"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16426" name="Gamuza">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="35"/>
+		<attribute key="attack" value="60"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16335" name="Pantera">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="8"/>
 		<attribute key="attack" value="10"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="11724" name="Minazuki">
+	<item id="16399" name="Pantera">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="15"/>
+		<attribute key="attack" value="20"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16410" name="Pantera">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="20"/>
+		<attribute key="attack" value="30"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16416" name="Pantera">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="25"/>
+		<attribute key="attack" value="40"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16421" name="Pantera">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="30"/>
+		<attribute key="attack" value="50"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16425" name="Pantera">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="35"/>
+		<attribute key="attack" value="60"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16338" name="Minazuki">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="8"/>
 		<attribute key="attack" value="10"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16400" name="Minazuki">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="15"/>
+		<attribute key="attack" value="20"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16409" name="Minazuki">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="20"/>
+		<attribute key="attack" value="30"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16415" name="Minazuki">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="25"/>
+		<attribute key="attack" value="40"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16422" name="Minazuki">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="30"/>
+		<attribute key="attack" value="50"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16423" name="Minazuki">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="35"/>
+		<attribute key="attack" value="60"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
@@ -23042,6 +23182,54 @@
 		<attribute key="description" value="Soul: 0"/>
 	</item>
 	<item id="16392" article="an" name="Shun Shun Rikka">
+		<attribute key="weight" value="200"/>
+		<attribute key="attack" value="60"/>
+		<attribute key="weaponType" value="distance"/>
+		<attribute key="range" value="10"/>
+		<attribute key="hitChance" value="100"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16334" article="an" name="Heiling Bogen">
+		<attribute key="weight" value="200"/>
+		<attribute key="attack" value="10"/>
+		<attribute key="weaponType" value="distance"/>
+		<attribute key="range" value="10"/>
+		<attribute key="hitChance" value="100"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16404" article="an" name="Heiling Bogen">
+		<attribute key="weight" value="200"/>
+		<attribute key="attack" value="20"/>
+		<attribute key="weaponType" value="distance"/>
+		<attribute key="range" value="10"/>
+		<attribute key="hitChance" value="100"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16405" article="an" name="Heiling Bogen">
+		<attribute key="weight" value="200"/>
+		<attribute key="attack" value="30"/>
+		<attribute key="weaponType" value="distance"/>
+		<attribute key="range" value="10"/>
+		<attribute key="hitChance" value="100"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16411" article="an" name="Heiling Bogen">
+		<attribute key="weight" value="200"/>
+		<attribute key="attack" value="40"/>
+		<attribute key="weaponType" value="distance"/>
+		<attribute key="range" value="10"/>
+		<attribute key="hitChance" value="100"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16417" article="an" name="Heiling Bogen">
+		<attribute key="weight" value="200"/>
+		<attribute key="attack" value="50"/>
+		<attribute key="weaponType" value="distance"/>
+		<attribute key="range" value="10"/>
+		<attribute key="hitChance" value="100"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16428" article="an" name="Heiling Bogen">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="60"/>
 		<attribute key="weaponType" value="distance"/>
