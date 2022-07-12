@@ -754,29 +754,32 @@ bool TalkAction::guildJoin(Creature *creature, const std::string &, const std::s
 
 	std::string param_ = param;
 	trimString(param_);
-	if (!player->getGuildId())
+	if (player->getGuildId())
 	{
-		uint32_t guildId;
-		if (IOGuild::getInstance()->getGuildId(guildId, param_))
-		{
-			if (player->isGuildInvited(guildId))
-			{
-				IOGuild::getInstance()->joinGuild(player, guildId);
-				player->sendTextMessage(MSG_EVENT_GUILD, "You have joined the guild.");
-
-				char buffer[80];
-				sprintf(buffer, "%s has joined the guild.", player->getName().c_str());
-				if (ChatChannel *guildChannel = g_chat.getChannel(player, CHANNEL_GUILD))
-					guildChannel->talk("", MSG_CHANNEL_HIGHLIGHT, buffer);
-			}
-			else
-				player->sendCancel("You are not invited to that guild.");
-		}
-		else
-			player->sendCancel("There's no guild with that name.");
-	}
-	else
 		player->sendCancel("You are already in a guild.");
+		return true;
+	}
+
+	uint32_t guildId;
+	if (!IOGuild::getInstance()->getGuildId(guildId, param_))
+	{
+		player->sendCancel("There's no guild with that name.");
+		return true;
+	}
+
+	if (!player->isGuildInvited(guildId))
+	{
+		player->sendCancel("You are not invited to that guild.");
+		return true;
+	}
+
+	IOGuild::getInstance()->joinGuild(player, guildId);
+	player->sendTextMessage(MSG_EVENT_GUILD, "You have joined the guild.");
+
+	char buffer[80];
+	sprintf(buffer, "%s has joined the guild.", player->getName().c_str());
+	if (ChatChannel *guildChannel = g_chat.getChannel(player, CHANNEL_GUILD))
+		guildChannel->talk("", MSG_CHANNEL_HIGHLIGHT, buffer);
 
 	return true;
 }

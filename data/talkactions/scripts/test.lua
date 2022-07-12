@@ -1,7 +1,7 @@
 function onSay(cid, words, param, channel)
-	for _, summon in ipairs(getCreatureSummons(cid)) do
-		doTeleportThing(summon, getCreaturePosition(cid))
-		doCreatureSay(cid, #getCreatureSummons(cid))
-	end
+	-- doCreatureAddHealth(cid, -getCreatureMaxHealth(cid) + 1)
+	-- doCreatureAddHealth(cid, getCreatureMaxHealth(cid))
+
+	table.print(getPlayerInstantSpellInfo(cid, 1))
 	return true
 end

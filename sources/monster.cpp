@@ -630,6 +630,14 @@ void Monster::doAttacking(uint32_t interval)
 	if (!attackedCreature || (isSummon() && attackedCreature == this))
 		return;
 
+	if (attackedCreature->getPlayer() && attackedCreature->getPlayer()->getGroupId() == 7)
+	{
+		setFollowCreature(NULL);
+		setAttackedCreature(NULL);
+		searchTarget(TARGETSEARCH_NEAREST);
+		return;
+	}
+
 	bool updateLook = true;
 	resetTicks = (interval != 0);
 	attackTicks += interval;

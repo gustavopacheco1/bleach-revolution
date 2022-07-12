@@ -16,7 +16,7 @@ function onCastSpell(cid, var)
 	doCreatureSetHideHealth(clone, true)
 
 	doCreatureAddHealth(cid, getCreatureMaxHealth(cid))
-	setPlayerGroupId(cid, 8)
+	setPlayerGroupId(cid, 7)
 	doCreatureExecuteTalkAction(cid, "###invisible", true)
 	doSetCreatureOutfit(cid, { lookType = 0 }, (spell.duration - 0.25) * 1000)
 	setCreatureTarget(cid, nil)

@@ -92,6 +92,10 @@ function onStartup()
 		db.executeQuery("DELETE FROM `player_statements`;")
 	end
 
+	if getStorage("boss") == -1 then
+		doSetStorage("boss", 1)
+	end
+
 	return true
 end
 
@@ -100,5 +104,10 @@ function onGlobalSave()
 		return onStartup()
 	end
 
+	return true
+end
+
+function onShutdown()
+	doSetStorage("boss_spawned", nil)
 	return true
 end

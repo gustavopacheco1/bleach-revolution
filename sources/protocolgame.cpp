@@ -360,7 +360,7 @@ bool ProtocolGame::logout(bool displayEffect, bool forceLogout)
 		{
 			if (!IOLoginData::getInstance()->hasCustomFlag(player->getAccount(), PlayerCustomFlag_CanLogoutAnytime))
 			{
-				if (player->getTile()->hasFlag(TILESTATE_NOLOGOUT) || player->getGroupId() == 8)
+				if (player->getTile()->hasFlag(TILESTATE_NOLOGOUT) || player->getGroupId() == 7)
 				{
 					if (Condition *condition = Condition::createCondition(CONDITIONID_DEFAULT, CONDITION_EXHAUST, 500, 0, false, EXHAUST_DEFAULT))
 						player->addCondition(condition);
