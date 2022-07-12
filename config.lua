@@ -17,7 +17,7 @@
 	sqlHost = "127.0.0.1"
 	sqlPort = 3306
 	sqlUser = "root"
-	sqlPass = ""
+	sqlPass = "7wnLq-ukA%bB+5DHc6"
 	sqlDatabase = "bleach-revolution"
 	sqlFile = "schemas/otxserver.s3db"
 	sqlKeepAlive = 0
@@ -28,7 +28,7 @@
 
 	-- World / Ip / Port
 	worldId = 0
-	ip = "127.0.0.1"
+	ip = "66.70.155.246"
 	worldType = "open"
 	bindOnlyGlobalAddress = false
 	loginPort = 7171
