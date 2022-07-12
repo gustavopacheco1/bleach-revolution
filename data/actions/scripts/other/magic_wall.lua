@@ -7,6 +7,10 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 		return false
 	end
 
+	if not isPathable(cid, toPosition, false) then
+		return doPlayerSendDefaultCancel(cid, RETURNVALUE_CANNOTUSETHISOBJECT)
+	end
+
 	if getTileInfo(toPosition).protection or getTileInfo(getCreaturePosition(cid)).protection then
 		return false
 	end
