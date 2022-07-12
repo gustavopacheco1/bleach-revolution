@@ -2,7 +2,7 @@
 <!-- Boss Quest Level: 100 -->
 <monster name="Samurai Boss" nameDescription="Samurai Boss" race="blood" experience="0" speed="500" manacost="0">
     <health now="100000" max="100000" />
-    <look type="119" corpse="5527" />
+    <look type="119" corpse="16330" />
     <targetchange interval="5000" chance="8" />
     <strategy attack="100" defense="0" />
     <flags>

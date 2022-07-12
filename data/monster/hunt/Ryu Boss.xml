@@ -2,7 +2,7 @@
 <!-- Boss Quest Level: 200 -->
 <monster name="Ryu Boss" nameDescription="Ryu Boss" race="blood" experience="0" speed="900" manacost="0">
     <health now="100000" max="100000" />
-    <look type="184" corpse="5527" />
+    <look type="184" corpse="16330" />
     <targetchange interval="5000" chance="8" />
     <strategy attack="100" defense="0" />
     <flags>

@@ -2,7 +2,7 @@
 <!-- Monster Level: 180 -->
 <monster name="Red Hollow" nameDescription="Red Hollow" race="blood" experience="25000" speed="600" manacost="0">
     <health now="60000" max="60000" />
-    <look type="65" corpse="5527" />
+    <look type="65" corpse="16330" />
     <targetchange interval="5000" chance="8" />
     <strategy attack="100" defense="0" />
     <flags>

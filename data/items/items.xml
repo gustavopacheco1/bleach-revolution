@@ -22720,4 +22720,10 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
+	<item id="16330" article="a" name="loot bag">
+		<attribute key="containerSize" value="10"/>
+		<attribute key="decayTo" value="0"/>
+		<attribute key="duration" value="900"/>
+		<attribute key="corpseType" value="blood"/>
+	</item>
 </items>

@@ -2,7 +2,7 @@
 <!-- Boss Level: 475 -->
 <monster name="Aaroniero" nameDescription="Aaroniero" race="blood" experience="0" speed="1200" manacost="0">
     <health now="200000" max="200000" />
-    <look type="131" corpse="5527" />
+    <look type="131" corpse="16330" />
     <targetchange interval="5000" chance="8" />
     <strategy attack="100" defense="0" />
     <flags>

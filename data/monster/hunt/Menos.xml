@@ -2,7 +2,7 @@
 <!-- Monster Level: 230 -->
 <monster name="Menos" nameDescription="Menos" race="blood" experience="0" speed="600" manacost="0">
     <health now="55000" max="55000" />
-    <look type="341" corpse="5527" />
+    <look type="341" corpse="16330" />
     <targetchange interval="5000" chance="8" />
     <strategy attack="100" defense="0" />
     <flags>

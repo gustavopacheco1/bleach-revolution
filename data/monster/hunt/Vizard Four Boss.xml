@@ -2,7 +2,7 @@
 <!-- Boss Quest Level: 400 -->
 <monster name="Vizard Four Boss" nameDescription="Vizard Four Boss" race="blood" experience="0" speed="1200" manacost="0">
     <health now="1000000" max="1000000" />
-    <look type="134" corpse="5527" />
+    <look type="134" corpse="16330" />
     <targetchange interval="5000" chance="8" />
     <strategy attack="100" defense="0" />
     <flags>
