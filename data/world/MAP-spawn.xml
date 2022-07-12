@@ -1327,9 +1327,6 @@
 	<spawn centerx="3473" centery="4129" centerz="3" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="3" spawntime="60" />
 	</spawn>
-	<spawn centerx="4132" centery="2679" centerz="4" radius="1">
-		<monster name="Legendary Kaname" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
 	<spawn centerx="3832" centery="2691" centerz="4" radius="1">
 		<monster name="Espada" x="-1" y="-1" z="4" spawntime="60" />
 		<monster name="Espada" x="0" y="0" z="4" spawntime="60" />
@@ -2647,9 +2644,6 @@
 	</spawn>
 	<spawn centerx="3833" centery="4047" centerz="4" radius="1">
 		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="3609" centery="4079" centerz="4" radius="1">
-		<monster name="Legendary Zangetsu" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3329" centery="4081" centerz="4" radius="1">
 		<monster name="Menos" x="0" y="0" z="4" spawntime="60" />
@@ -26487,9 +26481,6 @@
 		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
 		<monster name="Barragan Soldier" x="0" y="1" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="4043" centery="2676" centerz="9" radius="1">
-		<monster name="Legendary Vizard" x="0" y="0" z="9" spawntime="60" />
-	</spawn>
 	<spawn centerx="3960" centery="2677" centerz="9" radius="1">
 		<monster name="Barragan Soldier" x="0" y="-1" z="9" spawntime="60" />
 		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
@@ -27978,9 +27969,6 @@
 	</spawn>
 	<spawn centerx="3523" centery="3919" centerz="9" radius="1">
 		<monster name="Gilliam" x="0" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="4238" centery="3988" centerz="9" radius="1">
-		<monster name="Legendary Nnoitra" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3461" centery="4085" centerz="9" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="9" spawntime="60" />
