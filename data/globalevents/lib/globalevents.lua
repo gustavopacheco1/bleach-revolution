@@ -15,6 +15,7 @@ function doCreateLegendaryBoss()
 	local boss = legendary_bosses[getStorage("boss")]
 
 	if not boss then
+		error('Boss not found.')
 		return
 	end
 
