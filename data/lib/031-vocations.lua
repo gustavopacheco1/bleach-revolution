@@ -50,19 +50,9 @@ SPECIALS = {
 		[150] = "Los Lobos"
 	},
 	
-	["Coyote Starrk"] = {
-		[100] = "Teresa Protect",
-		[150] = "Santa Tereza"
-	},
-	
 	["Nnoitra Gilga"] = {
 		[100] = "Teresa Protect",
 		[150] = "Santa Tereza"
-	},
-	
-	["Zaraki Kenpachi"] = {
-		[100] = "Bankai",
-		[150] = "Nozarashi"
 	},
 	
 	["Ikkaku Madarame"] = {
