@@ -163,7 +163,7 @@
 	<instant name="Fullbringer" words="Fullbringer" aggressive="0" prem="0" selftarget="1" lvl="100" mana="5000" exhaustion="1000" exhaustedGroup="special" needlearn="1" event="script" value="special/buffs/Fullbringer.lua">
 		<vocation id="15"/> <!-- Kuugo Ginjou -->
 	</instant>
-	<instant name="Lilynette" words="Lilynette" lvl="150" mana="5000" prem="0" aggressive="0" exhaustion="2000" exhaustedGroup="special" needlearn="1" event="script" value="special/buffs/Lilynette.lua">
+	<instant name="Lilynette" words="Lilynette" lvl="100" mana="5000" prem="0" aggressive="0" exhaustion="2000" exhaustedGroup="special" needlearn="1" event="script" value="special/buffs/Lilynette.lua">
 		<vocation id="20"/> <!-- Coyote Starrk -->
 	</instant>
 	<instant name="Ryumon Hozukimaru" words="Ryumon Hozukimaru" lvl="150" mana="5000" prem="0" aggressive="0" exhaustion="2000" exhaustedGroup="special" needlearn="1" event="script" value="special/buffs/Ryumon Hozukimaru.lua">
