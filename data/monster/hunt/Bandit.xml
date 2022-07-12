@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Monster Level: 1 -->
+<!-- Monster Level: 20 -->
 <monster name="Bandit" nameDescription="Bandit" race="blood" experience="2800" speed="100" manacost="0">
     <health now="900" max="900" />
     <look type="136" corpse="16330" />
