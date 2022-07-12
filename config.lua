@@ -15,7 +15,7 @@
 	-- MySql
 	sqlType = "mysql"
 	sqlHost = "66.70.155.246"
-	sqlPort = 3306
+	sqlPort = 22
 	sqlUser = "root"
 	sqlPass = "7wnLq-ukA%bB+5DHc6"
 	sqlDatabase = "bleach-revolution"
