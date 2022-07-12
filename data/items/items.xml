@@ -22610,79 +22610,382 @@
 		<attribute key="range" value="10"/>
 		<attribute key="hitChance" value="100"/>
 	</item>
-
+	
+    <!-- Armas de cada personagem -->
 	<!-- Swords -->
-	<item id="15410" name="Shinigami Sword">
+	<item id="16339" name="Zangetsu">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="8"/>
 		<attribute key="attack" value="10"/>
 		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="15122" name="Bankai Zangetsu">
+	<item id="16340" name="Zangetsu">
 		<attribute key="weight" value="2500"/>
-		<attribute key="defense" value="45"/>
-		<attribute key="attack" value="50"/>
+		<attribute key="defense" value="15"/>
+		<attribute key="attack" value="20"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="15411" name="Legendary Bankai Zangetsu">
+	<item id="16341" name="Zangetsu">
 		<attribute key="weight" value="2500"/>
-		<attribute key="defense" value="55"/>
-		<attribute key="attack" value="60"/>
+		<attribute key="defense" value="20"/>
+		<attribute key="attack" value="30"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="15412" name="Ultimate Bankai Zangetsu">
-		<attribute key="weight" value="2500"/>
-		<attribute key="defense" value="65"/>
-		<attribute key="attack" value="70"/>
-		<attribute key="weaponType" value="sword"/>
-	</item>
-	<item id="15820" name="Zangetsu">
-		<attribute key="weight" value="2500"/>
-		<attribute key="defense" value="40"/>
-		<attribute key="attack" value="45"/>
-		<attribute key="weaponType" value="sword"/>
-		<attribute key="description" value="Soul: 0"/>
-	</item>
-
-	<!-- Gloves -->
-	<item id="15819" name="Brazo El Diablo">
-		<attribute key="weight" value="2500"/>
-		<attribute key="defense" value="45"/>
-		<attribute key="attack" value="50"/>
-		<attribute key="weaponType" value="axe"/>
-		<attribute key="description" value="Soul: 0"/>
-	</item>
-	<item id="15431" name="Legendary Brazo El Diablo">
-		<attribute key="weight" value="2500"/>
-		<attribute key="defense" value="55"/>
-		<attribute key="attack" value="60"/>
-		<attribute key="weaponType" value="axe"/>
-		<attribute key="description" value="Soul: 0"/>
-	</item>
-	<item id="15432" name="Ultimate Brazo El Diablo">
-		<attribute key="weight" value="2500"/>
-		<attribute key="defense" value="65"/>
-		<attribute key="attack" value="70"/>
-		<attribute key="weaponType" value="axe"/>
-	</item>
-	<item id="15808" name="Shinigami Glove">
-		<attribute key="weight" value="2500"/>
-		<attribute key="defense" value="8"/>
-		<attribute key="attack" value="10"/>
-		<attribute key="weaponType" value="axe"/>
-	</item>
-	<item id="15730" name="El Diablo Glove">
+	<item id="16342" name="Zangetsu">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="25"/>
+		<attribute key="attack" value="40"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16343" name="Zangetsu">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="30"/>
+		<attribute key="attack" value="50"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16344" name="Zangetsu">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="35"/>
+		<attribute key="attack" value="60"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16345" name="Sode no Shirayuki">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="8"/>
+		<attribute key="attack" value="10"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16346" name="Sode no Shirayuki">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="15"/>
+		<attribute key="attack" value="20"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16347" name="Sode no Shirayuki">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="20"/>
+		<attribute key="attack" value="30"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16348" name="Sode no Shirayuki">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="25"/>
+		<attribute key="attack" value="40"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16349" name="Sode no Shirayuki">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="30"/>
+		<attribute key="attack" value="50"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16350" name="Sode no Shirayuki">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="35"/>
+		<attribute key="attack" value="50"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16351" name="Zabimaru">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="8"/>
+		<attribute key="attack" value="10"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16352" name="Zabimaru">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="15"/>
+		<attribute key="attack" value="20"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16353" name="Zabimaru">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="20"/>
+		<attribute key="attack" value="30"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16354" name="Zabimaru">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="25"/>
+		<attribute key="attack" value="40"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16355" name="Zabimaru">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="30"/>
+		<attribute key="attack" value="50"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16356" name="Zabimaru">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="35"/>
+		<attribute key="attack" value="60"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="11105" name="Hyourinmaru">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="8"/>
+		<attribute key="attack" value="10"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="11722" name="Gamuza">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="8"/>
+		<attribute key="attack" value="10"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="11721" name="Pantera">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="8"/>
+		<attribute key="attack" value="10"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="11724" name="Minazuki">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="8"/>
+		<attribute key="attack" value="10"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16357" name="Nozarashi">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="8"/>
+		<attribute key="attack" value="10"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16358" name="Nozarashi">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="15"/>
+		<attribute key="attack" value="20"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16359" name="Nozarashi">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="20"/>
+		<attribute key="attack" value="30"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16360" name="Nozarashi">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="25"/>
+		<attribute key="attack" value="40"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16361" name="Nozarashi">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="30"/>
+		<attribute key="attack" value="50"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16362" name="Nozarashi">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="35"/>
+		<attribute key="attack" value="60"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16363" name="Benihime">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="8"/>
+		<attribute key="attack" value="10"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16364" name="Benihime">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="15"/>
+		<attribute key="attack" value="20"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16364" name="Benihime">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="20"/>
+		<attribute key="attack" value="30"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16365" name="Benihime">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="25"/>
+		<attribute key="attack" value="40"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16366" name="Benihime">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="30"/>
+		<attribute key="attack" value="50"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16367" name="Benihime">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="35"/>
+		<attribute key="attack" value="60"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16369" name="Houzukimaru">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="8"/>
+		<attribute key="attack" value="10"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16370" name="Houzukimaru">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="15"/>
+		<attribute key="attack" value="20"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16371" name="Houzukimaru">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="20"/>
+		<attribute key="attack" value="30"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16372" name="Houzukimaru">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="25"/>
+		<attribute key="attack" value="40"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16373" name="Houzukimaru">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="30"/>
+		<attribute key="attack" value="50"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16374" name="Houzukimaru">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="35"/>
+		<attribute key="attack" value="60"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="11098" name="Senbonzakura">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="8"/>
+		<attribute key="attack" value="10"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="11724" name="Santa Teresa">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="8"/>
+		<attribute key="attack" value="10"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	
+	<!-- Gloves -->
+	<item id="16375" name="Brazo Derecha de Gigante">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="8"/>
+		<attribute key="attack" value="10"/>
+		<attribute key="weaponType" value="axe"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16376" name="Brazo Derecha de Gigante">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="15"/>
+		<attribute key="attack" value="20"/>
+		<attribute key="weaponType" value="axe"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16377" name="Brazo Derecha de Gigante">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="20"/>
+		<attribute key="attack" value="30"/>
+		<attribute key="weaponType" value="axe"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16378" name="Brazo Derecha de Gigante">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="25"/>
+		<attribute key="attack" value="40"/>
+		<attribute key="weaponType" value="axe"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16379" name="Brazo Derecha de Gigante">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="30"/>
+		<attribute key="attack" value="50"/>
+		<attribute key="weaponType" value="axe"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16380" name="Brazo Derecha de Gigante">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="35"/>
 		<attribute key="attack" value="60"/>
 		<attribute key="weaponType" value="axe"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-
+	
 	<!-- Distance -->
-	<item id="15823" article="an" name="Lanza Del Relampago">
+	<item id="16381" article="an" name="Kojaku">
+		<attribute key="weight" value="200"/>
+		<attribute key="attack" value="10"/>
+		<attribute key="weaponType" value="distance"/>
+		<attribute key="range" value="10"/>
+		<attribute key="hitChance" value="100"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16382" article="an" name="kojaku">
+		<attribute key="weight" value="200"/>
+		<attribute key="attack" value="20"/>
+		<attribute key="weaponType" value="distance"/>
+		<attribute key="range" value="10"/>
+		<attribute key="hitChance" value="100"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16383" article="an" name="kojaku">
+		<attribute key="weight" value="200"/>
+		<attribute key="attack" value="30"/>
+		<attribute key="weaponType" value="distance"/>
+		<attribute key="range" value="10"/>
+		<attribute key="hitChance" value="100"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16384" article="an" name="kojaku">
+		<attribute key="weight" value="200"/>
+		<attribute key="attack" value="40"/>
+		<attribute key="weaponType" value="distance"/>
+		<attribute key="range" value="10"/>
+		<attribute key="hitChance" value="100"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16385" article="an" name="kojaku">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="50"/>
 		<attribute key="weaponType" value="distance"/>
@@ -22690,7 +22993,7 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="15423" article="an" name="Legendary Lanza Del Relampago">
+	<item id="16386" article="an" name="kojaku">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="60"/>
 		<attribute key="weaponType" value="distance"/>
@@ -22698,23 +23001,97 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="15424" article="an" name="Ultimate Lanza Del Relampago">
-		<attribute key="weight" value="200"/>
-		<attribute key="attack" value="70"/>
-		<attribute key="weaponType" value="distance"/>
-		<attribute key="range" value="10"/>
-		<attribute key="hitChance" value="100"/>
-	</item>
-	<item id="15090" article="an" name="Inicial Bow">
+	<item id="16387" article="an" name="Shun Shun Rikka">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="10"/>
 		<attribute key="weaponType" value="distance"/>
 		<attribute key="range" value="10"/>
 		<attribute key="hitChance" value="100"/>
+		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="15091" article="an" name="Quincy Bow">
+	<item id="16388" article="an" name="Shun Shun Rikka">
 		<attribute key="weight" value="200"/>
-		<attribute key="attack" value="25"/>
+		<attribute key="attack" value="20"/>
+		<attribute key="weaponType" value="distance"/>
+		<attribute key="range" value="10"/>
+		<attribute key="hitChance" value="100"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16389" article="an" name="Shun Shun Rikka">
+		<attribute key="weight" value="200"/>
+		<attribute key="attack" value="30"/>
+		<attribute key="weaponType" value="distance"/>
+		<attribute key="range" value="10"/>
+		<attribute key="hitChance" value="100"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16390" article="an" name="Shun Shun Rikka">
+		<attribute key="weight" value="200"/>
+		<attribute key="attack" value="40"/>
+		<attribute key="weaponType" value="distance"/>
+		<attribute key="range" value="10"/>
+		<attribute key="hitChance" value="100"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16391" article="an" name="Shun Shun Rikka">
+		<attribute key="weight" value="200"/>
+		<attribute key="attack" value="50"/>
+		<attribute key="weaponType" value="distance"/>
+		<attribute key="range" value="10"/>
+		<attribute key="hitChance" value="100"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16392" article="an" name="Shun Shun Rikka">
+		<attribute key="weight" value="200"/>
+		<attribute key="attack" value="60"/>
+		<attribute key="weaponType" value="distance"/>
+		<attribute key="range" value="10"/>
+		<attribute key="hitChance" value="100"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16393" article="an" name="Lanza Del Relampago">
+		<attribute key="weight" value="200"/>
+		<attribute key="attack" value="10"/>
+		<attribute key="weaponType" value="distance"/>
+		<attribute key="range" value="10"/>
+		<attribute key="hitChance" value="100"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16394" article="an" name="Lanza Del Relampago">
+		<attribute key="weight" value="200"/>
+		<attribute key="attack" value="20"/>
+		<attribute key="weaponType" value="distance"/>
+		<attribute key="range" value="10"/>
+		<attribute key="hitChance" value="100"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16395" article="an" name="Lanza Del Relampago">
+		<attribute key="weight" value="200"/>
+		<attribute key="attack" value="30"/>
+		<attribute key="weaponType" value="distance"/>
+		<attribute key="range" value="10"/>
+		<attribute key="hitChance" value="100"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16396" article="an" name="Lanza Del Relampago">
+		<attribute key="weight" value="200"/>
+		<attribute key="attack" value="40"/>
+		<attribute key="weaponType" value="distance"/>
+		<attribute key="range" value="10"/>
+		<attribute key="hitChance" value="100"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16397" article="an" name="Lanza Del Relampago">
+		<attribute key="weight" value="200"/>
+		<attribute key="attack" value="50"/>
+		<attribute key="weaponType" value="distance"/>
+		<attribute key="range" value="10"/>
+		<attribute key="hitChance" value="100"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16398" article="an" name="Lanza Del Relampago">
+		<attribute key="weight" value="200"/>
+		<attribute key="attack" value="60"/>
 		<attribute key="weaponType" value="distance"/>
 		<attribute key="range" value="10"/>
 		<attribute key="hitChance" value="100"/>
