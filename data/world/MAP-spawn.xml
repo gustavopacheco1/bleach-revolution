@@ -66,9 +66,6 @@
 		<monster name="Snake Hollow" x="0" y="0" z="0" spawntime="60" />
 		<monster name="Snake Hollow" x="-1" y="1" z="0" spawntime="60" />
 	</spawn>
-	<spawn centerx="3443" centery="3611" centerz="0" radius="1">
-		<monster name="Legendary Blank" x="0" y="0" z="0" spawntime="60" />
-	</spawn>
 	<spawn centerx="3415" centery="2707" centerz="1" radius="1">
 		<monster name="Arrancar Hollow" x="1" y="-1" z="1" spawntime="60" />
 		<monster name="Arrancar Hollow" x="0" y="0" z="1" spawntime="60" />
@@ -8648,9 +8645,6 @@
 	</spawn>
 	<spawn centerx="4069" centery="3519" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3686" centery="3521" centerz="6" radius="1">
-		<monster name="Legendary Kyoraku" x="1" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4042" centery="3523" centerz="6" radius="1">
 		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
