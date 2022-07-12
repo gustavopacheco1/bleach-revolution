@@ -14,7 +14,7 @@
 
 	-- MySql
 	sqlType = "mysql"
-	sqlHost = "66.70.155.246"
+	sqlHost = "127.0.0.1"
 	sqlPort = 3306
 	sqlUser = "bM498s79Sd040"
 	sqlPass = "a8s79dASdmhkoCK"
@@ -28,7 +28,7 @@
 
 	-- World / Ip / Port
 	worldId = 0
-	ip = "127.0.0.1"
+	ip = "66.70.155.246"
 	worldType = "open"
 	bindOnlyGlobalAddress = false
 	loginPort = 7171
