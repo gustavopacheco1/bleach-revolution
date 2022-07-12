@@ -18054,13 +18054,6 @@
 		<attribute key="absorbPercentEarth" value="-5"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
-	<item id="7894" name="Shinigami Legs">
-		<attribute key="weight" value="1900"/>
-		<attribute key="armor" value="21"/>
-		<attribute key="skillSword" value="5"/>
-		<attribute key="magiclevelpoints" value="3"/>
-		<attribute key="slotType" value="legs"/>
-	</item>
 	<item id="7895" name="lightning legs">
 		<attribute key="weight" value="1900"/>
 		<attribute key="armor" value="8"/>
