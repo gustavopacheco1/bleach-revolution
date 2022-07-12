@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <monsters>
+	<!-- Hunt -->
 	<monster name="Black Wolf" file="hunt/black wolf.xml"/>
 	<monster name="Snake hollow" file="hunt/Snake hollow.xml"/>
 	<monster name="Arrancar hollow" file="hunt/Arrancar hollow.xml"/>
@@ -36,55 +37,57 @@
 	<monster name="Urahara" file="hunt/Urahara.xml"/>
 	<monster name="Urahara Two" file="hunt/Urahara Two.xml"/>
 	<monster name="Urahara Three" file="hunt/Urahara Three.xml"/>
-	<monster name="Legendary Grand Fisher" file="hunt/Legendary Grand Fisher.xml"/>
 	<monster name="Mugetsu Especial" file="hunt/Mugetsu Especial.xml"/>
 	<monster name="Nnoitra Two" file="hunt/Nnoitra Two.xml"/>
-	<monster name="Legendary Nnoitra" file="hunt/Legendary Nnoitra.xml"/>
-	<monster name="Vizard Legendary" file="hunt/Vizard Legendary.xml"/>
-	<monster name="Vizard One Boss" file="hunt/Vizard One Boss.xml"/>
-	<monster name="Vizard Two Boss" file="hunt/Vizard Two Boss.xml"/>
-	<monster name="Vizard Three Boss" file="hunt/Vizard Three Boss.xml"/>
-	<monster name="Vizard Four Boss" file="hunt/Vizard Four Boss.xml"/>
 	<monster name="Ryu" file="hunt/Ryu.xml"/>
-	<monster name="Ryu Boss" file="hunt/Ryu Boss.xml"/>
 	<monster name="Samurai" file="hunt/Samurai.xml"/>
-	<monster name="Samurai Boss" file="hunt/Samurai Boss.xml"/>
 	<monster name="Hiroshi" file="hunt/Hiroshi.xml"/>
-	<monster name="Hiroshi Boss" file="hunt/Hiroshi Boss.xml"/>
-	<monster name="Hiroshi Boss Two" file="hunt/Hiroshi Boss Two.xml"/>
 	<monster name="Hiroshin" file="hunt/Hiroshin.xml"/>
 	<monster name="Zangetsu" file="hunt/Zangetsu.xml"/>
-	<monster name="Legendary Zangetsu" file="hunt/Legendary Zangetsu.xml"/>
-	<monster name="Zangetsu Legendary Two" file="hunt/Zangetsu Legendary Two.xml"/>
-	<monster name="Zangetsu Legendary Three" file="hunt/Zangetsu Legendary Three.xml"/>
-	<monster name="Arrancar Boss" file="hunt/Arrancar Boss.xml"/>
 	<monster name="Kensei" file="hunt/Kensei.xml"/>
-	<monster name="Kensei Boss" file="hunt/Kensei Boss.xml"/>
-	<monster name="Barragan Boss" file="hunt/Barragan Boss.xml"/>
-	<monster name="Barragan Boss Two" file="hunt/Barragan Boss Two.xml"/>
-	<monster name="Arrancar Misteryo" file="hunt/Arrancar Misteryo.xml"/>
-	<monster name="Especial Arrancar Boss" file="hunt/Especial Arrancar Boss.xml"/>
 	<monster name="Hollow Snake" file="hunt/Hollow Snake.xml"/>
 	<monster name="Especial Hollow Snake" file="hunt/Especial Hollow Snake.xml"/>
 	<monster name="Fake Zaraki" file="hunt/Fake Zaraki.xml"/>
-	<monster name="Zaraki Legendary" file="hunt/Zaraki Legendary.xml"/>
 	<monster name="Vizard" file="hunt/Vizard.xml"/>
-	<monster name="Vizard One" file="hunt/Vizard One.xml"/>
-	<monster name="Vizard Two" file="hunt/Vizard Two.xml"/>
-	<monster name="Vizard Three" file="hunt/Vizard Three.xml"/>
-	<monster name="Vizard Four" file="hunt/Vizard Four.xml"/>
 	<monster name="Rungokai Bandit" file="hunt/Rungokai Bandit.xml"/>
-	<monster name="Legendary Vizard" file="hunt/Legendary Vizard.xml"/>
 	<monster name="Menos" file="hunt/Menos.xml"/>
-	<monster name="Legendary menos" file="hunt/Legendary Menos.xml"/>
 	<monster name="Rat" file="hunt/Rat.xml"/>
-	<monster name="Legendary Kaname" file="hunt/Legendary Kaname.xml"/>
-	<monster name="Legendary Kyoraku" file="hunt/Legendary Kyoraku.xml"/>
-	<monster name="Legendary Blank" file="hunt/Legendary Blank.xml"/>
 	<monster name="Soldier Barragan" file="hunt/Soldier Barragan.xml"/>
 	<monster name="Aaroniero" file="hunt/Aaroniero.xml"/>
 	<monster name="Yammany" file="hunt/Yammany.xml"/>
 	<monster name="Soldier Watcher" file="hunt/Soldier Watcher.xml"/>
+	<monster name="Vizard One" file="hunt/Vizard One.xml"/>
+	<monster name="Vizard Two" file="hunt/Vizard Two.xml"/>
+	<monster name="Vizard Three" file="hunt/Vizard Three.xml"/>
+	<monster name="Vizard Four" file="hunt/Vizard Four.xml"/>
+	<monster name="Arrancar Misteryo" file="hunt/Arrancar Misteryo.xml"/>
+
+	<!-- Boss -->
+	<monster name="Legendary Vizard" file="boss/Legendary Vizard.xml"/>
+	<monster name="Vizard Legendary" file="boss/Vizard Legendary.xml"/>
+	<monster name="Vizard One Boss" file="boss/Vizard One Boss.xml"/>
+	<monster name="Vizard Two Boss" file="boss/Vizard Two Boss.xml"/>
+	<monster name="Vizard Three Boss" file="boss/Vizard Three Boss.xml"/>
+	<monster name="Vizard Four Boss" file="boss/Vizard Four Boss.xml"/>
+	<monster name="Legendary Zangetsu" file="boss/Legendary Zangetsu.xml"/>
+	<monster name="Zangetsu Legendary Two" file="boss/Zangetsu Legendary Two.xml"/>
+	<monster name="Zangetsu Legendary Three" file="boss/Zangetsu Legendary Three.xml"/>
+	<monster name="Hiroshi Boss" file="boss/Hiroshi Boss.xml"/>
+	<monster name="Hiroshi Boss Two" file="boss/Hiroshi Boss Two.xml"/>
+	<monster name="Barragan Boss" file="boss/Barragan Boss.xml"/>
+	<monster name="Barragan Boss Two" file="boss/Barragan Boss Two.xml"/>
+	<monster name="Legendary Grand Fisher" file="boss/Legendary Grand Fisher.xml"/>
+	<monster name="Legendary Nnoitra" file="boss/Legendary Nnoitra.xml"/>
+	<monster name="Zaraki Legendary" file="boss/Zaraki Legendary.xml"/>
+	<monster name="Legendary menos" file="boss/Legendary Menos.xml"/>
+	<monster name="Ryu Boss" file="boss/Ryu Boss.xml"/>
+	<monster name="Samurai Boss" file="boss/Samurai Boss.xml"/>
+	<monster name="Arrancar Boss" file="boss/Arrancar Boss.xml"/>
+	<monster name="Kensei Boss" file="boss/Kensei Boss.xml"/>
+	<monster name="Especial Arrancar Boss" file="boss/Especial Arrancar Boss.xml"/>
+	<monster name="Kaname" file="boss/Kaname.xml"/>
+	<monster name="Kyoraku" file="boss/Kyoraku.xml"/>
+	<monster name="Blank" file="boss/Blank.xml"/>
 
 	<!-- Clones -->
 	<monster name="Rukia Clone" file="clones/Rukia Clone.xml"/>
