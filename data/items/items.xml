@@ -22956,28 +22956,28 @@
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16364" name="Benihime">
+	<item id="16365" name="Benihime">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="20"/>
 		<attribute key="attack" value="30"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16365" name="Benihime">
+	<item id="16366" name="Benihime">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="25"/>
 		<attribute key="attack" value="40"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16366" name="Benihime">
+	<item id="16367" name="Benihime">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="30"/>
 		<attribute key="attack" value="50"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16367" name="Benihime">
+	<item id="16368" name="Benihime">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="35"/>
 		<attribute key="attack" value="60"/>
@@ -23026,17 +23026,87 @@
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="11098" name="Senbonzakura">
+	<item id="16429" name="Senbonzakura">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="8"/>
 		<attribute key="attack" value="10"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="11724" name="Santa Teresa">
+	<item id="16430" name="Senbonzakura">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="15"/>
+		<attribute key="attack" value="20"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16431" name="Senbonzakura">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="20"/>
+		<attribute key="attack" value="30"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16432" name="Senbonzakura">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="25"/>
+		<attribute key="attack" value="40"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16433" name="Senbonzakura">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="30"/>
+		<attribute key="attack" value="50"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16434" name="Senbonzakura">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="35"/>
+		<attribute key="attack" value="60"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16337" name="Santa Teresa">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="8"/>
 		<attribute key="attack" value="10"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16403" name="Santa Teresa">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="15"/>
+		<attribute key="attack" value="20"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16407" name="Santa Teresa">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="20"/>
+		<attribute key="attack" value="30"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16412" name="Santa Teresa">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="25"/>
+		<attribute key="attack" value="40"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16418" name="Santa Teresa">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="30"/>
+		<attribute key="attack" value="50"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16427" name="Santa Teresa">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="35"/>
+		<attribute key="attack" value="60"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
