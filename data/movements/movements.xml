@@ -942,16 +942,16 @@
 	
 	<!-- Armas -->
 	<!-- Zangetsu -->
-	<movevent type="Equip" itemid="16339" level="1" slot="weapon" event="function" value="onEquipItem"/>
-	<movevent type="DeEquip" itemid="16339" slot="weapon" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="16339" level="1" slot="sword" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="16339" slot="sword" event="function" value="onDeEquipItem"/>
 	<movevent type="Equip" itemid="16340" level="100" slot="weapon" event="function" value="onEquipItem"/>
-	<movevent type="DeEquip" itemid="16340" slot="weapon" event="function" value="onDeEquipItem"/>
-	<movevent type="Equip" itemid="16341" level="200" slot="weapon" event="function" value="onEquipItem"/>
-	<movevent type="DeEquip" itemid="16341" slot="weapon" event="function" value="onDeEquipItem"/>
-	<movevent type="Equip" itemid="16342" level="300" slot="weapontype" event="function" value="onEquipItem"/>
-	<movevent type="DeEquip" itemid="16342" slot="weapontype" event="function" value="onDeEquipItem"/>
-	<movevent type="Equip" itemid="16343" level="400" slot="weapon" event="function" value="onEquipItem"/>
-	<movevent type="DeEquip" itemid="16343" slot="weapon" event="function" value="onDeEquipItem"/>
-	<movevent type="Equip" itemid="16344" level="500" slot="weapon" event="function" value="onEquipItem"/>
-	<movevent type="DeEquip" itemid="16344" slot="weapon" event="function" value="onDeEquipItem"/>
+	<movevent type="DeEquip" itemid="16340" slot="sword" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="16341" level="200" slot="sword" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="16341" slot="sword" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="16342" level="300" slot="sword" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="16342" slot="sword" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="16343" level="400" slot="sword" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="16343" slot="sword" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="16344" level="500" slot="sword" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="16344" slot="sword" event="function" value="onDeEquipItem"/>
 </movements>
