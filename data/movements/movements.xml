@@ -939,4 +939,19 @@
 	<movevent type="DeEquip" itemid="15742" slot="necklace" event="function" value="onDeEquipItem"/>
 	<movevent type="Equip" itemid="15800" level="150" slot="necklace" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="15800" slot="necklace" event="function" value="onDeEquipItem"/>
+	
+	<!-- Armas -->
+	<!-- Zangetsu -->
+	<movevent type="Equip" itemid="16339" level="1" slot="weapontype" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="16339" slot="weapontype" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="16340" level="100" slot="weapontype" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="16340" slot="weapontype" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="16341" level="200" slot="weapontype" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="16341" slot="weapontype" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="16342" level="300" slot="weapontype" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="16342" slot="weapontype" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="16343" level="400" slot="weapontype" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="16343" slot="weapontype" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="16344" level="500" slot="weapontype" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="16344" slot="weapontype" event="function" value="onDeEquipItem"/>
 </movements>
