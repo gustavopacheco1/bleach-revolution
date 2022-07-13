@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Monster Level: 50 -->
-<monster name="Hollow Wolf" nameDescription="Hollow Wolf" race="blood" experience="8000" speed="100" manacost="0">
+<!-- Monster Level: 30 -->
+<monster name="Hollow Wolf" nameDescription="Hollow Wolf" race="blood" experience="4000" speed="100" manacost="0">
     <health now="1700" max="1700" />
     <look type="118" corpse="16330" />
     <targetchange interval="5000" chance="8" />
@@ -19,7 +19,7 @@
         <flag runonhealth="0" />
     </flags>
     <attacks>
-        <attack name="melee" interval="2000" min="-200" max="-220" />
+        <attack name="melee" interval="2000" min="-500" max="-900" />
     </attacks>
     <defenses armor="0" defense="0" />
     <immunities>
@@ -36,6 +36,6 @@
         <event name="YamamotoTask" />
     </script>
 	<loot>
-        <item id="2152" chance="15000" count="20" countmax="23"/>
+        <item id="2148" chance="500" count="1" countmax="2"/>
     </loot>
 </monster>

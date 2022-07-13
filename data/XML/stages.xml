@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <stages>
 <config enabled="1"/>
-<stage minlevel="1"       maxlevel="50"       multiplier="20"/>
-<stage minlevel="51"      maxlevel="60"       multiplier="15"/>
-<stage minlevel="61"      maxlevel="70"       multiplier="14"/>
-<stage minlevel="71"      maxlevel="80"       multiplier="13"/>
-<stage minlevel="81"      maxlevel="90"       multiplier="12"/>
-<stage minlevel="91"      maxlevel="100"      multiplier="11"/>
-<stage minlevel="101"     maxlevel="150"      multiplier="10"/>
-<stage minlevel="151"     maxlevel="200"      multiplier="5"/>
+<stage minlevel="1"       maxlevel="50"       multiplier="10"/>
+<stage minlevel="51"      maxlevel="60"       multiplier="9"/>
+<stage minlevel="61"      maxlevel="70"       multiplier="8"/>
+<stage minlevel="71"      maxlevel="80"       multiplier="7"/>
+<stage minlevel="81"      maxlevel="90"       multiplier="6"/>
+<stage minlevel="91"      maxlevel="100"      multiplier="5"/>
+<stage minlevel="101"     maxlevel="150"      multiplier="4"/>
+<stage minlevel="151"     maxlevel="200"      multiplier="3"/>
 <stage minlevel="201"     maxlevel="250"      multiplier="3"/>
 <stage minlevel="251"     maxlevel="300"      multiplier="2"/>
 <stage minlevel="301"     maxlevel="350"      multiplier="1"/>
