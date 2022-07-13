@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Monster Quest Tessai Level: 100 -->
 <monster name="Mugetsu Especial" nameDescription="Mugetsu Especial" race="blood" experience="0" speed="900" manacost="0">
     <health now="900000" max="900000" />
     <look type="9" corpse="16330" />
@@ -18,7 +19,7 @@
         <flag runonhealth="0" />
     </flags>
     <attacks>
-        <attack name="melee" interval="2000" min="-55000" max="-60000" />
+        <attack name="melee" interval="2000" min="-5000" max="-5500" />
     </attacks>
     <defenses armor="0" defense="0" />
     <immunities>
