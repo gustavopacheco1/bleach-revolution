@@ -1,87 +1,87 @@
 local vocation_outfits = {
 	["Ichigo Kurosaki"] = {
-		[1] = 1,
-		[100] = 2
-	},
-
-	["Chad"] = {
 		[1] = 3,
 		[100] = 4
 	},
 
+	["Chad"] = {
+		[1] = 409,
+		[100] = 410
+	},
+
 	["Bazz-B"] = {
-		[1] = 5,
-		[100] = 6
+		[1] = 149,
+		[100] = 148
 	},
 
 	["Orihime Inoue"] = {
-		[1] = 7,
-		[100] = 8
+		[1] = 382,
+		[100] = 385
 	},
 
 	["Uryu Ishida"] = {
-		[1] = 9,
-		[100] = 10
+		[1] = 412,
+		[100] = 413
 	},
 
 	["Ulquiorra Ciffer"] = {
-		[1] = 11,
-		[100] = 12
+		[1] = 400,
+		[100] = 403
 	},
 
 	["Zaraki Kenpachi"] = {
-		[1] = 13,
-		[100] = 14
+		[1] = 415,
+		[100] = 416
 	},
 
 	["Byakuya Kuchiki"] = {
-		[1] = 15,
-		[100] = 16
+		[1] = 418,
+		[100] = 420
 	},
 
 	["Toshiro Hitsugaya"] = {
-		[1] = 17,
-		[100] = 18
+		[1] = 73,
+		[100] = 78
 	},
 
 	["Rukia Kuchiki"] = {
-		[1] = 19,
-		[100] = 20
+		[1] = 370,
+		[100] = 371
 	},
 
 	["Nelliel Odelschwanck"] = {
-		[1] = 21,
-		[100] = 22
+		[1] = 429,
+		[100] = 430
 	},
 
 	["Retsu Unohana"] = {
-		[1] = 23,
-		[100] = 24
+		[1] = 425,
+		[100] = 426
 	},
 
 	["Renjii Abarai"] = {
-		[1] = 25,
-		[100] = 26
+		[1] = 376,
+		[100] = 378
 	},
 
 	["Gin Ichimaru"] = {
-		[1] = 27,
-		[100] = 28
+		[1] = 316,
+		[100] = 320
 	},
 
 	["Kuugo Ginjou"] = {
-		[1] = 29,
-		[100] = 30
+		[1] = 326,
+		[100] = 328
 	},
 
 	["Tier Halibel"] = {
-		[1] = 31,
-		[100] = 32
+		[1] = 321,
+		[100] = 324
 	},
 
 	["Urahara Kisuke"] = {
-		[1] = 33,
-		[100] = 34
+		[1] = 331,
+		[100] = 333
 	}
 }
 
@@ -96,13 +96,13 @@ function onAdvance(cid, skill, oldLevel, newLevel)
 		return true
 	end
 
-	if newLevel < 100 and canPlayerWearOutfitId(cid, vocation_outfits[player_vocation_name][100]) then
-		doPlayerRemoveOutfitId(cid, vocation_outfits[player_vocation_name][100])
+	if newLevel < 100 and canPlayerWearOutfit(cid, vocation_outfits[player_vocation_name][100]) then
+		doPlayerRemoveOutfit(cid, vocation_outfits[player_vocation_name][100])
 		return true
 	end
 
-	if newLevel >= 100 and not canPlayerWearOutfitId(cid, vocation_outfits[player_vocation_name][100]) then
-		doPlayerAddOutfitId(cid, vocation_outfits[player_vocation_name][100], 0)
+	if newLevel >= 100 and not canPlayerWearOutfit(cid, vocation_outfits[player_vocation_name][100]) then
+		doPlayerAddOutfit(cid, vocation_outfits[player_vocation_name][100], 0)
 	end
 
 	return true
@@ -115,20 +115,20 @@ function onLogin(cid)
 		return true
 	end
 
-	if not canPlayerWearOutfitId(cid, vocation_outfits[player_vocation_name][1]) then
-		doPlayerAddOutfitId(cid, vocation_outfits[player_vocation_name][1], 0)
-		doCreatureChangeOutfitId(cid, { lookType = vocation_outfits[player_vocation_name][1] })
+	if not canPlayerWearOutfit(cid, vocation_outfits[player_vocation_name][1]) then
+		doPlayerAddOutfit(cid, vocation_outfits[player_vocation_name][1], 0)
+		doCreatureChangeOutfit(cid, { lookType = vocation_outfits[player_vocation_name][1] })
 	end
 
 	local player_level = getPlayerLevel(cid)
 
-	if player_level >= 100 and not canPlayerWearOutfitId(cid, vocation_outfits[player_vocation_name][100]) then
-		doPlayerAddOutfitId(cid, vocation_outfits[player_vocation_name][1], 0)
+	if player_level >= 100 and not canPlayerWearOutfit(cid, vocation_outfits[player_vocation_name][100]) then
+		doPlayerAddOutfit(cid, vocation_outfits[player_vocation_name][1], 0)
 		return true
 	end
 
-	if player_level < 100 and canPlayerWearOutfitId(cid, vocation_outfits[player_vocation_name][100]) then
-		doPlayerRemoveOutfitId(cid, vocation_outfits[player_vocation_name][100])
+	if player_level < 100 and canPlayerWearOutfit(cid, vocation_outfits[player_vocation_name][100]) then
+		doPlayerRemoveOutfit(cid, vocation_outfits[player_vocation_name][100])
 	end
 
 	return true
