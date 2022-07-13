@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Monster Quest Level: 350 -->
+<!-- Monster Quest Level: 150 -->
 <monster name="Hiroshi" nameDescription="Hiroshi" race="blood" experience="0" speed="800" manacost="0">
     <health now="400000" max="400000" />
     <look type="174" corpse="16330" />
@@ -19,7 +19,7 @@
         <flag runonhealth="0" />
     </flags>
     <attacks>
-        <attack name="melee" interval="2000" min="-70000" max="-75500" />
+        <attack name="melee" interval="2000" min="-13000" max="-13500" />
     </attacks>
     <defenses armor="0" defense="0" />
     <immunities>

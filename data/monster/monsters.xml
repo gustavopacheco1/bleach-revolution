@@ -46,7 +46,6 @@
 	<monster name="Zangetsu" file="hunt/Zangetsu.xml"/>
 	<monster name="Kensei" file="hunt/Kensei.xml"/>
 	<monster name="Hollow Snake" file="hunt/Hollow Snake.xml"/>
-	<monster name="Especial Hollow Snake" file="hunt/Especial Hollow Snake.xml"/>
 	<monster name="Fake Zaraki" file="hunt/Fake Zaraki.xml"/>
 	<monster name="Vizard" file="hunt/Vizard.xml"/>
 	<monster name="Rungokai Bandit" file="hunt/Rungokai Bandit.xml"/>
@@ -88,6 +87,8 @@
 	<monster name="Kaname" file="boss/Kaname.xml"/>
 	<monster name="Kyoraku" file="boss/Kyoraku.xml"/>
 	<monster name="Blank" file="boss/Blank.xml"/>
+	<monster name="Adjuchas Boss" file="boss/Adjuchas Boss.xml"/>
+	<monster name="Especial Hollow Snake" file="Boss/Especial Hollow Snake.xml"/>
 
 	<!-- Clones -->
 	<monster name="Rukia Clone" file="clones/Rukia Clone.xml"/>

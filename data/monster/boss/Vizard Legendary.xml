@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Monster Quest Level: 400 -->
+<!-- Monster Quest Level: 300 -->
 <monster name="Vizard Legendary" nameDescription="Vizard Legendary" race="blood" experience="0" speed="900" manacost="0">
     <health now="700000" max="700000" />
     <look type="134" corpse="16330" />
@@ -19,7 +19,7 @@
         <flag runonhealth="0" />
     </flags>
     <attacks>
-        <attack name="melee" interval="2000" min="-115100" max="-115500" />
+        <attack name="melee" interval="2000" min="-45000" max="-45500" />
     </attacks>
     <defenses armor="0" defense="0" />
     <immunities>
