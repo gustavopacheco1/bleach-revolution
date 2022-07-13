@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Boss Quest Level: 350 -->
+<!-- Boss Quest Level: 150 -->
 <monster name="Hiroshi Boss Two" nameDescription="Hiroshi Boss Two" race="blood" experience="0" speed="900" manacost="0">
     <health now="1100000" max="1100000" />
     <look type="178" corpse="16330" />
@@ -19,7 +19,7 @@
         <flag runonhealth="0" />
     </flags>
     <attacks>
-        <attack name="melee" interval="2000" min="-80000" max="85000" />
+        <attack name="melee" interval="2000" min="-19000" max="20500" />
     </attacks>
     <defenses armor="0" defense="0" />
     <immunities>

@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Boss Quest Level: 70 -->
-<monster name="Kensei Boss" nameDescription="Kensei Boss" race="blood" experience="0" speed="700" manacost="0">
+<!-- Boss Quest Level: 150 -->
+<monster name="Especial Hollow Snake" nameDescription="Especial Hollow Snake" race="blood" experience="0" speed="900" manacost="0">
+
     <health now="1000000" max="1000000" />
-    <look type="131" corpse="16330" />
+    <look type="17" corpse="16330" />
     <targetchange interval="5000" chance="8" />
     <strategy attack="100" defense="0" />
     <flags>
@@ -19,19 +20,19 @@
         <flag runonhealth="0" />
     </flags>
     <attacks>
-        <attack name="melee" interval="2000" min="-8000" max="-8100" />
+        <attack name="melee" interval="1500" min="-17000" max="-17500" />
     </attacks>
     <defenses armor="0" defense="0" />
     <immunities>
-        <immunity physical="0" />
-        <immunity energy="0" />
-        <immunity fire="0" />
-        <immunity poison="0" />
-        <immunity lifedrain="0" />
-        <immunity paralyze="0" />
-        <immunity outfit="1" />
-        <immunity invisible="0" />
-    </immunities>
+		<immunity physical="0" />
+		<immunity energy="0" />
+		<immunity fire="0" />
+		<immunity poison="0" />
+		<immunity lifedrain="0" />
+		<immunity paralyze="0" />
+		<immunity outfit="1" />
+		<immunity invisible="0" />
+	</immunities>
     <script>
         <event name="MonsterTeleportOnDeath" />
     </script>

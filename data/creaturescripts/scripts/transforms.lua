@@ -82,6 +82,26 @@ local vocation_outfits = {
 	["Urahara Kisuke"] = {
 		[1] = 331,
 		[100] = 333
+	},
+	
+	["Grimmjow Jaegerjaquez"] = {
+		[1] = 406,
+		[100] = 407
+	},
+	
+	["Ikkaku Madarame"] = {
+		[1] = 434,
+		[100] = 437
+	},
+	
+	["Coyote Starrk"] = {
+		[1] = 448,
+		[100] = 449
+	},
+	
+	["Nnoitra Gilga"] = {
+		[1] = 452,
+		[100] = 453
 	}
 }
 

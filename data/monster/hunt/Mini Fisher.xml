@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Monster Level: 70 -->
-<monster name="Mini Fisher" nameDescription="Mini Fisher" race="blood" experience="16000" speed="400" manacost="0">
-    <health now="30000" max="30000" />
+<monster name="Mini Fisher" nameDescription="Mini Fisher" race="blood" experience="1500" speed="400" manacost="0">
+    <health now="15000" max="15000" />
     <look type="13" corpse="16330" />
     <targetchange interval="5000" chance="8" />
     <strategy attack="100" defense="0" />

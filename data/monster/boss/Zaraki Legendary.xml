@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Boss Quest Level: 400 -->
+<!-- Boss Quest Level: 200 -->
 <monster name="Zaraki Legendary" nameDescription="Zaraki Legendary" race="blood" experience="0" speed="900" manacost="0">
     <health now="1400000" max="1400000" />
     <look type="54" corpse="16330" />
@@ -19,7 +19,7 @@
         <flag runonhealth="0" />
     </flags>
     <attacks>
-        <attack name="melee" interval="1500" min="-100000" max="-110000" />
+        <attack name="melee" interval="1500" min="-20000" max="-20500" />
     </attacks>
     <defenses armor="0" defense="0" />
     <immunities>

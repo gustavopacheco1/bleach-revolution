@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Boss Quest Level: 400 -->
+<!-- Boss Quest Level: 150 -->
 <monster name="Barragan Boss" nameDescription="Barragan Boss" race="blood" experience="0" speed="900" manacost="0">
     <health now="1000000" max="1000000" />
     <look type="69" corpse="16330" />
@@ -19,7 +19,7 @@
         <flag runonhealth="0" />
     </flags>
     <attacks>
-        <attack name="melee" interval="1500" min="-115000" max="-120500" />
+        <attack name="melee" interval="1500" min="-40000" max="-40500" />
     </attacks>
     <defenses armor="0" defense="0" />
     <immunities>

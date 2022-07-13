@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Boss Drop Level: 475 -->
-<monster name="Arrancar Boss" nameDescription="Arrancar Boss" race="blood" experience="0" speed="300" manacost="0">
+<!-- Boss Quest Level: 100 -->
+<monster name="Arrancar Boss" nameDescription="Arrancar Boss" race="blood" experience="0" speed="500" manacost="0">
     <health now="2000000" max="2000000" />
     <look type="31" corpse="16330" />
     <targetchange interval="5000" chance="8" />
@@ -20,7 +20,7 @@
         <flag lootmessage="0" />
     </flags>
     <attacks>
-        <attack name="melee" interval="2000" min="-143000" max="-145100" />
+        <attack name="melee" interval="2000" min="-20000" max="-20500" />
     </attacks>
     <defenses armor="0" defense="0" />
     <immunities>
@@ -33,10 +33,6 @@
 		<immunity outfit="1" />
 		<immunity invisible="0" />
 	</immunities>
-	<loot>
-        <item id="2160" chance="15000" count="20" countmax="25"/>
-		<item id="15055" chance="1000" count="1" countmax="1"/>
-    </loot>
     <script>
         <event name="MonsterTeleportOnDeath" />
     </script>

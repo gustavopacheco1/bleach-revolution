@@ -20484,8 +20484,8 @@
 	<spawn centerx="3593" centery="4181" centerz="7" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3480" centery="2636" centerz="8" radius="1">
-		<monster name="Arrancar Boss" x="0" y="0" z="8" spawntime="3600" />
+	<spawn centerx="3479" centery="2637" centerz="8" radius="1">
+		<monster name="Adjuchas Boss" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3951" centery="2639" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -22212,7 +22212,10 @@
 		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3395" centery="3494" centerz="8" radius="1" />
+	<spawn centerx="3395" centery="3494" centerz="8" radius="1">
+		<monster name="Samurai" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="4341" centery="3494" centerz="8" radius="1">
 		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="0" y="-1" z="8" spawntime="60" />
@@ -22246,7 +22249,10 @@
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3404" centery="3499" centerz="8" radius="1" />
+	<spawn centerx="3404" centery="3499" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="4330" centery="3499" centerz="8" radius="1">
 		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="-1" y="0" z="8" spawntime="60" />
@@ -22258,7 +22264,10 @@
 		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3396" centery="3501" centerz="8" radius="1" />
+	<spawn centerx="3396" centery="3501" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3526" centery="3501" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Rat" x="1" y="1" z="8" spawntime="60" />
@@ -22302,7 +22311,10 @@
 	<spawn centerx="3537" centery="3510" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3405" centery="3511" centerz="8" radius="1" />
+	<spawn centerx="3405" centery="3511" centerz="8" radius="1">
+		<monster name="Samurai" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3528" centery="3511" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -22315,7 +22327,10 @@
 	<spawn centerx="3564" centery="3512" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3353" centery="3513" centerz="8" radius="1" />
+	<spawn centerx="3353" centery="3513" centerz="8" radius="1">
+		<monster name="Samurai" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3468" centery="3513" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -22335,7 +22350,10 @@
 		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3364" centery="3515" centerz="8" radius="1" />
+	<spawn centerx="3364" centery="3515" centerz="8" radius="1">
+		<monster name="Samurai" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Samurai" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3508" centery="3515" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -22364,7 +22382,11 @@
 		<monster name="Arrancar Hollow" x="0" y="1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3328" centery="3517" centerz="8" radius="1" />
+	<spawn centerx="3328" centery="3517" centerz="8" radius="1">
+		<monster name="Samurai" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Samurai" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3483" centery="3517" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -22381,7 +22403,10 @@
 		<monster name="Arrancar Hollow" x="0" y="1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3339" centery="3519" centerz="8" radius="1" />
+	<spawn centerx="3339" centery="3519" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3553" centery="3519" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -22397,15 +22422,24 @@
 	<spawn centerx="3520" centery="3520" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3326" centery="3522" centerz="8" radius="1" />
+	<spawn centerx="3326" centery="3522" centerz="8" radius="1">
+		<monster name="Samurai" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3487" centery="3522" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3548" centery="3522" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3375" centery="3523" centerz="8" radius="1" />
-	<spawn centerx="3406" centery="3523" centerz="8" radius="1" />
+	<spawn centerx="3375" centery="3523" centerz="8" radius="1">
+		<monster name="Samurai" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3406" centery="3523" centerz="8" radius="1">
+		<monster name="Samurai" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3494" centery="3524" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -22415,7 +22449,10 @@
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3332" centery="3525" centerz="8" radius="1" />
+	<spawn centerx="3332" centery="3525" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3521" centery="3526" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -22471,7 +22508,10 @@
 		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3403" centery="3529" centerz="8" radius="1" />
+	<spawn centerx="3403" centery="3529" centerz="8" radius="1">
+		<monster name="Samurai" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3545" centery="3529" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -22484,7 +22524,10 @@
 	<spawn centerx="3575" centery="3530" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3378" centery="3531" centerz="8" radius="1" />
+	<spawn centerx="3378" centery="3531" centerz="8" radius="1">
+		<monster name="Samurai" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3516" centery="3531" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -22534,7 +22577,10 @@
 		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3399" centery="3534" centerz="8" radius="1" />
+	<spawn centerx="3399" centery="3534" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3578" centery="3534" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -22603,13 +22649,25 @@
 	<spawn centerx="3568" centery="3538" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3376" centery="3539" centerz="8" radius="1" />
-	<spawn centerx="3392" centery="3539" centerz="8" radius="1" />
+	<spawn centerx="3376" centery="3539" centerz="8" radius="1">
+		<monster name="Samurai" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3392" centery="3539" centerz="8" radius="1">
+		<monster name="Samurai" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3508" centery="3539" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3314" centery="3541" centerz="8" radius="1" />
-	<spawn centerx="3383" centery="3541" centerz="8" radius="1" />
+	<spawn centerx="3314" centery="3541" centerz="8" radius="1">
+		<monster name="Samurai" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3383" centery="3541" centerz="8" radius="1">
+		<monster name="Samurai" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="4191" centery="3541" centerz="8" radius="1">
 		<monster name="Grand Fisher Lv 2" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
@@ -22628,7 +22686,10 @@
 	<spawn centerx="3500" centery="3542" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3292" centery="3543" centerz="8" radius="1" />
+	<spawn centerx="3292" centery="3543" centerz="8" radius="1">
+		<monster name="Samurai" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="4334" centery="3543" centerz="8" radius="1">
 		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
@@ -22636,7 +22697,10 @@
 		<monster name="Jagdarmee" x="0" y="1" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3372" centery="3544" centerz="8" radius="1" />
+	<spawn centerx="3372" centery="3544" centerz="8" radius="1">
+		<monster name="Samurai" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3479" centery="3544" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -22664,9 +22728,18 @@
 		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3302" centery="3545" centerz="8" radius="1" />
-	<spawn centerx="3322" centery="3545" centerz="8" radius="1" />
-	<spawn centerx="3380" centery="3545" centerz="8" radius="1" />
+	<spawn centerx="3302" centery="3545" centerz="8" radius="1">
+		<monster name="Samurai" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3322" centery="3545" centerz="8" radius="1">
+		<monster name="Samurai" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3380" centery="3545" centerz="8" radius="1">
+		<monster name="Samurai" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3505" centery="3545" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -22705,10 +22778,22 @@
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3292" centery="3548" centerz="8" radius="1" />
-	<spawn centerx="3358" centery="3548" centerz="8" radius="1" />
-	<spawn centerx="3334" centery="3549" centerz="8" radius="1" />
-	<spawn centerx="3347" centery="3549" centerz="8" radius="1" />
+	<spawn centerx="3292" centery="3548" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3358" centery="3548" centerz="8" radius="1">
+		<monster name="Samurai" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3334" centery="3549" centerz="8" radius="1">
+		<monster name="Samurai" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3347" centery="3549" centerz="8" radius="1">
+		<monster name="Samurai" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3494" centery="3549" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -22734,7 +22819,10 @@
 		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3385" centery="3551" centerz="8" radius="1" />
+	<spawn centerx="3385" centery="3551" centerz="8" radius="1">
+		<monster name="Samurai" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="4343" centery="3551" centerz="8" radius="1">
 		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
@@ -22794,8 +22882,14 @@
 	<spawn centerx="5307" centery="3556" centerz="8" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3389" centery="3557" centerz="8" radius="1" />
-	<spawn centerx="3399" centery="3557" centerz="8" radius="1" />
+	<spawn centerx="3389" centery="3557" centerz="8" radius="1">
+		<monster name="Samurai" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3399" centery="3557" centerz="8" radius="1">
+		<monster name="Samurai" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3480" centery="3557" centerz="8" radius="1">
 		<monster name="Rat" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
@@ -22829,7 +22923,10 @@
 		<monster name="Arrancar Hollow" x="0" y="1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3282" centery="3558" centerz="8" radius="1" />
+	<spawn centerx="3282" centery="3558" centerz="8" radius="1">
+		<monster name="Samurai" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="2755" centery="3559" centerz="8" radius="1">
 		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
@@ -22879,7 +22976,10 @@
 		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3391" centery="3564" centerz="8" radius="1" />
+	<spawn centerx="3391" centery="3564" centerz="8" radius="1">
+		<monster name="Samurai" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3512" centery="3564" centerz="8" radius="1">
 		<monster name="Rat" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
@@ -22906,8 +23006,14 @@
 		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3276" centery="3565" centerz="8" radius="1" />
-	<spawn centerx="3405" centery="3565" centerz="8" radius="1" />
+	<spawn centerx="3276" centery="3565" centerz="8" radius="1">
+		<monster name="Samurai" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3405" centery="3565" centerz="8" radius="1">
+		<monster name="Samurai" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3553" centery="3565" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -22938,7 +23044,10 @@
 		<monster name="Grand Fisher Lv 2" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3387" centery="3568" centerz="8" radius="1" />
+	<spawn centerx="3387" centery="3568" centerz="8" radius="1">
+		<monster name="Samurai" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3529" centery="3568" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -22959,7 +23068,9 @@
 	<spawn centerx="5336" centery="3569" centerz="8" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3383" centery="3571" centerz="8" radius="1" />
+	<spawn centerx="3383" centery="3571" centerz="8" radius="1">
+		<monster name="Samurai" x="-1" y="-1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="4164" centery="3571" centerz="8" radius="1">
 		<monster name="Grand Fisher Lv 2" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
@@ -22972,7 +23083,10 @@
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3405" centery="3572" centerz="8" radius="1" />
+	<spawn centerx="3405" centery="3572" centerz="8" radius="1">
+		<monster name="Samurai" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="4288" centery="3572" centerz="8" radius="1">
 		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
@@ -22992,7 +23106,10 @@
 	<spawn centerx="4859" centery="3573" centerz="8" radius="1">
 		<monster name="Mugetsu Especial" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3275" centery="3574" centerz="8" radius="1" />
+	<spawn centerx="3275" centery="3574" centerz="8" radius="1">
+		<monster name="Samurai" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="2703" centery="3575" centerz="8" radius="1">
 		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
@@ -23012,7 +23129,10 @@
 		<monster name="Grand Fisher Lv 2" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3376" centery="3577" centerz="8" radius="1" />
+	<spawn centerx="3376" centery="3577" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="4244" centery="3577" centerz="8" radius="1">
 		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
@@ -23044,7 +23164,10 @@
 		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3283" centery="3580" centerz="8" radius="1" />
+	<spawn centerx="3283" centery="3580" centerz="8" radius="1">
+		<monster name="Samurai" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="2754" centery="3581" centerz="8" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="-1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="-1" y="0" z="8" spawntime="60" />
@@ -23052,7 +23175,9 @@
 		<monster name="Arrancar Hollow" x="1" y="0" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3406" centery="3581" centerz="8" radius="1" />
+	<spawn centerx="3406" centery="3581" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3332" centery="3582" centerz="8" radius="1">
 		<monster name="Samurai Boss" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -23078,19 +23203,36 @@
 		<monster name="Arrancar Hollow" x="1" y="0" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3410" centery="3585" centerz="8" radius="1" />
-	<spawn centerx="3418" centery="3585" centerz="8" radius="1" />
-	<spawn centerx="3424" centery="3585" centerz="8" radius="1" />
-	<spawn centerx="3432" centery="3585" centerz="8" radius="1" />
-	<spawn centerx="3278" centery="3586" centerz="8" radius="1" />
-	<spawn centerx="3374" centery="3586" centerz="8" radius="1" />
+	<spawn centerx="3410" centery="3585" centerz="8" radius="1">
+		<monster name="Samurai" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3418" centery="3585" centerz="8" radius="1">
+		<monster name="Samurai" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3424" centery="3585" centerz="8" radius="1">
+		<monster name="Samurai" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3432" centery="3585" centerz="8" radius="1">
+		<monster name="Samurai" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3278" centery="3586" centerz="8" radius="1">
+		<monster name="Samurai" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3374" centery="3586" centerz="8" radius="1">
+		<monster name="Samurai" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="4135" centery="3586" centerz="8" radius="1">
 		<monster name="Grand Fisher Lv 2" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3285" centery="3587" centerz="8" radius="1" />
+	<spawn centerx="3285" centery="3587" centerz="8" radius="1">
+		<monster name="Samurai" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Samurai" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="4284" centery="3587" centerz="8" radius="1">
 		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="-1" y="0" z="8" spawntime="60" />
@@ -28124,8 +28266,8 @@
 	<spawn centerx="3463" centery="4187" centerz="9" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="3535" centery="4195" centerz="9" radius="1">
-		<monster name="Especial Arrancar Boss" x="0" y="0" z="9" spawntime="60" />
+	<spawn centerx="3537" centery="4195" centerz="9" radius="1">
+		<monster name="Arrancar Boss" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3553" centery="4202" centerz="9" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="9" spawntime="60" />

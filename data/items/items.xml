@@ -22483,7 +22483,7 @@
 	</item>
 
 	<!-- Shields -->
-	<item id="15055" name="Arrancar Shield">
+	<item id="15055" name="Adjuchas Shield">
 		<attribute key="weight" value="5500"/>
 		<attribute key="defense" value="70"/>
 		<attribute key="absorbPercentAll" value="3"/>

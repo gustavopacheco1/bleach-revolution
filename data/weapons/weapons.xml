@@ -1,25 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <weapons>
 	<!-- Melee -->
-	<melee id="15720" event="function" value="default"/>
-	<melee id="15719" event="function" value="default"/>
-	<melee id="15808" event="function" value="default"/>
-	<melee id="15730" event="function" value="default"/>
-	<melee id="15819" event="function" value="default"/>
-	<melee id="15431" event="function" value="default"/>
-	<melee id="15432" event="function" value="default"/>
-	<melee id="15410" event="function" value="default"/>
-	<melee id="15820" event="function" value="default"/>
-	<melee id="15122" event="function" value="default"/>
-	<melee id="15411" event="function" value="default"/>
-	<melee id="15412" event="function" value="default"/>
+	<melee id="16339" level="1" event="function" value="default"/>
+	<melee id="16340" level="100" event="function" value="default"/>
+	<melee id="16341" level="200" event="function" value="default"/>
+	<melee id="16342" level="300" event="function" value="default"/>
+	<melee id="16343" level="400" event="function" value="default"/>
+	<melee id="16344" level="500" event="function" value="default"/>
+	<melee id="16345" level="1" event="function" value="default"/>
+	<melee id="16346" level="100" event="function" value="default"/>
+	<melee id="16347" level="200" event="function" value="default"/>
+	<melee id="16348" level="300" event="function" value="default"/>
+	<melee id="16349" level="400" event="function" value="default"/>
+	<melee id="16350" level="500" event="function" value="default"/>
+	<melee id="16351" level="1" event="function" value="default"/>
+	<melee id="16352" level="100" event="function" value="default"/>
+	<melee id="16353" level="200" event="function" value="default"/>
+	<melee id="16354" level="300" event="function" value="default"/>
+	<melee id="16355" level="400" event="function" value="default"/>
+	<melee id="16356" level="500" event="function" value="default"/>
+	<melee id="15736" level="1" event="function" value="default"/>
+	<melee id="16401" level="100" event="function" value="default"/>
+	<melee id="16408" level="200" event="function" value="default"/>
+	<melee id="16414" level="300" event="function" value="default"/>
+	<melee id="16420" level="400" event="function" value="default"/>
+	<melee id="16424" level="500" event="function" value="default"/>
+	<melee id="16336" level="1" event="function" value="default"/>
+	<melee id="16402" level="100" event="function" value="default"/>
+	<melee id="16406" level="200" event="function" value="default"/>
+	<melee id="16413" level="300" event="function" value="default"/>
+	<melee id="16419" level="400" event="function" value="default"/>
+	<melee id="16426" level="500" event="function" value="default"/>
+	<melee id="16335" level="1" event="function" value="default"/>
+	<melee id="16399" level="100" event="function" value="default"/>
+	<melee id="16410" level="200" event="function" value="default"/>
+	<melee id="16416" level="300" event="function" value="default"/>
+	<melee id="16421" level="400" event="function" value="default"/>
+	<melee id="16425" level="500" event="function" value="default"/>
+	<melee id="16338" level="1" event="function" value="default"/>
+	<melee id="16400" level="100" event="function" value="default"/>
+	<melee id="16409" level="200" event="function" value="default"/>
+	<melee id="16415" level="300" event="function" value="default"/>
+	<melee id="16422" level="400" event="function" value="default"/>
+	<melee id="16423" level="500" event="function" value="default"/>
+	<melee id="16357" level="1" event="function" value="default"/>
+	<melee id="16358" level="100" event="function" value="default"/>
+	<melee id="16359" level="200" event="function" value="default"/>
+	<melee id="16360" level="300" event="function" value="default"/>
+	<melee id="16361" level="400" event="function" value="default"/>
+	<melee id="16362" level="500" event="function" value="default"/>
+	<melee id="16363" level="1" event="function" value="default"/>
+	<melee id="16364" level="100" event="function" value="default"/>
+	<melee id="16365" level="200" event="function" value="default"/>
+	<melee id="16366" level="300" event="function" value="default"/>
+	<melee id="16367" level="400" event="function" value="default"/>
+	<melee id="16368" level="500" event="function" value="default"/>
+	<melee id="16369" level="1" event="function" value="default"/>
+	<melee id="16370" level="100" event="function" value="default"/>
+	<melee id="16371" level="200" event="function" value="default"/>
+	<melee id="16372" level="300" event="function" value="default"/>
+	<melee id="16373" level="400" event="function" value="default"/>
+	<melee id="16374" level="500" event="function" value="default"/>
+	<melee id="16429" level="1" event="function" value="default"/>
+	<melee id="16430" level="100" event="function" value="default"/>
+	<melee id="16431" level="200" event="function" value="default"/>
+	<melee id="16432" level="300" event="function" value="default"/>
+	<melee id="16433" level="400" event="function" value="default"/>
+	<melee id="16434" level="500" event="function" value="default"/>
+	<melee id="16337" level="1" event="function" value="default"/>
+	<melee id="16403" level="100" event="function" value="default"/>
+	<melee id="16407" level="200" event="function" value="default"/>
+	<melee id="16412" level="300" event="function" value="default"/>
+	<melee id="16418" level="400" event="function" value="default"/>
+	<melee id="16427" level="500" event="function" value="default"/>
+	<melee id="16375" level="1" event="function" value="default"/>
+	<melee id="16376" level="100" event="function" value="default"/>
+	<melee id="16377" level="200" event="function" value="default"/>
+	<melee id="16378" level="300" event="function" value="default"/>
+	<melee id="16379" level="400" event="function" value="default"/>
+	<melee id="16380" level="500" event="function" value="default"/>
+	<melee id="15720" level="100" event="function" value="default"/>
+	<melee id="15719" level="100" event="function" value="default"/>
 
 	<!-- Distance -->
-	<distance id="15721" event="script" value="Founder Distance.lua"/>
-	<distance id="15823" event="script" value="del relampago.lua"/>
-	<distance id="15423" event="script" value="legendary del relampago.lua"/>
-	<distance id="15424" event="script" value="especial del relampago.lua"/>
-	<distance id="15090" event="script" value="inical bow.lua"/>
-	<distance id="15091" event="script" value="Quincy Bow.lua"/>
+	<distance id="15721" level="100" event="script" value="Founder Distance.lua"/>
+	<distance id="16381" level="1" event="script" value="Kojaku.lua"/>
+	<distance id="16382" level="100" event="script" value="Kojaku.lua"/>
+	<distance id="16383" level="200" event="script" value="Kojaku.lua"/>
+	<distance id="16384" level="300" event="script" value="Kojaku.lua"/>
+	<distance id="16385" level="400" event="script" value="Kojaku.lua"/>
+	<distance id="16386" level="500" event="script" value="Kojaku.lua"/>
+	<distance id="16387" level="1" event="script" value="Shun Shun Rikka.lua"/>
+	<distance id="16388" level="100" event="script" value="Shun Shun Rikka.lua"/>
+	<distance id="16389" level="200" event="script" value="Shun Shun Rikka.lua"/>
+	<distance id="16390" level="300" event="script" value="Shun Shun Rikka.lua"/>
+	<distance id="16391" level="400" event="script" value="Shun Shun Rikka.lua"/>
+	<distance id="16392" level="500" event="script" value="Shun Shun Rikka.lua"/>
+	<distance id="16334" level="1" event="script" value="Heiling Bogen.lua"/>
+	<distance id="16404" level="100" event="script" value="Heiling Bogen.lua"/>
+	<distance id="16405" level="200" event="script" value="Heiling Bogen.lua"/>
+	<distance id="16411" level="300" event="script" value="Heiling Bogen.lua"/>
+	<distance id="16417" level="400" event="script" value="Heiling Bogen.lua"/>
+	<distance id="16428" level="500" event="script" value="Heiling Bogen.lua"/>
+	<distance id="16393" level="1" event="script" value="Lanza Del Relampago.lua"/>
+	<distance id="16394" level="100" event="script" value="Lanza Del Relampago.lua"/>
+	<distance id="16395" level="200" event="script" value="Lanza Del Relampago.lua"/>
+	<distance id="16396" level="300" event="script" value="Lanza Del Relampago.lua"/>
+	<distance id="16397" level="400" event="script" value="Lanza Del Relampago.lua"/>
+	<distance id="16398" level="500" event="script" value="Lanza Del Relampago.lua"/>
+	
 
 </weapons>
