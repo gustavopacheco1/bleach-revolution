@@ -12,7 +12,7 @@ function onLogin(cid)
 		end
 	end
 
-	if player_group_id ~= 8 and player_group_id ~= getPlayerStorageValue(cid, "group") then
+	if player_group_id ~= 7 and player_group_id ~= getPlayerStorageValue(cid, "group") then
 		setPlayerStorageValue(cid, "group", player_group_id)
 	end
 
