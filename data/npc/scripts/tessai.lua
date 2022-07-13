@@ -46,10 +46,10 @@ function onCreatureSay(cid, type, msg)
 				return true
 			end
 
-			if getPlayerLevel(cid) < 400 then
+			if getPlayerLevel(cid) < 100 then
 				selfSayMultiLanguage(
-					"I can teach you to domain your greatest techniques. However, I can already see that you are not capable to domain it yet. Come back here when you reach level 400.",
-					"Eu posso te ensinar a dominar as suas melhores técnicas. Porém, eu já consigo perceber que você não é capaz de dominá-las ainda. Volte aqui quando alcançar o nível 400.",
+					"I can teach you to domain your greatest techniques. However, I can already see that you are not capable to domain it yet. Come back here when you reach level 100.",
+					"Eu posso te ensinar a dominar as suas melhores técnicas. Porém, eu já consigo perceber que você não é capaz de dominá-las ainda. Volte aqui quando alcançar o nível 100.",
 					cid
 				)
 				npcHandler:addFocus(cid)
