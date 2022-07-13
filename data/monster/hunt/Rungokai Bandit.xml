@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Monster Level: 30 -->
-<monster name="Rungokai Bandit" nameDescription="Rungokai Bandit" race="blood" experience="4000" speed="100" manacost="0">
-    <health now="1500" max="1500" />
+<monster name="Rungokai Bandit" nameDescription="Rungokai Bandit" race="blood" experience="900" speed="100" manacost="0">
+    <health now="10000" max="10000" />
     <look type="338" corpse="16330" />
     <targetchange interval="5000" chance="8" />
     <strategy attack="100" defense="0" />
