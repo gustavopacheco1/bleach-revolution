@@ -202,7 +202,7 @@
 	replaceKickOnLogin = true
 	forceSlowConnectionsToDisconnect = false
 	premiumPlayerSkipWaitList = true
-	packetsPerSecond = 50
+	packetsPerSecond = 200
 	loginProtectionTime = 10
 
 	-- Death List and Blessings
