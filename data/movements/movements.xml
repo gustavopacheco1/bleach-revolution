@@ -734,6 +734,35 @@
 	<movevent type="DeEquip" itemid="15081" slot="armor" event="function" value="onDeEquipItem"/>
 	<movevent type="Equip" itemid="15082" level="1" slot="legs" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="15082" slot="legs" event="function" value="onDeEquipItem"/>
+	
+	<!-- Bandit Set -->
+	
+	<movevent type="Equip" itemid="15106" level="20" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15106" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15116" level="20" slot="armor" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15116" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="10686" level="20" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="10686" slot="legs" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15119" level="20" slot="feet" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15119" slot="feet" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="15276" level="20" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15276" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15332" level="20" slot="armor" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15332" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15362" level="20" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15362" slot="legs" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15380" level="20" slot="feet" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15380" slot="feet" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="15277" level="20" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15277" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15333" level="20" slot="armor" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15333" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15363" level="20" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15363" slot="legs" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15381" level="20" slot="feet" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15381" slot="feet" event="function" value="onDeEquipItem"/>
 
 	<!-- Urahara Set -->
 
@@ -745,17 +774,53 @@
 	<movevent type="DeEquip" itemid="16115" slot="legs" event="function" value="onDeEquipItem"/>
 	<movevent type="Equip" itemid="15815" level="130" slot="feet" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="15815" slot="feet" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="15244" level="130" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15244" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15300" level="130" slot="armor" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15300" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15435" level="130" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15435" slot="legs" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15366" level="130" slot="feet" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15366" slot="feet" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="15245" level="130" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15245" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15301" level="130" slot="armor" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15301" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15436" level="130" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15436" slot="legs" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15367" level="130" slot="feet" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15367" slot="feet" event="function" value="onDeEquipItem"/>
 
 	<!-- Mummy Set -->
 
-	<movevent type="Equip" itemid="10690" level="100" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="Equip" itemid="10690" level="70" slot="head" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="10690" slot="head" event="function" value="onDeEquipItem"/>
-	<movevent type="Equip" itemid="10687" level="100" slot="armor" event="function" value="onEquipItem"/>
+	<movevent type="Equip" itemid="10687" level="70" slot="armor" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="10687" slot="armor" event="function" value="onDeEquipItem"/>
-	<movevent type="Equip" itemid="10688" level="100" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="Equip" itemid="10688" level="70" slot="legs" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="10688" slot="legs" event="function" value="onDeEquipItem"/>
-	<movevent type="Equip" itemid="10689" level="100" slot="feet" event="function" value="onEquipItem"/>
+	<movevent type="Equip" itemid="10689" level="70" slot="feet" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="10689" slot="feet" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="15268" level="70" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15268" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15326" level="70" slot="armor" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15326" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15358" level="70" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15358" slot="legs" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15378" level="70" slot="feet" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15378" slot="feet" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="15269" level="70" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15269" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15327" level="70" slot="armor" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15327" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15359" level="70" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15359" slot="legs" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15379" level="70" slot="feet" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15379" slot="feet" event="function" value="onDeEquipItem"/>
 
 	<!--  Vizard Set -->
 
@@ -858,10 +923,20 @@
 
 	<!-- Kyoraku Set -->
 
-	<movevent type="Equip" itemid="10667" level="125" slot="head" event="function" value="onEquipItem"/>
-	<movevent type="DeEquip" itemid="10667" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="10677" level="125" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="10677" slot="head" event="function" value="onDeEquipItem"/>
 	<movevent type="Equip" itemid="10661" level="125" slot="armor" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="10661" slot="armor" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="15252" level="125" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15252" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15306" level="125" slot="armor" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15306" slot="armor" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="15253" level="125" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15253" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15307" level="125" slot="armor" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15307" slot="armor" event="function" value="onDeEquipItem"/>
 
 	<!-- Blank Set -->
 
@@ -883,18 +958,38 @@
 
 	<movevent type="Equip" itemid="15099" level="200" slot="head" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="15099" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15240" level="200" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15240" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15241" level="200" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15241" slot="head" event="function" value="onDeEquipItem"/>
 
 	<movevent type="Equip" itemid="15102" level="250" slot="head" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="15102" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15248" level="250" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15248" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15249" level="250" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15249" slot="head" event="function" value="onDeEquipItem"/>
 
-	<movevent type="Equip" itemid="15103" level="200" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="Equip" itemid="15103" level="120" slot="head" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="15103" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15250" level="120" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15250" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15251" level="120" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15251" slot="head" event="function" value="onDeEquipItem"/>
 
 	<movevent type="Equip" itemid="15104" level="100" slot="head" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="15104" slot="head" event="function" value="onDeEquipItem"/>
-
+	<movevent type="Equip" itemid="15256" level="100" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15256" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15257" level="100" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15257" slot="head" event="function" value="onDeEquipItem"/>
+	
 	<movevent type="Equip" itemid="15105" level="100" slot="head" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="15105" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15260" level="100" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15260" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15261" level="100" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15261" slot="head" event="function" value="onDeEquipItem"/>
 
 	<movevent type="Equip" itemid="15772" level="200" slot="head" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="15772" slot="head" event="function" value="onDeEquipItem"/>
