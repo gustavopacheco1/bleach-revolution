@@ -35,10 +35,10 @@
 	<monster name="Quincy" file="hunt/Quincy.xml"/>
 	<monster name="Jagdarmee" file="hunt/Jagdarmee.xml"/>
 	<monster name="Urahara" file="hunt/Urahara.xml"/>
-	<monster name="Urahara Two" file="hunt/Urahara Two.xml"/>
-	<monster name="Urahara Three" file="hunt/Urahara Three.xml"/>
+	<monster name="Elite Urahara" file="hunt/Elite Urahara.xml"/>
+	<monster name="Furie Urahara" file="hunt/Furie Urahara.xml"/>
 	<monster name="Mugetsu Especial" file="hunt/Mugetsu Especial.xml"/>
-	<monster name="Nnoitra Two" file="hunt/Nnoitra Two.xml"/>
+	<monster name="Elite Nnoitra" file="hunt/Elite Nnoitra.xml"/>
 	<monster name="Ryu" file="hunt/Ryu.xml"/>
 	<monster name="Samurai" file="hunt/Samurai.xml"/>
 	<monster name="Hiroshi" file="hunt/Hiroshi.xml"/>
@@ -55,30 +55,30 @@
 	<monster name="Aaroniero" file="hunt/Aaroniero.xml"/>
 	<monster name="Yammany" file="hunt/Yammany.xml"/>
 	<monster name="Soldier Watcher" file="hunt/Soldier Watcher.xml"/>
-	<monster name="Vizard One" file="hunt/Vizard One.xml"/>
-	<monster name="Vizard Two" file="hunt/Vizard Two.xml"/>
-	<monster name="Vizard Three" file="hunt/Vizard Three.xml"/>
-	<monster name="Vizard Four" file="hunt/Vizard Four.xml"/>
+	<monster name="Vaizard" file="hunt/Vaizard.xml"/>
+	<monster name="Elite Vaizard" file="hunt/Elite Vaizard.xml"/>
+	<monster name="Furie Vaizard" file="hunt/Furie Vaizard.xml"/>
+	<monster name="Lunatic Vaizard" file="hunt/Luncatic Vaizard.xml"/>
 	<monster name="Arrancar Misteryo" file="hunt/Arrancar Misteryo.xml"/>
 
 	<!-- Boss -->
-	<monster name="Legendary Vizard" file="boss/Legendary Vizard.xml"/>
-	<monster name="Vizard Legendary" file="boss/Vizard Legendary.xml"/>
-	<monster name="Vizard One Boss" file="boss/Vizard One Boss.xml"/>
-	<monster name="Vizard Two Boss" file="boss/Vizard Two Boss.xml"/>
-	<monster name="Vizard Three Boss" file="boss/Vizard Three Boss.xml"/>
-	<monster name="Vizard Four Boss" file="boss/Vizard Four Boss.xml"/>
-	<monster name="Legendary Zangetsu" file="boss/Legendary Zangetsu.xml"/>
-	<monster name="Zangetsu Legendary Two" file="boss/Zangetsu Legendary Two.xml"/>
-	<monster name="Zangetsu Legendary Three" file="boss/Zangetsu Legendary Three.xml"/>
+	<monster name="Furie Vizard" file="boss/Furie Vizard.xml"/>
+	<monster name="Lunatic Vizard" file="boss/Lunatic Vizard.xml"/>
+	<monster name="Vizard Boss" file="boss/Vizard Boss.xml"/>
+	<monster name="Elite Vizard Boss" file="boss/Elite Vizard Boss.xml"/>
+	<monster name="Furie Vizard Boss" file="boss/Furie Vizard Boss.xml"/>
+	<monster name="Lunatic Vizard Boss" file="boss/Lunatic Vizard Boss.xml"/>
+	<monster name="Elite Zangetsu" file="boss/Elite Zangetsu.xml"/>
+	<monster name="Furie Zangetsu" file="boss/Furie Zangetsu.xml"/>
+	<monster name="Lunatic Zangetsu" file="boss/Lunatic Zangetsu.xml"/>
 	<monster name="Hiroshi Boss" file="boss/Hiroshi Boss.xml"/>
-	<monster name="Hiroshi Boss Two" file="boss/Hiroshi Boss Two.xml"/>
+	<monster name="Elite Hiroshi Boss" file="boss/Elite Hiroshi Boss.xml"/>
 	<monster name="Barragan Boss" file="boss/Barragan Boss.xml"/>
-	<monster name="Barragan Boss Two" file="boss/Barragan Boss Two.xml"/>
-	<monster name="Legendary Grand Fisher" file="boss/Legendary Grand Fisher.xml"/>
-	<monster name="Legendary Nnoitra" file="boss/Legendary Nnoitra.xml"/>
+	<monster name="Lunatic Barragan Boss" file="boss/Lunatic Barragan Boss.xml"/>
+	<monster name="Elite Grand Fisher" file="boss/Elite Grand Fisher.xml"/>
+	<monster name="Lunatic Nnoitra" file="boss/Lunatic Nnoitra.xml"/>
 	<monster name="Zaraki Legendary" file="boss/Zaraki Legendary.xml"/>
-	<monster name="Legendary menos" file="boss/Legendary Menos.xml"/>
+	<monster name="Lunatic menos" file="boss/Lunatic Menos.xml"/>
 	<monster name="Ryu Boss" file="boss/Ryu Boss.xml"/>
 	<monster name="Samurai Boss" file="boss/Samurai Boss.xml"/>
 	<monster name="Arrancar Boss" file="boss/Arrancar Boss.xml"/>
