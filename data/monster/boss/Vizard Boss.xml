@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Monster Quest Level: 300 -->
-<monster name="Vizard Legendary" nameDescription="Vizard Legendary" race="blood" experience="0" speed="900" manacost="0">
+<monster name="Vizard Boss" nameDescription="Vizard Boss" race="blood" experience="0" speed="900" manacost="0">
     <health now="700000" max="700000" />
     <look type="134" corpse="16330" />
     <targetchange interval="5000" chance="8" />

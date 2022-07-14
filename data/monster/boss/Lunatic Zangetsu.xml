@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Boss Drop Level: 475 -->
-<monster name="Legendary Zangetsu" nameDescription="Legendary Zangetsu" race="blood" experience="0" speed="900" manacost="0">
+<monster name="Lunatic Zangetsu" nameDescription="Lunatic Zangetsu" race="blood" experience="0" speed="900" manacost="0">
     <health now="2000000" max="2000000" />
     <look type="169" corpse="16330" />
     <targetchange interval="5000" chance="8" />

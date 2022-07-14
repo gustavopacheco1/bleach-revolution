@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Boss Drop Level: 275 -->
-<monster name="Legendary Vizard" nameDescription="Legendary Vizard" race="blood" experience="0" speed="1200" manacost="0">
+<monster name="Lunatic Vizard" nameDescription="Lunatic Vizard" race="blood" experience="0" speed="1200" manacost="0">
     <health now="2000000" max="2000000" />
     <look type="134" corpse="16330" />
     <targetchange interval="5000" chance="8" />
