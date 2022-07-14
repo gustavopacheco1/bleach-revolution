@@ -34,9 +34,13 @@
     </immunities>
 	<loot>
         <item id="2148" chance="1500" count="1" countmax="5"/>
-		<item id="15724" chance="500" count="1" countmax="1"/>
-		<item id="15111" chance="500" count="1" countmax="1"/>
-		<item id="16115" chance="500" count="1" countmax="1"/>
-		<item id="15815" chance="500" count="1" countmax="1"/>
+		<item id="15244" chance="2000" count="1" countmax="1"/>
+		<item id="15300" chance="2000" count="1" countmax="1"/>
+		<item id="15435" chance="2000" count="1" countmax="1"/>
+		<item id="15366" chance="2000" count="1" countmax="1"/>
+		<item id="15245" chance="2000" count="1" countmax="1"/>
+		<item id="15301" chance="2000" count="1" countmax="1"/>
+		<item id="15436" chance="2000" count="1" countmax="1"/>
+		<item id="15367" chance="2000" count="1" countmax="1"/>
     </loot>
 </monster>

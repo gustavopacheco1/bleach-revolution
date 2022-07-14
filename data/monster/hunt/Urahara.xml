@@ -34,6 +34,9 @@
     </immunities>
 	<loot>
         <item id="2148" chance="1000" count="1" countmax="5"/>
-		<item id="15724" chance="500" count="1" countmax="1"/>
+		<item id="15724" chance="2000" count="1" countmax="1"/>
+		<item id="15111" chance="2000" count="1" countmax="1"/>
+		<item id="16115" chance="2000" count="1" countmax="1"/>
+		<item id="15815" chance="2000" count="1" countmax="1"/>
     </loot>
 </monster>
