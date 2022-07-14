@@ -12004,10 +12004,10 @@
 	<item id="5897" article="a" name="Wolf Paw" plural="Wolf Paws">
 		<attribute key="weight" value="80"/>
 	</item>
-	<item id="15687" article="a" name="Soul Essence" plural="Wolf Paws">
+	<item id="15687" article="a" name="Soul Essence" plural="Soul Essences">
 		<attribute key="weight" value="80"/>
 	</item>
-	<item id="15230" article="a" name="Part Of Horror" plural="Wolf Paws">
+	<item id="15230" article="a" name="Part Of Horror" plural="Part Of Horrors">
 		<attribute key="weight" value="80"/>
 	</item>
 	<item id="5898" article="a" name="Elf Hat" plural="elf hat">
