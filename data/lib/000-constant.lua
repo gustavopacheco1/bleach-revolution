@@ -901,6 +901,8 @@ enchantedItems = {
 	[8905] = { 8906, 8907, 8909, 8908 }
 }
 
+REWARD_CHEST_TOWN = 6
+
 Config_meta = {
 	__index = function(t, k)
 		if (k == "type") then
