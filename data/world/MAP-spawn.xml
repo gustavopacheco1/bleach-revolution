@@ -1307,22 +1307,22 @@
 		<monster name="Menos" x="0" y="0" z="3" spawntime="60" />
 	</spawn>
 	<spawn centerx="3473" centery="4106" centerz="3" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="3" spawntime="60" />
 	</spawn>
 	<spawn centerx="3475" centery="4111" centerz="3" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="3" spawntime="60" />
 	</spawn>
 	<spawn centerx="3476" centery="4118" centerz="3" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="3" spawntime="60" />
 	</spawn>
 	<spawn centerx="3473" centery="4123" centerz="3" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="3" spawntime="60" />
 	</spawn>
 	<spawn centerx="3478" centery="4125" centerz="3" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="3" spawntime="60" />
 	</spawn>
 	<spawn centerx="3473" centery="4129" centerz="3" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="3" spawntime="60" />
 	</spawn>
 	<spawn centerx="3832" centery="2691" centerz="4" radius="1">
 		<monster name="Espada" x="-1" y="-1" z="4" spawntime="60" />
@@ -2526,121 +2526,121 @@
 		<monster name="Fake Zaraki" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3834" centery="3968" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3829" centery="3970" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3823" centery="3974" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3837" centery="3974" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3817" centery="3978" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3831" centery="3978" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3837" centery="3981" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3819" centery="3983" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3827" centery="3985" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3838" centery="3987" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3821" centery="3989" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3833" centery="3991" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3828" centery="3993" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3823" centery="3995" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3838" centery="3996" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3830" centery="4000" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3841" centery="4001" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3824" centery="4003" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3836" centery="4004" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3830" centery="4007" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3840" centery="4009" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3822" centery="4010" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3833" centery="4012" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3843" centery="4014" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3820" centery="4017" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3828" centery="4017" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3839" centery="4019" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3823" centery="4023" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3829" centery="4023" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3836" centery="4023" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3828" centery="4029" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3833" centery="4029" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3821" centery="4030" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3827" centery="4035" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3833" centery="4035" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3823" centery="4038" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3832" centery="4042" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3827" centery="4044" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3833" centery="4047" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3329" centery="4081" centerz="4" radius="1">
 		<monster name="Menos" x="0" y="0" z="4" spawntime="60" />
@@ -2673,7 +2673,8 @@
 		<monster name="Menos" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3474" centery="4100" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3351" centery="4101" centerz="4" radius="1">
 		<monster name="Menos" x="0" y="0" z="4" spawntime="60" />
@@ -2685,37 +2686,37 @@
 		<monster name="Menos" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3478" centery="4104" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3468" centery="4105" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3480" centery="4110" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3468" centery="4114" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3482" centery="4116" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3468" centery="4123" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3482" centery="4123" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3469" centery="4130" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3481" centery="4130" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3471" centery="4135" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3478" centery="4135" centerz="4" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="4002" centery="2540" centerz="5" radius="1">
 		<monster name="Prisoner" x="1" y="-1" z="5" spawntime="60" />
@@ -4658,7 +4659,7 @@
 		<monster name="Gilliam" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3833" centery="3968" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3471" centery="3969" centerz="5" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="5" spawntime="60" />
@@ -4667,136 +4668,134 @@
 		<monster name="Gilliam" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3828" centery="3970" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3837" centery="3972" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3832" centery="3973" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3824" centery="3974" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3837" centery="3976" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3819" centery="3977" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3830" centery="3977" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3825" centery="3980" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3837" centery="3980" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3832" centery="3983" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3819" centery="3984" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3837" centery="3985" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3827" centery="3987" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3821" centery="3989" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3838" centery="3991" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3829" centery="3992" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3823" centery="3994" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3839" centery="3997" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3830" centery="3998" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3823" centery="4000" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3835" centery="4003" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3823" centery="4005" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3842" centery="4005" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3831" centery="4006" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3837" centery="4010" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3822" centery="4011" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3830" centery="4011" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3842" centery="4012" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3834" centery="4014" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="3820" centery="4016" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
+	<spawn centerx="3820" centery="4016" centerz="5" radius="1" />
 	<spawn centerx="3828" centery="4016" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3839" centery="4017" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3823" centery="4022" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3829" centery="4022" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3837" centery="4022" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3834" centery="4025" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3827" centery="4028" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3822" centery="4029" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3833" centery="4032" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3827" centery="4034" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3822" centery="4037" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3832" centery="4039" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3826" centery="4042" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3832" centery="4046" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3149" centery="4049" centerz="5" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="5" spawntime="60" />
@@ -4942,7 +4941,7 @@
 		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3476" centery="4095" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3551" centery="4095" centerz="5" radius="1">
 		<monster name="Zangetsu" x="-1" y="-1" z="5" spawntime="60" />
@@ -4956,10 +4955,10 @@
 		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3468" centery="4097" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3480" centery="4098" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3564" centery="4098" centerz="5" radius="1">
 		<monster name="Zangetsu" x="0" y="-1" z="5" spawntime="60" />
@@ -4988,10 +4987,10 @@
 		<monster name="Zangetsu" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3464" centery="4100" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3481" centery="4102" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3328" centery="4103" centerz="5" radius="1">
 		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
@@ -5000,40 +4999,40 @@
 		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3483" centery="4106" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3464" centery="4107" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3485" centery="4112" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3464" centery="4114" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3486" centery="4118" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3464" centery="4122" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3486" centery="4126" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3464" centery="4131" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3485" centery="4131" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3466" centery="4136" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3481" centery="4139" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3471" centery="4140" centerz="5" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="4717" centery="2073" centerz="6" radius="1" />
 	<spawn centerx="4722" centery="2079" centerz="6" radius="1" />
@@ -6692,208 +6691,208 @@
 		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2895" centery="3152" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2906" centery="3152" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2916" centery="3152" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2927" centery="3153" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2769" centery="3159" centerz="6" radius="1">
 		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2904" centery="3159" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2917" centery="3159" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2888" centery="3160" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2895" centery="3161" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2910" centery="3163" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2925" centery="3163" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2884" centery="3168" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2900" centery="3168" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2771" centery="3169" centerz="6" radius="1">
 		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2891" centery="3169" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2905" centery="3169" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2919" centery="3169" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2791" centery="3172" centerz="6" radius="1">
 		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2896" centery="3177" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2914" centery="3177" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2888" centery="3178" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2879" centery="3179" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2903" centery="3179" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2883" centery="3184" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2894" centery="3186" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2920" centery="3188" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2905" centery="3189" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2873" centery="3190" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2881" centery="3191" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2890" centery="3192" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2864" centery="3195" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2879" centery="3196" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2897" centery="3197" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2919" centery="3197" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2871" centery="3201" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2883" centery="3202" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2854" centery="3203" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2905" centery="3203" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2789" centery="3205" centerz="6" radius="1">
 		<monster name="Hiroshi Boss" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2915" centery="3205" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2865" centery="3207" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2876" centery="3208" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2895" centery="3210" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2905" centery="3211" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2871" centery="3214" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2884" centery="3214" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2854" centery="3215" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2915" centery="3215" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2863" centery="3217" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2920" centery="3220" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2880" centery="3221" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2896" centery="3221" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2906" centery="3221" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2870" centery="3224" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2851" centery="3227" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2862" centery="3227" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2887" centery="3228" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2897" centery="3229" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2917" centery="3230" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2877" centery="3232" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2909" centery="3233" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2872" centery="3234" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2860" centery="3236" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2898" centery="3239" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2848" centery="3241" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2886" centery="3241" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2869" centery="3242" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2918" centery="3243" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3438" centery="3244" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
@@ -6910,7 +6909,7 @@
 		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2909" centery="3245" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3431" centery="3245" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="-1" z="6" spawntime="60" />
@@ -6920,7 +6919,7 @@
 		<monster name="Elite Bandit" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2855" centery="3247" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3424" centery="3247" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
@@ -6945,10 +6944,10 @@
 		<monster name="Elite Bandit" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2788" centery="3249" centerz="6" radius="1">
-		<monster name="Hiroshi Boss Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Hiroshi Boss" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2866" centery="3249" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3463" centery="3249" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
@@ -6959,7 +6958,7 @@
 		<monster name="Elite Bandit" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2877" centery="3250" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3467" centery="3250" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
@@ -6971,10 +6970,10 @@
 		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2900" centery="3251" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2889" centery="3252" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3412" centery="3252" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
@@ -6985,7 +6984,7 @@
 		<monster name="Elite Bandit" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2848" centery="3253" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3421" centery="3253" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
@@ -6996,10 +6995,10 @@
 		<monster name="Elite Bandit" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2921" centery="3254" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2857" centery="3256" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3441" centery="3256" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
@@ -7038,10 +7037,10 @@
 		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2893" centery="3258" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2912" centery="3258" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3409" centery="3258" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="-1" z="6" spawntime="60" />
@@ -7053,7 +7052,7 @@
 		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2881" centery="3259" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3468" centery="3259" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
@@ -7084,23 +7083,23 @@
 		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2868" centery="3262" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2901" centery="3262" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2848" centery="3263" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2924" centery="3263" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3443" centery="3263" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2858" centery="3265" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3417" centery="3265" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="-1" z="6" spawntime="60" />
@@ -7139,7 +7138,7 @@
 		<npc name="Minoru" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2877" centery="3268" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3424" centery="3269" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="-1" z="6" spawntime="60" />
@@ -7149,10 +7148,10 @@
 		<monster name="Elite Bandit" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2887" centery="3270" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2912" centery="3270" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3434" centery="3270" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
@@ -7168,7 +7167,7 @@
 		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2862" centery="3272" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3458" centery="3272" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
@@ -7184,13 +7183,13 @@
 		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2849" centery="3273" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2901" centery="3273" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2926" centery="3273" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3450" centery="3273" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
@@ -7207,7 +7206,7 @@
 		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2872" centery="3275" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3429" centery="3275" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
@@ -7242,16 +7241,16 @@
 		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2880" centery="3279" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2913" centery="3279" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2854" centery="3280" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2889" centery="3280" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3425" centery="3280" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
@@ -7270,10 +7269,10 @@
 		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2900" centery="3282" centerz="6" radius="1">
-		<monster name="Urahara Three" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2924" centery="3284" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3420" centery="3284" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
@@ -7286,12 +7285,14 @@
 		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2866" centery="3285" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2873" centery="3287" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="2902" centery="3289" centerz="6" radius="1" />
+	<spawn centerx="2902" centery="3289" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="-1" y="-1" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3426" centery="3290" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="-1" z="6" spawntime="60" />
@@ -7307,9 +7308,7 @@
 		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Kensei" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="2914" centery="3292" centerz="6" radius="1">
-		<monster name="Urahara Two" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
+	<spawn centerx="2914" centery="3292" centerz="6" radius="1" />
 	<spawn centerx="2906" centery="3293" centerz="6" radius="1" />
 	<spawn centerx="4023" centery="3296" centerz="6" radius="1">
 		<monster name="Kensei" x="-1" y="-1" z="6" spawntime="60" />
@@ -10894,10 +10893,10 @@
 		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3476" centery="4090" centerz="6" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3468" centery="4091" centerz="6" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3543" centery="4091" centerz="6" radius="1">
 		<monster name="Zangetsu" x="1" y="-1" z="6" spawntime="60" />
@@ -10914,7 +10913,7 @@
 		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3482" centery="4093" centerz="6" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3601" centery="4094" centerz="6" radius="1">
 		<monster name="Zangetsu" x="1" y="-1" z="6" spawntime="60" />
@@ -10925,7 +10924,7 @@
 		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3461" centery="4096" centerz="6" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3552" centery="4096" centerz="6" radius="1">
 		<monster name="Zangetsu" x="-1" y="-1" z="6" spawntime="60" />
@@ -10945,7 +10944,7 @@
 		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3485" centery="4098" centerz="6" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3579" centery="4098" centerz="6" radius="1">
 		<monster name="Zangetsu" x="-1" y="-1" z="6" spawntime="60" />
@@ -10957,7 +10956,7 @@
 		<monster name="Zangetsu" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3458" centery="4102" centerz="6" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3331" centery="4103" centerz="6" radius="1">
 		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
@@ -10966,7 +10965,8 @@
 		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3487" centery="4103" centerz="6" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3579" centery="4104" centerz="6" radius="1">
 		<monster name="Zangetsu" x="1" y="-1" z="6" spawntime="60" />
@@ -10985,10 +10985,11 @@
 		<monster name="Zangetsu" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3489" centery="4107" centerz="6" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3458" centery="4110" centerz="6" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3538" centery="4111" centerz="6" radius="1">
 		<monster name="Zangetsu" x="1" y="-1" z="6" spawntime="60" />
@@ -11002,7 +11003,7 @@
 		<monster name="Zangetsu" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3491" centery="4113" centerz="6" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3561" centery="4113" centerz="6" radius="1">
 		<monster name="Zangetsu" x="-1" y="-1" z="6" spawntime="60" />
@@ -11011,10 +11012,10 @@
 		<monster name="Zangetsu" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3496" centery="4115" centerz="6" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3502" centery="4115" centerz="6" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3592" centery="4115" centerz="6" radius="1">
 		<monster name="Zangetsu" x="-1" y="-1" z="6" spawntime="60" />
@@ -11022,7 +11023,7 @@
 		<monster name="Zangetsu" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3459" centery="4118" centerz="6" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3539" centery="4122" centerz="6" radius="1">
 		<monster name="Zangetsu" x="1" y="-1" z="6" spawntime="60" />
@@ -11030,7 +11031,7 @@
 		<monster name="Zangetsu" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3492" centery="4123" centerz="6" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3587" centery="4124" centerz="6" radius="1">
 		<monster name="Zangetsu" x="1" y="-1" z="6" spawntime="60" />
@@ -11038,7 +11039,7 @@
 		<monster name="Zangetsu" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3458" centery="4127" centerz="6" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3548" centery="4127" centerz="6" radius="1">
 		<monster name="Zangetsu" x="-1" y="-1" z="6" spawntime="60" />
@@ -11058,22 +11059,22 @@
 		<monster name="Zangetsu" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3491" centery="4132" centerz="6" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3459" centery="4136" centerz="6" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3488" centery="4140" centerz="6" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3464" centery="4141" centerz="6" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3483" centery="4144" centerz="6" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3473" centery="4145" centerz="6" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3590" centery="4152" centerz="6" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
@@ -21902,7 +21903,7 @@
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4809" centery="3435" centerz="8" radius="1">
-		<monster name="Legendary Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Grand Fisher" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="2411" centery="3442" centerz="8" radius="1">
 		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
@@ -22410,9 +22411,7 @@
 	<spawn centerx="3553" centery="3519" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5326" centery="3519" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5326" centery="3519" centerz="8" radius="1" />
 	<spawn centerx="2696" centery="3520" centerz="8" radius="1">
 		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
@@ -22468,9 +22467,7 @@
 	<spawn centerx="3526" centery="3527" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5275" centery="3527" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5275" centery="3527" centerz="8" radius="1" />
 	<spawn centerx="2662" centery="3528" centerz="8" radius="1">
 		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
@@ -22531,9 +22528,7 @@
 	<spawn centerx="3516" centery="3531" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5324" centery="3531" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5324" centery="3531" centerz="8" radius="1" />
 	<spawn centerx="2713" centery="3532" centerz="8" radius="1">
 		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
@@ -22613,12 +22608,8 @@
 	<spawn centerx="4854" centery="3536" centerz="8" radius="1">
 		<monster name="Mugetsu Especial" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5246" centery="3536" centerz="8" radius="1">
-		<monster name="Vizard One Boss" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="5287" centery="3536" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5246" centery="3536" centerz="8" radius="1" />
+	<spawn centerx="5287" centery="3536" centerz="8" radius="1" />
 	<spawn centerx="2730" centery="3537" centerz="8" radius="1">
 		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
@@ -22640,9 +22631,7 @@
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5310" centery="3537" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5310" centery="3537" centerz="8" radius="1" />
 	<spawn centerx="3542" centery="3538" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -22719,9 +22708,7 @@
 	<spawn centerx="4881" centery="3544" centerz="8" radius="1">
 		<monster name="Mugetsu Especial" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5298" centery="3544" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5298" centery="3544" centerz="8" radius="1" />
 	<spawn centerx="2636" centery="3545" centerz="8" radius="1">
 		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
@@ -22879,9 +22866,7 @@
 	<spawn centerx="3535" centery="3556" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5307" centery="3556" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5307" centery="3556" centerz="8" radius="1" />
 	<spawn centerx="3389" centery="3557" centerz="8" radius="1">
 		<monster name="Samurai" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Samurai" x="1" y="1" z="8" spawntime="60" />
@@ -22939,9 +22924,7 @@
 	<spawn centerx="4223" centery="3559" centerz="8" radius="1">
 		<monster name="Barragan Boss Two" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5358" centery="3559" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5358" centery="3559" centerz="8" radius="1" />
 	<spawn centerx="3464" centery="3560" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -22984,9 +22967,7 @@
 		<monster name="Rat" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5346" centery="3564" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5346" centery="3564" centerz="8" radius="1" />
 	<spawn centerx="2625" centery="3565" centerz="8" radius="1">
 		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
@@ -23026,9 +23007,7 @@
 	<spawn centerx="3509" centery="3566" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5316" centery="3566" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5316" centery="3566" centerz="8" radius="1" />
 	<spawn centerx="2769" centery="3567" centerz="8" radius="1">
 		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
@@ -23065,9 +23044,7 @@
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5336" centery="3569" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5336" centery="3569" centerz="8" radius="1" />
 	<spawn centerx="3383" centery="3571" centerz="8" radius="1">
 		<monster name="Samurai" x="-1" y="-1" z="8" spawntime="60" />
 	</spawn>
@@ -23154,9 +23131,7 @@
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5324" centery="3579" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5324" centery="3579" centerz="8" radius="1" />
 	<spawn centerx="2771" centery="3580" centerz="8" radius="1">
 		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
@@ -23283,12 +23258,8 @@
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5219" centery="3593" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="5231" centery="3593" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5219" centery="3593" centerz="8" radius="1" />
+	<spawn centerx="5231" centery="3593" centerz="8" radius="1" />
 	<spawn centerx="2617" centery="3594" centerz="8" radius="1">
 		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
@@ -23296,15 +23267,9 @@
 		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5321" centery="3594" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="5435" centery="3594" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="5210" centery="3595" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5321" centery="3594" centerz="8" radius="1" />
+	<spawn centerx="5435" centery="3594" centerz="8" radius="1" />
+	<spawn centerx="5210" centery="3595" centerz="8" radius="1" />
 	<spawn centerx="4075" centery="3598" centerz="8" radius="1">
 		<monster name="Grand Fisher Lv 2" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="0" y="0" z="8" spawntime="60" />
@@ -23339,12 +23304,8 @@
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5199" centery="3599" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="5239" centery="3599" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5199" centery="3599" centerz="8" radius="1" />
+	<spawn centerx="5239" centery="3599" centerz="8" radius="1" />
 	<spawn centerx="3683" centery="3600" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="-1" z="8" spawntime="60" />
@@ -23379,18 +23340,12 @@
 		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5319" centery="3606" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="5425" centery="3606" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5319" centery="3606" centerz="8" radius="1" />
+	<spawn centerx="5425" centery="3606" centerz="8" radius="1" />
 	<spawn centerx="4878" centery="3607" centerz="8" radius="1">
 		<monster name="Mugetsu Especial" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5245" centery="3607" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5245" centery="3607" centerz="8" radius="1" />
 	<spawn centerx="4849" centery="3608" centerz="8" radius="1">
 		<monster name="Mugetsu Especial" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -23432,21 +23387,15 @@
 	<spawn centerx="4829" centery="3611" centerz="8" radius="1">
 		<monster name="Mugetsu Especial" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5257" centery="3611" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="5270" centery="3611" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5257" centery="3611" centerz="8" radius="1" />
+	<spawn centerx="5270" centery="3611" centerz="8" radius="1" />
 	<spawn centerx="2712" centery="3612" centerz="8" radius="1">
 		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5281" centery="3612" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5281" centery="3612" centerz="8" radius="1" />
 	<spawn centerx="4047" centery="3614" centerz="8" radius="1">
 		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="8" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="0" y="0" z="8" spawntime="60" />
@@ -23455,18 +23404,12 @@
 	<spawn centerx="4809" centery="3614" centerz="8" radius="1">
 		<monster name="Mugetsu Especial" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5294" centery="3614" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5294" centery="3614" centerz="8" radius="1" />
 	<spawn centerx="3798" centery="3615" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5304" centery="3615" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="5416" centery="3615" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5304" centery="3615" centerz="8" radius="1" />
+	<spawn centerx="5416" centery="3615" centerz="8" radius="1" />
 	<spawn centerx="3670" centery="3618" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
@@ -23486,27 +23429,17 @@
 	<spawn centerx="3800" centery="3620" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5248" centery="3620" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="5326" centery="3620" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="5338" centery="3620" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5248" centery="3620" centerz="8" radius="1" />
+	<spawn centerx="5326" centery="3620" centerz="8" radius="1" />
+	<spawn centerx="5338" centery="3620" centerz="8" radius="1" />
 	<spawn centerx="3685" centery="3621" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="0" y="-1" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5352" centery="3621" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="5397" centery="3623" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5352" centery="3621" centerz="8" radius="1" />
+	<spawn centerx="5397" centery="3623" centerz="8" radius="1" />
 	<spawn centerx="4020" centery="3624" centerz="8" radius="1">
 		<monster name="Grand Fisher Lv 2" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
@@ -23534,12 +23467,8 @@
 		<monster name="Elite Bandit" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5362" centery="3626" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="5386" centery="3626" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5362" centery="3626" centerz="8" radius="1" />
+	<spawn centerx="5386" centery="3626" centerz="8" radius="1" />
 	<spawn centerx="2713" centery="3627" centerz="8" radius="1">
 		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
@@ -23552,12 +23481,8 @@
 		<monster name="Grand Fisher Lv 2" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5313" centery="3627" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="5408" centery="3627" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5313" centery="3627" centerz="8" radius="1" />
+	<spawn centerx="5408" centery="3627" centerz="8" radius="1" />
 	<spawn centerx="3811" centery="3628" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -23567,9 +23492,7 @@
 		<monster name="Elite Bandit" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5377" centery="3629" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5377" centery="3629" centerz="8" radius="1" />
 	<spawn centerx="4083" centery="3630" centerz="8" radius="1">
 		<monster name="Grand Fisher Lv 2" x="0" y="-1" z="8" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="-1" y="0" z="8" spawntime="60" />
@@ -23586,18 +23509,14 @@
 		<monster name="Elite Bandit" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5248" centery="3632" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5248" centery="3632" centerz="8" radius="1" />
 	<spawn centerx="4013" centery="3634" centerz="8" radius="1">
 		<monster name="Grand Fisher Lv 2" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5311" centery="3635" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5311" centery="3635" centerz="8" radius="1" />
 	<spawn centerx="3820" centery="3636" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -23613,9 +23532,7 @@
 		<monster name="Jagdarmee" x="1" y="0" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5242" centery="3637" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5242" centery="3637" centerz="8" radius="1" />
 	<spawn centerx="3670" centery="3638" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="-1" z="8" spawntime="60" />
@@ -23646,15 +23563,9 @@
 		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5221" centery="3639" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="5233" centery="3639" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="5412" centery="3639" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5221" centery="3639" centerz="8" radius="1" />
+	<spawn centerx="5233" centery="3639" centerz="8" radius="1" />
+	<spawn centerx="5412" centery="3639" centerz="8" radius="1" />
 	<spawn centerx="4367" centery="3641" centerz="8" radius="1">
 		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
@@ -23667,9 +23578,7 @@
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5196" centery="3641" centerz="8" radius="1">
-		<monster name="Vizard Two Boss" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5196" centery="3641" centerz="8" radius="1" />
 	<spawn centerx="3795" centery="3642" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -23681,9 +23590,7 @@
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5308" centery="3642" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5308" centery="3642" centerz="8" radius="1" />
 	<spawn centerx="2704" centery="3643" centerz="8" radius="1">
 		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
@@ -23735,9 +23642,7 @@
 		<monster name="Grand Fisher Lv 2" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5424" centery="3645" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5424" centery="3645" centerz="8" radius="1" />
 	<spawn centerx="4388" centery="3646" centerz="8" radius="1">
 		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
@@ -23786,9 +23691,7 @@
 		<monster name="Grand Fisher Lv 2" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5308" centery="3653" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5308" centery="3653" centerz="8" radius="1" />
 	<spawn centerx="3615" centery="3654" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -23800,9 +23703,7 @@
 		<monster name="Grand Fisher Lv 2" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Grand Fisher Lv 2" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5435" centery="3654" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5435" centery="3654" centerz="8" radius="1" />
 	<spawn centerx="3812" centery="3656" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -23906,9 +23807,7 @@
 		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5311" centery="3664" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5311" centery="3664" centerz="8" radius="1" />
 	<spawn centerx="3821" centery="3665" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -23928,9 +23827,7 @@
 		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5439" centery="3667" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5439" centery="3667" centerz="8" radius="1" />
 	<spawn centerx="4375" centery="3668" centerz="8" radius="1">
 		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
@@ -23975,9 +23872,7 @@
 	<spawn centerx="4470" centery="3670" centerz="8" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5321" centery="3670" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5321" centery="3670" centerz="8" radius="1" />
 	<spawn centerx="2415" centery="3671" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Giant Snake Hollow" x="1" y="-1" z="8" spawntime="60" />
@@ -24118,9 +24013,7 @@
 		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5331" centery="3680" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5331" centery="3680" centerz="8" radius="1" />
 	<spawn centerx="2397" centery="3681" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Giant Snake Hollow" x="1" y="-1" z="8" spawntime="60" />
@@ -24270,9 +24163,7 @@
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5328" centery="3689" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5328" centery="3689" centerz="8" radius="1" />
 	<spawn centerx="4361" centery="3690" centerz="8" radius="1">
 		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
@@ -24332,12 +24223,8 @@
 		<monster name="Jagdarmee" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5320" centery="3693" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="5437" centery="3693" centerz="8" radius="1">
-		<monster name="Vizard Four Boss" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5320" centery="3693" centerz="8" radius="1" />
+	<spawn centerx="5437" centery="3693" centerz="8" radius="1" />
 	<spawn centerx="3699" centery="3694" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -24372,9 +24259,7 @@
 	<spawn centerx="4441" centery="3696" centerz="8" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5309" centery="3696" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5309" centery="3696" centerz="8" radius="1" />
 	<spawn centerx="2440" centery="3697" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Giant Snake Hollow" x="1" y="-1" z="8" spawntime="60" />
@@ -24391,9 +24276,7 @@
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5295" centery="3697" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5295" centery="3697" centerz="8" radius="1" />
 	<spawn centerx="2451" centery="3698" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Giant Snake Hollow" x="1" y="-1" z="8" spawntime="60" />
@@ -24425,9 +24308,7 @@
 	<spawn centerx="3728" centery="3699" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5285" centery="3699" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5285" centery="3699" centerz="8" radius="1" />
 	<spawn centerx="4491" centery="3700" centerz="8" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -24458,9 +24339,7 @@
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5277" centery="3702" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5277" centery="3702" centerz="8" radius="1" />
 	<spawn centerx="2422" centery="3703" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="0" y="-1" z="8" spawntime="60" />
 		<monster name="Giant Snake Hollow" x="1" y="-1" z="8" spawntime="60" />
@@ -24537,9 +24416,7 @@
 	<spawn centerx="5237" centery="3706" centerz="8" radius="1">
 		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5308" centery="3706" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5308" centery="3706" centerz="8" radius="1" />
 	<spawn centerx="3334" centery="3707" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -24559,9 +24436,7 @@
 		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5266" centery="3708" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5266" centery="3708" centerz="8" radius="1" />
 	<spawn centerx="3639" centery="3709" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -24571,9 +24446,7 @@
 	<spawn centerx="3726" centery="3709" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5252" centery="3709" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5252" centery="3709" centerz="8" radius="1" />
 	<spawn centerx="3379" centery="3710" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -24717,9 +24590,7 @@
 	<spawn centerx="3644" centery="3716" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5310" centery="3716" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5310" centery="3716" centerz="8" radius="1" />
 	<spawn centerx="2468" centery="3717" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Giant Snake Hollow" x="0" y="0" z="8" spawntime="60" />
@@ -25062,9 +24933,7 @@
 	<spawn centerx="3407" centery="3740" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5345" centery="3740" centerz="8" radius="1">
-		<monster name="Vizard Three Boss" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5345" centery="3740" centerz="8" radius="1" />
 	<spawn centerx="2467" centery="3741" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Giant Snake Hollow" x="1" y="-1" z="8" spawntime="60" />
