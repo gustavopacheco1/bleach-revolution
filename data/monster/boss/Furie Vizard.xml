@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Boss Quest Level: 400 -->
-<monster name="Vizard Three Boss" nameDescription="Vizard Three Boss" race="blood" experience="0" speed="1100" manacost="0">
+<monster name="Vizard Two Boss" nameDescription="Vizard Two Boss" race="blood" experience="0" speed="1000" manacost="0">
     <health now="1000000" max="1000000" />
     <look type="134" corpse="16330" />
     <targetchange interval="5000" chance="8" />
@@ -19,7 +19,7 @@
         <flag runonhealth="0" />
     </flags>
     <attacks>
-        <attack name="melee" interval="1500" min="-60000" max="-60500" />
+        <attack name="melee" interval="1750" min="-50000" max="-50500" />
     </attacks>
     <defenses armor="0" defense="0" />
     <immunities>
