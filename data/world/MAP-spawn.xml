@@ -7629,9 +7629,6 @@
 	<spawn centerx="3924" centery="3333" centerz="6" radius="1">
 		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4186" centery="3333" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="2865" centery="3334" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -7681,9 +7678,6 @@
 	<spawn centerx="3704" centery="3339" centerz="6" radius="1">
 		<monster name="Mini Fisher" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4180" centery="3339" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="2900" centery="3340" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -7710,9 +7704,6 @@
 	<spawn centerx="4044" centery="3341" centerz="6" radius="1">
 		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4267" centery="3341" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3458" centery="3342" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
@@ -7726,12 +7717,6 @@
 	</spawn>
 	<spawn centerx="3918" centery="3343" centerz="6" radius="1">
 		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4257" centery="3343" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4278" centery="3343" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2883" centery="3344" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
@@ -7775,9 +7760,6 @@
 	<spawn centerx="4004" centery="3346" centerz="6" radius="1">
 		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4247" centery="3346" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3480" centery="3347" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
@@ -7794,15 +7776,6 @@
 	</spawn>
 	<spawn centerx="4045" centery="3348" centerz="6" radius="1">
 		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4176" centery="3348" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4239" centery="3348" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4277" centery="3348" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3460" centery="3349" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
@@ -7841,9 +7814,6 @@
 		<monster name="Elite Bandit" x="0" y="1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4232" centery="3354" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3463" centery="3355" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="-1" y="0" z="6" spawntime="60" />
@@ -7860,12 +7830,6 @@
 	<spawn centerx="4043" centery="3357" centerz="6" radius="1">
 		<monster name="Kensei" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4176" centery="3357" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4225" centery="3357" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2857" centery="3358" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
@@ -7892,9 +7856,6 @@
 	<spawn centerx="4042" centery="3360" centerz="6" radius="1">
 		<monster name="Kensei" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4219" centery="3360" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3466" centery="3361" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
@@ -7924,26 +7885,17 @@
 	<spawn centerx="3964" centery="3363" centerz="6" radius="1">
 		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4208" centery="3363" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3596" centery="3365" centerz="6" radius="1">
 		<monster name="Wolf" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3922" centery="3365" centerz="6" radius="1">
 		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4181" centery="3365" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="2802" centery="3366" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3960" centery="3366" centerz="6" radius="1">
 		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4199" centery="3366" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2913" centery="3368" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
@@ -7960,9 +7912,6 @@
 	</spawn>
 	<spawn centerx="3957" centery="3368" centerz="6" radius="1">
 		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4190" centery="3368" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2856" centery="3369" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
@@ -7988,9 +7937,6 @@
 	</spawn>
 	<spawn centerx="3942" centery="3370" centerz="6" radius="1">
 		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4179" centery="3371" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2813" centery="3373" centerz="6" radius="1">
 		<monster name="Hiroshin" x="-1" y="-1" z="6" spawntime="60" />
@@ -8023,9 +7969,6 @@
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4175" centery="3378" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="2800" centery="3380" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -8054,9 +7997,6 @@
 	<spawn centerx="2904" centery="3384" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4170" centery="3386" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="2874" centery="3387" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -8066,20 +8006,8 @@
 	<spawn centerx="2888" centery="3391" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4178" centery="3391" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="2805" centery="3393" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4171" centery="3394" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4188" centery="3394" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4196" centery="3394" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2881" centery="3397" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
@@ -8111,18 +8039,12 @@
 		<monster name="Elite Bandit" x="0" y="1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4169" centery="3401" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3574" centery="3402" centerz="6" radius="1">
 		<monster name="Black Wolf" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Black Wolf" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Black Wolf" x="-1" y="0" z="6" spawntime="60" />
 		<monster name="Black Wolf" x="0" y="1" z="6" spawntime="60" />
 		<monster name="Black Wolf" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4199" centery="3402" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3588" centery="3403" centerz="6" radius="1">
 		<monster name="Black Wolf" x="0" y="-1" z="6" spawntime="60" />
@@ -8135,9 +8057,6 @@
 		<monster name="Black Wolf" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Black Wolf" x="-1" y="0" z="6" spawntime="60" />
 		<monster name="Black Wolf" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4217" centery="3403" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3579" centery="3404" centerz="6" radius="1">
 		<monster name="Black Wolf" x="-1" y="-1" z="6" spawntime="60" />
@@ -8184,9 +8103,6 @@
 		<monster name="Black Wolf" x="-1" y="1" z="6" spawntime="60" />
 		<monster name="Black Wolf" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4160" centery="3408" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3573" centery="3409" centerz="6" radius="1">
 		<monster name="Black Wolf" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Black Wolf" x="1" y="-1" z="6" spawntime="60" />
@@ -8206,9 +8122,6 @@
 		<monster name="Black Wolf" x="-1" y="1" z="6" spawntime="60" />
 		<monster name="Black Wolf" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4203" centery="3412" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3584" centery="3413" centerz="6" radius="1">
 		<monster name="Black Wolf" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Black Wolf" x="0" y="-1" z="6" spawntime="60" />
@@ -8222,9 +8135,6 @@
 		<monster name="Black Wolf" x="1" y="0" z="6" spawntime="60" />
 		<monster name="Black Wolf" x="-1" y="1" z="6" spawntime="60" />
 		<monster name="Black Wolf" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4216" centery="3413" centerz="6" radius="1">
-		<monster name="Barragan Boss" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2871" centery="3414" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
@@ -8241,12 +8151,6 @@
 		<monster name="Black Wolf" x="1" y="0" z="6" spawntime="60" />
 		<monster name="Black Wolf" x="-1" y="1" z="6" spawntime="60" />
 		<monster name="Black Wolf" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4230" centery="3414" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4151" centery="3415" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3574" centery="3416" centerz="6" radius="1">
 		<monster name="Black Wolf" x="-1" y="-1" z="6" spawntime="60" />
@@ -8292,9 +8196,6 @@
 		<monster name="Hiroshin" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4214" centery="3421" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3464" centery="3422" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="-1" z="6" spawntime="60" />
@@ -8321,9 +8222,6 @@
 		<monster name="Rungokai Bandit" x="-1" y="1" z="6" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4144" centery="3424" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="2864" centery="3425" centerz="6" radius="1">
 		<monster name="Hiroshin" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
@@ -8336,9 +8234,6 @@
 		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4141" centery="3431" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3459" centery="3434" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
@@ -8424,9 +8319,6 @@
 		<monster name="Elite Bandit" x="0" y="1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4140" centery="3442" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3514" centery="3443" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="0" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
@@ -8450,15 +8342,6 @@
 		<monster name="Elite Bandit" x="-1" y="0" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4114" centery="3444" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4132" centery="3446" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4121" centery="3447" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3480" centery="3448" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
@@ -8502,22 +8385,8 @@
 		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4135" centery="3459" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3514" centery="3469" centerz="6" radius="1">
 		<npc name="Kenji" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3973" centery="3477" centerz="6" radius="1">
-		<monster name="Fraccion" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Fraccion" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3959" centery="3478" centerz="6" radius="1">
-		<monster name="Fraccion" x="0" y="-1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3950" centery="3479" centerz="6" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Fraccion" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3600" centery="3481" centerz="6" radius="7">
 		<monster name="Punching Bag" x="-5" y="-4" z="6" spawntime="60" />
@@ -8527,31 +8396,6 @@
 		<monster name="Punching Bag" x="-5" y="3" z="6" spawntime="60" />
 		<monster name="Punching Bag" x="0" y="3" z="6" spawntime="60" />
 		<monster name="Punching Bag" x="5" y="3" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4066" centery="3481" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3933" centery="3482" centerz="6" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Fraccion" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3967" centery="3483" centerz="6" radius="1">
-		<monster name="Fraccion" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4050" centery="3483" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4059" centery="3483" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4042" centery="3484" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3941" centery="3487" centerz="6" radius="1">
-		<monster name="Fraccion" x="0" y="-1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3953" centery="3487" centerz="6" radius="1">
-		<monster name="Fraccion" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3492" centery="3489" centerz="6" radius="1">
 		<monster name="Snake Hollow" x="0" y="-1" z="6" spawntime="60" />
@@ -8565,43 +8409,17 @@
 	<spawn centerx="3501" centery="3491" centerz="6" radius="1">
 		<monster name="Snake Hollow" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3965" centery="3493" centerz="6" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Fraccion" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4041" centery="3493" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3466" centery="3494" centerz="6" radius="1">
 		<monster name="Snake Hollow" x="1" y="-1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3946" centery="3494" centerz="6" radius="1">
-		<monster name="Fraccion" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Fraccion" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3955" centery="3496" centerz="6" radius="1">
-		<monster name="Fraccion" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3462" centery="3497" centerz="6" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4044" centery="3498" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4058" centery="3499" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3457" centery="3501" centerz="6" radius="1">
 		<monster name="Snake Hollow" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4049" centery="3501" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3500" centery="3502" centerz="6" radius="1">
 		<monster name="Snake Hollow" x="0" y="-1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4066" centery="3502" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3478" centery="3506" centerz="6" radius="1">
 		<monster name="Snake Hollow" x="-1" y="-1" z="6" spawntime="60" />
@@ -8621,32 +8439,14 @@
 	<spawn centerx="3501" centery="3509" centerz="6" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4069" centery="3509" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4047" centery="3512" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3452" centery="3514" centerz="6" radius="1">
 		<monster name="Snake Hollow" x="1" y="-1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4041" centery="3515" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4035" centery="3518" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3453" centery="3519" centerz="6" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3500" centery="3519" centerz="6" radius="1">
 		<monster name="Snake Hollow" x="0" y="-1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4069" centery="3519" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4042" centery="3523" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2641" centery="3524" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="1" y="-1" z="6" spawntime="60" />
@@ -8655,9 +8455,6 @@
 	</spawn>
 	<spawn centerx="3456" centery="3526" centerz="6" radius="1">
 		<monster name="Snake Hollow" x="0" y="-1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4065" centery="3526" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2636" centery="3527" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="1" y="-1" z="6" spawntime="60" />
@@ -8674,12 +8471,6 @@
 	</spawn>
 	<spawn centerx="3459" centery="3530" centerz="6" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4040" centery="3532" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4061" centery="3532" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2635" centery="3533" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="-1" y="-1" z="6" spawntime="60" />
@@ -8700,17 +8491,8 @@
 	<spawn centerx="3485" centery="3536" centerz="6" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4035" centery="3536" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3478" centery="3537" centerz="6" radius="1">
 		<monster name="Snake Hollow" x="1" y="-1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4054" centery="3537" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4046" centery="3538" centerz="6" radius="1">
-		<monster name="Barragan" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3669" centery="3545" centerz="6" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="6" spawntime="60" />
@@ -22922,7 +22704,7 @@
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4223" centery="3559" centerz="8" radius="1">
-		<monster name="Barragan Boss Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Lunatic Barragan Boss" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="5358" centery="3559" centerz="8" radius="1" />
 	<spawn centerx="3464" centery="3560" centerz="8" radius="1">
@@ -24413,9 +24195,7 @@
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="5237" centery="3706" centerz="8" radius="1">
-		<monster name="Vizard Legendary" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
+	<spawn centerx="5237" centery="3706" centerz="8" radius="1" />
 	<spawn centerx="5308" centery="3706" centerz="8" radius="1" />
 	<spawn centerx="3334" centery="3707" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
@@ -25548,29 +25328,29 @@
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4124" centery="3866" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4136" centery="3866" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4073" centery="3867" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3845" centery="3868" centerz="8" radius="1">
 		<monster name="Nnoitra" x="0" y="-1" z="8" spawntime="60" />
 		<monster name="Nnoitra" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4088" centery="3868" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4150" centery="3868" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4111" centery="3869" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4059" centery="3871" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3829" centery="3872" centerz="8" radius="1">
 		<monster name="Nnoitra" x="0" y="-1" z="8" spawntime="60" />
@@ -25580,7 +25360,7 @@
 		<monster name="Gilliam" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4101" centery="3874" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3549" centery="3875" centerz="8" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
@@ -25604,7 +25384,7 @@
 		<monster name="Gilliam" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4156" centery="3877" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3538" centery="3878" centerz="8" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
@@ -25622,7 +25402,7 @@
 		<monster name="Gilliam" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4051" centery="3880" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3722" centery="3881" centerz="8" radius="1">
 		<monster name="Nnoitra" x="-1" y="-1" z="8" spawntime="60" />
@@ -25650,20 +25430,23 @@
 		<monster name="Nnoitra" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4017" centery="3882" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4038" centery="3882" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="4101" centery="3882" centerz="8" radius="1">
+		<monster name="Elite Nnoitra" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3840" centery="3883" centerz="8" radius="1">
 		<monster name="Nnoitra" x="0" y="-1" z="8" spawntime="60" />
 		<monster name="Nnoitra" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4004" centery="3883" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4029" centery="3883" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3670" centery="3884" centerz="8" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
@@ -25676,32 +25459,32 @@
 		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4153" centery="3888" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3632" centery="3890" centerz="8" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4053" centery="3891" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3666" centery="3892" centerz="8" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4106" centery="3894" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3852" centery="3895" centerz="8" radius="1">
 		<monster name="Nnoitra" x="0" y="-1" z="8" spawntime="60" />
 		<monster name="Nnoitra" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4141" centery="3895" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4123" centery="3896" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4093" centery="3897" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3526" centery="3898" centerz="8" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
@@ -25714,13 +25497,13 @@
 		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4062" centery="3900" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3632" centery="3901" centerz="8" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4078" centery="3901" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3526" centery="3910" centerz="8" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="8" spawntime="60" />
@@ -25729,7 +25512,7 @@
 		<monster name="Gilliam" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4066" centery="3916" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3634" centery="3917" centerz="8" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="8" spawntime="60" />
@@ -25765,7 +25548,7 @@
 		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4080" centery="3928" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3578" centery="3931" centerz="8" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
@@ -25774,10 +25557,10 @@
 		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4065" centery="3931" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4092" centery="3936" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3526" centery="3937" centerz="8" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
@@ -25786,58 +25569,58 @@
 		<monster name="Gilliam" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4064" centery="3946" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3578" centery="3948" centerz="8" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4212" centery="3948" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3632" centery="3950" centerz="8" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4102" centery="3950" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4120" centery="3951" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4133" centery="3952" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4148" centery="3952" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4227" centery="3952" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4195" centery="3953" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3525" centery="3954" centerz="8" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4161" centery="3955" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3798" centery="3957" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4056" centery="3957" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3711" centery="3958" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4093" centery="3958" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3792" centery="3959" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4176" centery="3959" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3781" centery="3961" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
@@ -25894,10 +25677,10 @@
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4082" centery="3970" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4237" centery="3970" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3734" centery="3971" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
@@ -25909,7 +25692,7 @@
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4063" centery="3973" centerz="8" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3683" centery="3976" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
@@ -27829,7 +27612,7 @@
 		<monster name="Giant Snake Hollow" x="-1" y="1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3916" centery="3867" centerz="9" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3892" centery="3868" centerz="9" radius="1">
 		<monster name="Nnoitra" x="-1" y="-1" z="9" spawntime="60" />
@@ -27839,19 +27622,19 @@
 		<monster name="Nnoitra" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3924" centery="3869" centerz="9" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3879" centery="3870" centerz="9" radius="1">
 		<monster name="Nnoitra" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3932" centery="3871" centerz="9" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3956" centery="3873" centerz="9" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3944" centery="3874" centerz="9" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3869" centery="3875" centerz="9" radius="1">
 		<monster name="Nnoitra" x="0" y="0" z="9" spawntime="60" />
@@ -27878,7 +27661,7 @@
 		<monster name="Gilliam" x="1" y="-1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3966" centery="3879" centerz="9" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3725" centery="3881" centerz="9" radius="1">
 		<monster name="Nnoitra" x="0" y="-1" z="9" spawntime="60" />
@@ -27893,7 +27676,7 @@
 		<monster name="Nnoitra" x="0" y="1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3978" centery="3881" centerz="9" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Elite Nnoitra" x="0" y="-1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3801" centery="3882" centerz="9" radius="1">
 		<monster name="Nnoitra" x="1" y="-1" z="9" spawntime="60" />
@@ -27916,16 +27699,16 @@
 		<monster name="Nnoitra" x="1" y="1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3989" centery="3882" centerz="9" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3999" centery="3882" centerz="9" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3567" centery="3888" centerz="9" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3966" centery="3889" centerz="9" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Elite Nnoitra" x="-1" y="1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3872" centery="3890" centerz="9" radius="1">
 		<monster name="Nnoitra" x="0" y="0" z="9" spawntime="60" />
@@ -27935,7 +27718,7 @@
 		<monster name="Nnoitra" x="-1" y="1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3958" centery="3895" centerz="9" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3543" centery="3896" centerz="9" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="9" spawntime="60" />
@@ -27955,10 +27738,10 @@
 		<monster name="Nnoitra" x="-1" y="1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3945" centery="3897" centerz="9" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3931" centery="3898" centerz="9" radius="1">
-		<monster name="Nnoitra Two" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Elite Nnoitra" x="1" y="-1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3567" centery="3908" centerz="9" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="9" spawntime="60" />
