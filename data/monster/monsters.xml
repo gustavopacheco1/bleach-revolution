@@ -58,7 +58,7 @@
 	<monster name="Vaizard" file="hunt/Vaizard.xml"/>
 	<monster name="Elite Vaizard" file="hunt/Elite Vaizard.xml"/>
 	<monster name="Furie Vaizard" file="hunt/Furie Vaizard.xml"/>
-	<monster name="Lunatic Vaizard" file="hunt/Luncatic Vaizard.xml"/>
+	<monster name="Lunatic Vaizard" file="hunt/Lunatic Vaizard.xml"/>
 	<monster name="Arrancar Misteryo" file="hunt/Arrancar Misteryo.xml"/>
 
 	<!-- Boss -->
