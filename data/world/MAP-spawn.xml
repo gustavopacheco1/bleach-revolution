@@ -26398,7 +26398,7 @@
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3334" centery="4093" centerz="8" radius="1">
-		<monster name="Legendary Menos" x="1" y="1" z="8" spawntime="60" />
+		<monster name="Lunatic Menos" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3418" centery="4093" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
