@@ -40,15 +40,15 @@
 		<item id="15101" chance="1000" count="1" countmax="1"/>
 		<item id="15112" chance="1000" count="1" countmax="1"/>
 		<item id="10731" chance="1000" count="1" countmax="1"/>
-		<item id="15005" chance="800" count="1" countmax="1"/>
-		<item id="15304" chance="800" count="1" countmax="1"/>
-		<item id="15011" chance="800" count="1" countmax="1"/>
+		<item id="15005" chance="700" count="1" countmax="1"/>
+		<item id="15304" chance="700" count="1" countmax="1"/>
+		<item id="15011" chance="700" count="1" countmax="1"/>
 		<item id="15006" chance="600" count="1" countmax="1"/>
 		<item id="15305" chance="600" count="1" countmax="1"/>
 		<item id="15012" chance="600" count="1" countmax="1"/>
 		<item id="15102" chance="400" count="1" countmax="1"/>
-		<item id="15248" chance="400" count="1" countmax="1"/>
-		<item id="15249" chance="400" count="1" countmax="1"/>
+		<item id="15248" chance="300" count="1" countmax="1"/>
+		<item id="15249" chance="200" count="1" countmax="1"/>
 		<item id="5897" chance="1500" count="1" countmax="15"/>
 		<item id="15687" chance="1500" count="1" countmax="15"/>
 		<item id="15230" chance="1500" count="1" countmax="15"/>
