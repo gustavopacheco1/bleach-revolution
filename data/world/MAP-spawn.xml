@@ -3935,6 +3935,9 @@
 		<monster name="Elite Bandit" x="-1" y="1" z="5" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="1" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3514" centery="3467" centerz="5" radius="1">
+		<npc name="Macoio" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3952" centery="3474" centerz="5" radius="1">
 		<monster name="Fraccion" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
