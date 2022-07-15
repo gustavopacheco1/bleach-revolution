@@ -22328,7 +22328,7 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="15435" name="Elite Urahara Legs">
+	<item id="16435" name="Elite Urahara Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="manaGain" value="250"/>
@@ -22366,7 +22366,7 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="15436" name="Furie Urahara Legs">
+	<item id="16436" name="Furie Urahara Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="manaGain" value="300"/>
