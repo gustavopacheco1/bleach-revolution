@@ -7134,9 +7134,6 @@
 		<monster name="Elite Bandit" x="0" y="1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3534" centery="3267" centerz="6" radius="1">
-		<npc name="Minoru" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="2877" centery="3268" centerz="6" radius="1">
 		<monster name="Furie Urahara" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
