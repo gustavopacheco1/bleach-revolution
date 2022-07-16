@@ -23,6 +23,7 @@
 	<event type="statschange" name="TrainerShielding" event="script" value="monsters_events/trainer_shielding.lua"/>
 	<event type="death" name="MonsterTeleportOnDeath" event="script" value="monsters_events/monster_teleport_ondeath.lua"/>
 	<event type="death" name="YamamotoTask" event="script" value="monsters_events/yamamoto_task.lua"/>
+	<event type="death" name="BossDeath" event="script" value="monsters_events/boss_death.lua"/>
 
 	<!-- Spells -->
 	<event type="statschange" name="Immortal" event="script" value="spells/immortal.lua"/>

@@ -96,6 +96,14 @@ function onStartup()
 		doSetStorage("boss", 1)
 	end
 
+	-- You need to run math.randomseed() once before using math.random()
+	math.randomseed(os.time())
+
+	-- The first number may not be so "randomized" in some platforms. So a better solution is to pop some random number before using them for real
+	math.random()
+	math.random()
+	math.random()
+
 	return true
 end
 

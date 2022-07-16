@@ -6,6 +6,7 @@
 	<globalevent name="globalsave" type="globalsave" event="script" value="init.lua"/>
 	<globalevent name="shutdown" type="shutdown" event="script" value="init.lua"/>
 	<globalevent name="record" type="record" event="script" value="record.lua"/>
+	<globalevent name="startup_bosses" type="startup" event="script" value="startup_bosses.lua"/>
 	<globalevent name="[Legendary Bosses] first_boss" time="18:54:30" event="script" value="legendary_bosses/first_boss.lua"/>
 	<globalevent name="[Legendary Bosses] bosses" time="18:43:30;22:00:00" event="script" value="legendary_bosses/bosses.lua"/>
 </globalevents>
