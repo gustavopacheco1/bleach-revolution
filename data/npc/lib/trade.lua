@@ -23,15 +23,6 @@ buyable_items = {
 }
 
 sellable_items = {
-	["Macoio"] = {
-		[5897] = { price = 10000 },
-		[15687] = { price = 10000 }, 
-		[15230] = { price = 10000 }
-		
-	},
-}
-
-sellable_items = {
 	["Kenji"] = {
 		[15111] = { price = 100000 },
 		[15724] = { price = 100000 },
@@ -101,8 +92,13 @@ sellable_items = {
 		[11095] = { price = 20000 },
 		[15264] = { price = 30000 },
 		[15265] = { price = 40000 }
-		
 	},
+
+	["Macoio"] = {
+		[5897] = { price = 10000 },
+		[15687] = { price = 10000 },
+		[15230] = { price = 10000 }
+	}
 }
 
 function creatureSayBuy(cid, itemid, subType, amount, ignoreCap, inBackpacks)
