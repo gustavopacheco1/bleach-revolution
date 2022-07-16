@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Monster Level: 120 -->
-<monster name="Hollow Grande" nameDescription="Hollow Grande" race="blood" experience="3500" speed="500" manacost="0">
-	<health now="25000" max="25000"/>
-	<look type="43" corpse="16330"/>
+<!-- Boss Drop Level: 275 -->
+<monster name="Legendary Vizard" nameDescription="Legendary Vizard" race="blood" experience="0" speed="1200" manacost="0">
+	<health now="2000000" max="2000000"/>
+	<look type="134" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
 	<flags>
@@ -17,9 +17,10 @@
 		<flag targetdistance="1"/>
 		<flag staticattack="90"/>
 		<flag runonhealth="0"/>
+		<flag lootmessage="0"/>
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="-4100" max="-4500"/>
+		<attack name="melee" interval="1500" min="-40000" max="-40500"/>
 	</attacks>
 	<defenses armor="0" defense="0"/>
 	<immunities>
@@ -33,15 +34,6 @@
 		<immunity invisible="0"/>
 	</immunities>
 	<script>
-		<event name="YamamotoTask"/>
+		<event name="BossDeath"/>
 	</script>
-	<loot>
-		<item id="2148" chance="1000" count="1" countmax="5"/>
-		<item id="15105" chance="2000" count="1" countmax="1"/>
-		<item id="15260" chance="2000" count="1" countmax="1"/>
-		<item id="15261" chance="2000" count="1" countmax="1"/>
-		<item id="5897" chance="2000" count="1" countmax="15"/>
-		<item id="15687" chance="2000" count="1" countmax="15"/>
-		<item id="15230" chance="2000" count="1" countmax="15"/>
-	</loot>
 </monster>

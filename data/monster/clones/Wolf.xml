@@ -15,10 +15,9 @@
 		<flag targetdistance="1"/>
 		<flag staticattack="90"/>
 		<flag runonhealth="0"/>
-        <flag walkable="1"/>
+		<flag walkable="1"/>
 	</flags>
-	<defenses armor="0" defense="0">
-	</defenses>
+	<defenses armor="0" defense="0"></defenses>
 	<immunities>
 		<immunity physical="0"/>
 		<immunity energy="0"/>

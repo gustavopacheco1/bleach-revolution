@@ -67,16 +67,16 @@
 	<monster name="Vizard Boss" file="boss/Vizard Boss.xml"/>
 	<monster name="Elite Vizard Boss" file="boss/Elite Vizard Boss.xml"/>
 	<monster name="Furie Vizard Boss" file="boss/Furie Vizard Boss.xml"/>
-	<monster name="Lunatic Vizard Boss" file="boss/Lunatic Vizard Boss.xml"/>
+	<monster name="Legendary Vizard" file="boss/Legendary Vizard.xml"/>
 	<monster name="Elite Zangetsu" file="boss/Elite Zangetsu.xml"/>
 	<monster name="Furie Zangetsu" file="boss/Furie Zangetsu.xml"/>
-	<monster name="Lunatic Zangetsu" file="boss/Lunatic Zangetsu.xml"/>
+	<monster name="Legendary Zangetsu" file="boss/Legendary Zangetsu.xml"/>
 	<monster name="Hiroshi Boss" file="boss/Hiroshi Boss.xml"/>
 	<monster name="Elite Hiroshi Boss" file="boss/Elite Hiroshi Boss.xml"/>
 	<monster name="Barragan Boss" file="boss/Barragan Boss.xml"/>
 	<monster name="Lunatic Barragan Boss" file="boss/Lunatic Barragan Boss.xml"/>
 	<monster name="Elite Grand Fisher" file="boss/Elite Grand Fisher.xml"/>
-	<monster name="Lunatic Nnoitra" file="boss/Lunatic Nnoitra.xml"/>
+	<monster name="Legendary Nnoitra" file="boss/Legendary Nnoitra.xml"/>
 	<monster name="Zaraki Legendary" file="boss/Zaraki Legendary.xml"/>
 	<monster name="Lunatic menos" file="boss/Lunatic Menos.xml"/>
 	<monster name="Ryu Boss" file="boss/Ryu Boss.xml"/>
@@ -84,7 +84,7 @@
 	<monster name="Arrancar Boss" file="boss/Arrancar Boss.xml"/>
 	<monster name="Kensei Boss" file="boss/Kensei Boss.xml"/>
 	<monster name="Especial Arrancar Boss" file="boss/Especial Arrancar Boss.xml"/>
-	<monster name="Kaname" file="boss/Kaname.xml"/>
+	<monster name="Legendary Kaname" file="boss/Legendary Kaname.xml"/>
 	<monster name="Kyoraku" file="boss/Kyoraku.xml"/>
 	<monster name="Blank" file="boss/Blank.xml"/>
 	<monster name="Adjuchas Boss" file="boss/Adjuchas Boss.xml"/>

@@ -15,15 +15,14 @@
 		<flag targetdistance="1"/>
 		<flag staticattack="90"/>
 		<flag runonhealth="0"/>
-        <flag walkable="1"/>
+		<flag walkable="1"/>
 	</flags>
 	<attacks>
 		<!-- <attack name="melee" interval="1000" min="-2500" max="-5000"/>
 		<attack name="Death Ball" interval="2000" chance="35" min="-7500" max="-10000"/>
 		<attack name="Great Saiyaman Attack" interval="1000" chance="50" min="-800" max="-1200"/> -->
 	</attacks>
-	<defenses armor="0" defense="0">
-	</defenses>
+	<defenses armor="0" defense="0"></defenses>
 	<immunities>
 		<immunity physical="0"/>
 		<immunity energy="0"/>
