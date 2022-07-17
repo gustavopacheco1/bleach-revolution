@@ -4057,11 +4057,9 @@ bool Game::playerLookInBattleList(const uint32_t &playerId, const uint32_t &crea
 		if (!player->hasFlag(PlayerFlag_HideHealth))
 		{
 			ss << std::endl
-			   << "Health: [" << creature->getHealth() << " / " << creature->getMaxHealth() << "]";
+			   << "Health: " << creature->getHealth() << " / " << creature->getMaxHealth();
 			if (creature->getMaxMana() > 0)
-				ss << ", Mana: [" << creature->getMana() << " / " << creature->getMaxMana() << "]";
-
-			ss << ".";
+				ss << ", Mana: " << creature->getMana() << " / " << creature->getMaxMana();
 		}
 
 		if (const Player *target = creature->getPlayer())
@@ -4071,7 +4069,6 @@ bool Game::playerLookInBattleList(const uint32_t &playerId, const uint32_t &crea
 #if CLIENT_VERSION_MIN != CLIENT_VERSION_MAX
 			ss << ", Client: " << target->getClientVersion();
 #endif
-			ss << ".";
 		}
 
 		if (creature->isGhost())
@@ -4082,8 +4079,7 @@ bool Game::playerLookInBattleList(const uint32_t &playerId, const uint32_t &crea
 	if (player->hasCustomFlag(PlayerCustomFlag_CanSeePosition))
 	{
 		ss << std::endl
-		   << "Position: [X: " << creaturePos.x << "] [Y: " << creaturePos.y << "] [Z: " << creaturePos.z << "]";
-		ss << ".";
+		   << "Position: { x = " << creaturePos.x << ", y = " << creaturePos.y << ", z = " << creaturePos.z << " }";
 	}
 
 	player->sendTextMessage(MSG_INFO_DESCR, ss.str());

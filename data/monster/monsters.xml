@@ -91,6 +91,7 @@
 	<monster name="Especial Hollow Snake" file="boss/Especial Hollow Snake.xml"/>
 
 	<!-- Clones -->
-	<monster name="Rukia Clone" file="clones/Rukia Clone.xml"/>
+	<monster name="Clone" file="clones/Clone.xml"/>
+	<monster name="Death Clone" file="clones/Death Clone.xml"/>
 	<monster name="Wolf Clone" file="clones/Wolf.xml"/>
 </monsters>

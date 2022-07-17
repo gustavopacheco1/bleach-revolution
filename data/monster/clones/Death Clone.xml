@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Clone" nameDescription="a Clone" race="blood" experience="0" speed="0" manacost="1000">
+<monster name="Death Soul Clone" nameDescription="a soul" race="blood" experience="0" speed="0" manacost="1000">
 	<health now="500000" max="500000"/>
-	<look type="2"/>
+	<look type="457"/>
 	<strategy attack="100" defense="0"/>
 	<flags>
 		<flag summonable="1"/>
@@ -17,11 +17,6 @@
 		<flag runonhealth="0"/>
 		<flag walkable="1"/>
 	</flags>
-	<attacks>
-		<!-- <attack name="melee" interval="1000" min="-2500" max="-5000"/>
-		<attack name="Death Ball" interval="2000" chance="35" min="-7500" max="-10000"/>
-		<attack name="Great Saiyaman Attack" interval="1000" chance="50" min="-800" max="-1200"/> -->
-	</attacks>
 	<defenses armor="0" defense="0"></defenses>
 	<immunities>
 		<immunity physical="0"/>

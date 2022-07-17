@@ -10,7 +10,7 @@ function onCastSpell(cid, var)
 
 	local player_group_id = getPlayerGroupId(cid)
 
-	local clone = doCreateMonster("Rukia Clone", getCreaturePosition(cid), false, true)
+	local clone = doCreateMonster("Clone", getCreaturePosition(cid), false, true)
 	doCreatureChangeOutfit(clone, getCreatureOutfit(cid))
 	doCreatureSetLookDir(clone, getCreatureLookDir(cid))
 	doCreatureSetHideHealth(clone, true)
