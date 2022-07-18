@@ -2300,4 +2300,10 @@
 		<border align="outer" id="134"/>
 		<border align="inner" to="none" id="10"/>
 	</brush>
+	
+	<brush name="grass two" type="ground" server_lookid="16313" z-order="3500">
+		<item id="16313" chance="100"/>
+		
+		<border align="outer" id="135"/>
+	</brush>
 </materials>

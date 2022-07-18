@@ -145,6 +145,7 @@
 			<item id="9800"/>
 			<item id="9883"/>
 			<item fromid="9833" toid="9834"/>
+			<item id="16313"/>
 		</raw>
 	</tileset>
 
@@ -189,6 +190,7 @@
 			<brush name="rocky ground"/>
 			<brush name="frozen mud"/>
 			<brush name="frozen mud (thick border)"/>
+			<brush name="grass two"/>
 		</terrain>
 		<doodad>
 			<brush name="mossy wall"/>
