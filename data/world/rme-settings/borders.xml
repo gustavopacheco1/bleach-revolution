@@ -931,4 +931,19 @@
         <borderitem edge="dsw" item="10964"/>
         <borderitem edge="dse" item="10965"/>
 	</border>
+	
+	<border id="135"> -- grass two --
+        <borderitem edge="n"   item="16314"/>
+        <borderitem edge="e"   item="16315"/>
+        <borderitem edge="s"   item="16316"/>
+        <borderitem edge="w"   item="16317"/>
+        <borderitem edge="cnw" item="16318"/>
+        <borderitem edge="cne" item="16319"/>
+        <borderitem edge="csw" item="16320"/>
+        <borderitem edge="cse" item="16321"/>
+        <borderitem edge="dnw" item="16322"/>
+        <borderitem edge="dne" item="16323"/>
+        <borderitem edge="dsw" item="16324"/>
+        <borderitem edge="dse" item="16325"/>
+	</border>
 </materials>
