@@ -78,13 +78,13 @@
 	killsBanLength = 7 * 24 * 60 * 60
 	finalBanLength = 30 * 24 * 60 * 60
 	ipBanLength = 1 * 24 * 60 * 60
-	fragsToBanishment = 7
-	fragsSecondToBanishment = 21
-	fragsThirdToBanishment = 41
+	fragsToBanishment = 100
+	fragsSecondToBanishment = 100
+	fragsThirdToBanishment = 100
 
 	-- Battle
 	-- NOTE: showHealth/ManaChangeForMonsters inherites from showHealth/ManaChange.
-	protectionLevel = 1
+	protectionLevel = 150
 	pvpTileIgnoreLevelAndVocationProtection = true
 	pzLocked = 60 * 1000
 	pzlockOnAttackSkulledPlayers = false
