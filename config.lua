@@ -50,23 +50,23 @@
 	generateAccountSalt = true
 
 	-- Limits on frags / Time
-	fragsLimit = 24 * 60 * 60
-	fragsSecondLimit = 7 * 24 * 60 * 60
-	fragsThirdLimit = 30 * 24 * 60 * 60
+	fragsLimit = 30 * 60 * 60
+	fragsSecondLimit = 50 * 50 * 60 * 60
+	fragsThirdLimit = 55 * 55 * 60 * 60
 
 	-- Red Skull Config
-	fragsToRedSkull = 3
-	fragsSecondToRedSkull = 5
-	fragsThirdToRedSkull = 10
-	redSkullLength = 3 * 24 * 60 * 60
+	fragsToRedSkull = 30
+	fragsSecondToRedSkull = 50
+	fragsThirdToRedSkull = 55
+	redSkullLength = 30 * 50 * 55 * 60
 
 	-- Black Skull Config
-	fragsToBlackSkull = 6
-	fragsSecondToBlackSkull = 10
-	fragsThirdToBlackSkull = 20
+	fragsToBlackSkull = 30
+	fragsSecondToBlackSkull = 50
+	fragsThirdToBlackSkull = 55
 	blackSkulledDeathHealth = 40
 	blackSkulledDeathMana = 0
-	blackSkullLength = 6 * 24 * 60 * 60
+	blackSkullLength = 30 * 50 * 55 * 60
 	useBlackSkull = true
 
 	-- Banishment Config
@@ -78,13 +78,13 @@
 	killsBanLength = 7 * 24 * 60 * 60
 	finalBanLength = 30 * 24 * 60 * 60
 	ipBanLength = 1 * 24 * 60 * 60
-	fragsToBanishment = 7
-	fragsSecondToBanishment = 21
-	fragsThirdToBanishment = 41
+	fragsToBanishment = 100
+	fragsSecondToBanishment = 100
+	fragsThirdToBanishment = 100
 
 	-- Battle
 	-- NOTE: showHealth/ManaChangeForMonsters inherites from showHealth/ManaChange.
-	protectionLevel = 1
+	protectionLevel = 150
 	pvpTileIgnoreLevelAndVocationProtection = true
 	pzLocked = 60 * 1000
 	pzlockOnAttackSkulledPlayers = false

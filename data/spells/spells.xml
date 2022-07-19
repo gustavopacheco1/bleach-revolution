@@ -161,10 +161,7 @@
 
 
 	<!-- Attack -->
-	<instant name="Seki" words="Seki" lvl="5" mana="40" prem="0" range="8" needtarget="1" blockwalls="1" exhaustion="1000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/seki.lua"/>
-	<instant name="Geki" words="Geki" lvl="10" mana="80" prem="0" range="8" needtarget="1" blockwalls="1" exhaustion="1000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/geki.lua"/>
-	<instant name="Shitotsu Sansen" words="Shitotsu Sansen" lvl="20" mana="300" prem="0" range="8" needtarget="1" blockwalls="1" exhaustion="1000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/shitotsu_sansen.lua"/>
-	<instant name="Gochutekkan" words="Gochutekkan" lvl="30" mana="500" prem="0" range="8" needtarget="1" blockwalls="1" exhaustion="1000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/gochutekkan.lua"/>
+	
 
 	<!-- Area -->
 	<instant name="Getsuga Area" words="Getsuga Area" lvl="100" mana="10000" prem="0" range="8" blockwalls="1" exhaustion="1000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Getsuga Area.lua">
