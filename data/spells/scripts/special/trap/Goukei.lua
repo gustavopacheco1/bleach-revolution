@@ -15,7 +15,7 @@ setCombatParam(combat_effect, COMBAT_PARAM_EFFECT, 543)
 
 local combat_damage = createCombatObject()
 setCombatParam(combat_damage, COMBAT_PARAM_TYPE, COMBAT_ENERGYDAMAGE)
-setCombatFormula(combat_damage, COMBAT_FORMULA_LEVELMAGIC, -15.0, 0, -15.0, 0)
+setCombatFormula(combat_damage, COMBAT_FORMULA_LEVELMAGIC, -30.0, 0, -30.0, 0)
 setCombatParam(combat_damage, COMBAT_PARAM_EFFECT, 543)
 
 function onCastSpell(cid, var)
