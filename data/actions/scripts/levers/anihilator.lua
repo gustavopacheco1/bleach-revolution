@@ -1,10 +1,19 @@
 local minutes_to_complete = 60
 
-local players_position = {
+local players_tile_positions = {
 	{ x = 3805, y = 3650, z = 9, stackpos = 253 },
 	{ x = 3806, y = 3650, z = 9, stackpos = 253 },
 	{ x = 3807, y = 3650, z = 9, stackpos = 253 },
 	{ x = 3808, y = 3650, z = 9, stackpos = 253 }
+}
+
+local area_positions = {
+	initial = { x = 3805, y = 3653, z = 9 },
+	quest = {
+		entry = { x = 5316, y = 3618, z = 8 },
+		top_left = { x = 5175, y = 3510, z = 8 },
+		bottom_right = { x = 5461, y = 3754, z = 8 }
+	}
 }
 
 function onUse(cid, item, fromPosition, itemEx, toPosition)
@@ -17,13 +26,13 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 
 	if not
 		(
-		player_position.x == players_position[1].x and player_position.y == players_position[1].y and
-			player_position.z == players_position[1].z) then
+		player_position.x == players_tile_positions[1].x and player_position.y == players_tile_positions[1].y and
+			player_position.z == players_tile_positions[1].z) then
 		return
 	end
 
-	for i = 1, #players_position do
-		if not (isPlayer(getThingFromPosition(players_position[i]).uid)) then
+	for i = 1, #players_tile_positions do
+		if not (isPlayer(getThingFromPosition(players_tile_positions[i]).uid)) then
 			return MultiLanguage.doPlayerSendCancel(
 				cid,
 				"You need mates to fill all the spots to face this challenge.",
@@ -33,11 +42,11 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 	end
 
 
-	for i = 1, #players_position do
-		local thing = getThingFromPosition(players_position[i]).uid
+	for i = 1, #players_tile_positions do
+		local thing = getThingFromPosition(players_tile_positions[i]).uid
 
-		doTeleportThing(thing, { x = 4545, y = 3850, z = 7 })
-		doSendMagicEffect({ x = 4545, y = 3850, z = 7 }, 10)
+		doTeleportThing(thing, area_positions.quest.entry)
+		doSendMagicEffect(area_positions.quest.entry, CONST_ME_POFF)
 		MultiLanguage.doPlayerSendTextMessage(
 			cid,
 			MESSAGE_EVENT_ADVANCE,
@@ -48,9 +57,9 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 		addEvent(
 			function()
 				if isPlayer(thing) then
-					if isInArea(getCreaturePosition(thing), { x = 4406, y = 3748, z = 7 }, { x = 4678, y = 3984, z = 7 }) then
-						doTeleportThing(thing, { x = 3805, y = 3653, z = 9 })
-						doSendMagicEffect({ x = 3805, y = 3653, z = 9 }, 10)
+					if isInArea(getCreaturePosition(thing), area_positions.quest.top_left, area_positions.quest.bottom_right) then
+						doTeleportThing(thing, area_positions.initial)
+						doSendMagicEffect(area_positions.initial, CONST_ME_POFF)
 					end
 				end
 			end,
