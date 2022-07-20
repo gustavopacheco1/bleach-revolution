@@ -114,6 +114,9 @@
 	<instant name="Trap Dano" words="trap dano" lvl="100" mana="5000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" exhaustedGroup="special" needlearn="1" event="script" value="special/trap/trap_dano.lua">
 		<vocation id="8"/> <!-- Byakuya Kuchiki -->
 	</instant>
+	<instant name="uryu special" words="uryu special" lvl="100" mana="5000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" exhaustedGroup="special" needlearn="1" event="script" value="special/trap/uryu special.lua">
+		<vocation id="5"/> <!-- Uryu Ishida -->
+	</instant>
 
 	<!-- Buffs -->
 	<instant name="Bankai" words="bankai" aggressive="0" prem="0" selftarget="1" lvl="100" mana="5000" exhaustion="1000" exhaustedGroup="special" needlearn="1" event="script" value="special/buffs/bankai.lua">
