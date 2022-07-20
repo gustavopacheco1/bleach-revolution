@@ -3,7 +3,7 @@ setCombatParam(combat, COMBAT_PARAM_HITCOLOR, COLOR_PINK)
 setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_ENERGYDAMAGE)
 setCombatParam(combat, COMBAT_PARAM_DISTANCEEFFECT, 50)
 setCombatParam(combat, COMBAT_PARAM_EFFECT, 684)
-setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -61.0, 0, -61.0, 0)
+setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -56.0, 0, -56.0, 0)
 
 function onCastSpell(cid, var)
 	if exhaustion.check(cid, 200) then

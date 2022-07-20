@@ -1,7 +1,7 @@
 local combat = createCombatObject()
 setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_ENERGYDAMAGE)
 setCombatParam(combat, COMBAT_PARAM_DISTANCEEFFECT, 90)
-setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -86.0, 0, -86.0, 0)
+setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -81.0, 0, -81.0, 0)
 
 function onCastSpell(cid, var)
 	if exhaustion.check(cid, 250) then
