@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Monster Level: 230 -->
 <monster name="Elite Nnoitra" nameDescription="Elite Nnoitra" race="blood" experience="11500" speed="600" manacost="0">
-	<health now="55000" max="55000"/>
+	<health now="160000" max="160000"/>
 	<look type="336" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
@@ -33,7 +33,7 @@
 		<immunity invisible="0"/>
 	</immunities>
 	<loot>
-		<item id="2152" chance="2000" count="1" countmax="2"/>
+		<item id="2148" chance="2000" count="6000" countmax="6000"/>
 		<item id="5897" chance="2000" count="1" countmax="15"/>
 		<item id="15687" chance="2000" count="1" countmax="15"/>
 		<item id="15230" chance="2000" count="1" countmax="15"/>

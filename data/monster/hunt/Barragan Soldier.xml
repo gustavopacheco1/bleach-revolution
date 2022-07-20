@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Monster Level: 200 -->
 <monster name="Barragan Soldier" nameDescription="Barragan Soldier" race="blood" experience="9500" speed="600" manacost="0">
-	<health now="50000" max="50000"/>
+	<health now="145000" max="145000"/>
 	<look type="130" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
@@ -36,7 +36,7 @@
 		<event name="YamamotoTask"/>
 	</script>
 	<loot>
-		<item id="2152" chance="2000" count="1" countmax="2"/>
+		<item id="2148" chance="2000" count="5000" countmax="5000"/>
 		<item id="15101" chance="2000" count="1" countmax="1"/>
 		<item id="15112" chance="2000" count="1" countmax="1"/>
 		<item id="10731" chance="2000" count="1" countmax="1"/>

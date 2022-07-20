@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Monster Level: 20 -->
-<monster name="Snake Hollow" nameDescription="Snake Hollow" race="blood" experience="600" speed="60" manacost="0">
+<monster name="Snake Hollow" nameDescription="Snake Hollow" race="blood" experience="450" speed="60" manacost="0">
 	<health now="7000" max="7000"/>
 	<look type="55" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
@@ -36,7 +36,7 @@
 		<event name="YamamotoTask"/>
 	</script>
 	<loot>
-		<item id="2148" chance="1000" count="1" countmax="1"/>
+		<item id="2148" chance="1000" count="50" countmax="50"/>
 		<item id="11094" chance="2000" count="1" countmax="1"/>
 		<item id="15266" chance="2000" count="1" countmax="1"/>
 		<item id="15267" chance="2000" count="1" countmax="1"/>

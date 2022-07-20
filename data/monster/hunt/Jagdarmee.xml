@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Monster Level: 250 -->
 <monster name="Jagdarmee" nameDescription="Jagdarmee" race="blood" experience="13500" speed="600" manacost="0">
-	<health now="60000" max="60000"/>
+	<health now="180000" max="180000"/>
 	<look type="294" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
@@ -36,7 +36,7 @@
 		<event name="YamamotoTask"/>
 	</script>
 	<loot>
-		<item id="2152" chance="2000" count="1" countmax="2"/>
+		<item id="2148" chance="2000" count="7000" countmax="7000"/>
 		<item id="5897" chance="2000" count="1" countmax="15"/>
 		<item id="15687" chance="2000" count="1" countmax="15"/>
 		<item id="15230" chance="2000" count="1" countmax="15"/>

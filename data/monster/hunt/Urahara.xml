@@ -33,7 +33,7 @@
 		<immunity invisible="0"/>
 	</immunities>
 	<loot>
-		<item id="2148" chance="1000" count="1" countmax="5"/>
+		<item id="2148" chance="1000" count="1000" countmax="1000"/>
 		<item id="15724" chance="2000" count="1" countmax="1"/>
 		<item id="15111" chance="2000" count="1" countmax="1"/>
 		<item id="16115" chance="2000" count="1" countmax="1"/>

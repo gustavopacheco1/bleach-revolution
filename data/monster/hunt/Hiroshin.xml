@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Monster Level: 150 -->
 <monster name="Hiroshin" nameDescription="Hiroshin" race="blood" experience="5000" speed="600" manacost="0">
-	<health now="35000" max="35000"/>
+	<health now="130000" max="130000"/>
 	<look type="174" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
@@ -33,7 +33,7 @@
 		<immunity invisible="0"/>
 	</immunities>
 	<loot>
-		<item id="2148" chance="1500" count="1" countmax="5"/>
+		<item id="2148" chance="1500" count="2000" countmax="2000"/>
 		<item id="5897" chance="2000" count="1" countmax="15"/>
 		<item id="15687" chance="2000" count="1" countmax="15"/>
 		<item id="15230" chance="2000" count="1" countmax="15"/>
