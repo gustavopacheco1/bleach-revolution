@@ -51,7 +51,7 @@
 	<instant name="Muted" words="Muted" lvl="150" mana="5000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" exhaustedGroup="special" needlearn="1" event="script" value="special/muted.lua">
 		<vocation id="17"/> <!-- Urahara Kisuke -->
 	</instant>
-	<instant name="Los Lobos" words="Los Lobos" lvl="150" mana="5000" prem="0" aggressive="1" exhaustion="2000" exhaustedGroup="special" needlearn="1" event="script" value="special/Los Lobos.lua">
+	<instant name="Los Lobos" words="Los Lobos" lvl="150" mana="5000" prem="0" aggressive="1" exhaustion="50000" exhaustedGroup="special" needlearn="1" event="script" value="special/Los Lobos.lua">
 		<vocation id="20"/> <!-- Coyote Starrk -->
 	</instant>
 	<instant name="Santa Tereza" words="Santa Tereza" lvl="150" mana="5000" prem="0" aggressive="1" exhaustion="2000" exhaustedGroup="special" needlearn="1" event="script" value="special/Santa Tereza.lua">
