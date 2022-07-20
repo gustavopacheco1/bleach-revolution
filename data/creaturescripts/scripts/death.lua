@@ -1,6 +1,6 @@
-local function getDeathClone(cid)
+local function getDeathSoulClone(cid)
 	for _, summon in ipairs(getCreatureSummons(cid)) do
-		if getCreatureName(summon) == "Death Clone" then
+		if getCreatureName(summon) == "Death Soul Clone" then
 			return summon
 		end
 	end
@@ -25,7 +25,6 @@ function onStatsChange(cid, attacker, type, combat, value)
 
 	doRemoveCreatureSummons(cid)
 
-	-- local clone = doCreateMonster("Death Clone", getCreaturePosition(cid), false, true)
 	setCreatureTarget(cid, nil)
 	doCreatureAddHealth(cid, getCreatureMaxHealth(cid))
 	doPlayerSetGroupId(cid, 7)
@@ -34,12 +33,13 @@ function onStatsChange(cid, attacker, type, combat, value)
 	end
 
 	doSummonMonster(cid, "Death Clone")
-	local clone = getDeathClone(cid)
+	local clone = getDeathSoulClone(cid)
 
 	doTeleportThing(clone, death_position)
 	doCreatureChangeOutfit(clone, { lookType = 457 })
 	doCreatureSetLookDirection(clone, NORTH)
 	addEvent(doCreatureSetStorage, 1000, clone, "dead_player_id", cid)
+	doSetCreatureOutfit(cid, { lookType = 0 }, 6000)
 
 	addEvent(function()
 		if not isCreature(clone) then

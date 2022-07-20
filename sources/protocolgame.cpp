@@ -2891,8 +2891,8 @@ void ProtocolGame::AddCreature(OutputMessage_ptr msg, const Creature *creature, 
 		}
 		else
 		{
-			const Creature* master = creature->getMaster();
-			msg->addString(creature->getName() == "Death Clone" && master && master->getPlayer() ? master->getName() + "'s soul" : creature->getName());
+			const Creature *master = creature->getMaster();
+			msg->addString(creature->getName() == "Death Soul Clone" && master && master->getPlayer() ? master->getName() + "'s soul" : creature->getName());
 		}
 	}
 	else
