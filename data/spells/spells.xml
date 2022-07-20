@@ -57,8 +57,8 @@
 	<instant name="Santa Tereza" words="Santa Tereza" lvl="150" mana="5000" prem="0" aggressive="1" exhaustion="2000" exhaustedGroup="special" needlearn="1" event="script" value="special/Santa Tereza.lua">
 		<vocation id="21"/> <!-- Nnoitra Gilga -->
 	</instant>
-	<instant name="grimm special" words="grimm special" lvl="150" mana="5000" prem="0" aggressive="1" exhaustion="2000" exhaustedGroup="special" needlearn="1" event="script" value="special/grimm special.lua">
-		<vocation id="21"/> <!-- Grimmjow Jaegerjaquez -->
+	<instant name="Sonido" words="Sonido" lvl="150" mana="5000" prem="0" aggressive="1" exhaustion="2000" exhaustedGroup="special" needlearn="1" event="script" value="special/Sonido.lua">
+		<vocation id="18"/> <!-- Grimmjow Jaegerjaquez -->
 	</instant>
 
 	<!-- Reflect -->
@@ -106,7 +106,7 @@
 	<instant name="Tsugi" words="Tsugi" lvl="100" mana="5000" prem="0" range="5" blockwalls="1" needtarget="1" exhaustion="1000" exhaustedGroup="special" needlearn="1" event="script" value="special/paralyze/tsugi.lua">
 		<vocation id="10"/> <!-- Rukia Kuchiki -->
 	</instant>
-	<instant name="Muted Paralyze" words="Muted Paralyze" lvl="150" mana="5000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" exhaustedGroup="special" needlearn="1" event="script" value="special/paralyze/muted_paralyze.lua">
+	<instant name="Ciffer Reiatsu" words="Ciffer Reiatsu" lvl="150" mana="5000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" exhaustedGroup="special" needlearn="1" event="script" value="special/paralyze/Ciffer Reiatsu.lua">
 		<vocation id="6"/> <!-- Ulquiorra Ciffer -->
 	</instant>
 
@@ -114,10 +114,10 @@
 	<instant name="Hyakkasou" words="Hyakkasou" lvl="100" mana="5000" prem="0" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1200" exhaustedGroup="special" needlearn="1" event="script" value="special/trap/Hyakkasou.lua">
 		<vocation id="9"/> <!-- Toshiro Histugaya -->
 	</instant>
-	<instant name="Trap Dano" words="trap dano" lvl="100" mana="5000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" exhaustedGroup="special" needlearn="1" event="script" value="special/trap/trap_dano.lua">
+	<instant name="Goukei" words="Goukei" lvl="100" mana="5000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" exhaustedGroup="special" needlearn="1" event="script" value="special/trap/Goukei.lua">
 		<vocation id="8"/> <!-- Byakuya Kuchiki -->
 	</instant>
-	<instant name="uryu special" words="uryu special" lvl="100" mana="5000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" exhaustedGroup="special" needlearn="1" event="script" value="special/trap/uryu special.lua">
+	<instant name="Sprenger" words="Sprenger" lvl="150" mana="5000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" exhaustedGroup="special" needlearn="1" event="script" value="special/trap/Sprenger.lua">
 		<vocation id="5"/> <!-- Uryu Ishida -->
 	</instant>
 
@@ -164,7 +164,7 @@
 	<instant name="Dechire Pantera" words="Dechire Pantera" lvl="100" mana="5000" prem="0" aggressive="0" exhaustion="2000" exhaustedGroup="special" needlearn="1" event="script" value="special/buffs/Dechire Pantera.lua">
 		<vocation id="18"/> <!-- Grimmjow Jaegerjaquez -->
 	</instant>
-	<instant name="urahara special 1" words="urahara special 1" lvl="100" mana="5000" prem="0" aggressive="0" exhaustion="2000" exhaustedGroup="special" needlearn="1" event="script" value="special/buffs/urahara special 1.lua">
+	<instant name="Kannonbiraki Benihime Aratame" words="Kannonbiraki Benihime Aratame" lvl="100" mana="5000" prem="0" aggressive="0" exhaustion="2000" exhaustedGroup="special" needlearn="1" event="script" value="special/buffs/Kannonbiraki Benihime Aratame.lua">
 		<vocation id="17"/> <!-- Urahara Kisuke -->
 	</instant>
 

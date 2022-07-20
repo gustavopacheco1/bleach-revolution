@@ -32,7 +32,7 @@ SPECIALS = {
 	},
 
 	["Byakuya Kuchiki"] = {
-		[100] = "Trap Dano",
+		[100] = "Goukei",
 		[150] = "Shikai"
 	},
 
@@ -42,6 +42,7 @@ SPECIALS = {
 	},
 
 	["Urahara Kisuke"] = {
+		[100] = "Kannonbiraki Benihime Aratame",
 		[150] = "Muted"
 	},
 
@@ -62,7 +63,7 @@ SPECIALS = {
 
 	["Ulquiorra Ciffer"] = {
 		[100] = "Resurreccion",
-		[150] = "Muted Paralyze"
+		[150] = "Ciffer Reiatsu"
 	},
 
 	["Rukia Kuchiki"] = {
@@ -83,6 +84,7 @@ SPECIALS = {
 
 	["Uryu Ishida"] = {
 		[100] = "Quincy Vollstandig",
+		[150] = "Sprenger"
 	},
 
 	["Orihime Inoue"] = {
@@ -102,6 +104,7 @@ SPECIALS = {
 
 	["Grimmjow Jaegerjaquez"] = {
 		[100] = "Dechire Pantera",
+		[150] = "Sonido"
 	},
 }
 
