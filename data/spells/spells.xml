@@ -57,6 +57,9 @@
 	<instant name="Santa Tereza" words="Santa Tereza" lvl="150" mana="5000" prem="0" aggressive="1" exhaustion="2000" exhaustedGroup="special" needlearn="1" event="script" value="special/Santa Tereza.lua">
 		<vocation id="21"/> <!-- Nnoitra Gilga -->
 	</instant>
+	<instant name="grimm special" words="grimm special" lvl="150" mana="5000" prem="0" aggressive="1" exhaustion="2000" exhaustedGroup="special" needlearn="1" event="script" value="special/grimm special.lua">
+		<vocation id="21"/> <!-- Grimmjow Jaegerjaquez -->
+	</instant>
 
 	<!-- Reflect -->
 	<instant name="Soo Zabimaru" words="soo zabimaru" lvl="100" mana="5000" aggressive="0" selftarget="1" exhaustion="1000" exhaustedGroup="special" needlearn="1" event="script" value="special/reflect/soo_zabimaru.lua">
