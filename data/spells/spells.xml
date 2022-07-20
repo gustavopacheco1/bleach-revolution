@@ -58,7 +58,7 @@
 		<vocation id="21"/> <!-- Nnoitra Gilga -->
 	</instant>
 	<instant name="Sonido" words="Sonido" lvl="150" mana="5000" prem="0" aggressive="1" exhaustion="2000" exhaustedGroup="special" needlearn="1" event="script" value="special/Sonido.lua">
-		<vocation id="21"/> <!-- Grimmjow Jaegerjaquez -->
+		<vocation id="18"/> <!-- Grimmjow Jaegerjaquez -->
 	</instant>
 
 	<!-- Reflect -->
