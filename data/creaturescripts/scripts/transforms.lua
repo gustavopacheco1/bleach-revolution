@@ -113,52 +113,56 @@ function onAdvance(cid, skill, oldLevel, newLevel)
 	local player_outfits = vocations_outfits[getPlayerVocationName(cid)]
 
 	if not player_outfits then
-		error('Outfit not found. (' .. getPlayerVocationName(cid) .. ')')
+		if getPlayerVocation(cid) ~= 0 then
+			error('Outfit not found. (' .. getPlayerVocationName(cid) .. ')')
+		end
 		return true
 	end
 
-	if newLevel < 100 and canPlayerWearOutfit(cid, player_outfits[100]) then
-		doPlayerRemoveOutfit(cid, player_outfits[100])
-		return true
-	end
+	for player_outfit_level, player_outfit_id in pairs(player_outfits) do
+		if newLevel < player_outfit_level and canPlayerWearOutfit(cid, player_outfit_id) then
+			doPlayerRemoveOutfit(cid, player_outfit_id)
+			return true
+		end
 
-	if newLevel >= 100 and not canPlayerWearOutfit(cid, player_outfits[100]) then
-		doPlayerAddOutfit(cid, player_outfits[100], 0)
+		if newLevel >= player_outfit_level and not canPlayerWearOutfit(cid, player_outfit_id) then
+			doPlayerAddOutfit(cid, player_outfit_id, 0)
+		end
 	end
 
 	return true
 end
 
 function onLogin(cid)
-	local player_outfits = vocations_outfits[getPlayerVocationName(cid)]
+	local player_vocation_name = getPlayerVocationName(cid)
+	local player_outfits = vocations_outfits[player_vocation_name]
 
 	if not player_outfits then
-		error('Outfit not found. (' .. getPlayerVocationName(cid) .. ')')
+		if getPlayerVocation(cid) ~= 0 then
+			error('Outfit not found. (' .. player_vocation_name .. ')')
+		end
 		return true
 	end
 
-	for _, vocation_name in ipairs(vocations_outfits) do
-		for _, vocation_outfit in ipairs(vocations_outfits[vocation_name]) do
-			if canPlayerWearOutfit(cid, vocation_outfit) and vocations_outfits[vocation_name] ~= player_outfits then
-				doPlayerRemoveOutfit(cid, vocation_outfit)
+	for vocation_name, _ in pairs(vocations_outfits) do
+		for _, vocation_outfit_id in pairs(vocations_outfits[vocation_name]) do
+			if canPlayerWearOutfit(cid, vocation_outfit_id) and vocation_name ~= player_vocation_name then
+				doPlayerRemoveOutfit(cid, vocation_outfit_id)
 			end
 		end
 	end
 
-	if not canPlayerWearOutfit(cid, player_outfits[1]) then
-		doPlayerAddOutfit(cid, player_outfits[1], 0)
-		doCreatureChangeOutfit(cid, { lookType = player_outfits[1] })
-	end
-
 	local player_level = getPlayerLevel(cid)
 
-	if player_level >= 100 and not canPlayerWearOutfit(cid, player_outfits[100]) then
-		doPlayerAddOutfit(cid, player_outfits[1], 0)
-		return true
-	end
+	for player_outfit_level, player_outfit_id in pairs(player_outfits) do
+		if player_level < player_outfit_level and canPlayerWearOutfit(cid, player_outfit_id) then
+			doPlayerRemoveOutfit(cid, player_outfit_id)
+			return true
+		end
 
-	if player_level < 100 and canPlayerWearOutfit(cid, player_outfits[100]) then
-		doPlayerRemoveOutfit(cid, player_outfits[100])
+		if player_level >= player_outfit_level and not canPlayerWearOutfit(cid, player_outfit_id) then
+			doPlayerAddOutfit(cid, player_outfit_id, 0)
+		end
 	end
 
 	return true
