@@ -170,8 +170,8 @@ local questChests = {
 	},
 
 	[50032] = {
-		storage = "first_chest",
-		-- Inicial Set
+		storage = "initial_set",
+		-- Initial Set
 		items = { 16135, 16136, 16137 }
 	},
 
@@ -199,7 +199,7 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 	if not (questChests[quest_chest_aid]) then return end
 
 	if getPlayerStorageValue(cid, questChests[quest_chest_aid].storage) ~= 0 then
-		doSendMagicEffect(getCreaturePosition(cid), 2)
+		doSendMagicEffect(getCreaturePosition(cid), CONST_ME_POFF)
 		return MultiLanguage.doPlayerSendTextMessage(
 			cid,
 			MESSAGE_EVENT_ADVANCE,
@@ -221,4 +221,5 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 	for i = 1, #questChests[quest_chest_aid].items do
 		doPlayerAddItem(cid, questChests[quest_chest_aid].items[i])
 	end
+	return true
 end
