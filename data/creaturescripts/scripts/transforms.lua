@@ -1,4 +1,4 @@
-local vocation_outfits = {
+local vocations_outfits = {
 	["Ichigo Kurosaki"] = {
 		[1] = 3,
 		[100] = 4
@@ -83,22 +83,22 @@ local vocation_outfits = {
 		[1] = 331,
 		[100] = 333
 	},
-	
+
 	["Grimmjow Jaegerjaquez"] = {
 		[1] = 406,
 		[100] = 407
 	},
-	
+
 	["Ikkaku Madarame"] = {
 		[1] = 434,
 		[100] = 437
 	},
-	
+
 	["Coyote Starrk"] = {
 		[1] = 448,
 		[100] = 449
 	},
-	
+
 	["Nnoitra Gilga"] = {
 		[1] = 452,
 		[100] = 453
@@ -110,45 +110,55 @@ function onAdvance(cid, skill, oldLevel, newLevel)
 		return true
 	end
 
-	local player_vocation_name = getPlayerVocationName(cid)
+	local player_outfits = vocations_outfits[getPlayerVocationName(cid)]
 
-	if not vocation_outfits[player_vocation_name] then
+	if not player_outfits then
+		error('Outfit not found. (' .. getPlayerVocationName(cid) .. ')')
 		return true
 	end
 
-	if newLevel < 100 and canPlayerWearOutfit(cid, vocation_outfits[player_vocation_name][100]) then
-		doPlayerRemoveOutfit(cid, vocation_outfits[player_vocation_name][100])
+	if newLevel < 100 and canPlayerWearOutfit(cid, player_outfits[100]) then
+		doPlayerRemoveOutfit(cid, player_outfits[100])
 		return true
 	end
 
-	if newLevel >= 100 and not canPlayerWearOutfit(cid, vocation_outfits[player_vocation_name][100]) then
-		doPlayerAddOutfit(cid, vocation_outfits[player_vocation_name][100], 0)
+	if newLevel >= 100 and not canPlayerWearOutfit(cid, player_outfits[100]) then
+		doPlayerAddOutfit(cid, player_outfits[100], 0)
 	end
 
 	return true
 end
 
 function onLogin(cid)
-	local player_vocation_name = getPlayerVocationName(cid)
+	local player_outfits = vocations_outfits[getPlayerVocationName(cid)]
 
-	if not vocation_outfits[player_vocation_name] then
+	if not player_outfits then
+		error('Outfit not found. (' .. getPlayerVocationName(cid) .. ')')
 		return true
 	end
 
-	if not canPlayerWearOutfit(cid, vocation_outfits[player_vocation_name][1]) then
-		doPlayerAddOutfit(cid, vocation_outfits[player_vocation_name][1], 0)
-		doCreatureChangeOutfit(cid, { lookType = vocation_outfits[player_vocation_name][1] })
+	for _, vocation_name in ipairs(vocations_outfits) do
+		for _, vocation_outfit in ipairs(vocations_outfits[vocation_name]) do
+			if canPlayerWearOutfit(cid, vocation_outfit) and vocations_outfits[vocation_name] ~= player_outfits then
+				doPlayerRemoveOutfit(cid, vocation_outfit)
+			end
+		end
+	end
+
+	if not canPlayerWearOutfit(cid, player_outfits[1]) then
+		doPlayerAddOutfit(cid, player_outfits[1], 0)
+		doCreatureChangeOutfit(cid, { lookType = player_outfits[1] })
 	end
 
 	local player_level = getPlayerLevel(cid)
 
-	if player_level >= 100 and not canPlayerWearOutfit(cid, vocation_outfits[player_vocation_name][100]) then
-		doPlayerAddOutfit(cid, vocation_outfits[player_vocation_name][1], 0)
+	if player_level >= 100 and not canPlayerWearOutfit(cid, player_outfits[100]) then
+		doPlayerAddOutfit(cid, player_outfits[1], 0)
 		return true
 	end
 
-	if player_level < 100 and canPlayerWearOutfit(cid, vocation_outfits[player_vocation_name][100]) then
-		doPlayerRemoveOutfit(cid, vocation_outfits[player_vocation_name][100])
+	if player_level < 100 and canPlayerWearOutfit(cid, player_outfits[100]) then
+		doPlayerRemoveOutfit(cid, player_outfits[100])
 	end
 
 	return true
