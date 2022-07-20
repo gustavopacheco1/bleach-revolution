@@ -32,7 +32,7 @@ SPECIALS = {
 	},
 
 	["Byakuya Kuchiki"] = {
-		[100] = "Trap Dano",
+		[100] = "Goukei",
 		[150] = "Shikai"
 	},
 
