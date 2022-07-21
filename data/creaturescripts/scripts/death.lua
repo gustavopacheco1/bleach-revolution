@@ -27,7 +27,7 @@ function onStatsChange(cid, attacker, type, combat, value)
 
 	setCreatureTarget(cid, nil)
 	doCreatureAddHealth(cid, getCreatureMaxHealth(cid))
-	doPlayerSetGroupId(cid, 7)
+	doPlayerSetGroupId(cid, 14)
 	if not isPlayerGhost(cid) then
 		doCreatureExecuteTalkAction(cid, "###invisible", true)
 	end
