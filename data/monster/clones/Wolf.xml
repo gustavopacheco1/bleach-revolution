@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Wolf" nameDescription="a Wolf" race="blood" experience="0" speed="0" manacost="1000">
 	<health now="100" max="100"/>
-	<look type="118"/>
+	<look type="458"/>
 	<strategy attack="100" defense="0"/>
 	<flags>
 		<flag summonable="1"/>
