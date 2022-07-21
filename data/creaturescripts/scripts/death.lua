@@ -17,7 +17,7 @@ function onStatsChange(cid, attacker, type, combat, value)
 		return true
 	end
 
-	if getPlayerGroupId(cid) == 7 then
+	if getPlayerGroupId(cid) == 14 then
 		return true
 	end
 
@@ -27,7 +27,7 @@ function onStatsChange(cid, attacker, type, combat, value)
 
 	setCreatureTarget(cid, nil)
 	doCreatureAddHealth(cid, getCreatureMaxHealth(cid))
-	doPlayerSetGroupId(cid, 7)
+	doPlayerSetGroupId(cid, 14)
 	if not isPlayerGhost(cid) then
 		doCreatureExecuteTalkAction(cid, "###invisible", true)
 	end
@@ -50,7 +50,7 @@ function onStatsChange(cid, attacker, type, combat, value)
 			return
 		end
 
-		if getPlayerGroupId(cid) == 7 then
+		if getPlayerGroupId(cid) == 14 then
 			doTeleportThing(cid, death_position)
 			doCreatureAddHealth(cid, -getCreatureMaxHealth(cid))
 		end

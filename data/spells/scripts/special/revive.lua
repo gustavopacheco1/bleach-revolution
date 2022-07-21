@@ -1,7 +1,7 @@
 local spell = {
 	cooldown = 50,
 	duration = 3,
-	effect = 20,
+	effect = 5,
 }
 
 local function getClosestTarget(cid, current_target, previous_target)
@@ -77,8 +77,8 @@ function onCastSpell(cid, var)
 	local target = getCreatureStorage(target_corpse, "dead_player_id")
 	local target_position = getCreaturePosition(target_corpse)
 
-	doSendDistanceShoot(player_position, target_position, 20)
-	doSendMagicEffect(target_position, 20)
+	doSendDistanceShoot(player_position, target_position, 55)
+	doSendMagicEffect(target_position, 5)
 
 	doRemoveCreature(target_corpse)
 	doTeleportThing(target, target_position)
