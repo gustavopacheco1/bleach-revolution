@@ -35,7 +35,6 @@ function onStatsChange(cid, attacker, type, combat, value)
 	doSummonMonster(cid, "Death Clone")
 	local clone = getDeathSoulClone(cid)
 
-	doCreatureChangeOutfit(clone, { lookType = 457 })
 	doCreatureSetLookDirection(clone, NORTH)
 	addEvent(doCreatureSetStorage, 1000, clone, "dead_player_id", cid)
 	doSetCreatureOutfit(cid, { lookType = 0 }, 6000)
