@@ -60,7 +60,7 @@
 	<instant name="Sonido" words="Sonido" lvl="150" mana="5000" prem="0" aggressive="1" exhaustion="2000" exhaustedGroup="special" needlearn="1" event="script" value="special/Sonido.lua">
 		<vocation id="18"/> <!-- Grimmjow Jaegerjaquez -->
 	</instant>
-	<instant name="revive" words="revive" lvl="150" mana="5000" aggressive="0" params="1" selftarget="1" exhaustion="1000" exhaustedGroup="special" needlearn="1" event="script" value="special/revive.lua">
+	<instant name="revive" words="revive" lvl="150" mana="5000" aggressive="0" params="1" exhaustion="1000" exhaustedGroup="special" needlearn="1" event="script" value="special/revive.lua">
 		<vocation id="12"/> <!-- Retsu Unohana -->
 	</instant>
 
