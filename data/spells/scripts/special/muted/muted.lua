@@ -21,7 +21,7 @@ function onCastSpell(cid, var)
 	end
 
 	doSendMagicEffect(getCreaturePosition(target), spell.effect)
-	doMutePlayer(cid, spell.duration)
+	doMutePlayer(cid, spell.duration, EXHAUST_SPELLGROUP_HEALING)
 
 	exhaustion.set(cid, "special", spell.cooldown)
 	return true

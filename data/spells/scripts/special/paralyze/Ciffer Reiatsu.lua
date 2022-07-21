@@ -4,17 +4,9 @@ local spell = {
 	effect = 20,
 }
 
-local healing_exhaust = createConditionObject(CONDITION_EXHAUST)
-setConditionParam(healing_exhaust, CONDITION_PARAM_SUBID, EXHAUST_SPELLGROUP_HEALING)
-setConditionParam(healing_exhaust, CONDITION_PARAM_TICKS, spell.duration)
-
 local condition_paralyze = createConditionObject(CONDITION_PARALYZE)
 setConditionParam(condition_paralyze, CONDITION_PARAM_TICKS, spell.duration)
 setConditionFormula(condition_paralyze, -0.5, 0, -0.5, 0)
-
-local support_exhaust = createConditionObject(CONDITION_EXHAUST)
-setConditionParam(support_exhaust, CONDITION_PARAM_SUBID, EXHAUST_SPELLGROUP_SUPPORT)
-setConditionParam(support_exhaust, CONDITION_PARAM_TICKS, 800)
 
 function onCastSpell(cid, var)
 	if exhaustion.check(cid, "special") then
@@ -33,11 +25,11 @@ function onCastSpell(cid, var)
 		return false
 	end
 
-	doAddCondition(target, healing_exhaust)
-	doAddCondition(target, support_exhaust)
-	doAddCondition(target, condition_paralyze)
-
 	doSendMagicEffect(getCreaturePosition(target), spell.effect)
+
+	doMutePlayer(cid, spell.duration, EXHAUST_SPELLGROUP_HEALING)
+	doMutePlayer(cid, 800, EXHAUST_SPELLGROUP_SUPPORT)
+	doAddCondition(target, condition_paralyze)
 
 	exhaustion.set(cid, "special", spell.cooldown)
 	return true
