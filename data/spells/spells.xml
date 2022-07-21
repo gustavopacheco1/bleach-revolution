@@ -60,10 +60,7 @@
 	<instant name="Sonido" words="Sonido" lvl="150" mana="5000" prem="0" aggressive="1" exhaustion="2000" exhaustedGroup="special" needlearn="1" event="script" value="special/Sonido.lua">
 		<vocation id="18"/> <!-- Grimmjow Jaegerjaquez -->
 	</instant>
-	<instant name="Sonido" words="Sonido" lvl="150" mana="5000" prem="0" aggressive="1" exhaustion="2000" exhaustedGroup="special" needlearn="1" event="script" value="special/Sonido.lua">
-		<vocation id="18"/> <!-- Grimmjow Jaegerjaquez -->
-	</instant>
-	<instant name="reviver" words="reviver" lvl="150" mana="5000" aggressive="0" selftarget="1" exhaustion="1000" exhaustedGroup="special" needlearn="1" event="script" value="special/revive/reviver.lua">
+	<instant name="revive" words="revive" lvl="150" mana="5000" aggressive="0" selftarget="1" exhaustion="1000" exhaustedGroup="special" needlearn="1" event="script" value="special/revive.lua">
 		<vocation id="12"/> <!-- Retsu Unohana -->
 	</instant>
 
@@ -73,6 +70,9 @@
 	</instant>
 	<instant name="Nozarashi" words="Nozarashi" lvl="150" mana="5000" aggressive="0" selftarget="1" exhaustion="1000" exhaustedGroup="special" needlearn="1" event="script" value="special/reflect/soo_zabimaru.lua">
 		<vocation id="7"/> <!-- Zaraki Kenpachi -->
+	</instant>
+	<instant name="Resistencia aprimorada" words="Resistencia aprimorada" lvl="150" mana="5000" aggressive="0" selftarget="1" exhaustion="1000" exhaustedGroup="special" needlearn="1" event="script" value="special/reflect/Resistencia aprimorada.lua">
+		<vocation id="19"/> <!-- Ikkaku Madarame -->
 	</instant>
 
 	<!-- Immortal -->
