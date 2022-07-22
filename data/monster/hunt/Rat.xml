@@ -33,6 +33,6 @@
 		<immunity invisible="0"/>
 	</immunities>
 	<loot>
-		<item id="2148" chance="1000" count="20" countmax="20"/>
+		<item id="2148" chance="1000" count="2" countmax="2"/>
 	</loot>
 </monster>
