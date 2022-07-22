@@ -1,6 +1,13 @@
 buyable_items = {
 	["Ururu Tsumugiya"] = {
-		[2293] = { price = 2000 }
+		[2293] = { price = 10000 }
+	},
+	
+	["Jinta"] = {
+		[15740] = { price = 2000 },
+		[15776] = { price = 2000 },
+		[15741] = { price = 2000 },
+		[15120] = { price = 2000 }
 	},
 
 	["Hikari"] = {
