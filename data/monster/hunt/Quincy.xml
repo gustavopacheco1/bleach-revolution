@@ -32,9 +32,6 @@
 		<immunity outfit="1"/>
 		<immunity invisible="0"/>
 	</immunities>
-	<script>
-		<event name="YamamotoTask"/>
-	</script>
 	<loot>
 		<item id="2148" chance="2000" count="7000" countmax="7000"/>
 	</loot>
