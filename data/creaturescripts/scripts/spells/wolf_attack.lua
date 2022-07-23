@@ -6,8 +6,8 @@ function onAttack(cid, target)
 
 	for _, summon in ipairs(getCreatureSummons(cid)) do
 		local summon_position = getCreaturePosition(summon)
-		doSendMagicEffect(summon_position, 211)
-		doSendDistanceShoot(summon_position, target_position, 65)
+		doSendMagicEffect(summon_position, 343)
+		doSendDistanceShoot(summon_position, target_position, 87)
 		doRemoveCreature(summon)
 	end
 
@@ -15,7 +15,7 @@ function onAttack(cid, target)
 		x = target_position.x + 1,
 		y = target_position.y,
 		z = target_position.z
-	}, 90)
+	}, 121)
 
 	local damage = getCreatureMaxHealth(cid) * 0.4
 
