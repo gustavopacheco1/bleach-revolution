@@ -4451,7 +4451,7 @@
 		<attribute key="armor" value="10"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	
+
 	<item id="2469" name="Sado Trousers">
 		<attribute key="weight" value="4800"/>
 		<attribute key="armor" value="4"/>
@@ -11998,19 +11998,19 @@
 		<attribute key="description" value="It once belonged to a mighty Quara."/>
 		<attribute key="weight" value="120"/>
 	</item>
-	<item id="5896" article="a" name="Bambus Stick" plural="Bambus Sticks">
+	<item id="5896" article="a" name="bambus stick" plural="bambus sticks">
 		<attribute key="weight" value="120"/>
 	</item>
-	<item id="5897" article="a" name="Wolf Paw" plural="Wolf Paws">
+	<item id="5897" article="a" name="wolf paw" plural="wolf paws">
 		<attribute key="weight" value="80"/>
 	</item>
-	<item id="15687" article="a" name="Soul Essence" plural="Soul Essences">
+	<item id="15687" article="a" name="soul essence" plural="soul essences">
 		<attribute key="weight" value="80"/>
 	</item>
-	<item id="15230" article="a" name="Part Of Horror" plural="Part Of Horrors">
+	<item id="15230" article="a" name="part of horror" plural="part of horrors">
 		<attribute key="weight" value="80"/>
 	</item>
-	<item id="5898" article="a" name="Elf Hat" plural="elf hat">
+	<item id="5898" article="a" name="elf hat" plural="elf hats">
 		<attribute key="weight" value="500"/>
 	</item>
 	<item id="5899" article="a" name="Stamina Refuel" plural="stamina refuel">
@@ -22269,7 +22269,7 @@
 		<attribute key="speed" value="20"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
-	
+
 	<item id="15244" name="Elite Urahara Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="20"/>
@@ -22295,7 +22295,7 @@
 		<attribute key="speed" value="20"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
-	
+
 	<item id="15245" name="Furie Urahara Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="20"/>
@@ -22348,7 +22348,7 @@
 		<attribute key="speed" value="15"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
-	
+
 	<item id="15268" name="Elite Mummy Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="17"/>
@@ -22374,7 +22374,7 @@
 		<attribute key="speed" value="15"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
-	
+
 	<item id="15269" name="Furie Mummy Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="17"/>
@@ -22416,7 +22416,7 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	
+
 	<item id="15252" name="Elite Kyoraku Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="25"/>
@@ -22431,7 +22431,7 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	
+
 	<item id="15253" name="Furie Kyoraku Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="25"/>
@@ -22462,9 +22462,9 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
-	
+
 	<!-- Bandit Set -->
-	
+
 	<item id="15106" name="Bandit Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="17"/>
@@ -22490,7 +22490,7 @@
 		<attribute key="speed" value="5"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
-	
+
 	<item id="15276" name="Elite Bandit Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="10"/>
@@ -22516,7 +22516,7 @@
 		<attribute key="speed" value="6"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
-	
+
 	<item id="15277" name="Furie Bandit Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="10"/>
@@ -22542,9 +22542,9 @@
 		<attribute key="speed" value="7"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
-	
+
 	<!-- Arrancar Set -->
-	
+
 	<item id="15101" name="Arrancar Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="20"/>
@@ -22565,7 +22565,7 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
-	
+
 	<item id="15005" name="Elite Arrancar Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="20"/>
@@ -22586,7 +22586,7 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
-	
+
 	<item id="15006" name="Furie Arrancar Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="20"/>
@@ -22737,7 +22737,7 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	
+
 	<item id="11094" name="Snake Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="5"/>
@@ -22759,7 +22759,7 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	
+
 	<item id="11095" name="Wolf Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="10"/>
@@ -22781,9 +22781,9 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	
+
 	<!-- Shinigami Set -->
-	
+
 	<item id="16136" name="Shinigami Armor">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="5"/>
@@ -22927,7 +22927,7 @@
 		<attribute key="range" value="10"/>
 		<attribute key="hitChance" value="100"/>
 	</item>
-	
+
     <!-- Armas de cada personagem -->
 	<!-- Swords -->
 	<item id="16339" name="Zangetsu">
@@ -23434,7 +23434,7 @@
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	
+
 	<!-- Gloves -->
 	<item id="16375" name="Brazo Derecha de Gigante">
 		<attribute key="weight" value="2500"/>
@@ -23478,7 +23478,7 @@
 		<attribute key="weaponType" value="axe"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	
+
 	<!-- Distance -->
 	<item id="16381" article="an" name="Kojaku">
 		<attribute key="weight" value="200"/>
