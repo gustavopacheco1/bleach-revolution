@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Los Lobos" nameDescription="Los Lobos" race="blood" experience="0" speed="0" manacost="1000">
-	<health now="500" max="500"/>
+	<health now="600" max="600"/>
 	<look type="458"/>
 	<strategy attack="100" defense="0"/>
 	<flags>
