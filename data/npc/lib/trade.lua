@@ -105,7 +105,25 @@ sellable_items = {
 		[5897] = { price = 10000 },
 		[15687] = { price = 10000 },
 		[15230] = { price = 10000 }
-	}
+	},
+	
+	["Loreto"] = {
+		[15249] = { price = 10000 },
+		[15248] = { price = 10000 },
+		[15102] = { price = 10000 },
+		[15251] = { price = 10000 },
+		[15250] = { price = 10000 },
+		[15103] = { price = 10000 },
+		[15241] = { price = 10000 },
+		[15240] = { price = 10000 },
+		[15099] = { price = 10000 },
+		[15261] = { price = 10000 },
+		[15260] = { price = 10000 },
+		[15105] = { price = 10000 },
+		[15257] = { price = 10000 },
+		[15256] = { price = 10000 },
+		[15104] = { price = 10000 }
+	},
 }
 
 function creatureSayBuy(cid, itemid, subType, amount, ignoreCap, inBackpacks)
