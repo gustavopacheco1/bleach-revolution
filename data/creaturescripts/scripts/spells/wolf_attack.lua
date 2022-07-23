@@ -12,7 +12,7 @@ function onAttack(cid, target)
 	end
 
 	doSendMagicEffect({
-		x = target_position.x + 1,
+		x = target_position.x,
 		y = target_position.y,
 		z = target_position.z
 	}, 121)
