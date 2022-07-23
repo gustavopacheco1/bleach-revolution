@@ -43,7 +43,7 @@
 	newPlayerSpawnPosX = 3531
 	newPlayerSpawnPosY = 3465
 	newPlayerSpawnPosZ = 6
-	newPlayerTownId = 6
+	newPlayerTownId = 1
 	newPlayerLevel = 8
 	newPlayerMagicLevel = 0
 	generateAccountNumber = false
