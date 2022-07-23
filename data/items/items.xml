@@ -2970,7 +2970,7 @@
 	<item id="2173" article="an" name="Amulet of Loss">
 		<attribute key="weight" value="420"/>
 		<attribute key="slotType" value="necklace"/>
-		<attribute key="showcharges" value="1"/>
+		<attribute key="charges" value="1"/>
 		<attribute key="preventDrop" value="1"/>
 	</item>
 	<item id="2174" article="a" name="Metal Heart">
@@ -21749,7 +21749,12 @@
 	<item id="20028" name="swamp"/>
 	<item id="20035" name="tea"/>
 	<item id="20043" name="mead"/>
-
+	<item id="15129" article="an" name="amulet of loss">
+		<attribute key="weight" value="420"/>
+		<attribute key="slotType" value="necklace"/>
+		<attribute key="preventDrop" value="1"/>
+		<attribute key="charges" value="1"/>
+	</item>
 
 	<!-- Barragan Set -->
 	<item id="15001" name="Barragan Helmet">

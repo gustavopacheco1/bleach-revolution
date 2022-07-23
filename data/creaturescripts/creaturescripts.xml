@@ -18,6 +18,7 @@
 	<event type="login" name="TransformsLogin" event="script" value="transforms.lua"/>
 	<event type="target" name="NpcTarget" event="script" value="npc_target.lua"/>
 	<event type="statschange" name="Death" event="script" value="death.lua"/>
+	<event type="death" name="AmuletOfLoss" event="script" value="amulet_of_loss.lua"/>
 
 	<!-- Monsters Events -->
 	<event type="statschange" name="TrainerShielding" event="script" value="monsters_events/trainer_shielding.lua"/>
