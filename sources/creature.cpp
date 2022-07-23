@@ -791,27 +791,6 @@ void Creature::dropCorpse(DeathList deathList)
 	if (!tile)
 		return;
 
-	Item *splash = NULL;
-	switch (getRace())
-	{
-	case RACE_VENOM:
-		splash = Item::CreateItem(ITEM_FULLSPLASH, FLUID_GREEN);
-		break;
-
-	case RACE_BLOOD:
-		splash = Item::CreateItem(ITEM_FULLSPLASH, FLUID_BLOOD);
-		break;
-
-	default:
-		break;
-	}
-
-	if (splash)
-	{
-		g_game.internalAddItem(NULL, tile, splash, INDEX_WHEREEVER, FLAG_NOLIMIT);
-		g_game.startDecay(splash);
-	}
-
 	g_game.internalAddItem(NULL, tile, corpse, INDEX_WHEREEVER, FLAG_NOLIMIT);
 	dropLoot(corpse->getContainer());
 	g_game.startDecay(corpse);
