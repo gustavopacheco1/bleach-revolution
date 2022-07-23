@@ -2967,12 +2967,6 @@
 		<attribute key="absorbPercentManaDrain" value="20"/>
 		<attribute key="showattributes" value="1"/>
 	</item>
-	<item id="2173" article="an" name="Amulet of Loss">
-		<attribute key="weight" value="420"/>
-		<attribute key="slotType" value="necklace"/>
-		<attribute key="charges" value="1"/>
-		<attribute key="preventDrop" value="1"/>
-	</item>
 	<item id="2174" article="a" name="Metal Heart">
 		<attribute key="weight" value="200"/>
 	</item>
