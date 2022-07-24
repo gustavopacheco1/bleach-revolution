@@ -40,8 +40,5 @@
 		<item id="15104" chance="20000" count="1" countmax="1"/>
 		<item id="15256" chance="20000" count="1" countmax="1"/>
 		<item id="15257" chance="20000" count="1" countmax="1"/>
-		<item id="5897" chance="2000" count="1" countmax="15"/>
-		<item id="15687" chance="2000" count="1" countmax="15"/>
-		<item id="15230" chance="2000" count="1" countmax="15"/>
 	</loot>
 </monster>
