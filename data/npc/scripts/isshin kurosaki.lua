@@ -22,10 +22,13 @@ function onCreatureSay(cid, type, msg)
 
 	if not npcHandler:isFocused(cid) and getDistanceBetween(getThingPos(cid), getNpcPos()) < 5 then
 		if isInArray({ "hi", "hello", "oi", "olá" }, msg) then
+			talkState[talkUser] = nil
 			npcHandler:addFocus(cid)
+			local player_name = getCreatureName(cid)
 			selfSayMultiLanguage(
-				"Hello! I can {bless} you for a small amount of coins.",
-				"Olá! Eu posso te conceder a {bless} por uma pequena quantia de coins.",
+				"Hello, " .. player_name .. "! I can grant you the {soul protection}. So your losses in battles will be reduced.",
+				"Olá, " ..
+				player_name .. "! Eu consigo te conceder a {proteção de alma}. Assim, suas perdas em batalhas serão reduzidas.",
 				cid
 			)
 			return true
@@ -46,10 +49,19 @@ function onCreatureSay(cid, type, msg)
 		return false
 	end
 
-	if msg == "bless" then
+	if isInArray({ "soul protection", "proteção de alma" }, msg) then
+		if getPlayerBlessing(cid, 1) then
+			selfSayMultiLanguage(
+				"You have already received the soul protection.",
+				"Você já recebeu a proteção de alma.",
+				cid
+			)
+			return false
+		end
+
 		selfSayMultiLanguage(
-			"Do you want to be blessed for " .. price .. " coins?",
-			"Você deseja receber a bless por " .. price .. " coins?",
+			"The price for it is " .. price .. " ryos. Are you sure?",
+			"O preço por isso é " .. price .. " ryos. Você tem certeza?",
 			cid
 		)
 		talkState[talkUser] = 1
@@ -57,31 +69,24 @@ function onCreatureSay(cid, type, msg)
 	end
 
 	if isInArray({ "yes", "sim" }, msg) and talkState[talkUser] == 1 then
-		if getPlayerBlessing(cid, 1) then
+		if not (doPlayerRemoveMoney(cid, price)) then
 			selfSayMultiLanguage(
-				"You have already been blessed.",
-				"Você já recebeu a bless.",
+				"Sorry, you do not have enough money.",
+				"Desculpe, você não tem dinheiro suficiente.",
 				cid
 			)
 			return false
 		end
 
-		if not (doPlayerRemoveMoney(cid, price)) then
-			selfSayMultiLanguage(
-				"You do not have enough money",
-				"Você não tem dinheiro suficiente",
-				cid
-			)
-			return false
-		end
+		talkState[talkUser] = nil
 
 		for i = 1, #blessings do
 			doPlayerAddBlessing(cid, i)
 		end
 
 		selfSayMultiLanguage(
-			"It was a pleasure doing business with you. You have been blessed.",
-			"Foi um prazer fazer negócios com você. Você recebeu a bless.",
+			"It was a pleasure doing business with you. You've received the soul protection.",
+			"Foi um prazer fazer negócios com você. Você recebeu a proteção de alma.",
 			cid
 		)
 	end
