@@ -7071,9 +7071,9 @@
 		<attribute key="duration" value="600"/>
 		<attribute key="corpseType" value="blood"/>
 	</item>
-	<item id="3058" article="a" name="dead human">
+	<item id="3058" article="a" name="soul">
 		<attribute key="containerSize" value="10"/>
-		<attribute key="decayTo" value="3059"/>
+		<attribute key="decayTo" value="0"/>
 		<attribute key="duration" value="900"/>
 		<attribute key="corpseType" value="blood"/>
 		<attribute key="fluidSource" value="blood"/>
