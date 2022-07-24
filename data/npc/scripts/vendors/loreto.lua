@@ -19,7 +19,7 @@ function onCreatureSay(cid, type, msg)
 		if isInArray({ "hi", "hello", "oi", "olá" }, msg) then
 			npcHandler:addFocus(cid)
 			selfSayMultiLanguage(
-				"Olá! I buy some masks.",
+				"Hello! I buy some masks.",
 				"Olá! Eu compro algumas máscaras.",
 				cid
 			)
