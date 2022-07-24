@@ -1,6 +1,10 @@
 function onLogin(cid)
-	if isPlayerGhost(cid) and not isInArray({ 4, 5, 6 }, getPlayerGroupId(cid)) then
-		doCreatureExecuteTalkAction(cid, "###invisible", true)
+	if isPlayerGhost(cid) then
+		if not isInArray({ 4, 5, 6 }, getPlayerGroupId(cid)) then
+			doCreatureExecuteTalkAction(cid, "###invisible", true)
+		else
+			doSetCreatureOutfit(cid, { lookType = 0 }, -1)
+		end
 	end
 
 	local player_group_id = getPlayerGroupId(cid)
