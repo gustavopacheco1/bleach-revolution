@@ -37,6 +37,7 @@
 	</script>
 	<loot>
 		<item id="2148" chance="1000" count="60" countmax="60"/>
+		<item id="2148" chance="100000" count="210" countmax="210"/>
 		<item id="15105" chance="2000" count="1" countmax="1"/>
 		<item id="15260" chance="2000" count="1" countmax="1"/>
 		<item id="15261" chance="2000" count="1" countmax="1"/>
