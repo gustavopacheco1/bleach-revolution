@@ -32,7 +32,7 @@
 	<talkaction log="yes" group="6" access="5" words="/town" event="script" value="teleporttown.lua"/>
 	<talkaction log="yes" group="6" access="5" words="/info" event="script" value="playerinfo.lua"/>
 	<talkaction log="yes" group="6" access="5" words="/cliport;/squelch" event="script" value="gamemaster.lua"/>
-	<talkaction log="yes" group="6" access="5" words="/ghost;/invisible" event="function" value="ghost"/>
+	<talkaction log="yes" group="6" access="5" words="/ghost;/invisible" event="script" value="ghost.lua"/>
 	<talkaction log="yes" group="6" access="5" words="/mute;/unmute" event="script" value="mute.lua"/>
 	<talkaction log="yes" group="6" access="5" words="/light" event="script" value="gamemaster.lua"/>
 	<talkaction log="yes" group="6" access="5" words="/notations" event="script" value="notations.lua"/>
@@ -44,7 +44,6 @@
 	<talkaction log="yes" group="6" access="5" words="/vocation" event="script" value="vocation.lua"/>
 	<talkaction log="yes" group="6" access="5" words="/z" event="script" value="animationeffect.lua"/>
 	<talkaction log="yes" group="6" access="5" words="/x" event="script" value="magiceffect.lua"/>
-	<talkaction group="6" access="5" words="/test" event="script" value="test.lua"/>
 
 	<!-- Players -->
 	<talkaction access="0-6" words="!frags;/frags" event="script" value="frags.lua"/>
