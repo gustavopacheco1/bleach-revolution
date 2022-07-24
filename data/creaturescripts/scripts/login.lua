@@ -29,10 +29,6 @@ function onLogin(cid)
 	registerCreatureEvent(cid, "Idle")
 	registerCreatureEvent(cid, "Mail")
 
-	if (getPlayerOperatingSystem(cid) >= CLIENTOS_OTCLIENT_LINUX) then
-		registerCreatureEvent(cid, "ExtendedOpcode")
-	end
-
 	if (getBooleanFromString(getConfigValue('useFragHandler'))) then
 		registerCreatureEvent(cid, "SkullCheck")
 	end
@@ -40,11 +36,8 @@ function onLogin(cid)
 	registerCreatureEvent(cid, "ReportBug")
 	registerCreatureEvent(cid, "GuildEvents")
 	registerCreatureEvent(cid, "AdvanceSave")
-	registerCreatureEvent(cid, "recordIp")
 	registerCreatureEvent(cid, "PlayerTrade")
-	registerCreatureEvent(cid, "LoginReset")
 	registerCreatureEvent(cid, "TransformsAdvance")
-	registerCreatureEvent(cid, "TransformsLogin")
 	registerCreatureEvent(cid, "NpcTarget")
 	registerCreatureEvent(cid, "Death")
 	registerCreatureEvent(cid, "AmuletOfLoss")

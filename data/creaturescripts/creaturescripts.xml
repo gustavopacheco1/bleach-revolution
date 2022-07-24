@@ -2,6 +2,8 @@
 <creaturescripts>
 	<!-- Login -->
 	<event type="login" name="PlayerLogin" event="script" value="login.lua"/>
+	<event type="login" name="LoginReset" event="script" value="login_reset.lua"/>
+	<event type="login" name="recordIp" event="script" value="recordIp.lua"/>
 
 	<!-- Server Events -->
 	<event type="channeljoin" name="GuildEvents" event="script" value="guild.lua"/>
@@ -10,15 +12,13 @@
 	<event type="advance" name="AdvanceSave" event="script" value="advancesave.lua"/>
 	<event type="think" name="Idle" event="script" value="idle.lua"/>
 	<event type="think" name="SkullCheck" event="script" value="skullcheck.lua"/>
-	<event type="login" name="recordIp" event="script" value="recordIp.lua"/>
-	<event type="extendedopcode" name="ExtendedOpcode" event="script" value="extendedopcode.lua"/>
 	<event type="tradeaccept" name="PlayerTrade" event="script" value="playerTrade.lua"/>
-	<event type="login" name="LoginReset" event="script" value="login_reset.lua"/>
 	<event type="advance" name="TransformsAdvance" event="script" value="transforms.lua"/>
 	<event type="login" name="TransformsLogin" event="script" value="transforms.lua"/>
 	<event type="target" name="NpcTarget" event="script" value="npc_target.lua"/>
 	<event type="statschange" name="Death" event="script" value="death.lua"/>
 	<event type="death" name="AmuletOfLoss" event="script" value="amulet_of_loss.lua"/>
+	<event type="login" name="FirstItems" event="script" value="first_items.lua"/>
 
 	<!-- Monsters Events -->
 	<event type="statschange" name="TrainerShielding" event="script" value="monsters_events/trainer_shielding.lua"/>
