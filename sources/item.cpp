@@ -1592,10 +1592,11 @@ std::string Item::getDescription(const ItemType &it, int32_t lookDistance, const
 	if (dot)
 		s << ".";
 
-	if (it.wieldInfo)
+	if (it.wieldInfo && !(it.wieldInfo & WIELDINFO_LEVEL))
 	{
 		s << std::endl
 		  << "It can only be wielded properly by ";
+
 		if (it.wieldInfo & WIELDINFO_PREMIUM)
 			s << "premium ";
 
@@ -1604,9 +1605,6 @@ std::string Item::getDescription(const ItemType &it, int32_t lookDistance, const
 		else
 			s << "players";
 
-		if (it.wieldInfo & WIELDINFO_LEVEL)
-			s << " of level " << (int32_t)it.minReqLevel << " or higher";
-
 		if (it.wieldInfo & WIELDINFO_MAGLV)
 		{
 			if (it.wieldInfo & WIELDINFO_LEVEL)
@@ -1614,7 +1612,7 @@ std::string Item::getDescription(const ItemType &it, int32_t lookDistance, const
 			else
 				s << " of";
 
-			s << " magic level " << (int32_t)it.minReqMagicLevel << " or higher";
+			s << " reiatsu level " << (int32_t)it.minReqMagicLevel << " or higher";
 		}
 
 		s << ".";
@@ -1633,10 +1631,14 @@ std::string Item::getDescription(const ItemType &it, int32_t lookDistance, const
 			  << tmp;
 	}
 
+	if (it.wieldInfo && (it.wieldInfo & WIELDINFO_LEVEL))
+		s << std::endl
+		  << "Level: " << (int32_t)it.minReqLevel;
+
 	if (item && !item->getSpecialDescription().empty())
 		s << std::endl
 		  << item->getSpecialDescription();
-	else if (!it.description.empty() && lookDistance <= 1)
+	else if (!it.description.empty())
 		s << std::endl
 		  << it.description;
 
