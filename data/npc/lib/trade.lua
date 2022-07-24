@@ -84,7 +84,6 @@ sellable_items = {
 		[15116] = { price = 100 },
 		[10686] = { price = 100 },
 		[15119] = { price = 100 }
-
 	},
 
 	["Macoio"] = {
