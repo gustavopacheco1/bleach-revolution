@@ -101,7 +101,13 @@ local weapons = {
 	["16394"] = { max_souls = 1000, upgrade_to = 16395 },
 	["16395"] = { max_souls = 2600, upgrade_to = 16396 },
 	["16396"] = { max_souls = 5000, upgrade_to = 16397 },
-	["16397"] = { max_souls = 12000, upgrade_to = 16398 }
+	["16397"] = { max_souls = 12000, upgrade_to = 16398 },
+	
+	["Lilynette Gingerbuck"] = { max_souls = 400, upgrade_to = 16447 },
+	["16447"] = { max_souls = 1000, upgrade_to = 16448 },
+	["16448"] = { max_souls = 2600, upgrade_to = 16449 },
+	["16449"] = { max_souls = 5000, upgrade_to = 16450 },
+	["16450"] = { max_souls = 12000, upgrade_to = 16451 }
 }
 
 local upgrade_items_id = {

@@ -23671,6 +23671,54 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
+	<item id="16446" article="an" name="Lilynette Gingerbuck">
+		<attribute key="weight" value="200"/>
+		<attribute key="attack" value="10"/>
+		<attribute key="weaponType" value="distance"/>
+		<attribute key="range" value="10"/>
+		<attribute key="hitChance" value="100"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16447" article="an" name="Lilynette Gingerbuck">
+		<attribute key="weight" value="200"/>
+		<attribute key="attack" value="20"/>
+		<attribute key="weaponType" value="distance"/>
+		<attribute key="range" value="10"/>
+		<attribute key="hitChance" value="100"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16448" article="an" name="Lilynette Gingerbuck">
+		<attribute key="weight" value="200"/>
+		<attribute key="attack" value="30"/>
+		<attribute key="weaponType" value="distance"/>
+		<attribute key="range" value="10"/>
+		<attribute key="hitChance" value="100"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16449" article="an" name="Lilynette Gingerbuck">
+		<attribute key="weight" value="200"/>
+		<attribute key="attack" value="40"/>
+		<attribute key="weaponType" value="distance"/>
+		<attribute key="range" value="10"/>
+		<attribute key="hitChance" value="100"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16450" article="an" name="Lilynette Gingerbuck">
+		<attribute key="weight" value="200"/>
+		<attribute key="attack" value="50"/>
+		<attribute key="weaponType" value="distance"/>
+		<attribute key="range" value="10"/>
+		<attribute key="hitChance" value="100"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16451" article="an" name="Lilynette Gingerbuck">
+		<attribute key="weight" value="200"/>
+		<attribute key="attack" value="60"/>
+		<attribute key="weaponType" value="distance"/>
+		<attribute key="range" value="10"/>
+		<attribute key="hitChance" value="100"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
 	<item id="16330" article="a" name="loot bag">
 		<attribute key="containerSize" value="10"/>
 		<attribute key="decayTo" value="0"/>

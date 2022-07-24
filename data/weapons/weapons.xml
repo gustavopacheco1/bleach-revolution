@@ -108,6 +108,10 @@
 	<distance id="16396" level="300" event="script" value="Lanza Del Relampago.lua"/>
 	<distance id="16397" level="400" event="script" value="Lanza Del Relampago.lua"/>
 	<distance id="16398" level="500" event="script" value="Lanza Del Relampago.lua"/>
-	
-
+	<distance id="16446" level="1" event="script" value="Lilynette Gingerbuck.lua"/>
+	<distance id="16447" level="100" event="script" value="Lilynette Gingerbuck.lua"/>
+	<distance id="16448" level="200" event="script" value="Lilynette Gingerbuck.lua"/>
+	<distance id="16449" level="300" event="script" value="Lilynette Gingerbuck.lua"/>
+	<distance id="16450" level="400" event="script" value="Lilynette Gingerbuck.lua"/>
+	<distance id="16451" level="500" event="script" value="Lilynette Gingerbuck.lua"/>
 </weapons>
