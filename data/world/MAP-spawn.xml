@@ -13,12 +13,6 @@
 		<monster name="Elite Bandit" x="1" y="-1" z="0" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="0" spawntime="60" />
 	</spawn>
-	<spawn centerx="3960" centery="3480" centerz="0" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="0" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="0" spawntime="60" />
-		<monster name="Fraccion" x="-1" y="1" z="0" spawntime="60" />
-		<monster name="Fraccion" x="1" y="1" z="0" spawntime="60" />
-	</spawn>
 	<spawn centerx="3512" centery="3549" centerz="0" radius="1">
 		<monster name="Snake Hollow" x="-1" y="-1" z="0" spawntime="60" />
 		<monster name="Snake Hollow" x="0" y="0" z="0" spawntime="60" />
@@ -135,16 +129,6 @@
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="1" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="-1" z="1" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="1" spawntime="60" />
-	</spawn>
-	<spawn centerx="3954" centery="3478" centerz="1" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="1" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="1" spawntime="60" />
-		<monster name="Fraccion" x="-1" y="1" z="1" spawntime="60" />
-	</spawn>
-	<spawn centerx="3955" centery="3481" centerz="1" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="1" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="1" spawntime="60" />
-		<monster name="Fraccion" x="1" y="1" z="1" spawntime="60" />
 	</spawn>
 	<spawn centerx="3503" centery="3552" centerz="1" radius="1">
 		<monster name="Snake Hollow" x="-1" y="-1" z="1" spawntime="60" />
@@ -364,73 +348,6 @@
 		<monster name="Elite Bandit" x="0" y="0" z="2" spawntime="60" />
 		<monster name="Elite Bandit" x="-1" y="1" z="2" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="2" spawntime="60" />
-	</spawn>
-	<spawn centerx="3944" centery="3466" centerz="2" radius="1">
-		<monster name="Fraccion" x="0" y="0" z="2" spawntime="60" />
-		<monster name="Fraccion" x="1" y="1" z="2" spawntime="60" />
-	</spawn>
-	<spawn centerx="3954" centery="3466" centerz="2" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="2" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="2" spawntime="60" />
-	</spawn>
-	<spawn centerx="3962" centery="3466" centerz="2" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="2" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="2" spawntime="60" />
-	</spawn>
-	<spawn centerx="3970" centery="3466" centerz="2" radius="1">
-		<monster name="Fraccion" x="0" y="0" z="2" spawntime="60" />
-		<monster name="Fraccion" x="1" y="1" z="2" spawntime="60" />
-	</spawn>
-	<spawn centerx="3933" centery="3467" centerz="2" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="2" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="2" spawntime="60" />
-	</spawn>
-	<spawn centerx="3926" centery="3468" centerz="2" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="2" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="2" spawntime="60" />
-	</spawn>
-	<spawn centerx="3979" centery="3470" centerz="2" radius="1">
-		<monster name="Fraccion" x="-1" y="-1" z="2" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="2" spawntime="60" />
-	</spawn>
-	<spawn centerx="3982" centery="3476" centerz="2" radius="1">
-		<monster name="Fraccion" x="-1" y="-1" z="2" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="2" spawntime="60" />
-	</spawn>
-	<spawn centerx="3946" centery="3479" centerz="2" radius="1">
-		<monster name="Fraccion" x="-1" y="-1" z="2" spawntime="60" />
-		<monster name="Fraccion" x="1" y="-1" z="2" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="2" spawntime="60" />
-	</spawn>
-	<spawn centerx="3947" centery="3482" centerz="2" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="2" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="2" spawntime="60" />
-		<monster name="Fraccion" x="1" y="1" z="2" spawntime="60" />
-	</spawn>
-	<spawn centerx="3982" centery="3483" centerz="2" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="2" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="2" spawntime="60" />
-	</spawn>
-	<spawn centerx="3977" centery="3500" centerz="2" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="2" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="2" spawntime="60" />
-		<monster name="Fraccion" x="1" y="1" z="2" spawntime="60" />
-	</spawn>
-	<spawn centerx="3973" centery="3504" centerz="2" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="2" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="2" spawntime="60" />
-	</spawn>
-	<spawn centerx="3991" centery="3505" centerz="2" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="2" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="2" spawntime="60" />
-	</spawn>
-	<spawn centerx="3978" centery="3509" centerz="2" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="2" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="2" spawntime="60" />
-	</spawn>
-	<spawn centerx="3987" centery="3509" centerz="2" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="2" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="2" spawntime="60" />
 	</spawn>
 	<spawn centerx="3491" centery="3554" centerz="2" radius="1">
 		<monster name="Snake Hollow" x="0" y="-1" z="2" spawntime="60" />
@@ -868,105 +785,6 @@
 		<monster name="Elite Bandit" x="0" y="-1" z="3" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="3" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="3" spawntime="60" />
-	</spawn>
-	<spawn centerx="3948" centery="3469" centerz="3" radius="1">
-		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
-		<monster name="Fraccion" x="1" y="1" z="3" spawntime="60" />
-	</spawn>
-	<spawn centerx="3941" centery="3470" centerz="3" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="3" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
-	</spawn>
-	<spawn centerx="3957" centery="3470" centerz="3" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="3" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
-	</spawn>
-	<spawn centerx="3965" centery="3470" centerz="3" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="3" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
-	</spawn>
-	<spawn centerx="3932" centery="3471" centerz="3" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="3" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
-		<monster name="Fraccion" x="1" y="1" z="3" spawntime="60" />
-	</spawn>
-	<spawn centerx="3973" centery="3472" centerz="3" radius="1">
-		<monster name="Fraccion" x="-1" y="-1" z="3" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
-		<monster name="Fraccion" x="1" y="1" z="3" spawntime="60" />
-	</spawn>
-	<spawn centerx="3927" centery="3477" centerz="3" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="3" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
-	</spawn>
-	<spawn centerx="3978" centery="3479" centerz="3" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="3" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
-		<monster name="Fraccion" x="0" y="1" z="3" spawntime="60" />
-		<monster name="Fraccion" x="1" y="1" z="3" spawntime="60" />
-	</spawn>
-	<spawn centerx="3929" centery="3484" centerz="3" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="3" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
-	</spawn>
-	<spawn centerx="3959" centery="3486" centerz="3" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="3" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
-		<monster name="Fraccion" x="-1" y="1" z="3" spawntime="60" />
-	</spawn>
-	<spawn centerx="3951" centery="3488" centerz="3" radius="1">
-		<monster name="Fraccion" x="-1" y="-1" z="3" spawntime="60" />
-		<monster name="Fraccion" x="1" y="-1" z="3" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
-	</spawn>
-	<spawn centerx="3935" centery="3490" centerz="3" radius="1">
-		<monster name="Fraccion" x="-1" y="-1" z="3" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
-		<monster name="Fraccion" x="1" y="1" z="3" spawntime="60" />
-	</spawn>
-	<spawn centerx="3941" centery="3496" centerz="3" radius="1">
-		<monster name="Fraccion" x="-1" y="-1" z="3" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
-		<monster name="Fraccion" x="1" y="1" z="3" spawntime="60" />
-	</spawn>
-	<spawn centerx="3976" centery="3496" centerz="3" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="3" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
-	</spawn>
-	<spawn centerx="3982" centery="3496" centerz="3" radius="1">
-		<monster name="Fraccion" x="-1" y="-1" z="3" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
-	</spawn>
-	<spawn centerx="3990" centery="3498" centerz="3" radius="1">
-		<monster name="Fraccion" x="-1" y="-1" z="3" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
-	</spawn>
-	<spawn centerx="3950" centery="3500" centerz="3" radius="1">
-		<monster name="Fraccion" x="-1" y="-1" z="3" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
-		<monster name="Fraccion" x="1" y="1" z="3" spawntime="60" />
-	</spawn>
-	<spawn centerx="3957" centery="3501" centerz="3" radius="1">
-		<monster name="Fraccion" x="-1" y="-1" z="3" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
-		<monster name="Fraccion" x="1" y="1" z="3" spawntime="60" />
-	</spawn>
-	<spawn centerx="3966" centery="3503" centerz="3" radius="1">
-		<monster name="Fraccion" x="-1" y="-1" z="3" spawntime="60" />
-		<monster name="Fraccion" x="1" y="-1" z="3" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
-	</spawn>
-	<spawn centerx="3977" centery="3504" centerz="3" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="3" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
-	</spawn>
-	<spawn centerx="3983" centery="3505" centerz="3" radius="1">
-		<monster name="Fraccion" x="-1" y="-1" z="3" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
-	</spawn>
-	<spawn centerx="3966" centery="3510" centerz="3" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="3" spawntime="60" />
-		<monster name="Fraccion" x="0" y="0" z="3" spawntime="60" />
 	</spawn>
 	<spawn centerx="3471" centery="3520" centerz="3" radius="1">
 		<monster name="Snake Hollow" x="1" y="-1" z="3" spawntime="60" />
@@ -1897,20 +1715,6 @@
 		<monster name="Elite Bandit" x="0" y="0" z="4" spawntime="60" />
 		<monster name="Elite Bandit" x="-1" y="1" z="4" spawntime="60" />
 	</spawn>
-	<spawn centerx="3944" centery="3474" centerz="4" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="4" spawntime="60" />
-		<monster name="Fraccion" x="0" y="1" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="3953" centery="3474" centerz="4" radius="1">
-		<monster name="Fraccion" x="1" y="1" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="3962" centery="3474" centerz="4" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="4" spawntime="60" />
-		<monster name="Fraccion" x="1" y="1" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="3969" centery="3480" centerz="4" radius="1">
-		<monster name="Fraccion" x="0" y="1" z="4" spawntime="60" />
-	</spawn>
 	<spawn centerx="3600" centery="3481" centerz="4" radius="7">
 		<monster name="Punching Bag" x="-5" y="-4" z="4" spawntime="60" />
 		<monster name="Punching Bag" x="5" y="-4" z="4" spawntime="60" />
@@ -1920,31 +1724,6 @@
 		<monster name="Punching Bag" x="-5" y="4" z="4" spawntime="60" />
 		<monster name="Punching Bag" x="0" y="4" z="4" spawntime="60" />
 		<monster name="Punching Bag" x="5" y="4" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="3938" centery="3483" centerz="4" radius="1">
-		<monster name="Fraccion" x="1" y="1" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="3943" centery="3488" centerz="4" radius="1">
-		<monster name="Fraccion" x="0" y="-1" z="4" spawntime="60" />
-		<monster name="Fraccion" x="0" y="1" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="3975" centery="3491" centerz="4" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="4" spawntime="60" />
-		<monster name="Fraccion" x="1" y="1" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="3988" centery="3491" centerz="4" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="4002" centery="3491" centerz="4" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="4" spawntime="60" />
-		<monster name="Fraccion" x="1" y="1" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="3952" centery="3493" centerz="4" radius="1">
-		<monster name="Fraccion" x="0" y="1" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="3962" centery="3493" centerz="4" radius="1">
-		<monster name="Fraccion" x="0" y="-1" z="4" spawntime="60" />
-		<monster name="Fraccion" x="1" y="1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3477" centery="3516" centerz="4" radius="1">
 		<monster name="Snake Hollow" x="1" y="-1" z="4" spawntime="60" />
@@ -3654,43 +3433,12 @@
 	<spawn centerx="3514" centery="3467" centerz="5" radius="1">
 		<npc name="Macoio" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="3952" centery="3474" centerz="5" radius="1">
-		<monster name="Fraccion" x="1" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3941" centery="3475" centerz="5" radius="1">
-		<monster name="Fraccion" x="0" y="-1" z="5" spawntime="60" />
-		<monster name="Fraccion" x="0" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3963" centery="3475" centerz="5" radius="1">
-		<monster name="Fraccion" x="-1" y="-1" z="5" spawntime="60" />
-		<monster name="Fraccion" x="1" y="1" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="3600" centery="3480" centerz="5" radius="7">
 		<monster name="Punching Bag" x="-5" y="-3" z="5" spawntime="60" />
 		<monster name="Punching Bag" x="5" y="-3" z="5" spawntime="60" />
 		<monster name="Punching Bag" x="-5" y="2" z="5" spawntime="60" />
 		<monster name="Punching Bag" x="5" y="2" z="5" spawntime="60" />
 		<monster name="Punching Bag" x="0" y="4" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3934" centery="3481" centerz="5" radius="1">
-		<monster name="Fraccion" x="1" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3967" centery="3482" centerz="5" radius="1">
-		<monster name="Fraccion" x="0" y="-1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3960" centery="3487" centerz="5" radius="1">
-		<monster name="Fraccion" x="0" y="-1" z="5" spawntime="60" />
-		<monster name="Fraccion" x="0" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3938" centery="3488" centerz="5" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="5" spawntime="60" />
-		<monster name="Fraccion" x="1" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3963" centery="3493" centerz="5" radius="1">
-		<monster name="Fraccion" x="0" y="-1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3947" centery="3494" centerz="5" radius="1">
-		<monster name="Fraccion" x="1" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3468" centery="3511" centerz="5" radius="1">
 		<monster name="Snake Hollow" x="-1" y="-1" z="5" spawntime="60" />
@@ -17872,11 +17620,9 @@
 		<monster name="Red Hollow" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3069" centery="3930" centerz="7" radius="1">
-		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Red Hollow" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3075" centery="3930" centerz="7" radius="1">
-		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Red Hollow" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3688" centery="3930" centerz="7" radius="1">
@@ -17894,7 +17640,6 @@
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3065" centery="3933" centerz="7" radius="1">
-		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Red Hollow" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3576" centery="3934" centerz="7" radius="1">
@@ -17932,17 +17677,14 @@
 	</spawn>
 	<spawn centerx="3074" centery="3936" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Red Hollow" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3029" centery="3937" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3060" centery="3937" centerz="7" radius="1">
-		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Red Hollow" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3096" centery="3938" centerz="7" radius="1">
-		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Red Hollow" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3015" centery="3939" centerz="7" radius="1">
@@ -17952,7 +17694,6 @@
 	</spawn>
 	<spawn centerx="3091" centery="3939" centerz="7" radius="1">
 		<monster name="Red Hollow" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3538" centery="3939" centerz="7" radius="1">
 		<monster name="Gilliam" x="-1" y="-1" z="7" spawntime="60" />
@@ -17973,24 +17714,18 @@
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3063" centery="3941" centerz="7" radius="1">
-		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Red Hollow" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3087" centery="3941" centerz="7" radius="1">
-		<monster name="Red Hollow" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Red Hollow" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3036" centery="3942" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3076" centery="3942" centerz="7" radius="1">
-		<monster name="Red Hollow" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Red Hollow" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3098" centery="3942" centerz="7" radius="1">
-		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Red Hollow" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3721" centery="3942" centerz="7" radius="1">
@@ -18000,9 +17735,7 @@
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3082" centery="3943" centerz="7" radius="1">
-		<monster name="Red Hollow" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Red Hollow" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3000" centery="3944" centerz="7" radius="1">
 		<monster name="Red Hollow" x="1" y="-1" z="7" spawntime="60" />
@@ -18019,17 +17752,12 @@
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3072" centery="3944" centerz="7" radius="1">
-		<monster name="Red Hollow" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Red Hollow" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3091" centery="3944" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Red Hollow" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Red Hollow" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3101" centery="3945" centerz="7" radius="1">
-		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Red Hollow" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3005" centery="3946" centerz="7" radius="1">
@@ -18070,27 +17798,19 @@
 		<monster name="Red Hollow" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3078" centery="3948" centerz="7" radius="1">
-		<monster name="Red Hollow" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Red Hollow" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3087" centery="3948" centerz="7" radius="1">
-		<monster name="Red Hollow" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Red Hollow" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Red Hollow" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3094" centery="3948" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Red Hollow" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Red Hollow" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3114" centery="3948" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Red Hollow" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3124" centery="3948" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Red Hollow" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3557" centery="3948" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
@@ -18112,9 +17832,7 @@
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3101" centery="3950" centerz="7" radius="1">
-		<monster name="Red Hollow" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Red Hollow" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3527" centery="3950" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="-1" z="7" spawntime="60" />
@@ -18152,7 +17870,6 @@
 	</spawn>
 	<spawn centerx="3120" centery="3953" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Red Hollow" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3036" centery="3954" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -18165,7 +17882,6 @@
 	</spawn>
 	<spawn centerx="3093" centery="3955" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Red Hollow" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3006" centery="3956" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -18183,8 +17899,6 @@
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3097" centery="3957" centerz="7" radius="1">
-		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Red Hollow" x="-1" y="1" z="7" spawntime="60" />
 		<monster name="Red Hollow" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3483" centery="3957" centerz="7" radius="1">
@@ -18216,11 +17930,9 @@
 		<monster name="Red Hollow" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3109" centery="3960" centerz="7" radius="1">
-		<monster name="Red Hollow" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3124" centery="3960" centerz="7" radius="1">
-		<monster name="Red Hollow" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3058" centery="3961" centerz="7" radius="1">
@@ -18316,7 +18028,6 @@
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3113" centery="3968" centerz="7" radius="1">
-		<monster name="Red Hollow" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Red Hollow" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
@@ -18342,7 +18053,6 @@
 	</spawn>
 	<spawn centerx="3120" centery="3969" centerz="7" radius="1">
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Red Hollow" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3482" centery="3969" centerz="7" radius="1">
 		<monster name="Gilliam" x="-1" y="-1" z="7" spawntime="60" />
@@ -18362,7 +18072,6 @@
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3124" centery="3971" centerz="7" radius="1">
-		<monster name="Red Hollow" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Red Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3045" centery="3972" centerz="7" radius="1">
