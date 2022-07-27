@@ -7,7 +7,7 @@ function doCombatLoop(cid, combat, loop_amount, loop_ms_delay, effect)
 
 			local target = getCreatureTarget(cid)
 
-			if isCreature(target) then
+			if not isCreature(target) then
 				return
 			end
 
