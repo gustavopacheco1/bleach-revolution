@@ -162,9 +162,8 @@ CustomSpell = {
 				end
 
 				local target_position = getCreaturePosition(target)
-				local player_position = getCreaturePosition(cid)
 
-				if not isSightClear(player_position, target_position, false) then
+				if not isSightClear(getCreaturePosition(cid), target_position, false) then
 					return
 				end
 
