@@ -712,3 +712,10 @@ function doRemoveCreatureSummons(cid)
 	end
 	return true
 end
+
+function doSendTutorialArrow(cid, position, storage_key, storage_value)
+	if getCreatureStorage(cid, storage_key) == storage_value then
+		doSendMagicEffect(position, 517, cid)
+		addEvent(doSendTutorialArrow, 1200, cid, position, storage_key, storage_value)
+	end
+end

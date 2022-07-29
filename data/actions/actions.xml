@@ -3,6 +3,9 @@
 	<!-- Default script, responsible for destroyItem -->
 	<action default="yes" event="script" value="default.lua"/>
 
+	<!-- Tutorial -->
+	<action actionid="60002" event="script" value="tutorial/door.lua"/>
+
 	<!-- Potions -->
 	<action itemid="16111;16112;16113;16114;16116;16117;16118" event="script" value="potions.lua"/>
 

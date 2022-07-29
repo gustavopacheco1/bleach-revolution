@@ -21,5 +21,13 @@ MultiLanguage = {
         end
 
         return doCreatureSay(uid, text_pt)
-    end
+    end,
+
+	doPlayerPopupFYI = function(cid, message_en, message_pt)
+		if getPlayerStorageValue(cid, "language") == "en" then
+			return doPlayerPopupFYI(cid, message_en)
+		end
+
+		return doPlayerPopupFYI(cid, message_pt)
+	end
 }
