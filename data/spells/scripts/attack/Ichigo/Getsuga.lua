@@ -25,7 +25,7 @@ function onCastSpell(cid, var)
             4,
             300,
             6,
-            { id = 484, x = 1, y = 1 }
+            { id = 484, x = 0, y = 0 }
         )
     end
 
