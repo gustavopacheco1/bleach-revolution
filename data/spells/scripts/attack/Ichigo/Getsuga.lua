@@ -15,8 +15,8 @@ function onCastSpell(cid, var)
             combat,
             4,
             300,
-            81,
-            { id = 411, x = 1, y = 1 }
+            76,
+            { id = 699, x = 0, y = 0 }
         )
     else
         CustomSpell.randomShoot(
