@@ -10,10 +10,10 @@ function onCastSpell(cid, var)
     end
 
     if hasCreatureCondition(cid, CONDITION_ATTRIBUTES) then
-        CustomSpell.skyShoot(
+        CustomSpell.randomShoot(
             cid,
             combat,
-            1,
+            4,
             300,
             81,
             { id = 411, x = 1, y = 1 }
