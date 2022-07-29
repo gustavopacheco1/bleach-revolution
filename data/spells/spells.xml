@@ -347,7 +347,7 @@
 	</instant>
 
 	<!-- Nelliel -->
-	<instant name="Cero" words="Cero" lvl="50" mana="500" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="300" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Nelliel/Cero.lua">
+	<instant name="Lanza" words="Lanza" lvl="50" mana="500" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="300" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Nelliel/Lanza.lua">
 		<vocation id="11"/>
 	</instant>
 	<instant name="Doble Cero 2" words="Doble Cero 2" lvl="75" mana="500" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="0" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Nelliel/Doble Cero 2.lua">
