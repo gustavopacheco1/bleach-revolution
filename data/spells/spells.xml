@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spells>
-	<instant name="sample spell 1" words="sample spell 1" lvl="1" mana="10000" prem="0" range="8" blockwalls="1" exhaustion="1000" exhaustedGroup="attack" needlearn="0" event="script" value="sample_spell_1.lua">
-		<vocation id="0"/>
-	</instant>
-	<instant name="sample spell 2" words="sample spell 2" lvl="1" mana="10000" prem="0" range="8" blockwalls="1" exhaustion="1000" exhaustedGroup="attack" needlearn="0" event="script" value="sample_spell_2.lua">
-		<vocation id="0"/>
-	</instant>
 	<!-- Healing -->
 	<instant name="regeneration" words="regeneration" lvl="5" mana="1000" aggressive="0" selftarget="1" exhaustion="1500" exhaustedGroup="heal" needlearn="0" event="script" value="healing/regeneration.lua"/>
 	<instant name="Big Regeneration" words="big regeneration" lvl="150" mana="2000" aggressive="0" selftarget="1" exhaustion="2000" exhaustedGroup="heal" needlearn="0" event="script" value="healing/big_regeneration.lua"/>
