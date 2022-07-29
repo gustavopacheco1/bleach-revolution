@@ -13,19 +13,19 @@ function onCastSpell(cid, var)
         CustomSpell.skyShoot(
             cid,
             combat,
-            4,
+            1,
             300,
-            6,
-            { id = 484, x = 1, y = 1 }
+            81,
+            { id = 411, x = 1, y = 1 }
         )
     else
-        CustomSpell.randomEffect(
+        CustomSpell.randomShoot(
             cid,
             combat,
             4,
             300,
-            7,
-            { id = 242, x = 1, y = 1 }
+            6,
+            { id = 484, x = 1, y = 1 }
         )
     end
 
