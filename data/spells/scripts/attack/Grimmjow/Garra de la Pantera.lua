@@ -10,27 +10,7 @@ function onCastSpell(cid, var)
 		return false
 	end
 
-	for i = 0, 4 do
-		addEvent(function()
-			if isCreature(cid) then
-				local target = getCreatureTarget(cid)
-
-				if isCreature(target) then
-					local target_position = getCreaturePosition(target)
-
-					if isSightClear(getCreaturePosition(cid), target_position, false) then
-						doSendMagicEffect({
-							x = target_position.x,
-							y = target_position.y,
-							z = target_position.z
-						}, 227)
-
-						doCombat(cid, combat, numberToVariant(target))
-					end
-				end
-			end
-		end, i * 300)
-	end
+	CustomSpell.skyShoot(cid, combat, 3, 400, 23, { id = 23, x = 227, y = 227 })
 
 	exhaustion.set(cid, 200, 2)
 	return true
