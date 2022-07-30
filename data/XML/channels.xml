@@ -8,5 +8,6 @@
 	<channel id="6" name="Trade" muted="120" conditionId="3" conditionMessage="You may only place one offer in two minutes."/>
 	<channel id="8" name="RL-Chat"/>
 	<channel id="9" name="Help" logged="yes"/>
+	<channel id="10" name="Loot" active="0"/>
 	<channel id="65535" name="Private Chat Channel"/>
 </channels>

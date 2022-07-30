@@ -202,11 +202,14 @@ void MonsterType::dropLoot(Container *corpse)
 		return;
 
 	std::ostringstream ss;
+	std::string author;
+
 	ss << "Loot of " << nameDescription << ": " << corpse->getContentDescription() << ".";
+
 	if (owner->getParty() && message > LOOTMSG_PLAYER)
-		owner->getParty()->broadcastMessage((MessageClasses)g_config.getNumber(ConfigManager::LOOT_MESSAGE_TYPE), ss.str());
+		owner->getParty()->broadcastPartyLoot(MSG_CHANNEL_MANAGEMENT, ss.str());
 	else if (message == LOOTMSG_PLAYER || message == LOOTMSG_BOTH)
-		owner->sendTextMessage((MessageClasses)g_config.getNumber(ConfigManager::LOOT_MESSAGE_TYPE), ss.str());
+		owner->sendChannelMessage(author, ss.str(), MSG_CHANNEL_MANAGEMENT, 10);
 }
 
 bool Monsters::loadFromXml(bool reloading /*= false*/)

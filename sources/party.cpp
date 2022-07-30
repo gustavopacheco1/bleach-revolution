@@ -277,6 +277,20 @@ void Party::broadcastMessage(MessageClasses messageClass, const std::string &tex
 		(*it)->sendTextMessage(messageClass, text);
 }
 
+void Party::broadcastPartyLoot(MessageClasses type, const std::string &text)
+{
+	std::string author;
+	PlayerVector::iterator it;
+
+	leader->sendChannelMessage(author, text, type, 10);
+
+	if (!memberList.empty())
+	{
+		for (it = memberList.begin(); it != memberList.end(); ++it)
+			(*it)->sendChannelMessage(author, text, type, 10);
+	}
+}
+
 void Party::updateSharedExperience()
 {
 	if (!sharedExpActive)
