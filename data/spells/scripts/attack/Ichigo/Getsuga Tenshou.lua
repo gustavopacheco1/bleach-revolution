@@ -15,10 +15,10 @@ function onCastSpell(cid, var)
 		combat,
 		var,
 		6,
-		218,
-		218,
-		218,
-		218
+		96,
+		97,
+		98,
+		99
 	)
 
 	exhaustion.set(cid, "cannon", 2)
