@@ -455,7 +455,7 @@
 	<instant name="Balaa" words="Balaa" lvl="50" mana="500" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="300" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Nnoitra/Balaa.lua">
 		<vocation id="21"/>
 	</instant>
-	<instant name="Ceroo" words="Ceroo" lvl="75" mana="500" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="0" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Nnoitra/Ceroo.lua">
+	<instant name="Ceroo" words="Ceroo" lvl="70" mana="500" maglv="1" prem="0" direction="1" exhaustion="1000" needlearn="0" event="script" value="attack/Nnoitra/Ceroo.lua">
 		<vocation id="21"/>
 	</instant>
 	<instant name="Gran Rey Cerooo" words="Gran Rey Cerooo" lvl="100" mana="500" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="100" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Nnoitra/Gran Rey Cerooo.lua">
