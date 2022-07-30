@@ -24,8 +24,8 @@ function onCastSpell(cid, var)
             combat,
             4,
             300,
-            89,
-            { id = 697, x = 0, y = 0 }
+            93,
+            { id = 748, x = 0, y = 0 }
         )
     end
 
