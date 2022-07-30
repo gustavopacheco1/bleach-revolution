@@ -14,7 +14,7 @@ function onCastSpell(cid, var)
 		cid,
 		combat,
 		var,
-		1,
+		2,
 		96,
 		97,
 		98,
