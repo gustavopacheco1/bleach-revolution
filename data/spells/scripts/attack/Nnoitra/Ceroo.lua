@@ -1,34 +1,21 @@
 local combat = createCombatObject()
-setCombatParam(combat, COMBAT_PARAM_HITCOLOR, COLOR_PINK)
 setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_ENERGYDAMAGE)
-setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -42.0, 0, -42.0, 0)
+setCombatParam(combat, COMBAT_PARAM_DISTANCEEFFECT, 90)
+setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -81.0, 0, -81.0, 0)
 
 function onCastSpell(cid, var)
-    if exhaustion.check(cid, 200) then
-        doPlayerSendCancel(cid, "You are exhausted.")
-        return false
-    end
+	if exhaustion.check(cid, 250) then
+		doPlayerSendCancel(cid, "You are exhausted.")
+		return false
+	end
 
-    if hasCreatureCondition(cid, CONDITION_ATTRIBUTES) then
-        CustomSpell.randomShoot(
-            cid,
-            combat,
-            4,
-            300,
-            90,
-            { id = 733, x = 1, y = 1 }
-        )
-    else
-        CustomSpell.randomShoot(
-            cid,
-            combat,
-            4,
-            300,
-            89,
-            { id = 697, x = 0, y = 0 }
-        )
-    end
+	local target_position = getCreaturePosition(getCreatureTarget(cid))
+	doSendMagicEffect({
+		x = target_position.x + 2,
+		y = target_position.y,
+		z = target_position.z
+	}, 737)
 
-    exhaustion.set(cid, 200, 2)
-    return true
+	exhaustion.set(cid, 250, 2)
+	return doCombat(cid, combat, var)
 end
