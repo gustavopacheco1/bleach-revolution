@@ -195,6 +195,48 @@ CustomSpell = {
 	end,
 }
 
+function doCannon(cid, combat, var, cannon_length, effect_east, effect_west, effect_north, effect_south)
+	doCombat(cid, combat, var)
+
+	local player_position = getPlayerPosition(cid)
+	local look_direction = getCreatureLookDirection(cid)
+
+	if look_direction == EAST then
+		doSendMagicEffect({
+			x = player_position.x + cannon_length,
+			y = player_position.y + 1,
+			z = player_position.z
+		}, effect_east)
+		return
+	end
+
+	if look_direction == WEST then
+		doSendMagicEffect({
+			x = player_position.x - 1,
+			y = player_position.y + 1,
+			z = player_position.z
+		}, effect_west)
+		return
+	end
+
+	if look_direction == NORTH then
+		doSendMagicEffect({
+			x = player_position.x + 1,
+			y = player_position.y - 1,
+			z = player_position.z
+		}, effect_north)
+		return
+	end
+
+	if look_direction == SOUTH then
+		doSendMagicEffect({
+			x = player_position.x + 1,
+			y = player_position.y + cannon_length,
+			z = player_position.z
+		}, effect_south)
+	end
+end
+
 function checkSpecialCooldown(cid)
 	if exhaustion.check(cid, "special") then
 		local exhaust = exhaustion.get(cid, "special")
@@ -218,112 +260,27 @@ function checkSpecialCooldown(cid)
 	return false
 end
 
---Waves
-AREA_WAVE4 = {
-	{ 1, 1, 1, 1, 1 },
-	{ 0, 1, 1, 1, 0 },
-	{ 0, 1, 1, 1, 0 },
-	{ 0, 0, 3, 0, 0 }
-}
-
-AREA_SQUAREWAVE5 = {
+-- Waves
+AREA_CANNON6SQM = {
 	{ 1, 1, 1 },
 	{ 1, 1, 1 },
 	{ 1, 1, 1 },
-	{ 0, 1, 0 },
-	{ 0, 3, 0 }
+	{ 1, 1, 1 },
+	{ 1, 1, 1 },
+	{ 1, 3, 1 }
 }
 
-AREA_WAVE5 = {
-	{ 0, 1, 1, 1, 0 },
-	{ 1, 1, 1, 1, 1 },
-	{ 0, 1, 1, 1, 0 },
-	{ 0, 0, 1, 0, 0 },
-	{ 0, 0, 3, 0, 0 }
-}
-
---Diagonal waves
-AREADIAGONAL_WAVE4 = {
-	{ 0, 0, 0, 0, 1, 0 },
-	{ 0, 0, 0, 1, 1, 0 },
+AREADIAGONAL_CANNON6SQM = {
+	{ 1, 1, 0, 0, 0, 0 },
+	{ 1, 1, 1, 0, 0, 0 },
+	{ 0, 1, 1, 1, 0, 0 },
 	{ 0, 0, 1, 1, 1, 0 },
-	{ 0, 1, 1, 1, 1, 0 },
-	{ 1, 1, 1, 1, 1, 0 },
-	{ 0, 0, 0, 0, 0, 3 }
+	{ 0, 0, 0, 1, 1, 1 },
+	{ 0, 0, 0, 0, 1, 3 }
 }
 
-AREADIAGONAL_SQUAREWAVE5 = {
-	{ 1, 1, 1, 0, 0 },
-	{ 1, 1, 1, 0, 0 },
-	{ 1, 1, 1, 0, 0 },
-	{ 0, 0, 0, 1, 0 },
-	{ 0, 0, 0, 0, 3 }
-}
 
-AREADIAGONAL_WAVE5 = {
-	{ 0, 0, 0, 0, 1, 0 },
-	{ 0, 1, 1, 1, 0, 0 },
-	{ 0, 1, 1, 1, 0, 0 },
-	{ 0, 1, 1, 1, 0, 0 },
-	{ 1, 0, 0, 0, 1, 0 },
-	{ 0, 0, 0, 0, 0, 3 }
-}
-
---Beams
-AREA_BEAM1 = {
-	{ 3 }
-}
-
-AREA_BEAM5 = {
-	{ 1 },
-	{ 1 },
-	{ 1 },
-	{ 1 },
-	{ 1 },
-	{ 3 }
-}
-
-AREA_BEAM7 = {
-	{ 1 },
-	{ 1 },
-	{ 1 },
-	{ 1 },
-	{ 1 },
-	{ 1 },
-	{ 1 },
-	{ 3 }
-}
-
---Diagonal Beams
-AREADIAGONAL_BEAM5 = {
-	{ 1, 0, 0, 0, 0, 0 },
-	{ 0, 1, 0, 0, 0, 0 },
-	{ 0, 0, 1, 0, 0, 0 },
-	{ 0, 0, 0, 1, 0, 0 },
-	{ 0, 0, 0, 0, 1, 0 },
-	{ 0, 0, 0, 0, 0, 3 }
-}
-
-AREADIAGONAL_BEAM7 = {
-	{ 1, 0, 0, 0, 0, 0, 0, 0 },
-	{ 0, 1, 0, 0, 0, 0, 0, 0 },
-	{ 0, 0, 1, 0, 0, 0, 0, 0 },
-	{ 0, 0, 0, 1, 0, 0, 0, 0 },
-	{ 0, 0, 0, 0, 1, 0, 0, 0 },
-	{ 0, 0, 0, 0, 0, 1, 0, 0 },
-	{ 0, 0, 0, 0, 0, 0, 1, 0 },
-	{ 0, 0, 0, 0, 0, 0, 0, 3 }
-}
-
---Circles
-AREA_CIRCLE2X2 = {
-	{ 0, 1, 1, 1, 0 },
-	{ 1, 1, 1, 1, 1 },
-	{ 1, 1, 3, 1, 1 },
-	{ 1, 1, 1, 1, 1 },
-	{ 0, 1, 1, 1, 0 }
-}
-
+-- Circles
 AREA_CIRCLE3X3 = {
 	{ 0, 0, 1, 1, 1, 0, 0 },
 	{ 0, 1, 1, 1, 1, 1, 0 },
@@ -332,94 +289,4 @@ AREA_CIRCLE3X3 = {
 	{ 1, 1, 1, 1, 1, 1, 1 },
 	{ 0, 1, 1, 1, 1, 1, 0 },
 	{ 0, 0, 1, 1, 1, 0, 0 }
-}
-
--- Crosses
-AREA_CROSS1X1 = {
-	{ 0, 1, 0 },
-	{ 1, 3, 1 },
-	{ 0, 1, 0 }
-}
-
-AREA_CROSS2X2 = {
-	{ 1, 1, 1, 1, 1 },
-	{ 1, 1, 1, 1, 1 },
-	{ 1, 1, 3, 1, 1 },
-	{ 1, 1, 1, 1, 1 },
-	{ 1, 1, 1, 1, 1 }
-}
-
-AREA_CROSS3X3 = {
-	{ 1, 1, 1, 1, 1, 1, 1 },
-	{ 1, 1, 1, 1, 1, 1, 1 },
-	{ 1, 1, 1, 1, 1, 1, 1 },
-	{ 1, 1, 1, 3, 1, 1, 1 },
-	{ 1, 1, 1, 1, 1, 1, 1 },
-	{ 1, 1, 1, 1, 1, 1, 1 },
-	{ 1, 1, 1, 1, 1, 1, 1 }
-}
-
-AREA_CROSS5X5 = {
-	{ 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0 },
-	{ 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0 },
-	{ 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0 },
-	{ 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0 },
-	{ 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0 },
-	{ 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1 },
-	{ 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0 },
-	{ 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0 },
-	{ 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0 },
-	{ 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0 },
-	{ 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0 }
-}
-
-AREA_CROSS6X6 = {
-	{ 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0 },
-	{ 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0 },
-	{ 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0 },
-	{ 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0 },
-	{ 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0 },
-	{ 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0 },
-	{ 1, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1 },
-	{ 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0 },
-	{ 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0 },
-	{ 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0 },
-	{ 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0 },
-	{ 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0 },
-	{ 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0 }
-}
-
---Squares
-AREA_SQUARE1X1 = {
-	{ 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0 },
-	{ 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0 },
-	{ 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0 },
-	{ 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0 },
-	{ 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0 },
-	{ 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1 },
-	{ 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0 },
-	{ 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0 },
-	{ 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0 },
-	{ 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0 },
-	{ 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0 }
-}
-
-AREA_SQUARE1X7 = {
-	{ 0, 0, 0 },
-	{ 0, 0, 0 },
-	{ 0, 0, 1 }
-}
-
-
--- Walls
-AREA_WALLFIELD = {
-	{ 1, 1, 3, 1, 1 }
-}
-
-AREADIAGONAL_WALLFIELD = {
-	{ 0, 0, 0, 0, 1 },
-	{ 0, 0, 0, 1, 1 },
-	{ 0, 1, 3, 1, 0 },
-	{ 1, 1, 0, 0, 0 },
-	{ 1, 0, 0, 0, 0 },
 }
