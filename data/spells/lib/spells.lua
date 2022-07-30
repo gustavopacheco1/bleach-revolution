@@ -195,45 +195,46 @@ CustomSpell = {
 	end,
 }
 
-function doCannon(cid, combat, var, cannon_length, effect_east, effect_west, effect_north, effect_south)
+function doCannon(cid, combat, var, cannon, effect)
 	doCombat(cid, combat, var)
 
 	local player_position = getPlayerPosition(cid)
 	local look_direction = getCreatureLookDirection(cid)
+	local effect_adjust = math.floor(cannon.height / 2)
 
 	if look_direction == EAST then
 		doSendMagicEffect({
-			x = player_position.x + cannon_length,
-			y = player_position.y + 1,
+			x = player_position.x + cannon.length,
+			y = player_position.y + effect_adjust,
 			z = player_position.z
-		}, effect_east)
+		}, effect.east)
 		return
 	end
 
 	if look_direction == WEST then
 		doSendMagicEffect({
 			x = player_position.x - 1,
-			y = player_position.y + 1,
+			y = player_position.y + effect_adjust,
 			z = player_position.z
-		}, effect_west)
+		}, effect.west)
 		return
 	end
 
 	if look_direction == NORTH then
 		doSendMagicEffect({
-			x = player_position.x + 1,
+			x = player_position.x + effect_adjust,
 			y = player_position.y - 1,
 			z = player_position.z
-		}, effect_north)
+		}, effect.north)
 		return
 	end
 
 	if look_direction == SOUTH then
 		doSendMagicEffect({
-			x = player_position.x + 1,
-			y = player_position.y + cannon_length,
+			x = player_position.x + effect_adjust,
+			y = player_position.y + cannon.length,
 			z = player_position.z
-		}, effect_south)
+		}, effect.south)
 	end
 end
 
