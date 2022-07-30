@@ -29,7 +29,7 @@ function onCastSpell(cid, var)
             combat,
             4,
             300,
-            60,
+            64,
             { id = 6, x = 0, y = 0 }
         )
     end
