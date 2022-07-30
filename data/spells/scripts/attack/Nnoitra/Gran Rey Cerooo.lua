@@ -1,6 +1,6 @@
 local combat = createCombatObject()
 setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_ENERGYDAMAGE)
-setCombatParam(combat, COMBAT_PARAM_DISTANCEEFFECT, 57)
+setCombatParam(combat, COMBAT_PARAM_DISTANCEEFFECT, 72)
 setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -86.0, 0, -86.0, 0)
 
 function onCastSpell(cid, var)
@@ -14,13 +14,7 @@ function onCastSpell(cid, var)
 		x = target_position.x,
 		y = target_position.y,
 		z = target_position.z
-	}, 697)
-
-	doSendMagicEffect({
-		x = target_position.x + 2,
-		y = target_position.y + 1,
-		z = target_position.z
-	}, 742)
+	}, 565)
 
 	exhaustion.set(cid, 270, 2)
 	return doCombat(cid, combat, var)
