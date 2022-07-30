@@ -841,9 +841,6 @@ bool Player::setStorage(const std::string &key, const std::string &value)
 		if (!Creature::setStorage(key, value))
 			return false;
 
-		if (Quests::getInstance()->isQuestStorage(key, value, true))
-			onUpdateQuest();
-
 		return true;
 	}
 
@@ -4189,11 +4186,6 @@ void Player::onTargetGain(Creature *target, int32_t points)
 
 	if (isPartner(tmpPlayer))
 		party->addPlayerHealedMember(this, points);
-}
-
-void Player::onUpdateQuest()
-{
-	sendTextMessage(MSG_EVENT_ADVANCE, "Your quest log has been updated.");
 }
 
 GuildEmblems_t Player::getGuildEmblem(const Creature *creature) const
