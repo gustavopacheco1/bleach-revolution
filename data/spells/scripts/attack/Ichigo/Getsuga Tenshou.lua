@@ -14,11 +14,8 @@ function onCastSpell(cid, var)
 		cid,
 		combat,
 		var,
-		6,
-		618,
-		618,
-		619,
-		619
+		{ length = 6, height = 3 },
+		{ east = 597, west = 597, north = 747, south = 747 }
 	)
 
 	exhaustion.set(cid, "cannon", 3)
