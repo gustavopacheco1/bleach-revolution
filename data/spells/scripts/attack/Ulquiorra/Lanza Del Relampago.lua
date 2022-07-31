@@ -1,7 +1,12 @@
 local combat = createCombatObject()
 setCombatParam(combat, COMBAT_PARAM_HITCOLOR, COLOR_PINK)
 setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_ENERGYDAMAGE)
-setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -42.0, 0, -42.0, 0)
+setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -47.0, 0, -47.0, 0)
+
+local combat = createCombatObject()
+setCombatParam(combat, COMBAT_PARAM_HITCOLOR, COLOR_PINK)
+setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_ENERGYDAMAGE)
+setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -66.0, 0, -66.0, 0)
 
 function onCastSpell(cid, var)
     if exhaustion.check(cid, 200) then
@@ -15,8 +20,8 @@ function onCastSpell(cid, var)
             combat,
             4,
             300,
-            90,
-            { id = 733, x = 1, y = 1 }
+            0,
+            { id = 0, x = 0, y = 0 }
         )
     else
         CustomSpell.randomShoot(
@@ -24,8 +29,8 @@ function onCastSpell(cid, var)
             combat,
             4,
             300,
-            93,
-            { id = 748, x = 0, y = 0 }
+            64,
+            { id = 6, x = 0, y = 0 }
         )
     end
 

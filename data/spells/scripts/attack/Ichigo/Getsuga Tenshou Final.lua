@@ -1,4 +1,5 @@
 local combat = createCombatObject()
+setCombatParam(combat, COMBAT_PARAM_HITCOLOR, COLOR_PINK)
 setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_ENERGYDAMAGE)
 setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -120.0, 0, -120.0, 0)
 
@@ -8,13 +9,21 @@ function onCastSpell(cid, var)
 		return false
 	end
 
-	local target_position = getCreaturePosition(getCreatureTarget(cid))
-	doSendMagicEffect({
-		x = target_position.x + 3,
-		y = target_position.y,
-		z = target_position.z
-	}, 15)
+	for i = 1, 1 do
+		addEvent(function()
+			if isCreature(cid) then
+				local target_position = getCreaturePosition(getCreatureTarget(cid))
+				doSendMagicEffect({
+					x = target_position.x + 3,
+					y = target_position.y,
+					z = target_position.z
+				}, 15)
+
+				doCombat(cid, combat, var)
+			end
+		end, i * 150)
+	end
 
 	exhaustion.set(cid, 270, 2)
-	return doCombat(cid, combat, var)
+	return true
 end
