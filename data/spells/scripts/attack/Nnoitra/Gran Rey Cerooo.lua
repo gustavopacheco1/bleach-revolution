@@ -1,21 +1,23 @@
 local combat = createCombatObject()
+setCombatParam(combat, COMBAT_PARAM_HITCOLOR, COLOR_TEAL)
 setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_ENERGYDAMAGE)
-setCombatParam(combat, COMBAT_PARAM_DISTANCEEFFECT, 72)
-setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -86.0, 0, -86.0, 0)
+setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -86, 0, -86, 0)
+setCombatArea(combat, createCombatArea(AREA_CANNON6SQM, AREADIAGONAL_CANNON6SQM))
 
 function onCastSpell(cid, var)
-	if exhaustion.check(cid, 270) then
-		doPlayerSendCancel(cid, "You are exhausted.")
+	if exhaustion.check(cid, "cannon") then
+		doPlayerSendDefaulCancel(cid, RETURNVALUE_YOUAREEXHAUSTED)
 		return false
 	end
 
-	local target_position = getCreaturePosition(getCreatureTarget(cid))
-	doSendMagicEffect({
-		x = target_position.x,
-		y = target_position.y,
-		z = target_position.z
-	}, 565)
+	doCannon(
+		cid,
+		combat,
+		var,
+		{ length = 6, height = 3 },
+		{ east = 618, west = 618, north = 617, south = 617 }
+	)
 
-	exhaustion.set(cid, 270, 2)
-	return doCombat(cid, combat, var)
+	exhaustion.set(cid, "cannon", 2)
+	return true
 end
