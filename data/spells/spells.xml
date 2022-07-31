@@ -235,10 +235,10 @@
 	<instant name="Lanza Del Relampago" words="Lanza Del Relampago" lvl="50" mana="500" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Ulquiorra/Lanza Del Relampago.lua">
 		<vocation id="6"/>
 	</instant>
-	<instant name="Ceero" words="Ceeroo" lvl="75" mana="500" aggressive="1" range="6" blockwalls="1" needtarget="1" exhaustion="150" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Ulquiorra/Ceeroo.lua">
+	<instant name="Ceeroo" words="Ceeroo" lvl="70" mana="500" maglv="1" prem="0" direction="1" exhaustion="1000" needlearn="0" event="script" value="attack/Ulquiorra/Ceeroo.lua">
 		<vocation id="6"/>
 	</instant>
-	<instant name="Cero Oscuras" words="Cero Oscuras" lvl="100" mana="500" aggressive="1" range="6" blockwalls="1" needtarget="1" exhaustion="1000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Ulquiorra/Cero Oscuras.lua">
+	<instant name="Cero Oscuras" words="Cero Oscuras" lvl="100" mana="500" maglv="1" prem="0" direction="1" exhaustion="1000" needlearn="0" event="script" value="attack/Ulquiorra/Cero Oscuras.lua">
 		<vocation id="6"/>
 	</instant>
 
