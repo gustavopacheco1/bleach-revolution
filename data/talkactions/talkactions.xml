@@ -52,9 +52,10 @@
 	<talkaction access="0-6" words="!serverinfo;/serverinfo" event="script" value="serverinfo.lua"/>
 	<talkaction access="0-6" words="!commands;/commands" event="script" value="commands.lua"/>
 	<talkaction access="0-6" words="!pvp;/pvp" event="script" value="pvp.lua"/>
-	<talkaction access="0-6" words="!techniques;!tecnicas;!spells" event="script" value="techniques.lua"/>
+	<talkaction access="0-6" words="!techniques;!tecnicas;!técnicas;!spells" event="script" value="techniques.lua"/>
 	<talkaction access="0-6" words="!language;!idioma" event="script" value="language.lua"/>
 	<talkaction access="0-6" words="!show;!mostrar" event="script" value="show.lua"/>
+	<talkaction access="0-6" words="!autoloot" event="script" value="autoloot.lua"/>
 
 	<!-- Houses -->
 	<talkaction access="0-6" words="alana res;/buyhouse" filter="word-spaced" event="function" value="houseBuy"/>

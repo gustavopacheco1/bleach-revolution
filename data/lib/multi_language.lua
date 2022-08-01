@@ -1,6 +1,6 @@
 MultiLanguage = {
 	doPlayerSendCancel = function(cid, message_en, message_pt)
-		if getPlayerStorageValue(cid, "language") == "en" then
+		if getCreatureStorage(cid, "language") == "en" then
 			return doPlayerSendCancel(cid, message_en)
 		end
 
@@ -8,7 +8,7 @@ MultiLanguage = {
 	end,
 
 	doPlayerSendTextMessage = function(cid, MessageClass, message_en, message_pt)
-		if getPlayerStorageValue(cid, "language") == "en" then
+		if getCreatureStorage(cid, "language") == "en" then
 			return doPlayerSendTextMessage(cid, MessageClass, message_en)
 		end
 
@@ -16,7 +16,7 @@ MultiLanguage = {
 	end,
 
 	doCreatureSay = function(uid, cid, text_en, text_pt)
-        if getPlayerStorageValue(cid, "language") == "en" then
+        if getCreatureStorage(cid, "language") == "en" then
             return doCreatureSay(uid, text_en)
         end
 
@@ -24,10 +24,18 @@ MultiLanguage = {
     end,
 
 	doPlayerPopupFYI = function(cid, message_en, message_pt)
-		if getPlayerStorageValue(cid, "language") == "en" then
+		if getCreatureStorage(cid, "language") == "en" then
 			return doPlayerPopupFYI(cid, message_en)
 		end
 
 		return doPlayerPopupFYI(cid, message_pt)
+	end,
+
+	doPlayerSendChannelMessage = function(cid, author, MessageClasses, channel, message_en, message_pt)
+		if getCreatureStorage(cid, "language") == "en" then
+			return doPlayerSendChannelMessage(cid, author, message_en, MessageClasses, channel)
+		end
+
+		return doPlayerSendChannelMessage(cid, author, message_pt, MessageClasses, channel)
 	end
 }
