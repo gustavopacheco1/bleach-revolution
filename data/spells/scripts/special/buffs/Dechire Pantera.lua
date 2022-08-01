@@ -6,6 +6,10 @@ local spell = {
 	outfit = 408
 }
 
+local condition = createConditionObject(CONDITION_ATTRIBUTES)
+setConditionParam(condition, CONDITION_PARAM_TICKS, spell.duration * 1000)
+setConditionParam(condition, CONDITION_PARAM_BUFF, true)
+
 function onCastSpell(cid, var)
 	if checkSpecialCooldown(cid) then
 		return false
@@ -33,6 +37,7 @@ function onCastSpell(cid, var)
 		end
 	end, spell.duration * 1000)
 
+	doAddCondition(cid, condition)
 	doSetCreatureOutfit(cid, { lookType = spell.outfit }, spell.duration * 1000)
 	exhaustion.set(cid, "special", spell.cooldown)
 	return true
