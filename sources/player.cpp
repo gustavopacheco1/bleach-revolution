@@ -432,11 +432,14 @@ int32_t Player::getArmor() const
 int32_t Player::getCriticalHitChance() const
 {
 	int32_t i = SLOT_FIRST, crit = 0;
+
 	for (; i < SLOT_LAST; ++i)
 	{
 		if (Item *item = getInventoryItem((slots_t)i))
 			crit += item->getCriticalHitChance();
 	}
+
+	crit += getSkill(SKILL_CLUB, SKILL_LEVEL) / 3;
 
 	return crit;
 }
@@ -5600,12 +5603,6 @@ bool Player::transferMoneyTo(const std::string &name, uint64_t amount)
 	}
 
 	return true;
-}
-
-void Player::sendCritical() const
-{
-	if (g_config.getBool(ConfigManager::DISPLAY_CRITICAL_HIT))
-		g_game.addAnimatedText(getPosition(), COLOR_DARKRED, "CRITICAL!");
 }
 
 bool Player::addOfflineTrainingTries(skills_t skill, int32_t tries)
