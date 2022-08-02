@@ -1,7 +1,7 @@
 local combat = createCombatObject()
 setCombatParam(combat, COMBAT_PARAM_HITCOLOR, COLOR_TEAL)
 setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_ENERGYDAMAGE)
-setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -101, 0, -101, 0)
+setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -101, 0, -116, 0)
 setCombatArea(combat, createCombatArea(AREA_CANNON6SQM, AREADIAGONAL_CANNON6SQM))
 
 function onCastSpell(cid, var)
