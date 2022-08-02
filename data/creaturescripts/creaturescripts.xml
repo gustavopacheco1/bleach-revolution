@@ -19,12 +19,14 @@
 	<event type="statschange" name="Death" event="script" value="death.lua"/>
 	<event type="death" name="AmuletOfLoss" event="script" value="amulet_of_loss.lua"/>
 	<event type="login" name="FirstItems" event="script" value="first_items.lua"/>
+	<event type="kill" name="TutorialTask" event="script" value="tutorial_task.lua"/>
+	<event type="login" name="SkillsStagesLogin" event="script" value="skills_stages.lua"/>
+	<event type="advance" name="SkillsStagesAdvance" event="script" value="skills_stages.lua"/>
 
 	<!-- Monsters Events -->
 	<event type="statschange" name="TrainerShielding" event="script" value="monsters_events/trainer_shielding.lua"/>
 	<event type="death" name="MonsterTeleportOnDeath" event="script" value="monsters_events/monster_teleport_ondeath.lua"/>
 	<event type="death" name="YamamotoTask" event="script" value="monsters_events/yamamoto_task.lua"/>
-	<event type="kill" name="TutorialTask" event="script" value="monsters_events/tutorial_task.lua"/>
 	<event type="death" name="BossDeath" event="script" value="monsters_events/boss_death.lua"/>
 
 	<!-- Spells -->
