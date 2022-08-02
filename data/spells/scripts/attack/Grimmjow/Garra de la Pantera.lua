@@ -1,7 +1,6 @@
 local combat = createCombatObject()
 setCombatParam(combat, COMBAT_PARAM_HITCOLOR, COLOR_PINK)
 setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_ENERGYDAMAGE)
-setCombatParam(combat, COMBAT_PARAM_DISTANCEEFFECT, 23)
 setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -67.0, 0, -82.0, 0)
 
 function onCastSpell(cid, var)
@@ -11,22 +10,22 @@ function onCastSpell(cid, var)
     end
 
     if hasCreatureCondition(cid, CONDITION_ATTRIBUTES) then
-        CustomSpell.skyShoot(
+        CustomSpell.randomShoot(
             cid,
             combat,
             4,
             300,
             91,
-            { id = 227, x = 1, y = 1 }
+            { id = 227, x = 0, y = 0 }
         )
     else
-        CustomSpell.randomEffect(
+        CustomSpell.randomShoot(
             cid,
             combat,
             4,
             300,
             23,
-            { id = 466, x = 1, y = 1 }
+            { id = 466, x = 0, y = 0 }
         )
     end
 
