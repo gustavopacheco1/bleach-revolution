@@ -422,7 +422,7 @@
 	<instant name="Garra de la Pantera" words="Garra de la Pantera" lvl="50" mana="500" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="300" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Grimmjow/Garra de la Pantera.lua">
 		<vocation id="18"/>
 	</instant>
-	<instant name="Gran Rey Cero" words="Gran Rey Ceroo" lvl="75" mana="500" maglv="1" prem="0" direction="1" exhaustion="1000" needlearn="0" event="script" value="attack/Grimmjow/Gran Rey Cero.lua">
+	<instant name="Gran Rey Cero" words="Gran Rey Cero" lvl="75" mana="500" maglv="1" prem="0" direction="1" exhaustion="1000" needlearn="0" event="script" value="attack/Grimmjow/Gran Rey Cero.lua">
 		<vocation id="18"/>
 	</instant>
 	<instant name="Desgarron" words="Desgarron" lvl="100" mana="500" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="100" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Grimmjow/Desgarron.lua">
