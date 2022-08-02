@@ -916,7 +916,6 @@ public:
 			client->sendRuleViolationCancel(name);
 	}
 
-	void sendCritical() const;
 	void sendPlayerIcons(Player *player);
 	void sendStats();
 

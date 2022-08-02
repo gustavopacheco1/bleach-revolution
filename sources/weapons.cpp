@@ -359,10 +359,10 @@ bool Weapon::useFist(Player *player, Creature *target)
 	int32_t attackSkill = player->getSkill(SKILL_FIST, SKILL_LEVEL), attackValue = g_config.getNumber(ConfigManager::FIST_BASE_ATTACK);
 
 	double maxDamage = Weapons::getMaxWeaponDamage(player->getLevel(), attackSkill, attackValue, attackFactor);
-	if (player->getCriticalHitChance() + g_config.getNumber(ConfigManager::CRITICAL_HIT_CHANCE) >= random_range(1, 100))
+	if (player->getCriticalHitChance() >= random_range(1, 100))
 	{
 		maxDamage *= g_config.getDouble(ConfigManager::CRITICAL_HIT_MUL);
-		player->sendCritical();
+		g_game.addAnimatedText(target->getPosition(), COLOR_GREEN, "Critical!");
 		isCritical = true;
 	}
 
@@ -613,19 +613,19 @@ bool WeaponMelee::getSkillType(const Player *player, const Item *item,
 	return false;
 }
 
-int32_t WeaponMelee::getWeaponDamage(const Player *player, const Creature *, const Item *item, bool &isCritical, bool maxDamage /*= false*/) const
+int32_t WeaponMelee::getWeaponDamage(const Player *player, const Creature *target, const Item *item, bool &isCritical, bool maxDamage /*= false*/) const
 {
 	int32_t attackSkill = player->getWeaponSkill(item), attackValue = std::max((int32_t)0,
 																			   (int32_t(item->getAttack() + item->getExtraAttack()) - item->getElementDamage()));
 	float attackFactor = player->getAttackFactor();
 
 	double maxValue = Weapons::getMaxWeaponDamage(player->getLevel(), attackSkill, attackValue, attackFactor);
-	if (player->getCriticalHitChance() + g_config.getNumber(ConfigManager::CRITICAL_HIT_CHANCE) >= random_range(1, 100))
+	if (player->getCriticalHitChance() >= random_range(1, 100))
 	{
 		isCritical = true;
 		maxDamage = true;
 		maxValue *= g_config.getDouble(ConfigManager::CRITICAL_HIT_MUL);
-		player->sendCritical();
+		g_game.addAnimatedText(target->getPosition(), COLOR_GREEN, "Critical!");
 	}
 
 	Vocation *vocation = player->getVocation();
@@ -885,12 +885,12 @@ int32_t WeaponDistance::getWeaponDamage(const Player *player, const Creature *ta
 	float attackFactor = player->getAttackFactor();
 
 	double maxValue = Weapons::getMaxWeaponDamage(player->getLevel(), attackSkill, attackValue, attackFactor);
-	if (player->getCriticalHitChance() + g_config.getNumber(ConfigManager::CRITICAL_HIT_CHANCE) >= random_range(1, 100))
+	if (player->getCriticalHitChance() >= random_range(1, 100))
 	{
 		isCritical = true;
 		maxDamage = true;
 		maxValue *= g_config.getDouble(ConfigManager::CRITICAL_HIT_MUL);
-		player->sendCritical();
+		g_game.addAnimatedText(target->getPosition(), COLOR_GREEN, "Critical!");
 	}
 
 	Vocation *vocation = player->getVocation();
@@ -959,7 +959,7 @@ bool WeaponWand::configureWeapon(const ItemType &it)
 	return Weapon::configureWeapon(it);
 }
 
-int32_t WeaponWand::getWeaponDamage(const Player *player, const Creature *, const Item *, bool &isCritical, bool maxDamage /* = false*/) const
+int32_t WeaponWand::getWeaponDamage(const Player *player, const Creature *target, const Item *, bool &isCritical, bool maxDamage /* = false*/) const
 {
 	float multiplier = 1.0f;
 	if (Vocation *vocation = player->getVocation())
@@ -968,7 +968,7 @@ int32_t WeaponWand::getWeaponDamage(const Player *player, const Creature *, cons
 	int32_t maxValue = (int32_t)(maxChange * multiplier);
 	if (maxDamage)
 	{
-		player->sendCritical();
+		g_game.addAnimatedText(target->getPosition(), COLOR_GREEN, "Critical!");
 		return -maxValue;
 	}
 
