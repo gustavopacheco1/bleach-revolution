@@ -4,6 +4,12 @@
 	<movevent type="StepIn" itemid="293" event="script" value="decay.lua"/>
 	<movevent type="StepIn" itemid="461" event="script" value="decay.lua"/>
 
+	<!-- Running Machine -->
+	<movevent type="StepIn" actionid="8000" event="script" value="running_machine.lua"/>
+	<movevent type="StepIn" actionid="8001" event="script" value="running_machine.lua"/>
+	<movevent type="StepIn" itemid="16453;16454" event="script" value="running_machine.lua"/>
+	<movevent type="StepOut" itemid="16453;16454" event="script" value="running_machine.lua"/>
+
 	<!-- Tutorial -->
 	<movevent type="StepIn" actionid="60000" event="script" value="tutorial/language.lua"/>
 	<movevent type="StepIn" actionid="60001" event="script" value="tutorial/techniques.lua"/>

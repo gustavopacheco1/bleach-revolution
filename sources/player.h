@@ -983,10 +983,10 @@ protected:
 	void updateWeapon();
 	void updateBaseSpeed()
 	{
-		if (!hasFlag(PlayerFlag_SetMaxSpeed))
-			baseSpeed = vocation->getBaseSpeed() + (2 * (level - 1));
-		else
+		if (hasFlag(PlayerFlag_SetMaxSpeed))
 			baseSpeed = SPEED_MAX;
+		else
+			baseSpeed = vocation->getBaseSpeed() + (8 * (getSkill(SKILL_FISH, SKILL_LEVEL) - 1));
 	}
 
 	void setNextWalkActionTask(SchedulerTask *task);

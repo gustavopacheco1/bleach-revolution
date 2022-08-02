@@ -177,6 +177,13 @@ function doMutePlayer(cid, time, sub)
 	return doAddCondition(cid, condition, false)
 end
 
+function doPlayerDispelCondition(cid, dispelCondition)
+	local condition = createConditionObject(CONDITION_NONE)
+	setConditionParam(condition, COMBAT_PARAM_DISPEL, dispelCondition)
+
+	return doAddCondition(cid, condition, false)
+end
+
 function doSummonCreature(name, pos)
 	local cid = doCreateMonster(name, pos, false, false)
 	if (not cid) then
@@ -676,18 +683,17 @@ end
 function doPlayerFormula(cid)
 	local player_level = getPlayerLevel(cid)
 	local player_vocation = getPlayerVocation(cid)
+
+	-- Health
 	local extra_life = getPlayerStorageValue(cid, "extra_life")
-
 	local formula_health = (player_level * getVocationInfo(player_vocation).healthGain) + extra_life
-	local formula_mana = (player_level * getVocationInfo(player_vocation).manaGain)
-
-	-- Set max health
 	if getCreatureMaxHealth(cid) ~= formula_health then
 		setCreatureMaxHealth(cid, formula_health)
 		doCreatureAddHealth(cid, getCreatureMaxHealth(cid))
 	end
 
-	-- Set max mana
+	-- Mana
+	local formula_mana = (player_level * getVocationInfo(player_vocation).manaGain)
 	if getCreatureMaxMana(cid) ~= formula_mana then
 		setCreatureMaxMana(cid, formula_mana)
 		doCreatureAddMana(cid, getCreatureMaxMana(cid))
