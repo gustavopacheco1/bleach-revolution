@@ -1437,63 +1437,40 @@ std::string getCombatName(CombatType_t combatType)
 	return "unknown";
 }
 
-std::string getSkillName(uint16_t skillId, bool suffix /* = true*/)
+std::string getSkillName(uint16_t skillId)
 {
 	switch (skillId)
 	{
 	case SKILL_FIST:
-	{
-		std::string tmp = "fist";
-		if (suffix)
-			tmp += " fighting";
+		return "attack speed";
 
-		return tmp;
-	}
 	case SKILL_CLUB:
-	{
-		std::string tmp = "club";
-		if (suffix)
-			tmp += " fighting";
+		return "critical";
 
-		return tmp;
-	}
 	case SKILL_SWORD:
-	{
-		std::string tmp = "sword";
-		if (suffix)
-			tmp += " fighting";
+		return "sword";
 
-		return tmp;
-	}
 	case SKILL_AXE:
-	{
-		std::string tmp = "axe";
-		if (suffix)
-			tmp += " fighting";
+		return "glove";
 
-		return tmp;
-	}
 	case SKILL_DIST:
-	{
-		std::string tmp = "distance";
-		if (suffix)
-			tmp += " fighting";
+		return "distance";
 
-		return tmp;
-	}
 	case SKILL_SHIELD:
-		return "shielding";
+		return "dodge";
+
 	case SKILL_FISH:
-		return "fishing";
+		return "agility";
+
 	case SKILL__MAGLEVEL:
-		return "magic level";
+		return "reiatsu level";
+
 	case SKILL__LEVEL:
 		return "level";
-	default:
-		break;
-	}
 
-	return "unknown";
+	default:
+		return "unknown";
+	}
 }
 
 std::string getReason(int32_t reasonId)

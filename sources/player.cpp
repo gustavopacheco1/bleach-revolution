@@ -1085,7 +1085,7 @@ void Player::sendCancelMessage(ReturnValue message) const
 		break;
 
 	case RET_NOTREQUIREDLEVELTOUSERUNE:
-		sendCancel("You do not have the required magic level to use this rune.");
+		sendCancel("You do not have the required reiatsu level to use this rune.");
 		break;
 
 	case RET_YOUAREALREADYTRADING:
@@ -1109,11 +1109,11 @@ void Player::sendCancelMessage(ReturnValue message) const
 		break;
 
 	case RET_NOTENOUGHMAGICLEVEL:
-		sendCancel("You do not have enough magic level.");
+		sendCancel("You do not have enough reiatsu level.");
 		break;
 
 	case RET_NOTENOUGHMANA:
-		sendCancel("You do not have enough mana.");
+		sendCancel("You do not have enough reiatsu.");
 		break;
 
 	case RET_NOTENOUGHSOUL:
@@ -2092,7 +2092,7 @@ void Player::addManaSpent(uint64_t amount, bool useMultiplier /* = true*/)
 		manaSpent = 0;
 
 		s.str("");
-		s << "You advanced to magic level " << ++magLevel << ".";
+		s << "You advanced to reiatsu level " << ++magLevel << ".";
 		sendTextMessage(MSG_EVENT_ADVANCE, s.str());
 
 		CreatureEventList advanceEvents = getCreatureEvents(CREATURE_EVENT_ADVANCE);
@@ -5665,7 +5665,7 @@ bool Player::addOfflineTrainingTries(skills_t skill, int32_t tries)
 		}
 
 		newSkillValue = magLevel;
-		ss << "You advanced to magic level " << magLevel << ".";
+		ss << "You advanced to reiatsu level " << magLevel << ".";
 		sendTextMessage(MSG_EVENT_ADVANCE, ss.str().c_str());
 		ss.str("");
 	}

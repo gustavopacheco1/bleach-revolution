@@ -164,7 +164,7 @@ WeaponType_t getWeaponType(const std::string &strValue);
 void getCombatDetails(CombatType_t combatType, MagicEffect_t &magicEffect, Color_t &textColor);
 
 std::string getCombatName(CombatType_t combatType);
-std::string getSkillName(uint16_t skillId, bool suffix = true);
+std::string getSkillName(uint16_t skillId);
 std::string getReason(int32_t reasonId);
 std::string getAction(ViolationAction_t actionId, bool ipBanishment);
 std::string getWeaponName(WeaponType_t weaponType);

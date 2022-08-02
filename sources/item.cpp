@@ -859,7 +859,7 @@ std::string Item::getDescription(const ItemType &it, int32_t lookDistance, const
 			if (g_config.getBool(ConfigManager::USE_RUNE_REQUIREMENTS) && it.runeMagLevel > 0)
 			{
 				begin = false;
-				s << " " << (begin ? "with" : "and") << " magic level " << it.runeMagLevel;
+				s << " " << (begin ? "with" : "and") << " reiatsu level " << it.runeMagLevel;
 			}
 
 			if (g_config.getBool(ConfigManager::USE_RUNE_REQUIREMENTS) && !begin)
@@ -987,7 +987,7 @@ std::string Item::getDescription(const ItemType &it, int32_t lookDistance, const
 				else
 					s << ", ";
 
-				s << "magic level " << std::showpos << (int32_t)it.abilities->stats[STAT_MAGICLEVEL] << std::noshowpos;
+				s << "reiatsu level " << std::showpos << (int32_t)it.abilities->stats[STAT_MAGICLEVEL] << std::noshowpos;
 			}
 
 			int32_t show = it.abilities->absorb[COMBAT_ALL];
@@ -1295,7 +1295,7 @@ std::string Item::getDescription(const ItemType &it, int32_t lookDistance, const
 				else
 					s << ", ";
 
-				s << "magic level " << std::showpos << (int32_t)it.abilities->stats[STAT_MAGICLEVEL] << std::noshowpos;
+				s << "reiatsu level " << std::showpos << (int32_t)it.abilities->stats[STAT_MAGICLEVEL] << std::noshowpos;
 			}
 
 			int32_t show = it.abilities->absorb[COMBAT_ALL];
