@@ -21751,7 +21751,7 @@
 	</item>
 
 	<!-- Barragan Set -->
-	<item id="15001" name="Barragan Helmet">
+	<item id="15001" article="a" name="Barragan Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="100"/>
 		<attribute key="manaGain" value="5000"/>
@@ -21760,7 +21760,7 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15004" name="Barragan Armor">
+	<item id="15004" article="a" name="Barragan Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="150"/>
 		<attribute key="manaGain" value="5000"/>
@@ -21769,7 +21769,7 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="15003" name="Barragan Legs">
+	<item id="15003" article="a" name="Barragan Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="100"/>
 		<attribute key="manaGain" value="5000"/>
@@ -21778,7 +21778,7 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
-	<item id="15002" name="Barragan Boots">
+	<item id="15002" article="a" name="Barragan Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="70"/>
 		<attribute key="speed" value="120"/>
@@ -21790,12 +21790,12 @@
 	</item>
 
 	<!-- Founder Set -->
-	<item id="15715" name="Founder Helmet">
+	<item id="15715" article="a" name="Founder Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="60"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15716" name="Founder Armor">
+	<item id="15716" article="a" name="Founder Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="60"/>
 		<attribute key="manaGain" value="200"/>
@@ -21804,7 +21804,7 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="15717" name="Founder Legs">
+	<item id="15717" article="a" name="Founder Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="60"/>
 		<attribute key="manaGain" value="200"/>
@@ -21813,7 +21813,7 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
-	<item id="15718" name="Founder Boots">
+	<item id="15718" article="a" name="Founder Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="60"/>
 		<attribute key="speed" value="30"/>
@@ -21823,7 +21823,7 @@
 	</item>
 
 	<!-- Vasto Lorde Set -->
-	<item id="15723" name="Vasto Lorde Helmet">
+	<item id="15723" article="a" name="Vasto Lorde Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="70"/>
 		<attribute key="magicpoints" value="5"/>
@@ -21833,7 +21833,7 @@
 		<attribute key="skillShield" value="5"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15726" name="Vasto Lorde Armor">
+	<item id="15726" article="a" name="Vasto Lorde Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="70"/>
 		<attribute key="healthGain" value="4500"/>
@@ -21846,7 +21846,7 @@
 		<attribute key="skillShield" value="5"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="15727" name="Vasto Lorde Legs">
+	<item id="15727" article="a" name="Vasto Lorde Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="70"/>
 		<attribute key="healthGain" value="4500"/>
@@ -21859,7 +21859,7 @@
 		<attribute key="skillShield" value="5"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
-	<item id="15722" name="Vasto Lorde Boots">
+	<item id="15722" article="a" name="Vasto Lorde Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="70"/>
 		<attribute key="speed" value="45"/>
@@ -21872,7 +21872,7 @@
 	</item>
 
 	<!-- Vizard Set -->
-	<item id="16088" name="Vizard Helmet">
+	<item id="16088" article="a" name="Vizard Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="50"/>
 		<attribute key="magicpoints" value="3"/>
@@ -21881,7 +21881,7 @@
 		<attribute key="skillDist" value="3"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="16087" name="Vizard Armor">
+	<item id="16087" article="a" name="Vizard Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="50"/>
 		<attribute key="healthGain" value="3500"/>
@@ -21893,7 +21893,7 @@
 		<attribute key="skillDist" value="3"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="16086" name="Vizard Legs">
+	<item id="16086" article="a" name="Vizard Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="50"/>
 		<attribute key="healthGain" value="3500"/>
@@ -21905,7 +21905,7 @@
 		<attribute key="skillDist" value="3"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
-	<item id="16085" name="Vizard Boots">
+	<item id="16085" article="a" name="Vizard Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="50"/>
 		<attribute key="speed" value="30"/>
@@ -21917,7 +21917,7 @@
 	</item>
 
 	<!-- Ultimate Vizard Set -->
-	<item id="16119" name="Ultimate Vizard Helmet">
+	<item id="16119" article="a" name="Ultimate Vizard Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="55"/>
 		<attribute key="manaGain" value="1100"/>
@@ -21926,7 +21926,7 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="16120" name="Ultimate Vizard Armor">
+	<item id="16120" article="a" name="Ultimate Vizard Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="55"/>
 		<attribute key="manaGain" value="1100"/>
@@ -21935,7 +21935,7 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="16121" name="Ultimate Vizard Legs">
+	<item id="16121" article="a" name="Ultimate Vizard Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="55"/>
 		<attribute key="manaGain" value="1100"/>
@@ -21944,7 +21944,7 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
-	<item id="16122" name="Ultimate Vizard Boots">
+	<item id="16122" article="a" name="Ultimate Vizard Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="55"/>
 		<attribute key="speed" value="32"/>
@@ -21956,26 +21956,26 @@
 	</item>
 
 	<!-- Kaname Set -->
-	<item id="16089" name="Kaname Helmet">
+	<item id="16089" article="a" name="Kaname Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="35"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="16090" name="Kaname Armor">
+	<item id="16090" article="a" name="Kaname Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="35"/>
 		<attribute key="healthGain" value="1800"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="16091" name="Kaname Legs">
+	<item id="16091" article="a" name="Kaname Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="35"/>
 		<attribute key="healthGain" value="1800"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
-	<item id="16092" name="Kaname Boots">
+	<item id="16092" article="a" name="Kaname Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="35"/>
 		<attribute key="speed" value="23"/>
@@ -21983,46 +21983,46 @@
 	</item>
 
 	<!-- Nnoitra Set -->
-	<item id="16093" name="Nnoitra Helmet">
+	<item id="16093" article="a" name="Nnoitra Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="40"/>
-		<attribute key="skillSword" value="2"/>
-		<attribute key="skillClub" value="2"/>
-		<attribute key="skillDist" value="2"/>
+		<attribute key="skillSword" value="1"/>
+		<attribute key="skillClub" value="1"/>
+		<attribute key="skillDist" value="1"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="16094" name="Nnoitra Armor">
+	<item id="16094" article="a" name="Nnoitra Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="40"/>
 		<attribute key="healthGain" value="2500"/>
 		<attribute key="healthTicks" value="1000"/>
-		<attribute key="skillSword" value="2"/>
-		<attribute key="skillClub" value="2"/>
-		<attribute key="skillDist" value="2"/>
+		<attribute key="skillSword" value="1"/>
+		<attribute key="skillClub" value="1"/>
+		<attribute key="skillDist" value="1"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="16095" name="Nnoitra Legs">
+	<item id="16095" article="a" name="Nnoitra Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="40"/>
 		<attribute key="healthGain" value="2500"/>
 		<attribute key="healthTicks" value="1000"/>
-		<attribute key="skillSword" value="2"/>
-		<attribute key="skillClub" value="2"/>
-		<attribute key="skillDist" value="2"/>
+		<attribute key="skillSword" value="1"/>
+		<attribute key="skillClub" value="1"/>
+		<attribute key="skillDist" value="1"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
-	<item id="16096" name="Nnoitra Boots">
+	<item id="16096" article="a" name="Nnoitra Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="40"/>
 		<attribute key="speed" value="25"/>
-		<attribute key="skillSword" value="2"/>
-		<attribute key="skillClub" value="2"/>
-		<attribute key="skillDist" value="2"/>
+		<attribute key="skillSword" value="1"/>
+		<attribute key="skillClub" value="1"/>
+		<attribute key="skillDist" value="1"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
 	<!-- Ultimate Nnoitra Set -->
-	<item id="16123" name="Ultimate Nnoitra Helmet">
+	<item id="16123" article="a" name="Ultimate Nnoitra Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="45"/>
 		<attribute key="manaGain" value="800"/>
@@ -22031,7 +22031,7 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="16124" name="Ultimate Nnoitra Armor">
+	<item id="16124" article="a" name="Ultimate Nnoitra Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="45"/>
 		<attribute key="manaGain" value="800"/>
@@ -22040,7 +22040,7 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="16125" name="Ultimate Nnoitra Legs">
+	<item id="16125" article="a" name="Ultimate Nnoitra Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="45"/>
 		<attribute key="manaGain" value="800"/>
@@ -22049,7 +22049,7 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
-	<item id="16126" name="Ultimate Nnoitra Boots">
+	<item id="16126" article="a" name="Ultimate Nnoitra Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="45"/>
 		<attribute key="speed" value="27"/>
@@ -22061,26 +22061,26 @@
 	</item>
 
 	<!-- Kensei Set -->
-	<item id="16097" name="Kensei Helmet">
+	<item id="16097" article="a" name="Kensei Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="15"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="16098" name="Kensei Armor">
+	<item id="16098" article="a" name="Kensei Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="15"/>
 		<attribute key="healthGain" value="600"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="16099" name="Kensei Legs">
+	<item id="16099" article="a" name="Kensei Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="15"/>
 		<attribute key="healthGain" value="600"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
-	<item id="16100" name="Kensei Boots">
+	<item id="16100" article="a" name="Kensei Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="15"/>
 		<attribute key="speed" value="15"/>
@@ -22088,26 +22088,26 @@
 	</item>
 
 	<!-- Halibel Set -->
-	<item id="11384" name="Halibel Helmet">
+	<item id="11384" article="a" name="Halibel Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="30"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="16101" name="Halibel Armor">
+	<item id="16101" article="a" name="Halibel Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="30"/>
 		<attribute key="healthGain" value="1200"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="16102" name="Halibel Legs">
+	<item id="16102" article="a" name="Halibel Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="30"/>
 		<attribute key="healthGain" value="1200"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
-	<item id="16103" name="halibel Boots">
+	<item id="16103" article="a" name="halibel Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="30"/>
 		<attribute key="speed" value="25"/>
@@ -22115,40 +22115,52 @@
 	</item>
 
 	<!--  Zangetsu Set -->
-	<item id="16107" name="Zangetsu Helmet">
+	<item id="16107" article="a" name="Zangetsu Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="45"/>
 		<attribute key="magicpoints" value="3"/>
+		<attribute key="skillSword" value="2"/>
+		<attribute key="skillClub" value="2"/>
+		<attribute key="skillDist" value="2"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="16108" name="Zangetsu Armor">
+	<item id="16108" article="a" name="Zangetsu Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="45"/>
 		<attribute key="healthGain" value="3000"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="absorbPercentAll" value="1"/>
 		<attribute key="magicpoints" value="3"/>
+		<attribute key="skillSword" value="2"/>
+		<attribute key="skillClub" value="2"/>
+		<attribute key="skillDist" value="2"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="16109" name="Zangetsu Legs">
+	<item id="16109" article="a" name="Zangetsu Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="45"/>
 		<attribute key="healthGain" value="3000"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="absorbPercentAll" value="1"/>
 		<attribute key="magicpoints" value="3"/>
+		<attribute key="skillSword" value="2"/>
+		<attribute key="skillClub" value="2"/>
+		<attribute key="skillDist" value="2"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
-	<item id="16110" name="Zangetsu Boots">
+	<item id="16110" article="a" name="Zangetsu Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="45"/>
 		<attribute key="speed" value="27"/>
 		<attribute key="magicpoints" value="3"/>
+		<attribute key="skillSword" value="2"/>
+		<attribute key="skillClub" value="2"/>
+		<attribute key="skillDist" value="2"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
 	<!--  Ultimate Zangetsu Set -->
-	<item id="16127" name="Ultimate Zangetsu Helmet">
+	<item id="16127" article="a" name="Ultimate Zangetsu Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="50"/>
 		<attribute key="manaGain" value="900"/>
@@ -22157,7 +22169,7 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="16128" name="Ultimate Zangetsu Armor">
+	<item id="16128" article="a" name="Ultimate Zangetsu Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="50"/>
 		<attribute key="manaGain" value="900"/>
@@ -22166,7 +22178,7 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="16129" name="Ultimate Zangetsu Legs">
+	<item id="16129" article="a" name="Ultimate Zangetsu Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="50"/>
 		<attribute key="manaGain" value="900"/>
@@ -22175,7 +22187,7 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
-	<item id="16130" name="Ultimate Zangetsu Boots">
+	<item id="16130" article="a" name="Ultimate Zangetsu Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="50"/>
 		<attribute key="speed" value="30"/>
@@ -22187,26 +22199,26 @@
 	</item>
 
 	<!-- Samurai Set -->
-	<item id="15077" name="Samurai Helmet">
+	<item id="15077" article="a" name="Samurai Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="10"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15076" name="Samurai Armor">
+	<item id="15076" article="a" name="Samurai Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="10"/>
 		<attribute key="healthGain" value="400"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="15078" name="Samurai Legs">
+	<item id="15078" article="a" name="Samurai Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="10"/>
 		<attribute key="healthGain" value="400"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
-	<item id="15075" name="Samurai Boots">
+	<item id="15075" article="a" name="Samurai Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="10"/>
 		<attribute key="speed" value="10"/>
@@ -22214,7 +22226,7 @@
 	</item>
 
 	<!-- Ninja -->
-	<item id="15080" name="Ninja Helmet">
+	<item id="15080" article="a" name="Ninja Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="13"/>
 		<attribute key="manaGain" value="500"/>
@@ -22223,7 +22235,7 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15081" name="Ninja Armor">
+	<item id="15081" article="a" name="Ninja Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="13"/>
 		<attribute key="manaGain" value="500"/>
@@ -22232,7 +22244,7 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="15082" name="Ninja Legs">
+	<item id="15082" article="a" name="Ninja Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="13"/>
 		<attribute key="manaGain" value="500"/>
@@ -22243,78 +22255,78 @@
 	</item>
 
 	<!-- Urahara set -->
-	<item id="15724" name="Urahara Helmet">
+	<item id="15724" article="a" name="Urahara Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15111" name="Urahara Armor">
+	<item id="15111" article="a" name="Urahara Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="healthGain" value="1000"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="16115" name="Urahara Legs">
+	<item id="16115" article="a" name="Urahara Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="healthGain" value="1000"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
-	<item id="15815" name="Urahara Boots">
+	<item id="15815" article="a" name="Urahara Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="speed" value="20"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
-	<item id="15244" name="Elite Urahara Helmet">
+	<item id="15244" article="a" name="Elite Urahara Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15300" name="Elite Urahara Armor">
+	<item id="15300" article="a" name="Elite Urahara Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="healthGain" value="1100"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="16435" name="Elite Urahara Legs">
+	<item id="16435" article="a" name="Elite Urahara Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="healthGain" value="1100"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
-	<item id="15366" name="Elite Urahara Boots">
+	<item id="15366" article="a" name="Elite Urahara Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="speed" value="20"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
-	<item id="15245" name="Furie Urahara Helmet">
+	<item id="15245" article="a" name="Furie Urahara Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15301" name="Furie Urahara Armor">
+	<item id="15301" article="a" name="Furie Urahara Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="healthGain" value="1150"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="16436" name="Furie Urahara Legs">
+	<item id="16436" article="a" name="Furie Urahara Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="healthGain" value="1150"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
-	<item id="15367" name="Furie Urahara Boots">
+	<item id="15367" article="a" name="Furie Urahara Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="speed" value="20"/>
@@ -22322,78 +22334,78 @@
 	</item>
 
 	<!-- Mummy Set -->
-	<item id="10690" name="Mummy Helmet">
+	<item id="10690" article="a" name="Mummy Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="17"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="10687" name="Mummy Armor">
+	<item id="10687" article="a" name="Mummy Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="17"/>
 		<attribute key="healthGain" value="500"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="10688" name="Mummy Legs">
+	<item id="10688" article="a" name="Mummy Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="17"/>
 		<attribute key="healthGain" value="500"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
-	<item id="10689" name="Mummy Boots">
+	<item id="10689" article="a" name="Mummy Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="17"/>
 		<attribute key="speed" value="15"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
-	<item id="15268" name="Elite Mummy Helmet">
+	<item id="15268" article="a" name="Elite Mummy Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="17"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15326" name="Elite Mummy Armor">
+	<item id="15326" article="a" name="Elite Mummy Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="17"/>
 		<attribute key="healthGain" value="550"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="15358" name="Elite Mummy Legs">
+	<item id="15358" article="a" name="Elite Mummy Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="17"/>
 		<attribute key="healthGain" value="550"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
-	<item id="15378" name="Elite Mummy Boots">
+	<item id="15378" article="a" name="Elite Mummy Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="17"/>
 		<attribute key="speed" value="15"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
-	<item id="15269" name="Furie Mummy Helmet">
+	<item id="15269" article="a" name="Furie Mummy Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="17"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15327" name="Furie Mummy Armor">
+	<item id="15327" article="a" name="Furie Mummy Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="17"/>
 		<attribute key="healthGain" value="600"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="15359" name="Furie Mummy Legs">
+	<item id="15359" article="a" name="Furie Mummy Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="17"/>
 		<attribute key="healthGain" value="600"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
-	<item id="15379" name="Furie Mummy Boots">
+	<item id="15379" article="a" name="Furie Mummy Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="17"/>
 		<attribute key="speed" value="15"/>
@@ -22401,14 +22413,14 @@
 	</item>
 
 	<!-- Kyoraku -->
-	<item id="10677" name="Kyoraku Helmet">
+	<item id="10677" article="a" name="Kyoraku Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="25"/>
 		<attribute key="healthGain" value="900"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="10661" name="Kyoraku Armor">
+	<item id="10661" article="a" name="Kyoraku Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="25"/>
 		<attribute key="healthGain" value="900"/>
@@ -22416,14 +22428,14 @@
 		<attribute key="slotType" value="body"/>
 	</item>
 
-	<item id="15252" name="Elite Kyoraku Helmet">
+	<item id="15252" article="a" name="Elite Kyoraku Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="25"/>
 		<attribute key="healthGain" value="950"/>
 		<attribute key="healthTicks" value="1100"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15306" name="Elite Kyoraku Armor">
+	<item id="15306" article="a" name="Elite Kyoraku Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="25"/>
 		<attribute key="healthGain" value="950"/>
@@ -22431,14 +22443,14 @@
 		<attribute key="slotType" value="body"/>
 	</item>
 
-	<item id="15253" name="Furie Kyoraku Helmet">
+	<item id="15253" article="a" name="Furie Kyoraku Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="25"/>
 		<attribute key="healthGain" value="1000"/>
 		<attribute key="healthTicks" value="1150"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15307" name="Furie Kyoraku Armor">
+	<item id="15307" article="a" name="Furie Kyoraku Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="25"/>
 		<attribute key="healthGain" value="1000"/>
@@ -22447,14 +22459,14 @@
 	</item>
 
 	<!-- Blank -->
-	<item id="15222" name="Blank Armor">
+	<item id="15222" article="a" name="Blank Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="25"/>
 		<attribute key="healthGain" value="860"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="15229" name="Blank Legs">
+	<item id="15229" article="a" name="Blank Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="25"/>
 		<attribute key="healthGain" value="860"/>
@@ -22464,78 +22476,78 @@
 
 	<!-- Bandit Set -->
 
-	<item id="15106" name="Bandit Helmet">
+	<item id="15106" article="a" name="Bandit Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="17"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15116" name="Bandit Armor">
+	<item id="15116" article="a" name="Bandit Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="17"/>
 		<attribute key="healthGain" value="100"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="10686" name="Bandit Legs">
+	<item id="10686" article="a" name="Bandit Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="17"/>
 		<attribute key="healthGain" value="100"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
-	<item id="15119" name="Bandit Boots">
+	<item id="15119" article="a" name="Bandit Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="10"/>
 		<attribute key="speed" value="5"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
-	<item id="15276" name="Elite Bandit Helmet">
+	<item id="15276" article="a" name="Elite Bandit Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="10"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15332" name="Elite Bandit Armor">
+	<item id="15332" article="a" name="Elite Bandit Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="10"/>
 		<attribute key="healthGain" value="150"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="15362" name="Elite Bandit Legs">
+	<item id="15362" article="a" name="Elite Bandit Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="10"/>
 		<attribute key="healthGain" value="150"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
-	<item id="15380" name="Elite Bandit Boots">
+	<item id="15380" article="a" name="Elite Bandit Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="10"/>
 		<attribute key="speed" value="6"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
-	<item id="15277" name="Furie Bandit Helmet">
+	<item id="15277" article="a" name="Furie Bandit Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="10"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15333" name="Furie Bandit Armor">
+	<item id="15333" article="a" name="Furie Bandit Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="10"/>
 		<attribute key="healthGain" value="200"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="15363" name="Furie Bandit Legs">
+	<item id="15363" article="a" name="Furie Bandit Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="10"/>
 		<attribute key="healthGain" value="200"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
-	<item id="15381" name="Furie Bandit Boots">
+	<item id="15381" article="a" name="Furie Bandit Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="10"/>
 		<attribute key="speed" value="7"/>
@@ -22544,19 +22556,19 @@
 
 	<!-- Arrancar Set -->
 
-	<item id="15101" name="Arrancar Helmet">
+	<item id="15101" article="a" name="Arrancar Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15112" name="Arrancar Armor">
+	<item id="15112" article="a" name="Arrancar Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="manaGain" value="300"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="10731" name="Arrancar Boots">
+	<item id="10731" article="a" name="Arrancar Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="speed" value="12"/>
@@ -22565,19 +22577,19 @@
 		<attribute key="slotType" value="feet"/>
 	</item>
 
-	<item id="15005" name="Elite Arrancar Helmet">
+	<item id="15005" article="a" name="Elite Arrancar Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15304" name="Elite Arrancar Armor">
+	<item id="15304" article="a" name="Elite Arrancar Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="healthGain" value="900"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="15011" name="Elite Arrancar Boots">
+	<item id="15011" article="a" name="Elite Arrancar Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="speed" value="12"/>
@@ -22586,19 +22598,19 @@
 		<attribute key="slotType" value="feet"/>
 	</item>
 
-	<item id="15006" name="Furie Arrancar Helmet">
+	<item id="15006" article="a" name="Furie Arrancar Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15305" name="Furie Arrancar Armor">
+	<item id="15305" article="a" name="Furie Arrancar Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="healthGain" value="1000"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="15012" name="Furie Arrancar Boots">
+	<item id="15012" article="a" name="Furie Arrancar Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="speed" value="12"/>
@@ -22608,49 +22620,49 @@
 	</item>
 
 	<!-- Mask -->
-	<item id="15099" name="Grand Fisher Mask">
+	<item id="15099" article="a" name="Grand Fisher Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="25"/>
 		<attribute key="healthGain" value="1000"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15240" name="Elite Grand Fisher Mask">
+	<item id="15240" article="a" name="Elite Grand Fisher Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="25"/>
 		<attribute key="healthGain" value="1200"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15241" name="Furie Grand Fisher Mask">
+	<item id="15241" article="a" name="Furie Grand Fisher Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="25"/>
 		<attribute key="healthGain" value="1300"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15102" name="Adjuchas Mask">
+	<item id="15102" article="a" name="Adjuchas Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="35"/>
 		<attribute key="healthGain" value="800"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15248" name="Elite Adjuchas Mask">
+	<item id="15248" article="a" name="Elite Adjuchas Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="35"/>
 		<attribute key="healthGain" value="1000"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15249" name="Furie Adjuchas Mask">
+	<item id="15249" article="a" name="Furie Adjuchas Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="35"/>
 		<attribute key="healthGain" value="1100"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15103" name="Gilliam Mask">
+	<item id="15103" article="a" name="Gilliam Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="29"/>
 		<attribute key="manaGain" value="200"/>
@@ -22659,77 +22671,77 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15250" name="Elite Gilliam Mask">
+	<item id="15250" article="a" name="Elite Gilliam Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="29"/>
 		<attribute key="healthGain" value="1200"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15251" name="Furie Gilliam Mask">
+	<item id="15251" article="a" name="Furie Gilliam Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="29"/>
 		<attribute key="healthGain" value="1300"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15104" name="Spider Mask">
+	<item id="15104" article="a" name="Spider Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="25"/>
 		<attribute key="healthGain" value="300"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15256" name="Elite Spider Mask">
+	<item id="15256" article="a" name="Elite Spider Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="25"/>
 		<attribute key="healthGain" value="400"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15257" name="Furie Spider Mask">
+	<item id="15257" article="a" name="Furie Spider Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="25"/>
 		<attribute key="healthGain" value="450"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15105" name="Arak Mask">
+	<item id="15105" article="a" name="Arak Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="15"/>
 		<attribute key="healthGain" value="200"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15260" name="Elite Arak Mask">
+	<item id="15260" article="a" name="Elite Arak Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="16"/>
 		<attribute key="healthGain" value="200"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15261" name="Furie Arak Mask">
+	<item id="15261" article="a" name="Furie Arak Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="16"/>
 		<attribute key="healthGain" value="300"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15772" name="Arrancar Mask">
+	<item id="15772" article="a" name="Arrancar Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="30"/>
 		<attribute key="healthGain" value="1500"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15767" name="Vast Lord Mask">
+	<item id="15767" article="a" name="Vast Lord Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="40"/>
 		<attribute key="healthGain" value="3500"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15150" name="Togabito Mask">
+	<item id="15150" article="a" name="Togabito Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="healthGain" value="1200"/>
@@ -22737,21 +22749,21 @@
 		<attribute key="slotType" value="head"/>
 	</item>
 
-	<item id="11094" name="Snake Mask">
+	<item id="11094" article="a" name="Snake Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="5"/>
 		<attribute key="healthGain" value="200"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15266" name="Elite Snake Mask">
+	<item id="15266" article="a" name="Elite Snake Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="5"/>
 		<attribute key="healthGain" value="250"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15267" name="Furie Snake Mask">
+	<item id="15267" article="a" name="Furie Snake Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="5"/>
 		<attribute key="healthGain" value="300"/>
@@ -22759,21 +22771,21 @@
 		<attribute key="slotType" value="head"/>
 	</item>
 
-	<item id="11095" name="Wolf Mask">
+	<item id="11095" article="a" name="Wolf Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="10"/>
 		<attribute key="healthGain" value="200"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15264" name="Elite Wolf Mask">
+	<item id="15264" article="a" name="Elite Wolf Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="10"/>
 		<attribute key="healthGain" value="200"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15265" name="Furie Wolf Mask">
+	<item id="15265" article="a" name="Furie Wolf Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="10"/>
 		<attribute key="healthGain" value="200"/>
@@ -22783,21 +22795,21 @@
 
 	<!-- Shinigami Set -->
 
-	<item id="16136" name="Shinigami Armor">
+	<item id="16136" article="a" name="Shinigami Armor">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="5"/>
 		<attribute key="healthGain" value="40"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="16135" name="Shinigami Legs">
+	<item id="16135" article="a" name="Shinigami Legs">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="5"/>
 		<attribute key="healthGain" value="40"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="Legs"/>
 	</item>
-	<item id="16137" name="Shinigami Boots">
+	<item id="16137" article="a" name="Shinigami Boots">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="5"/>
 		<attribute key="healthGain" value="40"/>
@@ -22806,27 +22818,27 @@
 	</item>
 
 	<!-- Shields -->
-	<item id="15055" name="Adjuchas Shield">
+	<item id="15055" article="a" name="Adjuchas Shield">
 		<attribute key="weight" value="5500"/>
 		<attribute key="defense" value="70"/>
 		<attribute key="absorbPercentAll" value="3"/>
 		<attribute key="weaponType" value="shield"/>
 		<attribute key="showattributes" value="1"/>
 	</item>
-	<item id="15060" name="Shidoh Shield">
+	<item id="15060" article="a" name="Shidoh Shield">
 		<attribute key="weight" value="5500"/>
 		<attribute key="defense" value="50"/>
 		<attribute key="absorbPercentAll" value="2"/>
 		<attribute key="weaponType" value="shield"/>
 	</item>
-	<item id="15063" name="Red Shield">
+	<item id="15063" article="a" name="Red Shield">
 		<attribute key="weight" value="5500"/>
 		<attribute key="defense" value="38"/>
 		<attribute key="absorbPercentAll" value="1"/>
 		<attribute key="weaponType" value="shield"/>
 		<attribute key="showattributes" value="1"/>
 	</item>
-	<item id="15813" name="Inicial Shield">
+	<item id="15813" article="a" name="Inicial Shield">
 		<attribute key="weight" value="5500"/>
 		<attribute key="defense" value="12"/>
 		<attribute key="weaponType" value="shield"/>
@@ -22835,7 +22847,7 @@
 
 
 	<!-- Amuletos -->
-	<item id="15744" name="Nnoitra Amulet">
+	<item id="15744" article="a" name="Nnoitra Amulet">
 		<attribute key="weight" value="500"/>
 		<attribute key="absorbPercentAll" value="4"/>
 		<attribute key="magicpoints" value="3"/>
@@ -22845,7 +22857,7 @@
 		<attribute key="slotType" value="necklace"/>
 		<attribute key="showattributes" value="1"/>
 	</item>
-	<item id="15799" name="Focus Snake Amulet">
+	<item id="15799" article="a" name="Focus Snake Amulet">
 		<attribute key="weight" value="500"/>
 		<attribute key="absorbPercentAll" value="2"/>
 		<attribute key="magicpoints" value="3"/>
@@ -22855,7 +22867,7 @@
 		<attribute key="slotType" value="necklace"/>
 		<attribute key="showattributes" value="1"/>
 	</item>
-	<item id="15742" name="Black Amulet">
+	<item id="15742" article="a" name="Black Amulet">
 		<attribute key="weight" value="500"/>
 		<attribute key="absorbPercentAll" value="1"/>
 		<attribute key="magicpoints" value="3"/>
@@ -22865,7 +22877,7 @@
 		<attribute key="slotType" value="necklace"/>
 		<attribute key="showattributes" value="1"/>
 	</item>
-	<item id="15800" name="Concentrate Snake Amulet">
+	<item id="15800" article="a" name="Concentrate Snake Amulet">
 		<attribute key="weight" value="500"/>
 		<attribute key="absorbPercentAll" value="3"/>
 		<attribute key="magicpoints" value="1"/>
@@ -22877,28 +22889,28 @@
 	</item>
 
 	<!-- Rings -->
-	<item id="15797" name="Barragan Ring">
+	<item id="15797" article="a" name="Barragan Ring">
 		<attribute key="weight" value="500"/>
 		<attribute key="absorbPercentAll" value="2"/>
 		<attribute key="magicpoints" value="5"/>
 		<attribute key="slotType" value="ring"/>
 		<attribute key="showattributes" value="1"/>
 	</item>
-	<item id="15790" name="Zaraki Ring">
+	<item id="15790" article="a" name="Zaraki Ring">
 		<attribute key="weight" value="500"/>
 		<attribute key="absorbPercentAll" value="2"/>
 		<attribute key="magicpoints" value="3"/>
 		<attribute key="slotType" value="ring"/>
 		<attribute key="showattributes" value="1"/>
 	</item>
-	<item id="15743" name="Skeleton Ring">
+	<item id="15743" article="a" name="Skeleton Ring">
 		<attribute key="weight" value="500"/>
 		<attribute key="absorbPercentAll" value="1"/>
 		<attribute key="magicpoints" value="1"/>
 		<attribute key="slotType" value="ring"/>
 		<attribute key="showattributes" value="1"/>
 	</item>
-	<item id="11377" name="Snake Ring">
+	<item id="11377" article="a" name="Snake Ring">
 		<attribute key="weight" value="500"/>
 		<attribute key="absorbPercentAll" value="1"/>
 		<attribute key="magicpoints" value="2"/>
@@ -22907,19 +22919,19 @@
 	</item>
 
 	<!-- Founder Armas -->
-	<item id="15720" name="Founder Sword">
+	<item id="15720" article="a" name="Founder Sword">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="35"/>
 		<attribute key="attack" value="40"/>
 		<attribute key="weaponType" value="sword"/>
 	</item>
-	<item id="15719" name="Founder Red Glove">
+	<item id="15719" article="a" name="Founder Red Glove">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="35"/>
 		<attribute key="attack" value="40"/>
 		<attribute key="weaponType" value="axe"/>
 	</item>
-	<item id="15721" article="an" name="Founder Distance">
+	<item id="15721" article="a" name="Founder Distance">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="40"/>
 		<attribute key="weaponType" value="distance"/>
@@ -22929,504 +22941,504 @@
 
     <!-- Armas de cada personagem -->
 	<!-- Swords -->
-	<item id="16339" name="Zangetsu">
+	<item id="16339" article="a" name="Zangetsu">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="8"/>
 		<attribute key="attack" value="10"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16340" name="Zangetsu">
+	<item id="16340" article="a" name="Zangetsu">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="15"/>
 		<attribute key="attack" value="20"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16341" name="Zangetsu">
+	<item id="16341" article="a" name="Zangetsu">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="20"/>
 		<attribute key="attack" value="30"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16342" name="Zangetsu">
+	<item id="16342" article="a" name="Zangetsu">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="25"/>
 		<attribute key="attack" value="40"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16343" name="Zangetsu">
+	<item id="16343" article="a" name="Zangetsu">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="30"/>
 		<attribute key="attack" value="50"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16344" name="Zangetsu">
+	<item id="16344" article="a" name="Zangetsu">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="35"/>
 		<attribute key="attack" value="60"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16345" name="Sode no Shirayuki">
+	<item id="16345" article="a" name="Sode no Shirayuki">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="8"/>
 		<attribute key="attack" value="10"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16346" name="Sode no Shirayuki">
+	<item id="16346" article="a" name="Sode no Shirayuki">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="15"/>
 		<attribute key="attack" value="20"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16347" name="Sode no Shirayuki">
+	<item id="16347" article="a" name="Sode no Shirayuki">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="20"/>
 		<attribute key="attack" value="30"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16348" name="Sode no Shirayuki">
+	<item id="16348" article="a" name="Sode no Shirayuki">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="25"/>
 		<attribute key="attack" value="40"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16349" name="Sode no Shirayuki">
+	<item id="16349" article="a" name="Sode no Shirayuki">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="30"/>
 		<attribute key="attack" value="50"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16350" name="Sode no Shirayuki">
+	<item id="16350" article="a" name="Sode no Shirayuki">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="35"/>
 		<attribute key="attack" value="50"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16351" name="Zabimaru">
+	<item id="16351" article="a" name="Zabimaru">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="8"/>
 		<attribute key="attack" value="10"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16352" name="Zabimaru">
+	<item id="16352" article="a" name="Zabimaru">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="15"/>
 		<attribute key="attack" value="20"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16353" name="Zabimaru">
+	<item id="16353" article="a" name="Zabimaru">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="20"/>
 		<attribute key="attack" value="30"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16354" name="Zabimaru">
+	<item id="16354" article="a" name="Zabimaru">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="25"/>
 		<attribute key="attack" value="40"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16355" name="Zabimaru">
+	<item id="16355" article="a" name="Zabimaru">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="30"/>
 		<attribute key="attack" value="50"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16356" name="Zabimaru">
-		<attribute key="weight" value="2500"/>
-		<attribute key="defense" value="35"/>
-		<attribute key="attack" value="60"/>
-		<attribute key="weaponType" value="sword"/>
-		<attribute key="description" value="Soul: 0"/>
-	</item>
-	<item id="15736" name="Hyourinmaru">
-		<attribute key="weight" value="2500"/>
-		<attribute key="defense" value="8"/>
-		<attribute key="attack" value="10"/>
-		<attribute key="weaponType" value="sword"/>
-		<attribute key="description" value="Soul: 0"/>
-	</item>
-	<item id="16401" name="Hyourinmaru">
-		<attribute key="weight" value="2500"/>
-		<attribute key="defense" value="15"/>
-		<attribute key="attack" value="20"/>
-		<attribute key="weaponType" value="sword"/>
-		<attribute key="description" value="Soul: 0"/>
-	</item>
-	<item id="16408" name="Hyourinmaru">
-		<attribute key="weight" value="2500"/>
-		<attribute key="defense" value="20"/>
-		<attribute key="attack" value="30"/>
-		<attribute key="weaponType" value="sword"/>
-		<attribute key="description" value="Soul: 0"/>
-	</item>
-	<item id="16414" name="Hyourinmaru">
-		<attribute key="weight" value="2500"/>
-		<attribute key="defense" value="25"/>
-		<attribute key="attack" value="40"/>
-		<attribute key="weaponType" value="sword"/>
-		<attribute key="description" value="Soul: 0"/>
-	</item>
-	<item id="16420" name="Hyourinmaru">
-		<attribute key="weight" value="2500"/>
-		<attribute key="defense" value="30"/>
-		<attribute key="attack" value="50"/>
-		<attribute key="weaponType" value="sword"/>
-		<attribute key="description" value="Soul: 0"/>
-	</item>
-	<item id="16424" name="Hyourinmaru">
+	<item id="16356" article="a" name="Zabimaru">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="35"/>
 		<attribute key="attack" value="60"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16336" name="Gamuza">
+	<item id="15736" article="a" name="Hyourinmaru">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="8"/>
 		<attribute key="attack" value="10"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16402" name="Gamuza">
+	<item id="16401" article="a" name="Hyourinmaru">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="15"/>
 		<attribute key="attack" value="20"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16406" name="Gamuza">
+	<item id="16408" article="a" name="Hyourinmaru">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="20"/>
 		<attribute key="attack" value="30"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16413" name="Gamuza">
+	<item id="16414" article="a" name="Hyourinmaru">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="25"/>
 		<attribute key="attack" value="40"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16419" name="Gamuza">
+	<item id="16420" article="a" name="Hyourinmaru">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="30"/>
 		<attribute key="attack" value="50"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16426" name="Gamuza">
+	<item id="16424" article="a" name="Hyourinmaru">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="35"/>
 		<attribute key="attack" value="60"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16335" name="Pantera">
+	<item id="16336" article="a" name="Gamuza">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="8"/>
 		<attribute key="attack" value="10"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16399" name="Pantera">
+	<item id="16402" article="a" name="Gamuza">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="15"/>
 		<attribute key="attack" value="20"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16410" name="Pantera">
+	<item id="16406" article="a" name="Gamuza">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="20"/>
 		<attribute key="attack" value="30"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16416" name="Pantera">
+	<item id="16413" article="a" name="Gamuza">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="25"/>
 		<attribute key="attack" value="40"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16421" name="Pantera">
+	<item id="16419" article="a" name="Gamuza">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="30"/>
 		<attribute key="attack" value="50"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16425" name="Pantera">
+	<item id="16426" article="a" name="Gamuza">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="35"/>
 		<attribute key="attack" value="60"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16338" name="Minazuki">
+	<item id="16335" article="a" name="Pantera">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="8"/>
 		<attribute key="attack" value="10"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16400" name="Minazuki">
+	<item id="16399" article="a" name="Pantera">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="15"/>
 		<attribute key="attack" value="20"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16409" name="Minazuki">
+	<item id="16410" article="a" name="Pantera">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="20"/>
 		<attribute key="attack" value="30"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16415" name="Minazuki">
+	<item id="16416" article="a" name="Pantera">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="25"/>
 		<attribute key="attack" value="40"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16422" name="Minazuki">
+	<item id="16421" article="a" name="Pantera">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="30"/>
 		<attribute key="attack" value="50"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16423" name="Minazuki">
+	<item id="16425" article="a" name="Pantera">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="35"/>
 		<attribute key="attack" value="60"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16357" name="Nozarashi">
+	<item id="16338" article="a" name="Minazuki">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="8"/>
 		<attribute key="attack" value="10"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16358" name="Nozarashi">
+	<item id="16400" article="a" name="Minazuki">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="15"/>
 		<attribute key="attack" value="20"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16359" name="Nozarashi">
+	<item id="16409" article="a" name="Minazuki">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="20"/>
 		<attribute key="attack" value="30"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16360" name="Nozarashi">
+	<item id="16415" article="a" name="Minazuki">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="25"/>
 		<attribute key="attack" value="40"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16361" name="Nozarashi">
+	<item id="16422" article="a" name="Minazuki">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="30"/>
 		<attribute key="attack" value="50"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16362" name="Nozarashi">
+	<item id="16423" article="a" name="Minazuki">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="35"/>
 		<attribute key="attack" value="60"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16363" name="Benihime">
+	<item id="16357" article="a" name="Nozarashi">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="8"/>
 		<attribute key="attack" value="10"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16364" name="Benihime">
+	<item id="16358" article="a" name="Nozarashi">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="15"/>
 		<attribute key="attack" value="20"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16365" name="Benihime">
+	<item id="16359" article="a" name="Nozarashi">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="20"/>
 		<attribute key="attack" value="30"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16366" name="Benihime">
+	<item id="16360" article="a" name="Nozarashi">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="25"/>
 		<attribute key="attack" value="40"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16367" name="Benihime">
+	<item id="16361" article="a" name="Nozarashi">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="30"/>
 		<attribute key="attack" value="50"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16368" name="Benihime">
+	<item id="16362" article="a" name="Nozarashi">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="35"/>
 		<attribute key="attack" value="60"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16369" name="Houzukimaru">
+	<item id="16363" article="a" name="Benihime">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="8"/>
 		<attribute key="attack" value="10"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16370" name="Houzukimaru">
+	<item id="16364" article="a" name="Benihime">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="15"/>
 		<attribute key="attack" value="20"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16371" name="Houzukimaru">
+	<item id="16365" article="a" name="Benihime">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="20"/>
 		<attribute key="attack" value="30"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16372" name="Houzukimaru">
+	<item id="16366" article="a" name="Benihime">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="25"/>
 		<attribute key="attack" value="40"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16373" name="Houzukimaru">
+	<item id="16367" article="a" name="Benihime">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="30"/>
 		<attribute key="attack" value="50"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16374" name="Houzukimaru">
+	<item id="16368" article="a" name="Benihime">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="35"/>
 		<attribute key="attack" value="60"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16429" name="Senbonzakura">
+	<item id="16369" article="a" name="Houzukimaru">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="8"/>
 		<attribute key="attack" value="10"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16430" name="Senbonzakura">
+	<item id="16370" article="a" name="Houzukimaru">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="15"/>
 		<attribute key="attack" value="20"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16431" name="Senbonzakura">
+	<item id="16371" article="a" name="Houzukimaru">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="20"/>
 		<attribute key="attack" value="30"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16432" name="Senbonzakura">
+	<item id="16372" article="a" name="Houzukimaru">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="25"/>
 		<attribute key="attack" value="40"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16433" name="Senbonzakura">
+	<item id="16373" article="a" name="Houzukimaru">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="30"/>
 		<attribute key="attack" value="50"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16434" name="Senbonzakura">
+	<item id="16374" article="a" name="Houzukimaru">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="35"/>
 		<attribute key="attack" value="60"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16337" name="Santa Teresa">
+	<item id="16429" article="a" name="Senbonzakura">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="8"/>
 		<attribute key="attack" value="10"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16403" name="Santa Teresa">
+	<item id="16430" article="a" name="Senbonzakura">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="15"/>
 		<attribute key="attack" value="20"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16407" name="Santa Teresa">
+	<item id="16431" article="a" name="Senbonzakura">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="20"/>
 		<attribute key="attack" value="30"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16412" name="Santa Teresa">
+	<item id="16432" article="a" name="Senbonzakura">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="25"/>
 		<attribute key="attack" value="40"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16418" name="Santa Teresa">
+	<item id="16433" article="a" name="Senbonzakura">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="30"/>
 		<attribute key="attack" value="50"/>
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16427" name="Santa Teresa">
+	<item id="16434" article="a" name="Senbonzakura">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="35"/>
+		<attribute key="attack" value="60"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16337" article="a" name="Santa Teresa">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="8"/>
+		<attribute key="attack" value="10"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16403" article="a" name="Santa Teresa">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="15"/>
+		<attribute key="attack" value="20"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16407" article="a" name="Santa Teresa">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="20"/>
+		<attribute key="attack" value="30"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16412" article="a" name="Santa Teresa">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="25"/>
+		<attribute key="attack" value="40"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16418" article="a" name="Santa Teresa">
+		<attribute key="weight" value="2500"/>
+		<attribute key="defense" value="30"/>
+		<attribute key="attack" value="50"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="description" value="Soul: 0"/>
+	</item>
+	<item id="16427" article="a" name="Santa Teresa">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="35"/>
 		<attribute key="attack" value="60"/>
@@ -23435,42 +23447,42 @@
 	</item>
 
 	<!-- Gloves -->
-	<item id="16375" name="Brazo Derecha de Gigante">
+	<item id="16375" article="a" name="Brazo Derecha de Gigante">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="8"/>
 		<attribute key="attack" value="10"/>
 		<attribute key="weaponType" value="axe"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16376" name="Brazo Derecha de Gigante">
+	<item id="16376" article="a" name="Brazo Derecha de Gigante">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="15"/>
 		<attribute key="attack" value="20"/>
 		<attribute key="weaponType" value="axe"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16377" name="Brazo Derecha de Gigante">
+	<item id="16377" article="a" name="Brazo Derecha de Gigante">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="20"/>
 		<attribute key="attack" value="30"/>
 		<attribute key="weaponType" value="axe"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16378" name="Brazo Derecha de Gigante">
+	<item id="16378" article="a" name="Brazo Derecha de Gigante">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="25"/>
 		<attribute key="attack" value="40"/>
 		<attribute key="weaponType" value="axe"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16379" name="Brazo Derecha de Gigante">
+	<item id="16379" article="a" name="Brazo Derecha de Gigante">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="30"/>
 		<attribute key="attack" value="50"/>
 		<attribute key="weaponType" value="axe"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16380" name="Brazo Derecha de Gigante">
+	<item id="16380" article="a" name="Brazo Derecha de Gigante">
 		<attribute key="weight" value="2500"/>
 		<attribute key="defense" value="35"/>
 		<attribute key="attack" value="60"/>
@@ -23479,7 +23491,7 @@
 	</item>
 
 	<!-- Distance -->
-	<item id="16381" article="an" name="Kojaku">
+	<item id="16381" article="a" name="Kojaku">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="10"/>
 		<attribute key="weaponType" value="distance"/>
@@ -23487,7 +23499,7 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16382" article="an" name="kojaku">
+	<item id="16382" article="a" name="kojaku">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="20"/>
 		<attribute key="weaponType" value="distance"/>
@@ -23495,7 +23507,7 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16383" article="an" name="kojaku">
+	<item id="16383" article="a" name="kojaku">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="30"/>
 		<attribute key="weaponType" value="distance"/>
@@ -23503,7 +23515,7 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16384" article="an" name="kojaku">
+	<item id="16384" article="a" name="kojaku">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="40"/>
 		<attribute key="weaponType" value="distance"/>
@@ -23511,7 +23523,7 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16385" article="an" name="kojaku">
+	<item id="16385" article="a" name="kojaku">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="50"/>
 		<attribute key="weaponType" value="distance"/>
@@ -23519,7 +23531,7 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16386" article="an" name="kojaku">
+	<item id="16386" article="a" name="kojaku">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="60"/>
 		<attribute key="weaponType" value="distance"/>
@@ -23527,7 +23539,7 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16387" article="an" name="Shun Shun Rikka">
+	<item id="16387" article="a" name="Shun Shun Rikka">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="10"/>
 		<attribute key="weaponType" value="distance"/>
@@ -23535,7 +23547,7 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16388" article="an" name="Shun Shun Rikka">
+	<item id="16388" article="a" name="Shun Shun Rikka">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="20"/>
 		<attribute key="weaponType" value="distance"/>
@@ -23543,7 +23555,7 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16389" article="an" name="Shun Shun Rikka">
+	<item id="16389" article="a" name="Shun Shun Rikka">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="30"/>
 		<attribute key="weaponType" value="distance"/>
@@ -23551,7 +23563,7 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16390" article="an" name="Shun Shun Rikka">
+	<item id="16390" article="a" name="Shun Shun Rikka">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="40"/>
 		<attribute key="weaponType" value="distance"/>
@@ -23559,7 +23571,7 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16391" article="an" name="Shun Shun Rikka">
+	<item id="16391" article="a" name="Shun Shun Rikka">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="50"/>
 		<attribute key="weaponType" value="distance"/>
@@ -23567,7 +23579,7 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16392" article="an" name="Shun Shun Rikka">
+	<item id="16392" article="a" name="Shun Shun Rikka">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="60"/>
 		<attribute key="weaponType" value="distance"/>
@@ -23575,7 +23587,7 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16334" article="an" name="Heiling Bogen">
+	<item id="16334" article="a" name="Heiling Bogen">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="10"/>
 		<attribute key="weaponType" value="distance"/>
@@ -23583,7 +23595,7 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16404" article="an" name="Heiling Bogen">
+	<item id="16404" article="a" name="Heiling Bogen">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="20"/>
 		<attribute key="weaponType" value="distance"/>
@@ -23591,7 +23603,7 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16405" article="an" name="Heiling Bogen">
+	<item id="16405" article="a" name="Heiling Bogen">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="30"/>
 		<attribute key="weaponType" value="distance"/>
@@ -23599,7 +23611,7 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16411" article="an" name="Heiling Bogen">
+	<item id="16411" article="a" name="Heiling Bogen">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="40"/>
 		<attribute key="weaponType" value="distance"/>
@@ -23607,7 +23619,7 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16417" article="an" name="Heiling Bogen">
+	<item id="16417" article="a" name="Heiling Bogen">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="50"/>
 		<attribute key="weaponType" value="distance"/>
@@ -23615,7 +23627,7 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16428" article="an" name="Heiling Bogen">
+	<item id="16428" article="a" name="Heiling Bogen">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="60"/>
 		<attribute key="weaponType" value="distance"/>
@@ -23623,7 +23635,7 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16393" article="an" name="Lanza Del Relampago">
+	<item id="16393" article="a" name="Lanza Del Relampago">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="10"/>
 		<attribute key="weaponType" value="distance"/>
@@ -23631,7 +23643,7 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16394" article="an" name="Lanza Del Relampago">
+	<item id="16394" article="a" name="Lanza Del Relampago">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="20"/>
 		<attribute key="weaponType" value="distance"/>
@@ -23639,7 +23651,7 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16395" article="an" name="Lanza Del Relampago">
+	<item id="16395" article="a" name="Lanza Del Relampago">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="30"/>
 		<attribute key="weaponType" value="distance"/>
@@ -23647,7 +23659,7 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16396" article="an" name="Lanza Del Relampago">
+	<item id="16396" article="a" name="Lanza Del Relampago">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="40"/>
 		<attribute key="weaponType" value="distance"/>
@@ -23655,7 +23667,7 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16397" article="an" name="Lanza Del Relampago">
+	<item id="16397" article="a" name="Lanza Del Relampago">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="50"/>
 		<attribute key="weaponType" value="distance"/>
@@ -23663,7 +23675,7 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16398" article="an" name="Lanza Del Relampago">
+	<item id="16398" article="a" name="Lanza Del Relampago">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="60"/>
 		<attribute key="weaponType" value="distance"/>
@@ -23671,7 +23683,7 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16446" article="an" name="Lilynette Gingerbuck">
+	<item id="16446" article="a" name="Lilynette Gingerbuck">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="10"/>
 		<attribute key="weaponType" value="distance"/>
@@ -23679,7 +23691,7 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16447" article="an" name="Lilynette Gingerbuck">
+	<item id="16447" article="a" name="Lilynette Gingerbuck">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="20"/>
 		<attribute key="weaponType" value="distance"/>
@@ -23687,7 +23699,7 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16448" article="an" name="Lilynette Gingerbuck">
+	<item id="16448" article="a" name="Lilynette Gingerbuck">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="30"/>
 		<attribute key="weaponType" value="distance"/>
@@ -23695,7 +23707,7 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16449" article="an" name="Lilynette Gingerbuck">
+	<item id="16449" article="a" name="Lilynette Gingerbuck">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="40"/>
 		<attribute key="weaponType" value="distance"/>
@@ -23703,7 +23715,7 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16450" article="an" name="Lilynette Gingerbuck">
+	<item id="16450" article="a" name="Lilynette Gingerbuck">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="50"/>
 		<attribute key="weaponType" value="distance"/>
@@ -23711,7 +23723,7 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16451" article="an" name="Lilynette Gingerbuck">
+	<item id="16451" article="a" name="Lilynette Gingerbuck">
 		<attribute key="weight" value="200"/>
 		<attribute key="attack" value="60"/>
 		<attribute key="weaponType" value="distance"/>
