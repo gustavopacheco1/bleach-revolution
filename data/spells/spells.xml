@@ -290,7 +290,7 @@
 	<instant name="Getsuga" words="Getsuga" lvl="50" mana="5000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Ichigo/Getsuga.lua">
 		<vocation id="1"/>
 	</instant>
-	<instant name="Getsuga Tenshou" words="Getsuga Tenshou" lvl="75" mana="500" maglv="1" prem="0" direction="1" exhaustion="1500" needlearn="0" event="script" value="attack/Ichigo/Getsuga Tenshou.lua">
+	<instant name="Getsuga Tenshou" words="Getsuga Tenshou" lvl="75" mana="500" maglv="1" prem="0" direction="1" exhaustion="500" needlearn="0" event="script" value="attack/Ichigo/Getsuga Tenshou.lua">
 		<vocation id="1"/>
 	</instant>
 	<instant name="Getsuga Tenshou Final" words="Getsuga Tenshou Final" lvl="100" mana="500" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Ichigo/Getsuga Tenshou Final.lua">
