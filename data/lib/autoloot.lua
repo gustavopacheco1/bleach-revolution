@@ -17,7 +17,7 @@ function isItemInAutolootList(cid, item)
 end
 
 function doRemoveAutolootItem(cid, itemid)
-	local file = io.open(AutoLoot.directory .. "/" .. getCreatureName(cid) .. ".txt", 'r')
+	local file = io.open(AutoLoot.directory .. "/" .. getCreatureName(cid) .. ".log", 'r')
 	local file_content = {}
 
 	for line in file:lines() do
@@ -28,7 +28,7 @@ function doRemoveAutolootItem(cid, itemid)
 
 	io.close(file)
 
-	file = io.open(AutoLoot.directory .. "/" .. getCreatureName(cid) .. ".txt", 'w')
+	file = io.open(AutoLoot.directory .. "/" .. getCreatureName(cid) .. ".log", 'w')
 	for index, value in ipairs(file_content) do
 		file:write(value .. '\n')
 	end
@@ -42,19 +42,19 @@ function doAddAutolootItem(cid, itemid)
 		return true
 	end
 
-	local file = io.open(AutoLoot.directory .. "/" .. getCreatureName(cid) .. ".txt", "a+")
+	local file = io.open(AutoLoot.directory .. "/" .. getCreatureName(cid) .. ".log", "a+")
 	file:write('\n' .. itemid)
 	file:close()
 end
 
 function existsAutoloot(cid)
-	local f = io.open(AutoLoot.directory .. "/" .. getCreatureName(cid) .. ".txt", "rb")
+	local f = io.open(AutoLoot.directory .. "/" .. getCreatureName(cid) .. ".log", "rb")
 	if f then f:close() end
 	return f ~= nil
 end
 
 function doCreateLootUserName(cid, itemid)
-	local newFile = io.open(AutoLoot.directory .. "/" .. getCreatureName(cid) .. ".txt", "w+")
+	local newFile = io.open(AutoLoot.directory .. "/" .. getCreatureName(cid) .. ".log", "w+")
 	newFile:write(itemid)
 	newFile:close()
 end
@@ -66,7 +66,7 @@ function getAutolootItems(cid)
 
 	local lines = {}
 
-	for line in io.lines(AutoLoot.directory .. "/" .. getCreatureName(cid) .. ".txt") do
+	for line in io.lines(AutoLoot.directory .. "/" .. getCreatureName(cid) .. ".log") do
 		if line ~= "" then
 			lines[#lines + 1] = tonumber(line)
 		end
@@ -76,7 +76,7 @@ function getAutolootItems(cid)
 end
 
 function doCleanAutoloot(cid)
-	return os.remove(AutoLoot.directory .. "/" .. getCreatureName(cid) .. ".txt")
+	return os.remove(AutoLoot.directory .. "/" .. getCreatureName(cid) .. ".log")
 end
 
 function doSendAutoLootPopup(cid)
@@ -86,7 +86,7 @@ function doSendAutoLootPopup(cid)
 
 	return MultiLanguage.doPlayerPopupFYI(
 		cid,
-		"- Auto Loot System\n\n" ..
+		"Auto Loot System\n\n" ..
 		"- Commands\n" ..
 		"!autoloot <enable/disable> (Enable or disable the auto loot)\n" ..
 		"!autoloot add, <item name> (Add an item to the list)\n" ..
@@ -98,7 +98,7 @@ function doSendAutoLootPopup(cid)
 		"Status: " .. (autoloot_enabled and "enabled" or "disabled") .. "\n" ..
 		"Money collecting: " .. (autoloot_money_enabled and "enabled" or "disabled") .. "\n" ..
 		"Slots: [" .. #autoloot_list .. "/" .. AutoLoot.max_slots .. "]",
-		"- Autoloot System\n\n" ..
+		"Auto Loot System\n\n" ..
 		"- Comandos\n" ..
 		"!autoloot <ativar/desativar> (Ativa ou desativa o auto loot)\n" ..
 		"!autoloot adicionar, <nome do item> (Adiciona um item na lista)\n" ..
