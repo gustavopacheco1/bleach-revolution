@@ -37,7 +37,7 @@ SPECIALS = {
 	},
 
 	["Gin Ichimaru"] = {
-		[150] = "Te Agarre",
+		[100] = "Te Agarre",
 		[150] = "Buto Renjin"
 	},
 
@@ -52,7 +52,7 @@ SPECIALS = {
 	},
 
 	["Nnoitra Gilga"] = {
-		[100] = "Teresa Protect",
+		[100] = "Hierro",
 		[150] = "Santa Tereza"
 	},
 
