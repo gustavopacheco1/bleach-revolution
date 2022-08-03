@@ -6,7 +6,7 @@ setCombatArea(combat, createCombatArea(AREA_CANNON6SQM, AREADIAGONAL_CANNON6SQM)
 
 function onCastSpell(cid, var)
 	if exhaustion.check(cid, "cannon") then
-		doPlayerSendDefaulCancel(cid, RETURNVALUE_YOUAREEXHAUSTED)
+		doPlayerSendDefaultCancel(cid, RETURNVALUE_YOUAREEXHAUSTED)
 		return false
 	end
 
