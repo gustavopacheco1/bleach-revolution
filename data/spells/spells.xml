@@ -48,7 +48,7 @@
 	<instant name="Te Agarre" words="Te Agarre" lvl="150" mana="5000" aggressive="0" selftarget="1" exhaustion="1000" exhaustedGroup="special" needlearn="1" event="script" value="special/Te Agarre.lua">
 		<vocation id="14"/> <!-- Gin Ichimaru -->
 	</instant>
-	<instant name="Buto Renjin" words="Buto Renjin" lvl="150" mana="5000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" exhaustedGroup="special" needlearn="1" event="script" value="special/poison_dano/Buto Renjin.lua">
+	<instant name="Buto Renjin" words="Buto Renjin" lvl="100" mana="5000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" exhaustedGroup="special" needlearn="1" event="script" value="special/poison_dano/Buto Renjin.lua">
 		<vocation id="14"/> <!-- Gin Ichimaru -->
 	</instant>
 	<instant name="Absorb Special" words="absorb special" lvl="150" mana="5000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="750" exhaustedGroup="special" needlearn="1" event="script" value="special/absorb_special.lua">
