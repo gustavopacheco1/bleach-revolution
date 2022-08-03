@@ -431,17 +431,7 @@ int32_t Player::getArmor() const
 
 int32_t Player::getCriticalHitChance() const
 {
-	int32_t i = SLOT_FIRST, crit = 0;
-
-	for (; i < SLOT_LAST; ++i)
-	{
-		if (Item *item = getInventoryItem((slots_t)i))
-			crit += item->getCriticalHitChance();
-	}
-
-	crit += getSkill(SKILL_CLUB, SKILL_LEVEL) / 3;
-
-	return crit;
+	return (getSkill(SKILL_CLUB, SKILL_LEVEL) - 10) / 3;
 }
 
 void Player::getShieldAndWeapon(const Item *&_shield, const Item *&_weapon) const

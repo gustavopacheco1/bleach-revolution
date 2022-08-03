@@ -615,23 +615,11 @@ bool Combat::CombatHealthFunc(Creature *caster, Creature *target, const CombatPa
 	int32_t changePercentage = atoi(damageIncreasePercentage.c_str()) - atoi(absorbIncreasePercentage.c_str());
 	change += (changePercentage * change) / 100;
 
-	if (g_config.getBool(ConfigManager::USE_BLACK_SKULL))
+	if (caster && caster->getPlayer() && target->getPlayer())
 	{
-		if (caster && caster->getPlayer() && target->getPlayer() && target->getSkull() != SKULL_BLACK)
-		{
-			_params.element.damage /= 2;
-			if (change < 0)
-				change /= 2;
-		}
-	}
-	else
-	{
-		if (caster && caster->getPlayer() && target->getPlayer())
-		{
-			_params.element.damage /= 2;
-			if (change < 0)
-				change /= 2;
-		}
+		_params.element.damage /= 2;
+		if (change < 0)
+			change /= 2;
 	}
 
 	if (!g_game.combatChangeHealth(_params, caster, target, change, false))

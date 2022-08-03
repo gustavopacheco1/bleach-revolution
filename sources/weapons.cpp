@@ -376,6 +376,15 @@ bool Weapon::useFist(Player *player, Creature *target)
 	if (isCritical)
 		damage = -maxDamage;
 
+	if (target->getPlayer())
+	{
+		if (((target->getPlayer()->getSkill(SKILL_SHIELD, SKILL_LEVEL) - 10) / 8) >= random_range(1, 100))
+		{
+			g_game.addAnimatedText(target->getPosition(), COLOR_WHITE, "Dodge!");
+			damage = 0;
+		}
+	}
+
 	CombatParams fist;
 	fist.blockedByArmor = true;
 	fist.blockedByShield = true;
@@ -615,11 +624,22 @@ bool WeaponMelee::getSkillType(const Player *player, const Item *item,
 
 int32_t WeaponMelee::getWeaponDamage(const Player *player, const Creature *target, const Item *item, bool &isCritical, bool maxDamage /*= false*/) const
 {
+	if (target->getPlayer())
+	{
+		if (((target->getPlayer()->getSkill(SKILL_SHIELD, SKILL_LEVEL) - 10) / 8) >= random_range(1, 100))
+		{
+			g_game.addAnimatedText(target->getPosition(), COLOR_WHITE, "Dodge!");
+			return 0;
+		}
+	}
+
 	int32_t attackSkill = player->getWeaponSkill(item), attackValue = std::max((int32_t)0,
 																			   (int32_t(item->getAttack() + item->getExtraAttack()) - item->getElementDamage()));
 	float attackFactor = player->getAttackFactor();
 
 	double maxValue = Weapons::getMaxWeaponDamage(player->getLevel(), attackSkill, attackValue, attackFactor);
+
+
 	if (player->getCriticalHitChance() >= random_range(1, 100))
 	{
 		isCritical = true;
@@ -874,6 +894,15 @@ void WeaponDistance::onUsedAmmo(Player *player, Item *item, Tile *destTile) cons
 
 int32_t WeaponDistance::getWeaponDamage(const Player *player, const Creature *target, const Item *item, bool &isCritical, bool maxDamage /*= false*/) const
 {
+	if (target->getPlayer())
+	{
+		if (((target->getPlayer()->getSkill(SKILL_SHIELD, SKILL_LEVEL) - 10) / 8) >= random_range(1, 100))
+		{
+			g_game.addAnimatedText(target->getPosition(), COLOR_WHITE, "Dodge!");
+			return 0;
+		}
+	}
+
 	int32_t attackValue = attack;
 	if (item->getWeaponType() == WEAPON_AMMO)
 	{
@@ -961,6 +990,15 @@ bool WeaponWand::configureWeapon(const ItemType &it)
 
 int32_t WeaponWand::getWeaponDamage(const Player *player, const Creature *target, const Item *, bool &isCritical, bool maxDamage /* = false*/) const
 {
+	if (target->getPlayer())
+	{
+		if (((target->getPlayer()->getSkill(SKILL_SHIELD, SKILL_LEVEL) - 10) / 8) >= random_range(1, 100))
+		{
+			g_game.addAnimatedText(target->getPosition(), COLOR_WHITE, "Dodge!");
+			return 0;
+		}
+	}
+
 	float multiplier = 1.0f;
 	if (Vocation *vocation = player->getVocation())
 		multiplier = vocation->getMultiplier(MULTIPLIER_WAND);

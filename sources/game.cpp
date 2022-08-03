@@ -4938,14 +4938,12 @@ bool Game::combatBlockHit(const CombatType_t &combatType, Creature *attacker, Cr
 	}
 
 	int32_t damage = -healthChange;
-	BlockType_t blockType = target->blockHit(attacker, combatType,
-											 damage, checkDefense, checkArmor, !field, field, element);
+	BlockType_t blockType = target->blockHit(attacker, combatType, damage, checkDefense, checkArmor, !field, field, element);
 
 	healthChange = -damage;
+
 	if (blockType == BLOCK_DEFENSE)
-	{
 		return true;
-	}
 
 	if (blockType == BLOCK_ARMOR)
 	{
