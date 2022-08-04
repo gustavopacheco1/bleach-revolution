@@ -5,8 +5,6 @@ SPECIALS = {
 	},
 
 	["Tier Halibel"] = {
-		[100] = "Invisivel",
-		[100] = "Fowado",
 		[100] = "Hirviendo Protect",
 		[150] = "Hirviendo"
 	},
@@ -78,7 +76,6 @@ SPECIALS = {
 
 	["Chad"] = {
 		[100] = "Brazo Izquierdo Del Diablo",
-		[150] = "Fowado",
 		[150] = "Brazo Izquierdo"
 	},
 
