@@ -21781,7 +21781,6 @@
 	<item id="15002" article="a" name="Barragan Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="70"/>
-		<attribute key="speed" value="120"/>
 		<attribute key="manaGain" value="5000"/>
 		<attribute key="manaTicks" value="1000"/>
 		<attribute key="healthGain" value="5000"/>
@@ -21816,7 +21815,6 @@
 	<item id="15718" article="a" name="Founder Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="60"/>
-		<attribute key="speed" value="30"/>
 		<attribute key="healthGain" value="1200"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
@@ -21862,7 +21860,6 @@
 	<item id="15722" article="a" name="Vasto Lorde Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="70"/>
-		<attribute key="speed" value="45"/>
         <attribute key="magicpoints" value="5"/>
         <attribute key="skillSword" value="5"/>
         <attribute key="skillClub" value="5"/>
@@ -21908,7 +21905,6 @@
 	<item id="16085" article="a" name="Vizard Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="50"/>
-		<attribute key="speed" value="30"/>
 		<attribute key="magicpoints" value="3"/>
 		<attribute key="skillSword" value="3"/>
 		<attribute key="skillClub" value="3"/>
@@ -21947,7 +21943,6 @@
 	<item id="16122" article="a" name="Ultimate Vizard Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="55"/>
-		<attribute key="speed" value="32"/>
 		<attribute key="manaGain" value="1100"/>
 		<attribute key="manaTicks" value="1000"/>
 		<attribute key="healthGain" value="2200"/>
@@ -21978,7 +21973,6 @@
 	<item id="16092" article="a" name="Kaname Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="35"/>
-		<attribute key="speed" value="23"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
@@ -22014,7 +22008,6 @@
 	<item id="16096" article="a" name="Nnoitra Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="40"/>
-		<attribute key="speed" value="25"/>
 		<attribute key="skillSword" value="1"/>
 		<attribute key="skillClub" value="1"/>
 		<attribute key="skillDist" value="1"/>
@@ -22052,7 +22045,6 @@
 	<item id="16126" article="a" name="Ultimate Nnoitra Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="45"/>
-		<attribute key="speed" value="27"/>
 		<attribute key="manaGain" value="800"/>
 		<attribute key="manaTicks" value="1000"/>
 		<attribute key="healthGain" value="1800"/>
@@ -22083,7 +22075,6 @@
 	<item id="16100" article="a" name="Kensei Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="15"/>
-		<attribute key="speed" value="15"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
@@ -22110,7 +22101,6 @@
 	<item id="16103" article="a" name="halibel Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="30"/>
-		<attribute key="speed" value="25"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
@@ -22151,7 +22141,6 @@
 	<item id="16110" article="a" name="Zangetsu Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="45"/>
-		<attribute key="speed" value="27"/>
 		<attribute key="magicpoints" value="3"/>
 		<attribute key="skillSword" value="2"/>
 		<attribute key="skillClub" value="2"/>
@@ -22190,7 +22179,6 @@
 	<item id="16130" article="a" name="Ultimate Zangetsu Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="50"/>
-		<attribute key="speed" value="30"/>
 		<attribute key="manaGain" value="900"/>
 		<attribute key="manaTicks" value="1000"/>
 		<attribute key="healthGain" value="2000"/>
@@ -22221,7 +22209,6 @@
 	<item id="15075" article="a" name="Samurai Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="10"/>
-		<attribute key="speed" value="10"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
@@ -22277,7 +22264,6 @@
 	<item id="15815" article="a" name="Urahara Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="20"/>
-		<attribute key="speed" value="20"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
@@ -22303,7 +22289,6 @@
 	<item id="15366" article="a" name="Elite Urahara Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="20"/>
-		<attribute key="speed" value="20"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
@@ -22329,7 +22314,6 @@
 	<item id="15367" article="a" name="Furie Urahara Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="20"/>
-		<attribute key="speed" value="20"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
@@ -22356,7 +22340,6 @@
 	<item id="10689" article="a" name="Mummy Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="17"/>
-		<attribute key="speed" value="15"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
@@ -22382,7 +22365,6 @@
 	<item id="15378" article="a" name="Elite Mummy Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="17"/>
-		<attribute key="speed" value="15"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
@@ -22408,7 +22390,6 @@
 	<item id="15379" article="a" name="Furie Mummy Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="17"/>
-		<attribute key="speed" value="15"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
@@ -22498,7 +22479,6 @@
 	<item id="15119" article="a" name="Bandit Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="10"/>
-		<attribute key="speed" value="5"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
@@ -22524,7 +22504,6 @@
 	<item id="15380" article="a" name="Elite Bandit Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="10"/>
-		<attribute key="speed" value="6"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
@@ -22550,7 +22529,6 @@
 	<item id="15381" article="a" name="Furie Bandit Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="10"/>
-		<attribute key="speed" value="7"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
@@ -22571,7 +22549,6 @@
 	<item id="10731" article="a" name="Arrancar Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="20"/>
-		<attribute key="speed" value="12"/>
 		<attribute key="healthGain" value="800"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
@@ -22592,7 +22569,6 @@
 	<item id="15011" article="a" name="Elite Arrancar Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="20"/>
-		<attribute key="speed" value="12"/>
 		<attribute key="healthGain" value="900"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
@@ -22613,7 +22589,6 @@
 	<item id="15012" article="a" name="Furie Arrancar Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="20"/>
-		<attribute key="speed" value="12"/>
 		<attribute key="healthGain" value="1000"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
