@@ -5,7 +5,7 @@ setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -105, 0, -120, 0)
 setCombatArea(combat, createCombatArea(AREA_CANNON6SQM, AREADIAGONAL_CANNON6SQM))
 
 function onCastSpell(cid, var)
-	if exhaustion.check(cid, "cannon") then
+	if exhaustion.check(cid, "Doble Cero") then
 		doPlayerSendDefaultCancel(cid, RETURNVALUE_YOUAREEXHAUSTED)
 		return false
 	end
@@ -18,6 +18,6 @@ function onCastSpell(cid, var)
 		{ east = 756, west = 756, north = 755, south = 755 }
 	)
 
-	exhaustion.set(cid, "cannon", 2)
+	exhaustion.set(cid, "Doble Cero", 3)
 	return true
 end
