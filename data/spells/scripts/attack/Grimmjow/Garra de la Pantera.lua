@@ -29,6 +29,6 @@ function onCastSpell(cid, var)
         )
     end
 
-    exhaustion.set(cid, 200, 2)
+    exhaustion.set(cid, 300, 3)
     return true
 end
