@@ -1,63 +1,63 @@
 local skills_stages = {
 	[SKILL_FIST] = {
-		{ level = 0, rate = 10 },
-		{ level = 60, rate = 6 },
+		{ level = 0, rate = 3 },
+		{ level = 60, rate = 2 },
 		{ level = 80, rate = 1 },
 		{ level = 100, rate = 0.8 },
 		{ level = 120, rate = 0.5 }
 	},
 
 	[SKILL_CLUB] = {
-		{ level = 0, rate = 10 },
-		{ level = 60, rate = 6 },
+		{ level = 0, rate = 3 },
+		{ level = 60, rate = 2 },
 		{ level = 80, rate = 1 },
 		{ level = 100, rate = 0.8 },
 		{ level = 120, rate = 0.5 }
 	},
 
 	[SKILL_SWORD] = {
-		{ level = 0, rate = 10 },
-		{ level = 60, rate = 6 },
+		{ level = 0, rate = 3 },
+		{ level = 60, rate = 2 },
 		{ level = 80, rate = 1 },
 		{ level = 100, rate = 0.8 },
 		{ level = 120, rate = 0.5 }
 	},
 
 	[SKILL_AXE] = {
-		{ level = 0, rate = 10 },
-		{ level = 60, rate = 6 },
+		{ level = 0, rate = 3 },
+		{ level = 60, rate = 2 },
 		{ level = 80, rate = 1 },
 		{ level = 100, rate = 0.8 },
 		{ level = 120, rate = 0.5 }
 	},
 
 	[SKILL_DISTANCE] = {
-		{ level = 0, rate = 10 },
-		{ level = 60, rate = 6 },
+		{ level = 0, rate = 3 },
+		{ level = 60, rate = 2 },
 		{ level = 80, rate = 1 },
 		{ level = 100, rate = 0.8 },
 		{ level = 120, rate = 0.5 }
 	},
 
 	[SKILL_SHIELD] = {
-		{ level = 0, rate = 10 },
-		{ level = 60, rate = 6 },
+		{ level = 0, rate = 3 },
+		{ level = 60, rate = 2 },
 		{ level = 80, rate = 1 },
 		{ level = 100, rate = 0.8 },
 		{ level = 120, rate = 0.5 }
 	},
 
 	[SKILL_FISHING] = {
-		{ level = 0, rate = 10 },
-		{ level = 60, rate = 6 },
+		{ level = 0, rate = 3 },
+		{ level = 60, rate = 2 },
 		{ level = 80, rate = 1 },
 		{ level = 100, rate = 0.8 },
 		{ level = 120, rate = 0.5 }
 	},
 
 	[SKILL__MAGLEVEL] = {
-		{ level = 0, rate = 5 },
-		{ level = 100, rate = 3 },
+		{ level = 0, rate = 3 },
+		{ level = 100, rate = 2 },
 		{ level = 120, rate = 1 },
 		{ level = 135, rate = 0.5 },
 		{ level = 140, rate = 0.1 },
