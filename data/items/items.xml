@@ -23730,4 +23730,5 @@
 		<attribute key="duration" value="900"/>
 		<attribute key="corpseType" value="blood"/>
 	</item>
+	<item fromid="16453" toid="16454" article="a" name="running machine"/>
 </items>
