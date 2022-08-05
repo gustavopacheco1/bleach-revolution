@@ -48,12 +48,10 @@ local skills_stages = {
 	},
 
 	[SKILL_FISHING] = {
-		{ level = 0, rate = 10 },
-		{ level = 30, rate = 5 },
-		{ level = 60, rate = 1 },
-		{ level = 80, rate = 3 },
-		{ level = 100, rate = 2 },
-		{ level = 120, rate = 1 }
+		{ level = 0, rate = 7 },
+		{ level = 30, rate = 4 },
+		{ level = 60, rate = 2 },
+		{ level = 80, rate = 1 },
 	},
 
 	[SKILL__MAGLEVEL] = {
