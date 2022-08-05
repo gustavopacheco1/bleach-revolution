@@ -16,9 +16,9 @@
 	sqlType = "mysql"
 	sqlHost = "127.0.0.1"
 	sqlPort = 3306
-	sqlUser = "bM498s79Sd040"
-	sqlPass = "a8s79dASdmhkoCK"
-	sqlDatabase = "bleach-revolution"
+	sqlUser = "root"
+	sqlPass = ""
+	sqlDatabase = "bleach-revolution_myaac"
 	sqlFile = "schemas/otxserver.s3db"
 	sqlKeepAlive = 0
 	mysqlReadTimeout = 10
@@ -28,7 +28,7 @@
 
 	-- World / Ip / Port
 	worldId = 0
-	ip = "66.70.155.246"
+	ip = "127.0.0.1"
 	worldType = "open"
 	bindOnlyGlobalAddress = false
 	loginPort = 7171
@@ -177,6 +177,7 @@
 		exhaustionInSecondsNPC = 0.5
 		delayLastPushStep = true
 		optionalProtection = false
+		lootChannel = 10
 
 		-- Advanced Version
 		-- Note: If you use another protocol than the one we set as you will have functional failures.
