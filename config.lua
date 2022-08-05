@@ -343,7 +343,7 @@
 	updatePremiumStateAtStartup = true
 
 	-- Rates
-	experienceStages = false
+	experienceStages = true
 	rateExperience = 5.0
 	rateExperienceFromPlayers = 0
 	levelToOfflineTraining = 8
