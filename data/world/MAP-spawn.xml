@@ -7269,64 +7269,48 @@
 		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3579" centery="3398" centerz="6" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="0" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3593" centery="3398" centerz="6" radius="1">
-		<monster name="Black Wolf" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3478" centery="3401" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3574" centery="3402" centerz="6" radius="1">
-		<monster name="Black Wolf" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="0" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3588" centery="3403" centerz="6" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="0" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3592" centery="3403" centerz="6" radius="1">
-		<monster name="Black Wolf" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3579" centery="3404" centerz="6" radius="1">
-		<monster name="Black Wolf" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="0" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3583" centery="3404" centerz="6" radius="1">
-		<monster name="Black Wolf" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2873" centery="3405" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3596" centery="3406" centerz="6" radius="1">
-		<monster name="Black Wolf" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3466" centery="3407" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
@@ -7338,43 +7322,29 @@
 		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3592" centery="3408" centerz="6" radius="1">
-		<monster name="Black Wolf" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3573" centery="3409" centerz="6" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="0" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="0" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3588" centery="3409" centerz="6" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="0" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3579" centery="3411" centerz="6" radius="1">
-		<monster name="Black Wolf" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3584" centery="3413" centerz="6" radius="1">
-		<monster name="Black Wolf" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3591" centery="3413" centerz="6" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="0" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2871" centery="3414" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
@@ -7386,20 +7356,14 @@
 		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3596" centery="3414" centerz="6" radius="1">
-		<monster name="Black Wolf" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="0" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3574" centery="3416" centerz="6" radius="1">
-		<monster name="Black Wolf" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3538" centery="3419" centerz="6" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="-1" z="6" spawntime="60" />
@@ -7407,22 +7371,14 @@
 		<monster name="Rungokai Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3581" centery="3419" centerz="6" radius="1">
-		<monster name="Black Wolf" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="0" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3590" centery="3419" centerz="6" radius="1">
-		<monster name="Black Wolf" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="0" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="1" z="6" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2869" centery="3421" centerz="6" radius="1">
 		<monster name="Hiroshin" x="-1" y="-1" z="6" spawntime="60" />
@@ -13251,24 +13207,19 @@
 		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3576" centery="3398" centerz="7" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="0" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3595" centery="3399" centerz="7" radius="1">
-		<monster name="Black Wolf" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3584" centery="3400" centerz="7" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3510" centery="3401" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="-1" z="7" spawntime="60" />
@@ -13286,19 +13237,14 @@
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3573" centery="3403" centerz="7" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3591" centery="3404" centerz="7" radius="1">
-		<monster name="Black Wolf" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="0" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3632" centery="3404" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
@@ -13315,20 +13261,14 @@
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3585" centery="3407" centerz="7" radius="1">
-		<monster name="Black Wolf" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3596" centery="3407" centerz="7" radius="1">
-		<monster name="Black Wolf" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3635" centery="3407" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="-1" z="7" spawntime="60" />
@@ -13341,12 +13281,9 @@
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3573" centery="3410" centerz="7" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="0" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3634" centery="3410" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
@@ -13358,21 +13295,15 @@
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3579" centery="3411" centerz="7" radius="1">
-		<monster name="Black Wolf" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Black Wolf" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3591" centery="3411" centerz="7" radius="1">
-		<monster name="Black Wolf" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3638" centery="3411" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="1" z="7" spawntime="60" />
@@ -13392,12 +13323,9 @@
 		<monster name="Rungokai Bandit" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3596" centery="3414" centerz="7" radius="1">
-		<monster name="Black Wolf" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3633" centery="3414" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
@@ -13423,11 +13351,9 @@
 		<monster name="Rungokai Bandit" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3574" centery="3417" centerz="7" radius="1">
-		<monster name="Black Wolf" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="0" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3638" centery="3417" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="-1" z="7" spawntime="60" />
@@ -13440,18 +13366,14 @@
 		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3583" centery="3419" centerz="7" radius="1">
-		<monster name="Black Wolf" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3593" centery="3419" centerz="7" radius="1">
-		<monster name="Black Wolf" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Black Wolf" x="0" y="1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3629" centery="3419" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
