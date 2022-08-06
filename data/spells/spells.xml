@@ -4,8 +4,8 @@
 		<vocation id="0"/>
 	</instant>
 	<!-- Healing -->
-	<instant name="regeneration" words="regeneration" lvl="5" mana="1000" aggressive="0" selftarget="1" exhaustion="1500" exhaustedGroup="heal" needlearn="0" event="script" value="healing/regeneration.lua"/>
-	<instant name="Big Regeneration" words="big regeneration" lvl="150" mana="2000" aggressive="0" selftarget="1" exhaustion="2000" exhaustedGroup="heal" needlearn="0" event="script" value="healing/big_regeneration.lua"/>
+	<instant name="regeneration" words="regeneration" lvl="5" mana="200" aggressive="0" selftarget="1" exhaustion="1500" exhaustedGroup="heal" needlearn="0" event="script" value="healing/regeneration.lua"/>
+	<instant name="Big Regeneration" words="big regeneration" lvl="150" mana="400" aggressive="0" selftarget="1" exhaustion="2000" exhaustedGroup="heal" needlearn="0" event="script" value="healing/big_regeneration.lua"/>
 	<instant name="Kaidou Heal" words="kaidou heal" lvl="150" mana="2500" prem="0" aggressive="0" needtarget="1" params="1" exhaustion="1500" exhaustedGroup="heal" needlearn="0" event="script" value="healing/kaidou_heal.lua">
 		<vocation id="12"/> <!-- Retsu Unohana -->
 	</instant>
