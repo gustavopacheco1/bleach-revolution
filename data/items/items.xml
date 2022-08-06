@@ -22549,8 +22549,6 @@
 	<item id="10731" article="a" name="Arrancar Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="20"/>
-		<attribute key="healthGain" value="800"/>
-		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
@@ -22569,8 +22567,6 @@
 	<item id="15011" article="a" name="Elite Arrancar Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="20"/>
-		<attribute key="healthGain" value="900"/>
-		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
@@ -22589,8 +22585,6 @@
 	<item id="15012" article="a" name="Furie Arrancar Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="20"/>
-		<attribute key="healthGain" value="1000"/>
-		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
@@ -22598,173 +22592,123 @@
 	<item id="15099" article="a" name="Grand Fisher Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="25"/>
-		<attribute key="healthGain" value="1000"/>
-		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15240" article="a" name="Elite Grand Fisher Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="25"/>
-		<attribute key="healthGain" value="1200"/>
-		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15241" article="a" name="Furie Grand Fisher Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="25"/>
-		<attribute key="healthGain" value="1300"/>
-		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15102" article="a" name="Adjuchas Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="35"/>
-		<attribute key="healthGain" value="800"/>
-		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15248" article="a" name="Elite Adjuchas Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="35"/>
-		<attribute key="healthGain" value="1000"/>
-		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15249" article="a" name="Furie Adjuchas Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="35"/>
-		<attribute key="healthGain" value="1100"/>
-		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15103" article="a" name="Gilliam Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="29"/>
-		<attribute key="manaGain" value="200"/>
-		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="1100"/>
-		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15250" article="a" name="Elite Gilliam Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="29"/>
-		<attribute key="healthGain" value="1200"/>
-		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15251" article="a" name="Furie Gilliam Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="29"/>
-		<attribute key="healthGain" value="1300"/>
-		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15104" article="a" name="Spider Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="25"/>
-		<attribute key="healthGain" value="300"/>
-		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15256" article="a" name="Elite Spider Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="25"/>
-		<attribute key="healthGain" value="400"/>
-		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15257" article="a" name="Furie Spider Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="25"/>
-		<attribute key="healthGain" value="450"/>
-		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15105" article="a" name="Arak Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="15"/>
-		<attribute key="healthGain" value="200"/>
-		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15260" article="a" name="Elite Arak Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="16"/>
-		<attribute key="healthGain" value="200"/>
-		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15261" article="a" name="Furie Arak Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="16"/>
-		<attribute key="healthGain" value="300"/>
-		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15772" article="a" name="Arrancar Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="30"/>
-		<attribute key="healthGain" value="1500"/>
-		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15767" article="a" name="Vast Lord Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="40"/>
-		<attribute key="healthGain" value="3500"/>
-		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15150" article="a" name="Togabito Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="20"/>
-		<attribute key="healthGain" value="1200"/>
-		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 
 	<item id="11094" article="a" name="Snake Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="5"/>
-		<attribute key="healthGain" value="200"/>
-		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15266" article="a" name="Elite Snake Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="5"/>
-		<attribute key="healthGain" value="250"/>
-		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15267" article="a" name="Furie Snake Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="5"/>
-		<attribute key="healthGain" value="300"/>
-		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 
 	<item id="11095" article="a" name="Wolf Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="10"/>
-		<attribute key="healthGain" value="200"/>
-		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15264" article="a" name="Elite Wolf Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="10"/>
-		<attribute key="healthGain" value="200"/>
-		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15265" article="a" name="Furie Wolf Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="10"/>
-		<attribute key="healthGain" value="200"/>
-		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 
