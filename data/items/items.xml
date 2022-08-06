@@ -23364,6 +23364,11 @@
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
+	<item id="16456" article="a" name="Training Critical">
+		<attribute key="weight" value="2500"/>
+		<attribute key="attack" value="1"/>
+		<attribute key="weaponType" value="club"/>
+	</item>
 
 	<!-- Gloves -->
 	<item id="16375" article="a" name="Brazo Derecha de Gigante">
