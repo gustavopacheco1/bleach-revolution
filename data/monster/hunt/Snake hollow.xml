@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Monster Level: 20 -->
 <monster name="Snake Hollow" nameDescription="Snake Hollow" race="blood" experience="450" speed="60" manacost="0">
-	<health now="7000" max="7000"/>
+	<health now="4000" max="4000"/>
 	<look type="55" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
