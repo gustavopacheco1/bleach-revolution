@@ -21749,6 +21749,9 @@
 		<attribute key="preventDrop" value="1"/>
 		<attribute key="charges" value="1"/>
 	</item>
+	<item id="15661" article="an" name="chest">
+		<attribute key="containerSize" value="8"/>
+	</item>
 
 	<!-- Barragan Set -->
 	<item id="15001" article="a" name="Barragan Helmet">
