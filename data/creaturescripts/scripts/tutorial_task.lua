@@ -50,7 +50,22 @@ function onKill(cid, target, damage, flags)
 			"You've completed the job that Daitan provided to you. Go talk to him.",
 			"Você completou o serviço que Daitan forneceu a você. Vá falar com ele."
 		)
+		MultiLanguage.doPlayerSendTextMessage(
+			cid,
+			MESSAGE_EVENT_ADVANCE,
+			"You've completed the job that Daitan provided to you. Go talk to him.",
+			"Você completou o serviço que Daitan forneceu a você. Vá falar com ele."
+		)
+
 		unregisterCreatureEvent(cid, "TutorialTask")
+		doCreatureSetStorage(cid, "tutorial", 4)
+		doSendTutorialArrow(
+			cid,
+			{ x = 158, y = 31, z = 8 },
+			"tutorial",
+			4,
+			{ x = 156, y = 31, z = 7 }
+		)
 	end
 	return true
 end

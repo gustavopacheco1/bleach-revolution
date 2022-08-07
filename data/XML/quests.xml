@@ -2,7 +2,16 @@
 <quests>
 	<quest name="Tutorial" startstorageid="tutorial" startstoragevalue="2">
 		<mission name="First steps" storageid="tutorial" startvalue="2" endvalue="10">
-			<missionstate id="2" description="Talk to Daitan."/>
+			<missionstate id="2" description="Talk to Daitan 1."/>
+			<missionstate id="3" description="Talk to Daitan 2."/>
+			<missionstate id="4" description="Talk to Daitan 3."/>
+			<missionstate id="5" description="Talk to Daitan 4."/>
+			<missionstate id="6" description="Talk to Daitan 5."/>
+			<missionstate id="7" description="Talk to Daitan 6."/>
+			<missionstate id="8" description="Talk to Daitan 7."/>
+			<missionstate id="8" description="Talk to Daitan 8."/>
+			<missionstate id="9" description="Talk to Daitan 9."/>
+			<missionstate id="10" description="Talk to Daitan 10."/>
 		</mission>
 	</quest>
 </quests>

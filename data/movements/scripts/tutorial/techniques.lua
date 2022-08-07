@@ -7,7 +7,12 @@ function onStepIn(cid, item, position, fromPosition)
 		)
 		doCreatureExecuteTalkAction(cid, "!techniques")
 		doCreatureSetStorage(cid, "tutorial", 2)
-		doSendTutorialArrow(cid, { x = 158, y = 31, z = 8 }, "tutorial", 2)
+		doSendTutorialArrow(
+			cid,
+			{ x = 158, y = 31, z = 8 },
+			"tutorial", 2,
+			{ x = 156, y = 31, z = 7 }
+		)
 	end
 	return true
 end

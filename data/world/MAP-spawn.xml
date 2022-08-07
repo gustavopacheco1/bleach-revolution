@@ -10054,6 +10054,9 @@
 	<spawn centerx="139" centery="28" centerz="7" radius="1">
 		<monster name="Punching Bag" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="155" centery="51" centerz="7" radius="1">
+		<npc name="Tutorial - Yuuto" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3900" centery="2568" centerz="7" radius="1">
 		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
 		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
@@ -18908,7 +18911,7 @@
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="158" centery="31" centerz="8" radius="1">
-		<npc name="Tutorial" x="0" y="0" z="8" spawntime="60" />
+		<npc name="Tutorial - Daitan" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="171" centery="32" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />

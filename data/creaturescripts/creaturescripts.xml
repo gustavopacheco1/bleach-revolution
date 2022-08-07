@@ -36,4 +36,10 @@
 	<event type="statschange" name="ReflectNozarashi" event="script" value="spells/reflect_nozarashi.lua"/>
 	<event type="statschange" name="PhysicalProtection" event="script" value="spells/physical_protection.lua"/>
 	<event type="attack" name="WolfAttack" event="script" value="spells/wolf_attack.lua"/>
+
+	<!-- Tutorial -->
+	<event type="login" name="LoginTutorial" event="script" value="tutorial/login.lua"/>
+	<event type="advance" name="AdvanceAgilityTutorial" event="script" value="tutorial/advance_agility.lua"/>
+	<event type="advance" name="AdvanceCriticalTutorial" event="script" value="tutorial/advance_critical.lua"/>
+	<event type="attack" name="AttackCriticalTutorial" event="script" value="tutorial/attack_critical.lua"/>
 </creaturescripts>

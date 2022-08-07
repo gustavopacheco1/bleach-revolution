@@ -719,9 +719,83 @@ function doRemoveCreatureSummons(cid)
 	return true
 end
 
-function doSendTutorialArrow(cid, position, storage_key, storage_value)
-	if getCreatureStorage(cid, storage_key) == storage_value then
-		doSendMagicEffect(position, 517, cid)
-		addEvent(doSendTutorialArrow, 1200, cid, position, storage_key, storage_value)
+function doSendTutorialArrow(cid, position, storage_key, storage_value, secondary_position)
+	if not isCreature(cid) then
+		return
 	end
+
+	if getCreatureStorage(cid, storage_key) ~= storage_value then
+		return
+	end
+
+	local creaturePosition = getCreaturePosition(cid)
+	local targetPosition = position
+
+	if creaturePosition.z ~= position.z then
+		if secondary_position == nil then
+			addEvent(doSendTutorialArrow, 3000, cid, position, storage_key, storage_value, secondary_position)
+			return
+		end
+
+		targetPosition = secondary_position
+	end
+
+	if doComparePositions(creaturePosition, targetPosition) then
+		addEvent(doSendTutorialArrow, 3000, cid, position, storage_key, storage_value, secondary_position)
+		return
+	end
+
+	if getDistanceBetween(creaturePosition, targetPosition) <= 7 then
+		doSendMagicEffect(targetPosition, 517, cid)
+		addEvent(doSendTutorialArrow, 1200, cid, position, storage_key, storage_value, secondary_position)
+		return
+	end
+
+	local positionDifference = {
+		x = creaturePosition.x - targetPosition.x,
+		y = creaturePosition.y - targetPosition.y,
+		z = creaturePosition.z - targetPosition.z
+	}
+
+	local maxPositionDifference = math.max(math.abs(positionDifference.x), math.abs(positionDifference.y))
+	local direction = -1
+
+	if maxPositionDifference >= 5 then
+		local positionTangent = positionDifference.x ~= 0 and positionDifference.y / positionDifference.x or 10
+		if math.abs(positionTangent) < 0.4142 then
+			direction = positionDifference.x > 0 and WEST or EAST
+		elseif math.abs(positionTangent) < 2.4142 then
+			direction = positionTangent > 0 and (positionDifference.y > 0 and NORTHWEST or SOUTHEAST) or
+				positionDifference.x > 0 and SOUTHWEST or NORTHEAST
+		else
+			direction = positionDifference.y > 0 and NORTH or SOUTH
+		end
+	end
+
+	local incrementX = 0
+	local incrementY = 0
+
+	if table.contains({ SOUTH, SOUTHEAST, SOUTHWEST }, direction) then
+		incrementY = 5
+	end
+
+	if table.contains({ EAST, NORTHEAST, SOUTHEAST }, direction) then
+		incrementX = 7
+	end
+
+	if table.contains({ WEST, NORTHWEST, SOUTHWEST }, direction) then
+		incrementX = -7
+	end
+
+	if table.contains({ NORTH, NORTHEAST, NORTHWEST }, direction) then
+		incrementY = -5
+	end
+
+	doSendDistanceShoot(creaturePosition, {
+		x = creaturePosition.x + incrementX,
+		y = creaturePosition.y + incrementY,
+		z = creaturePosition.z
+	}, 62, cid)
+
+	addEvent(doSendTutorialArrow, 3000, cid, position, storage_key, storage_value, secondary_position)
 end

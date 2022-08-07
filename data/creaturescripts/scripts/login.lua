@@ -41,10 +41,7 @@ function onLogin(cid)
 	registerCreatureEvent(cid, "NpcTarget")
 	registerCreatureEvent(cid, "Death")
 	registerCreatureEvent(cid, "AmuletOfLoss")
-
-	if getCreatureStorage(cid, "tutorial") == 3 and getCreatureStorage(cid, "tutorial_task") < 10 then
-		registerCreatureEvent(cid, "TutorialTask")
-	end
+	registerCreatureEvent(cid, "SkillsStagesAdvance")
 
 	doCreatureSetStorage(cid, "save", (os.time() + 120))
 	return true

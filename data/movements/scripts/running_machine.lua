@@ -11,7 +11,7 @@ function onStepIn(cid, item, position, fromPosition)
 			doPlayerDispelCondition(cid, CONDITION_HASTE)
 		end
 
-		doChangeSpeed(cid, -getCreatureSpeed(cid) + 500)
+		doChangeSpeed(cid, -getCreatureSpeed(cid) + 100)
 		return true
 	end
 
