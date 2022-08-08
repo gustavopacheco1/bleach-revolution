@@ -2,7 +2,7 @@ buyable_items = {
 	["Ururu Tsumugiya"] = {
 		[2293] = { price = 10000 }
 	},
-	
+
 	["Jinta"] = {
 		[15740] = { price = 2000 },
 		[15776] = { price = 2000 },
@@ -26,6 +26,10 @@ buyable_items = {
 		[16114] = { price = 300000 },
 		[16116] = { price = 10000 },
 		[16117] = { price = 10000 }
+	},
+
+	["Yoshino"] = {
+		[16456] = { price = 180000, subType = 180 },
 	}
 }
 
@@ -91,7 +95,7 @@ sellable_items = {
 		[15687] = { price = 1000 },
 		[15230] = { price = 1000 }
 	},
-	
+
 	["Loreto"] = {
 		[15249] = { price = 20000 },
 		[15248] = { price = 10000 },

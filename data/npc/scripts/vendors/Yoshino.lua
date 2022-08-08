@@ -24,10 +24,8 @@ function onCreatureSay(cid, type, msg)
 			playerTrainerTime[cid] = nil
 			npcHandler:addFocus(cid)
 			selfSayMultiLanguage(
-				"Welcome to the Karakura Academy! Here you can train for free. However, if you you {pay} an amount of ryos, I can configure those Punching Bags to fight back your attacks, so you can train your dodge."
-				,
-				"Seja bem vindo à Academia de Karakura! Aqui você pode treinar de graça. Porém, se você {pagar} uma quantia de ryos, eu posso configurar esses Punching Bags para revidar seus ataques para você conseguir treinar sua esquiva."
-				,
+				"Welcome to the Karakura Academy! Here you can train for free. However, if you you {pay} an amount of ryos, I can configure those Punching Bags to fight back your attacks, so you can train your dodge.",
+				"Seja bem vindo à Academia de Karakura! Aqui você pode treinar de graça. Porém, se você {pagar} uma quantia de ryos, eu posso configurar esses Punching Bags para revidar seus ataques para você conseguir treinar sua esquiva.",
 				cid
 			)
 			return true
@@ -46,6 +44,28 @@ function onCreatureSay(cid, type, msg)
 
 	if (not npcHandler:isFocused(cid)) then
 		return false
+	end
+
+	if isInArray({ "trade", "offer" }, msg) then
+		selfSayMultiLanguage(
+			'Here\'s my offer, ' .. getPlayerName(cid) .. '. You can use wooden swords to train your critical skills. But watch out, these swords break!',
+			'Aqui está minha oferta, ' .. getPlayerName(cid) .. '. Você pode usar as wooden swords pra treinar suas habilidades de critical. Mas atenção, essas espadas quebram!',
+			cid
+		)
+
+		local shopWindow = {}
+		for var, ret in pairs(buyable_items[getCreatureName(getNpcId())]) do
+			table.insert(shopWindow, {
+				id = var,
+				subType = ret.subType or 0,
+				buy = ret.price,
+				sell = 0,
+				name = getItemNameById(var)
+			})
+		end
+
+		openShopWindow(cid, shopWindow, creatureSayBuy, creatureSaySell)
+		return true
 	end
 
 	if isInArray({ "pay", "pagar" }, msg) then
