@@ -38,6 +38,7 @@ function onStatsChange(cid, attacker, type, combat, value)
 	doCreatureSetLookDirection(clone, NORTH)
 	addEvent(doCreatureSetStorage, 1000, clone, "dead_player_id", cid)
 	doSetCreatureOutfit(cid, { lookType = 0 }, 6000)
+	doCreatureSetHideHealth(clone, true)
 
 	addEvent(function()
 		if not isCreature(clone) then

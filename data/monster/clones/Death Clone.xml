@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Death Soul Clone" nameDescription="a soul" race="blood" experience="0" speed="0" manacost="1000">
+<monster name="Soul" nameDescription="a soul" race="blood" experience="0" speed="0" manacost="1000">
 	<health now="500000" max="500000"/>
 	<look type="457"/>
 	<strategy attack="100" defense="0"/>

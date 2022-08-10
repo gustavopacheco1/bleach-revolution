@@ -2885,15 +2885,7 @@ void ProtocolGame::AddCreature(OutputMessage_ptr msg, const Creature *creature, 
 		msg->add<uint16_t>(0x61);
 		msg->add<uint32_t>(remove);
 		msg->add<uint32_t>(creature->getID());
-		if (creature->getHideName())
-		{
-			msg->addString("");
-		}
-		else
-		{
-			const Creature *master = creature->getMaster();
-			msg->addString(creature->getName() == "Death Soul Clone" && master && master->getPlayer() ? master->getName() + "'s soul" : creature->getName());
-		}
+		msg->addString(creature->getHideName() ? "" : creature->getName());
 	}
 	else
 	{
