@@ -18,8 +18,8 @@ function onCreatureSay(cid, type, msg)
 	if not npcHandler:isFocused(cid) and getDistanceBetween(getThingPos(cid), getNpcPos()) < 5 then
 		if isInArray({ "hi", "hello", "oi", "olá" }, msg) then
 			selfSayMultiLanguage(
-				"{yes} -- TODO: frase desse npc",
-				"{yes} -- TODO: frase desse npc",
+				"Hello, I can take you to my subordinates to drop the Urahara Set, say {yes} and I will take you.",
+				"Olá, posso te levar até meus subordinados para dropar o Urahara Set, diga {sim} e eu te levarei.",
 				cid
 			)
 			npcHandler:addFocus(cid)
