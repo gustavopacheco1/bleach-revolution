@@ -44,8 +44,8 @@ function onCreatureSay(cid, type, msg)
 	if isInArray({ "yes", "sim" }, msg) then
 		if getPlayerLevel(cid) < 130 then
 			selfSayMultiLanguage(
-				"You are too weak compared with the place I would take you. When you reach, at least, level 250 come here again.",
-				"Você é muito fraco comparado com o lugar que eu te levaria. Quando você alcançar, pelo menos, o nível 250 venha até aqui novamente."
+				"You are too weak compared with the place I would take you. When you reach, at least, level 130 come here again.",
+				"Você é muito fraco comparado com o lugar que eu te levaria. Quando você alcançar, pelo menos, o nível 130 venha até aqui novamente."
 				,
 				cid
 			)
