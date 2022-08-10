@@ -3237,6 +3237,20 @@
 		<monster name="Kensei" x="-1" y="-1" z="5" spawntime="60" />
 		<monster name="Kensei" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="2416" centery="3362" centerz="5" radius="1">
+		<monster name="Menos" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Menos" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2433" centery="3362" centerz="5" radius="1">
+		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Menos" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2451" centery="3362" centerz="5" radius="1">
+		<monster name="Menos" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Menos" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="4017" centery="3365" centerz="5" radius="1">
 		<monster name="Kensei" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Kensei" x="1" y="1" z="5" spawntime="60" />
@@ -3253,9 +3267,59 @@
 		<monster name="Kensei" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Kensei" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="2437" centery="3373" centerz="5" radius="1">
+		<monster name="Menos" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Menos" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2429" centery="3374" centerz="5" radius="1">
+		<monster name="Menos" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Menos" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2402" centery="3375" centerz="5" radius="1">
+		<monster name="Menos" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Menos" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2417" centery="3375" centerz="5" radius="1">
+		<monster name="Menos" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Menos" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2451" centery="3379" centerz="5" radius="1">
+		<monster name="Menos" x="0" y="-1" z="5" spawntime="60" />
+		<monster name="Menos" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2402" centery="3385" centerz="5" radius="1">
+		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2428" centery="3392" centerz="5" radius="1">
+		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Menos" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3487" centery="3392" centerz="5" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Elite Bandit" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2402" centery="3393" centerz="5" radius="1">
+		<monster name="Menos" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Menos" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2416" centery="3393" centerz="5" radius="1">
+		<monster name="Menos" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2434" centery="3393" centerz="5" radius="1">
+		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Menos" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2450" centery="3393" centerz="5" radius="1">
+		<monster name="Menos" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Menos" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3481" centery="3393" centerz="5" radius="1">
 		<monster name="Elite Bandit" x="0" y="-1" z="5" spawntime="60" />
@@ -7140,6 +7204,26 @@
 	<spawn centerx="3919" centery="3361" centerz="6" radius="1">
 		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2415" centery="3362" centerz="6" radius="1">
+		<monster name="Menos" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2425" centery="3362" centerz="6" radius="1">
+		<monster name="Menos" x="-1" y="0" z="6" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2437" centery="3362" centerz="6" radius="1">
+		<monster name="Menos" x="-1" y="0" z="6" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2445" centery="3362" centerz="6" radius="1">
+		<monster name="Menos" x="-1" y="0" z="6" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2451" centery="3362" centerz="6" radius="1">
+		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Menos" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="2811" centery="3362" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Hiroshin" x="-1" y="1" z="6" spawntime="60" />
@@ -7159,6 +7243,10 @@
 	</spawn>
 	<spawn centerx="3922" centery="3365" centerz="6" radius="1">
 		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2434" centery="3366" centerz="6" radius="1">
+		<monster name="Menos" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2802" centery="3366" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
@@ -7185,6 +7273,10 @@
 	<spawn centerx="3950" centery="3369" centerz="6" radius="1">
 		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2417" centery="3370" centerz="6" radius="1">
+		<monster name="Menos" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="2845" centery="3370" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -7202,15 +7294,35 @@
 	<spawn centerx="3942" centery="3370" centerz="6" radius="1">
 		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2430" centery="3372" centerz="6" radius="1">
+		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Menos" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2435" centery="3372" centerz="6" radius="1">
+		<monster name="Menos" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="2813" centery="3373" centerz="6" radius="1">
 		<monster name="Hiroshin" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2451" centery="3374" centerz="6" radius="1">
+		<monster name="Menos" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="2834" centery="3374" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2404" centery="3375" centerz="6" radius="1">
+		<monster name="Menos" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="2863" centery="3375" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2418" centery="3376" centerz="6" radius="1">
+		<monster name="Menos" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2822" centery="3376" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
@@ -7226,6 +7338,10 @@
 	<spawn centerx="3469" centery="3377" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2451" centery="3379" centerz="6" radius="1">
+		<monster name="Menos" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2800" centery="3380" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
@@ -7249,14 +7365,35 @@
 	<spawn centerx="2904" centery="3384" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2402" centery="3386" centerz="6" radius="1">
+		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Menos" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="2874" centery="3387" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2896" centery="3388" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2451" centery="3390" centerz="6" radius="1">
+		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Menos" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="2888" centery="3391" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2402" centery="3393" centerz="6" radius="1">
+		<monster name="Menos" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2414" centery="3393" centerz="6" radius="1">
+		<monster name="Menos" x="-1" y="0" z="6" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2439" centery="3393" centerz="6" radius="1">
+		<monster name="Menos" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Menos" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2805" centery="3393" centerz="6" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="6" spawntime="60" />
@@ -13070,6 +13207,19 @@
 	<spawn centerx="3937" centery="3361" centerz="7" radius="1">
 		<monster name="Kensei" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2418" centery="3362" centerz="7" radius="1">
+		<monster name="Menos" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2432" centery="3362" centerz="7" radius="1">
+		<monster name="Menos" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2450" centery="3362" centerz="7" radius="1">
+		<monster name="Menos" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Menos" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3493" centery="3363" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -13081,6 +13231,18 @@
 	<spawn centerx="2806" centery="3365" centerz="7" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Hiroshin" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2429" centery="3366" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Menos" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2437" centery="3366" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Menos" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2447" centery="3368" centerz="7" radius="1">
+		<monster name="Menos" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3494" centery="3368" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
@@ -13097,9 +13259,31 @@
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2427" centery="3372" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Menos" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3508" centery="3372" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2422" centery="3373" centerz="7" radius="1">
+		<monster name="Menos" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2438" centery="3373" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Menos" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2417" centery="3374" centerz="7" radius="1">
+		<monster name="Menos" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Menos" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2403" centery="3375" centerz="7" radius="1">
+		<monster name="Menos" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Menos" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2801" centery="3375" centerz="7" radius="1">
 		<monster name="Hiroshin" x="1" y="-1" z="7" spawntime="60" />
@@ -13110,9 +13294,33 @@
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2451" centery="3377" centerz="7" radius="1">
+		<monster name="Menos" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="2810" centery="3380" centerz="7" radius="1">
 		<monster name="Hiroshin" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2443" centery="3381" centerz="7" radius="1">
+		<monster name="Menos" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2402" centery="3382" centerz="7" radius="1">
+		<monster name="Menos" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2407" centery="3382" centerz="7" radius="1">
+		<monster name="Menos" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2418" centery="3383" centerz="7" radius="1">
+		<monster name="Menos" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2433" centery="3383" centerz="7" radius="1">
+		<monster name="Menos" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3516" centery="3383" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
@@ -13133,6 +13341,10 @@
 		<monster name="Rungokai Bandit" x="0" y="1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2426" centery="3386" centerz="7" radius="1">
+		<monster name="Menos" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3520" centery="3386" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="1" z="7" spawntime="60" />
@@ -13142,6 +13354,18 @@
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2451" centery="3387" centerz="7" radius="1">
+		<monster name="Menos" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2407" centery="3388" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Menos" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2417" centery="3388" centerz="7" radius="1">
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Menos" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3583" centery="3389" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
@@ -13173,6 +13397,23 @@
 	<spawn centerx="3619" centery="3392" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2411" centery="3393" centerz="7" radius="1">
+		<monster name="Menos" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2419" centery="3393" centerz="7" radius="1">
+		<monster name="Menos" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2429" centery="3393" centerz="7" radius="1">
+		<monster name="Menos" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2439" centery="3393" centerz="7" radius="1">
+		<monster name="Menos" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Menos" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3509" centery="3393" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="-1" y="0" z="7" spawntime="60" />
@@ -13180,6 +13421,15 @@
 	</spawn>
 	<spawn centerx="3556" centery="3393" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2402" centery="3394" centerz="7" radius="1">
+		<monster name="Menos" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2452" centery="3394" centerz="7" radius="1">
+		<monster name="Menos" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Menos" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Menos" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3514" centery="3394" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
