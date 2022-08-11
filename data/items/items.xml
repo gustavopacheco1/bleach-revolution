@@ -4667,7 +4667,7 @@
 		<attribute key="defense" value="16"/>
 		<attribute key="weaponType" value="shield"/>
 	</item>
-	<item id="2512" article="a" name="wooden shield">
+	<item id="2512" article="a" name="unknown legs">
 		<attribute key="weight" value="4000"/>
 		<attribute key="defense" value="14"/>
 		<attribute key="weaponType" value="shield"/>
@@ -22760,11 +22760,10 @@
 		<attribute key="weaponType" value="shield"/>
 		<attribute key="showattributes" value="1"/>
 	</item>
-	<item id="15813" article="a" name="Inicial Shield">
+	<item id="15813" article="a" name="Wooden Shield">
 		<attribute key="weight" value="5500"/>
 		<attribute key="defense" value="12"/>
 		<attribute key="weaponType" value="shield"/>
-		<attribute key="showattributes" value="1"/>
 	</item>
 
 

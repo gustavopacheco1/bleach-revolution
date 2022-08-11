@@ -1,5 +1,7 @@
 local items = {
 	{ id = 1988, slot = CONST_SLOT_BACKPACK, container = { { id = 2671, count = 15 } } }, -- Backpack
+	{ id = 15813, slot = CONST_SLOT_RIGHT }, -- Wooden Shield
+	{ id = 2661, slot = CONST_SLOT_NECKLACE }, -- Scarf
 	{ id = 16136, slot = CONST_SLOT_ARMOR }, -- Shinigami Armor
 	{ id = 16135, slot = CONST_SLOT_LEGS }, -- Shinigami Legs
 	{ id = 16137, slot = CONST_SLOT_FEET } -- Shinigami Boots
