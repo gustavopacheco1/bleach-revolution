@@ -46,14 +46,4 @@ void TrashHolder::__addThing(Creature *actor, int32_t, Thing *thing)
 		if (effect != MAGIC_EFFECT_NONE)
 			g_game.addMagicEffect(getPosition(), effect);
 	}
-	else if (g_game.isSwimmingPool(this, getTile(), false) && thing->getCreature())
-	{
-		Player *player = thing->getCreature()->getPlayer();
-		if (player && player->getPosition() == player->getLastPosition())
-		{
-			// player has just logged in a swimming pool
-			static Outfit_t outfit(SWIMMING_OUTFIT);
-			Spell::CreateIllusion(player, outfit, -1);
-		}
-	}
 }
