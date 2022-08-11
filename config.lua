@@ -7,9 +7,9 @@
 	location = ""
 
 	-- Messages
-	motd = "Welcome to the OTX Server!"
-	serverName = "OTXSERVER"
-	loginMessage = "Welcome to The OTX Server!"
+	motd = "Welcome to the Bleach Revolution!"
+	serverName = "Bleach Revolution"
+	loginMessage = "Welcome to The Bleach Revolution!"
 	displayGamemastersWithOnlineCommand = false
 
 	-- MySql
@@ -196,7 +196,7 @@
 	retryTimeout = 5 * 1000
 	loginTimeout = 60 * 1000
 	maxPlayers = 200
-	displayOnOrOffAtCharlist = false
+	displayOnOrOffAtCharlist = true
 	onePlayerOnlinePerAccount = false
 	allowClones = 0
 	statusTimeout = 1000
@@ -319,8 +319,8 @@
 
 	-- Outfits
 	allowChangeOutfit = true
-	allowChangeColors = true
-	allowChangeAddons = true
+	allowChangeColors = false
+	allowChangeAddons = false
 	addonsOnlyPremium = true
 
 	-- Ghost mode
@@ -410,8 +410,8 @@
 
 	-- Summons
 	maxPlayerSummons = 10
-	teleportAllSummons = true
-	teleportPlayerSummons = true
+	teleportAllSummons = false
+	teleportPlayerSummons = false
 
 	-- Logs
 	disableLuaErrors = false
