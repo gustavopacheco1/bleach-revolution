@@ -1,6 +1,6 @@
 local function getDeathSoulClone(cid)
 	for _, summon in ipairs(getCreatureSummons(cid)) do
-		if getCreatureName(summon) == "Death Soul Clone" then
+		if getCreatureName(summon) == "Soul" then
 			return summon
 		end
 	end
