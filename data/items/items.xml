@@ -170,7 +170,7 @@
 	<item id="455" name="wooden floor"/>
 	<item id="456" name="wooden floor"/>
 	<item id="457" article="a" name="white stone tile"/>
-	<item id="458" name="wooden floor"/>
+	<item id="458" name="gray sand"/>
 	<item id="459" name="stairs">
 		<attribute key="floorchange" value="down"/>
 	</item>
@@ -21724,25 +21724,7 @@
 	<item id="10627" name="perfect soul stone">
 		<attribute key="weight" value="20"/>
 	</item>
-	<item id="20001" name="water"/>
-	<item id="20002" name="blood"/>
-	<item id="20003" name="beer"/>
-	<item id="20004" name="slime"/>
-	<item id="20005" name="lemonade"/>
-	<item id="20006" name="milk"/>
-	<item id="20007" name="manafluid"/>
-	<item id="20010" name="lifefluid"/>
-	<item id="20011" name="oil"/>
-	<item id="20013" name="urine"/>
-	<item id="20014" name="coconut milk"/>
-	<item id="20015" name="wine"/>
-	<item id="20019" name="mud"/>
-	<item id="20021" name="fruit juice"/>
-	<item id="20026" name="lava"/>
-	<item id="20027" name="rum"/>
-	<item id="20028" name="swamp"/>
-	<item id="20035" name="tea"/>
-	<item id="20043" name="mead"/>
+	<item fromid="10954" toid="10965" name="gray sand"/>
 	<item id="15129" article="an" name="amulet of loss">
 		<attribute key="weight" value="420"/>
 		<attribute key="slotType" value="necklace"/>
@@ -23660,25 +23642,9 @@
 		<attribute key="hitChance" value="100"/>
 		<attribute key="description" value="Soul: 0"/>
 	</item>
-	<item id="16330" article="a" name="loot bag">
-		<attribute key="containerSize" value="10"/>
-		<attribute key="decayTo" value="0"/>
-		<attribute key="duration" value="900"/>
-		<attribute key="corpseType" value="blood"/>
-	</item>
-	<item id="16331" article="a" name="loot bag">
-		<attribute key="containerSize" value="10"/>
-		<attribute key="decayTo" value="0"/>
-		<attribute key="duration" value="900"/>
-		<attribute key="corpseType" value="blood"/>
-	</item>
-	<item id="16332" article="a" name="loot bag">
-		<attribute key="containerSize" value="10"/>
-		<attribute key="decayTo" value="0"/>
-		<attribute key="duration" value="900"/>
-		<attribute key="corpseType" value="blood"/>
-	</item>
-	<item id="16333" article="a" name="loot bag">
+
+	<item id="16457" name="block"/>
+	<item fromid="16330" toid="16333" article="a" name="loot bag">
 		<attribute key="containerSize" value="10"/>
 		<attribute key="decayTo" value="0"/>
 		<attribute key="duration" value="900"/>
