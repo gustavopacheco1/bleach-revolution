@@ -20502,7 +20502,7 @@
 	<spawn centerx="4809" centery="3435" centerz="8" radius="1">
 		<monster name="Elite Grand Fisher" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3566" centery="3441" centerz="8" radius="1">
+	<spawn centerx="3566" centery="3440" centerz="8" radius="1">
 		<monster name="Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="2411" centery="3442" centerz="8" radius="1">
@@ -20583,7 +20583,7 @@
 	<spawn centerx="4845" centery="3453" centerz="8" radius="1">
 		<monster name="Mugetsu Especial" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3583" centery="3455" centerz="8" radius="1">
+	<spawn centerx="3583" centery="3454" centerz="8" radius="1">
 		<npc name="Tessai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="2450" centery="3456" centerz="8" radius="1">
