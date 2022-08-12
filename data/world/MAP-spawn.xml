@@ -13766,9 +13766,6 @@
 	<spawn centerx="3395" centery="3454" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3583" centery="3458" centerz="7" radius="1">
-		<npc name="Urahara Kisuke" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3370" centery="3459" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -20502,8 +20499,8 @@
 	<spawn centerx="4809" centery="3435" centerz="8" radius="1">
 		<monster name="Elite Grand Fisher" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3566" centery="3440" centerz="8" radius="1">
-		<monster name="Urahara" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="3566" centery="3441" centerz="8" radius="1">
+		<npc name="Urahara Kisuke" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="2411" centery="3442" centerz="8" radius="1">
 		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />

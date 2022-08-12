@@ -21734,6 +21734,20 @@
 	<item id="15661" article="an" name="chest">
 		<attribute key="containerSize" value="8"/>
 	</item>
+	<item id="16283" article="a" name="closed door">
+		<attribute key="type" value="door"/>
+		<attribute key="blockprojectile" value="1"/>
+	</item>
+	<item id="16284" article="an" name="open door">
+		<attribute key="type" value="door"/>
+	</item>
+	<item id="16286" article="a" name="closed door">
+		<attribute key="type" value="door"/>
+		<attribute key="blockprojectile" value="1"/>
+	</item>
+	<item id="16287" article="an" name="open door">
+		<attribute key="type" value="door"/>
+	</item>
 
 	<!-- Barragan Set -->
 	<item id="15001" article="a" name="Barragan Helmet">
