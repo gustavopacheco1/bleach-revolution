@@ -3,7 +3,7 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 		return true
 	end
 
-	doPlayerAddItem(cid, 16456, 1)
+	doPlayerAddItem(cid, 16456, 20)
 
 	MultiLanguage.doPlayerPopupFYI(
 		cid,
