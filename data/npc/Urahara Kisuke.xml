@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <npc name="Urahara Kisuke" script="data/npc/scripts/urahara_kisuke.lua" walkinterval="0">
 	<health now="100" max="100"/>
-	<look type="205"/>
+	<look type="334"/>
 </npc>
