@@ -3081,6 +3081,14 @@
 		<monster name="Mini Fisher" x="0" y="-1" z="5" spawntime="60" />
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3698" centery="3293" centerz="5" radius="1">
+		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Mini Fisher" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3680" centery="3296" centerz="5" radius="1">
+		<monster name="Mini Fisher" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3426" centery="3298" centerz="5" radius="1">
 		<monster name="Mini Fisher" x="-1" y="-1" z="5" spawntime="60" />
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
@@ -3089,6 +3097,10 @@
 		<monster name="Mini Fisher" x="1" y="-1" z="5" spawntime="60" />
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Mini Fisher" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3712" centery="3299" centerz="5" radius="1">
+		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Mini Fisher" x="-1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="2982" centery="3300" centerz="5" radius="1">
 		<monster name="Hiroshin" x="-1" y="-1" z="5" spawntime="60" />
@@ -3105,6 +3117,10 @@
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Mini Fisher" x="-1" y="1" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3671" centery="3305" centerz="5" radius="1">
+		<monster name="Mini Fisher" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="2990" centery="3307" centerz="5" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Hiroshin" x="-1" y="1" z="5" spawntime="60" />
@@ -3112,6 +3128,10 @@
 	<spawn centerx="3445" centery="3308" centerz="5" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Mini Fisher" x="0" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3663" centery="3308" centerz="5" radius="1">
+		<monster name="Mini Fisher" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="2982" centery="3311" centerz="5" radius="1">
 		<monster name="Hiroshin" x="-1" y="-1" z="5" spawntime="60" />
@@ -3121,9 +3141,25 @@
 		<monster name="Mini Fisher" x="-1" y="-1" z="5" spawntime="60" />
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3681" centery="3313" centerz="5" radius="1">
+		<monster name="Mini Fisher" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3439" centery="3314" centerz="5" radius="1">
 		<monster name="Mini Fisher" x="-1" y="-1" z="5" spawntime="60" />
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3699" centery="3314" centerz="5" radius="1">
+		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Mini Fisher" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3717" centery="3316" centerz="5" radius="1">
+		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Mini Fisher" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3658" centery="3317" centerz="5" radius="1">
+		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Mini Fisher" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="2992" centery="3318" centerz="5" radius="1">
 		<monster name="Hiroshin" x="1" y="-1" z="5" spawntime="60" />
@@ -3146,6 +3182,10 @@
 		<monster name="Hollow Wolf" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Hollow Wolf" x="0" y="1" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3676" centery="3321" centerz="5" radius="1">
+		<monster name="Mini Fisher" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3444" centery="3322" centerz="5" radius="1">
 		<monster name="Mini Fisher" x="-1" y="-1" z="5" spawntime="60" />
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
@@ -3160,6 +3200,10 @@
 		<monster name="Hollow Wolf" x="0" y="-1" z="5" spawntime="60" />
 		<monster name="Hollow Wolf" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Hollow Wolf" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3705" centery="3323" centerz="5" radius="1">
+		<monster name="Mini Fisher" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3449" centery="3324" centerz="5" radius="1">
 		<monster name="Mini Fisher" x="-1" y="-1" z="5" spawntime="60" />
@@ -3182,6 +3226,26 @@
 		<monster name="Hollow Wolf" x="-1" y="1" z="5" spawntime="60" />
 		<monster name="Hollow Wolf" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3656" centery="3327" centerz="5" radius="1">
+		<monster name="Mini Fisher" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3718" centery="3329" centerz="5" radius="1">
+		<monster name="Mini Fisher" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3661" centery="3332" centerz="5" radius="1">
+		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Mini Fisher" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3679" centery="3332" centerz="5" radius="1">
+		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Mini Fisher" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3703" centery="3332" centerz="5" radius="1">
+		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Mini Fisher" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="4023" centery="3333" centerz="5" radius="1">
 		<monster name="Kensei" x="0" y="-1" z="5" spawntime="60" />
 		<monster name="Kensei" x="1" y="-1" z="5" spawntime="60" />
@@ -3203,9 +3267,37 @@
 		<monster name="Kensei" x="-1" y="0" z="5" spawntime="60" />
 		<monster name="Kensei" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3694" centery="3336" centerz="5" radius="1">
+		<monster name="Mini Fisher" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3719" centery="3338" centerz="5" radius="1">
+		<monster name="Mini Fisher" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3665" centery="3344" centerz="5" radius="1">
+		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Mini Fisher" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3710" centery="3346" centerz="5" radius="1">
+		<monster name="Mini Fisher" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3675" centery="3348" centerz="5" radius="1">
+		<monster name="Mini Fisher" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="4025" centery="3349" centerz="5" radius="1">
 		<monster name="Kensei" x="1" y="-1" z="5" spawntime="60" />
 		<monster name="Kensei" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3690" centery="3350" centerz="5" radius="1">
+		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Mini Fisher" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3699" centery="3350" centerz="5" radius="1">
+		<monster name="Mini Fisher" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="4018" centery="3350" centerz="5" radius="1">
 		<monster name="Kensei" x="1" y="-1" z="5" spawntime="60" />
