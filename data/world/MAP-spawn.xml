@@ -299,6 +299,11 @@
 		<monster name="Mini Fisher" x="0" y="0" z="2" spawntime="60" />
 		<monster name="Mini Fisher" x="0" y="1" z="2" spawntime="1895794944" />
 	</spawn>
+	<spawn centerx="2880" centery="3276" centerz="2" radius="1">
+		<monster name="Elite Urahara" x="-1" y="-1" z="2" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="-1" z="2" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
 	<spawn centerx="3472" centery="3368" centerz="2" radius="1">
 		<monster name="Elite Bandit" x="1" y="-1" z="2" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="2" spawntime="60" />
@@ -603,6 +608,37 @@
 		<monster name="Espada" x="0" y="1" z="3" spawntime="60" />
 		<monster name="Espada" x="1" y="1" z="3" spawntime="60" />
 	</spawn>
+	<spawn centerx="2913" centery="3169" centerz="3" radius="1">
+		<monster name="Elite Urahara" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="2897" centery="3172" centerz="3" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="2897" centery="3206" centerz="3" radius="1">
+		<monster name="Elite Urahara" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="2908" centery="3206" centerz="3" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="2887" centery="3208" centerz="3" radius="1">
+		<monster name="Elite Urahara" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="2892" centery="3230" centerz="3" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="2857" centery="3233" centerz="3" radius="1">
+		<monster name="Elite Urahara" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="1" z="3" spawntime="60" />
+	</spawn>
 	<spawn centerx="3467" centery="3244" centerz="3" radius="1">
 		<monster name="Mini Fisher" x="-1" y="-1" z="3" spawntime="60" />
 		<monster name="Mini Fisher" x="0" y="0" z="3" spawntime="60" />
@@ -627,6 +663,11 @@
 		<monster name="Mini Fisher" x="-1" y="-1" z="3" spawntime="60" />
 		<monster name="Mini Fisher" x="0" y="0" z="3" spawntime="60" />
 	</spawn>
+	<spawn centerx="2872" centery="3261" centerz="3" radius="1">
+		<monster name="Elite Urahara" x="0" y="-1" z="3" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="0" z="3" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
 	<spawn centerx="3407" centery="3263" centerz="3" radius="1">
 		<monster name="Mini Fisher" x="-1" y="-1" z="3" spawntime="60" />
 		<monster name="Mini Fisher" x="0" y="0" z="3" spawntime="60" />
@@ -637,6 +678,11 @@
 	<spawn centerx="3490" centery="3264" centerz="3" radius="1">
 		<monster name="Mini Fisher" x="-1" y="-1" z="3" spawntime="60" />
 		<monster name="Mini Fisher" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="2858" centery="3267" centerz="3" radius="1">
+		<monster name="Elite Urahara" x="-1" y="0" z="3" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="1" z="3" spawntime="60" />
 	</spawn>
 	<spawn centerx="3423" centery="3267" centerz="3" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="3" spawntime="60" />
@@ -653,6 +699,14 @@
 	<spawn centerx="3456" centery="3272" centerz="3" radius="1">
 		<monster name="Mini Fisher" x="1" y="-1" z="3" spawntime="60" />
 		<monster name="Mini Fisher" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="2898" centery="3273" centerz="3" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="3" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="2870" centery="3274" centerz="3" radius="1">
+		<monster name="Elite Urahara" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="1" z="3" spawntime="60" />
 	</spawn>
 	<spawn centerx="3422" centery="3274" centerz="3" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="3" spawntime="60" />
@@ -706,6 +760,10 @@
 		<monster name="Mini Fisher" x="-1" y="-1" z="3" spawntime="60" />
 		<monster name="Mini Fisher" x="0" y="0" z="3" spawntime="60" />
 	</spawn>
+	<spawn centerx="2876" centery="3290" centerz="3" radius="1">
+		<monster name="Elite Urahara" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
 	<spawn centerx="3423" centery="3293" centerz="3" radius="1">
 		<monster name="Mini Fisher" x="-1" y="-1" z="3" spawntime="60" />
 		<monster name="Mini Fisher" x="0" y="0" z="3" spawntime="60" />
@@ -733,6 +791,14 @@
 	<spawn centerx="3451" centery="3297" centerz="3" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="3" spawntime="60" />
 		<monster name="Mini Fisher" x="1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="2898" centery="3298" centerz="3" radius="1">
+		<monster name="Elite Urahara" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="2908" centery="3298" centerz="3" radius="1">
+		<monster name="Elite Urahara" x="-1" y="-1" z="3" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="3" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="1" z="3" spawntime="60" />
 	</spawn>
 	<spawn centerx="3483" centery="3298" centerz="3" radius="1">
 		<monster name="Mini Fisher" x="1" y="-1" z="3" spawntime="60" />
@@ -1569,6 +1635,66 @@
 		<monster name="Espada" x="1" y="0" z="4" spawntime="60" />
 		<monster name="Espada" x="-1" y="1" z="4" spawntime="60" />
 	</spawn>
+	<spawn centerx="2895" centery="3152" centerz="4" radius="1">
+		<monster name="Elite Urahara" x="0" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2920" centery="3156" centerz="4" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2915" centery="3173" centerz="4" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2894" centery="3179" centerz="4" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2873" centery="3195" centerz="4" radius="1">
+		<monster name="Elite Urahara" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2850" centery="3198" centerz="4" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2911" centery="3200" centerz="4" radius="1">
+		<monster name="Elite Urahara" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2903" centery="3204" centerz="4" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2873" centery="3218" centerz="4" radius="1">
+		<monster name="Urahara" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Urahara" x="-1" y="0" z="4" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2853" centery="3228" centerz="4" radius="1">
+		<monster name="Elite Urahara" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2851" centery="3235" centerz="4" radius="1">
+		<monster name="Elite Urahara" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2889" centery="3236" centerz="4" radius="1">
+		<monster name="Elite Urahara" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2878" centery="3240" centerz="4" radius="1">
+		<monster name="Elite Urahara" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2919" centery="3246" centerz="4" radius="1">
+		<monster name="Elite Urahara" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
 	<spawn centerx="3461" centery="3248" centerz="4" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="4" spawntime="60" />
 		<monster name="Mini Fisher" x="1" y="1" z="4" spawntime="60" />
@@ -1584,6 +1710,10 @@
 		<monster name="Bandit" x="0" y="0" z="4" spawntime="60" />
 		<monster name="Wolf" x="1" y="1" z="4" spawntime="60" />
 	</spawn>
+	<spawn centerx="2875" centery="3256" centerz="4" radius="1">
+		<monster name="Elite Urahara" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
 	<spawn centerx="3702" centery="3259" centerz="4" radius="1">
 		<monster name="Bandit" x="0" y="0" z="4" spawntime="60" />
 		<monster name="Wolf" x="1" y="1" z="4" spawntime="60" />
@@ -1594,6 +1724,11 @@
 	</spawn>
 	<spawn centerx="3727" centery="3259" centerz="4" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2924" centery="3260" centerz="4" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3420" centery="3260" centerz="4" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="4" spawntime="60" />
@@ -1606,9 +1741,19 @@
 		<monster name="Mini Fisher" x="0" y="0" z="4" spawntime="60" />
 		<monster name="Mini Fisher" x="1" y="1" z="4" spawntime="60" />
 	</spawn>
+	<spawn centerx="2907" centery="3261" centerz="4" radius="1">
+		<monster name="Elite Urahara" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="1" z="4" spawntime="60" />
+	</spawn>
 	<spawn centerx="3429" centery="3261" centerz="4" radius="1">
 		<monster name="Mini Fisher" x="-1" y="-1" z="4" spawntime="60" />
 		<monster name="Mini Fisher" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2846" centery="3262" centerz="4" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3414" centery="3262" centerz="4" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="4" spawntime="60" />
@@ -1635,6 +1780,10 @@
 	<spawn centerx="3693" centery="3265" centerz="4" radius="1">
 		<monster name="Bandit" x="0" y="0" z="4" spawntime="60" />
 		<monster name="Wolf" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2892" centery="3267" centerz="4" radius="1">
+		<monster name="Elite Urahara" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3412" centery="3268" centerz="4" radius="1">
 		<monster name="Mini Fisher" x="1" y="-1" z="4" spawntime="60" />
@@ -1707,6 +1856,11 @@
 	<spawn centerx="3414" centery="3275" centerz="4" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
+	<spawn centerx="2853" centery="3276" centerz="4" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="1" z="4" spawntime="60" />
+	</spawn>
 	<spawn centerx="3750" centery="3276" centerz="4" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
@@ -1722,6 +1876,10 @@
 	</spawn>
 	<spawn centerx="3735" centery="3280" centerz="4" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2868" centery="3281" centerz="4" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3739" centery="3281" centerz="4" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="0" z="4" spawntime="60" />
@@ -1741,6 +1899,10 @@
 	</spawn>
 	<spawn centerx="3751" centery="3285" centerz="4" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2880" centery="3286" centerz="4" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3422" centery="3286" centerz="4" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="4" spawntime="60" />
@@ -1784,6 +1946,11 @@
 	<spawn centerx="3746" centery="3292" centerz="4" radius="1">
 		<monster name="Rungokai Bandit" x="1" y="-1" z="4" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="2914" centery="3293" centerz="4" radius="1">
+		<monster name="Elite Urahara" x="-1" y="0" z="4" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3556" centery="3293" centerz="4" radius="1">
 		<monster name="Bandit" x="0" y="0" z="4" spawntime="60" />
@@ -3833,6 +4000,67 @@
 		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Espada" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="2892" centery="3158" centerz="5" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2927" centery="3159" centerz="5" radius="1">
+		<monster name="Elite Urahara" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="1" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2904" centery="3179" centerz="5" radius="1">
+		<monster name="Elite Urahara" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2917" centery="3179" centerz="5" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2877" centery="3180" centerz="5" radius="1">
+		<monster name="Elite Urahara" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2866" centery="3192" centerz="5" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2915" centery="3197" centerz="5" radius="1">
+		<monster name="Elite Urahara" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2927" centery="3197" centerz="5" radius="1">
+		<monster name="Elite Urahara" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2849" centery="3207" centerz="5" radius="1">
+		<monster name="Elite Urahara" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2876" centery="3225" centerz="5" radius="1">
+		<monster name="Urahara" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2846" centery="3233" centerz="5" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2900" centery="3235" centerz="5" radius="1">
+		<monster name="Elite Urahara" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2887" centery="3241" centerz="5" radius="1">
+		<monster name="Elite Urahara" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2844" centery="3244" centerz="5" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3431" centery="3248" centerz="5" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Mini Fisher" x="0" y="1" z="5" spawntime="60" />
@@ -3842,6 +4070,15 @@
 	</spawn>
 	<spawn centerx="3420" centery="3250" centerz="5" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2885" centery="3252" centerz="5" radius="1">
+		<monster name="Elite Urahara" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2920" centery="3253" centerz="5" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3451" centery="3253" centerz="5" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
@@ -3853,6 +4090,11 @@
 	<spawn centerx="3672" centery="3257" centerz="5" radius="1">
 		<monster name="Bandit" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Wolf" x="1" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2896" centery="3260" centerz="5" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3412" centery="3260" centerz="5" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
@@ -3890,6 +4132,10 @@
 		<monster name="Wolf" x="1" y="-1" z="5" spawntime="60" />
 		<monster name="Bandit" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="2859" centery="3271" centerz="5" radius="1">
+		<monster name="Elite Urahara" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3492" centery="3272" centerz="5" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
@@ -3909,6 +4155,11 @@
 	<spawn centerx="3459" centery="3275" centerz="5" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Mini Fisher" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2848" centery="3276" centerz="5" radius="1">
+		<monster name="Elite Urahara" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3500" centery="3276" centerz="5" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
@@ -3932,6 +4183,10 @@
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Mini Fisher" x="-1" y="1" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="2878" centery="3281" centerz="5" radius="1">
+		<monster name="Elite Urahara" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3640" centery="3281" centerz="5" radius="1">
 		<monster name="Bandit" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Wolf" x="1" y="1" z="5" spawntime="60" />
@@ -3954,8 +4209,17 @@
 	<spawn centerx="3483" centery="3283" centerz="5" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="2930" centery="3284" centerz="5" radius="1">
+		<monster name="Elite Urahara" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3508" centery="3285" centerz="5" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2864" centery="3286" centerz="5" radius="1">
+		<monster name="Elite Urahara" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3436" centery="3286" centerz="5" radius="1">
 		<monster name="Mini Fisher" x="1" y="-1" z="5" spawntime="60" />
@@ -3981,6 +4245,14 @@
 		<monster name="Wolf" x="1" y="-1" z="5" spawntime="60" />
 		<monster name="Bandit" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="2889" centery="3288" centerz="5" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2919" centery="3288" centerz="5" radius="1">
+		<monster name="Elite Urahara" x="0" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3499" centery="3288" centerz="5" radius="1">
 		<monster name="Mini Fisher" x="1" y="-1" z="5" spawntime="60" />
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
@@ -3988,6 +4260,10 @@
 	<spawn centerx="3575" centery="3288" centerz="5" radius="1">
 		<monster name="Bandit" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Wolf" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2910" centery="3289" centerz="5" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3610" centery="3290" centerz="5" radius="1">
 		<monster name="Bandit" x="0" y="0" z="5" spawntime="60" />
@@ -4011,6 +4287,10 @@
 	<spawn centerx="3698" centery="3293" centerz="5" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Mini Fisher" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="2902" centery="3295" centerz="5" radius="1">
+		<monster name="Elite Urahara" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3563" centery="3296" centerz="5" radius="1">
 		<monster name="Bandit" x="0" y="0" z="5" spawntime="60" />
@@ -7824,17 +8104,274 @@
 	<spawn centerx="2773" centery="3146" centerz="6" radius="1">
 		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2902" centery="3148" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2917" centery="3149" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2889" centery="3150" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2931" centery="3152" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2980" centery="3153" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2975" centery="3154" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Urahara" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2983" centery="3157" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Urahara" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="2769" centery="3159" centerz="6" radius="1">
 		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2907" centery="3159" centerz="6" radius="1">
+		<monster name="Urahara" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Urahara" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2973" centery="3159" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Urahara" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2977" centery="3159" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2943" centery="3160" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Urahara" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2948" centery="3162" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Urahara" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2989" centery="3162" centerz="6" radius="1">
+		<monster name="Urahara" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2889" centery="3163" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2981" centery="3163" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Urahara" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2930" centery="3164" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2937" centery="3165" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Urahara" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2945" centery="3167" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2953" centery="3167" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2977" centery="3167" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Urahara" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2986" centery="3168" centerz="6" radius="1">
+		<monster name="Urahara" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2771" centery="3169" centerz="6" radius="1">
 		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2881" centery="3170" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2957" centery="3170" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2948" centery="3171" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Urahara" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2981" centery="3171" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="2791" centery="3172" centerz="6" radius="1">
 		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2987" centery="3172" centerz="6" radius="1">
+		<monster name="Urahara" x="-1" y="0" z="6" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2908" centery="3173" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2883" centery="3182" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2914" centery="3184" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2876" centery="3187" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2927" centery="3188" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2893" centery="3194" centerz="6" radius="1">
+		<monster name="Urahara" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Urahara" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2866" centery="3197" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2856" centery="3202" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2921" centery="3202" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="2789" centery="3205" centerz="6" radius="1">
 		<monster name="Hiroshi Boss" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2870" centery="3211" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2913" centery="3211" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2950" centery="3214" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2962" centery="3214" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Urahara" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2944" centery="3216" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Urahara" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2851" centery="3217" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2878" centery="3217" centerz="6" radius="1">
+		<monster name="Urahara" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2958" centery="3217" centerz="6" radius="1">
+		<monster name="Urahara" x="-1" y="0" z="6" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2921" centery="3220" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3011" centery="3220" centerz="6" radius="1">
+		<monster name="Urahara" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3017" centery="3220" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2904" centery="3222" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Urahara" x="1" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2948" centery="3222" centerz="6" radius="1">
+		<monster name="Urahara" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2962" centery="3222" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Urahara" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2957" centery="3223" centerz="6" radius="1">
+		<monster name="Urahara" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2952" centery="3225" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Urahara" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3021" centery="3225" centerz="6" radius="1">
+		<monster name="Urahara" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2859" centery="3226" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2945" centery="3226" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Urahara" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3014" centery="3227" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Urahara" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2950" centery="3230" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3006" centery="3230" centerz="6" radius="1">
+		<monster name="Urahara" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2961" centery="3231" centerz="6" radius="1">
+		<monster name="Urahara" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2917" centery="3232" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2905" centery="3233" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3016" centery="3233" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3010" centery="3236" centerz="6" radius="1">
+		<monster name="Urahara" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2853" centery="3238" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3000" centery="3240" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Urahara" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3006" centery="3243" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2924" centery="3244" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3438" centery="3244" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
@@ -7848,6 +8385,11 @@
 		<monster name="Elite Bandit" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2906" centery="3246" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Urahara" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Urahara" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3424" centery="3247" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
@@ -7866,6 +8408,11 @@
 	<spawn centerx="2788" centery="3249" centerz="6" radius="1">
 		<monster name="Elite Hiroshi Boss" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2862" centery="3249" centerz="6" radius="1">
+		<monster name="Urahara" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Urahara" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3463" centery="3249" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
@@ -7875,14 +8422,32 @@
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3011" centery="3251" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2847" centery="3252" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3005" centery="3252" centerz="6" radius="1">
+		<monster name="Urahara" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3412" centery="3252" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2994" centery="3253" centerz="6" radius="1">
+		<monster name="Urahara" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3421" centery="3253" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3000" centery="3254" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3441" centery="3256" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
@@ -7898,6 +8463,10 @@
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3005" centery="3257" centerz="6" radius="1">
+		<monster name="Urahara" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3435" centery="3257" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
@@ -7906,19 +8475,41 @@
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2914" centery="3258" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3000" centery="3258" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3409" centery="3258" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="-1" y="0" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2859" centery="3259" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3011" centery="3259" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3468" centery="3259" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2886" centery="3260" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3430" centery="3260" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="0" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3002" centery="3261" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Urahara" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3418" centery="3261" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
@@ -7932,6 +8523,10 @@
 	<spawn centerx="3443" centery="3263" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3008" centery="3265" centerz="6" radius="1">
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Urahara" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3417" centery="3265" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
@@ -7954,6 +8549,14 @@
 		<monster name="Elite Bandit" x="-1" y="0" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2871" centery="3268" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2911" centery="3269" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3424" centery="3269" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="1" z="6" spawntime="60" />
@@ -7967,6 +8570,10 @@
 		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3004" centery="3272" centerz="6" radius="1">
+		<monster name="Urahara" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3458" centery="3272" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="-1" y="0" z="6" spawntime="60" />
@@ -7976,6 +8583,15 @@
 		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2888" centery="3273" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2931" centery="3273" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3450" centery="3273" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
@@ -8003,9 +8619,21 @@
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2861" centery="3278" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2901" centery="3278" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3416" centery="3278" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2922" centery="3280" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3425" centery="3280" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
@@ -8020,6 +8648,9 @@
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="2853" centery="3285" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3426" centery="3290" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
@@ -8029,6 +8660,11 @@
 		<monster name="Kensei" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Kensei" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Kensei" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2920" centery="3294" centerz="6" radius="1">
+		<monster name="Elite Urahara" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Elite Urahara" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4023" centery="3296" centerz="6" radius="1">
 		<monster name="Kensei" x="-1" y="-1" z="6" spawntime="60" />
@@ -13917,29 +14553,198 @@
 	<spawn centerx="3025" centery="3100" centerz="7" radius="1">
 		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2977" centery="3153" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Urahara" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2904" centery="3154" centerz="7" radius="1">
+		<monster name="Urahara" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2972" centery="3157" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2985" centery="3158" centerz="7" radius="1">
+		<monster name="Urahara" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2943" centery="3159" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Urahara" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2977" centery="3159" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2915" centery="3162" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Urahara" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2948" centery="3162" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Urahara" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2980" centery="3163" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2987" centery="3163" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2895" centery="3164" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Urahara" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2974" centery="3164" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2938" centery="3167" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Urahara" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2954" centery="3168" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2978" centery="3169" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Urahara" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2950" centery="3170" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Urahara" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2986" centery="3170" centerz="7" radius="1">
+		<monster name="Urahara" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2959" centery="3171" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3009" centery="3173" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2888" centery="3174" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Urahara" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2940" centery="3174" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2963" centery="3174" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2925" centery="3175" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2986" centery="3176" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2952" centery="3177" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2997" centery="3179" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3133" centery="3181" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2940" centery="3182" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2892" centery="3185" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Urahara" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2954" centery="3186" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3008" centery="3187" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3153" centery="3189" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2982" centery="3190" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2906" centery="3191" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Urahara" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2920" centery="3191" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2967" centery="3191" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2941" centery="3193" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2953" centery="3193" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2880" centery="3194" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Urahara" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3005" centery="3195" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3134" centery="3198" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2973" centery="3199" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2963" centery="3200" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3189" centery="3200" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2894" centery="3201" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Urahara" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2993" centery="3203" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3015" centery="3203" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2863" centery="3204" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Urahara" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2939" centery="3205" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2952" centery="3205" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2875" centery="3206" centerz="7" radius="1">
+		<monster name="Urahara" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3087" centery="3207" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2968" centery="3208" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3064" centery="3208" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2987" centery="3209" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2997" centery="3209" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3211" centery="3209" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
@@ -13953,9 +14758,40 @@
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3018" centery="3213" centerz="7" radius="1">
+		<monster name="Urahara" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2928" centery="3214" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2944" centery="3214" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2950" centery="3214" centerz="7" radius="1">
+		<monster name="Urahara" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2958" centery="3214" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3007" centery="3214" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Urahara" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2907" centery="3215" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3229" centery="3216" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2862" centery="3218" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Urahara" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2979" centery="3218" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3079" centery="3218" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
@@ -13965,13 +14801,38 @@
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2895" centery="3219" centerz="7" radius="1">
+		<monster name="Urahara" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2962" centery="3219" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3278" centery="3219" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2937" centery="3220" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3016" centery="3220" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Urahara" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3310" centery="3220" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2944" centery="3221" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Urahara" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2949" centery="3221" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2991" centery="3221" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3124" centery="3221" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
@@ -13981,17 +14842,69 @@
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2956" centery="3222" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Urahara" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3050" centery="3222" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3004" centery="3223" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3094" centery="3223" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3019" centery="3225" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Urahara" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2952" centery="3226" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2972" centery="3226" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3010" centery="3226" centerz="7" radius="1">
+		<monster name="Urahara" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2883" centery="3227" centerz="7" radius="1">
+		<monster name="Urahara" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2912" centery="3227" centerz="7" radius="1">
+		<monster name="Urahara" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2932" centery="3227" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2946" centery="3227" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2958" centery="3227" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3015" centery="3227" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2996" centery="3228" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3111" centery="3229" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2869" centery="3230" centerz="7" radius="1">
+		<monster name="Urahara" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2953" centery="3230" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Urahara" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3154" centery="3230" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
@@ -14009,9 +14922,28 @@
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3012" centery="3232" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2981" centery="3233" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3056" centery="3234" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3007" centery="3235" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2937" centery="3236" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2996" centery="3236" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3013" centery="3236" centerz="7" radius="1">
+		<monster name="Urahara" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3092" centery="3236" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
@@ -14021,6 +14953,16 @@
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2903" centery="3240" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2973" centery="3240" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3000" centery="3240" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Urahara" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3077" centery="3241" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
@@ -14029,8 +14971,40 @@
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2965" centery="3242" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3009" centery="3242" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3191" centery="3242" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2868" centery="3243" centerz="7" radius="1">
+		<monster name="Urahara" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2950" centery="3243" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2980" centery="3243" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2852" centery="3244" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Urahara" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2913" centery="3245" centerz="7" radius="1">
+		<monster name="Urahara" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2882" centery="3246" centerz="7" radius="1">
+		<monster name="Urahara" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3006" centery="3246" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Urahara" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3156" centery="3246" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
@@ -14051,9 +15025,33 @@
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2899" centery="3251" centerz="7" radius="1">
+		<monster name="Urahara" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2940" centery="3252" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2968" centery="3252" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3004" centery="3252" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3252" centery="3252" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2994" centery="3253" centerz="7" radius="1">
+		<monster name="Urahara" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2863" centery="3254" centerz="7" radius="1">
+		<monster name="Urahara" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3012" centery="3254" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3099" centery="3254" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
@@ -14084,9 +15082,25 @@
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3006" centery="3256" centerz="7" radius="1">
+		<monster name="Urahara" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3070" centery="3256" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2954" centery="3257" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3000" centery="3258" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2977" centery="3259" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3011" centery="3260" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3184" centery="3260" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
@@ -14100,13 +15114,38 @@
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2938" centery="3262" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3123" centery="3263" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Gilliam" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2967" centery="3264" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3008" centery="3265" centerz="7" radius="1">
+		<monster name="Urahara" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3247" centery="3267" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2982" centery="3268" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3003" centery="3269" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2993" centery="3270" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2969" centery="3271" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3007" centery="3271" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3175" centery="3271" centerz="7" radius="1">
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
@@ -14116,9 +15155,15 @@
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2987" centery="3276" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3206" centery="3276" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Gilliam" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2942" centery="3277" centerz="7" radius="1">
+		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3233" centery="3277" centerz="7" radius="1">
 		<monster name="Gilliam" x="1" y="-1" z="7" spawntime="60" />
@@ -21131,11 +22176,169 @@
 		<monster name="Incomplete Arrancar" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Incomplete Arrancar" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2803" centery="3121" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2851" centery="3121" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2868" centery="3122" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2773" centery="3123" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2818" centery="3124" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2906" centery="3126" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2784" centery="3128" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2882" centery="3128" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2764" centery="3131" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2838" centery="3131" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2797" centery="3132" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2919" centery="3134" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2855" centery="3136" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2780" centery="3138" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2822" centery="3139" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2883" centery="3139" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2895" centery="3140" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2765" centery="3141" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2807" centery="3142" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2834" centery="3142" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2870" centery="3143" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2756" centery="3146" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2791" centery="3147" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2913" centery="3147" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2775" centery="3149" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2957" centery="3152" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2817" centery="3154" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2837" centery="3154" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2879" centery="3154" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2787" centery="3155" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2802" centery="3156" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2854" centery="3156" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2894" centery="3156" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2746" centery="3159" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2923" centery="3160" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2951" centery="3160" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3472" centery="3160" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2906" centery="3161" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3477" centery="3161" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2763" centery="3163" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2791" centery="3163" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2863" centery="3163" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2778" centery="3165" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3470" centery="3165" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
@@ -21143,17 +22346,59 @@
 	<spawn centerx="3479" centery="3165" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2962" centery="3166" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2816" centery="3167" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2841" centery="3167" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3474" centery="3167" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2874" centery="3168" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2941" centery="3169" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3410" centery="3169" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2853" centery="3170" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2889" centery="3170" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3464" centery="3170" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2804" centery="3172" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3412" centery="3172" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2969" centery="3175" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2750" centery="3176" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2923" centery="3176" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3410" centery="3176" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
@@ -21161,23 +22406,59 @@
 	<spawn centerx="3460" centery="3176" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2864" centery="3177" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3516" centery="3178" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3522" centery="3178" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2955" centery="3179" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3455" centery="3180" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2772" centery="3181" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3410" centery="3183" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2893" centery="3184" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3405" centery="3185" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3450" centery="3185" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2970" centery="3186" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2811" centery="3187" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2913" centery="3187" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2868" centery="3188" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2937" centery="3188" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3399" centery="3188" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
@@ -21189,8 +22470,20 @@
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Flying Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2881" centery="3191" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3448" centery="3192" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2793" centery="3193" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2776" centery="3194" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3557" centery="3194" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
@@ -21200,14 +22493,33 @@
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Flying Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2826" centery="3195" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2946" centery="3195" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3390" centery="3195" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3598" centery="3195" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2908" centery="3196" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2929" centery="3196" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3572" centery="3196" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2960" centery="3197" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3452" centery="3198" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
@@ -21225,15 +22537,46 @@
 	<spawn centerx="3393" centery="3200" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2976" centery="3201" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3025" centery="3201" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3637" centery="3202" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2839" centery="3203" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2880" centery="3203" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3453" centery="3204" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2815" centery="3205" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2938" centery="3205" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3016" centery="3205" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3390" centery="3205" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2866" centery="3207" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3316" centery="3207" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
@@ -21241,8 +22584,32 @@
 	<spawn centerx="3384" centery="3207" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2795" centery="3209" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2893" centery="3209" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2926" centery="3209" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3308" centery="3209" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2965" centery="3210" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2911" centery="3211" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3034" centery="3211" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3302" centery="3211" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
@@ -21253,14 +22620,30 @@
 	<spawn centerx="3640" centery="3211" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2854" centery="3212" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3379" centery="3212" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2831" centery="3213" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3322" centery="3213" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3446" centery="3213" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2875" centery="3214" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3001" centery="3214" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3330" centery="3214" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
@@ -21277,11 +22660,22 @@
 	<spawn centerx="3439" centery="3214" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2947" centery="3215" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3427" centery="3215" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3019" centery="3216" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3420" centery="3217" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2933" centery="3218" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3381" centery="3218" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
@@ -21292,6 +22686,13 @@
 	</spawn>
 	<spawn centerx="3577" centery="3218" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2784" centery="3219" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2985" centery="3219" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3351" centery="3219" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
@@ -21306,8 +22707,18 @@
 	<spawn centerx="3412" centery="3221" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2795" centery="3222" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3618" centery="3222" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2918" centery="3223" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2955" centery="3223" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3522" centery="3223" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
@@ -21319,11 +22730,23 @@
 	<spawn centerx="3406" centery="3224" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2810" centery="3225" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3038" centery="3225" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3391" centery="3225" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3400" centery="3225" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2974" centery="3226" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3354" centery="3226" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
@@ -21335,11 +22758,38 @@
 	<spawn centerx="3545" centery="3226" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2781" centery="3227" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2835" centery="3227" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2942" centery="3227" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2867" centery="3229" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3007" centery="3229" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3359" centery="3230" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2909" centery="3232" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3365" centery="3232" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3028" centery="3233" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3386" centery="3233" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
@@ -21348,14 +22798,44 @@
 		<monster name="Flying Hollow" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2790" centery="3235" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2820" centery="3235" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3370" centery="3235" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2935" centery="3237" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3382" centery="3237" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2922" centery="3239" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2980" centery="3239" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3376" centery="3239" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2842" centery="3242" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2859" centery="3242" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2875" centery="3242" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3503" centery="3242" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
@@ -21363,9 +22843,17 @@
 	<spawn centerx="3636" centery="3242" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3033" centery="3244" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3648" centery="3244" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Flying Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3010" centery="3245" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3371" centery="3245" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
@@ -21374,8 +22862,27 @@
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Flying Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2992" centery="3246" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3610" centery="3246" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2787" centery="3247" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2887" centery="3247" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2901" centery="3247" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2923" centery="3248" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3578" centery="3248" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
@@ -21384,8 +22891,20 @@
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Flying Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2849" centery="3250" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2798" centery="3251" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3654" centery="3251" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2831" centery="3252" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3371" centery="3252" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
@@ -21394,21 +22913,52 @@
 		<monster name="Flying Hollow" x="0" y="-1" z="8" spawntime="60" />
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2816" centery="3254" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3513" centery="3254" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Flying Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2876" centery="3255" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3376" centery="3256" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2896" centery="3257" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3530" centery="3258" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2786" centery="3260" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2919" centery="3260" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3649" centery="3261" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2860" centery="3262" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3380" centery="3262" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2809" centery="3263" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2845" centery="3264" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3540" centery="3264" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="1" y="-1" z="8" spawntime="60" />
@@ -21421,6 +22971,10 @@
 	<spawn centerx="3624" centery="3265" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2833" centery="3267" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3555" centery="3267" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -21431,8 +22985,16 @@
 	<spawn centerx="3596" centery="3268" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2924" centery="3269" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3376" centery="3269" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2895" centery="3270" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3586" centery="3270" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
@@ -21441,11 +23003,33 @@
 	<spawn centerx="3369" centery="3271" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2822" centery="3275" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2883" centery="3275" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3364" centery="3275" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2800" centery="3277" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3579" centery="3277" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2853" centery="3278" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2841" centery="3280" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2874" centery="3280" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3359" centery="3280" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
@@ -21454,6 +23038,22 @@
 		<monster name="Mini Fisher" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Mini Fisher" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2811" centery="3281" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2920" centery="3281" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2790" centery="3282" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2831" centery="3283" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3708" centery="3284" centerz="8" radius="1">
 		<monster name="Mini Fisher" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Mini Fisher" x="0" y="0" z="8" spawntime="60" />
@@ -21461,6 +23061,10 @@
 	<spawn centerx="3714" centery="3284" centerz="8" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Mini Fisher" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2894" centery="3285" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3579" centery="3285" centerz="8" radius="1">
 		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
@@ -21474,8 +23078,31 @@
 		<monster name="Mini Fisher" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Mini Fisher" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2909" centery="3289" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3359" centery="3289" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2882" centery="3290" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2860" centery="3291" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2785" centery="3293" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2844" centery="3293" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2893" centery="3294" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3361" centery="3294" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
@@ -21488,8 +23115,30 @@
 		<monster name="Mini Fisher" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Mini Fisher" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2824" centery="3301" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2871" centery="3301" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3372" centery="3301" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2802" centery="3302" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2790" centery="3303" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2881" centery="3304" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2838" centery="3305" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3692" centery="3305" centerz="8" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="8" spawntime="60" />
@@ -21497,10 +23146,37 @@
 	<spawn centerx="3368" centery="3307" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="2780" centery="3310" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2813" centery="3310" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2850" centery="3310" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3692" centery="3312" centerz="8" radius="1">
 		<monster name="Mini Fisher" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Mini Fisher" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Mini Fisher" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2866" centery="3313" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2887" centery="3315" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2805" centery="3316" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2792" centery="3318" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3692" centery="3319" centerz="8" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="8" spawntime="60" />
@@ -21513,6 +23189,14 @@
 	<spawn centerx="2455" centery="3323" centerz="8" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2872" centery="3323" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="2859" centery="3324" centerz="8" radius="1">
+		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3693" centery="3326" centerz="8" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="8" spawntime="60" />
