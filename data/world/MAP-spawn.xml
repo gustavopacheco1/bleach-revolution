@@ -23725,9 +23725,6 @@
 	<spawn centerx="4809" centery="3435" centerz="8" radius="1">
 		<monster name="Elite Grand Fisher" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3566" centery="3441" centerz="8" radius="1">
-		<npc name="Urahara Kisuke" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="2411" centery="3442" centerz="8" radius="1">
 		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
@@ -23754,6 +23751,9 @@
 		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3566" centery="3444" centerz="8" radius="1">
+		<npc name="Urahara Kisuke" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="2256" centery="3446" centerz="8" radius="1">
 		<monster name="Giant Snake Hollow" x="0" y="0" z="8" spawntime="60" />
