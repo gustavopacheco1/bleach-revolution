@@ -1,12 +1,5 @@
 <?xml version="1.0"?>
 <houses>
-	<house name="Karakura House 1" houseid="191" entryx="3547" entryy="3526" entryz="7" rent="0" townid="1" size="62" />
-	<house name="Karakura House 2" houseid="192" entryx="3557" entryy="3526" entryz="7" rent="0" townid="1" size="57" />
-	<house name="Karakura House 3" houseid="193" entryx="3568" entryy="3526" entryz="7" rent="0" townid="1" size="58" />
-	<house name="Karakura House 4" houseid="194" entryx="3579" entryy="3526" entryz="7" rent="0" townid="1" size="60" />
-	<house name="Karakura House 5" houseid="195" entryx="3590" entryy="3526" entryz="7" rent="0" townid="1" size="58" />
-	<house name="Karakura House 6" houseid="196" entryx="3601" entryy="3526" entryz="7" rent="0" townid="1" size="56" />
-	<house name="Karakura House 7" houseid="197" entryx="3612" entryy="3526" entryz="7" rent="0" townid="1" size="58" />
 	<house name="Karakura House 8" houseid="198" entryx="3593" entryy="3511" entryz="7" rent="0" townid="1" size="66" />
 	<house name="Karakura House 9" houseid="199" entryx="3604" entryy="3520" entryz="7" rent="0" townid="1" size="48" />
 	<house name="Karakura House 10" houseid="200" entryx="3598" entryy="3508" entryz="7" rent="0" townid="1" size="64" />
