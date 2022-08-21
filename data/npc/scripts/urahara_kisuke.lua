@@ -12,14 +12,18 @@ function onThink() npcHandler:onThink() end
 
 function onThink() npcHandler:onThinkCreatureSay() end
 
+local talkState = {}
+
 function onCreatureSay(cid, type, msg)
 	msg = msg:lower()
+	local talkUser = NPCHANDLER_CONVBEHAVIOR == CONVERSATION_DEFAULT and 0 or cid
 
 	if not npcHandler:isFocused(cid) and getDistanceBetween(getThingPos(cid), getNpcPos()) < 5 then
 		if isInArray({ "hi", "hello", "oi", "olá" }, msg) then
+			talkState[talkUser] = nil
 			selfSayMultiLanguage(
-				"Hello, I can take you to my subordinates to drop the Urahara Set, say {yes} and I will take you.",
-				"Olá, posso te levar até meus subordinados para dropar o Urahara Set, diga {sim} e eu te levarei.",
+				"Hello! This device is called {Reishi Henkan-Ki}.",
+				"Olá! Este aparelho é chamado de {Reishi Henkan-Ki}.",
 				cid
 			)
 			npcHandler:addFocus(cid)
@@ -41,20 +45,53 @@ function onCreatureSay(cid, type, msg)
 		return false
 	end
 
-	if isInArray({ "yes", "sim" }, msg) then
-		if getPlayerLevel(cid) < 130 then
+	if msg == "reishi henkan-ki" then
+		selfSayMultiLanguage(
+			"This device is used to convert human particles to spirit particles, so, it's possible to travel to Soul Society. If you {pay} me I can enable it for you.",
+			"Este aparelho é utilizado para converter partículas do mundo humano para partículas espirituais, assim, sendo possível chegar em Soul Society. Se você me {pagar} eu posso ativá-lo para você.",
+			cid
+		)
+		return true
+	end
+
+	if isInArray({ "pay", "pagar" }, msg) then
+		selfSayMultiLanguage(
+			"The price to me enable Reishi Henkan-Ki is 80000 ryos. Are you sure?",
+			"O preço para eu ativar o Reishi Henkan-Ki é 80000 ryos. Você tem certeza?",
+			cid
+		)
+		talkState[talkUser] = 1
+		return true
+	end
+
+	if isInArray({ "yes", "sim" }, msg) and talkState[talkUser] == 1 then
+		if getCreatureStorage(cid, "reishi_henkan-ki") == 1 then
 			selfSayMultiLanguage(
-				"You are too weak compared with the place I would take you. When you reach, at least, level 130 come here again.",
-				"Você é muito fraco comparado com o lugar que eu te levaria. Quando você alcançar, pelo menos, o nível 130 venha até aqui novamente."
-				,
+				"Reishi Henkan-Ki is already enabled.",
+				"O Reishi Henkan-Ki já está ativo.",
 				cid
 			)
-			npcHandler:releaseFocus(cid)
-			return
+			return true
 		end
 
-		doTeleportThing(cid, { x = 3031, y = 3212, z = 7 })
+		if not doPlayerRemoveMoney(cid, 80000) then
+			selfSayMultiLanguage(
+				"Sorry, you do not have enough money.",
+				"Desculpe, você não tem dinheiro suficiente.",
+				cid
+			)
+			return true
+		end
+
+		doCreatureSetStorage(cid, "reishi_henkan-ki", 1)
+		doSendMagicEffect({ x = 3569, y = 3443, z = 8 }, 215, cid)
+		selfSayMultiLanguage(
+			"It was a pleasure doing business with you. Reishi Henkan-Ki was enabled.",
+			"Foi um prazer fazer negócios com você. O Reishi Henkan-Ki foi ativo.",
+			cid
+		)
 	end
+
 	return true
 end
 

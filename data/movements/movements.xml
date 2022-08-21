@@ -4,6 +4,9 @@
 	<movevent type="StepIn" itemid="293" event="script" value="decay.lua"/>
 	<movevent type="StepIn" itemid="461" event="script" value="decay.lua"/>
 
+	<!-- Teleports -->
+	<movevent type="StepIn" actionid="12000" event="script" value="teleports/reishi_henkan-ki.lua"/>
+
 	<!-- Running Machine -->
 	<movevent type="StepIn" actionid="8000" event="script" value="running_machine.lua"/>
 	<movevent type="StepIn" actionid="8001" event="script" value="running_machine.lua"/>
