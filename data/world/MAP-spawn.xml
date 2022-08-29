@@ -21863,13 +21863,6 @@
 	<spawn centerx="3984" centery="2664" centerz="8" radius="1">
 		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3483" centery="2667" centerz="8" radius="1">
-		<monster name="Adjuchas" x="1" y="-1" z="8" spawntime="60" />
-		<monster name="Adjuchas" x="-1" y="0" z="8" spawntime="17822720" />
-		<monster name="Adjuchas" x="-1" y="1" z="8" spawntime="17822720" />
-		<monster name="Adjuchas" x="0" y="1" z="8" spawntime="60" />
-		<monster name="Adjuchas" x="1" y="1" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="3471" centery="2668" centerz="8" radius="1">
 		<monster name="Adjuchas" x="0" y="-1" z="8" spawntime="60" />
 		<monster name="Adjuchas" x="1" y="0" z="8" spawntime="17822720" />
