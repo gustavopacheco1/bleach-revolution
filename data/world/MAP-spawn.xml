@@ -29543,6 +29543,12 @@
 		<monster name="Jagdarmee" x="-1" y="1" z="10" spawntime="60" />
 		<monster name="Jagdarmee" x="0" y="1" z="10" spawntime="60" />
 	</spawn>
+	<spawn centerx="4391" centery="3501" centerz="10" radius="1">
+		<monster name="Jagdarmee" x="1" y="-1" z="10" spawntime="60" />
+		<monster name="Jagdarmee" x="-1" y="0" z="10" spawntime="60" />
+		<monster name="Jagdarmee" x="1" y="0" z="10" spawntime="60" />
+		<monster name="Jagdarmee" x="0" y="1" z="10" spawntime="60" />
+	</spawn>
 	<spawn centerx="4428" centery="3501" centerz="10" radius="1">
 		<monster name="Jagdarmee" x="-1" y="-1" z="10" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="-1" z="10" spawntime="60" />
@@ -29554,15 +29560,6 @@
 		<monster name="Jagdarmee" x="0" y="-1" z="10" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="-1" z="10" spawntime="60" />
 		<monster name="Jagdarmee" x="0" y="0" z="10" spawntime="60" />
-		<monster name="Jagdarmee" x="1" y="1" z="10" spawntime="60" />
-	</spawn>
-	<spawn centerx="4391" centery="3504" centerz="10" radius="1">
-		<monster name="Jagdarmee" x="-1" y="-1" z="10" spawntime="60" />
-		<monster name="Jagdarmee" x="0" y="-1" z="10" spawntime="60" />
-		<monster name="Jagdarmee" x="1" y="-1" z="10" spawntime="60" />
-		<monster name="Jagdarmee" x="0" y="0" z="10" spawntime="60" />
-		<monster name="Jagdarmee" x="-1" y="1" z="10" spawntime="60" />
-		<monster name="Jagdarmee" x="0" y="1" z="10" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="1" z="10" spawntime="60" />
 	</spawn>
 	<spawn centerx="4408" centery="3509" centerz="10" radius="1">
