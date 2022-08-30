@@ -46,7 +46,6 @@ local bosses = {
 	["Legendary Nnoitra"] = {
 		loot = {
 			{ id = 2160, chance = 1000, count = { min = 9, max = 35 } },
-			{ id = 15744, chance = 5, count = { min = 1, max = 1 } },
 			{ id = 16093, chance = 5, count = { min = 1, max = 1 } },
 			{ id = 16094, chance = 5, count = { min = 1, max = 1 } },
 			{ id = 16095, chance = 5, count = { min = 1, max = 1 } },
