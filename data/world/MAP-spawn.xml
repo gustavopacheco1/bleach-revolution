@@ -3334,176 +3334,6 @@
 	<spawn centerx="3478" centery="4135" centerz="4" radius="1">
 		<monster name="Elite Nnoitra" x="1" y="0" z="4" spawntime="60" />
 	</spawn>
-	<spawn centerx="4002" centery="2540" centerz="5" radius="1">
-		<monster name="Prisoner" x="1" y="-1" z="5" spawntime="60" />
-		<monster name="Prisoner" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Prisoner" x="-1" y="1" z="5" spawntime="60" />
-		<monster name="Prisoner" x="1" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4023" centery="2540" centerz="5" radius="1">
-		<monster name="Prisoner" x="-1" y="0" z="5" spawntime="60" />
-		<monster name="Prisoner" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Prisoner" x="-1" y="1" z="5" spawntime="60" />
-		<monster name="Prisoner" x="1" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4017" centery="2542" centerz="5" radius="1">
-		<monster name="Prisoner" x="1" y="-1" z="5" spawntime="60" />
-		<monster name="Prisoner" x="-1" y="0" z="5" spawntime="60" />
-		<monster name="Prisoner" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Prisoner" x="-1" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4010" centery="2545" centerz="5" radius="1">
-		<monster name="Prisoner" x="0" y="-1" z="5" spawntime="60" />
-		<monster name="Prisoner" x="-1" y="0" z="5" spawntime="60" />
-		<monster name="Prisoner" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Prisoner" x="1" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4002" centery="2548" centerz="5" radius="1">
-		<monster name="Prisoner" x="-1" y="-1" z="5" spawntime="60" />
-		<monster name="Prisoner" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Prisoner" x="1" y="0" z="5" spawntime="60" />
-		<monster name="Prisoner" x="1" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4019" centery="2548" centerz="5" radius="1">
-		<monster name="Prisoner" x="0" y="-1" z="5" spawntime="60" />
-		<monster name="Prisoner" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Prisoner" x="1" y="0" z="5" spawntime="60" />
-		<monster name="Prisoner" x="0" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4026" centery="2550" centerz="5" radius="1">
-		<monster name="Prisoner" x="-1" y="-1" z="5" spawntime="60" />
-		<monster name="Prisoner" x="1" y="-1" z="5" spawntime="60" />
-		<monster name="Prisoner" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Prisoner" x="0" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4013" centery="2551" centerz="5" radius="1">
-		<monster name="Prisoner" x="-1" y="-1" z="5" spawntime="60" />
-		<monster name="Prisoner" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Prisoner" x="1" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4004" centery="2557" centerz="5" radius="1">
-		<monster name="Prisoner" x="0" y="-1" z="5" spawntime="60" />
-		<monster name="Prisoner" x="-1" y="0" z="5" spawntime="60" />
-		<monster name="Prisoner" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Prisoner" x="1" y="0" z="5" spawntime="60" />
-		<monster name="Prisoner" x="0" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4013" centery="2557" centerz="5" radius="1">
-		<monster name="Prisoner" x="1" y="-1" z="5" spawntime="60" />
-		<monster name="Prisoner" x="-1" y="0" z="5" spawntime="60" />
-		<monster name="Prisoner" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Prisoner" x="0" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4023" centery="2557" centerz="5" radius="1">
-		<monster name="Prisoner" x="-1" y="0" z="5" spawntime="60" />
-		<monster name="Prisoner" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Prisoner" x="1" y="0" z="5" spawntime="60" />
-		<monster name="Prisoner" x="-1" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3912" centery="2592" centerz="5" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="5" spawntime="60" />
-		<monster name="Espada" x="0" y="-1" z="5" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Espada" x="1" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3927" centery="2593" centerz="5" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="5" spawntime="60" />
-		<monster name="Espada" x="1" y="-1" z="5" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Espada" x="-1" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3908" centery="2600" centerz="5" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="5" spawntime="60" />
-		<monster name="Espada" x="1" y="-1" z="5" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Espada" x="-1" y="1" z="5" spawntime="60" />
-		<monster name="Espada" x="1" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3919" centery="2601" centerz="5" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="5" spawntime="60" />
-		<monster name="Espada" x="1" y="-1" z="5" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Espada" x="-1" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3927" centery="2607" centerz="5" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="5" spawntime="60" />
-		<monster name="Espada" x="1" y="-1" z="5" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Espada" x="-1" y="1" z="5" spawntime="60" />
-		<monster name="Espada" x="1" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3915" centery="2608" centerz="5" radius="1">
-		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4112" centery="2676" centerz="5" radius="1">
-		<monster name="Arrancar Watcher" x="1" y="-1" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="-1" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4121" centery="2676" centerz="5" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="-1" y="1" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4133" centery="2676" centerz="5" radius="1">
-		<monster name="Arrancar Watcher" x="1" y="-1" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="-1" y="0" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4105" centery="2679" centerz="5" radius="1">
-		<monster name="Arrancar Watcher" x="0" y="-1" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4115" centery="2682" centerz="5" radius="1">
-		<monster name="Arrancar Watcher" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4135" centery="2682" centerz="5" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4111" centery="2684" centerz="5" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4122" centery="2684" centerz="5" radius="1">
-		<monster name="Arrancar Watcher" x="0" y="-1" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4129" centery="2684" centerz="5" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4115" centery="2689" centerz="5" radius="1">
-		<monster name="Arrancar Watcher" x="0" y="-1" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4136" centery="2690" centerz="5" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4111" centery="2691" centerz="5" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4105" centery="2693" centerz="5" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4129" centery="2693" centerz="5" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="1" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="3795" centery="2695" centerz="5" radius="1">
 		<monster name="Espada" x="0" y="-1" z="5" spawntime="60" />
 		<monster name="Espada" x="-1" y="0" z="5" spawntime="60" />
@@ -3549,11 +3379,6 @@
 		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Espada" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="4122" centery="2695" centerz="5" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="-1" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="3833" centery="2696" centerz="5" radius="1">
 		<monster name="Espada" x="-1" y="-1" z="5" spawntime="60" />
 		<monster name="Espada" x="1" y="-1" z="5" spawntime="60" />
@@ -3566,20 +3391,6 @@
 		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Espada" x="0" y="1" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="4115" centery="2698" centerz="5" radius="1">
-		<monster name="Arrancar Watcher" x="0" y="-1" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4136" centery="2698" centerz="5" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4111" centery="2700" centerz="5" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="0" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="3794" centery="2702" centerz="5" radius="1">
 		<monster name="Espada" x="-1" y="-1" z="5" spawntime="60" />
 		<monster name="Espada" x="1" y="-1" z="5" spawntime="60" />
@@ -3591,25 +3402,6 @@
 		<monster name="Espada" x="-1" y="-1" z="5" spawntime="60" />
 		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Espada" x="1" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4105" centery="2702" centerz="5" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="-1" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4130" centery="2704" centerz="5" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="-1" y="0" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4113" centery="2705" centerz="5" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="-1" z="5" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="4123" centery="2705" centerz="5" radius="1">
-		<monster name="Arrancar Watcher" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3872" centery="2708" centerz="5" radius="1">
 		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
@@ -6540,417 +6332,6 @@
 	<spawn centerx="4720" centery="2259" centerz="6" radius="1" />
 	<spawn centerx="4720" centery="2265" centerz="6" radius="1" />
 	<spawn centerx="4720" centery="2270" centerz="6" radius="1" />
-	<spawn centerx="4025" centery="2541" centerz="6" radius="1">
-		<monster name="Prisoner" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Prisoner" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Prisoner" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4018" centery="2542" centerz="6" radius="1">
-		<monster name="Prisoner" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Prisoner" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Prisoner" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3994" centery="2543" centerz="6" radius="1">
-		<monster name="Fake Prisoner" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="-1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4008" centery="2543" centerz="6" radius="1">
-		<monster name="Prisoner" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Prisoner" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Prisoner" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4002" centery="2544" centerz="6" radius="1">
-		<monster name="Prisoner" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4037" centery="2546" centerz="6" radius="1">
-		<monster name="Fake Prisoner" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4053" centery="2546" centerz="6" radius="1">
-		<monster name="Fake Prisoner" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4018" centery="2548" centerz="6" radius="1">
-		<monster name="Prisoner" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Prisoner" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Prisoner" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3976" centery="2549" centerz="6" radius="1">
-		<monster name="Fake Prisoner" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4026" centery="2549" centerz="6" radius="1">
-		<monster name="Prisoner" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Prisoner" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Prisoner" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3947" centery="2551" centerz="6" radius="1">
-		<monster name="Fake Prisoner" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4011" centery="2551" centerz="6" radius="1">
-		<monster name="Prisoner" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Prisoner" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Prisoner" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3933" centery="2552" centerz="6" radius="1">
-		<monster name="Fake Prisoner" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="-1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4003" centery="2552" centerz="6" radius="1">
-		<monster name="Prisoner" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Prisoner" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Prisoner" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4069" centery="2552" centerz="6" radius="1">
-		<monster name="Fake Prisoner" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4083" centery="2555" centerz="6" radius="1">
-		<monster name="Fake Prisoner" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="-1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3923" centery="2557" centerz="6" radius="1">
-		<monster name="Fake Prisoner" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4026" centery="2557" centerz="6" radius="1">
-		<monster name="Prisoner" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Prisoner" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Prisoner" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4004" centery="2558" centerz="6" radius="1">
-		<monster name="Prisoner" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Prisoner" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Prisoner" x="1" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4011" centery="2558" centerz="6" radius="1">
-		<monster name="Prisoner" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Prisoner" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Prisoner" x="1" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4017" centery="2558" centerz="6" radius="1">
-		<monster name="Prisoner" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Prisoner" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Prisoner" x="1" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3950" centery="2562" centerz="6" radius="1">
-		<monster name="Fake Prisoner" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3993" centery="2564" centerz="6" radius="1">
-		<monster name="Fake Prisoner" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3929" centery="2565" centerz="6" radius="1">
-		<monster name="Fake Prisoner" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3971" centery="2566" centerz="6" radius="1">
-		<monster name="Fake Prisoner" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="1" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4022" centery="2566" centerz="6" radius="1">
-		<monster name="Fake Prisoner" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4092" centery="2568" centerz="6" radius="1">
-		<monster name="Fake Prisoner" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="-1" y="1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4039" centery="2571" centerz="6" radius="1">
-		<monster name="Fake Prisoner" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="-1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3928" centery="2574" centerz="6" radius="1">
-		<monster name="Fake Prisoner" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4069" centery="2575" centerz="6" radius="1">
-		<monster name="Fake Prisoner" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4117" centery="2583" centerz="6" radius="1">
-		<monster name="Fake Prisoner" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3926" centery="2591" centerz="6" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Espada" x="1" y="0" z="6" spawntime="60" />
-		<monster name="Espada" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3967" centery="2591" centerz="6" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Espada" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Espada" x="-1" y="1" z="6" spawntime="60" />
-		<monster name="Espada" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3984" centery="2591" centerz="6" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Espada" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Espada" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4087" centery="2591" centerz="6" radius="1">
-		<monster name="Fake Prisoner" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3911" centery="2592" centerz="6" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Espada" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Espada" x="-1" y="1" z="6" spawntime="60" />
-		<monster name="Espada" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3998" centery="2592" centerz="6" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Espada" x="-1" y="1" z="6" spawntime="60" />
-		<monster name="Espada" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3919" centery="2598" centerz="6" radius="1">
-		<monster name="Espada" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Espada" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Espada" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4097" centery="2598" centerz="6" radius="1">
-		<monster name="Fake Prisoner" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="-1" y="1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3972" centery="2599" centerz="6" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Espada" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Espada" x="-1" y="1" z="6" spawntime="60" />
-		<monster name="Espada" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3938" centery="2600" centerz="6" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Espada" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Espada" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Espada" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3952" centery="2600" centerz="6" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Espada" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Espada" x="-1" y="1" z="6" spawntime="60" />
-		<monster name="Espada" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3986" centery="2600" centerz="6" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Espada" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Espada" x="1" y="0" z="6" spawntime="60" />
-		<monster name="Espada" x="-1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4110" centery="2600" centerz="6" radius="1">
-		<monster name="Fake Prisoner" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3906" centery="2601" centerz="6" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Espada" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Espada" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3998" centery="2601" centerz="6" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Espada" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Espada" x="-1" y="1" z="6" spawntime="60" />
-		<monster name="Espada" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4124" centery="2602" centerz="6" radius="1">
-		<monster name="Fake Prisoner" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="-1" y="1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3926" centery="2607" centerz="6" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Espada" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Espada" x="-1" y="1" z="6" spawntime="60" />
-		<monster name="Espada" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3916" centery="2608" centerz="6" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Espada" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Espada" x="-1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3965" centery="2608" centerz="6" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Espada" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Espada" x="-1" y="1" z="6" spawntime="60" />
-		<monster name="Espada" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3983" centery="2608" centerz="6" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Espada" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Espada" x="-1" y="1" z="6" spawntime="60" />
-		<monster name="Espada" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4101" centery="2619" centerz="6" radius="1">
-		<monster name="Fake Prisoner" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4117" centery="2619" centerz="6" radius="1">
-		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="1" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3894" centery="2625" centerz="6" radius="1">
-		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4132" centery="2625" centerz="6" radius="1">
-		<monster name="Fake Prisoner" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="-1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3988" centery="2626" centerz="6" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Barragan Soldier" x="-1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3906" centery="2628" centerz="6" radius="1">
-		<monster name="Incomplete Arrancar" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="-1" y="1" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3975" centery="2628" centerz="6" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Espada" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Espada" x="-1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3981" centery="2628" centerz="6" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3978" centery="2633" centerz="6" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Espada" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3985" centery="2633" centerz="6" radius="1">
-		<monster name="Barragan Soldier" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Barragan Soldier" x="-1" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3993" centery="2633" centerz="6" radius="1">
-		<monster name="Barragan Soldier" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Barragan Soldier" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3910" centery="2634" centerz="6" radius="1">
-		<monster name="Incomplete Arrancar" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3918" centery="2634" centerz="6" radius="1">
-		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4108" centery="2637" centerz="6" radius="1">
-		<monster name="Fake Prisoner" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4136" centery="2640" centerz="6" radius="1">
-		<monster name="Fake Prisoner" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3895" centery="2641" centerz="6" radius="1">
-		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4120" centery="2644" centerz="6" radius="1">
-		<monster name="Fake Prisoner" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="-1" y="1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3911" centery="2646" centerz="6" radius="1">
-		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4106" centery="2651" centerz="6" radius="1">
-		<monster name="Fake Prisoner" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3898" centery="2653" centerz="6" radius="1">
-		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3908" centery="2656" centerz="6" radius="1">
-		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4116" centery="2662" centerz="6" radius="1">
-		<monster name="Fake Prisoner" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Fake Prisoner" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3425" centery="2665" centerz="6" radius="1">
 		<monster name="Adjuchas" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Adjuchas" x="0" y="0" z="6" spawntime="60" />
@@ -7016,32 +6397,15 @@
 		<monster name="Adjuchas" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Adjuchas" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4112" centery="2675" centerz="6" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3459" centery="2676" centerz="6" radius="1">
 		<monster name="Adjuchas" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Adjuchas" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Adjuchas" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4121" centery="2676" centerz="6" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="-1" y="1" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3476" centery="2677" centerz="6" radius="1">
 		<monster name="Adjuchas" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Adjuchas" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Adjuchas" x="-1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4133" centery="2677" centerz="6" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="-1" y="1" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3497" centery="2678" centerz="6" radius="1">
 		<monster name="Adjuchas" x="1" y="-1" z="6" spawntime="60" />
@@ -7062,26 +6426,6 @@
 		<monster name="Adjuchas" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Adjuchas" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Adjuchas" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4104" centery="2680" centerz="6" radius="1">
-		<monster name="Arrancar Watcher" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4110" centery="2682" centerz="6" radius="1">
-		<monster name="Arrancar Watcher" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4115" centery="2683" centerz="6" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="-1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4128" centery="2683" centerz="6" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3427" centery="2685" centerz="6" radius="1">
 		<monster name="Adjuchas" x="-1" y="-1" z="6" spawntime="60" />
@@ -7122,82 +6466,14 @@
 		<monster name="Adjuchas" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Adjuchas" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4120" centery="2685" centerz="6" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4135" centery="2685" centerz="6" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3476" centery="2686" centerz="6" radius="1">
 		<monster name="Adjuchas" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Adjuchas" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4026" centery="2688" centerz="6" radius="1">
-		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="1" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4049" centery="2688" centerz="6" radius="1">
-		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="-1" y="1" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4069" centery="2688" centerz="6" radius="1">
-		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="1" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4110" centery="2688" centerz="6" radius="1">
-		<monster name="Arrancar Watcher" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4104" centery="2689" centerz="6" radius="1">
-		<monster name="Arrancar Watcher" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="-1" y="1" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4115" centery="2689" centerz="6" radius="1">
-		<monster name="Arrancar Watcher" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4128" centery="2689" centerz="6" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3832" centery="2690" centerz="6" radius="1">
 		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Espada" x="-1" y="1" z="6" spawntime="60" />
 		<monster name="Espada" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4121" centery="2692" centerz="6" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4134" centery="2692" centerz="6" radius="1">
-		<monster name="Arrancar Watcher" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4034" centery="2693" centerz="6" radius="1">
-		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="0" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4056" centery="2693" centerz="6" radius="1">
-		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="0" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3794" centery="2695" centerz="6" radius="1">
 		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
@@ -7241,72 +6517,6 @@
 		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Espada" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4110" centery="2698" centerz="6" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4128" centery="2698" centerz="6" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4036" centery="2699" centerz="6" radius="1">
-		<monster name="Incomplete Arrancar" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="1" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4053" centery="2699" centerz="6" radius="1">
-		<monster name="Incomplete Arrancar" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4018" centery="2700" centerz="6" radius="1">
-		<monster name="Incomplete Arrancar" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4024" centery="2700" centerz="6" radius="1">
-		<monster name="Incomplete Arrancar" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4071" centery="2700" centerz="6" radius="1">
-		<monster name="Incomplete Arrancar" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4105" centery="2700" centerz="6" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4115" centery="2700" centerz="6" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="-1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4122" centery="2700" centerz="6" radius="1">
-		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4136" centery="2700" centerz="6" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="0" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="-1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4062" centery="2701" centerz="6" radius="1">
-		<monster name="Incomplete Arrancar" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4112" centery="2703" centerz="6" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3794" centery="2704" centerz="6" radius="1">
 		<monster name="Espada" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
@@ -7317,36 +6527,10 @@
 		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Espada" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4123" centery="2704" centerz="6" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4128" centery="2704" centerz="6" radius="1">
-		<monster name="Arrancar Watcher" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3833" centery="2705" centerz="6" radius="1">
 		<monster name="Espada" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Espada" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4059" centery="2706" centerz="6" radius="1">
-		<monster name="Incomplete Arrancar" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="-1" y="1" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4038" centery="2707" centerz="6" radius="1">
-		<monster name="Incomplete Arrancar" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4045" centery="2707" centerz="6" radius="1">
-		<monster name="Incomplete Arrancar" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3413" centery="2710" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="-1" z="6" spawntime="60" />
@@ -7361,21 +6545,6 @@
 	<spawn centerx="3374" centery="2712" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="4039" centery="2712" centerz="6" radius="1">
-		<monster name="Incomplete Arrancar" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4055" centery="2712" centerz="6" radius="1">
-		<monster name="Incomplete Arrancar" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4070" centery="2712" centerz="6" radius="1">
-		<monster name="Incomplete Arrancar" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3370" centery="2713" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -7388,11 +6557,6 @@
 		<monster name="Espada" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Espada" x="-1" y="0" z="6" spawntime="60" />
 		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="4020" centery="2713" centerz="6" radius="1">
-		<monster name="Incomplete Arrancar" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3833" centery="2715" centerz="6" radius="1">
 		<monster name="Espada" x="-1" y="-1" z="6" spawntime="60" />
@@ -12319,547 +11483,19 @@
 	<spawn centerx="155" centery="51" centerz="7" radius="1">
 		<npc name="Tutorial - Yuuto" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3900" centery="2568" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3893" centery="2569" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3897" centery="2578" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3909" centery="2583" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3965" centery="2583" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3985" centery="2584" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3999" centery="2584" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3972" centery="2585" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3994" centery="2585" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4006" centery="2585" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3958" centery="2586" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3895" centery="2588" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3939" centery="2590" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3976" centery="2591" centerz="7" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Espada" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Espada" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3986" centery="2591" centerz="7" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Espada" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3997" centery="2591" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Espada" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Espada" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Espada" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4015" centery="2591" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3926" centery="2592" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Espada" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Espada" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3955" centery="2592" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3966" centery="2592" centerz="7" radius="1">
-		<monster name="Espada" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Espada" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Espada" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4028" centery="2593" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3891" centery="2594" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3909" centery="2594" centerz="7" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Espada" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Espada" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3898" centery="2595" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3916" centery="2596" centerz="7" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Espada" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Espada" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Espada" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3991" centery="2597" centerz="7" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Espada" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Espada" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Espada" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3999" centery="2597" centerz="7" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Espada" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Espada" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Espada" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4053" centery="2597" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3971" centery="2598" centerz="7" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Espada" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Espada" x="0" y="1" z="7" spawntime="60" />
-		<monster name="Espada" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3979" centery="2598" centerz="7" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Espada" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Espada" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Espada" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3945" centery="2599" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3964" centery="2600" centerz="7" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Espada" x="1" y="0" z="7" spawntime="60" />
-		<monster name="Espada" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Espada" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4036" centery="2600" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4015" centery="2601" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3924" centery="2602" centerz="7" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Espada" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Espada" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3955" centery="2602" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4042" centery="2605" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3892" centery="2606" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3912" centery="2606" centerz="7" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Espada" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Espada" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3993" centery="2606" centerz="7" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Espada" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Espada" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3979" centery="2607" centerz="7" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Espada" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Espada" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Espada" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3944" centery="2608" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3964" centery="2608" centerz="7" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Espada" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Espada" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Espada" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4077" centery="2608" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3889" centery="2611" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3937" centery="2611" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3896" centery="2612" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4049" centery="2612" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3968" centery="2613" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4034" centery="2613" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4068" centery="2613" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4075" centery="2613" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3917" centery="2614" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3947" centery="2614" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3956" centery="2614" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4020" centery="2614" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3931" centery="2616" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3968" centery="2616" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3943" centery="2617" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3991" centery="2617" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3880" centery="2618" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4005" centery="2618" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3968" centery="2620" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4060" centery="2620" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4064" centery="2620" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3893" centery="2621" centerz="7" radius="1">
-		<monster name="Incomplete Arrancar" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3904" centery="2621" centerz="7" radius="1">
-		<monster name="Incomplete Arrancar" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3915" centery="2621" centerz="7" radius="1">
-		<monster name="Incomplete Arrancar" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4043" centery="2621" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3950" centery="2622" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3881" centery="2625" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4026" centery="2626" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3952" centery="2627" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4070" centery="2627" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3917" centery="2628" centerz="7" radius="1">
-		<monster name="Incomplete Arrancar" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3965" centery="2628" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4042" centery="2628" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4053" centery="2628" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3942" centery="2629" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4006" centery="2629" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4032" centery="2629" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3898" centery="2632" centerz="7" radius="1">
-		<monster name="Incomplete Arrancar" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3952" centery="2632" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4072" centery="2632" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3937" centery="2634" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3990" centery="2634" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4047" centery="2634" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4062" centery="2636" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3907" centery="2637" centerz="7" radius="1">
-		<monster name="Incomplete Arrancar" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3933" centery="2637" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3892" centery="2638" centerz="7" radius="1">
-		<monster name="Incomplete Arrancar" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3915" centery="2638" centerz="7" radius="1">
-		<monster name="Incomplete Arrancar" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3947" centery="2638" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4036" centery="2638" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4025" centery="2639" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4047" centery="2639" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4076" centery="2639" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3879" centery="2640" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4054" centery="2641" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4082" centery="2641" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3884" centery="2642" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4008" centery="2642" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4031" centery="2642" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3931" centery="2644" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4049" centery="2644" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3965" centery="2645" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4063" centery="2645" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3982" centery="2646" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3998" centery="2646" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4080" centery="2646" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3915" centery="2647" centerz="7" radius="1">
-		<monster name="Incomplete Arrancar" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3904" centery="2648" centerz="7" radius="1">
-		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4020" centery="2648" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3949" centery="2649" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3882" centery="2650" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4002" centery="2650" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4033" centery="2650" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3938" centery="2651" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4072" centery="2651" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3929" centery="2652" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3975" centery="2652" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3871" centery="2653" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3892" centery="2653" centerz="7" radius="1">
-		<monster name="Incomplete Arrancar" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4041" centery="2654" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3915" centery="2655" centerz="7" radius="1">
-		<monster name="Incomplete Arrancar" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3903" centery="2656" centerz="7" radius="1">
-		<monster name="Incomplete Arrancar" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3937" centery="2657" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4065" centery="2657" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3961" centery="2658" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3976" centery="2659" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3990" centery="2659" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4006" centery="2660" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4077" centery="2660" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3879" centery="2661" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3922" centery="2661" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3930" centery="2662" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4068" centery="2662" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4035" centery="2664" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3567" centery="2665" centerz="7" radius="1">
-		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="0" />
-		<monster name="Adjuchas" x="-1" y="1" z="7" spawntime="0" />
+		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Adjuchas" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3583" centery="2665" centerz="7" radius="1">
-		<monster name="Adjuchas" x="0" y="-1" z="7" spawntime="0" />
-		<monster name="Adjuchas" x="-1" y="1" z="7" spawntime="0" />
-		<monster name="Adjuchas" x="1" y="1" z="7" spawntime="0" />
+		<monster name="Adjuchas" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Adjuchas" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Adjuchas" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3592" centery="2665" centerz="7" radius="1">
-		<monster name="Adjuchas" x="-1" y="-1" z="7" spawntime="0" />
-		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="0" />
-		<monster name="Adjuchas" x="1" y="1" z="7" spawntime="0" />
+		<monster name="Adjuchas" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Adjuchas" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3433" centery="2666" centerz="7" radius="1">
 		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="60" />
@@ -12891,14 +11527,6 @@
 		<monster name="Adjuchas" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Adjuchas" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3944" centery="2666" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4081" centery="2666" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3451" centery="2667" centerz="7" radius="1">
 		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Adjuchas" x="0" y="0" z="7" spawntime="60" />
@@ -12915,49 +11543,21 @@
 		<monster name="Adjuchas" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3547" centery="2667" centerz="7" radius="1">
-		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="0" />
-		<monster name="Adjuchas" x="-1" y="1" z="7" spawntime="0" />
-		<monster name="Adjuchas" x="1" y="1" z="7" spawntime="0" />
-	</spawn>
-	<spawn centerx="4063" centery="2667" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3884" centery="2668" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3918" centery="2668" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Adjuchas" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Adjuchas" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3601" centery="2669" centerz="7" radius="1">
-		<monster name="Adjuchas" x="-1" y="-1" z="7" spawntime="0" />
-		<monster name="Adjuchas" x="1" y="1" z="7" spawntime="0" />
-	</spawn>
-	<spawn centerx="3896" centery="2669" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3907" centery="2669" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3966" centery="2669" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Adjuchas" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Adjuchas" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3573" centery="2670" centerz="7" radius="1">
-		<monster name="Adjuchas" x="0" y="-1" z="7" spawntime="0" />
+		<monster name="Adjuchas" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3444" centery="2671" centerz="7" radius="1">
 		<monster name="Adjuchas" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Adjuchas" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3929" centery="2671" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4046" centery="2671" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3489" centery="2672" centerz="7" radius="1">
 		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="60" />
@@ -12965,28 +11565,11 @@
 		<monster name="Adjuchas" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3587" centery="2672" centerz="7" radius="1">
-		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="0" />
-	</spawn>
-	<spawn centerx="3974" centery="2672" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4003" centery="2672" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4025" centery="2672" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4066" centery="2672" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3434" centery="2673" centerz="7" radius="1">
 		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Adjuchas" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3939" centery="2673" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3451" centery="2674" centerz="7" radius="1">
 		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="60" />
@@ -12998,64 +11581,35 @@
 		<monster name="Adjuchas" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3554" centery="2674" centerz="7" radius="1">
-		<monster name="Adjuchas" x="-1" y="-1" z="7" spawntime="0" />
-		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="0" />
-		<monster name="Adjuchas" x="0" y="1" z="7" spawntime="0" />
-	</spawn>
-	<spawn centerx="3960" centery="2674" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3922" centery="2675" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4040" centery="2675" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4054" centery="2675" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4029" centery="2676" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4079" centery="2676" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Adjuchas" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Adjuchas" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3263" centery="2677" centerz="7" radius="1">
 		<npc name="Nel" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3517" centery="2677" centerz="7" radius="1">
-		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="0" />
-		<monster name="Adjuchas" x="-1" y="0" z="7" spawntime="0" />
-		<monster name="Adjuchas" x="0" y="1" z="7" spawntime="0" />
+		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Adjuchas" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Adjuchas" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3537" centery="2677" centerz="7" radius="1">
-		<monster name="Adjuchas" x="-1" y="-1" z="7" spawntime="0" />
-		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="0" />
-		<monster name="Adjuchas" x="1" y="1" z="7" spawntime="0" />
+		<monster name="Adjuchas" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Adjuchas" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3568" centery="2677" centerz="7" radius="1">
-		<monster name="Adjuchas" x="-1" y="-1" z="7" spawntime="0" />
-		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="0" />
-		<monster name="Adjuchas" x="1" y="1" z="7" spawntime="0" />
+		<monster name="Adjuchas" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Adjuchas" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3576" centery="2677" centerz="7" radius="1">
-		<monster name="Adjuchas" x="-1" y="0" z="7" spawntime="0" />
-		<monster name="Adjuchas" x="1" y="1" z="7" spawntime="0" />
+		<monster name="Adjuchas" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Adjuchas" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3597" centery="2677" centerz="7" radius="1">
-		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="0" />
-		<monster name="Adjuchas" x="0" y="1" z="7" spawntime="0" />
-	</spawn>
-	<spawn centerx="3966" centery="2677" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4010" centery="2677" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4021" centery="2677" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Adjuchas" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3443" centery="2678" centerz="7" radius="1">
 		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="60" />
@@ -13073,18 +11627,12 @@
 		<monster name="Adjuchas" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3526" centery="2678" centerz="7" radius="1">
-		<monster name="Adjuchas" x="0" y="-1" z="7" spawntime="0" />
-		<monster name="Adjuchas" x="1" y="1" z="7" spawntime="0" />
+		<monster name="Adjuchas" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Adjuchas" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3561" centery="2678" centerz="7" radius="1">
-		<monster name="Adjuchas" x="0" y="-1" z="7" spawntime="0" />
-		<monster name="Adjuchas" x="-1" y="1" z="7" spawntime="0" />
-	</spawn>
-	<spawn centerx="3879" centery="2678" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3904" centery="2678" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Adjuchas" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Adjuchas" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3434" centery="2679" centerz="7" radius="1">
 		<monster name="Adjuchas" x="-1" y="-1" z="7" spawntime="60" />
@@ -13096,10 +11644,6 @@
 		<monster name="Adjuchas" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Adjuchas" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4001" centery="2679" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3426" centery="2680" centerz="7" radius="1">
 		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Adjuchas" x="-1" y="0" z="7" spawntime="60" />
@@ -13110,53 +11654,17 @@
 		<monster name="Adjuchas" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Adjuchas" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3917" centery="2680" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3949" centery="2680" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3980" centery="2680" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3958" centery="2681" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3888" centery="2682" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3907" centery="2682" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4047" centery="2682" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4078" centery="2682" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3341" centery="2683" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4060" centery="2683" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3548" centery="2684" centerz="7" radius="1">
-		<monster name="Adjuchas" x="0" y="-1" z="7" spawntime="0" />
-		<monster name="Adjuchas" x="0" y="1" z="7" spawntime="0" />
+		<monster name="Adjuchas" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Adjuchas" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3581" centery="2684" centerz="7" radius="1">
-		<monster name="Adjuchas" x="0" y="-1" z="7" spawntime="0" />
-		<monster name="Adjuchas" x="-1" y="1" z="7" spawntime="0" />
-	</spawn>
-	<spawn centerx="3938" centery="2684" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3965" centery="2684" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Adjuchas" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Adjuchas" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3361" centery="2685" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="1" y="-1" z="7" spawntime="60" />
@@ -13183,12 +11691,9 @@
 		<monster name="Adjuchas" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3606" centery="2685" centerz="7" radius="1">
-		<monster name="Adjuchas" x="-1" y="-1" z="7" spawntime="0" />
-		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="0" />
-		<monster name="Adjuchas" x="-1" y="1" z="7" spawntime="0" />
-	</spawn>
-	<spawn centerx="3901" centery="2685" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
+		<monster name="Adjuchas" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Adjuchas" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3477" centery="2686" centerz="7" radius="1">
 		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="60" />
@@ -13199,55 +11704,8 @@
 		<monster name="Adjuchas" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Adjuchas" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3997" centery="2687" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3890" centery="2688" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4027" centery="2688" centerz="7" radius="1">
-		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="0" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4040" centery="2688" centerz="7" radius="1">
-		<monster name="Incomplete Arrancar" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4051" centery="2688" centerz="7" radius="1">
-		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="0" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4070" centery="2688" centerz="7" radius="1">
-		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="0" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3932" centery="2689" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3972" centery="2689" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4001" centery="2689" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4018" centery="2689" centerz="7" radius="1">
-		<monster name="Incomplete Arrancar" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3311" centery="2690" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3903" centery="2690" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3922" centery="2690" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3398" centery="2691" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="1" y="-1" z="7" spawntime="60" />
@@ -13264,33 +11722,8 @@
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3896" centery="2692" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3952" centery="2692" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3384" centery="2693" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3967" centery="2693" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3991" centery="2693" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4048" centery="2693" centerz="7" radius="1">
-		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4067" centery="2693" centerz="7" radius="1">
-		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4019" centery="2694" centerz="7" radius="1">
-		<monster name="Incomplete Arrancar" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3795" centery="2695" centerz="7" radius="1">
 		<monster name="Espada" x="-1" y="0" z="7" spawntime="60" />
@@ -13337,10 +11770,6 @@
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Espada" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3909" centery="2695" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Espada" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3354" centery="2696" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="-1" z="7" spawntime="60" />
@@ -13351,27 +11780,10 @@
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Espada" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3962" centery="2696" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4025" centery="2696" centerz="7" radius="1">
-		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3363" centery="2697" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3941" centery="2697" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4012" centery="2697" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3951" centery="2698" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3325" centery="2699" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="1" y="-1" z="7" spawntime="60" />
@@ -13382,19 +11794,6 @@
 		<monster name="Espada" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Espada" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3983" centery="2699" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4036" centery="2699" centerz="7" radius="1">
-		<monster name="Incomplete Arrancar" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4054" centery="2699" centerz="7" radius="1">
-		<monster name="Incomplete Arrancar" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3818" centery="2700" centerz="7" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
@@ -13416,9 +11815,6 @@
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Espada" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3988" centery="2701" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3843" centery="2702" centerz="7" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Incomplete Arrancar" x="0" y="1" z="7" spawntime="60" />
@@ -13427,62 +11823,18 @@
 		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Incomplete Arrancar" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3940" centery="2702" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3805" centery="2703" centerz="7" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Incomplete Arrancar" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3902" centery="2703" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3908" centery="2703" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4017" centery="2703" centerz="7" radius="1">
-		<monster name="Incomplete Arrancar" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3372" centery="2704" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3948" centery="2704" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3959" centery="2704" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3916" centery="2705" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4059" centery="2705" centerz="7" radius="1">
-		<monster name="Incomplete Arrancar" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3388" centery="2706" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3963" centery="2706" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3967" centery="2706" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4007" centery="2706" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4034" centery="2706" centerz="7" radius="1">
-		<monster name="Incomplete Arrancar" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2904" centery="2707" centerz="7" radius="1">
 		<monster name="Soldier Barragan" x="0" y="0" z="7" spawntime="60" />
@@ -13492,24 +11844,10 @@
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3923" centery="2707" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4018" centery="2707" centerz="7" radius="1">
-		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="0" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3342" centery="2708" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4070" centery="2708" centerz="7" radius="1">
-		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3933" centery="2709" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3794" centery="2710" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="-1" z="7" spawntime="60" />
@@ -13522,9 +11860,6 @@
 	<spawn centerx="3857" centery="2710" centerz="7" radius="1">
 		<monster name="Incomplete Arrancar" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3940" centery="2710" centerz="7" radius="1">
-		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3414" centery="2711" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="-1" y="-1" z="7" spawntime="60" />
@@ -13548,16 +11883,6 @@
 		<monster name="Incomplete Arrancar" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4036" centery="2712" centerz="7" radius="1">
-		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4057" centery="2712" centerz="7" radius="1">
-		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Incomplete Arrancar" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3318" centery="2713" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -13567,31 +11892,16 @@
 		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Incomplete Arrancar" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3935" centery="2713" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3306" centery="2714" centerz="7" radius="1">
 		<monster name="Arrancar Hollow" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3980" centery="2714" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3989" centery="2714" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3878" centery="2715" centerz="7" radius="1">
 		<monster name="Espada" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Espada" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Espada" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3951" centery="2715" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3817" centery="2717" centerz="7" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
@@ -13615,10 +11925,6 @@
 	<spawn centerx="3865" centery="2719" centerz="7" radius="1">
 		<monster name="Incomplete Arrancar" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3973" centery="2719" centerz="7" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3832" centery="2720" centerz="7" radius="1">
 		<monster name="Espada" x="0" y="0" z="7" spawntime="60" />
@@ -21719,35 +20025,13 @@
 		<monster name="Barragan Soldier" x="0" y="-1" z="8" spawntime="60" />
 		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3951" centery="2639" centerz="8" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3961" centery="2639" centerz="8" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="3261" centery="2640" centerz="8" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3949" centery="2643" centerz="8" radius="1">
-		<monster name="Espada" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3982" centery="2643" centerz="8" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Barragan Soldier" x="-1" y="1" z="8" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="4012" centery="2643" centerz="8" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="8" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Espada" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3289" centery="2644" centerz="8" radius="1">
 		<monster name="Barragan Soldier" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Barragan Soldier" x="-1" y="1" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3977" centery="2644" centerz="8" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3315" centery="2646" centerz="8" radius="1">
 		<monster name="Barragan Soldier" x="0" y="-1" z="8" spawntime="60" />
@@ -21757,33 +20041,12 @@
 	<spawn centerx="3252" centery="2647" centerz="8" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3982" centery="2650" centerz="8" radius="1">
-		<monster name="Espada" x="1" y="-1" z="8" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Espada" x="-1" y="1" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="4013" centery="2650" centerz="8" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="3280" centery="2653" centerz="8" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Barragan Soldier" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3950" centery="2653" centerz="8" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="3241" centery="2655" centerz="8" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="4012" centery="2655" centerz="8" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="8" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Espada" x="1" y="1" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3981" centery="2656" centerz="8" radius="1">
-		<monster name="Espada" x="1" y="-1" z="8" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Espada" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3307" centery="2660" centerz="8" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
@@ -21799,12 +20062,6 @@
 		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Barragan Soldier" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3950" centery="2663" centerz="8" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3984" centery="2664" centerz="8" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="3218" centery="2665" centerz="8" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -21813,10 +20070,6 @@
 		<monster name="Adjuchas" x="1" y="0" z="8" spawntime="17822720" />
 		<monster name="Adjuchas" x="0" y="1" z="8" spawntime="60" />
 		<monster name="Adjuchas" x="1" y="1" z="8" spawntime="17822720" />
-	</spawn>
-	<spawn centerx="3981" centery="2670" centerz="8" radius="1">
-		<monster name="Espada" x="1" y="-1" z="8" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3191" centery="2671" centerz="8" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
@@ -21829,20 +20082,6 @@
 		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Barragan Soldier" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3951" centery="2673" centerz="8" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="8" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Espada" x="0" y="1" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3993" centery="2673" centerz="8" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3969" centery="2674" centerz="8" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="8" spawntime="60" />
-		<monster name="Espada" x="1" y="-1" z="8" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Barragan Soldier" x="-1" y="1" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="3306" centery="2675" centerz="8" radius="1">
 		<monster name="Barragan Soldier" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
@@ -21852,11 +20091,6 @@
 		<monster name="Barragan Soldier" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Barragan Soldier" x="1" y="1" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="4014" centery="2675" centerz="8" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="8" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Espada" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3189" centery="2678" centerz="8" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
@@ -21876,14 +20110,6 @@
 		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Barragan Soldier" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3950" centery="2682" centerz="8" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="8" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Espada" x="0" y="1" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="4013" centery="2683" centerz="8" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="3214" centery="2685" centerz="8" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -21898,20 +20124,8 @@
 		<monster name="Barragan Soldier" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3982" centery="2686" centerz="8" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="8" spawntime="60" />
-		<monster name="Espada" x="-1" y="0" z="8" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Espada" x="1" y="1" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="4013" centery="2688" centerz="8" radius="1">
-		<monster name="Espada" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="3248" centery="2690" centerz="8" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3950" centery="2690" centerz="8" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3230" centery="2691" centerz="8" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
@@ -21942,31 +20156,6 @@
 	</spawn>
 	<spawn centerx="3257" centery="2699" centerz="8" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="4011" centery="2699" centerz="8" radius="1">
-		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3976" centery="2700" centerz="8" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3983" centery="2700" centerz="8" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="8" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Espada" x="-1" y="1" z="8" spawntime="60" />
-		<monster name="Espada" x="1" y="1" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="4002" centery="2700" centerz="8" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3953" centery="2701" centerz="8" radius="1">
-		<monster name="Espada" x="1" y="-1" z="8" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Espada" x="-1" y="1" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="3967" centery="2701" centerz="8" radius="1">
-		<monster name="Espada" x="-1" y="-1" z="8" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Espada" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3352" centery="2706" centerz="8" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
@@ -27639,87 +25828,9 @@
 	<spawn centerx="3510" centery="4197" centerz="8" radius="1">
 		<monster name="Arrancar Misteryo" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3981" centery="2522" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3992" centery="2523" centerz="9" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3982" centery="2527" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3982" centery="2535" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="-1" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3983" centery="2548" centerz="9" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3982" centery="2554" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3982" centery="2558" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="0" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3981" centery="2570" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="0" y="-1" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="4014" centery="2584" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="4022" centery="2584" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3997" centery="2585" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3981" centery="2586" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="0" y="-1" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="4024" centery="2589" centerz="9" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3983" centery="2592" centerz="9" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3981" centery="2599" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3983" centery="2611" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="1" z="9" spawntime="60" />
-	</spawn>
 	<spawn centerx="3253" centery="2619" centerz="9" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
 		<monster name="Barragan Soldier" x="1" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3982" centery="2622" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3248" centery="2626" centerz="9" radius="1">
 		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
@@ -27736,9 +25847,6 @@
 		<monster name="Barragan Soldier" x="-1" y="0" z="9" spawntime="60" />
 		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="3983" centery="2637" centerz="9" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="9" spawntime="60" />
-	</spawn>
 	<spawn centerx="3275" centery="2638" centerz="9" radius="1">
 		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
 		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
@@ -27746,11 +25854,6 @@
 	</spawn>
 	<spawn centerx="3312" centery="2641" centerz="9" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3983" centery="2641" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3285" centery="2642" centerz="9" radius="1">
 		<monster name="Barragan Soldier" x="0" y="-1" z="9" spawntime="60" />
@@ -27786,11 +25889,6 @@
 		<monster name="Barragan Soldier" x="1" y="-1" z="9" spawntime="60" />
 		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="3981" centery="2658" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="1" z="9" spawntime="60" />
-	</spawn>
 	<spawn centerx="3305" centery="2659" centerz="9" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
@@ -27806,12 +25904,6 @@
 		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
 		<monster name="Barragan Soldier" x="0" y="-1" z="9" spawntime="60" />
 		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3920" centery="2665" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="-1" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3260" centery="2666" centerz="9" radius="1">
 		<monster name="Barragan Soldier" x="1" y="-1" z="9" spawntime="60" />
@@ -27837,59 +25929,18 @@
 		<monster name="Barragan Soldier" x="-1" y="0" z="9" spawntime="60" />
 		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="4005" centery="2673" centerz="9" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="9" spawntime="60" />
-	</spawn>
 	<spawn centerx="3322" centery="2675" centerz="9" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
 		<monster name="Barragan Soldier" x="-1" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3939" centery="2675" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="0" y="-1" z="9" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3198" centery="2676" centerz="9" radius="1">
 		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
 		<monster name="Barragan Soldier" x="0" y="-1" z="9" spawntime="60" />
 		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="3975" centery="2676" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="0" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3991" centery="2676" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="0" y="-1" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="4013" centery="2676" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3960" centery="2677" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="0" y="-1" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="4002" centery="2677" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="1" z="9" spawntime="60" />
-	</spawn>
 	<spawn centerx="3235" centery="2678" centerz="9" radius="1">
 		<monster name="Barragan Soldier" x="1" y="-1" z="9" spawntime="60" />
 		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3949" centery="2678" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
-		<monster name="Hollow Grande" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3982" centery="2679" centerz="9" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3256" centery="2681" centerz="9" radius="1">
 		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
@@ -27900,12 +25951,6 @@
 		<monster name="Barragan Soldier" x="0" y="-1" z="9" spawntime="60" />
 		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
 		<monster name="Barragan Soldier" x="-1" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3919" centery="2682" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="-1" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3358" centery="2684" centerz="9" radius="1">
 		<monster name="Barragan Soldier" x="1" y="-1" z="9" spawntime="60" />
@@ -27927,19 +25972,8 @@
 		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
 		<monster name="Barragan Soldier" x="1" y="1" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="3919" centery="2689" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
-		<monster name="Hollow Grande" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="0" z="9" spawntime="60" />
-	</spawn>
 	<spawn centerx="3319" centery="2693" centerz="9" radius="1">
 		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3917" centery="2693" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="1" y="-1" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="-1" y="0" z="9" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="9" spawntime="60" />
 		<monster name="Barragan Soldier" x="0" y="1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3248" centery="2694" centerz="9" radius="1">
@@ -27962,11 +25996,6 @@
 		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
 		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="4040" centery="2706" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="1" z="9" spawntime="60" />
-	</spawn>
 	<spawn centerx="3260" centery="2707" centerz="9" radius="1">
 		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
 		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
@@ -27981,91 +26010,6 @@
 		<monster name="Barragan Soldier" x="1" y="-1" z="9" spawntime="60" />
 		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
 		<monster name="Barragan Soldier" x="1" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3919" centery="2711" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="-1" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3919" centery="2721" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
-		<monster name="Hollow Grande" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="4040" centery="2723" centerz="9" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3919" centery="2728" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="-1" z="9" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="4040" centery="2731" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3918" centery="2743" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="4041" centery="2745" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3918" centery="2753" centerz="9" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="4042" centery="2758" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="-1" y="-1" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="-1" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3929" centery="2760" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="0" y="-1" z="9" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="-1" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3946" centery="2760" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="0" y="-1" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3983" centery="2760" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="0" y="-1" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="4026" centery="2760" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="0" y="-1" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="0" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3940" centery="2761" centerz="9" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3957" centery="2761" centerz="9" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3964" centery="2761" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="0" y="-1" z="9" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="1" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="3977" centery="2761" centerz="9" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="4004" centery="2761" centerz="9" radius="1">
-		<monster name="Barragan Soldier" x="0" y="-1" z="9" spawntime="60" />
-		<monster name="Espada" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Barragan Soldier" x="-1" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="4017" centery="2761" centerz="9" radius="1">
-		<monster name="Hollow Grande" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3778" centery="2810" centerz="9" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="9" spawntime="60" />
