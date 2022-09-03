@@ -29029,6 +29029,7 @@
 	<spawn centerx="3148" centery="2771" centerz="13" radius="1">
 		<monster name="Elite Gilliam" x="1" y="-1" z="13" spawntime="60" />
 		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Gray Hollow" x="-1" y="1" z="13" spawntime="60" />
 	</spawn>
 	<spawn centerx="3299" centery="2773" centerz="13" radius="1">
 		<monster name="Elite Gilliam" x="1" y="-1" z="13" spawntime="60" />
