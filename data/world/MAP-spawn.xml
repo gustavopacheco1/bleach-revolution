@@ -28941,4 +28941,1903 @@
 	<spawn centerx="3808" centery="2828" centerz="12" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="12" spawntime="60" />
 	</spawn>
+	<spawn centerx="3122" centery="2696" centerz="13" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Green Hollow" x="1" y="1" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3128" centery="2708" centerz="13" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3203" centery="2715" centerz="13" radius="1">
+		<monster name="Gray Hollow" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Green Hollow" x="1" y="1" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3102" centery="2717" centerz="13" radius="1">
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Gray Hollow" x="0" y="1" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3187" centery="2721" centerz="13" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Gray Hollow" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3210" centery="2723" centerz="13" radius="1">
+		<monster name="Gray Hollow" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Green Hollow" x="-1" y="1" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3111" centery="2725" centerz="13" radius="1">
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3096" centery="2727" centerz="13" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3150" centery="2736" centerz="13" radius="1">
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3089" centery="2741" centerz="13" radius="1">
+		<monster name="Elite Gilliam" x="0" y="-1" z="13" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3241" centery="2743" centerz="13" radius="1">
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3141" centery="2746" centerz="13" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Green Hollow" x="1" y="1" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3128" centery="2750" centerz="13" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3104" centery="2751" centerz="13" radius="1">
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Gray Hollow" x="-1" y="1" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3224" centery="2752" centerz="13" radius="1">
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Gray Hollow" x="0" y="1" z="13" spawntime="60" />
+		<monster name="Incomplete Hollow" x="1" y="1" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3239" centery="2754" centerz="13" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Incomplete Hollow" x="1" y="1" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3080" centery="2756" centerz="13" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Green Hollow" x="1" y="1" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3149" centery="2758" centerz="13" radius="1">
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3210" centery="2758" centerz="13" radius="1">
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3140" centery="2759" centerz="13" radius="1">
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3067" centery="2764" centerz="13" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3148" centery="2771" centerz="13" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3299" centery="2773" centerz="13" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Gray Hollow" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3290" centery="2775" centerz="13" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Gray Hollow" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3280" centery="2777" centerz="13" radius="1">
+		<monster name="Gray Hollow" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Green Hollow" x="1" y="1" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3269" centery="2780" centerz="13" radius="1">
+		<monster name="Gray Hollow" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Incomplete Hollow" x="1" y="1" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3283" centery="2788" centerz="13" radius="1">
+		<monster name="Green Hollow" x="-1" y="-1" z="13" spawntime="60" />
+		<monster name="Elite Gilliam" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Gray Hollow" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3251" centery="2791" centerz="13" radius="1">
+		<monster name="Gray Hollow" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Green Hollow" x="1" y="1" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3270" centery="2792" centerz="13" radius="1">
+		<monster name="Elite Gilliam" x="0" y="-1" z="13" spawntime="60" />
+		<monster name="Gray Hollow" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3152" centery="2834" centerz="13" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Green Hollow" x="-1" y="1" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3140" centery="2837" centerz="13" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3134" centery="2849" centerz="13" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3146" centery="2855" centerz="13" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Green Hollow" x="1" y="1" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3162" centery="2858" centerz="13" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3179" centery="2863" centerz="13" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Green Hollow" x="1" y="1" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3317" centery="2879" centerz="13" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3326" centery="2879" centerz="13" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Green Hollow" x="-1" y="1" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3322" centery="2887" centerz="13" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Deformed Hollow" x="1" y="1" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3101" centery="2937" centerz="13" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Gray Hollow" x="0" y="1" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3152" centery="2938" centerz="13" radius="1">
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Incomplete Hollow" x="1" y="1" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3134" centery="2939" centerz="13" radius="1">
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Green Hollow" x="-1" y="1" z="13" spawntime="60" />
+		<monster name="Incomplete Hollow" x="1" y="1" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3116" centery="2944" centerz="13" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3152" centery="2955" centerz="13" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Green Hollow" x="1" y="1" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3136" centery="2956" centerz="13" radius="1">
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3134" centery="2970" centerz="13" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3147" centery="2970" centerz="13" radius="1">
+		<monster name="Green Hollow" x="-1" y="-1" z="13" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3103" centery="2976" centerz="13" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3116" centery="2976" centerz="13" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3131" centery="2979" centerz="13" radius="1">
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3152" centery="2981" centerz="13" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Incomplete Hollow" x="-1" y="1" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3211" centery="3003" centerz="13" radius="1">
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Elite Gilliam" x="-1" y="1" z="13" spawntime="60" />
+		<monster name="Green Hollow" x="1" y="1" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3196" centery="3008" centerz="13" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3217" centery="3015" centerz="13" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Green Hollow" x="0" y="1" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3196" centery="3021" centerz="13" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Green Hollow" x="1" y="1" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3208" centery="3026" centerz="13" radius="1">
+		<monster name="Gray Hollow" x="-1" y="-1" z="13" spawntime="60" />
+		<monster name="Deformed Hollow" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="3129" centery="2689" centerz="14" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Gray Hollow" x="-1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3143" centery="2691" centerz="14" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3110" centery="2692" centerz="14" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Elite Gilliam" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3128" centery="2697" centerz="14" radius="1">
+		<monster name="Elite Gilliam" x="0" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Incomplete Hollow" x="-1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3136" centery="2700" centerz="14" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3095" centery="2705" centerz="14" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Elite Gilliam" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3122" centery="2708" centerz="14" radius="1">
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Incomplete Hollow" x="-1" y="1" z="14" spawntime="60" />
+		<monster name="Elite Gilliam" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3137" centery="2712" centerz="14" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3197" centery="2712" centerz="14" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3219" centery="2712" centerz="14" radius="1">
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Elite Gilliam" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3115" centery="2715" centerz="14" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3181" centery="2719" centerz="14" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Elite Gilliam" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3218" centery="2722" centerz="14" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Incomplete Hollow" x="-1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3086" centery="2725" centerz="14" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3138" centery="2726" centerz="14" radius="1">
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3229" centery="2728" centerz="14" radius="1">
+		<monster name="Green Hollow" x="0" y="-1" z="14" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3121" centery="2731" centerz="14" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3155" centery="2731" centerz="14" radius="1">
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3242" centery="2736" centerz="14" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Incomplete Hollow" x="0" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3106" centery="2737" centerz="14" radius="1">
+		<monster name="Incomplete Hollow" x="-1" y="-1" z="14" spawntime="60" />
+		<monster name="Elite Gilliam" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3213" centery="2737" centerz="14" radius="1">
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3132" centery="2743" centerz="14" radius="1">
+		<monster name="Incomplete Hollow" x="-1" y="-1" z="14" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3225" centery="2743" centerz="14" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3153" centery="2747" centerz="14" radius="1">
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3079" centery="2748" centerz="14" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3122" centery="2748" centerz="14" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3254" centery="2748" centerz="14" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Elite Gilliam" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3142" centery="2752" centerz="14" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3064" centery="2755" centerz="14" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3123" centery="2759" centerz="14" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3253" centery="2761" centerz="14" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3150" centery="2764" centerz="14" radius="1">
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Green Hollow" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3238" centery="2765" centerz="14" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Elite Gilliam" x="-1" y="1" z="14" spawntime="60" />
+		<monster name="Green Hollow" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3132" centery="2767" centerz="14" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3295" centery="2768" centerz="14" radius="1">
+		<monster name="Elite Gilliam" x="-1" y="-1" z="14" spawntime="60" />
+		<monster name="Incomplete Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Gray Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3210" centery="2770" centerz="14" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Incomplete Hollow" x="0" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3266" centery="2773" centerz="14" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Gray Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3137" centery="2776" centerz="14" radius="1">
+		<monster name="Gray Hollow" x="-1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3256" centery="2777" centerz="14" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Green Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Elite Gilliam" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3308" centery="2779" centerz="14" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Gray Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Incomplete Hollow" x="-1" y="1" z="14" spawntime="60" />
+		<monster name="Elite Gilliam" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3292" centery="2781" centerz="14" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Gray Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3248" centery="2785" centerz="14" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Gray Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3287" centery="2792" centerz="14" radius="1">
+		<monster name="Gray Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Incomplete Hollow" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3305" centery="2792" centerz="14" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Gray Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Elite Gilliam" x="-1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3173" centery="2837" centerz="14" radius="1">
+		<monster name="Green Hollow" x="-1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Elite Gilliam" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3151" centery="2841" centerz="14" radius="1">
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Elite Gilliam" x="0" y="1" z="14" spawntime="60" />
+		<monster name="Green Hollow" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3315" centery="2841" centerz="14" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3138" centery="2842" centerz="14" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3187" centery="2842" centerz="14" radius="1">
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Incomplete Hollow" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3162" centery="2848" centerz="14" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3177" centery="2849" centerz="14" radius="1">
+		<monster name="Green Hollow" x="0" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Incomplete Hollow" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3300" centery="2850" centerz="14" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3328" centery="2852" centerz="14" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3279" centery="2854" centerz="14" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3345" centery="2854" centerz="14" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3192" centery="2855" centerz="14" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3309" centery="2858" centerz="14" radius="1">
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3292" centery="2859" centerz="14" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3326" centery="2861" centerz="14" radius="1">
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Deformed Hollow" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3265" centery="2863" centerz="14" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Deformed Hollow" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3343" centery="2863" centerz="14" radius="1">
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3279" centery="2867" centerz="14" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3354" centery="2867" centerz="14" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3186" centery="2868" centerz="14" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3321" centery="2869" centerz="14" radius="1">
+		<monster name="Deformed Hollow" x="-1" y="-1" z="14" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3250" centery="2870" centerz="14" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3303" centery="2870" centerz="14" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Deformed Hollow" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3336" centery="2872" centerz="14" radius="1">
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3265" centery="2874" centerz="14" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3284" centery="2877" centerz="14" radius="1">
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Green Hollow" x="0" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3347" centery="2880" centerz="14" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3242" centery="2883" centerz="14" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Deformed Hollow" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3355" centery="2883" centerz="14" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3298" centery="2886" centerz="14" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3272" centery="2887" centerz="14" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3338" centery="2888" centerz="14" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Deformed Hollow" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3260" centery="2889" centerz="14" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3286" centery="2892" centerz="14" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3348" centery="2897" centerz="14" radius="1">
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3305" centery="2898" centerz="14" radius="1">
+		<monster name="Green Hollow" x="0" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Deformed Hollow" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3330" centery="2899" centerz="14" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3355" centery="2901" centerz="14" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3250" centery="2903" centerz="14" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Deformed Hollow" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3281" centery="2904" centerz="14" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3298" centery="2906" centerz="14" radius="1">
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3317" centery="2906" centerz="14" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3336" centery="2907" centerz="14" radius="1">
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3268" centery="2913" centerz="14" radius="1">
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3343" centery="2914" centerz="14" radius="1">
+		<monster name="Gray Hollow" x="0" y="-1" z="14" spawntime="60" />
+		<monster name="Deformed Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3304" centery="2916" centerz="14" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3320" centery="2916" centerz="14" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3288" centery="2917" centerz="14" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3263" centery="2923" centerz="14" radius="1">
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Deformed Hollow" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3327" centery="2923" centerz="14" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3284" centery="2926" centerz="14" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3305" centery="2927" centerz="14" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3278" centery="2932" centerz="14" radius="1">
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3317" centery="2933" centerz="14" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3299" centery="2934" centerz="14" radius="1">
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3117" centery="2935" centerz="14" radius="1">
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3097" centery="2944" centerz="14" radius="1">
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3160" centery="2945" centerz="14" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Incomplete Hollow" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3126" centery="2946" centerz="14" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3143" centery="2953" centerz="14" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3096" centery="2957" centerz="14" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3125" centery="2959" centerz="14" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3160" centery="2959" centerz="14" radius="1">
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3103" centery="2970" centerz="14" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3160" centery="2974" centerz="14" radius="1">
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3101" centery="2981" centerz="14" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Green Hollow" x="0" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3117" centery="2981" centerz="14" radius="1">
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Gray Hollow" x="-1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3130" centery="2988" centerz="14" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Gray Hollow" x="-1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3119" centery="2995" centerz="14" radius="1">
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3200" centery="2997" centerz="14" radius="1">
+		<monster name="Green Hollow" x="-1" y="-1" z="14" spawntime="60" />
+		<monster name="Elite Gilliam" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3138" centery="2998" centerz="14" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3214" centery="2998" centerz="14" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3190" centery="3003" centerz="14" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3223" centery="3007" centerz="14" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Green Hollow" x="-1" y="1" z="14" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3186" centery="3014" centerz="14" radius="1">
+		<monster name="Green Hollow" x="-1" y="-1" z="14" spawntime="60" />
+		<monster name="Elite Gilliam" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3224" centery="3019" centerz="14" radius="1">
+		<monster name="Deformed Hollow" x="0" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3218" centery="3029" centerz="14" radius="1">
+		<monster name="Green Hollow" x="-1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Gray Hollow" x="-1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3200" centery="3031" centerz="14" radius="1">
+		<monster name="Deformed Hollow" x="-1" y="-1" z="14" spawntime="60" />
+		<monster name="Elite Gilliam" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="3211" centery="2623" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Green Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3197" centery="2632" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Elite Gilliam" x="-1" y="1" z="15" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3118" centery="2634" centerz="15" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3158" centery="2641" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3106" centery="2645" centerz="15" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Elite Gilliam" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3133" centery="2645" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3213" centery="2647" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3185" centery="2650" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3119" centery="2658" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Elite Gilliam" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3153" centery="2658" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Elite Gilliam" x="-1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3223" centery="2662" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Gray Hollow" x="0" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3179" centery="2666" centerz="15" radius="1">
+		<monster name="Gray Hollow" x="0" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3123" centery="2674" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3141" centery="2674" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Gray Hollow" x="-1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3209" centery="2674" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Elite Gilliam" x="-1" y="1" z="15" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3162" centery="2678" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Elite Gilliam" x="-1" y="1" z="15" spawntime="60" />
+		<monster name="Incomplete Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3175" centery="2682" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3202" centery="2688" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3179" centery="2695" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3158" centery="2700" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="-1" y="-1" z="15" spawntime="60" />
+		<monster name="Deformed Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3209" centery="2703" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Elite Gilliam" x="-1" y="0" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3283" centery="2705" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3180" centery="2706" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3142" centery="2707" centerz="15" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Incomplete Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3156" centery="2715" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Incomplete Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3170" centery="2718" centerz="15" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3289" centery="2718" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3304" centery="2725" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3287" centery="2729" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3374" centery="2731" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3163" centery="2732" centerz="15" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3182" centery="2736" centerz="15" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Green Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3201" centery="2736" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3318" centery="2737" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3354" centery="2739" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3295" centery="2741" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3264" centery="2743" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3336" centery="2743" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3373" centery="2747" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3281" centery="2748" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3207" centery="2749" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3187" centery="2751" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3320" centery="2752" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3169" centery="2755" centerz="15" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3359" centery="2756" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3263" centery="2757" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3196" centery="2758" centerz="15" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3304" centery="2758" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3347" centery="2760" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3103" centery="2761" centerz="15" radius="1">
+		<monster name="Green Hollow" x="0" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3386" centery="2761" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3285" centery="2763" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3263" centery="2768" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3335" centery="2768" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3371" centery="2768" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Incomplete Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3082" centery="2769" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3050" centery="2770" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3187" centery="2770" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Green Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3311" centery="2770" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3230" centery="2772" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Green Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3357" centery="2772" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3167" centery="2773" centerz="15" radius="1">
+		<monster name="Green Hollow" x="-1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Elite Gilliam" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3201" centery="2773" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3247" centery="2775" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3098" centery="2776" centerz="15" radius="1">
+		<monster name="Green Hollow" x="0" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Elite Gilliam" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3390" centery="2777" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Incomplete Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3074" centery="2781" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3057" centery="2783" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Elite Gilliam" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3040" centery="2784" centerz="15" radius="1">
+		<monster name="Green Hollow" x="0" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3113" centery="2784" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Elite Gilliam" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3143" centery="2784" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Green Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3180" centery="2785" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Elite Gilliam" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3315" centery="2785" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3359" centery="2786" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3340" centery="2787" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3202" centery="2788" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3225" centery="2789" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Elite Gilliam" x="-1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3380" centery="2793" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3124" centery="2794" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3141" centery="2794" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3160" centery="2794" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3028" centery="2797" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3076" centery="2797" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3099" centery="2797" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3225" centery="2798" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Incomplete Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3401" centery="2798" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3241" centery="2799" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3172" centery="2800" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Green Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3324" centery="2800" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3051" centery="2801" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="-1" y="-1" z="15" spawntime="60" />
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3276" centery="2802" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3307" centery="2802" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3200" centery="2803" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Green Hollow" x="0" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3258" centery="2803" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3146" centery="2806" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="-1" y="-1" z="15" spawntime="60" />
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3217" centery="2807" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="0" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3388" centery="2807" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3017" centery="2809" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3066" centery="2811" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3294" centery="2811" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3365" centery="2811" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3341" centery="2812" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3089" centery="2813" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3173" centery="2813" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3233" centery="2813" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="2996" centery="2814" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3132" centery="2815" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3314" centery="2815" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3406" centery="2815" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3198" centery="2816" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Deformed Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3050" centery="2817" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Elite Gilliam" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3108" centery="2817" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3268" centery="2819" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3303" centery="2819" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3379" centery="2819" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3327" centery="2820" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3032" centery="2821" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3159" centery="2822" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Deformed Hollow" x="-1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3352" centery="2822" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3146" centery="2824" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="0" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3287" centery="2825" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3081" centery="2826" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3399" centery="2826" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3172" centery="2827" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3306" centery="2828" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3240" centery="2830" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3341" centery="2830" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3185" centery="2831" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3209" centery="2831" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3223" centery="2831" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="0" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3109" centery="2832" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3124" centery="2833" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3326" centery="2833" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3374" centery="2833" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3019" centery="2834" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3055" centery="2835" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3272" centery="2835" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3347" centery="2837" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3391" centery="2837" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3415" centery="2838" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3252" centery="2839" centerz="15" radius="1">
+		<monster name="Incomplete Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3168" centery="2841" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3363" centery="2841" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3181" centery="2842" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3082" centery="2843" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Green Hollow" x="0" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3200" centery="2844" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3300" centery="2844" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3100" centery="2845" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Green Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3165" centery="2847" centerz="15" radius="1">
+		<monster name="Green Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3230" centery="2847" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Deformed Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3336" centery="2847" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3039" centery="2849" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Green Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3171" centery="2849" centerz="15" radius="1">
+		<monster name="Gray Hollow" x="0" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Elite Gilliam" x="-1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3123" centery="2850" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3184" centery="2853" centerz="15" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Elite Gilliam" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3265" centery="2853" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3354" centery="2853" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3169" centery="2854" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3081" centery="2856" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Green Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3209" centery="2856" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3060" centery="2857" centerz="15" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Green Hollow" x="0" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3105" centery="2859" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Elite Gilliam" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3238" centery="2862" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Deformed Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3132" centery="2865" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Elite Gilliam" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3152" centery="2869" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3087" centery="2870" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Elite Gilliam" x="0" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3045" centery="2873" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3211" centery="2873" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3067" centery="2875" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3119" centery="2875" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3178" centery="2878" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3099" centery="2879" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3150" centery="2882" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3229" centery="2882" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3200" centery="2887" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3010" centery="2889" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3164" centery="2889" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3120" centery="2891" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3031" centery="2892" centerz="15" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3049" centery="2892" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3087" centery="2892" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3213" centery="2892" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3135" centery="2895" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Elite Gilliam" x="-1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3172" centery="2896" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="-1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Deformed Hollow" x="0" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3242" centery="2900" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Deformed Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3079" centery="2901" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3226" centery="2903" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3094" centery="2905" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3156" centery="2905" centerz="15" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3186" centery="2905" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Deformed Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3207" centery="2905" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Deformed Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3068" centery="2909" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3032" centery="2910" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3140" centery="2911" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3130" centery="2913" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3111" centery="2914" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3245" centery="2916" centerz="15" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3193" centery="2917" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Deformed Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3163" centery="2921" centerz="15" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3212" centery="2924" centerz="15" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Deformed Hollow" x="0" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3234" centery="2924" centerz="15" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3049" centery="2926" centerz="15" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3130" centery="2927" centerz="15" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3092" centery="2928" centerz="15" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3149" centery="2929" centerz="15" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3183" centery="2930" centerz="15" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3256" centery="2931" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3070" centery="2932" centerz="15" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3247" centery="2937" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Deformed Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3144" centery="2941" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Gray Hollow" x="-1" y="1" z="15" spawntime="60" />
+		<monster name="Incomplete Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3230" centery="2941" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Deformed Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3048" centery="2947" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3268" centery="2947" centerz="15" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3178" centery="2948" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3022" centery="2949" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3204" centery="2952" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Deformed Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3293" centery="2952" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3067" centery="2953" centerz="15" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3246" centery="2955" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3112" centery="2956" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Deformed Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3224" centery="2957" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3190" centery="2962" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3272" centery="2962" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Deformed Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3306" centery="2962" centerz="15" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3168" centery="2963" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Deformed Hollow" x="0" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3079" centery="2964" centerz="15" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3122" centery="2965" centerz="15" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3152" centery="2965" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3137" centery="2966" centerz="15" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3207" centery="2968" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Deformed Hollow" x="0" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3317" centery="2968" centerz="15" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3291" centery="2969" centerz="15" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3045" centery="2970" centerz="15" radius="1">
+		<monster name="Gray Hollow" x="-1" y="-1" z="15" spawntime="60" />
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3227" centery="2972" centerz="15" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3253" centery="2973" centerz="15" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3179" centery="2976" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3271" centery="2976" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Gray Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3174" centery="2983" centerz="15" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3198" centery="2983" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Elite Gilliam" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3298" centery="2984" centerz="15" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3216" centery="2985" centerz="15" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3240" centery="2989" centerz="15" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3091" centery="2990" centerz="15" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3224" centery="2991" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3285" centery="2991" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3176" centery="2993" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3191" centery="2993" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3269" centery="2993" centerz="15" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3154" centery="2994" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Deformed Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3250" centery="2998" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3232" centery="3000" centerz="15" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Elite Gilliam" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3168" centery="3003" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3265" centery="3005" centerz="15" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3180" centery="3011" centerz="15" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3140" centery="3015" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Deformed Hollow" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3237" centery="3015" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3254" centery="3017" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3168" centery="3020" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3135" centery="3025" centerz="15" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3229" centery="3026" centerz="15" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3179" centery="3027" centerz="15" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3149" centery="3029" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3247" centery="3029" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Elite Gilliam" x="-1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3162" centery="3030" centerz="15" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3120" centery="3031" centerz="15" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3264" centery="3033" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3185" centery="3034" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3223" centery="3037" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3194" centery="3040" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3139" centery="3041" centerz="15" radius="1">
+		<monster name="Gray Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3213" centery="3041" centerz="15" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3236" centery="3042" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3203" centery="3043" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3271" centery="3045" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3171" centery="3048" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Gray Hollow" x="0" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3253" centery="3048" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3186" centery="3055" centerz="15" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3238" centery="3056" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3218" centery="3058" centerz="15" radius="1">
+		<monster name="Deformed Hollow" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3205" centery="3060" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3265" centery="3062" centerz="15" radius="1">
+		<monster name="Elite Gilliam" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="3231" centery="3070" centerz="15" radius="1">
+		<monster name="Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
 </spawns>
