@@ -2,7 +2,7 @@
 <!-- Monster Level: 200 -->
 <monster name="Green Hollow" nameDescription="Green Hollow" race="blood" experience="9500" speed="600" manacost="0">
 	<health now="145000" max="145000"/>
-	<look type="31" corpse="16330"/>
+	<look type="464" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
 	<flags>
