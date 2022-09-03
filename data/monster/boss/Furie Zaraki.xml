@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Boss Quest Level: 200 -->
-<monster name="Zaraki Legendary" nameDescription="Zaraki Legendary" race="blood" experience="0" speed="900" manacost="0">
+<monster name="Furie Zaraki" nameDescription="Furie Zaraki" race="blood" experience="0" speed="900" manacost="0">
 	<health now="1400000" max="1400000"/>
-	<look type="54" corpse="16330"/>
+	<look type="315" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
 	<flags>
@@ -19,7 +19,7 @@
 		<flag runonhealth="0"/>
 	</flags>
 	<attacks>
-		<attack name="melee" interval="1500" min="-20000" max="-20500"/>
+		<attack name="melee" interval="1500" min="-12000" max="-12500"/>
 	</attacks>
 	<defenses armor="0" defense="0"/>
 	<immunities>

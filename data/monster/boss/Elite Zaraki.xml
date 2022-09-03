@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Monster Quest Level: 400 -->
-<monster name="Fake Zaraki" nameDescription="Fake Zaraki" race="blood" experience="0" speed="900" manacost="0">
-	<health now="100000" max="100000"/>
-	<look type="53" corpse="16330"/>
+<!-- Boss Quest Level: 200 -->
+<monster name="Elite Zaraki" nameDescription="Elite Zaraki" race="blood" experience="0" speed="900" manacost="0">
+	<health now="1400000" max="1400000"/>
+	<look type="314" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
 	<flags>
@@ -19,7 +19,7 @@
 		<flag runonhealth="0"/>
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="-15000" max="-15500"/>
+		<attack name="melee" interval="1500" min="-9000" max="-9500"/>
 	</attacks>
 	<defenses armor="0" defense="0"/>
 	<immunities>
@@ -32,4 +32,7 @@
 		<immunity outfit="1"/>
 		<immunity invisible="0"/>
 	</immunities>
+	<script>
+		<event name="MonsterTeleportOnDeath"/>
+	</script>
 </monster>

@@ -46,7 +46,6 @@
 	<monster name="Zangetsu" file="hunt/Zangetsu.xml"/>
 	<monster name="Kensei" file="hunt/Kensei.xml"/>
 	<monster name="Hollow Snake" file="hunt/Hollow Snake.xml"/>
-	<monster name="Fake Zaraki" file="hunt/Fake Zaraki.xml"/>
 	<monster name="Vizard" file="hunt/Vizard.xml"/>
 	<monster name="Rungokai Bandit" file="hunt/Rungokai Bandit.xml"/>
 	<monster name="Menos" file="hunt/Menos.xml"/>
@@ -77,7 +76,10 @@
 	<monster name="Lunatic Barragan Boss" file="boss/Lunatic Barragan Boss.xml"/>
 	<monster name="Elite Grand Fisher" file="boss/Elite Grand Fisher.xml"/>
 	<monster name="Legendary Nnoitra" file="boss/Legendary Nnoitra.xml"/>
-	<monster name="Zaraki Legendary" file="boss/Zaraki Legendary.xml"/>
+	<monster name="Elite Zaraki" file="boss/Elite Zaraki.xml"/>
+	<monster name="Zaraki" file="boss/Zaraki.xml"/>
+	<monster name="Furie Zaraki" file="boss/Furie Zaraki.xml"/>
+	<monster name="Demonic Zaraki" file="boss/Demonic Zaraki.xml"/>
 	<monster name="Lunatic menos" file="boss/Lunatic Menos.xml"/>
 	<monster name="Ryu Boss" file="boss/Ryu Boss.xml"/>
 	<monster name="Samurai Boss" file="boss/Samurai Boss.xml"/>
