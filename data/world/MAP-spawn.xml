@@ -8684,6 +8684,9 @@
 	<spawn centerx="3456" centery="3526" centerz="6" radius="1">
 		<monster name="Snake Hollow" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3508" centery="3526" centerz="6" radius="1">
+		<npc name="Yoruich" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="2636" centery="3527" centerz="6" radius="1">
 		<monster name="Arrancar Hollow" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="1" z="6" spawntime="60" />
