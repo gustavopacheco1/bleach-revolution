@@ -59,6 +59,14 @@
 	<monster name="Furie Vaizard" file="hunt/Furie Vaizard.xml"/>
 	<monster name="Lunatic Vaizard" file="hunt/Lunatic Vaizard.xml"/>
 	<monster name="Arrancar Misteryo" file="hunt/Arrancar Misteryo.xml"/>
+	<monster name="Hollow" file="hunt/Hollow.xml"/>
+	<monster name="Gray Hollow" file="hunt/Gray Hollow.xml"/>
+	<monster name="Deformed Hollow" file="hunt/Deformed Hollow.xml"/>
+	<monster name="Incomplete Hollow" file="hunt/Inconplete Hollow.xml"/>
+	<monster name="Green Hollow" file="hunt/Green Hollow.xml"/>
+	<monster name="Elite Gilliam" file="hunt/Elite Gilliam.xml"/>
+	
+	
 
 	<!-- Boss -->
 	<monster name="Furie Vizard" file="boss/Furie Vizard.xml"/>
