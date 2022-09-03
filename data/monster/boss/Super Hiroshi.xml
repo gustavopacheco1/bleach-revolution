@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Monster Quest Level: 300 -->
-<monster name="Vizard Boss" nameDescription="Vizard Boss" race="blood" experience="0" speed="900" manacost="0">
-	<health now="700000" max="700000"/>
-	<look type="134" corpse="16330"/>
+<!-- Boss Quest Level: 150 -->
+<monster name="Super Hiroshi" nameDescription="Super Hiroshi" race="blood" experience="0" speed="900" manacost="0">
+	<health now="1000000" max="1000000"/>
+	<look type="174" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
 	<flags>
@@ -19,7 +19,7 @@
 		<flag runonhealth="0"/>
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="-45000" max="-45500"/>
+		<attack name="melee" interval="2000" min="-17000" max="17500"/>
 	</attacks>
 	<defenses armor="0" defense="0"/>
 	<immunities>
@@ -32,4 +32,7 @@
 		<immunity outfit="1"/>
 		<immunity invisible="0"/>
 	</immunities>
+	<script>
+		<event name="MonsterTeleportOnDeath"/>
+	</script>
 </monster>

@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Boss Quest Level: 70 -->
-<monster name="Kensei Boss" nameDescription="Kensei Boss" race="blood" experience="0" speed="700" manacost="0">
-	<health now="1000000" max="1000000"/>
-	<look type="131" corpse="16330"/>
+<!-- Boss Quest Level: 100 -->
+<monster name="Super Arrancar" nameDescription="Super Arrancar" race="blood" experience="0" speed="500" manacost="0">
+	<health now="2000000" max="2000000"/>
+	<look type="31" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
 	<flags>
@@ -17,9 +17,10 @@
 		<flag targetdistance="1"/>
 		<flag staticattack="90"/>
 		<flag runonhealth="0"/>
+		<flag lootmessage="0"/>
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="-8000" max="-8100"/>
+		<attack name="melee" interval="2000" min="-20000" max="-20500"/>
 	</attacks>
 	<defenses armor="0" defense="0"/>
 	<immunities>

@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<monster name="Furie Zangetsu" nameDescription="Furie Zangetsu" race="blood" experience="0" speed="900" manacost="0">
-	<health now="1000000" max="1000000"/>
-	<look type="169" corpse="16330"/>
+<!-- Boss Quest Level: 150 -->
+<monster name="Ultimate Hiroshi" nameDescription="Ultimate Hiroshi" race="blood" experience="0" speed="900" manacost="0">
+	<health now="1100000" max="1100000"/>
+	<look type="178" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
 	<flags>
@@ -18,7 +19,7 @@
 		<flag runonhealth="0"/>
 	</flags>
 	<attacks>
-		<attack name="melee" interval="1500" min="-1010000" max="-115500"/>
+		<attack name="melee" interval="2000" min="-19000" max="20500"/>
 	</attacks>
 	<defenses armor="0" defense="0"/>
 	<immunities>
@@ -31,4 +32,7 @@
 		<immunity outfit="1"/>
 		<immunity invisible="0"/>
 	</immunities>
+	<script>
+		<event name="MonsterTeleportOnDeath"/>
+	</script>
 </monster>

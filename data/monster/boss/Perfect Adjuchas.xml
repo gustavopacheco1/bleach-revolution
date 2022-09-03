@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Monster Level: 180 -->
-<monster name="Red Hollow" nameDescription="Red Hollow" race="blood" experience="7500" speed="600" manacost="0">
-	<health now="140000" max="140000"/>
-	<look type="65" corpse="16330"/>
+<!-- Boss Drop Level: 275 -->
+<monster name="Perfect Adjuchas" nameDescription="Perfect Adjuchas" race="blood" experience="0" speed="700" manacost="0">
+	<health now="9000000" max="9000000"/>
+	<look type="45" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
 	<flags>
@@ -17,9 +17,10 @@
 		<flag targetdistance="1"/>
 		<flag staticattack="90"/>
 		<flag runonhealth="0"/>
+		<flag lootmessage="0"/>
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="-9100" max="-9500"/>
+		<attack name="melee" interval="2000" min="-40000" max="-40500"/>
 	</attacks>
 	<defenses armor="0" defense="0"/>
 	<immunities>
@@ -32,14 +33,8 @@
 		<immunity outfit="1"/>
 		<immunity invisible="0"/>
 	</immunities>
-	<script>
-		<event name="YamamotoTask"/>
-	</script>
 	<loot>
-		<item id="2152" chance="7000" count="3" countmax="3"/>
-		<item id="2148" chance="100000" count="210" countmax="210"/>
-		<item id="5897" chance="2000" count="1" countmax="15"/>
-		<item id="15687" chance="2000" count="1" countmax="15"/>
-		<item id="15230" chance="2000" count="1" countmax="15"/>
+		<item id="2160" chance="2000" count="1" countmax="5"/>
+		<item id="15055" chance="500" count="1" countmax="1"/>
 	</loot>
 </monster>

@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Boss Quest Level: 400 -->
-<monster name="Furie Vizard Boss" nameDescription="Furie Vizard Boss" race="blood" experience="0" speed="1100" manacost="0">
-    <health now="1000000" max="1000000"/>
-    <look type="134" corpse="16330"/>
+<!-- Monster Level: 230 -->
+<monster name="Elite Grand Fisher" nameDescription="Grande Fisher Lv 2" race="blood" experience="11500" speed="600" manacost="0">
+    <health now="160000" max="160000"/>
+    <look type="11" corpse="16330"/>
     <targetchange interval="5000" chance="8"/>
     <strategy attack="100" defense="0"/>
     <flags>
@@ -19,7 +19,7 @@
         <flag runonhealth="0"/>
     </flags>
     <attacks>
-        <attack name="melee" interval="1500" min="-60000" max="-60500"/>
+        <attack name="melee" interval="2000" min="-13100" max="-13500"/>
     </attacks>
     <defenses armor="0" defense="0"/>
     <immunities>
@@ -32,7 +32,14 @@
         <immunity outfit="1"/>
         <immunity invisible="0"/>
     </immunities>
-    <script>
-        <event name="MonsterTeleportOnDeath"/>
-    </script>
+    <loot>
+        <item id="2152" chance="7000" count="3" countmax="3"/>
+		<item id="2148" chance="100000" count="210" countmax="210"/>
+        <item id="15099" chance="2000" count="1" countmax="1"/>
+        <item id="15240" chance="2000" count="1" countmax="1"/>
+        <item id="15241" chance="2000" count="1" countmax="1"/>
+        <item id="5897" chance="2000" count="1" countmax="15"/>
+        <item id="15687" chance="2000" count="1" countmax="15"/>
+        <item id="15230" chance="2000" count="1" countmax="15"/>
+    </loot>
 </monster>

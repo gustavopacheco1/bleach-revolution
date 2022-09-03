@@ -22593,7 +22593,7 @@
 		<attribute key="armor" value="25"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15240" article="a" name="Elite Grand Fisher Mask">
+	<item id="15240" article="a" name="Ultimate Grand Fisher Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="25"/>
 		<attribute key="slotType" value="head"/>
@@ -22618,17 +22618,17 @@
 		<attribute key="armor" value="35"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15103" article="a" name="Gilliam Mask">
+	<item id="15103" article="a" name="Gillian Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="29"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15250" article="a" name="Elite Gilliam Mask">
+	<item id="15250" article="a" name="Elite Gillian Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="29"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15251" article="a" name="Furie Gilliam Mask">
+	<item id="15251" article="a" name="Furie Gillian Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="29"/>
 		<attribute key="slotType" value="head"/>

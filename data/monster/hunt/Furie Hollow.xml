@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Monster Level: 230 -->
-<monster name="Menos" nameDescription="Menos" race="blood" experience="11500" speed="600" manacost="0">
-	<health now="160000" max="160000"/>
-	<look type="341" corpse="16330"/>
+<!-- Monster Level: 120 -->
+<monster name="Furie Hollow" nameDescription="Furie Hollow" race="blood" experience="3500" speed="500" manacost="0">
+	<health now="120000" max="120000"/>
+	<look type="33" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
 	<flags>
@@ -19,7 +19,7 @@
 		<flag runonhealth="0"/>
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="-13100" max="-13500"/>
+		<attack name="melee" interval="2000" min="-4100" max="-4500"/>
 	</attacks>
 	<defenses armor="0" defense="0"/>
 	<immunities>
@@ -32,12 +32,14 @@
 		<immunity outfit="1"/>
 		<immunity invisible="0"/>
 	</immunities>
+	<script>
+		<event name="YamamotoTask"/>
+	</script>
 	<loot>
-		<item id="2152" chance="7000" count="3" countmax="3"/>
+		<item id="2148" chance="1000" count="60" countmax="60"/>
 		<item id="2148" chance="100000" count="210" countmax="210"/>
-		<item id="10624" chance="500" count="1" countmax="1"/>
-		<item id="10625" chance="500" count="1" countmax="1"/>
-		<item id="10626" chance="500" count="1" countmax="1"/>
-		<item id="10627" chance="500" count="1" countmax="1"/>
+		<item id="15105" chance="2000" count="1" countmax="1"/>
+		<item id="15260" chance="2000" count="1" countmax="1"/>
+		<item id="15261" chance="2000" count="1" countmax="1"/>
 	</loot>
 </monster>

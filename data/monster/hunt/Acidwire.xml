@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Boss Quest Level: 150 -->
-<monster name="Hiroshi Boss" nameDescription="Hiroshi Boss" race="blood" experience="0" speed="900" manacost="0">
-	<health now="1000000" max="1000000"/>
-	<look type="174" corpse="16330"/>
+<!-- Monster Level: 120 -->
+<monster name="Acidwire" nameDescription="Acidwire" race="blood" experience="3500" speed="500" manacost="0">
+	<health now="120000" max="120000"/>
+	<look type="17" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
 	<flags>
@@ -19,7 +19,7 @@
 		<flag runonhealth="0"/>
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="-17000" max="17500"/>
+		<attack name="melee" interval="2000" min="-4100" max="-4500"/>
 	</attacks>
 	<defenses armor="0" defense="0"/>
 	<immunities>
@@ -33,6 +33,10 @@
 		<immunity invisible="0"/>
 	</immunities>
 	<script>
-		<event name="MonsterTeleportOnDeath"/>
+		<event name="YamamotoTask"/>
 	</script>
+	<loot>
+		<item id="2152" chance="4000" count="2" countmax="2"/>
+		<item id="2148" chance="100000" count="210" countmax="210"/>
+	</loot>
 </monster>
