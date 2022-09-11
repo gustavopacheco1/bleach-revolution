@@ -82,6 +82,7 @@
 	<monster name="Legendary Kaname" file="boss/Legendary Kaname.xml"/>
 	<monster name="Kyoraku" file="boss/Kyoraku.xml"/>
 	<monster name="Blank" file="boss/Blank.xml"/>
+	<monster name="Super Kensei" file="boss/Super Kensei.xml"/>
 
 	<!-- Clones -->
 	<monster name="Clone" file="clones/Clone.xml"/>
