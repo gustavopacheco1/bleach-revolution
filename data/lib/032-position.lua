@@ -100,3 +100,47 @@ function isValidPosition(position)
 	return (isNumeric(position.x .. position.y .. position.z) and position.x > 0
 		and position.y > 0 and position.z >= 0 and position.z <= 15)
 end
+
+function getPlayersInRange(fromPosition, toPosition)
+	local players = {}
+
+	for x = fromPosition.x, toPosition.x do
+		for y = fromPosition.y, toPosition.y do
+			for z = fromPosition.z, toPosition.z do
+				local player = getTopCreature({ x = x, y = y, z = z, stackpos = 253 }).uid
+
+				if isPlayer(player) then
+					table.insert(players, player)
+				end
+			end
+		end
+	end
+
+	return players
+end
+
+function getCreaturesInRange(fromPosition, toPosition, name)
+	local creatures = {}
+
+	for x = fromPosition.x, toPosition.x do
+		for y = fromPosition.y, toPosition.y do
+			for z = fromPosition.z, toPosition.z do
+				local creature = getTopCreature({ x = x, y = y, z = z, stackpos = 253 }).uid
+
+				if isCreature(creature) then
+					if name and getCreatureName(creature) == name or not name then
+						table.insert(creatures, creature)
+					end
+				end
+			end
+		end
+	end
+
+	return creatures
+end
+
+function doRemoveCreaturesInRange(fromPosition, toPosition, name)
+	for _, creature in ipairs(getCreaturesInRange(fromPosition, toPosition, name)) do
+		doRemoveCreature(creature)
+	end
+end

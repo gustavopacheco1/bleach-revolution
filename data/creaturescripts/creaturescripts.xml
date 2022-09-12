@@ -28,6 +28,7 @@
 	<event type="death" name="MonsterTeleportOnDeath" event="script" value="monsters_events/monster_teleport_ondeath.lua"/>
 	<event type="death" name="YamamotoTask" event="script" value="monsters_events/yamamoto_task.lua"/>
 	<event type="death" name="BossDeath" event="script" value="monsters_events/boss_death.lua"/>
+	<event type="death" name="KenseiQuestMonster" event="script" value="monsters_events/kensei_quest_monster.lua"/>
 
 	<!-- Spells -->
 	<event type="statschange" name="Immortal" event="script" value="spells/immortal.lua"/>

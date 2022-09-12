@@ -33,6 +33,6 @@
 		<immunity invisible="0"/>
 	</immunities>
 	<script>
-		<event name="BossDeath"/>
+		<event name="MonsterTeleportOnDeath"/>
 	</script>
 </monster>

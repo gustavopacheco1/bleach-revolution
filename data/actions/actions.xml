@@ -21,6 +21,7 @@
 	<!-- Levers -->
 	<action itemid="1945;1946" script="levers/levers.lua"/>
 	<action uniqueid="30001" script="levers/anihilator.lua"/>
+	<action uniqueid="30002" script="levers/annihilator/kensei_quest.lua"/>
 
 	<!-- Quests -->
 	<action itemid="15661" script="quest_chests.lua"/>

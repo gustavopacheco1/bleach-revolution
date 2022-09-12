@@ -6,6 +6,7 @@ local bosses = {
 	["Super Arrancar"] = { teleport_to = { x = 3651, y = 4230, z = 8 } },
 	["Super Hiroshi"] = { teleport_to = { x = 2789, y = 3234, z = 6 } },
 	["Ultimate Hiroshi"] = { teleport_to = { x = 2789, y = 3294, z = 6 } },
+	["Super Kensei"] = { teleport_to = { x = 3724, y = 3345, z = 10 } },
 }
 
 function onDeath(cid, corpse, deathList)
