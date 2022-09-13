@@ -19,7 +19,7 @@
 		<flag lootmessage="0"/>
 	</flags>
 	<attacks>
-		<attack name="melee" interval="1500" min="-8100" max="-8500"/>
+		<attack name="melee" interval="2000" min="-8000" max="-8500"/>
 	</attacks>
 	<defenses armor="0" defense="0"/>
 	<immunities>
