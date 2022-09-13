@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <monster name="Super Kensei" nameDescription="Super Kensei" race="blood" experience="0" speed="1200" manacost="0">
-	<health now="300000" max="30000"/>
+	<health now="30000" max="30000"/>
 	<look type="131" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
