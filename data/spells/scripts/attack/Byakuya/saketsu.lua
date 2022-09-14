@@ -10,20 +10,14 @@ function onCastSpell(cid, var)
 		return false
 	end
 
-	for i = 1, 1 do
-		addEvent(function()
-			if isCreature(cid) then
-				local target_position = getCreaturePosition(getCreatureTarget(cid))
-				doSendMagicEffect({
-					x = target_position.x + 1,
-					y = target_position.y + 1,
-					z = target_position.z
-				}, 718)
+	local target_position = getCreaturePosition(getCreatureTarget(cid))
+	doSendMagicEffect({
+		x = target_position.x + 1,
+		y = target_position.y + 1,
+		z = target_position.z
+	}, 718)
 
-				doCombat(cid, combat, var)
-			end
-		end, i * 275)
-	end
+	doCombat(cid, combat, var)
 
 	exhaustion.set(cid, 270, 2)
 	return true

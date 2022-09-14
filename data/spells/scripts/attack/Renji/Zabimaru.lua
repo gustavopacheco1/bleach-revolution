@@ -11,13 +11,12 @@ function onCastSpell(cid, var)
 		return false
 	end
 
-	for i = 0, 4 do
-		addEvent(function()
-			if isCreature(cid) then
-				doCombat(cid, combat, var)
-			end
-		end, i * 300)
-	end
+	doCombatLoop(
+		cid,
+		combat,
+		5,
+		300
+	)
 
 	exhaustion.set(cid, 200, 2)
 	return true
