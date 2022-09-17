@@ -5,15 +5,15 @@ setCombatArea(combat, createCombatArea(AREA_CIRCLE3X3_FULL))
 
 local area1 = createCombatObject()
 setCombatParam(area1, COMBAT_PARAM_EFFECT, 583)
-setCombatArea(area1, createCombatArea(AREA_CIRCLE3X3_FIRST))
+setCombatArea(area1, createCombatArea(AREA_CIRCLE3X3_FIRST_CENTER_X))
 
 local area2 = createCombatObject()
 setCombatParam(area2, COMBAT_PARAM_EFFECT, 583)
-setCombatArea(area2, createCombatArea(AREA_CIRCLE3X3_SECOND))
+setCombatArea(area2, createCombatArea(AREA_CIRCLE3X3_SECOND_CENTER_X))
 
 local area3 = createCombatObject()
 setCombatParam(area3, COMBAT_PARAM_EFFECT, 583)
-setCombatArea(area3, createCombatArea(AREA_CIRCLE3X3_THIRD))
+setCombatArea(area3, createCombatArea(AREA_CIRCLE3X3_THIRD_CENTER_X))
 
 function onCastSpell(cid, var)
 	-- Damage
