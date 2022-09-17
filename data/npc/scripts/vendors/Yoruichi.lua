@@ -19,8 +19,8 @@ function onCreatureSay(cid, type, msg)
 		if isInArray({ "hi", "hello", "oi", "olá" }, msg) then
 			npcHandler:addFocus(cid)
 			selfSayMultiLanguage(
-				"Hello! I sell Stamina Refill for an amount of Gold.",
-				"Olá! Eu vendo Stamina Refill por uma quantia de Gold.",
+				"Hello! I sell a product that may be helpful to recover your stamina.",
+				"Olá! Eu vendo um produto que pode ajudar a recuperar a sua energia.",
 				cid
 			)
 			return true

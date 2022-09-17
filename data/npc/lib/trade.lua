@@ -32,8 +32,8 @@ buyable_items = {
 		[16456] = { price = 180000, subType = 180 },
 	},
 
-	["Yoruich"] = {
-		[2293] = { price = 200000 },
+	["Yoruichi"] = {
+		[16459] = { price = 200000 },
 	}
 }
 
