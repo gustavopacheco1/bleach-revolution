@@ -11,7 +11,7 @@ setConditionParam(condition, CONDITION_PARAM_TICKS, spell.duration * 1000)
 setConditionParam(condition, CONDITION_PARAM_BUFF, true)
 
 function onCastSpell(cid, var)
-	if checkSpecialCooldown(cid) then
+	if isInSpecialCooldown(cid) then
 		return false
 	end
 

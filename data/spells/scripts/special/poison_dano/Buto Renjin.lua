@@ -7,7 +7,7 @@ local spell = {
 }
 
 function onCastSpell(cid, var)
-	if checkSpecialCooldown(cid) then
+	if isInSpecialCooldown(cid) then
 		return false
 	end
 

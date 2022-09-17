@@ -19,7 +19,7 @@ setCombatFormula(combat_damage, COMBAT_FORMULA_LEVELMAGIC, -50.0, 0, -50.0, 0)
 setCombatParam(combat_damage, COMBAT_PARAM_EFFECT, 543)
 
 function onCastSpell(cid, var)
-	if checkSpecialCooldown(cid) then
+	if isInSpecialCooldown(cid) then
 		return false
 	end
 

@@ -7,7 +7,7 @@ local combat = createCombatObject()
 setCombatParam(combat, COMBAT_PARAM_DISTANCEEFFECT, 17)
 
 function onCastSpell(cid, var)
-	if checkSpecialCooldown(cid) then
+	if isInSpecialCooldown(cid) then
 		return false
 	end
 

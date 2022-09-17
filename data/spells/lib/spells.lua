@@ -238,27 +238,28 @@ function doCannon(cid, combat, var, cannon, effect)
 	end
 end
 
-function checkSpecialCooldown(cid)
-	if exhaustion.check(cid, "special") then
-		local exhaust = exhaustion.get(cid, "special")
+function isInSpecialCooldown(cid)
+	if not exhaustion.check(cid, "special") then
+		return false
+	end
 
-		if not tonumber(exhaust) then
-			doPlayerSendCancel(cid, "You are exhausted.")
-			return true
-		end
+	local exhaust = exhaustion.get(cid, "special")
 
-		local plural = ""
-		if exhaust ~= 1 then
-			plural = "s"
-		end
-		MultiLanguage.doPlayerSendCancel(
-			cid,
-			"Cooldown: " .. exhaust .. " second" .. plural,
-			"Cooldown: " .. exhaust .. " segundo" .. plural
-		)
+	if not tonumber(exhaust) then
+		doPlayerSendCancel(cid, "You are exhausted.")
 		return true
 	end
-	return false
+
+	local plural = ""
+	if exhaust ~= 1 then
+		plural = "s"
+	end
+	MultiLanguage.doPlayerSendCancel(
+		cid,
+		"Cooldown: " .. exhaust .. " second" .. plural,
+		"Cooldown: " .. exhaust .. " segundo" .. plural
+	)
+	return true
 end
 
 -- Waves
@@ -291,3 +292,5 @@ AREA_CIRCLE3X3 = {
 	{ 0, 1, 1, 1, 1, 1, 0 },
 	{ 0, 0, 1, 1, 1, 0, 0 }
 }
+
+--

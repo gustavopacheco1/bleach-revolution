@@ -15,7 +15,7 @@ setCombatArea(combat, area)
 setCombatParam(combat, COMBAT_PARAM_EFFECT, spell.effect)
 
 function onCastSpell(cid, var)
-	if checkSpecialCooldown(cid) then
+	if isInSpecialCooldown(cid) then
 		return false
 	end
 

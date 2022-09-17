@@ -21,7 +21,7 @@ local function getClosestTarget(cid, current_target, previous_target)
 end
 
 function onCastSpell(cid, var)
-	if checkSpecialCooldown(cid) then
+	if isInSpecialCooldown(cid) then
 		return false
 	end
 

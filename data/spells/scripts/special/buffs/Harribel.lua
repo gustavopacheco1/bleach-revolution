@@ -18,7 +18,7 @@ setConditionParam(condition, CONDITION_PARAM_SKILL_SHIELD, 20)
 setCombatCondition(combat, condition)
 
 function onCastSpell(cid, var)
-	if checkSpecialCooldown(cid) then
+	if isInSpecialCooldown(cid) then
 		return false
 	end
 

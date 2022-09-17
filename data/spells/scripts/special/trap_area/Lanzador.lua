@@ -59,7 +59,7 @@ end
 setCombatCallback(combat, CALLBACK_PARAM_TARGETTILE, "onTargetTile")
 
 function onCastSpell(cid, var)
-	if checkSpecialCooldown(cid) then
+	if isInSpecialCooldown(cid) then
 		return false
 	end
 

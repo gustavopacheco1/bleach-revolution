@@ -9,7 +9,7 @@ local spell = {
 local position_storage = {}
 
 function onCastSpell(cid, var)
-	if checkSpecialCooldown(cid) then
+	if isInSpecialCooldown(cid) then
 		return false
 	end
 
