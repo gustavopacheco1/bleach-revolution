@@ -1073,7 +1073,7 @@
 			<attribute key="damage" value="10"/>
 		</attribute>
 	</item>
-	<item id="1426" article="an" name="unlit campfire"/>
+	<item id="1426" article="a" name="unlit campfire"/>
 	<item id="1427" article="a" name="campfire"/>
 	<item id="1428" article="a" name="campfire"/>
 	<item id="1429" article="a" name="sign"/>
@@ -2103,8 +2103,8 @@
 	<item id="1893" article="a" name="cyclops trophy"/>
 	<item id="1894" article="a" name="dragon trophy"/>
 	<item id="1895" article="a" name="dragon trophy"/>
-	<item id="1896" article="an" name="lion trophy"/>
-	<item id="1897" article="an" name="lion trophy"/>
+	<item id="1896" article="a" name="lion trophy"/>
+	<item id="1897" article="a" name="lion trophy"/>
 	<item id="1898" article="a" name="minotaur trophy"/>
 	<item id="1899" article="a" name="minotaur trophy"/>
 	<item id="1900" article="a" name="bloodspot"/>
@@ -2364,7 +2364,7 @@
 		<attribute key="containerSize" value="20"/>
 		<attribute key="slotType" value="backpack"/>
 	</item>
-	<item id="15776" article="a" name="orange backpack">
+	<item id="15776" article="an" name="orange backpack">
 		<attribute key="weight" value="1800"/>
 		<attribute key="containerSize" value="20"/>
 		<attribute key="slotType" value="backpack"/>
@@ -2765,7 +2765,7 @@
 		<attribute key="weight" value="700"/>
 		<attribute key="slotType" value="necklace"/>
 	</item>
-	<item id="2127" article="an" name="Hollowification Ring">
+	<item id="2127" article="a" name="Hollowification Ring">
 		<attribute key="weight" value="170"/>
 		<attribute key="slotType" value="ring"/>
 	</item>
@@ -3064,7 +3064,7 @@
 	<item id="2192" article="a" name="crystal ball">
 		<attribute key="weight" value="3400"/>
 	</item>
-	<item id="2327" article="an" name="detonator bomb">
+	<item id="2327" article="a" name="detonator bomb">
 		<attribute key="weight" value="300"/>
 	</item>
 	<item id="2194" article="a" name="mysterious fetish">
@@ -3376,7 +3376,7 @@
 		<attribute key="weight" value="120"/>
 		<attribute key="charges" value="3"/>
 	</item>
-	<item id="2262" article="a" name="energy bomb rune">
+	<item id="2262" article="an" name="energy bomb rune">
 		<attribute key="runeSpellName" value="adevo mas vis"/>
 		<attribute key="weight" value="120"/>
 		<attribute key="charges" value="2"/>
@@ -3387,12 +3387,12 @@
 	<item id="2264" article="a" name="spell rune">
 		<attribute key="weight" value="120"/>
 	</item>
-	<item id="2265" article="a" name="intense healing rune">
+	<item id="2265" article="an" name="intense healing rune">
 		<attribute key="runeSpellName" value="adura gran"/>
 		<attribute key="weight" value="120"/>
 		<attribute key="charges" value="1"/>
 	</item>
-	<item id="2266" article="a" name="antidote rune">
+	<item id="2266" article="an" name="antidote rune">
 		<attribute key="runeSpellName" value="adana pox"/>
 		<attribute key="weight" value="120"/>
 		<attribute key="charges" value="1"/>
@@ -3413,7 +3413,7 @@
 	<item id="16111" article="a" name="great reiatsu potion">
 		<attribute key="weight" value="120"/>
 	</item>
-	<item id="16112" article="a" name="ultimate potion">
+	<item id="16112" article="an" name="ultimate potion">
 		<attribute key="weight" value="120"/>
 	</item>
 	<item id="16113" article="a" name="reiatsu potion">
@@ -3422,10 +3422,10 @@
 	<item id="16114" article="a" name="health potion">
 		<attribute key="weight" value="120"/>
 	</item>
-	<item id="16116" article="an" name="reiatsu pill">
+	<item id="16116" article="a" name="reiatsu pill">
 		<attribute key="weight" value="120"/>
 	</item>
-	<item id="16117" article="an" name="health pill">
+	<item id="16117" article="a" name="health pill">
 		<attribute key="weight" value="120"/>
 	</item>
 	<item id="16118" article="a" name="great health potion">
@@ -3435,14 +3435,14 @@
 		<attribute key="weight" value="120"/>
 		<attribute key="charges" value="3"/>
 	</item>
-	<item id="2275" article="a" name="Upgrade Stone">
+	<item id="2275" article="an" name="Upgrade Stone">
 		<attribute key="weight" value="120"/>
 	</item>
 	<item id="16131" article="a" name="green diamond">
 		<attribute key="weight" value="120"/>
 		<attribute key="description" value="Item Craft Sets."/>
 	</item>
-	<item id="16132" article="a" name="orange diamond">
+	<item id="16132" article="an" name="orange diamond">
 		<attribute key="weight" value="120"/>
 		<attribute key="description" value="Item Craft Sets."/>
 	</item>
@@ -4403,7 +4403,7 @@
 		<attribute key="armor" value="2"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="2459" article="an" name="Vasto Lorde Mask">
+	<item id="2459" article="a" name="Vasto Lorde Mask">
 		<attribute key="description" value="This Mask Absorb 15% Attacks."/>
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="14"/>
@@ -4667,7 +4667,7 @@
 		<attribute key="defense" value="16"/>
 		<attribute key="weaponType" value="shield"/>
 	</item>
-	<item id="2512" article="a" name="unknown legs">
+	<item id="2512" article="an" name="unknown legs">
 		<attribute key="weight" value="4000"/>
 		<attribute key="defense" value="14"/>
 		<attribute key="weaponType" value="shield"/>
@@ -4677,7 +4677,7 @@
 		<attribute key="defense" value="23"/>
 		<attribute key="weaponType" value="shield"/>
 	</item>
-	<item id="2514" article="a" name="El Diablo">
+	<item id="2514" article="an" name="El Diablo">
 		<attribute key="description" value="It is an enchanted shield."/>
 		<attribute key="weight" value="5700"/>
 		<attribute key="defense" value="57"/>
@@ -5231,7 +5231,7 @@
 		<attribute key="weight" value="2400"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="2659" article="a" name="Agito Armor">
+	<item id="2659" article="an" name="Agito Armor">
 		<attribute key="weight" value="32500"/>
 		<attribute key="armor" value="27"/>
 		<attribute key="slotType" value="body"/>
@@ -10482,9 +10482,9 @@
 	<item id="5068" name="electric sparks"/>
 	<item id="5069" name="electric sparks"/>
 	<item id="5070" name="electric sparks"/>
-	<item id="5071" article="a" name="electric iron bars"/>
-	<item id="5072" article="a" name="electric iron bars"/>
-	<item id="5073" article="a" name="electric iron bars"/>
+	<item id="5071" article="an" name="electric iron bars"/>
+	<item id="5072" article="an" name="electric iron bars"/>
+	<item id="5073" article="an" name="electric iron bars"/>
 	<item id="5074" article="a" name="lava fountain"/>
 	<item id="5075" article="a" name="lava fountain"/>
 	<item id="5076" article="a" name="stony pond">
@@ -11927,19 +11927,19 @@
 	<item id="5876" article="a" name="judo hair" plural="judo hair's">
 		<attribute key="weight" value="50"/>
 	</item>
-	<item id="5877" article="a" name="Golden Metal Heart" plural="Golden Metal Heart's">
+	<item id="5877" article="a" name="golden metal heart" plural="golden metal hearts">
 		<attribute key="weight" value="60"/>
 	</item>
-	<item id="5878" article="a" name="Mummy Bandage" plural="Mummy Bandage">
+	<item id="5878" article="a" name="mummy bandage" plural="mummy bandage">
 		<attribute key="weight" value="40"/>
 	</item>
-	<item id="5879" article="a" name="Spider Hollow Silk" plural="Spider Hollow Silks">
+	<item id="5879" article="a" name="spider hollow silk" plural="spider hollow silks">
 		<attribute key="weight" value="10"/>
 	</item>
-	<item id="5880" article="an" name="Cherry Leaf" plural="Cherry Leafs">
+	<item id="5880" article="a" name="cherry leaf" plural="cherry leafs">
 		<attribute key="weight" value="200"/>
 	</item>
-	<item id="5881" article="a" name="Elf Hatx zbieraj nowe xD" plural="Elc Hatx zbieraj nowe">
+	<item id="5881" article="an" name="Elf Hatx zbieraj nowe xD" plural="Elc Hatx zbieraj nowe">
 		<attribute key="weight" value="80"/>
 	</item>
 	<item id="5882" article="a" name="red dragon scale" plural="red dragon scales">
@@ -12004,7 +12004,7 @@
 	<item id="15230" article="a" name="part of horror" plural="part of horrors">
 		<attribute key="weight" value="80"/>
 	</item>
-	<item id="5898" article="a" name="elf hat" plural="elf hats">
+	<item id="5898" article="an" name="elf hat" plural="elf hats">
 		<attribute key="weight" value="500"/>
 	</item>
 	<item id="16459" article="a" name="Stamina Refill" plural="stamina refill">
@@ -12111,7 +12111,7 @@
 	<item id="5929" article="a" name="goldfish bowl">
 		<attribute key="weight" value="3200"/>
 	</item>
-	<item id="5930" article="a" name="Ice Stalactite" plural="Ice Stalactite">
+	<item id="5930" article="an" name="Ice Stalactite" plural="Ice Stalactite">
 		<attribute key="weight" value="1250"/>
 	</item>
 	<item id="5931" name="ferumbras remains">
@@ -13125,7 +13125,7 @@
 	<item id="6102" name="deadeye devious' eye patch">
 		<attribute key="weight" value="200"/>
 	</item>
-	<item id="6103" article="a" name="unholy book">
+	<item id="6103" article="an" name="unholy book">
 		<attribute key="weight" value="1300"/>
 	</item>
 	<item id="6104" article="a" name="jewel case">
@@ -14318,7 +14318,7 @@
 	<item id="6548" article="a" name="Metal Dust" plural="Metal Dusts">
 		<attribute key="weight" value="750"/>
 	</item>
-	<item id="6549" article="a" name="Undead Dust" plural="Undead Dusts
+	<item id="6549" article="an" name="Undead Dust" plural="Undead Dusts
 	">
 		<attribute key="weight" value="750"/>
 	</item>
@@ -15738,7 +15738,7 @@
 		<attribute key="maxHitChance" value="100"/>
 		<attribute key="ammoAction" value="removecount"/>
 	</item>
-	<item id="7365" article="an" name="Quincy Arrow" plural="Quincy Arrows">
+	<item id="7365" article="a" name="Quincy Arrow" plural="Quincy Arrows">
 		<attribute key="weight" value="70"/>
 		<attribute key="slotType" value="ammo"/>
 		<attribute key="attack" value="58"/>
@@ -15896,7 +15896,7 @@
 		<attribute key="weaponType" value="sword"/>
 		<attribute key="extradef" value="3"/>
 	</item>
-	<item id="7391" article="an" name="thaian sword">
+	<item id="7391" article="a" name="thaian sword">
 		<attribute key="weight" value="6100"/>
 		<attribute key="defense" value="29"/>
 		<attribute key="attack" value="46"/>
@@ -16019,7 +16019,7 @@
 		<attribute key="weaponType" value="axe"/>
 		<attribute key="slotType" value="two-handed"/>
 	</item>
-	<item id="7414" article="a" name="abyss hammer">
+	<item id="7414" article="an" name="abyss hammer">
 		<attribute key="weight" value="5500"/>
 		<attribute key="defense" value="21"/>
 		<attribute key="attack" value="47"/>
@@ -16187,7 +16187,7 @@
 		<attribute key="weaponType" value="club"/>
 		<attribute key="description" value="A beautiful gem is embedded in this weapon."/>
 	</item>
-	<item id="7438" article="a" name="elvish bow">
+	<item id="7438" article="an" name="elvish bow">
 		<attribute key="weight" value="3100"/>
 		<attribute key="slotType" value="two-handed"/>
 		<attribute key="weaponType" value="distance"/>
@@ -16279,7 +16279,7 @@
 		<attribute key="attack" value="39"/>
 		<attribute key="weaponType" value="axe"/>
 	</item>
-	<item id="7457" article="a" name="asd Boots">
+	<item id="7457" article="an" name="asd Boots">
 		<attribute key="weight" value="1200"/>
 		<attribute key="armor" value="12"/>
 		<attribute key="slotType" value="feet"/>
@@ -16534,8 +16534,8 @@
 	<item id="7557" article="a" name="human cocoon"/>
 	<item id="7560" article="a" name="coffin"/>
 	<item id="7561" article="a" name="coffin"/>
-	<item id="7564" article="a" name="empty coffin"/>
-	<item id="7565" article="a" name="empty coffin"/>
+	<item id="7564" article="an" name="empty coffin"/>
+	<item id="7565" article="an" name="empty coffin"/>
 	<item id="7566" article="a" name="destroyed cocoon"/>
 	<item id="7575" article="a" name="buoy"/>
 	<item id="7576" article="a" name="buoy line"/>
@@ -17138,16 +17138,16 @@
 		<attribute key="decayTo" value="2391"/>
 		<attribute key="showcharges" value="1"/>
 	</item>
-	<item id="7759" article="a" name="enchanted small sapphire" plural="enchanted small sapphires">
+	<item id="7759" article="an" name="enchanted small sapphire" plural="enchanted small sapphires">
 		<attribute key="weight" value="10"/>
 	</item>
-	<item id="7760" article="a" name="enchanted small ruby" plural="enchanted small rubies">
+	<item id="7760" article="an" name="enchanted small ruby" plural="enchanted small rubies">
 		<attribute key="weight" value="10"/>
 	</item>
-	<item id="7761" article="a" name="enchanted small emerald" plural="enchanted small emeralds">
+	<item id="7761" article="an" name="enchanted small emerald" plural="enchanted small emeralds">
 		<attribute key="weight" value="10"/>
 	</item>
-	<item id="7762" article="a" name="enchanted small amethyst" plural="enchanted small amethysts">
+	<item id="7762" article="an" name="enchanted small amethyst" plural="enchanted small amethysts">
 		<attribute key="weight" value="10"/>
 	</item>
 	<item id="7763" article="a" name="spike sword">
@@ -17575,7 +17575,7 @@
 		<attribute key="ammoAction" value="removecount"/>
 		<attribute key="shootType" value="flasharrow"/>
 	</item>
-	<item id="7839" article="a" name="Ice Arrow" plural="Ice Arrows">
+	<item id="7839" article="an" name="Ice Arrow" plural="Ice Arrows">
 		<attribute key="weight" value="70"/>
 		<attribute key="slotType" value="ammo"/>
 		<attribute key="attack" value="41"/>
@@ -17972,7 +17972,7 @@
 		<attribute key="decayTo" value="2391"/>
 		<attribute key="showcharges" value="1"/>
 	</item>
-	<item id="7884" article="a" name="Academy Shinigami Coat">
+	<item id="7884" article="an" name="Academy Shinigami Coat">
 		<attribute key="weight" value="2250"/>
 		<attribute key="slotType" value="body"/>
 		<attribute key="armor" value="12"/>
@@ -18393,7 +18393,7 @@
 	<item id="8110" article="a" name="present">
 		<attribute key="weight" value="600"/>
 	</item>
-	<item id="8111" article="a" name="exploding cookie" plural="exploding cookies">
+	<item id="8111" article="an" name="exploding cookie" plural="exploding cookies">
 		<attribute key="weight" value="10"/>
 	</item>
 	<item id="8112" article="a" name="scarab cheese">
@@ -18970,7 +18970,7 @@
 		<attribute key="levelDoor" value="1000"/>
 		<attribute key="blockprojectile" value="1"/>
 	</item>
-	<item id="8556" article="an" name="gate of expertise">
+	<item id="8556" article="a" name="gate of expertise">
 		<attribute key="type" value="door"/>
 	</item>
 	<item id="8557" article="a" name="gate of expertise">
@@ -18978,7 +18978,7 @@
 		<attribute key="levelDoor" value="1000"/>
 		<attribute key="blockprojectile" value="1"/>
 	</item>
-	<item id="8558" article="an" name="gate of expertise">
+	<item id="8558" article="a" name="gate of expertise">
 		<attribute key="type" value="door"/>
 	</item>
 	<item id="8559" name="stairs">
@@ -20129,10 +20129,10 @@
 		<attribute key="floorchange" value="down"/>
 	</item>
 	<item id="8973" name="buttress"/>
-	<item id="8974" article="a" name="oracle figurine">
+	<item id="8974" article="an" name="oracle figurine">
 		<attribute key="weight" value="800"/>
 	</item>
-	<item id="8975" article="a" name="oracle figurine">
+	<item id="8975" article="an" name="oracle figurine">
 		<attribute key="weight" value="800"/>
 	</item>
 	<item id="8976" article="a" name="golden falcon">
@@ -21196,7 +21196,7 @@
 	<item id="10165" article="a" name="golem blueprint">
 		<attribute key="weight" value="120"/>
 	</item>
-	<item id="10169" article="a" name="elemental crystal">
+	<item id="10169" article="an" name="elemental crystal">
 		<attribute key="weight" value="320"/>
 	</item>
 	<item id="10173" article="a" name="golem head">
@@ -21399,7 +21399,7 @@
 	<item id="10285" article="a" name="gate of expertise">
 		<attribute key="type" value="door"/>
 	</item>
-	<item id="10291" article="a" name="odd hat">
+	<item id="10291" article="an" name="odd hat">
 		<attribute key="description" value="It has to be one of the fabled helmets of light."/>
 		<attribute key="weight" value="700"/>
 		<attribute key="armor" value="5"/>
@@ -21525,7 +21525,7 @@
 	<item id="10454" article="a" name="headache pill">
 		<attribute key="weight" value="20"/>
 	</item>
-	<item id="10455" article="an" name="pigeon trophy">
+	<item id="10455" article="a" name="pigeon trophy">
 		<attribute key="description" value="It's a symbol of peace handed out by Tibia ML."/>
 		<attribute key="weight" value="500"/>
 	</item>
@@ -21614,7 +21614,7 @@
 	<item id="10491" article="a" name="limestone window">
 		<attribute key="type" value="door"/>
 	</item>
-	<item id="10502" article="a" name="engraved wedding ring">
+	<item id="10502" article="an" name="engraved wedding ring">
 		<attribute key="weight" value="40"/>
 		<attribute key="slotType" value="ring"/>
 	</item>
@@ -21666,7 +21666,7 @@
 		<attribute key="containerSize" value="20"/>
 		<attribute key="slotType" value="backpack"/>
 	</item>
-	<item id="10523" article="a" name="egg of the many">
+	<item id="10523" article="an" name="egg of the many">
 		<attribute key="weight" value="5000"/>
 	</item>
 	<item id="10529" article="a" name="sea serpent trophy">
@@ -21912,7 +21912,7 @@
 	</item>
 
 	<!-- Ultimate Vizard Set -->
-	<item id="16119" article="a" name="Ultimate Vizard Helmet">
+	<item id="16119" article="an" name="Ultimate Vizard Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="55"/>
 		<attribute key="manaGain" value="1100"/>
@@ -21921,7 +21921,7 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="16120" article="a" name="Ultimate Vizard Armor">
+	<item id="16120" article="an" name="Ultimate Vizard Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="55"/>
 		<attribute key="manaGain" value="1100"/>
@@ -21930,7 +21930,7 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="16121" article="a" name="Ultimate Vizard Legs">
+	<item id="16121" article="an" name="Ultimate Vizard Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="55"/>
 		<attribute key="manaGain" value="1100"/>
@@ -21939,7 +21939,7 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
-	<item id="16122" article="a" name="Ultimate Vizard Boots">
+	<item id="16122" article="an" name="Ultimate Vizard Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="55"/>
 		<attribute key="manaGain" value="1100"/>
@@ -22014,7 +22014,7 @@
 	</item>
 
 	<!-- Ultimate Nnoitra Set -->
-	<item id="16123" article="a" name="Ultimate Nnoitra Helmet">
+	<item id="16123" article="an" name="Ultimate Nnoitra Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="45"/>
 		<attribute key="manaGain" value="800"/>
@@ -22023,7 +22023,7 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="16124" article="a" name="Ultimate Nnoitra Armor">
+	<item id="16124" article="an" name="Ultimate Nnoitra Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="45"/>
 		<attribute key="manaGain" value="800"/>
@@ -22032,7 +22032,7 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="16125" article="a" name="Ultimate Nnoitra Legs">
+	<item id="16125" article="an" name="Ultimate Nnoitra Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="45"/>
 		<attribute key="manaGain" value="800"/>
@@ -22041,7 +22041,7 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
-	<item id="16126" article="a" name="Ultimate Nnoitra Boots">
+	<item id="16126" article="an" name="Ultimate Nnoitra Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="45"/>
 		<attribute key="manaGain" value="800"/>
@@ -22148,7 +22148,7 @@
 	</item>
 
 	<!--  Ultimate Zangetsu Set -->
-	<item id="16127" article="a" name="Ultimate Zangetsu Helmet">
+	<item id="16127" article="an" name="Ultimate Zangetsu Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="50"/>
 		<attribute key="manaGain" value="900"/>
@@ -22157,7 +22157,7 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="16128" article="a" name="Ultimate Zangetsu Armor">
+	<item id="16128" article="an" name="Ultimate Zangetsu Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="50"/>
 		<attribute key="manaGain" value="900"/>
@@ -22166,7 +22166,7 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="16129" article="a" name="Ultimate Zangetsu Legs">
+	<item id="16129" article="an" name="Ultimate Zangetsu Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="50"/>
 		<attribute key="manaGain" value="900"/>
@@ -22175,7 +22175,7 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
-	<item id="16130" article="a" name="Ultimate Zangetsu Boots">
+	<item id="16130" article="an" name="Ultimate Zangetsu Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="50"/>
 		<attribute key="manaGain" value="900"/>
@@ -22241,51 +22241,51 @@
 	</item>
 
 	<!-- Urahara set -->
-	<item id="15724" article="a" name="Urahara Helmet">
+	<item id="15724" article="an" name="Urahara Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15111" article="a" name="Urahara Armor">
+	<item id="15111" article="an" name="Urahara Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="healthGain" value="1000"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="16115" article="a" name="Urahara Legs">
+	<item id="16115" article="an" name="Urahara Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="healthGain" value="1000"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
-	<item id="15815" article="a" name="Urahara Boots">
+	<item id="15815" article="an" name="Urahara Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
-	<item id="15244" article="a" name="Elite Urahara Helmet">
+	<item id="15244" article="an" name="Elite Urahara Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15300" article="a" name="Elite Urahara Armor">
+	<item id="15300" article="an" name="Elite Urahara Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="healthGain" value="1100"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="16435" article="a" name="Elite Urahara Legs">
+	<item id="16435" article="an" name="Elite Urahara Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="healthGain" value="1100"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
-	<item id="15366" article="a" name="Elite Urahara Boots">
+	<item id="15366" article="an" name="Elite Urahara Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="slotType" value="feet"/>
@@ -22342,26 +22342,26 @@
 		<attribute key="slotType" value="feet"/>
 	</item>
 
-	<item id="15268" article="a" name="Elite Mummy Helmet">
+	<item id="15268" article="an" name="Elite Mummy Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="17"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15326" article="a" name="Elite Mummy Armor">
+	<item id="15326" article="an" name="Elite Mummy Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="17"/>
 		<attribute key="healthGain" value="550"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="15358" article="a" name="Elite Mummy Legs">
+	<item id="15358" article="an" name="Elite Mummy Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="17"/>
 		<attribute key="healthGain" value="550"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
-	<item id="15378" article="a" name="Elite Mummy Boots">
+	<item id="15378" article="an" name="Elite Mummy Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="17"/>
 		<attribute key="slotType" value="feet"/>
@@ -22408,14 +22408,14 @@
 		<attribute key="slotType" value="body"/>
 	</item>
 
-	<item id="15252" article="a" name="Elite Kyoraku Helmet">
+	<item id="15252" article="an" name="Elite Kyoraku Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="25"/>
 		<attribute key="healthGain" value="950"/>
 		<attribute key="healthTicks" value="1100"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15306" article="a" name="Elite Kyoraku Armor">
+	<item id="15306" article="an" name="Elite Kyoraku Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="25"/>
 		<attribute key="healthGain" value="950"/>
@@ -22481,26 +22481,26 @@
 		<attribute key="slotType" value="feet"/>
 	</item>
 
-	<item id="15276" article="a" name="Elite Bandit Helmet">
+	<item id="15276" article="an" name="Elite Bandit Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="10"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15332" article="a" name="Elite Bandit Armor">
+	<item id="15332" article="an" name="Elite Bandit Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="10"/>
 		<attribute key="healthGain" value="150"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="15362" article="a" name="Elite Bandit Legs">
+	<item id="15362" article="an" name="Elite Bandit Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="10"/>
 		<attribute key="healthGain" value="150"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
-	<item id="15380" article="a" name="Elite Bandit Boots">
+	<item id="15380" article="an" name="Elite Bandit Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="10"/>
 		<attribute key="slotType" value="feet"/>
@@ -22533,37 +22533,37 @@
 
 	<!-- Arrancar Set -->
 
-	<item id="15101" article="a" name="Arrancar Helmet">
+	<item id="15101" article="an" name="Arrancar Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15112" article="a" name="Arrancar Armor">
+	<item id="15112" article="an" name="Arrancar Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="manaGain" value="300"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="10731" article="a" name="Arrancar Boots">
+	<item id="10731" article="an" name="Arrancar Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
-	<item id="15005" article="a" name="Elite Arrancar Helmet">
+	<item id="15005" article="an" name="Elite Arrancar Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15304" article="a" name="Elite Arrancar Armor">
+	<item id="15304" article="an" name="Elite Arrancar Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="healthGain" value="900"/>
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="15011" article="a" name="Elite Arrancar Boots">
+	<item id="15011" article="an" name="Elite Arrancar Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="20"/>
 		<attribute key="slotType" value="feet"/>
@@ -22593,7 +22593,7 @@
 		<attribute key="armor" value="25"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15240" article="a" name="Elite Grand Fisher Mask">
+	<item id="15240" article="an" name="Elite Grand Fisher Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="25"/>
 		<attribute key="slotType" value="head"/>
@@ -22603,12 +22603,12 @@
 		<attribute key="armor" value="25"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15102" article="a" name="Adjuchas Mask">
+	<item id="15102" article="an" name="Adjuchas Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="35"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15248" article="a" name="Elite Adjuchas Mask">
+	<item id="15248" article="an" name="Elite Adjuchas Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="35"/>
 		<attribute key="slotType" value="head"/>
@@ -22623,7 +22623,7 @@
 		<attribute key="armor" value="29"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15250" article="a" name="Elite Gillian Mask">
+	<item id="15250" article="an" name="Elite Gillian Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="29"/>
 		<attribute key="slotType" value="head"/>
@@ -22638,7 +22638,7 @@
 		<attribute key="armor" value="25"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15256" article="a" name="Elite Spider Mask">
+	<item id="15256" article="an" name="Elite Spider Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="25"/>
 		<attribute key="slotType" value="head"/>
@@ -22648,12 +22648,12 @@
 		<attribute key="armor" value="25"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15105" article="a" name="Arak Mask">
+	<item id="15105" article="an" name="Arak Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="15"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15260" article="a" name="Elite Arak Mask">
+	<item id="15260" article="an" name="Elite Arak Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="16"/>
 		<attribute key="slotType" value="head"/>
@@ -22663,7 +22663,7 @@
 		<attribute key="armor" value="16"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15772" article="a" name="Arrancar Mask">
+	<item id="15772" article="an" name="Arrancar Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="30"/>
 		<attribute key="slotType" value="head"/>
@@ -22684,7 +22684,7 @@
 		<attribute key="armor" value="5"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15266" article="a" name="Elite Snake Mask">
+	<item id="15266" article="an" name="Elite Snake Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="5"/>
 		<attribute key="slotType" value="head"/>
@@ -22700,7 +22700,7 @@
 		<attribute key="armor" value="10"/>
 		<attribute key="slotType" value="head"/>
 	</item>
-	<item id="15264" article="a" name="Elite Wolf Mask">
+	<item id="15264" article="an" name="Elite Wolf Mask">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="10"/>
 		<attribute key="slotType" value="head"/>
@@ -22736,7 +22736,7 @@
 	</item>
 
 	<!-- Shields -->
-	<item id="15055" article="a" name="Adjuchas Shield">
+	<item id="15055" article="an" name="Adjuchas Shield">
 		<attribute key="weight" value="5500"/>
 		<attribute key="defense" value="70"/>
 		<attribute key="absorbPercentAll" value="3"/>
