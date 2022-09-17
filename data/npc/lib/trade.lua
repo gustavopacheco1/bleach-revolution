@@ -1,13 +1,13 @@
 buyable_items = {
 	["Ururu Tsumugiya"] = {
-		[2293] = { price = 10000 }
+		[2293] = { price = 10000 },
 	},
 
 	["Jinta"] = {
 		[15740] = { price = 2000 },
 		[15776] = { price = 2000 },
 		[15741] = { price = 2000 },
-		[15120] = { price = 2000 }
+		[15120] = { price = 2000 },
 	},
 
 	["Hikari"] = {
@@ -15,25 +15,25 @@ buyable_items = {
 		[2666] = { price = 2000 },
 		[2676] = { price = 2000 },
 		[2696] = { price = 2000 },
-		[6574] = { price = 2000 }
+		[6574] = { price = 2000 },
 	},
 
 	["Kurotsuchi"] = {
-		[16112] = { price = 100000 },
-		[16111] = { price = 500000 },
-		[16118] = { price = 500000 },
-		[16113] = { price = 300000 },
-		[16114] = { price = 300000 },
-		[16116] = { price = 10000 },
-		[16117] = { price = 10000 }
+		[16111] = { price = 880 }, -- great reiatsu potion
+		[16118] = { price = 880 }, -- great health potion
+		[16113] = { price = 640 }, -- reiatsu potion
+		[16114] = { price = 640 }, -- health potion
+		[16112] = { price = 860 }, -- ultimate potion
+		[16116] = { price = 200 }, -- reiatsu pill
+		[16117] = { price = 200 }, -- health pill
 	},
 
 	["Yoshino"] = {
 		[16456] = { price = 180000, subType = 180 },
 	},
-	
+
 	["Yoruich"] = {
-		[2293] = { price = 200000 }
+		[2293] = { price = 200000 },
 	}
 }
 
@@ -91,13 +91,13 @@ sellable_items = {
 		[15106] = { price = 100 },
 		[15116] = { price = 100 },
 		[10686] = { price = 100 },
-		[15119] = { price = 100 }
+		[15119] = { price = 100 },
 	},
 
 	["Macoio"] = {
 		[5897] = { price = 1000 },
 		[15687] = { price = 1000 },
-		[15230] = { price = 1000 }
+		[15230] = { price = 1000 },
 	},
 
 	["Loreto"] = {
@@ -115,7 +115,7 @@ sellable_items = {
 		[15105] = { price = 3000 },
 		[15257] = { price = 6000 },
 		[15256] = { price = 4000 },
-		[15104] = { price = 2000 }
+		[15104] = { price = 2000 },
 	},
 }
 
