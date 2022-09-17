@@ -283,7 +283,7 @@ AREADIAGONAL_CANNON6SQM = {
 
 
 -- Circles
-AREA_CIRCLE3X3 = {
+AREA_CIRCLE3X3_FULL = {
 	{ 0, 0, 1, 1, 1, 0, 0 },
 	{ 0, 1, 1, 1, 1, 1, 0 },
 	{ 1, 1, 1, 1, 1, 1, 1 },
@@ -293,4 +293,20 @@ AREA_CIRCLE3X3 = {
 	{ 0, 0, 1, 1, 1, 0, 0 }
 }
 
---
+AREA_CIRCLE3X3_FIRST = {
+	{ 0, 1, 0 },
+	{ 1, 2, 1 },
+	{ 0, 1, 0 },
+}
+
+AREA_CIRCLE3X3_SECOND = {
+	{ 0, 1, 0 },
+	{ 1, 2, 1 },
+	{ 0, 1, 0 },
+}
+
+AREA_CIRCLE3X3_THIRD = {
+	{ 0, 1, 0 },
+	{ 1, 2, 1 },
+	{ 0, 1, 0 },
+}
