@@ -3462,7 +3462,10 @@
 		<attribute key="weight" value="120"/>
 		<attribute key="charges" value="3"/>
 	</item>
-	<item id="2293" article="a" name="reiatsu wall">
+	<item id="2293" article="a" name="black reiatsu wall">
+		<attribute key="weight" value="120"/>
+	</item>
+	<item id="16586" article="a" name="light reiatsu wall">
 		<attribute key="weight" value="120"/>
 	</item>
 	<item id="2279" article="an" name="energy wall rune">
