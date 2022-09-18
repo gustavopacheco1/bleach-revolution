@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Boss Quest Level: 200 -->
-<monster name="Perfect Zaraki" nameDescription="Perfect Zaraki" race="blood" experience="0" speed="530" manacost="0">
-	<health now="1400000" max="1400000"/>
-	<look type="315" corpse="16330"/>
+<!-- Monster Quest Level: 200 -->
+<monster name="Zaraki" nameDescription="Zaraki" race="blood" experience="0" speed="530" manacost="0">
+	<health now="10000" max="10000"/>
+	<look type="311" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
 	<flags>
@@ -19,13 +19,8 @@
 		<flag runonhealth="0"/>
 	</flags>
 	<attacks>
-		<attack name="melee" interval="1500" min="-12000" max="-12500"/>
-		<attack name="kendo" interval="3000" min="-5000" max="-5500"/>
-	    <attack name="kamisori" interval="2000" min="-7000" max="-7500"/>
-		<attack name="Oscuras Wave" interval="5000" min="-12000" max="-12500"/>
-
-
-
+		<attack name="melee" interval="2000" min="-5000" max="-5500"/>
+		<attack name="kamisori" interval="2000" min="-2000" max="-2500"/>
 	</attacks>
 	<defenses armor="0" defense="0"/>
 	<immunities>
@@ -38,7 +33,4 @@
 		<immunity outfit="1"/>
 		<immunity invisible="0"/>
 	</immunities>
-	<script>
-		<event name="MonsterTeleportOnDeath"/>
-	</script>
 </monster>

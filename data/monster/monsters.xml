@@ -61,6 +61,8 @@
 	<monster name="Deformed Hollow" file="hunt/Deformed Hollow.xml"/>
 	<monster name="Incomplete Hollow" file="hunt/Incomplete Hollow.xml"/>
 	<monster name="Green Hollow" file="hunt/Green Hollow.xml"/>
+	<monster name="Zaraki" file="hunt/Zaraki.xml"/>
+
 
 	<!-- Boss -->
 	<!--
@@ -84,7 +86,11 @@
 	<monster name="Blank" file="boss/Blank.xml"/>
 	<monster name="Super Kensei" file="boss/Super Kensei.xml"/>
 	<monster name="Perfect Nnoitra" file="boss/Perfect Nnoitra.xml"/>
-	<monster name="Perfect Barragan" file="boss/Perfect Barragan.xml"/>
+	<namonsterme="Perfect Barragan" file="boss/Perfect Barragan.xml"/>
+	<namonsterme="Super Zaraki" file="boss/Super Zaraki.xml"/>
+	<namonsterme="Master Zaraki" file="boss/Master Zaraki.xml"/>
+	<namonsterme="Perfect Zaraki" file="boss/Perfect Zaraki.xml"/>
+	<namonsterme="Ultimate Zaraki" file="boss/Ultimate Zaraki.xml"/>
 
 	<!-- Clones -->
 	<monster name="Clone" file="clones/Clone.xml"/>
