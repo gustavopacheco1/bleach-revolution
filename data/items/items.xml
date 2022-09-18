@@ -12007,7 +12007,7 @@
 	<item id="5898" article="an" name="elf hat" plural="elf hats">
 		<attribute key="weight" value="500"/>
 	</item>
-	<item id="16459" article="a" name="Stamina Refill" plural="stamina refill">
+	<item id="16459" article="a" name="stamina injection">
 		<attribute key="weight" value="500"/>
 	</item>
 	<item id="5900" article="a" name="dwarven beard" plural="dwarven beards">

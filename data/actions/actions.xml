@@ -3,6 +3,9 @@
 	<!-- Default script, responsible for destroyItem -->
 	<action default="yes" event="script" value="default.lua"/>
 
+	<!-- Stamina Injection -->
+	<action itemid="16459" event="script" value="stamina_injection.lua" />
+
 	<!-- Loot bag / Autoloot -->
 	<action itemid="16330;16331;16332;16333" event="script" value="loot_bag.lua"/>
 
