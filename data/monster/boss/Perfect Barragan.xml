@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Boss Drop Level: 275 -->
-<monster name="Perfect Adjuchas" nameDescription="Perfect Adjuchas" race="blood" experience="0" speed="530" manacost="0">
+<monster name="Perfect Barragan" nameDescription="Perfect Barragan" race="blood" experience="0" speed="530" manacost="0">
 	<health now="9000000" max="9000000"/>
-	<look type="45" corpse="16330"/>
+	<look type="69" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
 	<flags>
@@ -35,6 +35,6 @@
 	</immunities>
 	<loot>
 		<item id="2160" chance="2000" count="1" countmax="5"/>
-		<item id="15055" chance="500" count="1" countmax="1"/>
+		<item id="15797" chance="500" count="1" countmax="1"/>
 	</loot>
 </monster>

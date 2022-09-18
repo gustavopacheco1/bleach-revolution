@@ -83,6 +83,8 @@
 	<monster name="Kyoraku" file="boss/Kyoraku.xml"/>
 	<monster name="Blank" file="boss/Blank.xml"/>
 	<monster name="Super Kensei" file="boss/Super Kensei.xml"/>
+	<monster name="Perfect Nnoitra" file="boss/Perfect Nnoitra.xml"/>
+	<monster name="Perfect Barragan" file="boss/Perfect Barragan.xml"/>
 
 	<!-- Clones -->
 	<monster name="Clone" file="clones/Clone.xml"/>
