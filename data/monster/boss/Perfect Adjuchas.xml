@@ -33,8 +33,7 @@
 		<immunity outfit="1"/>
 		<immunity invisible="0"/>
 	</immunities>
-	<loot>
-		<item id="2160" chance="2000" count="1" countmax="5"/>
-		<item id="15055" chance="500" count="1" countmax="1"/>
-	</loot>
+	<script>
+		<event name="BossDeath"/>
+	</script>
 </monster>

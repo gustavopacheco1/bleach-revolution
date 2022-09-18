@@ -67,7 +67,8 @@ local bosses = {
 		position = { x = 4222, y = 3537, z = 8 },
 		minutes_to_respawn = 240,
 		loot = {
-			-- TODO:
+			{ id = 2160, chance = 1000, count = { min = 2, max = 8 } },
+			{ id = 15797, chance = 5, count = { min = 1, max = 1 } },
 		}
 	},
 
@@ -75,7 +76,8 @@ local bosses = {
 		position = { x = 3212, y = 2935, z = 8 },
 		minutes_to_respawn = 240,
 		loot = {
-			-- TODO:
+			{ id = 2160, chance = 1000, count = { min = 2, max = 8 } },
+			{ id = 15744, chance = 5, count = { min = 1, max = 1 } },
 		}
 	},
 
