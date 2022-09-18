@@ -20242,9 +20242,6 @@
 		<monster name="Arrancar Watcher" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Arrancar Watcher" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="3479" centery="2637" centerz="8" radius="1">
-		<monster name="Perfect Adjuchas" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="3304" centery="2639" centerz="8" radius="1">
 		<monster name="Barragan Soldier" x="0" y="-1" z="8" spawntime="60" />
 		<monster name="Barragan Soldier" x="0" y="0" z="8" spawntime="60" />
