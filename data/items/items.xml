@@ -3463,9 +3463,7 @@
 		<attribute key="charges" value="3"/>
 	</item>
 	<item id="2293" article="a" name="reiatsu wall">
-		<attribute key="runeSpellName" value="adana ani"/>
 		<attribute key="weight" value="120"/>
-		<attribute key="charges" value="1"/>
 	</item>
 	<item id="2279" article="an" name="energy wall rune">
 		<attribute key="runeSpellName" value="adevo mas grav vis"/>
