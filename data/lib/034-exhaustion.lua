@@ -1,5 +1,9 @@
 exhaustion = {
 	check = function(cid, storage)
+		if isMonster(cid) then
+			return false
+		end
+
 		if (getPlayerFlagValue(cid, PLAYERFLAG_HASNOEXHAUSTION)) then
 			return false
 		end
@@ -8,6 +12,9 @@ exhaustion = {
 	end,
 
 	get = function(cid, storage)
+		if isMonster(cid) then
+			return false
+		end
 		if (getPlayerFlagValue(cid, PLAYERFLAG_HASNOEXHAUSTION)) then
 			return false
 		end
@@ -28,6 +35,10 @@ exhaustion = {
 	end,
 
 	set = function(cid, storage, time)
+		if isMonster(cid) then
+			return
+		end
+
 		doCreatureSetStorage(cid, storage, math.floor(os.time() + time))
 	end,
 
