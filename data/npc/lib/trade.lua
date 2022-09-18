@@ -1,6 +1,7 @@
 buyable_items = {
 	["Ururu Tsumugiya"] = {
-		[2293] = { price = 10000 },
+		[2293] = { price = 10000 }, -- light reiatsu wall
+		[16586] = {price = 10000 }, -- black reiatu wall
 	},
 
 	["Jinta"] = {
@@ -33,7 +34,7 @@ buyable_items = {
 	},
 
 	["Yoruichi"] = {
-		[16459] = { price = 200000 },
+		[16459] = { price = 200000 }, -- stamina injection
 	}
 }
 
