@@ -270,6 +270,10 @@
 	<movevent type="AddItem" itemid="11098" event="function" value="onAddField"/>
 	<movevent type="StepIn" itemid="11099" event="function" value="onStepInField"/>
 	<movevent type="AddItem" itemid="11099" event="function" value="onAddField"/>
+	<movevent type="StepIn" itemid="16138" event="function" value="onStepInField"/>
+	<movevent type="AddItem" itemid="16138" event="function" value="onAddField"/>
+	<movevent type="StepIn" itemid="16585" event="function" value="onStepInField"/>
+	<movevent type="AddItem" itemid="16585" event="function" value="onAddField"/>
 
 	<!-- Boots -->
 	<movevent type="Equip" itemid="11117" level="350" slot="feet" event="function" value="onEquipItem"/>

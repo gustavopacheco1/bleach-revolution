@@ -59,7 +59,9 @@
 	<action uniqueid="20000;20001;20002;20003;20004;20005;20006" script="teleports/teleports.lua"/>
 
 	<!-- Magic Wall -->
-	<action itemid="2293" event="script" allowfaruse="1" blockwalls="1" value="magic_wall.lua"/>
+	<action itemid="2293" event="script" allowfaruse="1" blockwalls="1" value="light_reiatsu_wall.lua"/>
+	<action itemid="16138" event="script" value="destroy_light_reiatsu_wall.lua"/>
+	<action itemid="16586" event="script" allowfaruse="1" blockwalls="1" value="reiatsu_wall.lua"/>
 
 	<!-- Other -->
 	<action itemid="2036;1728;1877;6091;8187" event="script" value="other/watch.lua"/>

@@ -3462,11 +3462,21 @@
 		<attribute key="weight" value="120"/>
 		<attribute key="charges" value="3"/>
 	</item>
-	<item id="2293" article="a" name="black reiatsu wall">
+	<item id="2293" article="a" name="light reiatsu wall">
 		<attribute key="weight" value="120"/>
 	</item>
-	<item id="16586" article="a" name="light reiatsu wall">
+	<item id="16138" article="a" name="light reiatsu wall">
+		<attribute key="type" value="magicfield"/>
+		<attribute key="decayTo" value="0"/>
+		<attribute key="duration" value="25"/>
+	</item>
+	<item id="16586" article="a" name="reiatsu wall">
 		<attribute key="weight" value="120"/>
+	</item>
+	<item id="16585" article="a" name="reiatsu wall">
+		<attribute key="type" value="magicfield"/>
+		<attribute key="decayTo" value="0"/>
+		<attribute key="duration" value="15"/>
 	</item>
 	<item id="2279" article="an" name="energy wall rune">
 		<attribute key="runeSpellName" value="adevo mas grav vis"/>
@@ -21825,9 +21835,9 @@
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="70"/>
 		<attribute key="magicpoints" value="5"/>
-        <attribute key="skillSword" value="5"/>
-        <attribute key="skillClub" value="5"/>
-        <attribute key="skillDist" value="5"/>
+		<attribute key="skillSword" value="5"/>
+		<attribute key="skillClub" value="5"/>
+		<attribute key="skillDist" value="5"/>
 		<attribute key="skillShield" value="5"/>
 		<attribute key="slotType" value="head"/>
 	</item>
@@ -21838,9 +21848,9 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="absorbPercentAll" value="3"/>
 		<attribute key="magicpoints" value="5"/>
-        <attribute key="skillSword" value="5"/>
-        <attribute key="skillClub" value="5"/>
-        <attribute key="skillDist" value="5"/>
+		<attribute key="skillSword" value="5"/>
+		<attribute key="skillClub" value="5"/>
+		<attribute key="skillDist" value="5"/>
 		<attribute key="skillShield" value="5"/>
 		<attribute key="slotType" value="body"/>
 	</item>
@@ -21851,19 +21861,19 @@
 		<attribute key="healthTicks" value="1000"/>
 		<attribute key="absorbPercentAll" value="3"/>
 		<attribute key="magicpoints" value="5"/>
-        <attribute key="skillSword" value="5"/>
-        <attribute key="skillClub" value="5"/>
-        <attribute key="skillDist" value="5"/>
+		<attribute key="skillSword" value="5"/>
+		<attribute key="skillClub" value="5"/>
+		<attribute key="skillDist" value="5"/>
 		<attribute key="skillShield" value="5"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
 	<item id="15722" article="a" name="Vasto Lorde Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="70"/>
-        <attribute key="magicpoints" value="5"/>
-        <attribute key="skillSword" value="5"/>
-        <attribute key="skillClub" value="5"/>
-        <attribute key="skillDist" value="5"/>
+		<attribute key="magicpoints" value="5"/>
+		<attribute key="skillSword" value="5"/>
+		<attribute key="skillClub" value="5"/>
+		<attribute key="skillDist" value="5"/>
 		<attribute key="skillShield" value="5"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
@@ -22857,7 +22867,7 @@
 		<attribute key="hitChance" value="100"/>
 	</item>
 
-    <!-- Armas de cada personagem -->
+	<!-- Armas de cada personagem -->
 	<!-- Swords -->
 	<item id="16339" article="a" name="Zangetsu">
 		<attribute key="weight" value="2500"/>
