@@ -1,4 +1,4 @@
-local minutes_to_complete = 3
+local minutes_to_complete = 60
 
 local players_tile_positions = {
 	{ x = 3709, y = 3286, z = 10, stackpos = 253 },
