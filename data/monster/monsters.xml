@@ -86,11 +86,10 @@
 	<monster name="Blank" file="boss/Blank.xml"/>
 	<monster name="Super Kensei" file="boss/Super Kensei.xml"/>
 	<monster name="Perfect Nnoitra" file="boss/Perfect Nnoitra.xml"/>
-	<namonsterme="Perfect Barragan" file="boss/Perfect Barragan.xml"/>
-	<namonsterme="Super Zaraki" file="boss/Super Zaraki.xml"/>
-	<namonsterme="Master Zaraki" file="boss/Master Zaraki.xml"/>
-	<namonsterme="Perfect Zaraki" file="boss/Perfect Zaraki.xml"/>
-	<namonsterme="Ultimate Zaraki" file="boss/Ultimate Zaraki.xml"/>
+	<monster name="Perfect Barragan" file="boss/Perfect Barragan.xml"/>
+	<monster name="Super Zaraki" file="boss/Super Zaraki.xml"/>
+	<monster name="Master Zaraki" file="boss/Master Zaraki.xml"/>
+	<monster name="Ultimate Zaraki" file="boss/Ultimate Zaraki.xml"/>
 
 	<!-- Clones -->
 	<monster name="Clone" file="clones/Clone.xml"/>
