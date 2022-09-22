@@ -22185,6 +22185,9 @@
 		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3532" centery="3464" centerz="8" radius="1">
+		<npc name="Renjii Abarai" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="2242" centery="3465" centerz="8" radius="1">
 		<monster name="Acidwire" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Acidwire" x="0" y="0" z="8" spawntime="60" />
