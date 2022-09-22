@@ -5,18 +5,18 @@ buyable_items = {
 	},
 
 	["Jinta"] = {
-		[15740] = { price = 2000 },
-		[15776] = { price = 2000 },
-		[15741] = { price = 2000 },
-		[15120] = { price = 2000 },
+		[15740] = { price = 2000 }, -- red backpack
+		[15776] = { price = 2000 }, -- orange backpack
+		[15741] = { price = 2000 }, -- blue backpack
+		[15120] = { price = 2000 }, -- hollow bag
 	},
 
 	["Hikari"] = {
-		[2667] = { price = 2000 },
-		[2666] = { price = 2000 },
-		[2676] = { price = 2000 },
-		[2696] = { price = 2000 },
-		[6574] = { price = 2000 },
+		[2667] = { price = 2000 }, -- fish
+		[2666] = { price = 2000 }, -- meat
+		[2676] = { price = 2000 }, -- banana
+		[2696] = { price = 2000 }, -- cheese
+		[6574] = { price = 2000 }, -- bar of chocolate
 	},
 
 	["Kurotsuchi"] = {
@@ -30,93 +30,97 @@ buyable_items = {
 	},
 
 	["Yoshino"] = {
-		[16456] = { price = 180000, subType = 180 },
+		[16456] = { price = 180000, subType = 180 }, -- wooden sword
 	},
 
 	["Yoruichi"] = {
 		[16459] = { price = 200000 }, -- stamina injection
+	},
+	
+	["Rukia Kuchiki"] = {
+		[15129] = { price = 5000 }, -- reiatsu amulet
 	}
 }
 
 sellable_items = {
 	["Kenji"] = {
-		[15006] = { price = 10000 },
-		[15305] = { price = 10000 },
-		[15012] = { price = 10000 },
-		[15005] = { price = 8000 },
-		[15304] = { price = 8000 },
-		[15011] = { price = 8000 },
-		[15101] = { price = 6000 },
-		[15112] = { price = 6000 },
-		[10731] = { price = 6000 },
-		[15245] = { price = 7000 },
-		[15301] = { price = 7000 },
-		[16436] = { price = 7000 },
-		[15367] = { price = 7000 },
-		[15244] = { price = 5000 },
-		[15300] = { price = 5000 },
-		[16435] = { price = 5000 },
-		[15366] = { price = 5000 },
-		[15724] = { price = 3000 },
-		[15111] = { price = 3000 },
-		[16115] = { price = 3000 },
-		[15815] = { price = 3000 },
-		[15253] = { price = 4000 },
-		[15307] = { price = 4000 },
-		[15252] = { price = 3000 },
-		[15306] = { price = 3000 },
-		[10677] = { price = 2500 },
-		[10661] = { price = 2500 },
-		[15222] = { price = 2000 },
-		[15229] = { price = 2000 },
-		[15269] = { price = 1500 },
-		[15327] = { price = 1500 },
-		[15359] = { price = 1500 },
-		[15379] = { price = 1500 },
-		[15268] = { price = 1000 },
-		[15326] = { price = 1000 },
-		[15358] = { price = 1000 },
-		[15378] = { price = 1000 },
-		[10690] = { price = 500 },
-		[10687] = { price = 500 },
-		[10688] = { price = 500 },
-		[10689] = { price = 500 },
-		[15277] = { price = 300 },
-		[15333] = { price = 300 },
-		[15363] = { price = 300 },
-		[15381] = { price = 300 },
-		[15276] = { price = 200 },
-		[15332] = { price = 200 },
-		[15362] = { price = 200 },
-		[15380] = { price = 200 },
-		[15106] = { price = 100 },
-		[15116] = { price = 100 },
-		[10686] = { price = 100 },
-		[15119] = { price = 100 },
+		[15006] = { price = 10000 }, -- furie arrancar helmet
+		[15305] = { price = 10000 }, -- furie arrancar armor
+		[15012] = { price = 10000 }, -- furie arrancar boots
+		[15005] = { price = 8000 }, -- elite arrancar helmet
+		[15304] = { price = 8000 }, -- elite arrancar armor
+		[15011] = { price = 8000 }, -- elite arrancar boots
+		[15101] = { price = 6000 }, -- arrancar helmet
+		[15112] = { price = 6000 }, -- arrancar armor
+		[10731] = { price = 6000 }, -- arrancar boots
+		[15245] = { price = 7000 }, -- furie urahara helmet
+		[15301] = { price = 7000 }, -- furie urahara armor
+		[16436] = { price = 7000 }, -- furie urahara legs
+		[15367] = { price = 7000 }, -- furie urahara boots
+		[15244] = { price = 5000 }, -- elite urahara helmet
+		[15300] = { price = 5000 }, -- elite urahara armor
+		[16435] = { price = 5000 }, -- elite urahara legs
+		[15366] = { price = 5000 }, -- elite urahara boots
+		[15724] = { price = 3000 }, -- urahara helmet
+		[15111] = { price = 3000 }, -- urahara armor
+		[16115] = { price = 3000 }, -- urahara legs
+		[15815] = { price = 3000 }, -- urahara boots
+		[15253] = { price = 4000 }, -- furie kyoraku helmet
+		[15307] = { price = 4000 }, -- furie kyoraku armor
+		[15252] = { price = 3000 }, -- elite kyoraku helmet
+		[15306] = { price = 3000 }, -- elite kyoraku armor
+		[10677] = { price = 2500 }, -- kyoraku helmet
+		[10661] = { price = 2500 }, -- kyoraki armor
+		[15222] = { price = 2000 }, -- blank armor
+		[15229] = { price = 2000 }, -- blank legs
+		[15269] = { price = 1500 }, -- furie mummy helmet
+		[15327] = { price = 1500 }, -- furie mummy armor
+		[15359] = { price = 1500 }, -- furie mummy legs
+		[15379] = { price = 1500 }, -- furie mummy boots
+		[15268] = { price = 1000 }, -- elite mummy helmet
+		[15326] = { price = 1000 }, -- elite mummy armor
+		[15358] = { price = 1000 }, -- elite mummy legs
+		[15378] = { price = 1000 }, -- elite mummy boots
+		[10690] = { price = 500 }, -- mummy helmet
+		[10687] = { price = 500 }, -- mummy armor
+		[10688] = { price = 500 }, -- mummy legs
+		[10689] = { price = 500 }, -- mummy boots
+		[15277] = { price = 300 }, -- furie bandit helmet
+		[15333] = { price = 300 }, -- furie bandit armor
+		[15363] = { price = 300 }, -- furie bandit legs
+		[15381] = { price = 300 }, -- furie bandit boots
+		[15276] = { price = 200 }, -- elite bandit helmet
+		[15332] = { price = 200 }, -- elite bandit armor
+		[15362] = { price = 200 }, -- elite bandit legs 
+		[15380] = { price = 200 }, -- elite bandit boots
+		[15106] = { price = 100 }, -- bandit helmet
+		[15116] = { price = 100 }, -- bandit armor
+		[10686] = { price = 100 }, -- bandit legs
+		[15119] = { price = 100 }, -- bandit boots
 	},
 
 	["Macoio"] = {
-		[5897] = { price = 1000 },
-		[15687] = { price = 1000 },
-		[15230] = { price = 1000 },
+		[5897] = { price = 1000 }, -- wolf paw
+		[15687] = { price = 1000 }, -- soul essence
+		[15230] = { price = 1000 }, -- part of horror
 	},
 
 	["Loreto"] = {
-		[15249] = { price = 20000 },
-		[15248] = { price = 10000 },
-		[15102] = { price = 8000 },
-		[15251] = { price = 9000 },
-		[15250] = { price = 7000 },
-		[15103] = { price = 5000 },
-		[15241] = { price = 8000 },
-		[15240] = { price = 6000 },
-		[15099] = { price = 4000 },
-		[15261] = { price = 7000 },
-		[15260] = { price = 5000 },
-		[15105] = { price = 3000 },
-		[15257] = { price = 6000 },
-		[15256] = { price = 4000 },
-		[15104] = { price = 2000 },
+		[15249] = { price = 20000 }, -- furie adjuchas mask
+		[15248] = { price = 10000 }, -- elite adjuchas mask
+		[15102] = { price = 8000 }, -- adjuchas mask
+		[15251] = { price = 9000 }, -- furie gillian mask
+		[15250] = { price = 7000 }, -- elite gillian mask
+		[15103] = { price = 5000 }, -- gillian mask
+		[15241] = { price = 8000 }, -- furie grand fisher mask
+		[15240] = { price = 6000 }, -- elite grand fisher mask
+		[15099] = { price = 4000 }, -- grand fisher mask
+		[15261] = { price = 7000 }, -- furie arak mask
+		[15260] = { price = 5000 }, -- elite arak mask
+		[15105] = { price = 3000 }, -- arak mask
+		[15257] = { price = 6000 }, -- furie spider mask
+		[15256] = { price = 4000 }, -- elite spider mask
+		[15104] = { price = 2000 }, -- spider mask
 	},
 }
 
