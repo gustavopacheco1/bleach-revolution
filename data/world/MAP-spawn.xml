@@ -8544,6 +8544,9 @@
 		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3532" centery="3472" centerz="6" radius="1">
+		<npc name="Rukia Kuchiki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3664" centery="3473" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
