@@ -18,6 +18,6 @@ function onCastSpell(cid, var)
 		{ east = 618, west = 618, north = 617, south = 617 }
 	)
 
-	exhaustion.set(cid, "Gran Rey Cerooo", 3)
+	exhaustion.set(cid, "Gran Rey Cerooo", 30)
 	return true
 end

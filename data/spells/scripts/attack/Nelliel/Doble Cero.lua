@@ -18,6 +18,6 @@ function onCastSpell(cid, var)
 		{ east = 756, west = 756, north = 755, south = 755 }
 	)
 
-	exhaustion.set(cid, "Doble Cero", 3)
+	exhaustion.set(cid, "Doble Cero", 30)
 	return true
 end

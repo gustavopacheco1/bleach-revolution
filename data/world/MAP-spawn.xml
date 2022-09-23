@@ -8544,6 +8544,9 @@
 		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3532" centery="3472" centerz="6" radius="1">
+		<npc name="Rukia Kuchiki" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3664" centery="3473" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
@@ -22184,6 +22187,9 @@
 	<spawn centerx="2441" centery="3464" centerz="8" radius="1">
 		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3532" centery="3464" centerz="8" radius="1">
+		<npc name="Renjii Abarai" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="2242" centery="3465" centerz="8" radius="1">
 		<monster name="Acidwire" x="-1" y="-1" z="8" spawntime="60" />
