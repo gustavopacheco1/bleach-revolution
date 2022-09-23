@@ -263,7 +263,7 @@ function isInSpecialCooldown(cid)
 end
 
 -- Waves
-AREA_CANNON6SQM = {
+AREA_BIG_CANNON_6SQM = {
 	{ 1, 1, 1 },
 	{ 1, 1, 1 },
 	{ 1, 1, 1 },
@@ -272,7 +272,7 @@ AREA_CANNON6SQM = {
 	{ 1, 3, 1 }
 }
 
-AREADIAGONAL_CANNON6SQM = {
+AREADIAGONAL_BIG_CANNON_6SQM = {
 	{ 1, 1, 0, 0, 0, 0 },
 	{ 1, 1, 1, 0, 0, 0 },
 	{ 0, 1, 1, 1, 0, 0 },
@@ -281,6 +281,23 @@ AREADIAGONAL_CANNON6SQM = {
 	{ 0, 0, 0, 0, 1, 3 }
 }
 
+AREA_CANNON_6SQM = {
+	{ 1,},
+	{ 1,},
+	{ 1,},
+	{ 1,},
+	{ 1,},
+	{ 3,}
+}
+
+AREADIAGONAL_CANNON_6SQM = {
+	{ 1, 0, 0, 0, 0, 0 },
+	{ 0, 1, 0, 0, 0, 0 },
+	{ 0, 0, 1, 0, 0, 0 },
+	{ 0, 0, 0, 1, 0, 0 },
+	{ 0, 0, 0, 0, 1, 0 },
+	{ 0, 0, 0, 0, 0, 3 }
+}
 
 -- Circles
 AREA_CIRCLE3X3_FULL = {
