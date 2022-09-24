@@ -22,7 +22,7 @@ local potions = {
 }
 
 local exhaust = createConditionObject(CONDITION_EXHAUST)
-setConditionParam(exhaust, CONDITION_PARAM_TICKS, 1000)
+setConditionParam(exhaust, CONDITION_PARAM_TICKS, 900)
 
 function onUse(cid, item, fromPosition, itemEx, toPosition)
 	if isPlayer(itemEx.uid) and not hasCondition(cid, CONDITION_EXHAUST) then
@@ -36,9 +36,10 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 			doCreatureAddMana(itemEx.uid, math.random(potion.heal.mana - potion.heal.randomizer, potion.heal.mana + potion.heal.randomizer))
 		end
 
+		doRemoveItem(item.uid, 1)
 		doSendMagicEffect(toPosition, potions[item.itemid].effect)
 		doAddCondition(cid, exhaust)
-		doRemoveItem(item.uid, 1)
+		doCreatureSay(cid, "Aaaah...", TALKTYPE_MONSTER_SAY)
 	end
 	return true
 end
