@@ -22,7 +22,7 @@ function onCastSpell(cid, var)
         CustomSpell.randomShoot(
             cid,
             combat,
-            4,
+            1,
             300,
             93,
             { id = 748, x = 0, y = 0 }
