@@ -1,23 +1,34 @@
 local combat = createCombatObject()
-setCombatParam(combat, COMBAT_PARAM_HITCOLOR, COLOR_TEAL)
+setCombatParam(combat, COMBAT_PARAM_HITCOLOR, COLOR_PINK)
 setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_ENERGYDAMAGE)
-setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -60, 0, -75, 0)
-setCombatArea(combat, createCombatArea(AREA_CANNON_6SQM, AREADIAGONAL_CANNON_6SQM))
+setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -60.0, 0, -75.0, 0)
 
 function onCastSpell(cid, var)
-	if exhaustion.check(cid, "Ceroo") then
-		doPlayerSendDefaultCancel(cid, RETURNVALUE_YOUAREEXHAUSTED)
-		return false
-	end
+    if exhaustion.check(cid, 100) then
+        doPlayerSendCancel(cid, "You are exhausted.")
+        return false
+    end
 
-	doCannon(
-		cid,
-		combat,
-		var,
-		{ length = 6, height = 3 },
-		{ east = 749, west = 749, north = 750, south = 750 }
-	)
+    if hasCreatureCondition(cid, CONDITION_ATTRIBUTES) then
+        CustomSpell.randomShoot(
+            cid,
+            combat,
+            1,
+            300,
+            90,
+            { id = 733, x = 1, y = 1 }
+        )
+    else
+        CustomSpell.randomShoot(
+            cid,
+            combat,
+            4,
+            300,
+            93,
+            { id = 748, x = 0, y = 0 }
+        )
+    end
 
-	exhaustion.set(cid, "Ceroo", 2)
-	return true
+    exhaustion.set(cid, 100, 1)
+    return true
 end
