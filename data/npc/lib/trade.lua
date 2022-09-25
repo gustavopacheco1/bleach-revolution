@@ -44,15 +44,15 @@ buyable_items = {
 
 sellable_items = {
 	["Kenji"] = {
-		[15006] = { price = 10000 }, -- furie arrancar helmet
-		[15305] = { price = 10000 }, -- furie arrancar armor
-		[15012] = { price = 10000 }, -- furie arrancar boots
-		[15005] = { price = 8000 }, -- elite arrancar helmet
-		[15304] = { price = 8000 }, -- elite arrancar armor
-		[15011] = { price = 8000 }, -- elite arrancar boots
-		[15101] = { price = 6000 }, -- arrancar helmet
-		[15112] = { price = 6000 }, -- arrancar armor
-		[10731] = { price = 6000 }, -- arrancar boots
+		[15006] = { price = 35000 }, -- furie arrancar helmet
+		[15305] = { price = 35000 }, -- furie arrancar armor
+		[15012] = { price = 35000 }, -- furie arrancar boots
+		[15005] = { price = 25000 }, -- elite arrancar helmet
+		[15304] = { price = 25000 }, -- elite arrancar armor
+		[15011] = { price = 25000 }, -- elite arrancar boots
+		[15101] = { price = 15000 }, -- arrancar helmet
+		[15112] = { price = 15000 }, -- arrancar armor
+		[10731] = { price = 15000 }, -- arrancar boots
 		[15245] = { price = 7000 }, -- furie urahara helmet
 		[15301] = { price = 7000 }, -- furie urahara armor
 		[16436] = { price = 7000 }, -- furie urahara legs
