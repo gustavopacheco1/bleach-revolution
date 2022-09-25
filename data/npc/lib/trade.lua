@@ -100,9 +100,9 @@ sellable_items = {
 	},
 
 	["Macoio"] = {
-		[5897] = { price = 1000 }, -- wolf paw
-		[15687] = { price = 1000 }, -- soul essence
-		[15230] = { price = 1000 }, -- part of horror
+		[5897] = { price = 500 }, -- wolf paw
+		[15687] = { price = 500 }, -- soul essence
+		[15230] = { price = 500 }, -- part of horror
 	},
 
 	["Loreto"] = {
@@ -121,6 +121,12 @@ sellable_items = {
 		[15257] = { price = 6000 }, -- furie spider mask
 		[15256] = { price = 4000 }, -- elite spider mask
 		[15104] = { price = 2000 }, -- spider mask
+		[11095] = { price = 30 }, -- wolf mask
+		[15264] = { price = 40 }, -- elite wolf mask
+		[15265] = { price = 50 }, -- furie wolf mask
+		[11094] = { price = 30 }, -- snake mask
+		[15266] = { price = 40 }, -- elite snake mask
+		[15267] = { price = 50 }, -- furie snake mask
 	},
 }
 

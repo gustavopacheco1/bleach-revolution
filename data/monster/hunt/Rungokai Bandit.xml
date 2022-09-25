@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Monster Level: 30 -->
 <monster name="Rungokai Bandit" nameDescription="Rungokai Bandit" race="blood" experience="900" speed="100" manacost="0">
-	<health now="10000" max="10000"/>
+	<health now="30000" max="30000"/>
 	<look type="338" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
@@ -33,14 +33,14 @@
 		<immunity invisible="0"/>
 	</immunities>
 	<loot>
-		<item id="2148" chance="70000" count="60" countmax="60"/>
-		<item id="15276" chance="2000" count="1" countmax="1"/>
-		<item id="15332" chance="2000" count="1" countmax="1"/>
-		<item id="15362" chance="2000" count="1" countmax="1"/>
-		<item id="15380" chance="2000" count="1" countmax="1"/>
-		<item id="15277" chance="2000" count="1" countmax="1"/>
-		<item id="15333" chance="2000" count="1" countmax="1"/>
-		<item id="15363" chance="2000" count="1" countmax="1"/>
-		<item id="15381" chance="2000" count="1" countmax="1"/>
+		<item id="2148" chance="70000" count="60" countmax="60"/> <!-- ryo coin -->
+		<item id="15276" chance="7000" count="1" countmax="1"/> <!-- elite bandit helmet -->
+		<item id="15332" chance="7000" count="1" countmax="1"/> <!-- elite bandit armor -->
+		<item id="15362" chance="7000" count="1" countmax="1"/> <!-- elite bandit legs -->
+		<item id="15380" chance="7000" count="1" countmax="1"/> <!-- elite bandit boots -->
+		<item id="15277" chance="4000" count="1" countmax="1"/> <!-- furie bandit helmet -->
+		<item id="15333" chance="4000" count="1" countmax="1"/> <!-- furie bandit armor -->
+		<item id="15363" chance="4000" count="1" countmax="1"/> <!-- furie bandit legs -->
+		<item id="15381" chance="4000" count="1" countmax="1"/> <!-- furie bandit boots -->
 	</loot>
 </monster>

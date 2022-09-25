@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Monster Level: 30 -->
 <monster name="Hollow Wolf" nameDescription="Hollow Wolf" race="blood" experience="900" speed="100" manacost="0">
-	<health now="10000" max="10000"/>
+	<health now="30000" max="30000"/>
 	<look type="118" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
@@ -36,9 +36,9 @@
 		<event name="YamamotoTask"/>
 	</script>
 	<loot>
-		<item id="2148" chance="70000" count="60" countmax="60"/>
-		<item id="11095" chance="2000" count="1" countmax="2"/>
-		<item id="15264" chance="2000" count="1" countmax="2"/>
-		<item id="15265" chance="2000" count="1" countmax="2"/>
+		<item id="2148" chance="70000" count="60" countmax="60"/> <!-- ryo coin -->
+		<item id="11095" chance="65000" count="1" countmax="2"/> <!-- wolf mask -->
+		<item id="15264" chance="51000" count="1" countmax="2"/> <!-- elite wolf mask -->
+		<item id="15265" chance="21000" count="1" countmax="2"/> <!-- furie wolf mask -->
 	</loot>
 </monster>

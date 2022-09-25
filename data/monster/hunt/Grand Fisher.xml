@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Monster Level: 200 -->
 <monster name="Grand Fisher" nameDescription="Grande Fisher" race="blood" experience="9500" speed="600" manacost="0">
-	<health now="145000" max="145000"/>
+	<health now="250000" max="250000"/>
 	<look type="15" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
@@ -33,13 +33,13 @@
 		<immunity invisible="0"/>
 	</immunities>
 	<loot>
-		<item id="2152" chance="7000" count="3" countmax="3"/>
-		<item id="2148" chance="100000" count="210" countmax="210"/>
-		<item id="15099" chance="2000" count="1" countmax="1"/>
-		<item id="15240" chance="2000" count="1" countmax="1"/>
-		<item id="15241" chance="2000" count="1" countmax="1"/>
-		<item id="5897" chance="2000" count="1" countmax="15"/>
-		<item id="15687" chance="2000" count="1" countmax="15"/>
-		<item id="15230" chance="2000" count="1" countmax="15"/>
+		<item id="2152" chance="7000" count="3" countmax="3"/> <!-- hundred ryo note -->
+		<item id="2148" chance="100000" count="210" countmax="210"/> <!-- ryo coin -->
+		<item id="15099" chance="40000" count="1" countmax="1"/> <!-- grand fisher mask -->
+		<item id="15240" chance="30000" count="1" countmax="1"/> <!-- elite grand fisher mask -->
+		<item id="15241" chance="20000" count="1" countmax="1"/> <!-- furie grand fisher mask -->
+		<item id="5897" chance="2000" count="1" countmax="15"/> <!-- wolf paw -->
+		<item id="15687" chance="2000" count="1" countmax="15"/> <!-- soul essence -->
+		<item id="15230" chance="2000" count="1" countmax="15"/> <!-- part of horror -->
 	</loot>
 </monster>

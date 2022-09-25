@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Monster Level: 120 -->
 <monster name="Furie Hollow" nameDescription="Furie Hollow" race="blood" experience="3500" speed="500" manacost="0">
-	<health now="120000" max="120000"/>
+	<health now="150000" max="150000"/>
 	<look type="33" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
@@ -36,10 +36,10 @@
 		<event name="YamamotoTask"/>
 	</script>
 	<loot>
-		<item id="2148" chance="1000" count="60" countmax="60"/>
-		<item id="2148" chance="100000" count="210" countmax="210"/>
-		<item id="15105" chance="2000" count="1" countmax="1"/>
-		<item id="15260" chance="2000" count="1" countmax="1"/>
-		<item id="15261" chance="2000" count="1" countmax="1"/>
+		<item id="2148" chance="1000" count="60" countmax="60"/> <!-- hundred ryo note -->
+		<item id="2148" chance="100000" count="210" countmax="210"/> <!-- ryo coin -->
+		<item id="15105" chance="8000" count="1" countmax="1"/> <!-- arak mask -->
+		<item id="15260" chance="5000" count="1" countmax="1"/> <!-- elite arak mask -->
+		<item id="15261" chance="2000" count="1" countmax="1"/> <!-- furie arak mask -->
 	</loot>
 </monster>

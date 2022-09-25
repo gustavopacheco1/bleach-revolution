@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Monster Level: 70 -->
 <monster name="Mummy" nameDescription="Mummy" race="blood" experience="1500" speed="600" manacost="0">
-	<health now="119000" max="110000"/>
+	<health now="110000" max="110000"/>
 	<look type="12" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
@@ -33,18 +33,10 @@
 		<immunity invisible="0"/>
 	</immunities>
 	<loot>
-		<item id="2148" chance="90000" count="140" countmax="140"/>
-		<item id="10690" chance="2000" count="1" countmax="1"/>
-		<item id="10687" chance="2000" count="1" countmax="1"/>
-		<item id="10688" chance="2000" count="1" countmax="1"/>
-		<item id="10689" chance="2000" count="1" countmax="1"/>
-		<item id="15268" chance="2000" count="1" countmax="1"/>
-		<item id="15326" chance="2000" count="1" countmax="1"/>
-		<item id="15358" chance="2000" count="1" countmax="1"/>
-		<item id="15378" chance="2000" count="1" countmax="1"/>
-		<item id="15269" chance="2000" count="1" countmax="1"/>
-		<item id="15327" chance="2000" count="1" countmax="1"/>
-		<item id="15359" chance="2000" count="1" countmax="1"/>
-		<item id="15379" chance="2000" count="1" countmax="1"/>
+		<item id="2148" chance="90000" count="140" countmax="140"/> <!-- ryo coin -->
+		<item id="10690" chance="40000" count="1" countmax="1"/> <!-- mummy helmet  -->
+		<item id="10687" chance="40000" count="1" countmax="1"/> <!-- mummy armor -->
+		<item id="10688" chance="40000" count="1" countmax="1"/> <!-- mummy legs -->
+		<item id="10689" chance="40000" count="1" countmax="1"/> <!-- mummy boots -->
 	</loot>
 </monster>

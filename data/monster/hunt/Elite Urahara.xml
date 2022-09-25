@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Monster Level: 140 -->
 <monster name="Elite Urahara" nameDescription="Elite Urahara" race="blood" experience="4500" speed="500" manacost="0">
-	<health now="127000" max="127000"/>
+	<health now="180000" max="180000"/>
 	<look type="255" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
@@ -33,15 +33,11 @@
 		<immunity invisible="0"/>
 	</immunities>
 	<loot>
-		<item id="2152" chance="4000" count="2" countmax="2"/>
-		<item id="2148" chance="100000" count="210" countmax="210"/>
-		<item id="15244" chance="2000" count="1" countmax="1"/>
-		<item id="15300" chance="2000" count="1" countmax="1"/>
-		<item id="15435" chance="2000" count="1" countmax="1"/>
-		<item id="15366" chance="2000" count="1" countmax="1"/>
-		<item id="15245" chance="2000" count="1" countmax="1"/>
-		<item id="15301" chance="2000" count="1" countmax="1"/>
-		<item id="15436" chance="2000" count="1" countmax="1"/>
-		<item id="15367" chance="2000" count="1" countmax="1"/>
+		<item id="2152" chance="4000" count="2" countmax="2"/> <!-- hundred ryo note -->
+		<item id="2148" chance="100000" count="210" countmax="210"/> <!-- ryo coin -->
+		<item id="15244" chance="10000" count="1" countmax="1"/> <!-- elite urahara helmet -->
+		<item id="15300" chance="10000" count="1" countmax="1"/> <!-- elite urahara armor -->
+		<item id="15435" chance="10000" count="1" countmax="1"/> <!-- elite urahara legs -->
+		<item id="15366" chance="10000" count="1" countmax="1"/> <!-- elite urahara boots -->
 	</loot>
 </monster>
