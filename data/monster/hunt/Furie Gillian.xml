@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Monster Level: 230 -->
 <monster name="Furie Gillian" nameDescription="Furie Gillian" race="blood" experience="11500" speed="600" manacost="0">
-	<health now="160000" max="160000"/>
+	<health now="300000" max="300000"/>
 	<look type="341" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
@@ -33,11 +33,10 @@
 		<immunity invisible="0"/>
 	</immunities>
 	<loot>
-		<item id="2152" chance="7000" count="3" countmax="3"/>
-		<item id="2148" chance="100000" count="210" countmax="210"/>
-		<item id="10624" chance="500" count="1" countmax="1"/>
-		<item id="10625" chance="500" count="1" countmax="1"/>
-		<item id="10626" chance="500" count="1" countmax="1"/>
-		<item id="10627" chance="500" count="1" countmax="1"/>
+		<item id="2152" chance="7000" count="3" countmax="3"/> <!-- hundred ryo note -->
+		<item id="2148" chance="100000" count="210" countmax="210"/> <!-- ryo coin -->
+		<item id="15103" chance="22000" count="210" countmax="210"/> <!-- furie gillian mask -->
+		<item id="15250" chance="30000" count="210" countmax="210"/> <!-- elite gillian mask -->
+		<item id="15251" chance="40000" count="210" countmax="210"/> <!-- gillian mask -->
 	</loot>
 </monster>

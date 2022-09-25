@@ -33,11 +33,11 @@
 		<immunity invisible="0"/>
 	</immunities>
 	<loot>
-		<item id="2152" chance="4000" count="2" countmax="2"/>
-		<item id="2148" chance="100000" count="210" countmax="210"/>
-		<item id="15724" chance="2000" count="1" countmax="1"/>
-		<item id="15111" chance="2000" count="1" countmax="1"/>
-		<item id="16115" chance="2000" count="1" countmax="1"/>
-		<item id="15815" chance="2000" count="1" countmax="1"/>
+		<item id="2152" chance="4000" count="2" countmax="2"/> <!-- hundred ryo note -->
+		<item id="2148" chance="100000" count="210" countmax="210"/> <!-- ryo coin -->
+		<item id="15724" chance="12000" count="1" countmax="1"/> <!-- urahara helmet -->
+		<item id="15111" chance="12000" count="1" countmax="1"/> <!-- urahara armor -->
+		<item id="16115" chance="12000" count="1" countmax="1"/> <!-- urahara legs -->
+		<item id="15815" chance="12000" count="1" countmax="1"/> <!-- urahara boots -->
 	</loot>
 </monster>

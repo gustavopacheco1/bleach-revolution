@@ -36,9 +36,9 @@
 		<event name="YamamotoTask"/>
 	</script>
 	<loot>
-		<item id="2148" chance="70000" count="60" countmax="60"/>
-		<item id="11095" chance="2000" count="1" countmax="2"/>
-		<item id="15264" chance="2000" count="1" countmax="2"/>
-		<item id="15265" chance="2000" count="1" countmax="2"/>
+		<item id="2148" chance="70000" count="60" countmax="60"/> <!-- ryo coin -->
+		<item id="11095" chance="65000" count="1" countmax="2"/> <!-- wolf mask -->
+		<item id="15264" chance="51000" count="1" countmax="2"/> <!-- elite wolf mask -->
+		<item id="15265" chance="21000" count="1" countmax="2"/> <!-- furie wolf mask -->
 	</loot>
 </monster>

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Monster Level: 250 -->
 <monster name="Quincy" nameDescription="Quincy" race="blood" experience="13500" speed="600" manacost="0">
-	<health now="180000" max="180000"/>
+	<health now="400000" max="400000"/>
 	<look type="35" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
@@ -33,7 +33,7 @@
 		<immunity invisible="0"/>
 	</immunities>
 	<loot>
-		<item id="2152" chance="7000" count="4" countmax="4"/>
-		<item id="2148" chance="100000" count="210" countmax="210"/>
+		<item id="2152" chance="7000" count="4" countmax="4"/> <!-- hundred ryo note -->
+		<item id="2148" chance="100000" count="210" countmax="210"/> <!-- ryo coin -->
 	</loot>
 </monster>

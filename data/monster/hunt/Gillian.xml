@@ -36,10 +36,10 @@
 		<event name="YamamotoTask"/>
 	</script>
 	<loot>
-		<item id="2152" chance="4000" count="2" countmax="2"/>
-		<item id="2148" chance="100000" count="210" countmax="210"/>
-		<item id="15103" chance="2000" count="1" countmax="1"/>
-		<item id="15250" chance="2000" count="1" countmax="1"/>
-		<item id="15251" chance="2000" count="1" countmax="1"/>
+		<item id="2152" chance="4000" count="2" countmax="2"/> <!-- hundred ryo note -->
+		<item id="2148" chance="100000" count="210" countmax="210"/> <!-- ryo coin -->
+		<item id="15103" chance="4000" count="1" countmax="1"/> <!-- gillian mask -->
+		<item id="15250" chance="3500" count="1" countmax="1"/> <!-- elite gillian mask -->
+		<item id="15251" chance="2000" count="1" countmax="1"/> <!-- furie gillian mask -->
 	</loot>
 </monster>

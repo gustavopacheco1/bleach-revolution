@@ -36,10 +36,10 @@
 		<event name="YamamotoTask"/>
 	</script>
 	<loot>
-		<item id="2152" chance="4000" count="2" countmax="2"/>
-		<item id="2148" chance="100000" count="210" countmax="210"/>
-		<item id="15104" chance="20000" count="1" countmax="1"/>
-		<item id="15256" chance="20000" count="1" countmax="1"/>
-		<item id="15257" chance="20000" count="1" countmax="1"/>
+		<item id="2152" chance="4000" count="2" countmax="2"/> <!-- hundred ryo note -->
+		<item id="2148" chance="100000" count="210" countmax="210"/> <!-- ryo coin -->
+		<item id="15104" chance="8000" count="1" countmax="1"/> <!-- spider mask -->
+		<item id="15256" chance="6000" count="1" countmax="1"/> <!-- elite spider mask -->
+		<item id="15257" chance="2000" count="1" countmax="1"/> <!-- furie spider mask -->
 	</loot>
 </monster>

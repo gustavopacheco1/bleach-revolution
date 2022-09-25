@@ -33,10 +33,10 @@
 		<immunity invisible="0"/>
 	</immunities>
 	<loot>
-		<item id="2152" chance="4000" count="2" countmax="2"/>
-		<item id="2148" chance="100000" count="210" countmax="210"/>
-		<item id="5897" chance="2000" count="1" countmax="15"/>
-		<item id="15687" chance="2000" count="1" countmax="15"/>
-		<item id="15230" chance="2000" count="1" countmax="15"/>
+		<item id="2152" chance="7000" count="3" countmax="3"/> <!-- hundred ryo note -->
+		<item id="2148" chance="100000" count="210" countmax="210"/> <!-- ryo coin -->
+		<item id="5897" chance="2000" count="1" countmax="15"/> <!-- wolf paw -->
+		<item id="15687" chance="2000" count="1" countmax="15"/> <!-- soul essence -->
+		<item id="15230" chance="2000" count="1" countmax="15"/> <!-- part of horror -->
 	</loot>
 </monster>

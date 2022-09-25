@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Monster Level: 275 -->
 <monster name="Prisoner" nameDescription="Prisoner" race="blood" experience="15000" speed="600" manacost="0">
-	<health now="200000" max="200000"/>
+	<health now="500000" max="500000"/>
 	<look type="120" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
@@ -33,10 +33,10 @@
 		<immunity invisible="0"/>
 	</immunities>
 	<loot>
-		<item id="2152" chance="7000" count="4" countmax="4"/>
-		<item id="2148" chance="100000" count="210" countmax="210"/>
-		<item id="5897" chance="2000" count="1" countmax="15"/>
-		<item id="15687" chance="2000" count="1" countmax="15"/>
-		<item id="15230" chance="2000" count="1" countmax="15"/>
+		<item id="2152" chance="7000" count="4" countmax="4"/> <!-- hundred ryo note -->
+		<item id="2148" chance="100000" count="210" countmax="210"/> <!-- ryo coin -->
+		<item id="5897" chance="2000" count="1" countmax="15"/> <!-- wolf paw -->
+		<item id="15687" chance="2000" count="1" countmax="15"/> <!-- soul essence -->
+		<item id="15230" chance="2000" count="1" countmax="15"/> <!-- part of horror -->
 	</loot>
 </monster>
