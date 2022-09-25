@@ -87,8 +87,6 @@ function onCastSpell(cid, var)
 	end
 	doPlayerSetGroupId(target, getPlayerStorageValue(target, "group"))
 
-	-- TODO: Connect spell with creaturescript
-
 	exhaustion.set(cid, "special", spell.cooldown)
 	return true
 end
