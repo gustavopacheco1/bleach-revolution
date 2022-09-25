@@ -1,24 +1,24 @@
 local potions = {
-	-- great reiatsu potion
-	[16111] = { heal = {mana = 30000, randomizer = 2500}, effect = 502 },
-
 	-- ultimate potion
 	[16112] = { heal = {health = 15000, mana = 15000, randomizer = 2500}, effect = 502 },
 
 	-- reiatsu potion
-	[16113] = { heal = {mana = 15000, randomizer = 2500}, effect = 502 },
+	[16113] = { heal = {mana = 15000, randomizer = 1000}, effect = 502 },
 
 	-- health potion
-	[16114] = { heal = {health = 15000, randomizer = 2500}, effect = 502 },
+	[16114] = { heal = {health = 9000, randomizer = 1000}, effect = 502 },
 
 	-- reiatsu pill
-	[16116] = { heal = {mana = 8000, randomizer = 2500}, effect = 502 },
+	[16116] = { heal = {mana = 8000, randomizer = 500}, effect = 502 },
 
 	-- health pill
-	[16117] = { heal = {health = 8000, randomizer = 2500}, effect = 502 },
+	[16117] = { heal = {health = 8000, randomizer = 500}, effect = 502 },
 
 	-- great health potion
-	[16118] = { heal = {health = 30000, randomizer = 2500}, effect = 502 }
+	[16118] = { heal = {health = 15000, randomizer = 2500}, effect = 502 },
+
+	-- great reiatsu potion
+	[16111] = { heal = {mana = 15000, randomizer = 2500}, effect = 502 },
 }
 
 local exhaust = createConditionObject(CONDITION_EXHAUST)
@@ -39,7 +39,7 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 		doRemoveItem(item.uid, 1)
 		doSendMagicEffect(toPosition, potions[item.itemid].effect)
 		doAddCondition(cid, exhaust)
-		doCreatureSay(cid, "Aaaah...", TALKTYPE_MONSTER_SAY)
+		doCreatureSay(itemEx.uid, "Aaaah...", TALKTYPE_MONSTER_SAY)
 	end
 	return true
 end

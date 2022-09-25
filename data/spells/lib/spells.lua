@@ -1,3 +1,149 @@
+-- Formulas
+function getAreaFormula(cid, level, maglevel)
+	local min = ((maglevel * 16 * 2) + (level * 3 * 3)) * 2.5
+	local max = ((maglevel * 16 * 3) + (level * 4 * 3.4)) * 2.5
+	return -min, -max
+end
+
+function getSingleShootFormula(cid, level, maglevel)
+	local min = ((maglevel * 16 * 2) + (level * 3 * 3)) * 3
+	local max = ((maglevel * 16 * 3) + (level * 4 * 3.4)) * 3
+	return -min, -max
+end
+
+function getFiveShootsFormula(cid, level, maglevel)
+	local min = (maglevel * 16 * 2) + (level * 3 * 3)
+	local max = (maglevel * 16 * 3) + (level * 4 * 3.4)
+	return -min, -max
+end
+
+function getCannonFormula(cid, level, maglevel)
+	local min = ((maglevel * 16 * 2) + (level * 3 * 3)) * 7
+	local max = ((maglevel * 16 * 3) + (level * 4 * 3.4)) * 7
+	return -min, -max
+end
+
+-- Waves
+AREA_BIG_CANNON_6SQM = {
+	{ 1, 1, 1 },
+	{ 1, 1, 1 },
+	{ 1, 1, 1 },
+	{ 1, 1, 1 },
+	{ 1, 1, 1 },
+	{ 1, 3, 1 }
+}
+
+AREADIAGONAL_BIG_CANNON_6SQM = {
+	{ 1, 1, 0, 0, 0, 0 },
+	{ 1, 1, 1, 0, 0, 0 },
+	{ 0, 1, 1, 1, 0, 0 },
+	{ 0, 0, 1, 1, 1, 0 },
+	{ 0, 0, 0, 1, 1, 1 },
+	{ 0, 0, 0, 0, 1, 3 }
+}
+
+AREA_CANNON_6SQM = {
+	{ 1,},
+	{ 1,},
+	{ 1,},
+	{ 1,},
+	{ 1,},
+	{ 3,}
+}
+
+AREADIAGONAL_CANNON_6SQM = {
+	{ 1, 0, 0, 0, 0, 0 },
+	{ 0, 1, 0, 0, 0, 0 },
+	{ 0, 0, 1, 0, 0, 0 },
+	{ 0, 0, 0, 1, 0, 0 },
+	{ 0, 0, 0, 0, 1, 0 },
+	{ 0, 0, 0, 0, 0, 3 }
+}
+
+-- Circles
+AREA_CIRCLE3X3_FULL = {
+	{ 0, 0, 1, 1, 1, 0, 0 },
+	{ 0, 1, 1, 1, 1, 1, 0 },
+	{ 1, 1, 1, 1, 1, 1, 1 },
+	{ 1, 1, 1, 2, 1, 1, 1 },
+	{ 1, 1, 1, 1, 1, 1, 1 },
+	{ 0, 1, 1, 1, 1, 1, 0 },
+	{ 0, 0, 1, 1, 1, 0, 0 }
+}
+
+AREA_CIRCLE3X3_FIRST = {
+	{ 1, 1, 1 },
+	{ 1, 2, 1 },
+	{ 1, 1, 1 },
+}
+
+AREA_CIRCLE3X3_SECOND = {
+	{ 0, 1, 1, 1, 0 },
+	{ 1, 0, 0, 0, 1 },
+	{ 1, 0, 2, 0, 1 },
+	{ 1, 0, 0, 0, 1 },
+	{ 0, 1, 1, 1, 0 },
+}
+
+AREA_CIRCLE3X3_THIRD = {
+	{ 0, 0, 1, 1, 1, 0, 0 },
+	{ 0, 1, 0, 0, 0, 1, 0 },
+	{ 1, 0, 0, 0, 0, 0, 1 },
+	{ 1, 0, 0, 2, 0, 0, 1 },
+	{ 1, 0, 0, 0, 0, 0, 1 },
+	{ 0, 1, 0, 0, 0, 1, 0 },
+	{ 0, 0, 1, 1, 1, 0, 0 }
+}
+
+AREA_CIRCLE3X3_FIRST_CENTER_X = {
+	{ 1, 1, 1 },
+	{ 1, 0, 3 },
+	{ 1, 1, 1 },
+}
+
+AREA_CIRCLE3X3_SECOND_CENTER_X = {
+	{ 0, 1, 1, 1, 0 },
+	{ 1, 0, 0, 0, 1 },
+	{ 1, 0, 0, 2, 1 },
+	{ 1, 0, 0, 0, 1 },
+	{ 0, 1, 1, 1, 0 },
+}
+
+AREA_CIRCLE3X3_THIRD_CENTER_X = {
+	{ 0, 0, 1, 1, 1, 0, 0 },
+	{ 0, 1, 0, 0, 0, 1, 0 },
+	{ 1, 0, 0, 0, 0, 0, 1 },
+	{ 1, 0, 0, 0, 2, 0, 1 },
+	{ 1, 0, 0, 0, 0, 0, 1 },
+	{ 0, 1, 0, 0, 0, 1, 0 },
+	{ 0, 0, 1, 1, 1, 0, 0 }
+}
+
+AREA_CIRCLE3X3_FIRST_CENTER_XY = {
+	{ 1, 1, 1 },
+	{ 1, 0, 1 },
+	{ 1, 1, 3 },
+}
+
+AREA_CIRCLE3X3_SECOND_CENTER_XY = {
+	{ 0, 1, 1, 1, 0 },
+	{ 1, 0, 0, 0, 1 },
+	{ 1, 0, 0, 0, 1 },
+	{ 1, 0, 0, 2, 1 },
+	{ 0, 1, 1, 1, 0 },
+}
+
+AREA_CIRCLE3X3_THIRD_CENTER_XY = {
+	{ 0, 0, 1, 1, 1, 0, 0 },
+	{ 0, 1, 0, 0, 0, 1, 0 },
+	{ 1, 0, 0, 0, 0, 0, 1 },
+	{ 1, 0, 0, 0, 0, 0, 1 },
+	{ 1, 0, 0, 0, 2, 0, 1 },
+	{ 0, 1, 0, 0, 0, 1, 0 },
+	{ 0, 0, 1, 1, 1, 0, 0 }
+}
+
+-- Functions
 function doCombatLoop(cid, combat, loop_amount, loop_ms_delay, effect)
 	for i = 0, loop_amount - 1 do
 		addEvent(function()
@@ -261,123 +407,3 @@ function isInSpecialCooldown(cid)
 	)
 	return true
 end
-
--- Waves
-AREA_BIG_CANNON_6SQM = {
-	{ 1, 1, 1 },
-	{ 1, 1, 1 },
-	{ 1, 1, 1 },
-	{ 1, 1, 1 },
-	{ 1, 1, 1 },
-	{ 1, 3, 1 }
-}
-
-AREADIAGONAL_BIG_CANNON_6SQM = {
-	{ 1, 1, 0, 0, 0, 0 },
-	{ 1, 1, 1, 0, 0, 0 },
-	{ 0, 1, 1, 1, 0, 0 },
-	{ 0, 0, 1, 1, 1, 0 },
-	{ 0, 0, 0, 1, 1, 1 },
-	{ 0, 0, 0, 0, 1, 3 }
-}
-
-AREA_CANNON_6SQM = {
-	{ 1,},
-	{ 1,},
-	{ 1,},
-	{ 1,},
-	{ 1,},
-	{ 3,}
-}
-
-AREADIAGONAL_CANNON_6SQM = {
-	{ 1, 0, 0, 0, 0, 0 },
-	{ 0, 1, 0, 0, 0, 0 },
-	{ 0, 0, 1, 0, 0, 0 },
-	{ 0, 0, 0, 1, 0, 0 },
-	{ 0, 0, 0, 0, 1, 0 },
-	{ 0, 0, 0, 0, 0, 3 }
-}
-
--- Circles
-AREA_CIRCLE3X3_FULL = {
-	{ 0, 0, 1, 1, 1, 0, 0 },
-	{ 0, 1, 1, 1, 1, 1, 0 },
-	{ 1, 1, 1, 1, 1, 1, 1 },
-	{ 1, 1, 1, 2, 1, 1, 1 },
-	{ 1, 1, 1, 1, 1, 1, 1 },
-	{ 0, 1, 1, 1, 1, 1, 0 },
-	{ 0, 0, 1, 1, 1, 0, 0 }
-}
-
-AREA_CIRCLE3X3_FIRST = {
-	{ 1, 1, 1 },
-	{ 1, 2, 1 },
-	{ 1, 1, 1 },
-}
-
-AREA_CIRCLE3X3_SECOND = {
-	{ 0, 1, 1, 1, 0 },
-	{ 1, 0, 0, 0, 1 },
-	{ 1, 0, 2, 0, 1 },
-	{ 1, 0, 0, 0, 1 },
-	{ 0, 1, 1, 1, 0 },
-}
-
-AREA_CIRCLE3X3_THIRD = {
-	{ 0, 0, 1, 1, 1, 0, 0 },
-	{ 0, 1, 0, 0, 0, 1, 0 },
-	{ 1, 0, 0, 0, 0, 0, 1 },
-	{ 1, 0, 0, 2, 0, 0, 1 },
-	{ 1, 0, 0, 0, 0, 0, 1 },
-	{ 0, 1, 0, 0, 0, 1, 0 },
-	{ 0, 0, 1, 1, 1, 0, 0 }
-}
-
-AREA_CIRCLE3X3_FIRST_CENTER_X = {
-	{ 1, 1, 1 },
-	{ 1, 0, 3 },
-	{ 1, 1, 1 },
-}
-
-AREA_CIRCLE3X3_SECOND_CENTER_X = {
-	{ 0, 1, 1, 1, 0 },
-	{ 1, 0, 0, 0, 1 },
-	{ 1, 0, 0, 2, 1 },
-	{ 1, 0, 0, 0, 1 },
-	{ 0, 1, 1, 1, 0 },
-}
-
-AREA_CIRCLE3X3_THIRD_CENTER_X = {
-	{ 0, 0, 1, 1, 1, 0, 0 },
-	{ 0, 1, 0, 0, 0, 1, 0 },
-	{ 1, 0, 0, 0, 0, 0, 1 },
-	{ 1, 0, 0, 0, 2, 0, 1 },
-	{ 1, 0, 0, 0, 0, 0, 1 },
-	{ 0, 1, 0, 0, 0, 1, 0 },
-	{ 0, 0, 1, 1, 1, 0, 0 }
-}
-
-AREA_CIRCLE3X3_FIRST_CENTER_XY = {
-	{ 1, 1, 1 },
-	{ 1, 0, 1 },
-	{ 1, 1, 3 },
-}
-
-AREA_CIRCLE3X3_SECOND_CENTER_XY = {
-	{ 0, 1, 1, 1, 0 },
-	{ 1, 0, 0, 0, 1 },
-	{ 1, 0, 0, 0, 1 },
-	{ 1, 0, 0, 2, 1 },
-	{ 0, 1, 1, 1, 0 },
-}
-
-AREA_CIRCLE3X3_THIRD_CENTER_XY = {
-	{ 0, 0, 1, 1, 1, 0, 0 },
-	{ 0, 1, 0, 0, 0, 1, 0 },
-	{ 1, 0, 0, 0, 0, 0, 1 },
-	{ 1, 0, 0, 0, 0, 0, 1 },
-	{ 1, 0, 0, 0, 2, 0, 1 },
-	{ 0, 1, 0, 0, 0, 1, 0 },
-	{ 0, 0, 1, 1, 1, 0, 0 }
-}

@@ -2,7 +2,7 @@ local combat = createCombatObject()
 setCombatParam(combat, COMBAT_PARAM_HITCOLOR, COLOR_TEAL)
 setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_ENERGYDAMAGE)
 setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -80, 0, -100, 0)
-setCombatArea(combat, createCombatArea(AREA_CANNON_6SQM, AREADIAGONAL_CANNON_6SQM))
+setCombatCallback(combat, CALLBACK_PARAM_LEVELMAGICVALUE, "getCannonFormula")
 
 function onCastSpell(cid, var)
 	if exhaustion.check(cid, "cannon") then

@@ -44,6 +44,7 @@
 	<talkaction log="yes" group="6" access="5" words="/vocation" event="script" value="vocation.lua"/>
 	<talkaction log="yes" group="6" access="5" words="/z" event="script" value="animationeffect.lua"/>
 	<talkaction log="yes" group="6" access="5" words="/x" event="script" value="magiceffect.lua"/>
+	<talkaction words="/test" event="script" value="test.lua"/>
 
 	<!-- Players -->
 	<talkaction access="0-6" words="!frags;/frags" event="script" value="frags.lua"/>

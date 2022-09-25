@@ -1,7 +1,14 @@
 local combat = createCombatObject()
 setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_HEALING)
 setCombatParam(combat, COMBAT_PARAM_AGGRESSIVE, false)
-setHealingFormula(combat, COMBAT_FORMULA_LEVELMAGIC, 5, 5, 450.0, 525.0)
+
+function onGetFormulaValues(cid, level, maglevel)
+	local min = ((maglevel * 16 * 2) + (level * 3 * 3)) * 1.8
+	local max = ((maglevel * 16 * 3) + (level * 4 * 3.4)) * 1.8
+	return min, max
+end
+
+setCombatCallback(combat, CALLBACK_PARAM_LEVELMAGICVALUE, "onGetFormulaValues")
 
 function onCastSpell(cid, var)
 	return doCombat(cid, combat, var)

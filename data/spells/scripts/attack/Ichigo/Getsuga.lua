@@ -1,14 +1,9 @@
 local combat = createCombatObject()
 setCombatParam(combat, COMBAT_PARAM_HITCOLOR, COLOR_PINK)
 setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_ENERGYDAMAGE)
-setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -50.0, 0, -65.0, 0)
+setCombatCallback(combat, CALLBACK_PARAM_LEVELMAGICVALUE, "getFiveShootsFormula")
 
 function onCastSpell(cid, var)
-    if exhaustion.check(cid, 300) then
-        doPlayerSendCancel(cid, "You are exhausted.")
-        return false
-    end
-
     if hasCreatureCondition(cid, CONDITION_ATTRIBUTES) then
         CustomSpell.randomShoot(
             cid,
@@ -29,6 +24,5 @@ function onCastSpell(cid, var)
         )
     end
 
-    exhaustion.set(cid, 300, 3)
     return true
 end
