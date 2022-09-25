@@ -1,10 +1,11 @@
 local combat = createCombatObject()
 setCombatParam(combat, COMBAT_PARAM_HITCOLOR, COLOR_PINK)
 setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_ENERGYDAMAGE)
-setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -60.0, 0, -75.0, 0)
+onGetFormulaValues = getSingleShootFormula
+setCombatCallback(combat, CALLBACK_PARAM_LEVELMAGICVALUE, "onGetFormulaValues")
 
 function onCastSpell(cid, var)
-    if exhaustion.check(cid, 200) then
+    if exhaustion.check(cid, 270) then
         doPlayerSendCancel(cid, "You are exhausted.")
         return false
     end
@@ -29,6 +30,6 @@ function onCastSpell(cid, var)
         )
     end
 
-    exhaustion.set(cid, 200, 2)
+    exhaustion.set(cid, 270, 2)
     return true
 end
