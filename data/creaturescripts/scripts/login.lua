@@ -23,6 +23,7 @@ function onLogin(cid)
 		doSendMagicEffect(getCreaturePosition(cid), CONST_ME_TELEPORT)
 	end
 
+	doPlayerOpenChannel(cid, 10) -- Loot channel
 	doPlayerFormula(cid)
 
 	-- Events
