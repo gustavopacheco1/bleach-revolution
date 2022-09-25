@@ -1,7 +1,8 @@
 local combat = createCombatObject()
 setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_ENERGYDAMAGE)
 setCombatArea(combat, createCombatArea(AREA_CIRCLE3X3_FULL))
-setCombatCallback(combat, CALLBACK_PARAM_LEVELMAGICVALUE, "getAreaFormula")
+onGetFormulaValues = getAreaFormula
+setCombatCallback(combat, CALLBACK_PARAM_LEVELMAGICVALUE, "onGetFormulaValues")
 
 local area1 = createCombatObject()
 setCombatParam(area1, COMBAT_PARAM_EFFECT, 484)
