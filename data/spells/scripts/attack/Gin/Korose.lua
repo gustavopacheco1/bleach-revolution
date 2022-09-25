@@ -2,7 +2,8 @@ local combat = createCombatObject()
 setCombatParam(combat, COMBAT_PARAM_HITCOLOR, COLOR_PINK)
 setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_ENERGYDAMAGE)
 setCombatParam(combat, COMBAT_PARAM_DISTANCEEFFECT, 14)
-setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -56.0, 0, -56.0, 0)
+onGetFormulaValues = getFiveShootsFormula
+setCombatCallback(combat, CALLBACK_PARAM_LEVELMAGICVALUE, "onGetFormulaValues")
 
 function onCastSpell(cid, var)
 	if exhaustion.check(cid, 200) then
