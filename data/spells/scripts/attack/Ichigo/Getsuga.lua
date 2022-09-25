@@ -1,7 +1,8 @@
 local combat = createCombatObject()
 setCombatParam(combat, COMBAT_PARAM_HITCOLOR, COLOR_PINK)
 setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_ENERGYDAMAGE)
-setCombatCallback(combat, CALLBACK_PARAM_LEVELMAGICVALUE, "getFiveShootsFormula")
+onGetFormulaValues = getFiveShootsFormula
+setCombatCallback(combat, CALLBACK_PARAM_LEVELMAGICVALUE, "onGetFormulaValues")
 
 function onCastSpell(cid, var)
     if hasCreatureCondition(cid, CONDITION_ATTRIBUTES) then

@@ -1,8 +1,9 @@
 local combat = createCombatObject()
 setCombatParam(combat, COMBAT_PARAM_HITCOLOR, COLOR_TEAL)
 setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_ENERGYDAMAGE)
-setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -80, 0, -100, 0)
-setCombatCallback(combat, CALLBACK_PARAM_LEVELMAGICVALUE, "getCannonFormula")
+setCombatArea(combat, createCombatArea(AREA_BIG_CANNON_6SQM, AREADIAGONAL_BIG_CANNON_6SQM))
+onGetFormulaValues = getCannonFormula
+setCombatCallback(combat, CALLBACK_PARAM_LEVELMAGICVALUE, "onGetFormulaValues")
 
 function onCastSpell(cid, var)
 	if exhaustion.check(cid, "cannon") then
@@ -18,6 +19,6 @@ function onCastSpell(cid, var)
 		{ east = 597, west = 597, north = 747, south = 747 }
 	)
 
-	exhaustion.set(cid, "cannon", 30)
+	exhaustion.set(cid, "cannon", COOLDOWN_CANNON)
 	return true
 end

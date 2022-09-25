@@ -1,4 +1,13 @@
+-- Cooldown
+COOLDOWN_CANNON = 15
+
 -- Formulas
+function getCannonFormula(cid, level, maglevel)
+	local min = ((maglevel * 16 * 2) + (level * 3 * 3)) * 7
+	local max = ((maglevel * 16 * 3) + (level * 4 * 3.4)) * 7
+	return -min, -max
+end
+
 function getAreaFormula(cid, level, maglevel)
 	local min = ((maglevel * 16 * 2) + (level * 3 * 3)) * 2.5
 	local max = ((maglevel * 16 * 3) + (level * 4 * 3.4)) * 2.5
@@ -17,11 +26,6 @@ function getFiveShootsFormula(cid, level, maglevel)
 	return -min, -max
 end
 
-function getCannonFormula(cid, level, maglevel)
-	local min = ((maglevel * 16 * 2) + (level * 3 * 3)) * 7
-	local max = ((maglevel * 16 * 3) + (level * 4 * 3.4)) * 7
-	return -min, -max
-end
 
 -- Waves
 AREA_BIG_CANNON_6SQM = {
