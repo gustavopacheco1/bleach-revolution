@@ -23,7 +23,7 @@
         <attack name="Oscuras Wave" interval="5000" min="-5000" max="-5500" />
 		<attack name="Cero Oscuras" interval="3000" min="-5000" max="-5500" />
 		<attack name="Kendo" interval="6000" min="-1000" max="-1500" />
-		<attack name="kamisori" interval="2000" min="-5000" max="-5500"/>
+		<attack name="cero" interval="2000" min="-5000" max="-5500"/>
 
 	</attacks>
 	<defenses armor="0" defense="0"/>
