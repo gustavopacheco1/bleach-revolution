@@ -5816,8 +5816,6 @@
 		<monster name="Gillian" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3480" centery="3967" centerz="5" radius="1">
-		<monster name="Gillian" x="-1" y="-1" z="5" spawntime="60" />
-		<monster name="Gillian" x="1" y="-1" z="5" spawntime="60" />
 		<monster name="Gillian" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Gillian" x="-1" y="1" z="5" spawntime="60" />
 		<monster name="Gillian" x="1" y="1" z="5" spawntime="60" />
@@ -18823,15 +18821,11 @@
 		<monster name="Demonic Hollow" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3472" centery="3968" centerz="7" radius="1">
-		<monster name="Gillian" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Gillian" x="-1" y="1" z="7" spawntime="60" />
 		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3477" centery="3968" centerz="7" radius="1">
-		<monster name="Gillian" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Gillian" x="-1" y="1" z="7" spawntime="60" />
 		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
