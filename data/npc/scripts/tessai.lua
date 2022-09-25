@@ -24,12 +24,12 @@ function onCreatureSay(cid, type, msg)
 				local player_vocation_name = getPlayerVocationName(cid)
 
 				selfSayMultiLanguage(
-					"Congratulations! You proof that you are capable of domain your greatest techniques. You've learned two new techniques: ".. SPECIALS[player_vocation_name][100] .. " and " .. SPECIALS[player_vocation_name][150] .. ".",
-					"Parabéns! Você provou que é capaz de dominar suas melhores técnicas. Você aprendeu duas novas técnicas: " .. SPECIALS[player_vocation_name][100] .. " e " .. SPECIALS[player_vocation_name][150] .. ".",
+					"Congratulations! You proof that you are capable of domain your greatest techniques. You've learned two new techniques: ".. SPECIALS[player_vocation_name][120] .. " and " .. SPECIALS[player_vocation_name][150] .. ".",
+					"Parabéns! Você provou que é capaz de dominar suas melhores técnicas. Você aprendeu duas novas técnicas: " .. SPECIALS[player_vocation_name][120] .. " e " .. SPECIALS[player_vocation_name][150] .. ".",
 					cid
 				)
 
-				doPlayerLearnInstantSpell(cid, SPECIALS[player_vocation_name][100])
+				doPlayerLearnInstantSpell(cid, SPECIALS[player_vocation_name][120])
 				doPlayerLearnInstantSpell(cid, SPECIALS[player_vocation_name][150])
 
 				setPlayerStorageValue(cid, "tessai_quest", 2)
@@ -46,10 +46,10 @@ function onCreatureSay(cid, type, msg)
 				return true
 			end
 
-			if getPlayerLevel(cid) < 100 then
+			if getPlayerLevel(cid) < 120 then
 				selfSayMultiLanguage(
-					"I can teach you to domain your greatest techniques. However, I can already see that you are not capable to domain it yet. Come back here when you reach level 100.",
-					"Eu posso te ensinar a dominar as suas melhores técnicas. Porém, eu já consigo perceber que você não é capaz de dominá-las ainda. Volte aqui quando alcançar o nível 100.",
+					"I can teach you to domain your greatest techniques. However, I can already see that you are not capable to domain it yet. Come back here when you reach level 120.",
+					"Eu posso te ensinar a dominar as suas melhores técnicas. Porém, eu já consigo perceber que você não é capaz de dominá-las ainda. Volte aqui quando alcançar o nível 120.",
 					cid
 				)
 				npcHandler:addFocus(cid)
@@ -76,7 +76,7 @@ function onCreatureSay(cid, type, msg)
 		return true
 	end
 
-	if (not npcHandler:isFocused(cid)) or getPlayerLevel(cid) < 100 then
+	if (not npcHandler:isFocused(cid)) or getPlayerLevel(cid) < 120 then
 		return false
 	end
 
