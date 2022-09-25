@@ -27366,6 +27366,17 @@
 		<monster name="Acidwire" x="-1" y="-1" z="9" spawntime="60" />
 		<monster name="Acidwire" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="2610" centery="3519" centerz="9" radius="1">
+		<monster name="Arrancar Hollow" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="2653" centery="3523" centerz="9" radius="1">
+		<monster name="Arrancar Hollow" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="2638" centery="3524" centerz="9" radius="1">
+		<monster name="Arrancar Hollow" x="1" y="-1" z="9" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="2299" centery="3527" centerz="9" radius="1">
 		<monster name="Acidwire" x="-1" y="-1" z="9" spawntime="60" />
 		<monster name="Acidwire" x="1" y="-1" z="9" spawntime="60" />
@@ -27373,10 +27384,16 @@
 		<monster name="Acidwire" x="-1" y="1" z="9" spawntime="60" />
 		<monster name="Acidwire" x="1" y="1" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="2598" centery="3529" centerz="9" radius="1">
+		<monster name="Arrancar Hollow" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="2231" centery="3530" centerz="9" radius="1">
 		<monster name="Acidwire" x="-1" y="-1" z="9" spawntime="60" />
 		<monster name="Acidwire" x="1" y="-1" z="9" spawntime="60" />
 		<monster name="Acidwire" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="2619" centery="3532" centerz="9" radius="1">
+		<monster name="Arrancar Hollow" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="2224" centery="3535" centerz="9" radius="1">
 		<monster name="Acidwire" x="0" y="0" z="9" spawntime="60" />
@@ -27416,10 +27433,18 @@
 		<monster name="Acidwire" x="0" y="0" z="9" spawntime="60" />
 		<monster name="Acidwire" x="1" y="1" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="2649" centery="3541" centerz="9" radius="1">
+		<monster name="Arrancar Hollow" x="1" y="-1" z="9" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="2184" centery="3542" centerz="9" radius="1">
 		<monster name="Acidwire" x="-1" y="-1" z="9" spawntime="60" />
 		<monster name="Acidwire" x="1" y="-1" z="9" spawntime="60" />
 		<monster name="Acidwire" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="2598" centery="3542" centerz="9" radius="1">
+		<monster name="Arrancar Hollow" x="1" y="-1" z="9" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="2192" centery="3547" centerz="9" radius="1">
 		<monster name="Acidwire" x="0" y="0" z="9" spawntime="60" />
@@ -27432,6 +27457,9 @@
 		<monster name="Acidwire" x="-1" y="1" z="9" spawntime="60" />
 		<monster name="Acidwire" x="1" y="1" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="2628" centery="3549" centerz="9" radius="1">
+		<monster name="Arrancar Hollow" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="2209" centery="3551" centerz="9" radius="1">
 		<monster name="Acidwire" x="-1" y="-1" z="9" spawntime="60" />
 		<monster name="Acidwire" x="1" y="-1" z="9" spawntime="60" />
@@ -27441,9 +27469,15 @@
 		<monster name="Acidwire" x="-1" y="-1" z="9" spawntime="60" />
 		<monster name="Acidwire" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="2618" centery="3554" centerz="9" radius="1">
+		<monster name="Arrancar Hollow" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="2341" centery="3556" centerz="9" radius="1">
 		<monster name="Acidwire" x="1" y="-1" z="9" spawntime="60" />
 		<monster name="Acidwire" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="2661" centery="3557" centerz="9" radius="1">
+		<monster name="Arrancar Hollow" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="2328" centery="3562" centerz="9" radius="1">
 		<monster name="Acidwire" x="-1" y="-1" z="9" spawntime="60" />
@@ -27458,6 +27492,10 @@
 		<monster name="Acidwire" x="-1" y="-1" z="9" spawntime="60" />
 		<monster name="Acidwire" x="1" y="-1" z="9" spawntime="60" />
 		<monster name="Acidwire" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="2636" centery="3567" centerz="9" radius="1">
+		<monster name="Arrancar Hollow" x="1" y="-1" z="9" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="2270" centery="3569" centerz="9" radius="1">
 		<monster name="Acidwire" x="-1" y="-1" z="9" spawntime="60" />
@@ -27476,6 +27514,10 @@
 	<spawn centerx="2288" centery="3571" centerz="9" radius="1">
 		<monster name="Acidwire" x="0" y="0" z="9" spawntime="60" />
 		<monster name="Acidwire" x="0" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="2611" centery="3572" centerz="9" radius="1">
+		<monster name="Arrancar Hollow" x="1" y="-1" z="9" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="2224" centery="3573" centerz="9" radius="1">
 		<monster name="Acidwire" x="-1" y="-1" z="9" spawntime="60" />
@@ -27499,6 +27541,9 @@
 		<monster name="Acidwire" x="1" y="-1" z="9" spawntime="60" />
 		<monster name="Acidwire" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="2627" centery="3577" centerz="9" radius="1">
+		<monster name="Arrancar Hollow" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="2185" centery="3579" centerz="9" radius="1">
 		<monster name="Acidwire" x="0" y="0" z="9" spawntime="60" />
 		<monster name="Acidwire" x="1" y="0" z="9" spawntime="60" />
@@ -27521,6 +27566,9 @@
 		<monster name="Acidwire" x="1" y="-1" z="9" spawntime="60" />
 		<monster name="Acidwire" x="0" y="0" z="9" spawntime="60" />
 		<monster name="Acidwire" x="1" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="2615" centery="3585" centerz="9" radius="1">
+		<monster name="Arrancar Hollow" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="2274" centery="3586" centerz="9" radius="1">
 		<monster name="Acidwire" x="-1" y="0" z="9" spawntime="60" />
@@ -28603,6 +28651,94 @@
 		<monster name="Jagdarmee" x="1" y="-1" z="10" spawntime="60" />
 		<monster name="Jagdarmee" x="0" y="0" z="10" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="1" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="2639" centery="3516" centerz="10" radius="1">
+		<monster name="Arrancar Hollow" x="0" y="0" z="10" spawntime="60" />
+		<monster name="Arrancar Hollow" x="1" y="1" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="2609" centery="3523" centerz="10" radius="1">
+		<monster name="Arrancar Hollow" x="1" y="-1" z="10" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="2627" centery="3524" centerz="10" radius="1">
+		<monster name="Arrancar Hollow" x="1" y="-1" z="10" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="2596" centery="3532" centerz="10" radius="1">
+		<monster name="Arrancar Hollow" x="0" y="-1" z="10" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="2645" centery="3532" centerz="10" radius="1">
+		<monster name="Arrancar Hollow" x="1" y="-1" z="10" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="2653" centery="3540" centerz="10" radius="1">
+		<monster name="Arrancar Hollow" x="1" y="-1" z="10" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="2626" centery="3547" centerz="10" radius="1">
+		<monster name="Arrancar Hollow" x="1" y="-1" z="10" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="2665" centery="3548" centerz="10" radius="1">
+		<monster name="Arrancar Hollow" x="1" y="-1" z="10" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="2645" centery="3552" centerz="10" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="10" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="2650" centery="3561" centerz="10" radius="1">
+		<monster name="Arrancar Hollow" x="1" y="-1" z="10" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="2627" centery="3564" centerz="10" radius="1">
+		<monster name="Arrancar Hollow" x="-1" y="-1" z="10" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="2634" centery="3574" centerz="10" radius="1">
+		<monster name="Arrancar Hollow" x="1" y="-1" z="10" spawntime="60" />
+		<monster name="Arrancar Hollow" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="2237" centery="3583" centerz="10" radius="1">
+		<monster name="Acidwire" x="1" y="-1" z="10" spawntime="60" />
+		<monster name="Acidwire" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="2218" centery="3591" centerz="10" radius="1">
+		<monster name="Acidwire" x="-1" y="-1" z="10" spawntime="60" />
+		<monster name="Acidwire" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="2232" centery="3593" centerz="10" radius="1">
+		<monster name="Acidwire" x="1" y="-1" z="10" spawntime="60" />
+		<monster name="Acidwire" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="2202" centery="3600" centerz="10" radius="1">
+		<monster name="Acidwire" x="0" y="-1" z="10" spawntime="60" />
+		<monster name="Acidwire" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="2187" centery="3602" centerz="10" radius="1">
+		<monster name="Acidwire" x="0" y="0" z="10" spawntime="60" />
+		<monster name="Acidwire" x="1" y="1" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="2247" centery="3602" centerz="10" radius="1">
+		<monster name="Acidwire" x="1" y="-1" z="10" spawntime="60" />
+		<monster name="Acidwire" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="2210" centery="3609" centerz="10" radius="1">
+		<monster name="Acidwire" x="1" y="-1" z="10" spawntime="60" />
+		<monster name="Acidwire" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="2226" centery="3612" centerz="10" radius="1">
+		<monster name="Acidwire" x="1" y="-1" z="10" spawntime="60" />
+		<monster name="Acidwire" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="2195" centery="3615" centerz="10" radius="1">
+		<monster name="Acidwire" x="0" y="0" z="10" spawntime="60" />
+		<monster name="Acidwire" x="1" y="1" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="2217" centery="3621" centerz="10" radius="1">
+		<monster name="Acidwire" x="1" y="-1" z="10" spawntime="60" />
+		<monster name="Acidwire" x="0" y="0" z="10" spawntime="60" />
 	</spawn>
 	<spawn centerx="3781" centery="2806" centerz="11" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="11" spawntime="60" />
