@@ -11,10 +11,10 @@ function onCastSpell(cid, var)
 
 	local target_position = getCreaturePosition(getCreatureTarget(cid))
 	doSendMagicEffect({
-		x = target_position.x,
+		x = target_position.x + 1,
 		y = target_position.y,
 		z = target_position.z
-	}, 715)
+	}, 603)
 
 	exhaustion.set(cid, 270, 2)
 	return doCombat(cid, combat, var)
