@@ -1,7 +1,9 @@
 local combat = createCombatObject()
 setCombatParam(combat, COMBAT_PARAM_HITCOLOR, COLOR_PINK)
 setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_ENERGYDAMAGE)
-setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -41.0, 0, -41.0, 0)
+onGetFormulaValues = getFiveShootsFormula
+setCombatCallback(combat, CALLBACK_PARAM_LEVELMAGICVALUE, "onGetFormulaValues")
+
 
 local combat = createCombatObject()
 setCombatParam(combat, COMBAT_PARAM_HITCOLOR, COLOR_PINK)
