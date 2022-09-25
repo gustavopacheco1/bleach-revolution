@@ -36,7 +36,7 @@
         <formula meleeDamage="15.0" distDamage="1.0" wandDamage="1.0" magDamage="1.3" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0"/>
         <skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
     </vocation>
-    <vocation id="9" name="Toshiro Histugaya" description="Toshiro Histugaya" needpremium="0" gaincap="30" gainhp="290" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="9">
+    <vocation id="9" name="Toshiro Hitsugaya" description="Toshiro Hitsugaya" needpremium="0" gaincap="30" gainhp="290" gainmana="230" gainhpticks="2" gainhpamount="100" gainmanaticks="2" gainmanaamount="100" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="9">
         <formula meleeDamage="15.0" distDamage="1.0" wandDamage="1.0" magDamage="1.0" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0"/>
         <skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
     </vocation>
