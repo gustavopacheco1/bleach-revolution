@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Monster Level: 150 -->
 <monster name="Nnoitra" nameDescription="Nnoitra" race="blood" experience="5000" speed="600" manacost="0">
-	<health now="130000" max="130000"/>
+	<health now="180000" max="180000"/>
 	<look type="104" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>

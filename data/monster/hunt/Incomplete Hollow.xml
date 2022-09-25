@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Monster Level: 200 -->
 <monster name="Incomplete Hollow" nameDescription="Incomplete Hollow" race="blood" experience="9500" speed="600" manacost="0">
-	<health now="145000" max="145000"/>
+	<health now="250000" max="250000"/>
 	<look type="463" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>

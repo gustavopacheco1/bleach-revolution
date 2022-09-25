@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Monster Level: 170 -->
 <monster name="Furie Urahara" nameDescription="Furie Urahara" race="blood" experience="6500" speed="6000" manacost="0">
-	<health now="135000" max="135000"/>
+	<health now="200000" max="200000"/>
 	<look type="257" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
