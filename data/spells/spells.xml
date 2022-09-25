@@ -256,9 +256,6 @@
 	<instant name="Minazuki" words="Minazuki" lvl="50" maglv="40" mana="500" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="4000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Unohana/Minazuki.lua">
 		<vocation id="12"/>
 	</instant>
-	<instant name="Zanjutsu 2" words="Zanjutsu 2" lvl="75" maglv="70" mana="500" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="500" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Unohana/Zanjutsu 2.lua">
-		<vocation id="12"/>
-	</instant>
 	<instant name="Zanjutsu" words="Zanjutsu" lvl="100" maglv="100" mana="500" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Unohana/Zanjutsu.lua">
 		<vocation id="12"/>
 	</instant>
@@ -267,7 +264,7 @@
 	<instant name="Kendo" words="Kendo" lvl="50" maglv="40" mana="500" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="4000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Zaraki/Kendo.lua">
 		<vocation id="7"/>
 	</instant>
-	<instant name="Ryodan" words="Ryodan" lvl="100" maglv="100" mana="500" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Zaraki/Ryodan 2.lua">
+	<instant name="Ryodan" words="Ryodan" lvl="100" maglv="100" mana="500" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Zaraki/Ryodan.lua">
 		<vocation id="7"/>
 	</instant>
 
@@ -355,7 +352,7 @@
 	<instant name="Korose" words="Korose" lvl="50" maglv="40" mana="500" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="4000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Gin/Korose.lua">
 		<vocation id="14"/>
 	</instant>
-	<instant name="Buto" words="Buto" lvl="100" maglv="100" mana="500" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Gin/Butto.lua">
+	<instant name="Buto" words="Buto" lvl="100" maglv="100" mana="500" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Gin/Buto.lua">
 		<vocation id="14"/>
 	</instant>
 
@@ -393,9 +390,6 @@
 
 	<!-- Ikkaku Madarame -->
 	<instant name="Hozukimaru" words="Hozukimaru" lvl="50" maglv="40" mana="500" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="4000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Ikkaku/Hozukimaru.lua">
-		<vocation id="19"/>
-	</instant>
-	<instant name="Hozukimaru Turn" words="Hozukimaru Turn" lvl="75" maglv="70" mana="500" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="500" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Ikkaku/Hozukimaru Turn.lua">
 		<vocation id="19"/>
 	</instant>
 	<instant name="Hozukimaru Turn Slow" words="Hozukimaru Turn Slow" lvl="100" maglv="100" mana="500" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="1000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Ikkaku/Hozukimaru Turn Slow.lua">
