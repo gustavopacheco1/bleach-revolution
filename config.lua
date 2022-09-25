@@ -107,7 +107,7 @@
 	loginProtectionPeriod = 10 * 1000
 	deathLostPercent = 10
 	stairhopDelay = 2 * 1000
-	pushCreatureDelay = 2 * 1000
+	pushCreatureDelay = 700
 	deathContainerId = 1987
 	gainExperienceColor = 215
 	addManaSpentInPvPZone = true
@@ -177,7 +177,6 @@
 		exhaustionInSecondsNPC = 0.5
 		delayLastPushStep = true
 		optionalProtection = false
-		lootChannel = 10
 
 		-- Advanced Version
 		-- Note: If you use another protocol than the one we set as you will have functional failures.
