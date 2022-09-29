@@ -1689,6 +1689,15 @@
 		<monster name="Espada" x="1" y="0" z="4" spawntime="60" />
 		<monster name="Espada" x="-1" y="1" z="4" spawntime="60" />
 	</spawn>
+	<spawn centerx="3218" centery="2907" centerz="4" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3223" centery="2909" centerz="4" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3221" centery="2914" centerz="4" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
 	<spawn centerx="2895" centery="3152" centerz="4" radius="1">
 		<monster name="Elite Urahara" x="0" y="-1" z="4" spawntime="60" />
 		<monster name="Elite Urahara" x="0" y="0" z="4" spawntime="60" />
@@ -3826,6 +3835,15 @@
 		<monster name="Espada" x="-1" y="0" z="5" spawntime="60" />
 		<monster name="Espada" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Espada" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3220" centery="2910" centerz="5" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3216" centery="2914" centerz="5" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3223" centery="2914" centerz="5" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="2892" centery="3158" centerz="5" radius="1">
 		<monster name="Elite Urahara" x="1" y="-1" z="5" spawntime="60" />
@@ -6915,6 +6933,85 @@
 		<monster name="Espada" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Espada" x="-1" y="0" z="6" spawntime="60" />
 		<monster name="Espada" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3203" centery="2874" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3188" centery="2880" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3197" centery="2882" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Grand Fisher" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Grand Fisher" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3224" centery="2886" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3208" centery="2888" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3200" centery="2890" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3214" centery="2891" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3192" centery="2895" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3200" centery="2898" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3208" centery="2900" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3215" centery="2900" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3199" centery="2908" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3227" centery="2909" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3221" centery="2911" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Grand Fisher" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3246" centery="2913" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3259" centery="2913" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3272" centery="2916" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3280" centery="2919" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3243" centery="2921" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Grand Fisher" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3229" centery="2923" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3284" centery="2925" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3244" centery="2926" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3228" centery="2932" centerz="6" radius="1">
+		<monster name="Grand Fisher" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Grand Fisher" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2870" centery="3075" centerz="6" radius="1">
 		<monster name="Hiroshi" x="0" y="0" z="6" spawntime="60" />
@@ -12631,6 +12728,124 @@
 	<spawn centerx="3831" centery="2868" centerz="7" radius="1">
 		<monster name="Arrancar Watcher" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Arrancar Watcher" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3246" centery="2871" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3253" centery="2875" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3188" centery="2880" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3245" centery="2880" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3199" centery="2881" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3205" centery="2884" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3225" centery="2887" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3233" centery="2889" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3187" centery="2890" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3247" centery="2890" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3258" centery="2890" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Grand Fisher" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3197" centery="2892" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Grand Fisher" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3216" centery="2893" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3236" centery="2895" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3213" centery="2899" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3250" centery="2899" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3196" centery="2901" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3238" centery="2901" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3222" centery="2903" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3207" centery="2904" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3248" centery="2907" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Grand Fisher" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3197" centery="2910" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3219" centery="2910" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3236" centery="2910" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3257" centery="2913" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3224" centery="2915" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Grand Fisher" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3277" centery="2915" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3233" centery="2917" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Grand Fisher" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3276" centery="2921" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3237" centery="2922" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Grand Fisher" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3261" centery="2923" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3226" centery="2925" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3247" centery="2926" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3284" centery="2926" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3232" centery="2933" centerz="7" radius="1">
+		<monster name="Grand Fisher" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2928" centery="3074" centerz="7" radius="1">
 		<monster name="Hiroshin" x="-1" y="-1" z="7" spawntime="60" />
@@ -20379,9 +20594,78 @@
 		<monster name="Arrancar Hollow" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3133" centery="2913" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3271" centery="2915" centerz="8" radius="1">
 		<monster name="Arrancar Hollow" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3172" centery="2919" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3134" centery="2930" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3165" centery="2930" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3231" centery="2932" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3146" centery="2941" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3195" centery="2941" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3175" centery="2943" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3224" centery="2945" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3210" centery="2947" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3161" centery="2951" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3188" centery="2951" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3125" centery="2953" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3167" centery="2964" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3191" centery="2966" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3176" centery="2977" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3196" centery="2982" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3159" centery="2986" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Flying Hollow" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3208" centery="2993" centerz="8" radius="1">
+		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Flying Hollow" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="2803" centery="3121" centerz="8" radius="1">
 		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
@@ -28643,6 +28927,171 @@
 		<monster name="Acidwire" x="1" y="-1" z="10" spawntime="60" />
 		<monster name="Acidwire" x="0" y="0" z="10" spawntime="60" />
 	</spawn>
+	<spawn centerx="4251" centery="2524" centerz="11" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="11" spawntime="60" />
+		<monster name="Espada" x="1" y="-1" z="11" spawntime="60" />
+		<monster name="Espada" x="1" y="1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4231" centery="2532" centerz="11" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4234" centery="2549" centerz="11" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4290" centery="2551" centerz="11" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4270" centery="2556" centerz="11" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4224" centery="2558" centerz="11" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4304" centery="2559" centerz="11" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4194" centery="2560" centerz="11" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4247" centery="2561" centerz="11" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4180" centery="2564" centerz="11" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4207" centery="2564" centerz="11" radius="1">
+		<monster name="Espada" x="1" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4137" centery="2566" centerz="11" radius="1">
+		<monster name="Espada" x="1" y="1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4275" centery="2573" centerz="11" radius="1">
+		<monster name="Espada" x="1" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4304" centery="2574" centerz="11" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4168" centery="2575" centerz="11" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4149" centery="2576" centerz="11" radius="1">
+		<monster name="Espada" x="0" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4225" centery="2576" centerz="11" radius="1">
+		<monster name="Espada" x="0" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4245" centery="2576" centerz="11" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="11" spawntime="60" />
+		<monster name="Espada" x="1" y="-1" z="11" spawntime="60" />
+		<monster name="Espada" x="-1" y="1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4116" centery="2577" centerz="11" radius="1">
+		<monster name="Espada" x="1" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4268" centery="2580" centerz="11" radius="1">
+		<monster name="Espada" x="1" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4288" centery="2581" centerz="11" radius="1">
+		<monster name="Espada" x="1" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4130" centery="2584" centerz="11" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4279" centery="2588" centerz="11" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4197" centery="2590" centerz="11" radius="1">
+		<monster name="Espada" x="1" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4222" centery="2591" centerz="11" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4265" centery="2592" centerz="11" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4163" centery="2593" centerz="11" radius="1">
+		<monster name="Espada" x="0" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4178" centery="2593" centerz="11" radius="1">
+		<monster name="Espada" x="0" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4112" centery="2594" centerz="11" radius="1">
+		<monster name="Espada" x="0" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4125" centery="2599" centerz="11" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="11" spawntime="60" />
+		<monster name="Espada" x="1" y="-1" z="11" spawntime="60" />
+		<monster name="Espada" x="-1" y="1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4205" centery="2599" centerz="11" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4230" centery="2600" centerz="11" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4246" centery="2603" centerz="11" radius="1">
+		<monster name="Espada" x="0" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4189" centery="2605" centerz="11" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4152" centery="2606" centerz="11" radius="1">
+		<monster name="Espada" x="0" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4235" centery="2611" centerz="11" radius="1">
+		<monster name="Espada" x="-1" y="1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4256" centery="2613" centerz="11" radius="1">
+		<monster name="Espada" x="0" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4128" centery="2614" centerz="11" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4198" centery="2621" centerz="11" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="11" spawntime="60" />
+		<monster name="Espada" x="1" y="-1" z="11" spawntime="60" />
+		<monster name="Espada" x="-1" y="1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4220" centery="2623" centerz="11" radius="1">
+		<monster name="Espada" x="1" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4142" centery="2628" centerz="11" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4250" centery="2629" centerz="11" radius="1">
+		<monster name="Espada" x="0" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4167" centery="2630" centerz="11" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4185" centery="2635" centerz="11" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4224" centery="2635" centerz="11" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4205" centery="2637" centerz="11" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4146" centery="2639" centerz="11" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="11" spawntime="60" />
+		<monster name="Espada" x="-1" y="1" z="11" spawntime="60" />
+		<monster name="Espada" x="1" y="1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4242" centery="2642" centerz="11" radius="1">
+		<monster name="Espada" x="0" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4167" centery="2644" centerz="11" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4153" centery="2654" centerz="11" radius="1">
+		<monster name="Espada" x="0" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="4251" centery="2662" centerz="11" radius="1">
+		<monster name="Espada" x="0" y="-1" z="11" spawntime="60" />
+		<monster name="Espada" x="-1" y="1" z="11" spawntime="60" />
+		<monster name="Espada" x="1" y="1" z="11" spawntime="60" />
+	</spawn>
 	<spawn centerx="3781" centery="2806" centerz="11" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="11" spawntime="60" />
 	</spawn>
@@ -28686,6 +29135,14 @@
 	<spawn centerx="3798" centery="2823" centerz="11" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="11" spawntime="60" />
 	</spawn>
+	<spawn centerx="4156" centery="2599" centerz="12" radius="1">
+		<monster name="Espada" x="-1" y="-1" z="12" spawntime="60" />
+		<monster name="Incomplete Arrancar" x="0" y="-1" z="12" spawntime="60" />
+		<monster name="Espada" x="1" y="-1" z="12" spawntime="60" />
+		<monster name="Incomplete Arrancar" x="-1" y="0" z="12" spawntime="60" />
+		<monster name="Espada" x="-1" y="1" z="12" spawntime="60" />
+		<monster name="Espada" x="1" y="1" z="12" spawntime="60" />
+	</spawn>
 	<spawn centerx="3807" centery="2802" centerz="12" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="12" spawntime="60" />
 	</spawn>
@@ -28724,6 +29181,17 @@
 	</spawn>
 	<spawn centerx="3808" centery="2828" centerz="12" radius="1">
 		<monster name="Incomplete Arrancar" x="0" y="0" z="12" spawntime="60" />
+	</spawn>
+	<spawn centerx="4147" centery="2593" centerz="13" radius="1">
+		<monster name="Incomplete Arrancar" x="-1" y="-1" z="13" spawntime="60" />
+		<monster name="Incomplete Arrancar" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Incomplete Arrancar" x="-1" y="0" z="13" spawntime="60" />
+		<monster name="Incomplete Arrancar" x="-1" y="1" z="13" spawntime="60" />
+		<monster name="Incomplete Arrancar" x="1" y="1" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="4155" centery="2605" centerz="13" radius="1">
+		<monster name="Incomplete Arrancar" x="-1" y="-1" z="13" spawntime="60" />
+		<monster name="Incomplete Arrancar" x="1" y="-1" z="13" spawntime="60" />
 	</spawn>
 	<spawn centerx="3122" centery="2696" centerz="13" radius="1">
 		<monster name="Gray Hollow" x="1" y="-1" z="13" spawntime="60" />
