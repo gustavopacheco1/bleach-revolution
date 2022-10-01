@@ -159,12 +159,12 @@ local questChests = {
 	},
 
 	[50030] = {
-		storage = "fake_zaraki_quest",
+		storage = "zaraki_quest",
 		-- Zaraki Ring
 		items = { 15790 }
 	},
 	[50031] = {
-		storage = "fake_zaraki_quest",
+		storage = "zaraki_quest",
 		-- Shidoh Shield
 		items = { 15060 }
 	},

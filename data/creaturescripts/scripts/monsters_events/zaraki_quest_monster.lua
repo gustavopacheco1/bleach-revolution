@@ -1,38 +1,31 @@
-local waves = {
-	["Super Zaraki"] = {
-		prewave_monsters_amount = 15,
-		next_wave = "Master Zaraki"
-	},
-	["Master Zaraki"] = {
-		prewave_monsters_amount = 30,
-		next_wave = "Master Zaraki"
-	},
-	["Perfect Zaraki"] = {
-		prewave_monsters_amount = 45,
-		next_wave = "Master Zaraki"
-	},
-	["Ultimate Zaraki"] = {
-		prewave_monsters_amount = 60,
-		teleport_to = { x = 2648, y = 3896, z = 8 }
-	},
+-- Bosses according to storage
+local bosses = {
+	[0] = "Super Zaraki",
+	[1] = "Master Zaraki",
+	[2] = "Perfect Zaraki",
+	[3] = "Ultimate Zaraki",
 }
 
--- TODO:
 function onDeath(cid, corpse, deathList)
-	local wave = waves[getCreatureName(cid)]
+	local boss_name = bosses[getCreatureStorage(cid, "wave")]
 
-	if not wave then
-		-- Normal Zaraki wave monsters
-		local monsters_amount = #getCreaturesInRange(
-			{ x = 3687, y = 3305, z = 10 },
-			{ x = 3725, y = 3325, z = 10 },
-			"Zaraki"
-		)
-
-		if monsters_amount > 1 then
-			return true
-		end
+	if not boss_name then
+		error("Boss name not found (" .. getCreatureName(cid) .. ") (" .. getCreatureStorage(cid, "wave") .. ")")
+		return true
 	end
 
+	local monsters_amount = #getCreaturesInRange(
+		{ x = 2674, y = 3888, z = 8 },
+		{ x = 2698, y = 3910, z = 8 },
+		"Zaraki"
+	)
+
+	if monsters_amount > 1 then
+		return true
+	end
+
+	-- Spawn in the center of the room
+	local boss = doCreateMonster(boss_name, { x = 2684, y = 3898, z = 8 }, false, true)
+	registerCreatureEvent(boss, "ZarakiQuestBoss")
 	return true
 end

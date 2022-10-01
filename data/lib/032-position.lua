@@ -84,6 +84,22 @@ function getArea(position, x, y)
 	return t
 end
 
+function isWalkable(pos, creature, proj)
+	if getTileThingByPos({ x = pos.x, y = pos.y, z = pos.z, stackpos = 0 }).itemid == 0 then return false end
+	if getTopCreature(pos).uid > 0 and creature then return false end
+	local n = not proj and 3 or 2
+	for i = 0, 255 do
+		pos.stackpos = i
+		local tile = getTileThingByPos(pos)
+		if tile.itemid ~= 0 and not isCreature(tile.uid) then
+			if hasProperty(tile.uid, n) or hasProperty(tile.uid, 7) then
+				return false
+			end
+		end
+	end
+	return true
+end
+
 function Position(x, y, z, stackpos)
 	local position = { x = 0, y = 0, z = 0 }
 	if (isNumeric(x .. y .. z)) then
@@ -143,4 +159,23 @@ function doRemoveCreaturesInRange(fromPosition, toPosition, name)
 	for _, creature in ipairs(getCreaturesInRange(fromPosition, toPosition, name)) do
 		doRemoveCreature(creature)
 	end
+end
+
+function doCreateMonstersInRange(name, amount, fromPosition, toPosition)
+	local monsters = {}
+
+	while #monsters < amount do
+		local position = {
+			x = math.random(fromPosition.x, toPosition.x),
+			y = math.random(fromPosition.y, toPosition.y),
+			z = fromPosition.z,
+		}
+
+		if isWalkable(position, true, true) then
+			local monster = doCreateMonster(name, position, false, true)
+			table.insert(monsters, monster)
+		end
+	end
+
+	return monsters
 end

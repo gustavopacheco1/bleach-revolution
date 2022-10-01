@@ -21,11 +21,8 @@
 	<attacks>
 		<attack name="melee" interval="1500" min="-12000" max="-12500"/>
 		<attack name="kendo" interval="3000" min="-5000" max="-5500"/>
-	    <attack name="cero" interval="2000" min="-7000" max="-7500"/>
+		<attack name="cero" interval="2000" min="-7000" max="-7500"/>
 		<attack name="Oscuras Wave" interval="5000" min="-12000" max="-12500"/>
-
-
-
 	</attacks>
 	<defenses armor="0" defense="0"/>
 	<immunities>
@@ -38,7 +35,4 @@
 		<immunity outfit="1"/>
 		<immunity invisible="0"/>
 	</immunities>
-	<script>
-		<event name="MonsterTeleportOnDeath"/>
-	</script>
 </monster>
