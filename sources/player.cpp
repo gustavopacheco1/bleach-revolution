@@ -886,7 +886,7 @@ bool Player::canSeeCreature(const Creature *creature) const
 		return true;
 
 	if (const Player *player = creature->getPlayer())
-		return !player->isGhost() || getGhostAccess() >= player->getGhostAccess();
+		return !player->isGhost();
 
 	return !creature->isInvisible() || canSeeInvisibility();
 }
@@ -904,7 +904,7 @@ bool Player::canWalkthrough(const Creature *creature) const
 	if (((g_game.getWorldType(this, player) == WORLDTYPE_OPTIONAL && !player->isEnemy(this, true) && !player->isProtected()) || player->getTile()->hasFlag(TILESTATE_PROTECTIONZONE) || player->isProtected()) && player->getTile()->ground && Item::items[player->getTile()->ground->getID()].walkStack && (!player->hasCustomFlag(PlayerCustomFlag_GamemasterPrivileges) || player->getAccess() <= getAccess()))
 		return true;
 
-	return (player->isGhost() && getGhostAccess() < player->getGhostAccess()) || (isGhost() && getGhostAccess() > player->getGhostAccess());
+	return (player->isGhost() || isGhost());
 }
 
 void Player::setWalkthrough(const Creature *creature, bool walkthrough)
@@ -1311,7 +1311,7 @@ void Player::sendCreatureChangeVisible(const Creature *creature, Visible_t visib
 		return;
 
 	const Player *player = creature->getPlayer();
-	if (player == this || (player && (visible < VISIBLE_GHOST_APPEAR || getGhostAccess() >= player->getGhostAccess())) || (!player && canSeeInvisibility()))
+	if (player == this || (!player && canSeeInvisibility()))
 		sendCreatureChangeOutfit(creature, creature->getCurrentOutfit());
 	else if (visible == VISIBLE_DISAPPEAR || visible == VISIBLE_GHOST_DISAPPEAR)
 		sendCreatureDisappear(creature, creature->getTile()->getClientIndexOfThing(this, creature));
