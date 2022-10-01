@@ -2218,6 +2218,9 @@ uint64_t Game::getMoney(const Cylinder *cylinder)
 		}
 	}
 
+	if (const Player *player = dynamic_cast<const Player *>(cylinder))
+		moneyCount += player->balance;
+
 	return moneyCount;
 }
 
@@ -2270,6 +2273,11 @@ bool Game::removeMoney(Cylinder *cylinder, int64_t money, uint32_t flags /*= 0*/
 		}
 	}
 
+	Player *player = dynamic_cast<Player *>(cylinder);
+
+	if (player)
+		moneyCount += player->balance;
+
 	// Not enough money
 	if (moneyCount < money)
 		return false;
@@ -2306,6 +2314,29 @@ bool Game::removeMoney(Cylinder *cylinder, int64_t money, uint32_t flags /*= 0*/
 	}
 
 	moneyMap.clear();
+
+	if (money > 0 && player && (int32_t)player->balance >= money)
+	{
+		player->balance -= money;
+
+		std::stringstream msg;
+		std::string languageStorage;
+
+		player->getStorage("language", languageStorage);
+
+		if (languageStorage == "en")
+		{
+			msg << "Paid " << money << " ryo from bank account. Now your balance is " << player->balance << " ryo.";
+		}
+		else
+		{
+			msg << "Foi pago " << money << " ryo da conta do banco. Agora o seu saldo bancário é " << player->balance << " ryo.";
+		}
+
+		player->sendTextMessage(MSG_INFO_DESCR, msg.str());
+		return true;
+	}
+
 	return !money;
 }
 
