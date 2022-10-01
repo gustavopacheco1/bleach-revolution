@@ -350,6 +350,8 @@
 	<movevent type="DeEquip" fromid="10218" toid="10221" slot="necklace" event="function" value="onDeEquipItem"/>
 	<movevent type="Equip" itemid="11374" slot="necklace" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="11374" slot="necklace" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="15129" slot="necklace" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="15129" slot="necklace" event="function" value="onDeEquipItem"/>
 
 	<!-- Rings -->
 	<movevent type="Equip" itemid="2164" slot="ring" event="function" value="onEquipItem"/>

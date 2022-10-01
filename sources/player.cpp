@@ -818,7 +818,7 @@ void Player::dropLoot(Container *corpse)
 			continue;
 
 		uint32_t tmp = random_range(1, 100);
-		if (skull > SKULL_WHITE || (item->getContainer() && tmp < loss) || (!item->getContainer() && tmp < itemLoss))
+		if ((item->getContainer() && tmp < loss) || (!item->getContainer() && tmp < itemLoss))
 		{
 			g_game.internalMoveItem(NULL, this, corpse, INDEX_WHEREEVER, item, item->getItemCount(), 0);
 			sendRemoveInventoryItem((slots_t)i, inventory[(slots_t)i]);
@@ -2412,7 +2412,7 @@ bool Player::onDeath()
 		setDropLoot(LOOT_DROP_NONE);
 		setLossSkill(false);
 	}
-	else if (skull < SKULL_RED)
+	else
 	{
 		Item *item = NULL;
 		for (int32_t i = SLOT_FIRST; ((!preventDrop || !preventLoss) && i < SLOT_LAST); ++i)
@@ -2541,39 +2541,8 @@ bool Player::onDeath()
 			blessings = 0;
 
 		loginPosition = masterPosition;
-		if (vocationId > VOCATION_NONE && g_config.getBool(ConfigManager::ROOK_SYSTEM) &&
-			level <= (uint32_t)g_config.getNumber(ConfigManager::ROOK_LEVELTO))
-		{
-			if (Town *rook = Towns::getInstance()->getTown(g_config.getNumber(ConfigManager::ROOK_TOWN)))
-			{
-				level = 1;
-				soulMax = soul = 100;
-				capacity = 400;
-				stamina = STAMINA_MAX;
-				health = healthMax = 150;
-				loginPosition = masterPosition = rook->getPosition();
-				experience = magLevel = manaSpent = mana = manaMax = balance = marriage = 0;
-				promotionLevel = defaultOutfit.lookAddons = 0;
 
-				setTown(rook->getID());
-				setVocation(0);
-				leaveGuild();
-
-				storageMap.clear();
-				for (uint32_t i = SKILL_FIRST; i <= SKILL_LAST; ++i)
-				{
-					skills[i][SKILL_LEVEL] = 10;
-					skills[i][SKILL_TRIES] = 0;
-				}
-
-				for (uint32_t i = SLOT_FIRST; i < SLOT_LAST; ++i)
-				{
-					if (inventory[i])
-						g_game.internalRemoveItem(NULL, inventory[i]);
-				}
-			}
-		}
-		else if (!inventory[SLOT_BACKPACK]) // FIXME: you should receive the bag after you login back...
+		if (!inventory[SLOT_BACKPACK]) // FIXME: you should receive the bag after you login back...
 			__internalAddThing(SLOT_BACKPACK, Item::CreateItem(g_config.getNumber(ConfigManager::DEATH_CONTAINER)));
 
 		sendIcons();
@@ -2582,7 +2551,6 @@ bool Player::onDeath()
 
 		g_creatureEvents->playerLogout(this, true);
 		g_game.removeCreature(this, false);
-		sendReLoginWindow();
 	}
 	else
 	{
@@ -2593,7 +2561,6 @@ bool Player::onDeath()
 			g_creatureEvents->playerLogout(this, true);
 
 			g_game.removeCreature(this, false);
-			sendReLoginWindow();
 		}
 	}
 

@@ -55,10 +55,10 @@
 	fragsThirdLimit = 55 * 55 * 60 * 60
 
 	-- Red Skull Config
-	fragsToRedSkull = 30
-	fragsSecondToRedSkull = 50
-	fragsThirdToRedSkull = 55
-	redSkullLength = 30 * 50 * 55 * 60
+	fragsToRedSkull = 6
+	fragsSecondToRedSkull = 999999
+	fragsThirdToRedSkull = 999999
+	redSkullLength = 3 * 24 * 60 * 60
 
 	-- Black Skull Config
 	fragsToBlackSkull = 30
@@ -84,7 +84,7 @@
 
 	-- Battle
 	-- NOTE: showHealth/ManaChangeForMonsters inherites from showHealth/ManaChange.
-	protectionLevel = 150
+	protectionLevel = 40
 	pvpTileIgnoreLevelAndVocationProtection = true
 	pzLocked = 60 * 1000
 	pzlockOnAttackSkulledPlayers = false
@@ -139,7 +139,7 @@
 		rookLevelTo = 5
 		rookLevelToLeaveRook = 8
 		rookTownId = 1
-		useRookSystem = true
+		useRookSystem = false
 
 		-- Monsters Attack Config
 		-- set monsterAttacksOnlyDamagePlayers to false if you want monster's attacks to damage other nearby monsters
@@ -219,7 +219,7 @@
 		deathAssistCount = 20
 		-- Blessings
 		blessings = true
-		blessingOnlyPremium = true
+		blessingOnlyPremium = false
 		blessingReductionBase = 30
 		blessingReductionDecrement = 5
 		eachBlessReduction = 8

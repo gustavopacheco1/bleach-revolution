@@ -13,7 +13,6 @@ function onThink() npcHandler:onThink() end
 function onThink() npcHandler:onThinkCreatureSay() end
 
 local talkState = {}
-local blessings = { 1, 2, 3, 4, 5 }
 local price = 50000
 
 function onCreatureSay(cid, type, msg)
@@ -80,7 +79,7 @@ function onCreatureSay(cid, type, msg)
 
 		talkState[talkUser] = nil
 
-		for i = 1, #blessings do
+		for i = 1, 5 do
 			doPlayerAddBlessing(cid, i)
 		end
 
