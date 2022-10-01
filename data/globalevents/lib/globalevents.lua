@@ -1,8 +1,8 @@
 local legendary_bosses = {
-	{ name = "Legendary Vizard", position = { x = 4041, y = 2678, z = 9 } },
+	{ name = "Legendary Vizard", position = { x = 2608, y = 3550, z = 10 } },
 	{ name = "Legendary Nnoitra", position = { x = 4240, y = 3991, z = 9 } },
 	{ name = "Legendary Zangetsu", position = { x = 3609, y = 4083, z = 4 } },
-	{ name = "Legendary Kaname", position = { x = 4133, y = 2681, z = 4 } },
+	{ name = "Legendary Kaname", position = { x = 2218, y = 3635, z = 10 } },
 }
 
 function doCreateLegendaryBoss()
