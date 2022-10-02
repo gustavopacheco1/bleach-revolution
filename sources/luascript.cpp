@@ -5567,10 +5567,10 @@ int32_t LuaInterface::luaDoCreateNpc(lua_State *L)
 	// doCreateNpc(name, pos[extend = false[, force = false]])
 	bool force = false, extend = false;
 	int32_t params = lua_gettop(L);
-	if(params > 3)
+	if (params > 3)
 		force = popBoolean(L);
 
-	if(params > 2)
+	if (params > 2)
 		extend = popBoolean(L);
 
 	PositionEx pos;
@@ -5647,17 +5647,20 @@ int32_t LuaInterface::luaDoPlayerAddMoney(lua_State *L)
 
 int32_t LuaInterface::luaDoPlayerRemoveMoney(lua_State *L)
 {
-	// doPlayerRemoveMoney(cid, money [, canDrop = true])
-	bool canDrop = true;
+	// doPlayerRemoveMoney(cid, money [, canDrop = true, ignoreBank = false])
+	bool canDrop = true, ignoreBank = false;
 
 	if (lua_gettop(L) > 2)
 		canDrop = popBoolean(L);
+
+	if (lua_gettop(L) > 3)
+		ignoreBank = popBoolean(L);
 
 	uint64_t money = popNumber(L);
 
 	ScriptEnviroment *env = getEnv();
 	if (Player *player = env->getPlayerByUID(popNumber(L)))
-		lua_pushboolean(L, g_game.removeMoney(player, money, 0, canDrop));
+		lua_pushboolean(L, g_game.removeMoney(player, money, 0, canDrop, ignoreBank));
 	else
 	{
 		errorEx(getError(LUA_ERROR_PLAYER_NOT_FOUND));

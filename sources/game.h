@@ -439,7 +439,7 @@ public:
 	 * \param canDrop optional canDrop to modify default behavior
 	 * \returns true if the removal was successful
 	 */
-	bool removeMoney(Cylinder *cylinder, int64_t money, uint32_t flags = 0, bool canDrop = true);
+	bool removeMoney(Cylinder *cylinder, int64_t money, uint32_t flags = 0, bool canDrop = true, bool ignoreBank = false);
 
 	/**
 	 * Add item(s) with monetary value

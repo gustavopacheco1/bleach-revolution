@@ -2224,7 +2224,7 @@ uint64_t Game::getMoney(const Cylinder *cylinder)
 	return moneyCount;
 }
 
-bool Game::removeMoney(Cylinder *cylinder, int64_t money, uint32_t flags /*= 0*/, bool canDrop /*= true*/)
+bool Game::removeMoney(Cylinder *cylinder, int64_t money, uint32_t flags /*= 0*/, bool canDrop /*= true*/, bool ignoreBank /*= false*/)
 {
 	if (!cylinder)
 		return false;
@@ -2273,10 +2273,15 @@ bool Game::removeMoney(Cylinder *cylinder, int64_t money, uint32_t flags /*= 0*/
 		}
 	}
 
-	Player *player = dynamic_cast<Player *>(cylinder);
+	Player *player;
 
-	if (player)
-		moneyCount += player->balance;
+	if (!ignoreBank)
+	{
+		player = dynamic_cast<Player *>(cylinder);
+
+		if (player)
+			moneyCount += player->balance;
+	}
 
 	// Not enough money
 	if (moneyCount < money)
@@ -2315,7 +2320,7 @@ bool Game::removeMoney(Cylinder *cylinder, int64_t money, uint32_t flags /*= 0*/
 
 	moneyMap.clear();
 
-	if (money > 0 && player && (int32_t)player->balance >= money)
+	if (!ignoreBank && money > 0 && player && (int32_t)player->balance >= money)
 	{
 		player->balance -= money;
 
