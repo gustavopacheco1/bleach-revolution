@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Boss Quest Level: 200 -->
 <monster name="Perfect Zaraki" nameDescription="Perfect Zaraki" race="blood" experience="0" speed="530" manacost="0">
-	<health now="1400000" max="1400000"/>
+	<health now="1800000" max="1800000"/>
 	<look type="315" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
@@ -19,10 +19,10 @@
 		<flag runonhealth="0"/>
 	</flags>
 	<attacks>
-		<attack name="melee" interval="1500" min="-12000" max="-12500"/>
-		<attack name="kendo" interval="3000" min="-5000" max="-5500"/>
-		<attack name="cero" interval="2000" min="-7000" max="-7500"/>
-		<attack name="Oscuras Wave" interval="5000" min="-12000" max="-12500"/>
+		<attack name="melee" interval="1500" min="-5000" max="-5500"/>
+		<attack name="kendo" interval="2000" min="-1000" max="-1500"/>
+		<attack name="cero" interval="5000" min="-7000" max="-7500"/>
+		<attack name="Oscuras Wave" interval="7000" min="-12000" max="-12500"/>
 	</attacks>
 	<defenses armor="0" defense="0"/>
 	<immunities>

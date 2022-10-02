@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Monster Quest Level: 200 -->
 <monster name="Zaraki" nameDescription="Zaraki" race="blood" experience="0" speed="530" manacost="0">
-	<health now="10000" max="10000"/>
+	<health now="200000" max="200000"/>
 	<look type="311" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
@@ -20,8 +20,8 @@
 		<flag lootmessage="0"/>
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="-5000" max="-5500"/>
-		<attack name="cero" interval="2000" min="-2000" max="-2500"/>
+		<attack name="melee" interval="2000" min="-1000" max="-1500"/>
+		<attack name="cero" interval="5000" min="-3000" max="-3100"/>
 	</attacks>
 	<defenses armor="0" defense="0"/>
 	<immunities>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <monster name="Master Zaraki" nameDescription="Master Zaraki" race="blood" experience="0" speed="530" manacost="0">
-	<health now="100000" max="100000"/>
+	<health now="1500000" max="1500000"/>
 	<look type="314" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
@@ -19,9 +19,9 @@
 		<flag lootmessage="0"/>
 	</flags>
 	<attacks>
-		<attack name="melee" interval="1700" min="-10000" max="-10500"/>
+		<attack name="melee" interval="1500" min="-10000" max="-10500"/>
 		<attack name="Kendo" interval="6000" min="-3000" max="-3500"/>
-		<attack name="cero" interval="1700" min="-4000" max="-4500"/>
+		<attack name="cero" interval="1500" min="-5000" max="-5100"/>
 	</attacks>
 	<defenses armor="0" defense="0"/>
 	<immunities>

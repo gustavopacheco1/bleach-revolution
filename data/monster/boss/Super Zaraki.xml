@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <monster name="Super Zaraki" nameDescription="Super Zaraki" race="blood" experience="0" speed="530" manacost="0">
-	<health now="50000" max="50000"/>
+	<health now="1300000" max="1300000"/>
 	<look type="312" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
@@ -19,8 +19,8 @@
 		<flag lootmessage="0"/>
 	</flags>
 	<attacks>
-		<attack name="melee" interval="1700" min="-10000" max="-10500"/>
-		<attack name="cero" interval="2000" min="-4000" max="-4500"/>
+		<attack name="melee" interval="1000" min="-10000" max="-10500"/>
+		<attack name="cero" interval="1500" min="-8000" max="-8500"/>
 	</attacks>
 	<defenses armor="0" defense="0"/>
 	<immunities>
