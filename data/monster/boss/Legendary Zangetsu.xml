@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Boss Drop Level: 220 -->
 <monster name="Legendary Zangetsu" nameDescription="Legendary Zangetsu" race="blood" experience="0" speed="900" manacost="0">
 	<health now="2000000" max="2000000"/>
 	<look type="169" corpse="16330"/>

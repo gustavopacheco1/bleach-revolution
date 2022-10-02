@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Boss Drop Level: 275 -->
+<!-- Boss Drop Level: 200 -->
 <monster name="Legendary Nnoitra" nameDescription="Legendary Nnoitra" race="blood" experience="0" speed="800" manacost="0">
 	<health now="2000000" max="2000000"/>
 	<look type="337" corpse="16330"/>

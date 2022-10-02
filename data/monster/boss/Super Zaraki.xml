@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Boss Quest Level: 200 -->
 <monster name="Super Zaraki" nameDescription="Super Zaraki" race="blood" experience="0" speed="530" manacost="0">
 	<health now="1300000" max="1300000"/>
 	<look type="312" corpse="16330"/>

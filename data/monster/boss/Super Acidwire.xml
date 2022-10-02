@@ -19,7 +19,9 @@
 		<flag runonhealth="0"/>
 	</flags>
 	<attacks>
-		<attack name="melee" interval="1500" min="-17000" max="-17500"/>
+		<attack name="melee" interval="2000" min="-5000" max="-5500"/>
+		<attack name="cero" interval="2000" min="-7000" max="-7500"/>
+		<attack name="kendo" interval="1000" min="-1000" max="-1500"/>
 	</attacks>
 	<defenses armor="0" defense="0"/>
 	<immunities>
