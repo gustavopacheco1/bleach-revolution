@@ -14,67 +14,6 @@ function onCreatureSay(cid, type, msg) npcHandler:onCreatureSay(cid, type, msg) 
 
 function onThink() npcHandler:onThinkCreatureSay() end
 
-if (not getPlayerBalance) then
-	getPlayerBalance = function(cid)
-		local result = db.getResult("SELECT `balance` FROM `players` WHERE `id` = " .. getPlayerGUID(cid))
-		if (result:getID() == -1) then
-			return false
-		end
-
-		local value = tonumber(result:getDataString("balance"))
-		result:free()
-		return value
-	end
-
-	doPlayerSetBalance = function(cid, balance)
-		db.executeQuery("UPDATE `players` SET `balance` = " .. balance .. " WHERE `id` = " .. getPlayerGUID(cid))
-		return true
-	end
-
-	doPlayerWithdrawMoney = function(cid, amount)
-		local balance = getPlayerBalance(cid)
-		if (amount > balance or not doPlayerAddMoney(cid, amount)) then
-			return false
-		end
-
-		doPlayerSetBalance(cid, balance - amount)
-		return true
-	end
-
-	doPlayerDepositMoney = function(cid, amount)
-		if (not doPlayerRemoveMoney(cid, amount, true)) then
-			return false
-		end
-
-		doPlayerSetBalance(cid, getPlayerBalance(cid) + amount)
-		return true
-	end
-
-	doPlayerTransferMoneyTo = function(cid, target, amount)
-		local balance = getPlayerBalance(cid)
-		if (amount > balance) then
-			return false
-		end
-
-		local tid = getPlayerByName(target)
-		if (tid > 0) then
-			doPlayerSetBalance(tid, getPlayerBalance(tid) + amount)
-		else
-			if (playerExists(target) == false) then
-				return false
-			end
-
-			db.executeQuery("UPDATE `player_storage` SET `value` = `value` + '" ..
-				amount ..
-				"' WHERE `player_id` = (SELECT `id` FROM `players` WHERE `name` = '" ..
-				escapeString(player) .. "') AND `key` = '" .. balance_storage .. "'")
-		end
-
-		doPlayerSetBalance(cid, getPlayerBalance(cid) - amount)
-		return true
-	end
-end
-
 local function isValidMoney(money)
 	return (isNumber(money) and money > 0 and money < 4294967296)
 end
@@ -149,19 +88,35 @@ function onCreatureSay(cid, type, msg)
 	-- Deposit
 	if isInArray({ "deposit all", "depositar tudo" }, msg) and getPlayerMoney(cid) > 0 then
 		count[cid] = getPlayerMoney(cid) - getPlayerBalance(cid)
+
+		if count[cid] < 1 then
+			selfSayMultiLanguage(
+				"You don't have any money to deposit in you inventory.",
+				"Você não tem dinheiro no seu inventário.",
+				cid
+			)
+
+			talkState[cid] = nil
+			count[cid] = nil
+			return true
+		end
+
 		if not isValidMoney(count[cid]) then
-			selfSay("Sorry, but you can't deposit that much.", cid)
+			selfSayMultiLanguage(
+				"Sorry, but you can't deposit that much money.",
+				"Desculpe, mas você não pode depositar tanto dinheiro..",
+				cid
+			)
 			talkState[cid] = 0
 			return false
 		end
 
-		if count[cid] < 1 then
-			selfSay("You don't have any money to deposit in you inventory..", cid)
-			talkState[cid] = 0
-		else
-			selfSay("Would you really like to deposit " .. count[cid] .. " gold?", cid)
-			talkState[cid] = 2
-		end
+		selfSayMultiLanguage(
+			"Do you really want to deposit " .. count[cid] .. " ryo?",
+			"Você realmente deseja depositar " .. count[cid] .. " ryo?",
+			cid
+		)
+		talkState[cid] = 2
 		return true
 	end
 
@@ -192,8 +147,8 @@ function onCreatureSay(cid, type, msg)
 		if isInArray({ "yes", "sim" }, msg) then
 			if not doPlayerDepositMoney(cid, count[cid]) then
 				selfSayMultiLanguage(
-					"You don\'t have enough gold.",
-					"Você não tem ryo suficiente",
+					"You don\'t have enough money.",
+					"Você não tem dinheiro suficiente",
 					cid
 				)
 				talkState[cid] = 0

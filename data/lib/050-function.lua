@@ -84,7 +84,7 @@ function doPlayerDepositMoney(cid, amount)
 		return false
 	end
 
-	if (not doPlayerRemoveMoney(cid, amount)) then
+	if (not doPlayerRemoveMoney(cid, amount, true, true)) then
 		return false
 	end
 

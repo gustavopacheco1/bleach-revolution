@@ -1837,7 +1837,7 @@ void LuaInterface::registerFunctions()
 	// doPlayerAddMoney(cid, money)
 	lua_register(m_luaState, "doPlayerAddMoney", LuaInterface::luaDoPlayerAddMoney);
 
-	// doPlayerRemoveMoney(cid, money [, canDrop = true])
+	// doPlayerRemoveMoney(cid, money [, canDrop = true, ignoreBank = false])
 	lua_register(m_luaState, "doPlayerRemoveMoney", LuaInterface::luaDoPlayerRemoveMoney);
 
 	// doPlayerTransferMoneyTo(cid, target, money)
@@ -5649,12 +5649,13 @@ int32_t LuaInterface::luaDoPlayerRemoveMoney(lua_State *L)
 {
 	// doPlayerRemoveMoney(cid, money [, canDrop = true, ignoreBank = false])
 	bool canDrop = true, ignoreBank = false;
+	int32_t params = lua_gettop(L);
 
-	if (lua_gettop(L) > 2)
-		canDrop = popBoolean(L);
-
-	if (lua_gettop(L) > 3)
+	if (params > 3)
 		ignoreBank = popBoolean(L);
+
+	if (params > 2)
+		canDrop = popBoolean(L);
 
 	uint64_t money = popNumber(L);
 
