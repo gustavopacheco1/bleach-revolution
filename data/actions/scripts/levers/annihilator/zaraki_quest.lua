@@ -1,4 +1,4 @@
-local minutes_to_complete = 3
+local minutes_to_complete = 60
 
 local tile_position = { x = 2770, y = 3907, z = 8 }
 
@@ -28,7 +28,7 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 			cid,
 			MESSAGE_INFO_DESCR,
 			"You've already done this quest.",
-			"Você já fez esta quest."
+			"Você já fez essa quest."
 		)
 	end
 
@@ -36,20 +36,27 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 		return MultiLanguage.doPlayerSendTextMessage(
 			cid,
 			MESSAGE_INFO_DESCR,
-			"There's already people doing this quest.",
-			"Já há pessoas fazendo esta quest."
+			"There's already someone doing this quest.",
+			"Já há alguem fazendo essa quest."
 		)
 	end
 
+	-- Create monsters
+	doRemoveCreaturesInRange(area_positions.room.top_left, area_positions.room.bottom_right)
+	local monsters = doCreateMonstersInRange("Zaraki", 15, area_positions.room.top_left, area_positions.room.bottom_right)
+	for _, monster in ipairs(monsters) do
+		registerCreatureEvent(monster, "ZarakiQuestMonster")
+	end
+
+	-- Teleport player
 	doTeleportThing(cid, area_positions.room.entry)
 	doSendMagicEffect(area_positions.room.entry, CONST_ME_TELEPORT)
 	MultiLanguage.doPlayerSendTextMessage(
 		cid,
 		MESSAGE_EVENT_ADVANCE,
-		"Your team has " .. minutes_to_complete .. " minutes to deal with this challenge.",
-		"O seu time tem " .. minutes_to_complete .. " minutos para lidar com este desafio."
+		"You have " .. minutes_to_complete .. " minutes to deal with this challenge.",
+		"Você tem " .. minutes_to_complete .. " minutos para lidar com este desafio."
 	)
-
 	addEvent(function()
 		if not isCreature(cid) then
 			return
@@ -64,19 +71,6 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 			doSendMagicEffect(area_positions.initial, CONST_ME_TELEPORT)
 		end
 	end, minutes_to_complete * 60 * 1000)
-
-	local monsters = doCreateMonstersInRange("Zaraki", 15, area_positions.room.top_left, area_positions.room.bottom_right)
-	for _, monster in ipairs(monsters) do
-		registerCreatureEvent(monster, "ZarakiQuestMonster")
-	end
-
-	addEvent(
-		doRemoveCreaturesInRange,
-		minutes_to_complete * 60 * 1000,
-		area_positions.room.top_left,
-		area_positions.room.bottom_right,
-		nil
-	)
 
 	doTransformItem(item.uid, 1946)
 	return true
