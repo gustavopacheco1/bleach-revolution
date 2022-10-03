@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <stages>
-<config enabled="1"/>
-<stage minlevel="1"       maxlevel="50"       multiplier="10"/>
-<stage minlevel="51"      maxlevel="60"       multiplier="9"/>
-<stage minlevel="61"      maxlevel="70"       multiplier="8"/>
-<stage minlevel="71"      maxlevel="80"       multiplier="7"/>
-<stage minlevel="81"      maxlevel="90"       multiplier="6"/>
-<stage minlevel="91"      maxlevel="100"      multiplier="5"/>
-<stage minlevel="101"     maxlevel="150"      multiplier="4"/>
-<stage minlevel="151"     maxlevel="200"      multiplier="3"/>
-<stage minlevel="201"     maxlevel="250"      multiplier="3"/>
-<stage minlevel="251"     maxlevel="300"      multiplier="2"/>
-<stage minlevel="301"     maxlevel="350"      multiplier="1"/>
-<stage minlevel="351"     maxlevel="400"      multiplier="0.5"/>
-<stage minlevel="401"     maxlevel="450"      multiplier="0.4"/>
-<stage minlevel="451"     maxlevel="500"      multiplier="0.3"/>
-<stage minlevel="501"     maxlevel="550"      multiplier="0.2"/>
-<stage minlevel="551"     maxlevel="600"      multiplier="0.1"/>
-<stage minlevel="601"     maxlevel="1000"      multiplier="0.1"/>
+	<world id="0" multiplier="1">
+		<stage minlevel="1" maxlevel="50" multiplier="10"/>
+		<stage minlevel="51" maxlevel="60" multiplier="9"/>
+		<stage minlevel="61" maxlevel="70" multiplier="8"/>
+		<stage minlevel="71" maxlevel="80" multiplier="7"/>
+		<stage minlevel="81" maxlevel="90" multiplier="6"/>
+		<stage minlevel="91" maxlevel="100" multiplier="5"/>
+		<stage minlevel="101" maxlevel="150" multiplier="4"/>
+		<stage minlevel="151" maxlevel="250" multiplier="3"/>
+		<stage minlevel="251" maxlevel="300" multiplier="2"/>
+		<stage minlevel="301" maxlevel="350" multiplier="1"/>
+		<stage minlevel="351" maxlevel="400" multiplier="0.5"/>
+		<stage minlevel="401" maxlevel="450" multiplier="0.4"/>
+		<stage minlevel="451" maxlevel="500" multiplier="0.3"/>
+		<stage minlevel="501" maxlevel="550" multiplier="0.2"/>
+		<stage minlevel="551" multiplier="0.1"/>
+	</world>
 </stages>
