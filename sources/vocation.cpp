@@ -525,7 +525,7 @@ uint64_t Vocation::getReqSkillTries(int32_t skill, int32_t level)
 	if (it != skillMap.end())
 		return it->second;
 
-	skillMap[level] = (uint64_t)(skillBase[skill] * std::pow(skillMultipliers[skill], (level - 11))) * 10;
+	skillMap[level] = (uint64_t)(skillBase[skill] * std::pow(skillMultipliers[skill], (level - 11)));
 	return skillMap[level];
 }
 
@@ -538,6 +538,6 @@ uint64_t Vocation::getReqMana(uint32_t magLevel)
 	if (it != cacheMana.end())
 		return it->second;
 
-	cacheMana[magLevel] = (uint64_t)(1600 * std::pow(formulaMultipliers[MULTIPLIER_MANA], (float)(magLevel - 1))) * 10;
+	cacheMana[magLevel] = (uint64_t)(1600 * std::pow(formulaMultipliers[MULTIPLIER_MANA], (float)(magLevel - 1)));
 	return cacheMana[magLevel];
 }
