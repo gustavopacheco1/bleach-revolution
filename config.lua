@@ -107,7 +107,7 @@
 	loginProtectionPeriod = 10 * 1000
 	deathLostPercent = 10
 	stairhopDelay = 2 * 1000
-	pushCreatureDelay = 700
+	pushCreatureDelay = 500
 	deathContainerId = 1987
 	gainExperienceColor = 215
 	addManaSpentInPvPZone = true
@@ -162,7 +162,7 @@
 
 		-- 8.7x + config
 		monsterSpawnWalkback = true
-		allowBlockSpawn = true
+		allowBlockSpawn = false
 		classicEquipmentSlots = true
 
 		-- Summons and monsters
@@ -350,7 +350,7 @@
 	rateSkillOffline = 0.5
 	rateMagic = 1.0
 	rateMagicOffline = 0.5
-	rateLoot = 2.0
+	rateLoot = 1.0
 	rateSpawnMin = 1
 	rateSpawnMax = 1
 	formulaLevel = 5.0
