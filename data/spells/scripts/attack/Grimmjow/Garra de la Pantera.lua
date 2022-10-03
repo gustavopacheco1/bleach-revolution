@@ -5,31 +5,24 @@ onGetFormulaValues = getFiveShootsFormula
 setCombatCallback(combat, CALLBACK_PARAM_LEVELMAGICVALUE, "onGetFormulaValues")
 
 function onCastSpell(cid, var)
-    if exhaustion.check(cid, 200) then
-        doPlayerSendCancel(cid, "You are exhausted.")
-        return false
-    end
-
-    if hasCreatureCondition(cid, CONDITION_ATTRIBUTES) then
-        CustomSpell.randomShoot(
-            cid,
-            combat,
-            5,
-            300,
-            91,
-            { id = 227, x = 0, y = 0 }
-        )
-    else
-        CustomSpell.randomShoot(
-            cid,
-            combat,
-            5,
-            300,
-            23,
-            { id = 466, x = 0, y = 0 }
-        )
-    end
-
-    exhaustion.set(cid, 300, 3)
-    return true
+	if hasCreatureCondition(cid, CONDITION_ATTRIBUTES) then
+		CustomSpell.randomShoot(
+			cid,
+			combat,
+			5,
+			300,
+			91,
+			{ id = 227, x = 0, y = 0 }
+		)
+	else
+		CustomSpell.randomShoot(
+			cid,
+			combat,
+			5,
+			300,
+			23,
+			{ id = 466, x = 0, y = 0 }
+		)
+	end
+	return true
 end
