@@ -3411,25 +3411,25 @@
 		<attribute key="charges" value="2"/>
 	</item>
 	<item id="16111" article="a" name="great reiatsu potion">
-		<attribute key="weight" value="3020"/>
+		<attribute key="weight" value="320"/>
 	</item>
 	<item id="16112" article="an" name="ultimate potion">
-		<attribute key="weight" value="3000"/>
+		<attribute key="weight" value="300"/>
 	</item>
 	<item id="16113" article="a" name="reiatsu potion">
-		<attribute key="weight" value="2090"/>
+		<attribute key="weight" value="290"/>
 	</item>
 	<item id="16114" article="a" name="health potion">
-		<attribute key="weight" value="2090"/>
+		<attribute key="weight" value="290"/>
 	</item>
 	<item id="16116" article="a" name="reiatsu pill">
-		<attribute key="weight" value="2070"/>
+		<attribute key="weight" value="270"/>
 	</item>
 	<item id="16117" article="a" name="health pill">
-		<attribute key="weight" value="2070"/>
+		<attribute key="weight" value="270"/>
 	</item>
 	<item id="16118" article="a" name="great health potion">
-		<attribute key="weight" value="3020"/>
+		<attribute key="weight" value="320"/>
 	</item>
 	<item id="2274" article="a" name="Red Skull">
 		<attribute key="weight" value="120"/>
