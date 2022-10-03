@@ -117,7 +117,7 @@ if (Modules == nil) then
 			elseif (not parameters.vocation(cid)) then
 				npcHandler:say('This spell is not for your vocation', cid)
 			elseif (not doPlayerRemoveMoney(cid, parameters.price)) then
-				npcHandler:say('You do not have enough money, this spell costs ' .. parameters.price .. ' ryos.', cid)
+				npcHandler:say('You do not have enough money, this spell costs ' .. parameters.price .. ' ryo.', cid)
 			else
 				npcHandler:say('You have learned ' .. parameters.spellName .. '.', cid)
 				playerLearnInstantSpell(cid, parameters.spellName)
@@ -456,9 +456,9 @@ if (Modules == nil) then
 		end
 
 		if getPlayerStorageValue(cid, "language") == "en" then
-			module.npcHandler:say('Do you want to travel to ' .. keywords[1] .. ' for ' .. parameters.cost .. ' ryos?', cid)
+			module.npcHandler:say('Do you want to travel to ' .. keywords[1] .. ' for ' .. parameters.cost .. ' ryo?', cid)
 		else
-			module.npcHandler:say('Você deseja viajar até ' .. keywords[1] .. ' por ' .. parameters.cost .. ' ryos?', cid)
+			module.npcHandler:say('Você deseja viajar até ' .. keywords[1] .. ' por ' .. parameters.cost .. ' ryo?', cid)
 		end
 		return true
 	end

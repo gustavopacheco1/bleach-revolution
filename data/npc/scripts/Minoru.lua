@@ -66,8 +66,8 @@ function onCreatureSay(cid, type, msg)
 		end
 
 		selfSayMultiLanguage(
-			"Are you sure you want to travel to " .. cities[msg][1] .. " for " .. cities[msg][2] .. " ryos?",
-			"Você tem certeza que deseja viajar para " .. cities[msg][1] .. " por " .. cities[msg][2] .. " ryos?",
+			"Are you sure you want to travel to " .. cities[msg][1] .. " for " .. cities[msg][2] .. " ryo?",
+			"Você tem certeza que deseja viajar para " .. cities[msg][1] .. " por " .. cities[msg][2] .. " ryo?",
 			cid
 		)
 		travelState[cid] = msg
@@ -79,8 +79,8 @@ function onCreatureSay(cid, type, msg)
 	if msgcontains(msg, "yes") then
 		if not (doPlayerRemoveMoney(cid, cities[ travelState[cid] ][2])) then
 			selfSayMultiLanguage(
-				"You do not have enough ryos.",
-				"Você não tem ryos suficiente.",
+				"You do not have enough ryo.",
+				"Você não tem ryo suficiente.",
 				cid
 			)
 			return true

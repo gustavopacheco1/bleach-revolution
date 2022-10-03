@@ -36,7 +36,7 @@ buyable_items = {
 	["Yoruichi"] = {
 		[16459] = { price = 200000 }, -- stamina injection
 	},
-	
+
 	["Rukia Kuchiki"] = {
 		[15129] = { price = 5000 }, -- reiatsu amulet
 	}
@@ -91,7 +91,7 @@ sellable_items = {
 		[15381] = { price = 300 }, -- furie bandit boots
 		[15276] = { price = 200 }, -- elite bandit helmet
 		[15332] = { price = 200 }, -- elite bandit armor
-		[15362] = { price = 200 }, -- elite bandit legs 
+		[15362] = { price = 200 }, -- elite bandit legs
 		[15380] = { price = 200 }, -- elite bandit boots
 		[15106] = { price = 100 }, -- bandit helmet
 		[15116] = { price = 100 }, -- bandit armor
@@ -188,8 +188,12 @@ function creatureSayBuy(cid, itemid, subType, amount, ignoreCap, inBackpacks)
 					doPlayerAddMoney(cid, math.abs(prev_money - currentMoney))
 				end
 
-				doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR,
-					"You don't have enough space to receive the change when buying " .. amount .. "x " .. getItemNameById(itemid) .. "!")
+				MultiLanguage.doPlayerSendTextMessage(
+					cid,
+					MESSAGE_INFO_DESCR,
+					"You don't have enough space to receive the change when buying " .. amount .. "x " .. getItemNameById(itemid) .. "!",
+					"Você não tem espaço suficiente para receber o troco ao comprar " .. amount .. "x " .. getItemNameById(itemid) .. "!"
+				)
 			end
 			return true
 		end
@@ -203,8 +207,12 @@ function creatureSayBuy(cid, itemid, subType, amount, ignoreCap, inBackpacks)
 			local msg = NpcHandler:getMessage(cid, MESSAGE_BOUGHT)
 			doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, NpcHandler:parseMessage(msg, parseInfo))
 		else
-			doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR,
-				"You don't have enough space to receive the change when buying " .. amount .. "x " .. getItemNameById(itemid) .. "!")
+			MultiLanguage.doPlayerSendTextMessage(
+				cid,
+				MESSAGE_INFO_DESCR,
+				"You don't have enough space to receive the change when buying " .. amount .. "x " .. getItemNameById(itemid) .. "!",
+				"Você não tem espaço suficiente para receber o troco ao comprar " .. amount .. "x " .. getItemNameById(itemid) .. "!"
+			)
 			for i = 1, #item do
 				doRemoveItem(item[i])
 			end

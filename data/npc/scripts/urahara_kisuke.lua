@@ -56,8 +56,8 @@ function onCreatureSay(cid, type, msg)
 
 	if isInArray({ "pay", "pagar" }, msg) then
 		selfSayMultiLanguage(
-			"The price to me enable Reishi Henkan-Ki is 80000 ryos. Are you sure?",
-			"O preço para eu ativar o Reishi Henkan-Ki é 80000 ryos. Você tem certeza?",
+			"The price to me enable Reishi Henkan-Ki is 80000 ryo. Are you sure?",
+			"O preço para eu ativar o Reishi Henkan-Ki é 80000 ryo. Você tem certeza?",
 			cid
 		)
 		talkState[talkUser] = 1

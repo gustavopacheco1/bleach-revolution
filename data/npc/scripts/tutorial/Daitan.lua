@@ -46,8 +46,8 @@ function onCreatureSay(cid, type, msg)
 
 			if getCreatureStorage(cid, "tutorial") == 4 then
 				selfSayMultiLanguage(
-					"You did a great job! Here's your reward, 50 ryos as promised.",
-					"Você fez um ótimo trabalho! Aqui está a sua recompensa, 50 ryos como prometido",
+					"You did a great job! Here's your reward, 50 ryo as promised.",
+					"Você fez um ótimo trabalho! Aqui está a sua recompensa, 50 ryo como prometido",
 					cid
 				)
 
@@ -91,8 +91,8 @@ function onCreatureSay(cid, type, msg)
 
 	if isInArray({ "job", "serviço" }, msg) and talkState[talkUser] == nil then
 		selfSayMultiLanguage(
-			"My basement is infested with rats. If you manage to eliminate 10 rats I pay you 50 ryos. What do you think?",
-			"Meu porão está infestado de ratos. Se você conseguir eliminar 10 ratos eu te pago 50 ryos. O que acha?",
+			"My basement is infested with rats. If you manage to eliminate 10 rats I pay you 50 ryo. What do you think?",
+			"Meu porão está infestado de ratos. Se você conseguir eliminar 10 ratos eu te pago 50 ryo. O que acha?",
 			cid
 		)
 		talkState[talkUser] = 1

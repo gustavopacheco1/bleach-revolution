@@ -64,7 +64,7 @@ function onSay(cid, words, param, channel)
 		return true
 	end
 
-	if table.contains({ "money", "dinheiro", "ryo", "ryos" }, param[1]) then
+	if table.contains({ "money", "dinheiro", "ryo" }, param[1]) then
 		if getCreatureStorage(cid, "autoloot_money") > 0 then
 			doCreatureSetStorage(cid, "autoloot_money", nil)
 			MultiLanguage.doPlayerSendTextMessage(
@@ -111,7 +111,7 @@ function onSay(cid, words, param, channel)
 				MultiLanguage.doPlayerSendTextMessage(
 					cid, MESSAGE_FIRST,
 					'[Auto Loot] Enter "!autoloot money" to add money in your auto loot list.',
-					'[Auto Loot] Utilize "!autoloot ryos" para adicionar ryos na sua lista do auto loot.'
+					'[Auto Loot] Utilize "!autoloot dinheiro" para adicionar dinheiro na sua lista do auto loot.'
 				)
 				return true
 			end

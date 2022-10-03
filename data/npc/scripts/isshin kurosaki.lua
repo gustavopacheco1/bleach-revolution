@@ -59,8 +59,8 @@ function onCreatureSay(cid, type, msg)
 		end
 
 		selfSayMultiLanguage(
-			"The price for it is " .. price .. " ryos. Are you sure?",
-			"O preço por isso é " .. price .. " ryos. Você tem certeza?",
+			"The price for it is " .. price .. " ryo. Are you sure?",
+			"O preço por isso é " .. price .. " ryo. Você tem certeza?",
 			cid
 		)
 		talkState[talkUser] = 1
