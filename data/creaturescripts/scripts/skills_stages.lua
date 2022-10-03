@@ -1,67 +1,63 @@
 local skills_stages = {
 	[SKILL_FIST] = {
-		{ level = 0, rate = 30 },
-		{ level = 60, rate = 20 },
-		{ level = 80, rate = 10 },
-		{ level = 100, rate = 8 },
-		{ level = 120, rate = 5 }
+		{ level = 0, rate = 4 },
+		{ level = 50, rate = 3 },
+		{ level = 80, rate = 2 },
+		{ level = 100, rate = 1 },
 	},
 
 	[SKILL_CLUB] = {
-		{ level = 0, rate = 30 },
-		{ level = 60, rate = 20 },
-		{ level = 80, rate = 10 },
-		{ level = 100, rate = 8 },
-		{ level = 120, rate = 5 }
-	},
-
-	[SKILL_SWORD] = {
-		{ level = 0, rate = 30 },
-		{ level = 60, rate = 20 },
-		{ level = 80, rate = 10 },
-		{ level = 100, rate = 8 },
-		{ level = 120, rate = 5 }
-	},
-
-	[SKILL_AXE] = {
-		{ level = 0, rate = 30 },
-		{ level = 60, rate = 20 },
-		{ level = 80, rate = 10 },
-		{ level = 100, rate = 8 },
-		{ level = 120, rate = 5 }
-	},
-
-	[SKILL_DISTANCE] = {
-		{ level = 0, rate = 30 },
-		{ level = 60, rate = 20 },
-		{ level = 80, rate = 10 },
-		{ level = 100, rate = 8 },
-		{ level = 120, rate = 5 }
-	},
-
-	[SKILL_SHIELD] = {
-		{ level = 0, rate = 30 },
-		{ level = 60, rate = 20 },
-		{ level = 80, rate = 10 },
-		{ level = 100, rate = 8 },
-		{ level = 120, rate = 5 }
-	},
-
-	[SKILL_FISHING] = {
-		{ level = 0, rate = 7 },
-		{ level = 30, rate = 4 },
-		{ level = 60, rate = 2 },
+		{ level = 0, rate = 3 },
+		{ level = 50, rate = 2 },
 		{ level = 80, rate = 1 },
 	},
 
+	[SKILL_SWORD] = {
+		{ level = 0, rate = 5 },
+		{ level = 50, rate = 4 },
+		{ level = 80, rate = 3 },
+		{ level = 100, rate = 2 },
+		{ level = 120, rate = 1 },
+	},
+
+	[SKILL_AXE] = {
+		{ level = 0, rate = 5 },
+		{ level = 50, rate = 4 },
+		{ level = 80, rate = 3 },
+		{ level = 100, rate = 2 },
+		{ level = 120, rate = 1 },
+	},
+
+	[SKILL_DISTANCE] = {
+		{ level = 0, rate = 5 },
+		{ level = 50, rate = 4 },
+		{ level = 80, rate = 3 },
+		{ level = 100, rate = 2 },
+		{ level = 120, rate = 1 },
+	},
+
+	[SKILL_SHIELD] = {
+		{ level = 0, rate = 3 },
+		{ level = 50, rate = 2 },
+		{ level = 80, rate = 1 },
+	},
+
+	[SKILL_FISHING] = {
+		{ level = 0, rate = 8 },
+		{ level = 50, rate = 5 },
+		{ level = 80, rate = 4 },
+		{ level = 100, rate = 3 },
+		{ level = 120, rate = 2 },
+		{ level = 130, rate = 1 },
+	},
+
 	[SKILL__MAGLEVEL] = {
-		{ level = 0, rate = 30 },
-		{ level = 30, rate = 25 },
-		{ level = 100, rate = 20 },
-		{ level = 120, rate = 10 },
-		{ level = 135, rate = 5 },
-		{ level = 140, rate = 1 },
-		{ level = 155, rate = 0 }
+		{ level = 0, rate = 7 },
+		{ level = 50, rate = 6 },
+		{ level = 80, rate = 5 },
+		{ level = 100, rate = 3 },
+		{ level = 120, rate = 2 },
+		{ level = 130, rate = 1 },
 	}
 }
 

@@ -21,6 +21,6 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 	local wall = doCreateItem(wall_id, toPosition)
 	doDecayItem(wall)
 
-	exhaustion.set(cid, "reiatsu_wall", 1)
+	exhaustion.set(cid, "reiatsu_wall", 0)
 	return true
 end
