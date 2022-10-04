@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Boss Quest Level: 30 -->
-<monster name="Super Samurai" nameDescription="Super Samurai" race="blood" experience="0" speed="500" manacost="0">
+<monster name="Super Samurai" nameDescription="Super Samurai" race="blood" experience="0" speed="400" manacost="0">
 	<health now="100000" max="100000"/>
 	<look type="119" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
