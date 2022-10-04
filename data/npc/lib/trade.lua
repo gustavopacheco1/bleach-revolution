@@ -40,7 +40,7 @@ buyable_items = {
 	["Rukia Kuchiki"] = {
 		[15129] = { price = 5000 }, -- reiatsu amulet
 	},
-	
+
 	["Joshiro Ukitake"] = {
 		[16587] = { price = 200000 }, -- black borboleta
 	}
@@ -125,12 +125,6 @@ sellable_items = {
 		[15257] = { price = 6000 }, -- furie spider mask
 		[15256] = { price = 4000 }, -- elite spider mask
 		[15104] = { price = 2000 }, -- spider mask
-		[11095] = { price = 30 }, -- wolf mask
-		[15264] = { price = 40 }, -- elite wolf mask
-		[15265] = { price = 50 }, -- furie wolf mask
-		[11094] = { price = 30 }, -- snake mask
-		[15266] = { price = 40 }, -- elite snake mask
-		[15267] = { price = 50 }, -- furie snake mask
 	},
 }
 
