@@ -2579,6 +2579,9 @@
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="4" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
+	<spawn centerx="2398" centery="3474" centerz="4" radius="1">
+		<npc name="Joshiro Ukitake" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
 	<spawn centerx="3730" centery="3474" centerz="4" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="0" z="4" spawntime="60" />
 		<monster name="Rungokai Bandit" x="-1" y="1" z="4" spawntime="60" />

@@ -39,6 +39,10 @@ buyable_items = {
 
 	["Rukia Kuchiki"] = {
 		[15129] = { price = 5000 }, -- reiatsu amulet
+	},
+	
+	["Joshiro Ukitake"] = {
+		[16587] = { price = 200000 }, -- black borboleta
 	}
 }
 
