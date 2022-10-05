@@ -381,7 +381,7 @@
 	staminaRatingLimitTop = 40 * 60
 	staminaRatingLimitBottom = 14 * 60
 	staminaLootLimit = 14 * 60
-	rateStaminaAboveNormal = 1.5
+	rateStaminaAboveNormal = 1.1
 	rateStaminaUnderNormal = 0.5
 	staminaThresholdOnlyPremium = true
 
