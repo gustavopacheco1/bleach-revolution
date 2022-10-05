@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<monster name="Master Zaraki" nameDescription="Master Zaraki" race="blood" experience="0" speed="530" manacost="0">
+<monster name="Master Zaraki" nameDescription="Master Zaraki" race="blood" experience="0" speed="400" manacost="0">
 	<health now="1500000" max="1500000"/>
 	<look type="314" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>

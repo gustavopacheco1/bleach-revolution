@@ -23357,6 +23357,10 @@
 		<attribute key="charges" value="180"/>
 		<attribute key="showcharges" value="1"/>
 	</item>
+	
+	<item id="16587" article="a" name="black borboleta">
+		<attribute key="weight" value="2500"/>
+	</item>
 
 	<!-- Gloves -->
 	<item id="16375" article="a" name="Brazo Derecha de Gigante">

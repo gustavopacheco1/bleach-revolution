@@ -14,7 +14,6 @@ setConditionParam(condition, CONDITION_PARAM_BUFF, true)
 setConditionParam(condition, CONDITION_PARAM_STAT_MAGICLEVEL, 5)
 setConditionParam(condition, CONDITION_PARAM_SKILL_FIST, 5)
 setConditionParam(condition, CONDITION_PARAM_SKILL_DISTANCE, 5)
-setConditionParam(condition, CONDITION_PARAM_SKILL_SHIELD, 0)
 setCombatCondition(combat, condition)
 
 function onCastSpell(cid, var)

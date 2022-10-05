@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Boss Quest Level: 150 -->
-<monster name="Super Hiroshi" nameDescription="Super Hiroshi" race="blood" experience="0" speed="900" manacost="0">
+<monster name="Super Hiroshi" nameDescription="Super Hiroshi" race="blood" experience="0" speed="400" manacost="0">
 	<health now="1000000" max="1000000"/>
 	<look type="174" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>

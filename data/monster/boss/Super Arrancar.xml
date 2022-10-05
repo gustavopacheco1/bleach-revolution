@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Boss Quest Level: 100 -->
-<monster name="Super Arrancar" nameDescription="Super Arrancar" race="blood" experience="0" speed="500" manacost="0">
+<monster name="Super Arrancar" nameDescription="Super Arrancar" race="blood" experience="0" speed="400" manacost="0">
 	<health now="9000000" max="9000000"/>
 	<!-- Boss Quest Level: 100 -->
 	<look type="31" corpse="16330"/>

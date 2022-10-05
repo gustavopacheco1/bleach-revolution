@@ -12,9 +12,9 @@
 
 
 	<!-- Support -->
-	<instant name="aura" words="aura" lvl="15" mana="800" aggressive="0" selftarget="1" exhaustion="2000" exhaustedGroup="support" needlearn="0" event="script" value="support/aura.lua"/>
-	<instant name="Skip" words="skip" lvl="20" mana="1000" prem="0" aggressive="0" selftarget="1" exhaustion="2000" exhaustedGroup="support" needlearn="0" event="script" value="support/skip.lua"/>
-	<instant name="Jump" words="jump" lvl="30" mana="1200" prem="1" aggressive="0" exhaustion="2000" exhaustedGroup="support" params="1" needlearn="0" event="function" value="Levitate"/>
+	<instant name="aura" words="aura" lvl="15" mana="100" aggressive="0" selftarget="1" exhaustion="2000" exhaustedGroup="support" needlearn="0" event="script" value="support/aura.lua"/>
+	<instant name="Skip" words="skip" lvl="20" mana="100" prem="0" aggressive="0" selftarget="1" exhaustion="2000" exhaustedGroup="support" needlearn="0" event="script" value="support/skip.lua"/>
+	<instant name="Jump" words="jump" lvl="30" mana="100" prem="1" aggressive="0" exhaustion="2000" exhaustedGroup="support" params="1" needlearn="0" event="function" value="Levitate"/>
 	<instant name="Reiatsu Speed" words="reiatsu speed" lvl="100" maglv="80" mana="2000" prem="0" aggressive="0" selftarget="1" exhaustion="2000" exhaustedGroup="support" needlearn="0" event="script" value="support/reiatsu_speed.lua"/>
 	<instant name="Speed Up" words="speed up" lvl="30" maglv="15" mana="1000" prem="0" aggressive="0" selftarget="1" exhaustion="10000" exhaustedGroup="support" needlearn="0" event="script" value="support/speed_up.lua"/>
 	<instant name="Reiatsu Down" words="reiatsu down" lvl="1" mana="0" aggressive="0" exhaustion="1000" exhaustedGroup="support" prem="0" event="script" value="support/reiatsu_down.lua"/>
@@ -175,7 +175,7 @@
 	<!-- Attack -->
     <instant name="Seki" words="Seki" lvl="5" maglv="5" mana="40" prem="0" range="8" needtarget="1" blockwalls="1" exhaustion="1500" exhaustedGroup="attack" needlearn="0" event="script" value="attack/seki.lua"/>
 	<instant name="Geki" words="Geki" lvl="10" maglv="10" mana="80" prem="0" range="8" needtarget="1" blockwalls="1" exhaustion="1500" exhaustedGroup="attack" needlearn="0" event="script" value="attack/geki.lua"/>
-	<instant name="Shitotsu Sansen" words="Shitotsu Sansen" lvl="20" maglv="15" mana="300" prem="0" range="8" needtarget="1" blockwalls="1" exhaustion="3000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/shitotsu_sansen.lua"/>
+	<instant name="Shitotsu Sansen" words="Shitotsu Sansen" lvl="20" maglv="15" mana="300" prem="0" range="8" needtarget="1" blockwalls="1" exhaustion="1500" exhaustedGroup="attack" needlearn="0" event="script" value="attack/shitotsu_sansen.lua"/>
 	<instant name="Gochutekkan" words="Gochutekkan" lvl="30" maglv="20" mana="500" prem="0" range="8" needtarget="1" blockwalls="1" exhaustion="1500" exhaustedGroup="attack" needlearn="0" event="script" value="attack/gochutekkan.lua"/>
 
 	<!-- Area -->

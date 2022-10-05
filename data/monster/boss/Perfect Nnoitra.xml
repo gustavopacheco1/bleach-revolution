@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Boss Drop Level: 275 -->
-<monster name="Perfect Nnoitra" nameDescription="Perfect Nnoitra" race="blood" experience="0" speed="530" manacost="0">
+<monster name="Perfect Nnoitra" nameDescription="Perfect Nnoitra" race="blood" experience="0" speed="400" manacost="0">
 	<health now="9000000" max="9000000"/>
 	<look type="453" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
@@ -20,7 +20,9 @@
 		<flag lootmessage="0"/>
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="-40000" max="-40500"/>
+		<attack name="melee" interval="1500" min="-4000" max="-4500"/>
+		<attack name="kendo" interval="2000" min="-6000" max="-6500"/>
+		<attack name="la muerte wave" interval="4000" min="-10000" max="-10500"/>
 	</attacks>
 	<defenses armor="0" defense="0"/>
 	<immunities>
