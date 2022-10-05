@@ -14540,6 +14540,9 @@
 		<monster name="Rungokai Bandit" x="-1" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="2406" centery="3427" centerz="7" radius="1">
+		<npc name="Ikkanzaka Jindabo" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3618" centery="3427" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="-1" y="0" z="7" spawntime="60" />
