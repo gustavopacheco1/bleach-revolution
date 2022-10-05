@@ -14925,9 +14925,6 @@
 	<spawn centerx="3366" centery="3529" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3529" centery="3529" centerz="7" radius="1">
-		<npc name="Ikkanzaka Jindabo" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3438" centery="3530" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
