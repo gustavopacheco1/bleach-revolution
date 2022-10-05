@@ -19,8 +19,8 @@ function onCreatureSay(cid, type, msg)
 		if isInArray({ "hi", "hello", "oi", "olá" }, msg) then
 			npcHandler:addFocus(cid)
 			selfSayMultiLanguage(
-				"Hi! I sell the Black Butterfly so you can get back to Karakura.",
-				"Olá! EU vendo a Borboleta preta para você conseguir voltar pra Karakura.",
+				"I sell a black butterfly that is needed to return to the human world.",
+				"Eu vendo uma borboleta preta que é necessária para voltar para o mundo humano.",
 				cid
 			)
 			return true
