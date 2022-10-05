@@ -1,11 +1,8 @@
 local spell = {
-	cooldown = 60,
+	cooldown = 2,
 	duration = 2500, -- milisegundos
-	effect = 20,
+	effect = 230,
 }
-
-local condition_muted = createConditionObject(CONDITION_MUTED)
-setConditionParam(condition_muted, CONDITION_PARAM_TICKS, spell.duration)
 
 local condition_paralyze = createConditionObject(CONDITION_PARALYZE)
 setConditionParam(condition_paralyze, CONDITION_PARAM_TICKS, spell.duration)
@@ -19,19 +16,15 @@ function onCastSpell(cid, var)
 
 	local target = getCreatureTarget(cid)
 
-	if not (isPlayer(target)) then
-		MultiLanguage.doPlayerSendCancel(
-			cid,
-			"You may only use this technique in players.",
-			"Você só pode utilizar esta técnica em players."
-		)
-		return false
+	if isPlayer(target) then
+		doMutePlayer(target, spell.duration, EXHAUST_SPELLGROUP_HEALING)
+		doMutePlayer(target, 800, EXHAUST_SPELLGROUP_SUPPORT)
 	end
 
-	doAddCondition(target, condition_muted)
 	doAddCondition(target, condition_paralyze)
 	doSendMagicEffect(getCreaturePosition(target), spell.effect)
 
+	doMutePlayer(cid, spell.duration, EXHAUST_SPELLGROUP_ATTACK)
 	exhaustion.set(cid, "special", spell.cooldown)
 	return true
 end
