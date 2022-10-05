@@ -1,63 +1,61 @@
+-- NOTE: rate 10 = 1x
 local skills_stages = {
 	[SKILL_FIST] = {
-		{ level = 0, rate = 4 },
-		{ level = 50, rate = 3 },
-		{ level = 80, rate = 2 },
-		{ level = 100, rate = 1 },
+		{ level = 0, rate = 40 },
+		{ level = 50, rate = 30 },
+		{ level = 80, rate = 20 },
+		{ level = 100, rate = 10 },
 	},
 
 	[SKILL_CLUB] = {
-		{ level = 0, rate = 3 },
-		{ level = 50, rate = 2 },
-		{ level = 80, rate = 1 },
+		{ level = 0, rate = 30 },
+		{ level = 50, rate = 20 },
+		{ level = 80, rate = 10 },
 	},
 
 	[SKILL_SWORD] = {
-		{ level = 0, rate = 5 },
-		{ level = 50, rate = 4 },
-		{ level = 80, rate = 3 },
-		{ level = 100, rate = 2 },
-		{ level = 120, rate = 1 },
+		{ level = 0, rate = 50 },
+		{ level = 50, rate = 40 },
+		{ level = 80, rate = 30 },
+		{ level = 100, rate = 20 },
+		{ level = 120, rate = 10 },
 	},
 
 	[SKILL_AXE] = {
-		{ level = 0, rate = 5 },
-		{ level = 50, rate = 4 },
-		{ level = 80, rate = 3 },
-		{ level = 100, rate = 2 },
-		{ level = 120, rate = 1 },
+		{ level = 0, rate = 50 },
+		{ level = 50, rate = 40 },
+		{ level = 80, rate = 30 },
+		{ level = 100, rate = 20 },
+		{ level = 120, rate = 10 },
 	},
 
 	[SKILL_DISTANCE] = {
-		{ level = 0, rate = 5 },
-		{ level = 50, rate = 4 },
-		{ level = 80, rate = 3 },
-		{ level = 100, rate = 2 },
-		{ level = 120, rate = 1 },
+		{ level = 0, rate = 50 },
+		{ level = 50, rate = 40 },
+		{ level = 80, rate = 30 },
+		{ level = 100, rate = 20 },
+		{ level = 120, rate = 10 },
 	},
 
 	[SKILL_SHIELD] = {
-		{ level = 0, rate = 3 },
-		{ level = 50, rate = 2 },
-		{ level = 80, rate = 1 },
+		{ level = 0, rate = 30 },
+		{ level = 50, rate = 20 },
+		{ level = 80, rate = 10 },
 	},
 
 	[SKILL_FISHING] = {
-		{ level = 0, rate = 8 },
+		{ level = 0, rate = 10 },
 		{ level = 50, rate = 5 },
-		{ level = 80, rate = 4 },
-		{ level = 100, rate = 3 },
-		{ level = 120, rate = 2 },
-		{ level = 130, rate = 1 },
+		{ level = 80, rate = 1 },
 	},
 
 	[SKILL__MAGLEVEL] = {
-		{ level = 0, rate = 7 },
-		{ level = 50, rate = 6 },
-		{ level = 80, rate = 5 },
-		{ level = 100, rate = 3 },
-		{ level = 120, rate = 2 },
-		{ level = 130, rate = 1 },
+		{ level = 0, rate = 70 },
+		{ level = 50, rate = 60 },
+		{ level = 80, rate = 50 },
+		{ level = 100, rate = 30 },
+		{ level = 120, rate = 20 },
+		{ level = 130, rate = 10 },
 	}
 }
 
