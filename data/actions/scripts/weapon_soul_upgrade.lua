@@ -164,7 +164,7 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 			doItemSetAttribute(itemEx.uid, "description", "Soul: " .. tostring(weapon_soul_amount + upgrade_items[item.itemid].soul_upgrade))
 		end
 
-		doSendMagicEffect(fromPosition, 13)
+		doSendMagicEffect(toPosition, 13)
 		doRemoveItem(item.uid, 1)
 		return true
 	end
