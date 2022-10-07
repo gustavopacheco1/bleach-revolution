@@ -660,27 +660,19 @@
 		<attribute key="type" value="door"/>
 		<attribute key="blockprojectile" value="1"/>
 	</item>
-	<item id="1519" article="a" name="closed door">
-		<attribute key="type" value="door"/>
-		<attribute key="blockprojectile" value="1"/>
-	</item>
-	<item id="1521" article="a" name="closed door">
-		<attribute key="type" value="door"/>
-		<attribute key="blockprojectile" value="1"/>
-	</item>
-	<item id="1523" article="a" name="closed door">
-		<attribute key="type" value="door"/>
-		<attribute key="blockprojectile" value="1"/>
-	</item>
-	<item id="1525" article="a" name="closed door">
-		<attribute key="type" value="door"/>
-		<attribute key="blockprojectile" value="1"/>
-	</item>
 	<item id="1214" article="an" name="open door">
 		<attribute key="type" value="door"/>
 	</item>
 	<item id="16515" article="an" name="open door">
 		<attribute key="type" value="door"/>
+	</item>
+	<item id="16514" article="a" name="closed door">
+		<attribute key="type" value="door"/>
+		<attribute key="blockprojectile" value="1"/>
+	</item>
+	<item id="16517" article="a" name="closed door">
+		<attribute key="type" value="door"/>
+		<attribute key="blockprojectile" value="1"/>
 	</item>
 	<item id="16518" article="an" name="open door">
 		<attribute key="type" value="door"/>
