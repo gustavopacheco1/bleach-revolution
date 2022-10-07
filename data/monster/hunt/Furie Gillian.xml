@@ -35,8 +35,8 @@
 	<loot>
 		<item id="2152" chance="7000" count="3" countmax="3"/> <!-- hundred ryo note -->
 		<item id="2148" chance="100000" count="210" countmax="210"/> <!-- ryo coin -->
-		<item id="15103" chance="22000" count="210" countmax="210"/> <!-- furie gillian mask -->
-		<item id="15250" chance="30000" count="210" countmax="210"/> <!-- elite gillian mask -->
-		<item id="15251" chance="40000" count="210" countmax="210"/> <!-- gillian mask -->
+		<item id="15103" chance="22000" count="1" countmax="1"/> <!-- furie gillian mask -->
+		<item id="15250" chance="30000" count="1" countmax="1"/> <!-- elite gillian mask -->
+		<item id="15251" chance="40000" count="1" countmax="1"/> <!-- gillian mask -->
 	</loot>
 </monster>
