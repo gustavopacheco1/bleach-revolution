@@ -660,7 +660,47 @@
 		<attribute key="type" value="door"/>
 		<attribute key="blockprojectile" value="1"/>
 	</item>
+	<item id="1519" article="a" name="closed door">
+		<attribute key="type" value="door"/>
+		<attribute key="blockprojectile" value="1"/>
+	</item>
+	<item id="1521" article="a" name="closed door">
+		<attribute key="type" value="door"/>
+		<attribute key="blockprojectile" value="1"/>
+	</item>
+	<item id="1523" article="a" name="closed door">
+		<attribute key="type" value="door"/>
+		<attribute key="blockprojectile" value="1"/>
+	</item>
+	<item id="1525" article="a" name="closed door">
+		<attribute key="type" value="door"/>
+		<attribute key="blockprojectile" value="1"/>
+	</item>
 	<item id="1214" article="an" name="open door">
+		<attribute key="type" value="door"/>
+	</item>
+	<item id="16515" article="an" name="open door">
+		<attribute key="type" value="door"/>
+	</item>
+	<item id="16518" article="an" name="open door">
+		<attribute key="type" value="door"/>
+	</item>
+	<item id="16520" article="an" name="open door">
+		<attribute key="type" value="door"/>
+	</item>
+	<item id="16522" article="an" name="open door">
+		<attribute key="type" value="door"/>
+	</item>
+	<item id="16524" article="an" name="open door">
+		<attribute key="type" value="door"/>
+	</item>
+	<item id="16526" article="an" name="open door">
+		<attribute key="type" value="door"/>
+	</item>
+	<item id="16528" article="an" name="open door">
+		<attribute key="type" value="door"/>
+	</item>
+	<item id="16530" article="an" name="open door">
 		<attribute key="type" value="door"/>
 	</item>
 	<item id="1215" article="a" name="buttress"/>
@@ -672,6 +712,12 @@
 		<attribute key="blockprojectile" value="1"/>
 	</item>
 	<item id="1220" article="an" name="open door">
+		<attribute key="type" value="door"/>
+	</item>
+	<item id="16682" article="an" name="open door">
+		<attribute key="type" value="door"/>
+	</item>
+	<item id="16683" article="an" name="open door">
 		<attribute key="type" value="door"/>
 	</item>
 	<item id="1221" article="a" name="closed door">
@@ -696,6 +742,26 @@
 		<attribute key="type" value="door"/>
 	</item>
 	<item id="1227" article="a" name="gate of expertise">
+		<attribute key="type" value="door"/>
+		<attribute key="levelDoor" value="1000"/>
+		<attribute key="blockprojectile" value="1"/>
+	</item>
+	<item id="16527" article="a" name="gate of expertise">
+		<attribute key="type" value="door"/>
+		<attribute key="levelDoor" value="1000"/>
+		<attribute key="blockprojectile" value="1"/>
+	</item>
+	<item id="16529" article="a" name="gate of expertise">
+		<attribute key="type" value="door"/>
+		<attribute key="levelDoor" value="1000"/>
+		<attribute key="blockprojectile" value="1"/>
+	</item>
+	<item id="16678" article="a" name="gate of expertise">
+		<attribute key="type" value="door"/>
+		<attribute key="levelDoor" value="1000"/>
+		<attribute key="blockprojectile" value="1"/>
+	</item>
+	<item id="16680" article="a" name="gate of expertise">
 		<attribute key="type" value="door"/>
 		<attribute key="levelDoor" value="1000"/>
 		<attribute key="blockprojectile" value="1"/>
@@ -21849,7 +21915,8 @@
 		<attribute key="armor" value="70"/>
 		<attribute key="healthGain" value="4500"/>
 		<attribute key="healthTicks" value="1000"/>
-		<attribute key="absorbPercentAll" value="3"/>
+		<attribute key="absorbPercentEnergy" value="3"/>
+		<attribute key="absorbPercentPhysical" value="3"/>
 		<attribute key="slotType" value="body"/>
 	</item>
 	<item id="15727" article="a" name="Vasto Lorde Legs">
@@ -21857,7 +21924,7 @@
 		<attribute key="armor" value="70"/>
 		<attribute key="healthGain" value="4500"/>
 		<attribute key="healthTicks" value="1000"/>
-		<attribute key="absorbPercentAll" value="3"/>
+		<attribute key="absorbPercentEnergy" value="3"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
 	<item id="15722" article="a" name="Vasto Lorde Boots">
@@ -21883,7 +21950,8 @@
 		<attribute key="armor" value="50"/>
 		<attribute key="healthGain" value="3500"/>
 		<attribute key="healthTicks" value="1000"/>
-		<attribute key="absorbPercentAll" value="2"/>
+		<attribute key="absorbPercentEnergy" value="2"/>
+		<attribute key="absorbPercentEnergy" value="2"/>
 		<attribute key="slotType" value="body"/>
 	</item>
 	<item id="16086" article="a" name="Vizard Legs">
@@ -21891,7 +21959,7 @@
 		<attribute key="armor" value="50"/>
 		<attribute key="healthGain" value="3500"/>
 		<attribute key="healthTicks" value="1000"/>
-		<attribute key="absorbPercentAll" value="2"/>
+		<attribute key="absorbPercentEnergy" value="2"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
 	<item id="16085" article="a" name="Vizard Boots">
@@ -22113,7 +22181,7 @@
 		<attribute key="armor" value="45"/>
 		<attribute key="healthGain" value="3000"/>
 		<attribute key="healthTicks" value="1000"/>
-		<attribute key="absorbPercentAll" value="1"/>
+		<attribute key="absorbPercentEnergy" value="1"/>
 		<attribute key="slotType" value="body"/>
 	</item>
 	<item id="16109" article="a" name="Zangetsu Legs">
@@ -22121,7 +22189,7 @@
 		<attribute key="armor" value="45"/>
 		<attribute key="healthGain" value="3000"/>
 		<attribute key="healthTicks" value="1000"/>
-		<attribute key="absorbPercentAll" value="1"/>
+		<attribute key="absorbPercentPhysical" value="1"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
 	<item id="16110" article="a" name="Zangetsu Boots">
@@ -22231,6 +22299,8 @@
 	<item id="15724" article="an" name="Urahara Helmet">
 		<attribute key="weight" value="1050"/>
 		<attribute key="armor" value="20"/>
+		<attribute key="healthGain" value="250"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15111" article="an" name="Urahara Armor">
@@ -22250,12 +22320,16 @@
 	<item id="15815" article="an" name="Urahara Boots">
 		<attribute key="weight" value="1050"/>
 		<attribute key="armor" value="20"/>
+		<attribute key="healthGain" value="250"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
 	<item id="15244" article="an" name="Elite Urahara Helmet">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="20"/>
+		<attribute key="healthGain" value="500"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15300" article="an" name="Elite Urahara Armor">
@@ -22275,12 +22349,16 @@
 	<item id="15366" article="an" name="Elite Urahara Boots">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="20"/>
+		<attribute key="healthGain" value="500"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
 	<item id="15245" article="a" name="Furie Urahara Helmet">
 		<attribute key="weight" value="4000"/>
 		<attribute key="armor" value="20"/>
+		<attribute key="healthGain" value="600"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15301" article="a" name="Furie Urahara Armor">
@@ -22300,6 +22378,8 @@
 	<item id="15367" article="a" name="Furie Urahara Boots">
 		<attribute key="weight" value="4000"/>
 		<attribute key="armor" value="20"/>
+		<attribute key="healthGain" value="600"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
@@ -22307,6 +22387,8 @@
 	<item id="10690" article="a" name="Mummy Helmet">
 		<attribute key="weight" value="1050"/>
 		<attribute key="armor" value="17"/>
+		<attribute key="healthGain" value="50"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="10687" article="a" name="Mummy Armor">
@@ -22326,12 +22408,16 @@
 	<item id="10689" article="a" name="Mummy Boots">
 		<attribute key="weight" value="1050"/>
 		<attribute key="armor" value="17"/>
+		<attribute key="healthGain" value="50"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
 	<item id="15268" article="an" name="Elite Mummy Helmet">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="17"/>
+		<attribute key="healthGain" value="100"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15326" article="an" name="Elite Mummy Armor">
@@ -22351,12 +22437,16 @@
 	<item id="15378" article="an" name="Elite Mummy Boots">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="17"/>
+		<attribute key="healthGain" value="100"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
 	<item id="15269" article="a" name="Furie Mummy Helmet">
 		<attribute key="weight" value="4000"/>
 		<attribute key="armor" value="17"/>
+		<attribute key="healthGain" value="150"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15327" article="a" name="Furie Mummy Armor">
@@ -22376,6 +22466,8 @@
 	<item id="15379" article="a" name="Furie Mummy Boots">
 		<attribute key="weight" value="4000"/>
 		<attribute key="armor" value="17"/>
+		<attribute key="healthGain" value="150"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
@@ -22446,6 +22538,8 @@
 	<item id="15106" article="a" name="Bandit Helmet">
 		<attribute key="weight" value="1050"/>
 		<attribute key="armor" value="17"/>
+		<attribute key="healthGain" value="20"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15116" article="a" name="Bandit Armor">
@@ -22465,12 +22559,16 @@
 	<item id="15119" article="a" name="Bandit Boots">
 		<attribute key="weight" value="1050"/>
 		<attribute key="armor" value="10"/>
+		<attribute key="healthGain" value="20"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
 	<item id="15276" article="an" name="Elite Bandit Helmet">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="10"/>
+		<attribute key="healthGain" value="40"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15332" article="an" name="Elite Bandit Armor">
@@ -22490,12 +22588,16 @@
 	<item id="15380" article="an" name="Elite Bandit Boots">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="10"/>
+		<attribute key="healthGain" value="40"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
 	<item id="15277" article="a" name="Furie Bandit Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="10"/>
+		<attribute key="healthGain" value="60"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15333" article="a" name="Furie Bandit Armor">
@@ -22515,6 +22617,8 @@
 	<item id="15381" article="a" name="Furie Bandit Boots">
 		<attribute key="weight" value="4000"/>
 		<attribute key="armor" value="10"/>
+		<attribute key="healthGain" value="60"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
@@ -22523,6 +22627,8 @@
 	<item id="15101" article="an" name="Arrancar Helmet">
 		<attribute key="weight" value="1050"/>
 		<attribute key="armor" value="20"/>
+		<attribute key="healthGain" value="150"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15112" article="an" name="Arrancar Armor">
@@ -22535,12 +22641,16 @@
 	<item id="10731" article="an" name="Arrancar Boots">
 		<attribute key="weight" value="1050"/>
 		<attribute key="armor" value="20"/>
+		<attribute key="healthGain" value="150"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
 	<item id="15005" article="an" name="Elite Arrancar Helmet">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="20"/>
+		<attribute key="healthGain" value="450"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15304" article="an" name="Elite Arrancar Armor">
@@ -22553,12 +22663,16 @@
 	<item id="15011" article="an" name="Elite Arrancar Boots">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="20"/>
+		<attribute key="healthGain" value="450"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
 	<item id="15006" article="a" name="Furie Arrancar Helmet">
 		<attribute key="weight" value="4000"/>
 		<attribute key="armor" value="20"/>
+		<attribute key="healthGain" value="500"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15305" article="a" name="Furie Arrancar Armor">
@@ -22571,6 +22685,8 @@
 	<item id="15012" article="a" name="Furie Arrancar Boots">
 		<attribute key="weight" value="4000"/>
 		<attribute key="armor" value="20"/>
+		<attribute key="healthGain" value="500"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
@@ -22578,81 +22694,113 @@
 	<item id="15099" article="a" name="Grand Fisher Mask">
 		<attribute key="weight" value="1050"/>
 		<attribute key="armor" value="25"/>
+		<attribute key="healthGain" value="500"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15240" article="an" name="Elite Grand Fisher Mask">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="25"/>
+		<attribute key="healthGain" value="600"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15241" article="a" name="Furie Grand Fisher Mask">
 		<attribute key="weight" value="4000"/>
 		<attribute key="armor" value="25"/>
+		<attribute key="healthGain" value="700"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15102" article="an" name="Adjuchas Mask">
 		<attribute key="weight" value="1050"/>
 		<attribute key="armor" value="35"/>
+		<attribute key="healthGain" value="800"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15248" article="an" name="Elite Adjuchas Mask">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="35"/>
+		<attribute key="healthGain" value="900"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15249" article="a" name="Furie Adjuchas Mask">
 		<attribute key="weight" value="4000"/>
 		<attribute key="armor" value="35"/>
+		<attribute key="healthGain" value="1000"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15103" article="a" name="Gillian Mask">
 		<attribute key="weight" value="1050"/>
 		<attribute key="armor" value="29"/>
+		<attribute key="healthGain" value="300"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15250" article="an" name="Elite Gillian Mask">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="29"/>
+		<attribute key="healthGain" value="400"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15251" article="a" name="Furie Gillian Mask">
 		<attribute key="weight" value="4000"/>
 		<attribute key="armor" value="29"/>
+		<attribute key="healthGain" value="500"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15104" article="a" name="Spider Mask">
 		<attribute key="weight" value="1050"/>
 		<attribute key="armor" value="25"/>
+		<attribute key="healthGain" value="400"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15256" article="an" name="Elite Spider Mask">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="25"/>
+		<attribute key="healthGain" value="500"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15257" article="a" name="Furie Spider Mask">
 		<attribute key="weight" value="4000"/>
 		<attribute key="armor" value="25"/>
+		<attribute key="healthGain" value="600"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15105" article="an" name="Arak Mask">
 		<attribute key="weight" value="1050"/>
 		<attribute key="armor" value="15"/>
+		<attribute key="healthGain" value="400"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15260" article="an" name="Elite Arak Mask">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="16"/>
+		<attribute key="healthGain" value="500"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15261" article="a" name="Furie Arak Mask">
 		<attribute key="weight" value="4000"/>
 		<attribute key="armor" value="16"/>
+		<attribute key="healthGain" value="600"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15772" article="an" name="Arrancar Mask">
 		<attribute key="weight" value="1050"/>
 		<attribute key="armor" value="30"/>
+		<attribute key="healthGain" value="600"/>
+		<attribute key="healthTicks" value="1000"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15767" article="a" name="Vast Lord Mask">
@@ -23357,7 +23505,7 @@
 		<attribute key="charges" value="180"/>
 		<attribute key="showcharges" value="1"/>
 	</item>
-	
+
 	<item id="16587" article="a" name="black borboleta">
 		<attribute key="weight" value="2500"/>
 	</item>
