@@ -15,7 +15,6 @@ function onThink() npcHandler:onThinkCreatureSay() end
 local talkState = {}
 local task_monsters = {
 	{ name = "Snake Hollow", total_kills = 100 },
-	{ name = "Black Wolf", total_kills = 250 },
 	{ name = "Hollow Wolf", total_kills = 400 },
 	{ name = "Fishbone D", total_kills = 1200 },
 	{ name = "Giant Snake", total_kills = 1700 },
