@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Monster Level: 180 -->
 <monster name="Demonic Hollow" nameDescription="Demonic Hollow" race="blood" experience="7500" speed="600" manacost="0">
-	<health now="200000" max="200000"/>
+	<health now="259200" max="259200"/>
 	<look type="65" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>

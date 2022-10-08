@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Monster Level: 1 -->
 <monster name="Rat" nameDescription="Rat" race="blood" experience="150" speed="100" manacost="0">
-	<health now="900" max="900"/>
+	<health now="800" max="800"/>
 	<look type="343" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>

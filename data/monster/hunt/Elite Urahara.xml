@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Monster Level: 140 -->
 <monster name="Elite Urahara" nameDescription="Elite Urahara" race="blood" experience="4500" speed="500" manacost="0">
-	<health now="180000" max="180000"/>
+	<health now="140000" max="140000"/>
 	<look type="255" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Monster Level: 30 -->
 <monster name="Elite Bandit" nameDescription="Elite Bandit" race="blood" experience="900" speed="100" manacost="0">
-	<health now="30000" max="30000"/>
+	<health now="7200" max="7200"/>
 	<look type="111" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>

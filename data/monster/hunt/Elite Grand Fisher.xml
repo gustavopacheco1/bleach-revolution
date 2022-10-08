@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Monster Level: 230 -->
 <monster name="Elite Grand Fisher" nameDescription="Grande Fisher Lv 2" race="blood" experience="11500" speed="600" manacost="0">
-    <health now="300000" max="300000"/>
+    <health now="423200" max="4232000"/>
     <look type="11" corpse="16330"/>
     <targetchange interval="5000" chance="8"/>
     <strategy attack="100" defense="0"/>

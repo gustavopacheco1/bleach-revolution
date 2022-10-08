@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Monster Level: 120 -->
 <monster name="Furie Hollow" nameDescription="Furie Hollow" race="blood" experience="3500" speed="500" manacost="0">
-	<health now="150000" max="150000"/>
+	<health now="115000" max="115000"/>
 	<look type="33" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>

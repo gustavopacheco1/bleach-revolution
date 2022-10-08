@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Monster Level: 30 -->
 <monster name="Hollow Wolf" nameDescription="Hollow Wolf" race="blood" experience="900" speed="100" manacost="0">
-	<health now="3000" max="3000"/>
+	<health now="7200" max="7200"/>
 	<look type="118" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>

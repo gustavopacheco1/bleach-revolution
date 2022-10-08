@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Monster Level: 250 -->
 <monster name="Quincy" nameDescription="Quincy" race="blood" experience="13500" speed="600" manacost="0">
-	<health now="400000" max="400000"/>
+	<health now="500000" max="500000"/>
 	<look type="35" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>

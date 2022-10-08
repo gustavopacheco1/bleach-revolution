@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Monster Level: 230 -->
 <monster name="Elite Nnoitra" nameDescription="Elite Nnoitra" race="blood" experience="11500" speed="600" manacost="0">
-	<health now="300000" max="300000"/>
+	<health now="423200" max="423200"/>
 	<look type="336" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
