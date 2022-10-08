@@ -3,7 +3,6 @@
 	<monster name="Punching Bag" file="Punching Bag.xml"/>
 
 	<!-- Hunt -->
-	<monster name="Black Wolf" file="hunt/black wolf.xml"/>
 	<monster name="Snake Hollow" file="hunt/Snake Hollow.xml"/>
 	<monster name="Arrancar Hollow" file="hunt/Arrancar Hollow.xml"/>
 	<monster name="Gillian" file="hunt/Gillian.xml"/>
