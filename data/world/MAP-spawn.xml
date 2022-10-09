@@ -3140,6 +3140,19 @@
 		<monster name="Grand Fisher" x="1" y="-1" z="4" spawntime="60" />
 		<monster name="Grand Fisher" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
+	<spawn centerx="3622" centery="3875" centerz="4" radius="1">
+		<monster name="Gillian" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Gillian" x="1" y="-1" z="4" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3632" centery="3877" centerz="4" radius="1">
+		<monster name="Gillian" x="0" y="0" z="4" spawntime="60" />
+		<monster name="Gillian" x="-1" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="3616" centery="3880" centerz="4" radius="1">
+		<monster name="Gillian" x="-1" y="-1" z="4" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
 	<spawn centerx="3834" centery="3968" centerz="4" radius="1">
 		<monster name="Elite Nnoitra" x="0" y="-1" z="4" spawntime="60" />
 	</spawn>
@@ -5785,13 +5798,90 @@
 		<monster name="Giant Snake" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Giant Snake" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3559" centery="3857" centerz="5" radius="1">
+		<monster name="Gillian" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Gillian" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3569" centery="3857" centerz="5" radius="1">
+		<monster name="Gillian" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3586" centery="3858" centerz="5" radius="1">
+		<monster name="Gillian" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Gillian" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3557" centery="3868" centerz="5" radius="1">
+		<monster name="Gillian" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Gillian" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="2793" centery="3869" centerz="5" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Grand Fisher" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3589" centery="3869" centerz="5" radius="1">
+		<monster name="Gillian" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3571" centery="3870" centerz="5" radius="1">
+		<monster name="Gillian" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Gillian" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="2800" centery="3872" centerz="5" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Grand Fisher" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3631" centery="3873" centerz="5" radius="1">
+		<monster name="Gillian" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3617" centery="3876" centerz="5" radius="1">
+		<monster name="Gillian" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Gillian" x="-1" y="1" z="5" spawntime="60" />
+		<monster name="Gillian" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3629" centery="3881" centerz="5" radius="1">
+		<monster name="Gillian" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Gillian" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3508" centery="3885" centerz="5" radius="1">
+		<monster name="Gillian" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Gillian" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3523" centery="3886" centerz="5" radius="1">
+		<monster name="Gillian" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3497" centery="3887" centerz="5" radius="1">
+		<monster name="Gillian" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Gillian" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3515" centery="3897" centerz="5" radius="1">
+		<monster name="Gillian" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3496" centery="3899" centerz="5" radius="1">
+		<monster name="Gillian" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3514" centery="3910" centerz="5" radius="1">
+		<monster name="Gillian" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Gillian" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3525" centery="3910" centerz="5" radius="1">
+		<monster name="Gillian" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3503" centery="3911" centerz="5" radius="1">
+		<monster name="Gillian" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Gillian" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3477" centery="3961" centerz="5" radius="1">
 		<monster name="Gillian" x="-1" y="-1" z="5" spawntime="60" />
@@ -10293,6 +10383,19 @@
 		<monster name="Furie Hollow" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3570" centery="3855" centerz="6" radius="1">
+		<monster name="Gillian" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Gillian" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3559" centery="3859" centerz="6" radius="1">
+		<monster name="Gillian" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Gillian" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3589" centery="3859" centerz="6" radius="1">
+		<monster name="Gillian" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Gillian" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="2790" centery="3863" centerz="6" radius="1">
 		<monster name="Grand Fisher" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
@@ -10301,14 +10404,28 @@
 		<monster name="Grand Fisher" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3572" centery="3864" centerz="6" radius="1">
+		<monster name="Gillian" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Gillian" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3858" centery="3868" centerz="6" radius="1">
 		<monster name="Mummy" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Mummy" x="-1" y="1" z="6" spawntime="60" />
 		<monster name="Mummy" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3559" centery="3869" centerz="6" radius="1">
+		<monster name="Gillian" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Gillian" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Gillian" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="2779" centery="3870" centerz="6" radius="1">
 		<monster name="Grand Fisher" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3582" centery="3870" centerz="6" radius="1">
+		<monster name="Gillian" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3792" centery="3870" centerz="6" radius="1">
 		<monster name="Mummy" x="1" y="-1" z="6" spawntime="60" />
@@ -10342,6 +10459,11 @@
 		<monster name="Grand Fisher" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3626" centery="3873" centerz="6" radius="1">
+		<monster name="Gillian" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Gillian" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3790" centery="3874" centerz="6" radius="1">
 		<monster name="Mummy" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Mummy" x="1" y="1" z="6" spawntime="60" />
@@ -10350,6 +10472,10 @@
 		<monster name="Mummy" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Mummy" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Mummy" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3634" centery="3877" centerz="6" radius="1">
+		<monster name="Gillian" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3796" centery="3877" centerz="6" radius="1">
 		<monster name="Mummy" x="-1" y="-1" z="6" spawntime="60" />
@@ -10365,17 +10491,44 @@
 		<monster name="Grand Fisher" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3621" centery="3880" centerz="6" radius="1">
+		<monster name="Gillian" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3510" centery="3884" centerz="6" radius="1">
+		<monster name="Gillian" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Gillian" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="2803" centery="3885" centerz="6" radius="1">
 		<monster name="Grand Fisher" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3523" centery="3886" centerz="6" radius="1">
+		<monster name="Gillian" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Gillian" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3755" centery="3887" centerz="6" radius="1">
 		<monster name="Mummy" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Mummy" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Mummy" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3509" centery="3892" centerz="6" radius="1">
+		<monster name="Gillian" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3755" centery="3892" centerz="6" radius="1">
 		<monster name="Mummy" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3497" centery="3898" centerz="6" radius="1">
+		<monster name="Gillian" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Gillian" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3523" centery="3898" centerz="6" radius="1">
+		<monster name="Gillian" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Gillian" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3710" centery="3898" centerz="6" radius="1">
 		<monster name="Mummy" x="-1" y="1" z="6" spawntime="60" />
@@ -10399,6 +10552,10 @@
 		<monster name="Mummy" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Mummy" x="-1" y="1" z="6" spawntime="60" />
 		<monster name="Mummy" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3507" centery="3907" centerz="6" radius="1">
+		<monster name="Gillian" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3790" centery="3907" centerz="6" radius="1">
 		<monster name="Mummy" x="1" y="-1" z="6" spawntime="60" />
@@ -10424,6 +10581,11 @@
 	<spawn centerx="3712" centery="3909" centerz="6" radius="1">
 		<monster name="Mummy" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Mummy" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3524" centery="3910" centerz="6" radius="1">
+		<monster name="Gillian" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Gillian" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3853" centery="3910" centerz="6" radius="1">
 		<monster name="Mummy" x="1" y="-1" z="6" spawntime="60" />
@@ -17557,24 +17719,18 @@
 		<monster name="Mummy" x="0" y="1" z="7" spawntime="60" />
 		<monster name="Mummy" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3591" centery="3849" centerz="7" radius="1">
+	<spawn centerx="3559" centery="3856" centerz="7" radius="1">
 		<monster name="Gillian" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
+		<monster name="Gillian" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3577" centery="3856" centerz="7" radius="1">
+		<monster name="Gillian" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2797" centery="3857" centerz="7" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Grand Fisher" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3562" centery="3857" centerz="7" radius="1">
-		<monster name="Gillian" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Gillian" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Gillian" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3577" centery="3857" centerz="7" radius="1">
-		<monster name="Gillian" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3826" centery="3857" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="-1" z="7" spawntime="60" />
@@ -17597,10 +17753,6 @@
 	<spawn centerx="2990" centery="3860" centerz="7" radius="1">
 		<monster name="Demonic Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3548" centery="3860" centerz="7" radius="1">
-		<monster name="Gillian" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="2779" centery="3861" centerz="7" radius="1">
 		<monster name="Grand Fisher" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
@@ -17611,6 +17763,10 @@
 	</spawn>
 	<spawn centerx="2984" centery="3862" centerz="7" radius="1">
 		<monster name="Demonic Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3575" centery="3862" centerz="7" radius="1">
+		<monster name="Gillian" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2812" centery="3863" centerz="7" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
@@ -17630,19 +17786,20 @@
 		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Grand Fisher" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3556" centery="3867" centerz="7" radius="1">
+		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3591" centery="3867" centerz="7" radius="1">
+		<monster name="Gillian" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Gillian" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3829" centery="3868" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Mummy" x="-1" y="1" z="7" spawntime="60" />
 		<monster name="Mummy" x="0" y="1" z="7" spawntime="60" />
 		<monster name="Mummy" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3564" centery="3869" centerz="7" radius="1">
-		<monster name="Gillian" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3587" centery="3869" centerz="7" radius="1">
-		<monster name="Gillian" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3822" centery="3869" centerz="7" radius="1">
 		<monster name="Mummy" x="-1" y="-1" z="7" spawntime="60" />
@@ -17692,6 +17849,10 @@
 	<spawn centerx="2995" centery="3872" centerz="7" radius="1">
 		<monster name="Demonic Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3629" centery="3872" centerz="7" radius="1">
+		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Gillian" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="2985" centery="3873" centerz="7" radius="1">
 		<monster name="Demonic Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -17702,13 +17863,8 @@
 		<monster name="Demonic Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3492" centery="3873" centerz="7" radius="1">
-		<monster name="Gillian" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Gillian" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3617" centery="3873" centerz="7" radius="1">
-		<monster name="Gillian" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
+		<monster name="Gillian" x="1" y="-1" z="7" spawntime="0" />
+		<monster name="Gillian" x="-1" y="1" z="7" spawntime="0" />
 	</spawn>
 	<spawn centerx="3755" centery="3873" centerz="7" radius="1">
 		<monster name="Mummy" x="1" y="-1" z="7" spawntime="60" />
@@ -17726,9 +17882,8 @@
 		<monster name="Mummy" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3532" centery="3874" centerz="7" radius="1">
-		<monster name="Gillian" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Gillian" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
+		<monster name="Gillian" x="1" y="-1" z="7" spawntime="0" />
+		<monster name="Gillian" x="-1" y="1" z="7" spawntime="0" />
 	</spawn>
 	<spawn centerx="3790" centery="3874" centerz="7" radius="1">
 		<monster name="Mummy" x="-1" y="-1" z="7" spawntime="60" />
@@ -17750,11 +17905,6 @@
 	</spawn>
 	<spawn centerx="3009" centery="3875" centerz="7" radius="1">
 		<monster name="Demonic Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3649" centery="3875" centerz="7" radius="1">
-		<monster name="Gillian" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Gillian" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2779" centery="3876" centerz="7" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
@@ -17815,11 +17965,6 @@
 		<monster name="Demonic Hollow" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Demonic Hollow" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3603" centery="3879" centerz="7" radius="1">
-		<monster name="Gillian" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Gillian" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3824" centery="3879" centerz="7" radius="1">
 		<monster name="Mummy" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Mummy" x="1" y="-1" z="7" spawntime="60" />
@@ -17829,6 +17974,11 @@
 	<spawn centerx="2811" centery="3880" centerz="7" radius="1">
 		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Grand Fisher" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3616" centery="3880" centerz="7" radius="1">
+		<monster name="Gillian" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Gillian" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2794" centery="3881" centerz="7" radius="1">
 		<monster name="Grand Fisher" x="-1" y="-1" z="7" spawntime="60" />
@@ -17868,6 +18018,11 @@
 		<monster name="Gillian" x="-1" y="1" z="7" spawntime="60" />
 		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3628" centery="3882" centerz="7" radius="1">
+		<monster name="Gillian" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Gillian" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3060" centery="3883" centerz="7" radius="1">
 		<monster name="Demonic Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -17888,8 +18043,17 @@
 	<spawn centerx="3052" centery="3884" centerz="7" radius="1">
 		<monster name="Demonic Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3506" centery="3884" centerz="7" radius="1">
+		<monster name="Gillian" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="2990" centery="3885" centerz="7" radius="1">
 		<monster name="Demonic Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3524" centery="3885" centerz="7" radius="1">
+		<monster name="Gillian" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Gillian" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3808" centery="3885" centerz="7" radius="1">
 		<monster name="Mummy" x="-1" y="-1" z="7" spawntime="60" />
@@ -17903,6 +18067,10 @@
 	</spawn>
 	<spawn centerx="3046" centery="3886" centerz="7" radius="1">
 		<monster name="Demonic Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3496" centery="3886" centerz="7" radius="1">
+		<monster name="Gillian" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3757" centery="3886" centerz="7" radius="1">
 		<monster name="Mummy" x="1" y="-1" z="7" spawntime="60" />
@@ -17942,10 +18110,6 @@
 		<monster name="Grand Fisher" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Grand Fisher" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3524" centery="3889" centerz="7" radius="1">
-		<monster name="Gillian" x="0" y="1" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3577" centery="3889" centerz="7" radius="1">
 		<monster name="Gillian" x="-1" y="1" z="7" spawntime="60" />
 		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
@@ -17961,11 +18125,6 @@
 		<monster name="Mummy" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3601" centery="3890" centerz="7" radius="1">
-		<monster name="Gillian" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3623" centery="3890" centerz="7" radius="1">
-		<monster name="Gillian" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Gillian" x="-1" y="1" z="7" spawntime="60" />
 		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
@@ -17994,10 +18153,6 @@
 		<monster name="Gillian" x="-1" y="1" z="7" spawntime="60" />
 		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3494" centery="3892" centerz="7" radius="1">
-		<monster name="Gillian" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3755" centery="3892" centerz="7" radius="1">
 		<monster name="Mummy" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Mummy" x="1" y="-1" z="7" spawntime="60" />
@@ -18012,6 +18167,10 @@
 	</spawn>
 	<spawn centerx="3052" centery="3893" centerz="7" radius="1">
 		<monster name="Demonic Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3518" centery="3893" centerz="7" radius="1">
+		<monster name="Gillian" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3023" centery="3894" centerz="7" radius="1">
 		<monster name="Demonic Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -18066,6 +18225,10 @@
 	<spawn centerx="3014" centery="3898" centerz="7" radius="1">
 		<monster name="Demonic Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3498" centery="3898" centerz="7" radius="1">
+		<monster name="Gillian" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3710" centery="3898" centerz="7" radius="1">
 		<monster name="Mummy" x="-1" y="1" z="7" spawntime="60" />
 		<monster name="Mummy" x="1" y="1" z="7" spawntime="60" />
@@ -18104,17 +18267,17 @@
 	<spawn centerx="3037" centery="3901" centerz="7" radius="1">
 		<monster name="Demonic Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3512" centery="3901" centerz="7" radius="1">
+		<monster name="Gillian" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Gillian" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3634" centery="3901" centerz="7" radius="1">
 		<monster name="Gillian" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Gillian" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3058" centery="3902" centerz="7" radius="1">
 		<monster name="Demonic Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3556" centery="3902" centerz="7" radius="1">
-		<monster name="Gillian" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Gillian" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3717" centery="3902" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="-1" z="7" spawntime="60" />
@@ -18158,11 +18321,6 @@
 	</spawn>
 	<spawn centerx="3053" centery="3904" centerz="7" radius="1">
 		<monster name="Demonic Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3523" centery="3904" centerz="7" radius="1">
-		<monster name="Gillian" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Gillian" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3595" centery="3905" centerz="7" radius="1">
 		<monster name="Gillian" x="1" y="-1" z="7" spawntime="60" />
@@ -18213,11 +18371,6 @@
 		<monster name="Demonic Hollow" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Demonic Hollow" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3492" centery="3908" centerz="7" radius="1">
-		<monster name="Gillian" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Gillian" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3734" centery="3908" centerz="7" radius="1">
 		<monster name="Mummy" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
@@ -18225,6 +18378,11 @@
 		<monster name="Mummy" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Mummy" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3523" centery="3909" centerz="7" radius="1">
+		<monster name="Gillian" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Gillian" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3698" centery="3909" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="-1" z="7" spawntime="60" />
@@ -18243,6 +18401,11 @@
 	</spawn>
 	<spawn centerx="3063" centery="3910" centerz="7" radius="1">
 		<monster name="Demonic Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3500" centery="3910" centerz="7" radius="1">
+		<monster name="Gillian" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Gillian" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3791" centery="3910" centerz="7" radius="1">
 		<monster name="Mummy" x="-1" y="-1" z="7" spawntime="60" />
@@ -18303,6 +18466,10 @@
 	<spawn centerx="3057" centery="3913" centerz="7" radius="1">
 		<monster name="Demonic Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3512" centery="3913" centerz="7" radius="1">
+		<monster name="Gillian" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3863" centery="3913" centerz="7" radius="1">
 		<monster name="Mummy" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" />
@@ -18342,15 +18509,6 @@
 		<monster name="Demonic Hollow" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Demonic Hollow" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3534" centery="3915" centerz="7" radius="1">
-		<monster name="Gillian" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3553" centery="3915" centerz="7" radius="1">
-		<monster name="Gillian" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Gillian" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3722" centery="3915" centerz="7" radius="1">
 		<monster name="Mummy" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
@@ -18364,10 +18522,6 @@
 	</spawn>
 	<spawn centerx="3064" centery="3916" centerz="7" radius="1">
 		<monster name="Demonic Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3514" centery="3916" centerz="7" radius="1">
-		<monster name="Gillian" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3643" centery="3916" centerz="7" radius="1">
 		<monster name="Gillian" x="-1" y="1" z="7" spawntime="60" />
@@ -18459,11 +18613,6 @@
 	</spawn>
 	<spawn centerx="3055" centery="3926" centerz="7" radius="1">
 		<monster name="Demonic Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3500" centery="3926" centerz="7" radius="1">
-		<monster name="Gillian" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Gillian" x="0" y="1" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3622" centery="3926" centerz="7" radius="1">
 		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
