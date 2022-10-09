@@ -17863,8 +17863,8 @@
 		<monster name="Demonic Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3492" centery="3873" centerz="7" radius="1">
-		<monster name="Gillian" x="1" y="-1" z="7" spawntime="0" />
-		<monster name="Gillian" x="-1" y="1" z="7" spawntime="0" />
+		<monster name="Gillian" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Gillian" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3755" centery="3873" centerz="7" radius="1">
 		<monster name="Mummy" x="1" y="-1" z="7" spawntime="60" />
@@ -17882,8 +17882,8 @@
 		<monster name="Mummy" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3532" centery="3874" centerz="7" radius="1">
-		<monster name="Gillian" x="1" y="-1" z="7" spawntime="0" />
-		<monster name="Gillian" x="-1" y="1" z="7" spawntime="0" />
+		<monster name="Gillian" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Gillian" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3790" centery="3874" centerz="7" radius="1">
 		<monster name="Mummy" x="-1" y="-1" z="7" spawntime="60" />
