@@ -191,7 +191,7 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 
 		doSendMagicEffect({
 			x = toPosition.x + 2,
-			y = toPosition.y + 1,
+			y = toPosition.y,
 			z = toPosition.z
 		}, 600)
 

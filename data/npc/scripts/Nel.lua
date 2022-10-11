@@ -97,10 +97,10 @@ function onCreatureSay(cid, type, msg)
 
 							for i = 0, 9 do
 								addEvent(function()
-									for i = 1, 17 do
+									for i = 1, 30 do
 										doSendMagicEffect({
-											x = teleport_position.x + math.random(-4, 4),
-											y = teleport_position.y + math.random(-4, 4),
+											x = teleport_position.x + math.random(-7, 7),
+											y = teleport_position.y + math.random(-7, 7),
 											z = teleport_position.z
 										}, effects[math.random(1, 2)])
 									end
@@ -121,7 +121,11 @@ function onCreatureSay(cid, type, msg)
 						end
 
 						doTeleportThing(cid, menus_florest_position)
-						doSendMagicEffect(menus_florest_position, 111)
+						doSendMagicEffect({
+							x = menus_florest_position.x + 1,
+							y = menus_florest_position.y,
+							z = menus_florest_position.z
+						}, 111)
 
 						doCreatureSetNoMove(cid, false)
 						doCreatureSetStorage(cid, "menus_florest_access", 1)
