@@ -23497,8 +23497,7 @@
 		<attribute key="charges" value="180"/>
 		<attribute key="showcharges" value="1"/>
 	</item>
-
-	<item id="16587" article="a" name="black borboleta">
+	<item id="16587" article="a" name="black butterfly">
 		<attribute key="weight" value="2500"/>
 	</item>
 

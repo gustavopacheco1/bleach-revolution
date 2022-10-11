@@ -19,6 +19,10 @@ local teleports = {
 		position = { x = 3379, y = 4115, z = 7 },
 		level = 230
 	},
+	[20007] = {
+		position = { x = 3500, y = 3033, z = 7 },
+		item = { id = 16587, count = 1 }
+	},
 }
 
 function onUse(cid, item, fromPosition, itemEx, toPosition)
@@ -38,6 +42,12 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 				"You need to be level " .. teleport.level .. " to pass.",
 				"Você precisa ser nível " .. teleport.level .. " para passar."
 			)
+		end
+	end
+
+	if teleport.item then
+		if not doPlayerRemoveItem(cid, teleport.item.id, teleport.item.count) then
+			return false
 		end
 	end
 
