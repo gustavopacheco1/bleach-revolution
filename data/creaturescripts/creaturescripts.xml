@@ -21,6 +21,7 @@
 	<event type="login" name="FirstItems" event="script" value="first_items.lua"/>
 	<event type="kill" name="TutorialTask" event="script" value="tutorial_task.lua"/>
 	<event type="login" name="SkillsStagesLogin" event="script" value="skills_stages.lua"/>
+	<event type="login" name="PremiumExpBonus" event="script" value="premium_exp_bonus.lua"/>
 	<event type="advance" name="SkillsStagesAdvance" event="script" value="skills_stages.lua"/>
 
 	<!-- Monsters Events -->
