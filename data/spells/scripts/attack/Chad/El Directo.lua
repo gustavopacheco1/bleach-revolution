@@ -4,12 +4,6 @@ setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_ENERGYDAMAGE)
 onGetFormulaValues = getFiveShootsFormula
 setCombatCallback(combat, CALLBACK_PARAM_LEVELMAGICVALUE, "onGetFormulaValues")
 
-
-local combat = createCombatObject()
-setCombatParam(combat, COMBAT_PARAM_HITCOLOR, COLOR_PINK)
-setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_ENERGYDAMAGE)
-setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -50.0, 0, -65.0, 0)
-
 function onCastSpell(cid, var)
 		CustomSpell.randomShoot(
 			cid,
@@ -21,4 +15,4 @@ function onCastSpell(cid, var)
 		)
 	end
 	return true
-end
+

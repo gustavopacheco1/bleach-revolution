@@ -15,4 +15,3 @@ function onCastSpell(cid, var)
         )
     end
     return true
-end
