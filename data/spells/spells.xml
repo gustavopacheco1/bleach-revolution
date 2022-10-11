@@ -177,7 +177,11 @@
 	<instant name="Geki" words="Geki" lvl="10" maglv="10" mana="80" prem="0" range="8" needtarget="1" blockwalls="1" exhaustion="1500" exhaustedGroup="attack" needlearn="0" event="script" value="attack/geki.lua"/>
 	<instant name="Shitotsu Sansen" words="Shitotsu Sansen" lvl="20" maglv="15" mana="300" prem="0" range="8" needtarget="1" blockwalls="1" exhaustion="1500" exhaustedGroup="attack" needlearn="0" event="script" value="attack/shitotsu_sansen.lua"/>
 	<instant name="Gochutekkan" words="Gochutekkan" lvl="30" maglv="20" mana="500" prem="0" range="8" needtarget="1" blockwalls="1" exhaustion="1500" exhaustedGroup="attack" needlearn="0" event="script" value="attack/gochutekkan.lua"/>
-
+	<instant name="Cero" words="Cero" lvl="50" mana="2000" maglv="30" prem="0" direction="1" exhaustion="400" needlearn="0" event="script" value="attack/Cero.lua">
+		<vocation id="6"/> <!-- Ulquiorra Ciffer -->
+		<vocation id="11"/> <!-- Nelliel Odelschwanck -->
+		<vocation id="21"/> <!-- Nnoitra Gilga -->
+	</instant>
 	<!-- Area -->
 	<instant name="Getsuga Wave" words="Getsuga Wave" lvl="80" maglv="60" mana="7600" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Getsuga Wave.lua">
 		<vocation id="1"/> <!-- Ichigo Kurosaki -->
@@ -245,9 +249,6 @@
 
 	<!-- Ulquiorra -->
 	<instant name="Lanza Del Relampago" words="Lanza Del Relampago" lvl="100" maglv="80" mana="3000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Ulquiorra/Lanza Del Relampago.lua">
-		<vocation id="6"/>
-	</instant>
-	<instant name="Ceeroo" words="Ceeroo" lvl="50" mana="2000" maglv="30" prem="0" direction="1" exhaustion="400" needlearn="0" event="script" value="attack/Ulquiorra/Ceeroo.lua">
 		<vocation id="6"/>
 	</instant>
 	<instant name="Cero Oscuras" words="Cero Oscuras" lvl="100" mana="500" maglv="30" prem="0" direction="1" exhaustion="1000" needlearn="0" event="script" value="attack/Ulquiorra/Cero Oscuras.lua">
@@ -338,9 +339,6 @@
 	<instant name="Lanza" words="Lanza" lvl="100" maglv="80" mana="3000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Nelliel/Lanza.lua">
 		<vocation id="11"/>
 	</instant>
-	<instant name="Cero" words="Cero" lvl="50" mana="2000" maglv="30" prem="0" direction="1" exhaustion="400" needlearn="0" event="script" value="attack/Nelliel/Cero.lua">
-		<vocation id="11"/>
-	</instant>
 
 	<!-- Chad -->
 	<instant name="El Directo" words="El Directo" lvl="100" maglv="80" mana="3000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Chad/El Directo.lua">
@@ -407,10 +405,7 @@
 	</instant>
 
 	<!-- Nnoitra Gilga -->
-	<instant name="Balaa" words="Balaa" lvl="100" maglv="80" mana="3000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Nnoitra/Balaa.lua">
-		<vocation id="21"/>
-	</instant>
-	<instant name="Ceroo" words="Ceroo" lvl="50" maglv="30" mana="2000" prem="0" exhaustion="400" needlearn="0" needtarget="1" event="script" value="attack/Nnoitra/Ceroo.lua">
+	<instant name="Bala" words="Bala" lvl="100" maglv="80" mana="3000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Nnoitra/Bala.lua">
 		<vocation id="21"/>
 	</instant>
 </spells>
