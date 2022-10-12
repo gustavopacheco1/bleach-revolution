@@ -689,11 +689,15 @@
 	<item id="16526" article="an" name="open door">
 		<attribute key="type" value="door"/>
 	</item>
-	<item id="16528" article="an" name="open door">
+	<item id="16528" article="a" name="gate of expertise">
 		<attribute key="type" value="door"/>
+		<attribute key="levelDoor" value="1000"/>
+		<attribute key="blockprojectile" value="1"/>
 	</item>
-	<item id="16530" article="an" name="open door">
+	<item id="16530" article="a" name="gate of expertise">
 		<attribute key="type" value="door"/>
+		<attribute key="levelDoor" value="1000"/>
+		<attribute key="blockprojectile" value="1"/>
 	</item>
 	<item id="1215" article="a" name="buttress"/>
 	<item id="1216" article="a" name="buttress"/>
@@ -706,11 +710,15 @@
 	<item id="1220" article="an" name="open door">
 		<attribute key="type" value="door"/>
 	</item>
-	<item id="16682" article="an" name="open door">
+	<item id="16682" article="a" name="gate of expertise">
 		<attribute key="type" value="door"/>
+		<attribute key="levelDoor" value="1000"/>
+		<attribute key="blockprojectile" value="1"/>
 	</item>
-	<item id="16683" article="an" name="open door">
+	<item id="16683" article="a" name="gate of expertise">
 		<attribute key="type" value="door"/>
+		<attribute key="levelDoor" value="1000"/>
+		<attribute key="blockprojectile" value="1"/>
 	</item>
 	<item id="1221" article="a" name="closed door">
 		<attribute key="type" value="door"/>
