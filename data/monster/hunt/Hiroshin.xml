@@ -38,5 +38,7 @@
 		<item id="5897" chance="2000" count="1" countmax="15"/> <!-- wolf paw -->
 		<item id="15687" chance="2000" count="1" countmax="15"/> <!-- soul essence -->
 		<item id="15230" chance="2000" count="1" countmax="15"/> <!-- part of horror -->
+		<item id="10624" chance="12000" count="1" countmax="1"/> <!-- great soul stone -->
+		<item id="10625" chance="9000" count="1" countmax="1"/> <!-- ultimate soul stone -->
 	</loot>
 </monster>
