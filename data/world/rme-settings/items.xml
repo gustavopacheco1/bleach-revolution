@@ -21869,33 +21869,37 @@
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="60"/>
 		<attribute key="magicpoints" value="5"/>
-		<attribute key="skillSword" value="4"/>
-		<attribute key="skillClub" value="4"/>
-		<attribute key="skillDist" value="4"/>
+		<attribute key="skillSword" value="5"/>
+		<attribute key="absorbPercentEnergy" value="2"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15716" article="a" name="Founder Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="60"/>
-		<attribute key="manaGain" value="200"/>
+		<attribute key="manaGain" value="500"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="1200"/>
+		<attribute key="healthGain" value="2300"/>
 		<attribute key="healthTicks" value="1000"/>
+		<attribute key="absorbPercentEnergy" value="2"/>
+		<attribute key="skillAxe" value="5"/>
 		<attribute key="slotType" value="body"/>
 	</item>
 	<item id="15717" article="a" name="Founder Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="60"/>
-		<attribute key="manaGain" value="200"/>
+		<attribute key="manaGain" value="500"/>
 		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="1200"/>
+		<attribute key="healthGain" value="2300"/>
 		<attribute key="healthTicks" value="1000"/>
+		<attribute key="skillDist" value="5"/>
+		<attribute key="absorbPercentPhysical" value="2"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
 	<item id="15718" article="a" name="Founder Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="60"/>
 		<attribute key="speed" value="18"/>
+		<attribute key="absorbPercentPhysical" value="2"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
@@ -21903,35 +21907,35 @@
 	<item id="15723" article="a" name="Vasto Lorde Helmet">
 		<attribute key="weight" value="1000"/>
 		<attribute key="armor" value="70"/>
-		<attribute key="magicpoints" value="6"/>
-		<attribute key="skillSword" value="6"/>
-		<attribute key="skillClub" value="6"/>
-		<attribute key="skillDist" value="6"/>
+		<attribute key="magicpoints" value="8"/>
+		<attribute key="skillSword" value="8"/>
 		<attribute key="skillShield" value="10"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="15726" article="a" name="Vasto Lorde Armor">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="70"/>
-		<attribute key="healthGain" value="4500"/>
+		<attribute key="healthGain" value="5000"/>
 		<attribute key="healthTicks" value="1000"/>
-		<attribute key="absorbPercentEnergy" value="3"/>
-		<attribute key="absorbPercentPhysical" value="3"/>
+		<attribute key="skillAxe" value="8"/>
+		<attribute key="absorbPercentEnergy" value="8"/>
 		<attribute key="slotType" value="body"/>
 	</item>
 	<item id="15727" article="a" name="Vasto Lorde Legs">
 		<attribute key="weight" value="3000"/>
 		<attribute key="armor" value="70"/>
-		<attribute key="healthGain" value="4500"/>
+		<attribute key="healthGain" value="5000"/>
 		<attribute key="healthTicks" value="1000"/>
-		<attribute key="absorbPercentEnergy" value="3"/>
+		<attribute key="skillDist" value="8"/>
+		<attribute key="absorbPercentPhysical" value="8"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
 	<item id="15722" article="a" name="Vasto Lorde Boots">
 		<attribute key="weight" value="2100"/>
 		<attribute key="armor" value="70"/>
-		<attribute key="magicpoints" value="6"/>
 		<attribute key="speed" value="26"/>
+		<attribute key="skillShield" value="10"/>
+		<attribute key="absorbPercentPhysical" value="8"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
@@ -21941,8 +21945,7 @@
 		<attribute key="armor" value="50"/>
 		<attribute key="magicpoints" value="4"/>
 		<attribute key="skillSword" value="4"/>
-		<attribute key="skillClub" value="4"/>
-		<attribute key="skillDist" value="4"/>
+		<attribute key="absorbPercentEnergy" value="4"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="16087" article="a" name="Vizard Armor">
@@ -21950,8 +21953,8 @@
 		<attribute key="armor" value="50"/>
 		<attribute key="healthGain" value="3500"/>
 		<attribute key="healthTicks" value="1000"/>
-		<attribute key="absorbPercentEnergy" value="2"/>
-		<attribute key="absorbPercentEnergy" value="2"/>
+		<attribute key="skillAxe" value="4"/>
+		<attribute key="absorbPercentEnergy" value="4"/>
 		<attribute key="slotType" value="body"/>
 	</item>
 	<item id="16086" article="a" name="Vizard Legs">
@@ -21959,13 +21962,14 @@
 		<attribute key="armor" value="50"/>
 		<attribute key="healthGain" value="3500"/>
 		<attribute key="healthTicks" value="1000"/>
-		<attribute key="absorbPercentEnergy" value="2"/>
+		<attribute key="skillDist" value="4"/>
+		<attribute key="absorbPercentPhysical" value="4"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
 	<item id="16085" article="a" name="Vizard Boots">
 		<attribute key="weight" value="5000"/>
 		<attribute key="armor" value="50"/>
-		<attribute key="magicpoints" value="3"/>
+		<attribute key="absorbPercentPhysical" value="4"/>
 		<attrubute key="speed" value="22"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
@@ -21974,37 +21978,34 @@
 	<item id="16119" article="an" name="Ultimate Vizard Helmet">
 		<attribute key="weight" value="10000"/>
 		<attribute key="armor" value="55"/>
-		<attribute key="manaGain" value="1100"/>
-		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="2200"/>
-		<attribute key="healthTicks" value="1000"/>
+		<attribute key="magicpoints" value="6"/>
+		<attribute key="skillSword" value="6"/>
+		<attribute key="absorbPercentEnergy" value="6"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="16120" article="an" name="Ultimate Vizard Armor">
 		<attribute key="weight" value="10000"/>
 		<attribute key="armor" value="55"/>
-		<attribute key="manaGain" value="1100"/>
-		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="2200"/>
+		<attribute key="healthGain" value="4000"/>
 		<attribute key="healthTicks" value="1000"/>
+		<attribute key="skillAxe" value="6"/>
+		<attribute key="absorbPercentEnergy" value="6"/>
 		<attribute key="slotType" value="body"/>
 	</item>
 	<item id="16121" article="an" name="Ultimate Vizard Legs">
 		<attribute key="weight" value="10000"/>
 		<attribute key="armor" value="55"/>
-		<attribute key="manaGain" value="1100"/>
-		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="2200"/>
+		<attribute key="healthGain" value="4000"/>
 		<attribute key="healthTicks" value="1000"/>
+		<attribute key="skillDist" value="6"/>
+		<attribute key="absorbPercentPhysical" value="6"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
 	<item id="16122" article="an" name="Ultimate Vizard Boots">
 		<attribute key="weight" value="10000"/>
 		<attribute key="armor" value="55"/>
-		<attribute key="manaGain" value="1100"/>
-		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="2200"/>
-		<attribute key="healthTicks" value="1000"/>
+		<attribute key="absorbPercentPhysical" value="6"/>
+		<attrubute key="speed" value="24"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
@@ -22013,8 +22014,7 @@
 		<attribute key="weight" value="5000"/>
 		<attribute key="armor" value="35"/>
 		<attribute key="skillSword" value="1"/>
-		<attribute key="skillClub" value="1"/>
-		<attribute key="skillDist" value="1"/>
+		<attribute key="absorbPercentEnergy" value="1"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="16090" article="a" name="Kaname Armor">
@@ -22022,6 +22022,8 @@
 		<attribute key="armor" value="35"/>
 		<attribute key="healthGain" value="1800"/>
 		<attribute key="healthTicks" value="1000"/>
+		<attribute key="skillDist" value="1"/>
+		<attribute key="absorbPercentEnergy" value="1"/>
 		<attribute key="slotType" value="body"/>
 	</item>
 	<item id="16091" article="a" name="Kaname Legs">
@@ -22029,12 +22031,15 @@
 		<attribute key="armor" value="35"/>
 		<attribute key="healthGain" value="1800"/>
 		<attribute key="healthTicks" value="1000"/>
+		<attribute key="skillAxe" value="1"/>
+		<attribute key="absorbPercentPhysical" value="1"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
 	<item id="16092" article="a" name="Kaname Boots">
 		<attribute key="weight" value="5000"/>
 		<attribute key="armor" value="35"/>
 		<attribute key="speed" value="11"/>
+		<attribute key="absorbPercentPhysical" value="1"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
@@ -22043,8 +22048,7 @@
 		<attribute key="weight" value="5000"/>
 		<attribute key="armor" value="40"/>
 		<attribute key="skillSword" value="2"/>
-		<attribute key="skillClub" value="2"/>
-		<attribute key="skillDist" value="2"/>
+		<attribute key="absorbPercentPhysical" value="2"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="16094" article="a" name="Nnoitra Armor">
@@ -22052,6 +22056,8 @@
 		<attribute key="armor" value="40"/>
 		<attribute key="healthGain" value="2500"/>
 		<attribute key="healthTicks" value="1000"/>
+		<attribute key="absorbPercentPhysical" value="2"/>
+		<attribute key="skillAxe" value="2"/>
 		<attribute key="slotType" value="body"/>
 	</item>
 	<item id="16095" article="a" name="Nnoitra Legs">
@@ -22059,15 +22065,15 @@
 		<attribute key="armor" value="40"/>
 		<attribute key="healthGain" value="2500"/>
 		<attribute key="healthTicks" value="1000"/>
+		<attribute key="absorbPercentEnergy" value="2"/>
+		<attribute key="skillDist" value="2"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
 	<item id="16096" article="a" name="Nnoitra Boots">
 		<attribute key="weight" value="5000"/>
 		<attribute key="armor" value="40"/>
-		<attribute key="skillSword" value="2"/>
-		<attribute key="skillClub" value="2"/>
-		<attribute key="skillDist" value="2"/>
 		<attribute key="speed" value="14"/>
+		<attribute key="absorbPercentEnergy" value="2"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
@@ -22075,37 +22081,33 @@
 	<item id="16123" article="an" name="Ultimate Nnoitra Helmet">
 		<attribute key="weight" value="10000"/>
 		<attribute key="armor" value="45"/>
-		<attribute key="manaGain" value="800"/>
-		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="1800"/>
-		<attribute key="healthTicks" value="1000"/>
+		<attribute key="absorbPercentEnergy" value="4"/>
+		<attribute key="skillSword" value="4"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="16124" article="an" name="Ultimate Nnoitra Armor">
 		<attribute key="weight" value="10000"/>
 		<attribute key="armor" value="45"/>
-		<attribute key="manaGain" value="800"/>
-		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="1800"/>
+		<attribute key="healthGain" value="3000"/>
 		<attribute key="healthTicks" value="1000"/>
+		<attribute key="skillAxe" value="4"/>
+		<attribute key="absorbPercentEnergy" value="4"/>
 		<attribute key="slotType" value="body"/>
 	</item>
 	<item id="16125" article="an" name="Ultimate Nnoitra Legs">
 		<attribute key="weight" value="10000"/>
 		<attribute key="armor" value="45"/>
-		<attribute key="manaGain" value="800"/>
-		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="1800"/>
+		<attribute key="healthGain" value="3000"/>
 		<attribute key="healthTicks" value="1000"/>
+		<attribute key="skillDist" value="4"/>
+		<attribute key="absorbPercentPhysical" value="4"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
 	<item id="16126" article="an" name="Ultimate Nnoitra Boots">
 		<attribute key="weight" value="10000"/>
 		<attribute key="armor" value="45"/>
-		<attribute key="manaGain" value="800"/>
-		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="1800"/>
-		<attribute key="healthTicks" value="1000"/>
+		<attribute key="speed" value="16"/>
+		<attribute key="absorbPercentPhysical" value="4"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
@@ -22171,9 +22173,8 @@
 		<attribute key="weight" value="5000"/>
 		<attribute key="armor" value="45"/>
 		<attribute key="magicpoints" value="3"/>
-		<attribute key="skillSword" value="2"/>
-		<attribute key="skillClub" value="2"/>
-		<attribute key="skillDist" value="2"/>
+		<attribute key="skillSword" value="3"/>
+		<attribute key="absorbPercentEnergy" value="3"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="16108" article="a" name="Zangetsu Armor">
@@ -22181,7 +22182,8 @@
 		<attribute key="armor" value="45"/>
 		<attribute key="healthGain" value="3000"/>
 		<attribute key="healthTicks" value="1000"/>
-		<attribute key="absorbPercentEnergy" value="1"/>
+		<attribute key="skillAxe" value="3"/>
+		<attribute key="absorbPercentEnergy" value="3"/>
 		<attribute key="slotType" value="body"/>
 	</item>
 	<item id="16109" article="a" name="Zangetsu Legs">
@@ -22189,16 +22191,15 @@
 		<attribute key="armor" value="45"/>
 		<attribute key="healthGain" value="3000"/>
 		<attribute key="healthTicks" value="1000"/>
-		<attribute key="absorbPercentPhysical" value="1"/>
+		<attribute key="skillDist" value="3"/>
+		<attribute key="absorbPercentPhysical" value="3"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
 	<item id="16110" article="a" name="Zangetsu Boots">
 		<attribute key="weight" value="5000"/>
 		<attribute key="armor" value="45"/>
 		<attribute key="speed" value="18"/>
-		<attribute key="skillSword" value="2"/>
-		<attribute key="skillClub" value="2"/>
-		<attribute key="skillDist" value="2"/>
+		<attribute key="absorbPercentPhysical" value="3"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
@@ -22206,37 +22207,34 @@
 	<item id="16127" article="an" name="Ultimate Zangetsu Helmet">
 		<attribute key="weight" value="10000"/>
 		<attribute key="armor" value="50"/>
-		<attribute key="manaGain" value="900"/>
-		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="2000"/>
-		<attribute key="healthTicks" value="1000"/>
+		<attribute key="magicpoints" value="5"/>
+		<attribute key="skillSword" value="5"/>
+		<attribute key="absorbPercentEnergy" value="5"/>
 		<attribute key="slotType" value="head"/>
 	</item>
 	<item id="16128" article="an" name="Ultimate Zangetsu Armor">
 		<attribute key="weight" value="10000"/>
 		<attribute key="armor" value="50"/>
-		<attribute key="manaGain" value="900"/>
-		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="2000"/>
+		<attribute key="healthGain" value="3500"/>
 		<attribute key="healthTicks" value="1000"/>
+		<attribute key="skillAxe" value="5"/>
+		<attribute key="absorbPercentEnergy" value="5"/>
 		<attribute key="slotType" value="body"/>
 	</item>
 	<item id="16129" article="an" name="Ultimate Zangetsu Legs">
 		<attribute key="weight" value="10000"/>
 		<attribute key="armor" value="50"/>
-		<attribute key="manaGain" value="900"/>
-		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="2000"/>
+		<attribute key="healthGain" value="3500"/>
 		<attribute key="healthTicks" value="1000"/>
+		<attribute key="skillDist" value="5"/>
+		<attribute key="absorbPercentPhysical" value="5"/>
 		<attribute key="slotType" value="legs"/>
 	</item>
 	<item id="16130" article="an" name="Ultimate Zangetsu Boots">
 		<attribute key="weight" value="10000"/>
 		<attribute key="armor" value="50"/>
-		<attribute key="manaGain" value="900"/>
-		<attribute key="manaTicks" value="1000"/>
-		<attribute key="healthGain" value="2000"/>
-		<attribute key="healthTicks" value="1000"/>
+		<attribute key="speed" value="20"/>
+		<attribute key="absorbPercentPhysical" value="5"/>
 		<attribute key="slotType" value="feet"/>
 	</item>
 
