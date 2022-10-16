@@ -1,24 +1,24 @@
 local potions = {
 	-- ultimate potion
-	[16112] = { level = 180, heal = { health = 9000, mana = 9000, randomizer = 1000 }, effect = 502 },
+	[16112] = { level = 180, heal = { health = 14000, mana = 14000, randomizer = 1300 }, effect = 502 },
 
 	-- reiatsu potion
-	[16113] = { level = 150, heal = { mana = 9000, randomizer = 1000 }, effect = 502 },
+	[16113] = { level = 80, heal = { mana = 14000, randomizer = 1300 }, effect = 502 },
 
 	-- health potion
-	[16114] = { level = 150, heal = { health = 9000, randomizer = 1000 }, effect = 502 },
+	[16114] = { level = 80, heal = { health = 14000, randomizer = 1300 }, effect = 502 },
 
 	-- reiatsu pill
-	[16116] = { level = 1, heal = { mana = 4500, randomizer = 500 }, effect = 502 },
+	[16116] = { level = 1, heal = { mana = 1800, randomizer = 400 }, effect = 502 },
 
 	-- health pill
-	[16117] = { level = 1, heal = { health = 4500, randomizer = 500 }, effect = 502 },
+	[16117] = { level = 1, heal = { health = 1800, randomizer = 400 }, effect = 502 },
 
 	-- great health potion
-	[16118] = { level = 200, heal = { health = 15000, randomizer = 2500 }, effect = 502 },
+	[16118] = { level = 200, heal = { health = 22000, randomizer = 2500 }, effect = 502 },
 
 	-- great reiatsu potion
-	[16111] = { level = 200, heal = { mana = 15000, randomizer = 2500 }, effect = 502 },
+	[16111] = { level = 200, heal = { mana = 22000, randomizer = 2500 }, effect = 502 },
 }
 
 local exhaust = createConditionObject(CONDITION_EXHAUST)
