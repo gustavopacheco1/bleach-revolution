@@ -6,13 +6,13 @@ setCombatCallback(combat, CALLBACK_PARAM_LEVELMAGICVALUE, "onGetFormulaValues")
 
 local vocations = {
 	[11] = {
-		missile = 90,
+		missile = 95,
 	},
 	[21] = {
 		missile = 90,
 	},
 	[6] = {
-		missile = 93
+		missile = 94
 	},
 }
 

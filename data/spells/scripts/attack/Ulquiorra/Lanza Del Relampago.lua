@@ -1,24 +1,10 @@
 local combat = createCombatObject()
 setCombatParam(combat, COMBAT_PARAM_HITCOLOR, COLOR_PINK)
 setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_ENERGYDAMAGE)
-setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -47.0, 0, -47.0, 0)
-
-local combat = createCombatObject()
-setCombatParam(combat, COMBAT_PARAM_HITCOLOR, COLOR_PINK)
-setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_ENERGYDAMAGE)
-setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -50.0, 0, -65.0, 0)
+onGetFormulaValues = getFiveShootsFormula
+setCombatCallback(combat, CALLBACK_PARAM_LEVELMAGICVALUE, "onGetFormulaValues")
 
 function onCastSpell(cid, var)
-    if hasCreatureCondition(cid, CONDITION_ATTRIBUTES) then
-        CustomSpell.randomShoot(
-            cid,
-            combat,
-            4,
-            300,
-            0,
-            { id = 0, x = 0, y = 0 }
-        )
-    else
         CustomSpell.randomShoot(
             cid,
             combat,
@@ -29,4 +15,4 @@ function onCastSpell(cid, var)
         )
     end
     return true
-end
+

@@ -34,10 +34,10 @@
 		<immunity invisible="0"/>
 	</immunities>
 	<loot>
-		<item id="2160" chance="5000" count="2" countmax="3"/>
-		<item id="10624" chance="400" count="1" countmax="1"/>
-		<item id="10625" chance="300" count="1" countmax="1"/>
-		<item id="10626" chance="200" count="1" countmax="1"/>
-		<item id="10627" chance="100" count="1" countmax="1"/>
+		<item id="2160" chance="5000" count="2" countmax="3"/> <!-- tousand ryo note -->
+		<item id="10624" chance="15000" count="5" countmax="5"/> <!-- great soul stone -->
+		<item id="10625" chance="11000" count="4" countmax="4"/> <!-- ultimate soul stone -->
+		<item id="10626" chance="8000" count="3" countmax="3"/> <!-- supreme soul stone -->
+		<item id="10627" chance="5000" count="2" countmax="2"/> <!-- perfect soul stone -->
 	</loot>
 </monster>

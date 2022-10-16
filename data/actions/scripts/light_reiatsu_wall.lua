@@ -1,6 +1,6 @@
 -- NOTE: wall duration is set on item decay
 local wall_id = 16138
-local distance_shoot_missile_id = 86
+local distance_shoot_missile_id = 55
 
 function onUse(cid, item, fromPosition, itemEx, toPosition)
 	if exhaustion.check(cid, "reiatsu_wall") then
