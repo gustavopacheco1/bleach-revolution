@@ -6,11 +6,6 @@ onGetFormulaValues = getFiveShootsFormula
 setCombatCallback(combat, CALLBACK_PARAM_LEVELMAGICVALUE, "onGetFormulaValues")
 
 function onCastSpell(cid, var)
-	if exhaustion.check(cid, 200) then
-		doPlayerSendCancel(cid, "You are exhausted.")
-		return false
-	end
-
 	doCombatLoop(
 		cid,
 		combat,
@@ -19,6 +14,5 @@ function onCastSpell(cid, var)
 		{ id = 461, x = 1, y = 1 }
 	)
 
-	exhaustion.set(cid, 200, 2)
 	return true
 end

@@ -5,14 +5,13 @@ onGetFormulaValues = getFiveShootsFormula
 setCombatCallback(combat, CALLBACK_PARAM_LEVELMAGICVALUE, "onGetFormulaValues")
 
 function onCastSpell(cid, var)
-		CustomSpell.randomShoot(
-			cid,
-			combat,
-			5,
-			300,
-			44,
-			{ id = 28, x = 0, y = 0 }
-		)
-	end
+	CustomSpell.randomShoot(
+		cid,
+		combat,
+		5,
+		300,
+		44,
+		{ id = 28, x = 0, y = 0 }
+	)
 	return true
-
+end
