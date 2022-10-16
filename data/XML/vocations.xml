@@ -9,7 +9,7 @@
         <skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
     </vocation>
     <vocation id="2" name="Chad" description="Chad" needpremium="0" gaincap="30" gainhp="350" gainmana="180" gainhpticks="2" gainhpamount="500" gainmanaticks="2" gainmanaamount="500" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="2">
-        <formula meleeDamage="15.0" distDamage="1.0" wandDamage="1.0" magDamage="1.0" magHealingDamage="1.0" defense="1.2" magDefense="1.0" armor="1.0"/>
+        <formula meleeDamage="15.0" distDamage="1.0" wandDamage="1.0" magDamage="1.0" magHealingDamage="1.3" defense="1.0" magDefense="1.0" armor="1.0"/>
         <skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
     </vocation>
     <vocation id="3" name="Bazz-B" description="Bazz-B" needpremium="0" gaincap="30" gainhp="270" gainmana="230" gainhpticks="2" gainhpamount="500" gainmanaticks="2" gainmanaamount="500" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="3">
@@ -65,7 +65,7 @@
         <skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
     </vocation>
     <vocation id="16" name="Tier Halibel" description="Tier Halibel" needpremium="0" gaincap="30" gainhp="350" gainmana="230" gainhpticks="2" gainhpamount="500" gainmanaticks="2" gainmanaamount="500" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="16">
-        <formula meleeDamage="18.0" distDamage="1.0" wandDamage="1.0" magDamage="1.0" magHealingDamage="1.0" defense="1.2" magDefense="1.0" armor="1.0"/>
+        <formula meleeDamage="18.0" distDamage="1.0" wandDamage="1.0" magDamage="1.0" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
         <skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
     </vocation>
     <vocation id="17" name="Urahara Kisuke" description="Urahara Kisuke" needpremium="0" gaincap="30" gainhp="290" gainmana="230" gainhpticks="2" gainhpamount="500" gainmanaticks="2" gainmanaamount="500" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="17">
@@ -85,7 +85,7 @@
         <skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
     </vocation>
 	<vocation id="21" name="Nnoitra Gilga" description="Nnoitra Gilga" needpremium="0" gaincap="30" gainhp="370" gainmana="190" gainhpticks="2" gainhpamount="500" gainmanaticks="2" gainmanaamount="500" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="21">
-        <formula meleeDamage="18.0" distDamage="1.0" wandDamage="1.0" magDamage="1.2" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+        <formula meleeDamage="18.0" distDamage="1.0" wandDamage="1.0" magDamage="1.2" magHealingDamage="1.2" defense="1.0" magDefense="1.0" armor="1.0"/>
         <skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
     </vocation>
 </vocations>
