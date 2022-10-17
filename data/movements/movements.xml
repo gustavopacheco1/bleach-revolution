@@ -873,6 +873,17 @@
 	<movevent type="Equip" itemid="16092" level="180" slot="feet" event="function" value="onEquipItem"/>
 	<movevent type="DeEquip" itemid="16092" slot="feet" event="function" value="onDeEquipItem"/>
 
+	<!--  Ultimate Kaname Set -->
+
+	<movevent type="Equip" itemid="16684" level="180" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="16684" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="16685" level="180" slot="armor" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="16685" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="16686" level="180" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="16686" slot="legs" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="16687" level="180" slot="feet" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="16687" slot="feet" event="function" value="onDeEquipItem"/>
+
 	<!--  Nnoitra Set -->
 
 	<movevent type="Equip" itemid="16093" level="200" slot="head" event="function" value="onEquipItem"/>
