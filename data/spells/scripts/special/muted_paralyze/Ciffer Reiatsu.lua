@@ -1,5 +1,5 @@
 local spell = {
-	cooldown = 2,
+	cooldown = 15,
 	duration = 2500, -- milisegundos
 	effect = 230,
 }
@@ -18,7 +18,7 @@ function onCastSpell(cid, var)
 
 	if isPlayer(target) then
 		doMutePlayer(target, spell.duration, EXHAUST_SPELLGROUP_HEALING)
-		doMutePlayer(target, 800, EXHAUST_SPELLGROUP_SUPPORT)
+		doMutePlayer(target, 500, EXHAUST_SPELLGROUP_SUPPORT)
 	end
 
 	doAddCondition(target, condition_paralyze)
