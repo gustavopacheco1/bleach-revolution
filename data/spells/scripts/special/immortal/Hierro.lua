@@ -1,6 +1,6 @@
 local spell = {
-	duration = 10,
-	cooldown = 60
+	duration = 5,
+	cooldown = 30
 }
 
 function onCastSpell(cid, var)
