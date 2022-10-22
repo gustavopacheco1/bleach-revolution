@@ -18,7 +18,7 @@ function onCastSpell(cid, var)
 	end
 
 	doSendMagicEffect(getThingPosition(cid), 35)
-	doMutePlayer(cid, 800, EXHAUST_SPELLGROUP_SUPPORT)
-	exhaustion.set(cid, "special", 30)
+	doMutePlayer(cid, 500, EXHAUST_SPELLGROUP_SUPPORT)
+	exhaustion.set(cid, "special", 4)
 	return true
 end

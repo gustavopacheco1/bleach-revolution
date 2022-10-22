@@ -10,10 +10,8 @@ function onCastSpell(cid, var)
             combat,
             5,
             300,
-            7,
-            { id = 602, x = 1, y = 1 }
+            56,
+            { id = 767, x = 0, y = 0 }
         )
+        return true
     end
-
-    return true
-

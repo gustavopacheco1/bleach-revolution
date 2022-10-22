@@ -13,6 +13,5 @@ function onCastSpell(cid, var)
             64,
             { id = 6, x = 0, y = 0 }
         )
+        return true
     end
-    return true
-

@@ -1,6 +1,6 @@
 local spell = {
-	cooldown = 30,
-	duration = 3
+	cooldown = 20,
+	duration = 1
 }
 
 local area = createCombatArea {
