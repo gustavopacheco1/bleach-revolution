@@ -818,7 +818,10 @@ void ProtocolGame::parsePacket(NetworkMessage &msg)
 			parseFightModes(msg);
 			break;
 		case 0xA1:
-			parseAttack(msg);
+			parseAttack(msg, 161);
+			break;
+		case 0xF5:
+			parseAttack(msg, 244);
 			break;
 		case 0xA2:
 			parseFollow(msg);
@@ -1427,9 +1430,17 @@ void ProtocolGame::parseFightModes(NetworkMessage &msg)
 	addGameTaskTimed(DISPATCHER_TASK_EXPIRATION, &Game::playerSetFightModes, player->getID(), fightMode, chaseMode, secureMode);
 }
 
-void ProtocolGame::parseAttack(NetworkMessage &msg)
+void ProtocolGame::parseAttack(NetworkMessage &msg, int number)
 {
 	uint32_t creatureId = msg.get<uint32_t>();
+
+	if (number == 161 && !player->isUsingOtclient())
+	{
+		Creature *creature = g_game.getCreatureByID(creatureId);
+		if (creature && creature->getType() == CREATURETYPE_PLAYER)
+			return;
+	}
+
 	// msg.get<uint32_t>(); creatureId (same as above)
 	addGameTask(&Game::playerSetAttackedCreature, player->getID(), creatureId);
 }

@@ -136,7 +136,7 @@ private:
 	void parseLookAt(NetworkMessage &msg);
 	void parseLookInBattleList(NetworkMessage &msg);
 	void parseFightModes(NetworkMessage &msg);
-	void parseAttack(NetworkMessage &msg);
+	void parseAttack(NetworkMessage &msg, int number);
 	void parseFollow(NetworkMessage &msg);
 
 	void parseBugReport(NetworkMessage &msg);
