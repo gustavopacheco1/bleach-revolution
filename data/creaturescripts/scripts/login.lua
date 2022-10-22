@@ -2,6 +2,8 @@ function onLogin(cid)
 	local lastLogin, str = getPlayerLastLoginSaved(cid), getConfigValue('loginMessage')
 	if (lastLogin > 0) then
 		str = "Your last visit was on " .. os.date("%a %b %d %X %Y", lastLogin) .. "."
+	else
+		doCreatureChangeOutfit(cid, { lookType = VOCATION_OUTFITS[getPlayerVocationName(cid)][0] })
 	end
 	doPlayerSendTextMessage(cid, MESSAGE_STATUS_DEFAULT, str)
 
