@@ -21903,9 +21903,9 @@
 		<attribute key="slotType" value="feet" />
 	</item>
 
-	<!-- Vasto Lorde Set -->
+	<!-- Vasto Lord Set -->
 	<item id="15723" article="a" name="Vasto Lord Helmet">
-		<attribute key="weight" value="1000" />
+		<attribute key="weight" value="10000" />
 		<attribute key="armor" value="70" />
 		<attribute key="magicpoints" value="4" />
 		<attribute key="skillSword" value="4" />
@@ -21916,7 +21916,7 @@
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="15726" article="a" name="Vasto Lord Armor">
-		<attribute key="weight" value="3000" />
+		<attribute key="weight" value="10000" />
 		<attribute key="armor" value="70" />
 		<attribute key="healthGain" value="5000" />
 		<attribute key="healthTicks" value="1000" />
@@ -21929,7 +21929,7 @@
 		<attribute key="slotType" value="body" />
 	</item>
 	<item id="15727" article="a" name="Vasto Lord Legs">
-		<attribute key="weight" value="3000" />
+		<attribute key="weight" value="10000" />
 		<attribute key="armor" value="70" />
 		<attribute key="healthGain" value="5000" />
 		<attribute key="healthTicks" value="1000" />
@@ -21942,7 +21942,7 @@
 		<attribute key="slotType" value="legs" />
 	</item>
 	<item id="15722" article="a" name="Vasto Lord Boots">
-		<attribute key="weight" value="2100" />
+		<attribute key="weight" value="10000" />
 		<attribute key="armor" value="70" />
 		<attribute key="speed" value="26" />
 		<attribute key="magicpoints" value="4" />
