@@ -1,22 +1,22 @@
 buyable_items = {
 	["Ururu Tsumugiya"] = {
-		[2293] = { price = 10000 }, -- light reiatsu wall
-		[16586] = {price = 10000 }, -- black reiatu wall
+		[2293] = { price = 920 }, -- light reiatsu wall
+		[16586] = {price = 860 }, -- black reiatu wall
 	},
 
 	["Jinta"] = {
-		[15740] = { price = 2000 }, -- red backpack
-		[15776] = { price = 2000 }, -- orange backpack
-		[15741] = { price = 2000 }, -- blue backpack
-		[15120] = { price = 2000 }, -- hollow bag
+		[15740] = { price = 200 }, -- red backpack
+		[15776] = { price = 200 }, -- orange backpack
+		[15741] = { price = 200 }, -- blue backpack
+		[15120] = { price = 200 }, -- hollow bag
 	},
 
 	["Hikari"] = {
-		[2667] = { price = 2000 }, -- fish
-		[2666] = { price = 2000 }, -- meat
-		[2676] = { price = 2000 }, -- banana
-		[2696] = { price = 2000 }, -- cheese
-		[6574] = { price = 2000 }, -- bar of chocolate
+		[2667] = { price = 14 }, -- fish
+		[2666] = { price = 20 }, -- meat
+		[2676] = { price = 8 }, -- banana
+		[2696] = { price = 8 }, -- cheese
+		[6574] = { price = 8 }, -- bar of chocolate
 	},
 
 	["Kurotsuchi"] = {
