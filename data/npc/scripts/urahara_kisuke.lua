@@ -55,6 +55,15 @@ function onCreatureSay(cid, type, msg)
 	end
 
 	if isInArray({ "pay", "pagar" }, msg) then
+		if getPlayerLevel(cid) < 120 then
+			selfSayMultiLanguage(
+				"Sorry, you're not powerful enough to travel to Soul Society. When you reach level 120 talk to me.",
+				"Desculpe, mas voce não é forte o suficiente para ir até a Soul Society. Quando alcançar o nível 120 fale comigo.",
+				cid
+			)
+			return true
+		end
+
 		selfSayMultiLanguage(
 			"The price to me enable Reishi Henkan-Ki is 80000 ryo. Are you sure?",
 			"O preço para eu ativar o Reishi Henkan-Ki é 80000 ryo. Você tem certeza?",
