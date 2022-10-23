@@ -5,10 +5,13 @@ local walkback = {
 
 local runnning_machines_itemid = { 16453, 16454 }
 
+local condition = createConditionObject(CONDITION_NONE)
+setConditionParam(condition, COMBAT_PARAM_DISPEL, CONDITION_HASTE)
+
 function onStepIn(cid, item, position, fromPosition)
 	if table.contains(runnning_machines_itemid, item.itemid) then
 		if hasCondition(cid, CONDITION_HASTE) then
-			doPlayerDispelCondition(cid, CONDITION_HASTE)
+			doAddCondition(cid, condition)
 		end
 
 		doChangeSpeed(cid, -getCreatureSpeed(cid) + 20)
