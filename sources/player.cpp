@@ -2519,12 +2519,17 @@ bool Player::onDeath()
 		uint64_t lostSkillTries, sumSkillTries;
 		for (int16_t i = 0; i < 7; ++i) // for each skill
 		{
+			if (i == SKILL_FISH)
+				continue;
+
 			lostSkillTries = sumSkillTries = 0;
 			for (uint32_t c = 11; c <= skills[i][SKILL_LEVEL]; ++c) // sum up all required tries for all skill levels
 				sumSkillTries += vocation->getReqSkillTries(i, c);
 
 			sumSkillTries += skills[i][SKILL_TRIES];
+
 			lostSkillTries = (uint64_t)std::ceil((percent * lossPercent[LOSS_SKILLS] / 100.) * sumSkillTries);
+
 			while (lostSkillTries > skills[i][SKILL_TRIES] && skills[i][SKILL_LEVEL] > 10)
 			{
 				lostSkillTries -= skills[i][SKILL_TRIES];
