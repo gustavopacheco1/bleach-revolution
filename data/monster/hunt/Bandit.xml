@@ -38,5 +38,6 @@
 		<item id="15116" chance="25000" count="1" countmax="1"/> <!-- bandit armor -->
 		<item id="10686" chance="25000" count="1" countmax="1"/> <!-- bandit legs -->
 		<item id="15119" chance="25000" count="1" countmax="1"/> <!-- bandit boots -->
+		<item id="2666" chance="5000" count="50" countmax="50"/> <!-- meat -->
 	</loot>
 </monster>
