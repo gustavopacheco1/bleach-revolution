@@ -34,6 +34,7 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 		doPlayerAddOutfit(cid, new_outfits[100])
 	end
 
+	doPlayerAddItem(cid, VOCATION_WEAPONS[getPlayerVocationName(cid)])
 	doCreatureChangeOutfit(cid, { lookType = new_outfits[1] })
 	doSendMagicEffect(getCreaturePosition(cid), 6)
 	doRemoveItem(item.uid, 1)
