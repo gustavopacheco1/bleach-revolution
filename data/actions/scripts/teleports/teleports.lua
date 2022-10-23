@@ -2,7 +2,7 @@ local teleports = {
 	[20000] = { position = { x = 3587, y = 3462, z = 8 } },
 	[20001] = {
 		position = { x = 3434, y = 3585, z = 8 },
-		level = 100
+		level = 30
 	},
 	[20002] = { position = { x = 2434, y = 3391, z = 7 }, level = 230 },
 	[20003] = { position = { x = 2433, y = 3395, z = 7 }, level = 230 },
