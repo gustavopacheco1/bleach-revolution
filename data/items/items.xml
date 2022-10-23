@@ -12072,19 +12072,19 @@
 	<item id="5896" article="a" name="bambus stick" plural="bambus sticks">
 		<attribute key="weight" value="120" />
 	</item>
-	<item id="15675" article="a" name="Nnoitra Gilga" plural="Nnoitra Gilga">
+	<item id="15675" article="a" name="Nnoitra Gilga card">
 		<attribute key="weight" value="80" />
 	</item>
-	<item id="15760" article="a" name="Ulquiorra Cifer" plural="Ulquiorra Cifer">
+	<item id="15760" article="a" name="Ulquiorra Ciffer card">
 		<attribute key="weight" value="80" />
 	</item>
-	<item id="15761" article="a" name="Retsu Unohana" plural="Retsu Unohana">
+	<item id="15761" article="a" name="Retsu Unohana card">
 		<attribute key="weight" value="80" />
 	</item>
-	<item id="15749" article="a" name="Grimmjow Jaegerjaquez" plural="Grimmjow Jaegerjaquez">
+	<item id="15749" article="a" name="Grimmjow Jaegerjaquez card">
 		<attribute key="weight" value="80" />
 	</item>
-	<item id="15750" article="a" name="Ichigo Kurosaki" plural="Ichigo Kurosaki">
+	<item id="15750" article="a" name="Ichigo Kurosaki Card">
 		<attribute key="weight" value="80" />
 	</item>
 	<item id="5897" article="a" name="wolf paw" plural="wolf paws">

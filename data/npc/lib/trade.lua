@@ -42,7 +42,7 @@ buyable_items = {
 	},
 
 	["Joshiro Ukitake"] = {
-		[16587] = { price = 200000 }, -- black borboleta
+		[16587] = { price = 8000 }, -- black borboleta
 	}
 }
 

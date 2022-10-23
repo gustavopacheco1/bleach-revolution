@@ -3,6 +3,9 @@
 	<!-- Default script, responsible for destroyItem -->
 	<action default="yes" event="script" value="default.lua"/>
 
+	<!-- Exclusive vocations -->
+	<action itemid="15675;15760;15761;15749;15750" event="script" value="exclusive_vocations.lua" />
+
 	<!-- Stamina Injection -->
 	<action itemid="16459" event="script" value="stamina_injection.lua" />
 
