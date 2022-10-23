@@ -180,7 +180,6 @@ end
 function doPlayerDispelCondition(cid, dispelCondition)
 	local condition = createConditionObject(CONDITION_PARALYZE)
 	setConditionParam(condition, COMBAT_PARAM_DISPEL, dispelCondition)
-	print(dispelCondition)
 
 	return doAddCondition(cid, condition, false)
 end
