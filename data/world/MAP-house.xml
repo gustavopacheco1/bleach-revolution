@@ -65,5 +65,4 @@
 	<house name="Karakura House 63" houseid="63" entryx="3573" entryy="3500" entryz="6" rent="0" townid="1" size="42" />
 	<house name="Karakura House 64" houseid="64" entryx="3570" entryy="3501" entryz="5" rent="0" townid="1" size="24" />
 	<house name="Karakura House 65" houseid="65" entryx="3603" entryy="3467" entryz="7" rent="0" townid="1" size="169" />
-	<house name="Karakura House 66" houseid="66" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="0" />
 </houses>
