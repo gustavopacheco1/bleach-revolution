@@ -178,7 +178,7 @@ function doMutePlayer(cid, time, sub)
 end
 
 function doPlayerDispelCondition(cid, dispelCondition)
-	local condition = createConditionObject(CONDITION_NONE)
+	local condition = createConditionObject(CONDITION_PARALYZE)
 	setConditionParam(condition, COMBAT_PARAM_DISPEL, dispelCondition)
 
 	return doAddCondition(cid, condition, false)
