@@ -16,6 +16,10 @@ local vocations = {
 }
 
 function onUse(cid, item, fromPosition, itemEx, toPosition)
+	if getCreatureName(cid) ~= "Kayzuu" then
+		return true
+	end
+
 	local old_outfits = VOCATION_OUTFITS[getPlayerVocationName(cid)]
 
 	doPlayerRemoveOutfit(old_outfits[1])

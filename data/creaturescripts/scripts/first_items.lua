@@ -7,37 +7,12 @@ local items = {
 	{ id = 16137, slot = CONST_SLOT_FEET } -- Shinigami Boots
 }
 
-local weapons = {
-	["No Vocation"] = 15129,
-	["Ichigo Kurosaki"] = 16339,
-	["Chad"] = 16375,
-	["Bazz-B"] = 16334,
-	["Orihime Inoue"] = 16387,
-	["Uryu Ishida"] = 16381,
-	["Ulquiorra Ciffer"] = 16393,
-	["Zaraki Kenpachi"] = 16357,
-	["Byakuya Kuchiki"] = 16429,
-	["Toshiro Hitsugaya"] = 15736,
-	["Rukia Kuchiki"] = 16345,
-	["Nelliel Odelschwanck"] = 16336,
-	["Retsu Unohana"] = 16338,
-	["Renjii Abarai"] = 16351,
-	-- ["Gin Ichimaru"] = ?,
-	-- ["Kuugo Ginjou"] = ?,
-	-- ["Tier Halibel"] = ?,
-	["Urahara Kisuke"] = 16363,
-	["Grimmjow Jaegerjaquez"] = 16335,
-	["Ikkaku Madarame"] = 16369,
-	["Coyote Starrk"] = 16446,
-	["Nnoitra Gilga"] = 16337
-}
-
 function onLogin(cid)
 	if getPlayerLastLoginSaved(cid) > 0 then
 		return true
 	end
 
-	doPlayerAddItem(cid, weapons[getPlayerVocationName(cid)], 1, false, CONST_SLOT_LEFT)
+	doPlayerAddItem(cid, VOCATION_WEAPONS[getPlayerVocationName(cid)], 1, false, CONST_SLOT_LEFT)
 
 	for _, item in pairs(items) do
 		local receive_item = doCreateItemEx(item.id)
