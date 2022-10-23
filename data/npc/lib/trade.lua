@@ -34,7 +34,7 @@ buyable_items = {
 	},
 
 	["Yoruichi"] = {
-		[16459] = { price = 200000 }, -- stamina injection
+		[16459] = { price = 120000 }, -- stamina injection
 	},
 
 	["Rukia Kuchiki"] = {
