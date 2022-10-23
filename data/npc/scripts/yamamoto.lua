@@ -72,58 +72,54 @@ function onCreatureSay(cid, type, msg)
 	end
 
 	if isInArray({ "tasks", "tarefas" }, msg) then
-		if getPlayerStorageValue(cid, "yamamoto_task") == 0 then setPlayerStorageValue(cid, "yamamoto_task", 1) end
+		local player_task = getCreatureStorage(cid, "yamamoto_task")
+		local player_task_kills = getCreatureStorage(cid, "yamamoto_task_kills")
+		local player_task_monster = getCreatureStorage(cid, "yamamoto_task_monster")
 
-		local player_task = getPlayerStorageValue(cid, "yamamoto_task")
-		local player_task_kills = getPlayerStorageValue(cid, "yamamoto_task_kills")
-
-		if player_task_kills == 0 then
+		if player_task_monster == 0 then
 			selfSayMultiLanguage(
-				"Do you accept start your tasks defeating " ..
-				task_monsters[player_task].total_kills .. " " .. task_monsters[player_task].name .. "s?",
-				"Você aceita começar as suas tarefas derrotando " ..
-				task_monsters[player_task].total_kills .. " " .. task_monsters[player_task].name .. "s?",
+				"Do you accept start your tasks defeating " .. task_monsters[player_task + 1].total_kills .. " " .. task_monsters[player_task + 1].name .. "s?",
+				"Você aceita começar as suas tarefas derrotando " .. task_monsters[player_task + 1].total_kills .. " " .. task_monsters[player_task + 1].name .. "s?",
 				cid
 			)
 			talkState[talkUser] = 1
 			return true
 		end
 
-		if player_task_kills < task_monsters[player_task].total_kills then
-			selfSayMultiLanguage(
-				"You've already accepted a task. You have to defeat " .. (task_monsters[player_task].total_kills - player_task_kills) .. " " .. task_monsters[player_task].name .. "s.",
-				"Você já aceitou uma tarefa. Você tem que derrotar " .. (task_monsters[player_task].total_kills - player_task_kills) .. " " .. task_monsters[player_task].name .. "s.",
-				cid
-			)
-			return false
-		end
-
 		if player_task_kills >= task_monsters[player_task].total_kills then
 			selfSayMultiLanguage(
-				"Have you already defeated " .. task_monsters[player_task].total_kills .. " " .. task_monsters[player_task + 1].name .. "s?",
-				"Você já derrotou " .. task_monsters[player_task].total_kills .. " " .. task_monsters[player_task + 1].name .. "s?",
+				"Have you already defeated " .. task_monsters[player_task].total_kills .. " " .. task_monsters[player_task].name .. "s?",
+				"Você já derrotou " .. task_monsters[player_task].total_kills .. " " .. task_monsters[player_task].name .. "s?",
 				cid
 			)
 			talkState[talkUser] = 2
+			return true
 		end
 
+		selfSayMultiLanguage(
+			"You've already accepted a task. You have to defeat " .. (task_monsters[player_task].total_kills - player_task_kills) .. " " .. task_monsters[player_task].name .. "s.",
+			"Você já aceitou uma tarefa. Você tem que derrotar " .. (task_monsters[player_task].total_kills - player_task_kills) .. " " .. task_monsters[player_task].name .. "s.",
+			cid
+		)
 		return true
 	end
 
-	if isInArray({ "yes", "sim" }, msg) then
+	if isInArray({ "yes", "sim" }, msg) and talkState[talkUser] >= 1 then
 		local player_task = getPlayerStorageValue(cid, "yamamoto_task")
 		local player_task_kills = getPlayerStorageValue(cid, "yamamoto_task_kills")
 
-		if player_task == 0 then return end
-
 		if talkState[talkUser] == 1 then
 			selfSayMultiLanguage(
-				"You've started your tasks. When you defeat " .. task_monsters[player_task].total_kills .. " " .. task_monsters[player_task].name .. "s come to talk with me again.",
-				"Você iniciou suas tarefas. Quando você derrotar " .. task_monsters[player_task].total_kills .. " " .. task_monsters[player_task].name .. "s venha falar comigo novamente.",
+				"You've started your tasks. When you defeat " .. task_monsters[player_task + 1].total_kills .. " " .. task_monsters[player_task + 1].name .. "s come to talk with me again.",
+				"Você iniciou suas tarefas. Quando você derrotar " .. task_monsters[player_task + 1].total_kills .. " " .. task_monsters[player_task + 1].name .. "s venha falar comigo novamente.",
 				cid
 			)
 
 			setPlayerStorageValue(cid, "yamamoto_task_kills", 0)
+			setPlayerStorageValue(cid, "yamamoto_task", player_task + 1)
+			setPlayerStorageValue(cid, "yamamoto_task_monster", task_monsters[player_task + 1].name)
+			setPlayerStorageValue(cid, "yamamoto_task_total_kills", task_monsters[player_task + 1].total_kills)
+			npcHandler:releaseFocus(cid)
 			return true
 		end
 
@@ -147,6 +143,7 @@ function onCreatureSay(cid, type, msg)
 				setPlayerStorageValue(cid, "yamamoto_task", player_task + 1)
 				setPlayerStorageValue(cid, "yamamoto_task_kills", nil)
 				setPlayerStorageValue(cid, "yamamoto_task_monster", task_monsters[player_task + 1].name)
+				setPlayerStorageValue(cid, "yamamoto_task_total_kills", task_monsters[player_task + 1].total_kills)
 				npcHandler:releaseFocus(cid)
 				return true
 			end

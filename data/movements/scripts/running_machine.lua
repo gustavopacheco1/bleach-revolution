@@ -8,9 +8,10 @@ local runnning_machines_itemid = { 16453, 16454 }
 function onStepIn(cid, item, position, fromPosition)
 	if table.contains(runnning_machines_itemid, item.itemid) then
 		if hasCondition(cid, CONDITION_HASTE) then
-			doPlayerDispelCondition(cid, CONDITION_HASTE)
+			doRemoveConditions(cid, false)
 		end
 
+		registerCreatureEvent(cid, "BlockAttack")
 		doChangeSpeed(cid, -getCreatureSpeed(cid) + 20)
 		return true
 	end
@@ -23,6 +24,7 @@ function onStepIn(cid, item, position, fromPosition)
 end
 
 function onStepOut(cid, item, position, fromPosition)
+	unregisterCreatureEvent(cid, "BlockAttack")
 	doChangeSpeed(cid, -getCreatureSpeed(cid) + getCreatureBaseSpeed(cid))
 	return true
 end

@@ -23,6 +23,7 @@
 	<event type="login" name="SkillsStagesLogin" event="script" value="skills_stages.lua"/>
 	<event type="login" name="PremiumExpBonus" event="script" value="premium_exp_bonus.lua"/>
 	<event type="advance" name="SkillsStagesAdvance" event="script" value="skills_stages.lua"/>
+	<event type="attack" name="BlockAttack" event="script" value="block_attack.lua"/>
 
 	<!-- Monsters Events -->
 	<event type="statschange" name="TrainerShielding" event="script" value="monsters_events/trainer_shielding.lua"/>
