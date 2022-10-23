@@ -13,7 +13,7 @@
 
 	<!-- Support -->
 	<instant name="aura" words="aura" lvl="15" mana="400" aggressive="0" selftarget="1" exhaustion="2000" exhaustedGroup="support" needlearn="0" event="script" value="support/aura.lua"/>
-	<instant name="Skip" words="skip" lvl="20" mana="760" prem="0" aggressive="0" selftarget="1" exhaustion="2000" exhaustedGroup="support" needlearn="0" event="script" value="support/skip.lua"/>
+	<instant name="Skip" words="skip" lvl="10" mana="760" prem="0" aggressive="0" selftarget="1" exhaustion="2000" exhaustedGroup="support" needlearn="0" event="script" value="support/skip.lua"/>
 	<instant name="Jump" words="jump" lvl="30" mana="820" prem="1" aggressive="0" exhaustion="2000" exhaustedGroup="support" params="1" needlearn="0" event="function" value="Levitate"/>
 	<instant name="Sense" words="sense" lvl="30" mana="100" prem="0" aggressive="0" exhaustion="2000" exhaustedGroup="support" params="1" needlearn="0" event="function" value="searchPlayer"/>
 	<instant name="Reiatsu Speed" words="reiatsu speed" lvl="100" maglv="80" mana="2000" prem="0" aggressive="0" selftarget="1" exhaustion="2000" exhaustedGroup="support" needlearn="0" event="script" value="support/reiatsu_speed.lua"/>
