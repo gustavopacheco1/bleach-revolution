@@ -30,7 +30,7 @@ function onSay(cid, words, param)
 
 	if t[1] == "add" then
 		doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_ORANGE,
-			"Voce adicionou " .. balance .. " premium points para o jogador " .. t[1] .. ".")
+			"Voce adicionou " .. balance .. " premium points para o jogador " .. t[2] .. ".")
 		MultiLanguage.doPlayerSendTextMessage(
 			player,
 			MESSAGE_STATUS_CONSOLE_ORANGE,
