@@ -27,6 +27,15 @@ function onLogin(cid)
 
 	doPlayerOpenChannel(cid, 10) -- Loot channel
 	doPlayerFormula(cid)
+	if getPlayerLevel(cid) < 60 and not getPlayerBlessing(cid, 1) then
+		MultiLanguage.doPlayerSendTextMessage(
+			cid,
+			MESSAGE_STATUS_CONSOLE_BLUE,
+			"You received soul protection for being less than level 60.",
+			"Você recebeu proteção de alma por ser nível menor que 60."
+		)
+		doPlayerAddBlessings(cid)
+	end
 
 	-- Events
 	registerCreatureEvent(cid, "Idle")
