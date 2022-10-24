@@ -176,63 +176,63 @@
 	<!-- Attack -->
     <instant name="Seki" words="Seki" lvl="5" maglv="5" mana="40" prem="0" range="8" needtarget="1" blockwalls="1" exhaustion="1500" exhaustedGroup="attack" needlearn="0" event="script" value="attack/seki.lua"/>
 	<instant name="Geki" words="Geki" lvl="10" maglv="10" mana="80" prem="0" range="8" needtarget="1" blockwalls="1" exhaustion="1500" exhaustedGroup="attack" needlearn="0" event="script" value="attack/geki.lua"/>
-	<instant name="Shitotsu Sansen" words="Shitotsu Sansen" lvl="20" maglv="15" mana="300" prem="0" range="8" needtarget="1" blockwalls="1" exhaustion="1500" exhaustedGroup="attack" needlearn="0" event="script" value="attack/shitotsu_sansen.lua"/>
-	<instant name="Gochutekkan" words="Gochutekkan" lvl="30" maglv="20" mana="500" prem="0" range="8" needtarget="1" blockwalls="1" exhaustion="1500" exhaustedGroup="attack" needlearn="0" event="script" value="attack/gochutekkan.lua"/>
-	<instant name="Cero" words="Cero" lvl="50" mana="2000" maglv="30" prem="0" direction="1" exhaustion="400" needlearn="0" event="script" value="attack/Cero.lua">
+	<instant name="Shitotsu Sansen" words="Shitotsu Sansen" lvl="20" maglv="15" mana="100" prem="0" range="8" needtarget="1" blockwalls="1" exhaustion="1500" exhaustedGroup="attack" needlearn="0" event="script" value="attack/shitotsu_sansen.lua"/>
+	<instant name="Gochutekkan" words="Gochutekkan" lvl="30" maglv="20" mana="150" prem="0" range="8" needtarget="1" blockwalls="1" exhaustion="1500" exhaustedGroup="attack" needlearn="0" event="script" value="attack/gochutekkan.lua"/>
+	<instant name="Cero" words="Cero" lvl="50" mana="500" maglv="30" prem="0" direction="1" exhaustion="400" needlearn="0" event="script" value="attack/Cero.lua">
 		<vocation id="6"/> <!-- Ulquiorra Ciffer -->
 		<vocation id="11"/> <!-- Nelliel Odelschwanck -->
 		<vocation id="21"/> <!-- Nnoitra Gilga -->
 	</instant>
 	<!-- Area -->
-	<instant name="Getsuga Wave" words="Getsuga Wave" lvl="80" maglv="60" mana="7600" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Getsuga Wave.lua">
+	<instant name="Getsuga Wave" words="Getsuga Wave" lvl="80" maglv="60" mana="2500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Getsuga Wave.lua">
 		<vocation id="1"/> <!-- Ichigo Kurosaki -->
 	</instant>
-	<instant name="Sprenger Wave" words="Sprenger Wave" lvl="80" maglv="60" mana="7500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Sprenger Wave.lua">
+	<instant name="Sprenger Wave" words="Sprenger Wave" lvl="80" maglv="60" mana="2500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Sprenger Wave.lua">
 		<vocation id="5"/> <!-- Uryu Ishida -->
 	</instant>
-	<instant name="Zabimaru Wave" words="Zabimaru Wave" lvl="80" maglv="60" mana="7500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Zabimaru Wave.lua">
+	<instant name="Zabimaru Wave" words="Zabimaru Wave" lvl="80" maglv="60" mana="2500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Zabimaru Wave.lua">
 		<vocation id="13"/> <!-- Renjii Abarai -->
 	</instant>
-	<instant name="Ryuusenka Wave" words="Ryuusenka Wave" lvl="80" maglv="60" mana="7500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Ryuusenka Wave.lua">
+	<instant name="Ryuusenka Wave" words="Ryuusenka Wave" lvl="80" maglv="60" mana="2500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Ryuusenka Wave.lua">
 		<vocation id="9"/> <!-- Toshiro Histugaya -->
 	</instant>
-	<instant name="Juuhaku Wave" words="Juuhaku Wave" lvl="80" maglv="60" mana="7500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Juuhaku Wave.lua">
+	<instant name="Juuhaku Wave" words="Juuhaku Wave" lvl="80" maglv="60" mana="2500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Juuhaku Wave.lua">
 		<vocation id="10"/> <!-- Rukia Kuchiki -->
 	</instant>
-	<instant name="La Muerte Wave" words="La Muerte Wave" lvl="80" maglv="60" mana="7500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/La Muerte Wave.lua">
+	<instant name="La Muerte Wave" words="La Muerte Wave" lvl="80" maglv="60" mana="2500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/La Muerte Wave.lua">
 		<vocation id="2"/> <!-- Chad -->
 	</instant>
-	<instant name="Burner Wave" words="Burner Wave" lvl="80" maglv="60" mana="7500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Burner Wave.lua">
+	<instant name="Burner Wave" words="Burner Wave" lvl="80" maglv="60" mana="2500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Burner Wave.lua">
 		<vocation id="3"/> <!-- Bazz-B -->
 	</instant>
-	<instant name="Cero Wave" words="Cero Wave" lvl="80" maglv="60" mana="7500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Cero Wave.lua">
+	<instant name="Cero Wave" words="Cero Wave" lvl="80" maglv="60" mana="2500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Cero Wave.lua">
 		<vocation id="11"/> <!-- Nelliel Odelschwanck -->
 	</instant>
-	<instant name="Shun Shun Wave" words="Shun Shun Wave" lvl="60" maglv="80" mana="7500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Shun Shun Wave.lua">
+	<instant name="Shun Shun Wave" words="Shun Shun Wave" lvl="60" maglv="80" mana="2500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Shun Shun Wave.lua">
 		<vocation id="4"/> <!-- Orihime Inoue -->
 	</instant>
-	<instant name="Hakuda Wave" words="Hakuda Wave" lvl="80" maglv="60" mana="7500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Hakuda Wave.lua">
+	<instant name="Hakuda Wave" words="Hakuda Wave" lvl="80" maglv="60" mana="2500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Hakuda Wave.lua">
 		<vocation id="8"/> <!-- Byakuya Kuchiki -->
 	</instant>
-	<instant name="Oscuras Wave" words="Oscuras Wave" lvl="80" maglv="60" mana="7500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Oscuras Wave.lua">
+	<instant name="Oscuras Wave" words="Oscuras Wave" lvl="80" maglv="60" mana="2500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Oscuras Wave.lua">
 		<vocation id="6"/> <!-- Ulquiorra Ciffer -->
 	</instant>
-	<instant name="Minazuki Wave" words="Minazuki Wave" lvl="80" maglv="60" mana="7500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Minazuki Wave.lua">
+	<instant name="Minazuki Wave" words="Minazuki Wave" lvl="80" maglv="60" mana="2500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Minazuki Wave.lua">
 		<vocation id="12"/> <!-- Retsu Unohana -->
 	</instant>
-	<instant name="Ryodan Wave" words="Ryodan Wave" lvl="80" maglv="60" mana="7500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Ryodan Wave.lua">
+	<instant name="Ryodan Wave" words="Ryodan Wave" lvl="80" maglv="60" mana="2500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Ryodan Wave.lua">
 		<vocation id="7"/> <!-- Zaraki Kenpachi -->
 	</instant>
-	<instant name="Buto Wave" words="Buto Wave" lvl="80" maglv="60" mana="7500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Buto Wave.lua">
+	<instant name="Buto Wave" words="Buto Wave" lvl="80" maglv="60" mana="2500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Buto Wave.lua">
 		<vocation id="14"/> <!-- Gin Ichimaru -->
 	</instant>
-	<instant name="Korose Wave" words="Korose Wave" lvl="80" maglv="60" mana=" 7500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Korose Wave.lua">
+	<instant name="Korose Wave" words="Korose Wave" lvl="80" maglv="60" mana=" 2500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Korose Wave.lua">
 		<vocation id="16"/> <!-- Tier Halibel -->
 	</instant>
-	<instant name="Tensho Wave" words="Tensho Wave" lvl="80" maglv="60" mana="7500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Tensho Wave.lua">
+	<instant name="Tensho Wave" words="Tensho Wave" lvl="80" maglv="60" mana="2500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Tensho Wave.lua">
 		<vocation id="15"/> <!-- Kuugo Ginjou -->
 	</instant>
-	<instant name="Benihime Wave" words="Benihime Wave" lvl="80" maglv="60" mana="7500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Benihime Wave.lua">
+	<instant name="Benihime Wave" words="Benihime Wave" lvl="80" maglv="60" mana="2500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Benihime Wave.lua">
 		<vocation id="17"/> <!-- Urahara Kisuke -->
 	</instant>
 
@@ -249,7 +249,7 @@
 	</instant>
 
 	<!-- Ulquiorra -->
-	<instant name="Lanza Del Relampago" words="Lanza Del Relampago" lvl="100" maglv="80" mana="3000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Ulquiorra/Lanza Del Relampago.lua">
+	<instant name="Lanza Del Relampago" words="Lanza Del Relampago" lvl="100" maglv="80" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Ulquiorra/Lanza Del Relampago.lua">
 		<vocation id="6"/>
 	</instant>
 	<instant name="Cero Oscuras" words="Cero Oscuras" lvl="100" mana="500" maglv="30" prem="0" direction="1" exhaustion="1000" needlearn="0" event="script" value="attack/Ulquiorra/Cero Oscuras.lua">
@@ -257,156 +257,156 @@
 	</instant>
 
 	<!-- Unohana -->
-	<instant name="Minazuki" words="Minazuki" lvl="100" maglv="80" mana="3000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Unohana/Minazuki.lua">
+	<instant name="Minazuki" words="Minazuki" lvl="100" maglv="80" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Unohana/Minazuki.lua">
 		<vocation id="12"/>
 	</instant>
-	<instant name="Zanjutsu" words="Zanjutsu" lvl="50" maglv="30" mana="2000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Unohana/Zanjutsu.lua">
+	<instant name="Zanjutsu" words="Zanjutsu" lvl="50" maglv="30" mana="500" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Unohana/Zanjutsu.lua">
 		<vocation id="12"/>
 	</instant>
 
 	<!-- Zaraki -->
-	<instant name="Kendo" words="Kendo" lvl="100" maglv="80" mana="3000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Zaraki/Kendo.lua">
+	<instant name="Kendo" words="Kendo" lvl="100" maglv="80" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Zaraki/Kendo.lua">
 		<vocation id="7"/>
 	</instant>
-	<instant name="Ryodan" words="Ryodan" lvl="50" maglv="30" mana="2000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Zaraki/Ryodan.lua">
+	<instant name="Ryodan" words="Ryodan" lvl="50" maglv="30" mana="500" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Zaraki/Ryodan.lua">
 		<vocation id="7"/>
 	</instant>
 
 	<!-- Byakuya -->
-	<instant name="Hakuda" words="Hakuda" lvl="100" maglv="80" mana="3000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Byakuya/Hakuda.lua">
+	<instant name="Hakuda" words="Hakuda" lvl="100" maglv="80" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Byakuya/Hakuda.lua">
 		<vocation id="8"/>
 	</instant>
-	<instant name="Saketsu" words="Saketsu" lvl="50" maglv="30" mana="2000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Byakuya/saketsu.lua">
+	<instant name="Saketsu" words="Saketsu" lvl="50" maglv="30" mana="500" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Byakuya/saketsu.lua">
 		<vocation id="8"/>
 	</instant>
 
 	<!-- Bazz -->
-	<instant name="Burner Finger 1" words="Burner Finger 1" lvl="100" maglv="80" mana="3000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Bazz/Burner Finger 1.lua">
+	<instant name="Burner Finger 1" words="Burner Finger 1" lvl="100" maglv="80" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Bazz/Burner Finger 1.lua">
 		<vocation id="3"/>
 	</instant>
-	<instant name="Burner Finger 4" words="Burner Finger 4" lvl="50" maglv="30" mana="2000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Bazz/Burner Finger 4.lua">
+	<instant name="Burner Finger 4" words="Burner Finger 4" lvl="50" maglv="30" mana="500" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Bazz/Burner Finger 4.lua">
 		<vocation id="3"/>
 	</instant>
 
 	<!-- Ichigo -->
-	<instant name="Getsuga" words="Getsuga" lvl="100" maglv="80" mana="3000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Ichigo/Getsuga.lua">
+	<instant name="Getsuga" words="Getsuga" lvl="100" maglv="80" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Ichigo/Getsuga.lua">
 		<vocation id="1"/>
 	</instant>
-	<instant name="Getsuga Tenshou Final" words="Getsuga Tenshou Final" lvl="50" maglv="30" mana="2000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Ichigo/Getsuga Tenshou Final.lua">
+	<instant name="Getsuga Tenshou Final" words="Getsuga Tenshou Final" lvl="50" maglv="30" mana="500" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Ichigo/Getsuga Tenshou Final.lua">
 		<vocation id="1"/>
 	</instant>
 
 	<!-- Hitsugaya -->
-	<instant name="Gunshou Tsurara" words="Gunshou Tsurara" lvl="100" maglv="80" mana="3000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Hitsugaya/Gunshou Tsurara.lua">
+	<instant name="Gunshou Tsurara" words="Gunshou Tsurara" lvl="100" maglv="80" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Hitsugaya/Gunshou Tsurara.lua">
 		<vocation id="9"/>
 	</instant>
-	<instant name="Hyouten Hyakkasou" words="Hyouten Hyakkasou" lvl="50" maglv="30" mana="2000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Hitsugaya/Hyouten Hyakkasou.lua">
+	<instant name="Hyouten Hyakkasou" words="Hyouten Hyakkasou" lvl="50" maglv="30" mana="500" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Hitsugaya/Hyouten Hyakkasou.lua">
 		<vocation id="9"/>
 	</instant>
 
 	<!-- Renji -->
-	<instant name="Zabimaru" words="Zabimaru" lvl="100" maglv="80" mana="3000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Renji/Zabimaru.lua">
+	<instant name="Zabimaru" words="Zabimaru" lvl="100" maglv="80" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Renji/Zabimaru.lua">
 		<vocation id="13"/>
 	</instant>
-	<instant name="Hikotsu" words="Hikotsu" lvl="50" maglv="30" mana="2000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Renji/Hikotsu.lua">
+	<instant name="Hikotsu" words="Hikotsu" lvl="50" maglv="30" mana="500" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Renji/Hikotsu.lua">
 		<vocation id="13"/>
 	</instant>
 
 	<!-- Rukia -->
-	<instant name="Tsugi No Mai" words="Tsugi No Mai" lvl="100" maglv="80" mana="3000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Rukia/Tsugi No Mai.lua">
+	<instant name="Tsugi No Mai" words="Tsugi No Mai" lvl="100" maglv="80" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Rukia/Tsugi No Mai.lua">
 		<vocation id="10"/>
 	</instant>
-	<instant name="Juuhaku" words="Juuhaku" lvl="50" maglv="30" mana="2000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Rukia/Juuhaku.lua">
+	<instant name="Juuhaku" words="Juuhaku" lvl="50" maglv="30" mana="500" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Rukia/Juuhaku.lua">
 		<vocation id="10"/>
 	</instant>
 
 	<!-- Orihime -->
-	<instant name="Shun Shun Rikka" words="Shun Shun Rikka" lvl="100" maglv="80" mana="3000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Orihime/Shun Shun Rikka.lua">
+	<instant name="Shun Shun Rikka" words="Shun Shun Rikka" lvl="100" maglv="80" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Orihime/Shun Shun Rikka.lua">
 		<vocation id="4"/>
 	</instant>
-	<instant name="Santen Kesshun" words="Santen Kesshun" lvl="50" maglv="30" mana="2000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Orihime/Santen Kesshun.lua">
+	<instant name="Santen Kesshun" words="Santen Kesshun" lvl="50" maglv="30" mana="500" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Orihime/Santen Kesshun.lua">
 		<vocation id="4"/>
 	</instant>
 
 	<!-- Uryu -->
-	<instant name="Seele Schneiders" words="Seele Schneiders" lvl="100" maglv="80" mana="3000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Uryu/Seele Schneiders.lua">
+	<instant name="Seele Schneiders" words="Seele Schneiders" lvl="100" maglv="80" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Uryu/Seele Schneiders.lua">
 		<vocation id="5"/>
 	</instant>
-	<instant name="Schneiders" words="Schneiders" lvl="50" maglv="30" mana="2000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Uryu/Schneiders.lua">
+	<instant name="Schneiders" words="Schneiders" lvl="50" maglv="30" mana="500" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Uryu/Schneiders.lua">
 		<vocation id="5"/>
 	</instant>
 
 	<!-- Nelliel -->
-	<instant name="Lanza" words="Lanza" lvl="100" maglv="80" mana="3000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Nelliel/Lanza.lua">
+	<instant name="Lanza" words="Lanza" lvl="100" maglv="80" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Nelliel/Lanza.lua">
 		<vocation id="11"/>
 	</instant>
 
 	<!-- Chad -->
-	<instant name="El Directo" words="El Directo" lvl="100" maglv="80" mana="3000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Chad/El Directo.lua">
+	<instant name="El Directo" words="El Directo" lvl="100" maglv="80" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Chad/El Directo.lua">
 		<vocation id="2"/>
 	</instant>
-	<instant name="La Muerte" words="La Muerte" lvl="50" maglv="30" mana="2000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Chad/La Muerte.lua">
+	<instant name="La Muerte" words="La Muerte" lvl="50" maglv="30" mana="500" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Chad/La Muerte.lua">
 		<vocation id="2"/>
 	</instant>
 
 	<!-- Gin -->
-	<instant name="Korose" words="Korose" lvl="100" maglv="80" mana="3000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Gin/Korose.lua">
+	<instant name="Korose" words="Korose" lvl="100" maglv="80" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Gin/Korose.lua">
 		<vocation id="14"/>
 	</instant>
-	<instant name="Buto" words="Buto" lvl="50" maglv="30" mana="2000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Gin/Buto.lua">
+	<instant name="Buto" words="Buto" lvl="50" maglv="30" mana="500" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Gin/Buto.lua">
 		<vocation id="14"/>
 	</instant>
 
 	<!-- Halibel -->
-	<instant name="Ora Azuru" words="Ora Azuru" lvl="100" maglv="80" mana="3000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Halibel/Ora Azuru.lua">
+	<instant name="Ora Azuru" words="Ora Azuru" lvl="100" maglv="80" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Halibel/Ora Azuru.lua">
 		<vocation id="16"/>
 	</instant>
-	<instant name="La Gota" words="La Gota" lvl="50" maglv="30" mana="2000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Halibel/La Gota.lua">
+	<instant name="La Gota" words="La Gota" lvl="50" maglv="30" mana="500" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Halibel/La Gota.lua">
 		<vocation id="16"/>
 	</instant>
 
 	<!-- Kuugo Ginjou -->
-	<instant name="Getsuga Tensho" words="Getsuga Tensho" lvl="100" maglv="80" mana="3000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Ginjou/Getsuga Tensho.lua">
+	<instant name="Getsuga Tensho" words="Getsuga Tensho" lvl="100" maglv="80" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Ginjou/Getsuga Tensho.lua">
 		<vocation id="15"/>
 	</instant>
-	<instant name="Explosao De Energia" words="Explosao De Energia" lvl="50" maglv="30" mana="2000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Ginjou/Explosao De Energia.lua">
+	<instant name="Explosao De Energia" words="Explosao De Energia" lvl="50" maglv="30" mana="500" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Ginjou/Explosao De Energia.lua">
 		<vocation id="15"/>
 	</instant>
 
 	<!-- Urahara Kisuke -->
-	<instant name="Benihime" words="Benihime" lvl="100" maglv="80" mana="3000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Urahara/Benihime.lua">
+	<instant name="Benihime" words="Benihime" lvl="100" maglv="80" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Urahara/Benihime.lua">
 		<vocation id="17"/>
 	</instant>
-	<instant name="Hiasobi" words="Hiasobi" lvl="50" maglv="30" mana="2000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Urahara/Hiasobi.lua">
+	<instant name="Hiasobi" words="Hiasobi" lvl="50" maglv="30" mana="500" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Urahara/Hiasobi.lua">
 		<vocation id="17"/>
 	</instant>
 
 	<!-- Grimmjow Jaegerjaquez -->
-	<instant name="Garra de la Pantera" words="Garra de la Pantera" lvl="100" maglv="80" mana="3000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Grimmjow/Garra de la Pantera.lua">
+	<instant name="Garra de la Pantera" words="Garra de la Pantera" lvl="100" maglv="80" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Grimmjow/Garra de la Pantera.lua">
 		<vocation id="18"/>
 	</instant>
-	<instant name="Desgarron" words="Desgarron" lvl="50" maglv="30" mana="2000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Grimmjow/Desgarron.lua">
+	<instant name="Desgarron" words="Desgarron" lvl="50" maglv="30" mana="500" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Grimmjow/Desgarron.lua">
 		<vocation id="18"/>
 	</instant>
 
 	<!-- Ikkaku Madarame -->
-	<instant name="Hozukimaru" words="Hozukimaru" lvl="100" maglv="80" mana="3000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Ikkaku/Hozukimaru.lua">
+	<instant name="Hozukimaru" words="Hozukimaru" lvl="100" maglv="80" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Ikkaku/Hozukimaru.lua">
 		<vocation id="19"/>
 	</instant>
-	<instant name="Hozukimaru Turn Slow" words="Hozukimaru Turn Slow" lvl="50" maglv="30" mana="2000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="4000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Ikkaku/Hozukimaru Turn Slow.lua">
+	<instant name="Hozukimaru Turn Slow" words="Hozukimaru Turn Slow" lvl="50" maglv="30" mana="500" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="4000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Ikkaku/Hozukimaru Turn Slow.lua">
 		<vocation id="19"/>
 	</instant>
 
 	<!-- Coyote Starrk -->
-	<instant name="Cero Metralleta" words="Cero Metralleta" lvl="100" maglv="80" mana="3000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Starrk/Cero Metralleta.lua">
+	<instant name="Cero Metralleta" words="Cero Metralleta" lvl="100" maglv="80" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Starrk/Cero Metralleta.lua">
 		<vocation id="20"/>
 	</instant>
-	<instant name="Colmillo" words="Colmillo" lvl="50" maglv="30" mana="2000" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Starrk/Colmillo.lua">
+	<instant name="Colmillo" words="Colmillo" lvl="50" maglv="30" mana="500" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Starrk/Colmillo.lua">
 		<vocation id="20"/>
 	</instant>
 
 	<!-- Nnoitra Gilga -->
-	<instant name="Bala" words="Bala" lvl="100" maglv="80" mana="3000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Nnoitra/Bala.lua">
+	<instant name="Bala" words="Bala" lvl="100" maglv="80" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Nnoitra/Bala.lua">
 		<vocation id="21"/>
 	</instant>
 </spells>
