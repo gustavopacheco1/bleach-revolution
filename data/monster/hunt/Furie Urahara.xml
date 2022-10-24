@@ -41,7 +41,7 @@
 		<item id="15366" chance="10000" count="1" countmax="1"/> <!-- elite urahara boots -->
 		<item id="15245" chance="5000" count="1" countmax="1"/> <!-- furie urahara helmet -->
 		<item id="15301" chance="5000" count="1" countmax="1"/> <!-- furie urahara armor -->
-		<item id="15436" chance="5000" count="1" countmax="1"/> <!-- furie urahara legs -->
+		<item id="16436" chance="5000" count="1" countmax="1"/> <!-- furie urahara legs -->
 		<item id="15367" chance="5000" count="1" countmax="1"/> <!-- furie urahara boots -->
 	</loot>
 </monster>
