@@ -236,7 +236,7 @@
 		<vocation id="17"/> <!-- Urahara Kisuke -->
 	</instant>
 	<instant name="Pantera Wave" words="Pantera Wave" lvl="80" maglv="60" mana="2500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Pantera Wave.lua">
-		<vocation id="18"/> <!-- Urahara Kisuke -->
+		<vocation id="18"/> <!-- Grimmjow Jaegerjaquez -->
 	</instant>
 
 	<!-- Cannon -->
