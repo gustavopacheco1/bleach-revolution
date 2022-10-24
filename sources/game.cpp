@@ -1203,7 +1203,7 @@ bool Game::playerMoveCreature(const uint32_t &playerId, const uint32_t &movingCr
 
 	if (player != movingCreature)
 	{
-		if (!player->hasFlag(PlayerFlag_IgnoreProtectionZone) && (movingCreature->getZone() == ZONE_PROTECTION || movingCreature->getZone() == ZONE_OPTIONAL) && !toTile->hasFlag(TILESTATE_OPTIONALZONE) && !toTile->hasFlag(TILESTATE_PROTECTIONZONE))
+		if (!player->hasFlag(PlayerFlag_IgnoreProtectionZone) && (movingCreature->getZone() == ZONE_PROTECTION || movingCreature->getZone() == ZONE_OPTIONAL) && !toTile->hasFlag(TILESTATE_PROTECTIONZONE))
 		{
 			player->sendCancelMessage(RET_ACTIONNOTPERMITTEDINANOPVPZONE);
 			return false;
@@ -2335,7 +2335,7 @@ bool Game::removeMoney(Cylinder *cylinder, int64_t money, uint32_t flags /*= 0*/
 		}
 		else
 		{
-			msg << "Foi pago " << money << " ryo da conta do banco. Agora o seu saldo bancário é " << player->balance << " ryo.";
+			msg << "Foi pago " << money << " ryo da conta do banco. Agora o seu saldo bancï¿½rio ï¿½ " << player->balance << " ryo.";
 		}
 
 		player->sendTextMessage(MSG_INFO_DESCR, msg.str());
