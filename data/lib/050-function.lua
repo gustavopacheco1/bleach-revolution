@@ -800,3 +800,9 @@ function doSendTutorialArrow(cid, position, storage_key, storage_value, secondar
 
 	addEvent(doSendTutorialArrow, 3000, cid, position, storage_key, storage_value, secondary_position)
 end
+
+function doPlayerAddBlessings(cid)
+	for i = 1, 5 do
+		doPlayerAddBlessing(cid, i)
+	end
+end

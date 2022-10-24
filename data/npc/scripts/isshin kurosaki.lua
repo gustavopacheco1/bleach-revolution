@@ -13,7 +13,6 @@ function onThink() npcHandler:onThink() end
 function onThink() npcHandler:onThinkCreatureSay() end
 
 local talkState = {}
-local price = 50000
 
 function onCreatureSay(cid, type, msg)
 	local talkUser = NPCHANDLER_CONVBEHAVIOR == CONVERSATION_DEFAULT and 0 or cid
@@ -26,8 +25,7 @@ function onCreatureSay(cid, type, msg)
 			local player_name = getCreatureName(cid)
 			selfSayMultiLanguage(
 				"Hello, " .. player_name .. "! I can grant you the {soul protection}. So your losses in battles will be reduced.",
-				"Olá, " ..
-				player_name .. "! Eu consigo te conceder a {proteção de alma}. Assim, suas perdas em batalhas serão reduzidas.",
+				"Olá, " .. player_name .. "! Eu consigo te conceder a {proteção de alma}. Assim, suas perdas em batalhas serão reduzidas.",
 				cid
 			)
 			return true
@@ -48,6 +46,9 @@ function onCreatureSay(cid, type, msg)
 		return false
 	end
 
+	local multiplier = getCreatureSkullType(cid) >= SKULL_RED and 2 or 1
+	local price = (10000 + (200 * (getPlayerLevel(cid) + 50))) * multiplier
+
 	if isInArray({ "soul protection", "proteção de alma" }, msg) then
 		if getPlayerBlessing(cid, 1) then
 			selfSayMultiLanguage(
@@ -59,8 +60,8 @@ function onCreatureSay(cid, type, msg)
 		end
 
 		selfSayMultiLanguage(
-			"The price for it is " .. price .. " ryo. Are you sure?",
-			"O preço por isso é " .. price .. " ryo. Você tem certeza?",
+			"For you the price for it is " .. price .. " ryo. Are you sure?",
+			"Para você o preço por isso é " .. price .. " ryo. Você tem certeza?",
 			cid
 		)
 		talkState[talkUser] = 1
@@ -79,9 +80,7 @@ function onCreatureSay(cid, type, msg)
 
 		talkState[talkUser] = nil
 
-		for i = 1, 5 do
-			doPlayerAddBlessing(cid, i)
-		end
+		doPlayerAddBlessings(cid)
 
 		selfSayMultiLanguage(
 			"It was a pleasure doing business with you. You've received the soul protection.",
