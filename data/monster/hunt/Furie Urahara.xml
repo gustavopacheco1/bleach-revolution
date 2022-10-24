@@ -37,7 +37,7 @@
 		<item id="2148" chance="100000" count="210" countmax="210"/> <!-- ryo coin -->
 		<item id="15244" chance="10000" count="1" countmax="1"/> <!-- elite urahara helmet -->
 		<item id="15300" chance="10000" count="1" countmax="1"/> <!-- elite urahara armor -->
-		<item id="15435" chance="10000" count="1" countmax="1"/> <!-- elite urahara legs -->
+		<item id="16435" chance="10000" count="1" countmax="1"/> <!-- elite urahara legs -->
 		<item id="15366" chance="10000" count="1" countmax="1"/> <!-- elite urahara boots -->
 		<item id="15245" chance="5000" count="1" countmax="1"/> <!-- furie urahara helmet -->
 		<item id="15301" chance="5000" count="1" countmax="1"/> <!-- furie urahara armor -->
