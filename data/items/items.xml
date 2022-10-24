@@ -22349,25 +22349,25 @@
 	<item id="15080" article="a" name="Ninja Helmet">
 		<attribute key="weight" value="1000" />
 		<attribute key="armor" value="13" />
-		<attribute key="manaGain" value="500" />
+		<attribute key="manaGain" value="100" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="15081" article="a" name="Ninja Armor">
 		<attribute key="weight" value="3000" />
 		<attribute key="armor" value="13" />
-		<attribute key="manaGain" value="500" />
+		<attribute key="manaGain" value="100" />
 		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="100" />
+		<attribute key="healthGain" value="500" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="body" />
 	</item>
 	<item id="15082" article="a" name="Ninja Legs">
 		<attribute key="weight" value="3000" />
 		<attribute key="armor" value="13" />
-		<attribute key="manaGain" value="500" />
+		<attribute key="manaGain" value="100" />
 		<attribute key="manaTicks" value="1000" />
-		<attribute key="healthGain" value="100" />
+		<attribute key="healthGain" value="500" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="legs" />
 	</item>
