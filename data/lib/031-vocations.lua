@@ -95,8 +95,8 @@ SPECIALS = {
 	},
 
 	["Retsu Unohana"] = {
-		[120] = "Jie Jin Minazuki",
-		[150] = "Kaidou Heal"
+		[120] = "Kaidou Heal",
+		[150] = "Revive"
 	},
 
 	["Grimmjow Jaegerjaquez"] = {
