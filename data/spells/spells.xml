@@ -235,6 +235,9 @@
 	<instant name="Benihime Wave" words="Benihime Wave" lvl="80" maglv="60" mana="2500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Benihime Wave.lua">
 		<vocation id="17"/> <!-- Urahara Kisuke -->
 	</instant>
+	<instant name="Pantera Wave" words="Pantera Wave" lvl="80" maglv="60" mana="2500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Pantera Wave.lua">
+		<vocation id="18"/> <!-- Urahara Kisuke -->
+	</instant>
 
 	<!-- Cannon -->
 	<instant name="Gran Rey Cero" words="Gran Rey Cero" lvl="130" maglv="100" mana="11000" prem="0" direction="1" exhaustion="500" needlearn="0" event="script" value="attack/cannon/Gran Rey Cero.lua">
