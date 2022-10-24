@@ -6,8 +6,6 @@ function onDeath(cid, corpse, deathList)
 			local kills = getPlayerStorageValue(killer, "yamamoto_task_kills")
 			local total_kills = getPlayerStorageValue(killer, "yamamoto_task_total_kills")
 
-			print(kills)
-			print(total_kills)
 			if total_kills > kills then
 				local plural = ""
 				if kills > 0 then
