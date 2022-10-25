@@ -136,22 +136,23 @@ local function doSendLootMessageToSpecs(position, lootList, killerName, monsterN
 end
 
 function onDeath(cid, corpse, deathList)
-	local boss = bosses[getCreatureName(cid)]
+	local boss_name = getCreatureName(cid)
+	local boss = bosses[boss_name]
 
 	if not boss then
-		error('Boss not found. (' .. getCreatureName(cid) .. ')')
+		error('Boss not found. (' .. boss_name .. ')')
 		return true
 	end
 
 	if boss.position and boss.minutes_to_respawn then
-		addEvent(doCreateMonster, boss.minutes_to_respawn * 60 * 1000, boss.name, boss.position, false, true)
+		addEvent(doCreateMonster, boss.minutes_to_respawn * 60 * 1000, boss_name, boss.position, false, true)
 	end
 
 	if boss.loot then
 		local killer = deathList[1] -- Last hit killer
 		local container = doCreateItemEx(2595)
 		doItemSetAttribute(container, "description",
-			getCreatureName(cid) .. " Loot Reward.\n" ..
+			boss_name .. " Loot Reward.\n" ..
 			"Owner: " .. getCreatureName(killer) .. "\n" ..
 			"Date: " .. os.date("%d/%m/%Y - Time: %X")
 		)
@@ -165,7 +166,7 @@ function onDeath(cid, corpse, deathList)
 			end
 		end
 
-		doSendLootMessageToSpecs(getCreaturePosition(cid), loot_list, getCreatureName(killer), getCreatureName(cid))
+		doSendLootMessageToSpecs(getCreaturePosition(cid), loot_list, getCreatureName(killer), boss_name)
 		doPlayerSendMailByName(getCreatureName(killer), container, REWARD_CHEST_TOWN)
 	end
 	return true
