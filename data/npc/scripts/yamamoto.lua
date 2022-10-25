@@ -104,6 +104,10 @@ function onCreatureSay(cid, type, msg)
 		return true
 	end
 
+	if talkState[talkUser] == nil then
+		return true
+	end
+
 	if isInArray({ "yes", "sim" }, msg) and talkState[talkUser] >= 1 then
 		local player_task = getPlayerStorageValue(cid, "yamamoto_task")
 		local player_task_kills = getPlayerStorageValue(cid, "yamamoto_task_kills")
