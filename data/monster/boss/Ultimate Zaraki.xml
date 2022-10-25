@@ -24,7 +24,7 @@
 		<attack name="Oscuras Wave" interval="5000" min="-5000" max="-5500"/>
 		<attack name="Cero Oscuras" interval="4000" min="-25000" max="-25100"/>
 		<attack name="Kendo" interval="3000" min="-500" max="-1000"/>
-		<attack name="cero" interval="2000" min="-5000" max="-5500"/>
+		<attack name="monster cero" interval="2000" min="-5000" max="-5500"/>
 	</attacks>
 	<defenses armor="0" defense="0"/>
 	<immunities>

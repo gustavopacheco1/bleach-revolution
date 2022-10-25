@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spells>
+	<!-- Monsters -->
+	<instant name="Monster Cero" words="###1" aggressive="1" blockwalls="1" needtarget="1" needlearn="1" event="script" value="monster/Cero.lua"/>
+
 	<!-- Healing -->
 	<instant name="regeneration" words="regeneration" lvl="5" maglv="5" mana="200" aggressive="0" selftarget="1" exhaustion="1000" exhaustedGroup="heal" needlearn="0" event="script" value="healing/regeneration.lua"/>
 	<instant name="Big Regeneration" words="big regeneration" lvl="120" maglv="100" mana="400" aggressive="0" selftarget="1" exhaustion="1000" exhaustedGroup="heal" needlearn="0" event="script" value="healing/big_regeneration.lua"/>
@@ -178,7 +181,7 @@
 	<instant name="Geki" words="Geki" lvl="10" maglv="10" mana="80" prem="0" range="8" needtarget="1" blockwalls="1" exhaustion="1500" exhaustedGroup="attack" needlearn="0" event="script" value="attack/geki.lua"/>
 	<instant name="Shitotsu Sansen" words="Shitotsu Sansen" lvl="20" maglv="15" mana="100" prem="0" range="8" needtarget="1" blockwalls="1" exhaustion="1500" exhaustedGroup="attack" needlearn="0" event="script" value="attack/shitotsu_sansen.lua"/>
 	<instant name="Gochutekkan" words="Gochutekkan" lvl="30" maglv="20" mana="150" prem="0" range="8" needtarget="1" blockwalls="1" exhaustion="1500" exhaustedGroup="attack" needlearn="0" event="script" value="attack/gochutekkan.lua"/>
-	<instant name="Cero" words="Cero" lvl="50" mana="500" maglv="30" prem="0" exhaustion="400" needlearn="0" event="script" value="attack/Cero.lua">
+	<instant name="Cero" words="Cero" lvl="50" mana="500" maglv="30" prem="0" exhaustion="400" range="8" needtarget="1" blockwalls="1" needlearn="0" event="script" value="attack/Cero.lua">
 		<vocation id="6"/> <!-- Ulquiorra Ciffer -->
 		<vocation id="11"/> <!-- Nelliel Odelschwanck -->
 		<vocation id="21"/> <!-- Nnoitra Gilga -->
