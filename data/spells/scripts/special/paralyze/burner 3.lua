@@ -9,7 +9,7 @@ setCombatCondition(combat, condition)
 
 function onCastSpell(cid, var)
 	if exhaustion.check(cid, "special") then
-		doPlayerSendCancel(cid, "Cooldown " .. exhaustion.get(cid, "special") "s")
+		doPlayerSendCancel(cid, "Cooldown " .. exhaustion.get(cid, "special") .. "s")
 		return false
 	end
 
