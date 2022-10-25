@@ -178,7 +178,7 @@
 	<instant name="Geki" words="Geki" lvl="10" maglv="10" mana="80" prem="0" range="8" needtarget="1" blockwalls="1" exhaustion="1500" exhaustedGroup="attack" needlearn="0" event="script" value="attack/geki.lua"/>
 	<instant name="Shitotsu Sansen" words="Shitotsu Sansen" lvl="20" maglv="15" mana="100" prem="0" range="8" needtarget="1" blockwalls="1" exhaustion="1500" exhaustedGroup="attack" needlearn="0" event="script" value="attack/shitotsu_sansen.lua"/>
 	<instant name="Gochutekkan" words="Gochutekkan" lvl="30" maglv="20" mana="150" prem="0" range="8" needtarget="1" blockwalls="1" exhaustion="1500" exhaustedGroup="attack" needlearn="0" event="script" value="attack/gochutekkan.lua"/>
-	<instant name="Cero" words="Cero" lvl="50" mana="500" maglv="30" prem="0" direction="1" exhaustion="400" needlearn="0" event="script" value="attack/Cero.lua">
+	<instant name="Cero" words="Cero" lvl="50" mana="500" maglv="30" prem="0" exhaustion="400" needlearn="0" event="script" value="attack/Cero.lua">
 		<vocation id="6"/> <!-- Ulquiorra Ciffer -->
 		<vocation id="11"/> <!-- Nelliel Odelschwanck -->
 		<vocation id="21"/> <!-- Nnoitra Gilga -->
