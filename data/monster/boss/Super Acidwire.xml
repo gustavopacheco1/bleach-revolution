@@ -20,7 +20,7 @@
 	</flags>
 	<attacks>
 		<attack name="melee" interval="2000" min="-5000" max="-5500"/>
-		<attack name="cero" interval="2000" min="-15000" max="-15500"/>
+		<attack name="monster cero" interval="2000" min="-15000" max="-15500"/>
 		<attack name="kendo" interval="1000" min="-2000" max="-2500"/>
 	</attacks>
 	<defenses armor="0" defense="0"/>

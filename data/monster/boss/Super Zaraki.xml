@@ -21,7 +21,7 @@
 	</flags>
 	<attacks>
 		<attack name="melee" interval="1000" min="-10000" max="-10500"/>
-		<attack name="cero" interval="1500" min="-8000" max="-8500"/>
+		<attack name="monster cero" interval="1500" min="-8000" max="-8500"/>
 	</attacks>
 	<defenses armor="0" defense="0"/>
 	<immunities>

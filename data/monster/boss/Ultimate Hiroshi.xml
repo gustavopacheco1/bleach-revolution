@@ -22,7 +22,7 @@
 		<attack name="melee" interval="2000" min="-3000" max="-3500"/>
 		<attack name="getsuga wave" interval="4000" min="-2000" max="-2500"/>
 		<attack name="getsuga tenshou" interval="4000" min="-15000" max="-15500"/>
-		<attack name="cero" interval="3000" min="-3000" max="-3500"/>
+		<attack name="monster cero" interval="3000" min="-3000" max="-3500"/>
 		<attack name="getsuga" interval="1500" min="-500" max="-1000"/>
 
 	</attacks>
