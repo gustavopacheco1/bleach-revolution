@@ -86,7 +86,7 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 					cid,
 					MESSAGE_INFO_DESCR,
 					"You need to be level " .. item.actionid - getItemLevelDoor(item.itemid) .. " to pass.",
-					"Você presica ser nível " .. item.actionid - getItemLevelDoor(item.itemid) .. " para passar."
+					"Você precisa ser nível " .. item.actionid - getItemLevelDoor(item.itemid) .. " para passar."
 				)
 				return true
 			end
@@ -96,7 +96,7 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 					cid,
 					MESSAGE_INFO_DESCR,
 					"You are incapacitated to pass this door.",
-					"Você está incapacitado de passar esta porta."
+					"Você é incapacitado de passar esta porta."
 				)
 				return true
 			end
