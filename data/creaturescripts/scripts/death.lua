@@ -25,6 +25,7 @@ function onStatsChange(cid, attacker, type, combat, value)
 
 	doRemoveCreatureSummons(cid)
 
+	doCreatureSetNoMove(cid, true)
 	setCreatureTarget(cid, nil)
 	doCreatureAddHealth(cid, getCreatureMaxHealth(cid))
 	doPlayerSetGroupId(cid, 7)
@@ -54,6 +55,7 @@ function onStatsChange(cid, attacker, type, combat, value)
 		if getPlayerGroupId(cid) == 7 then
 			doTeleportThing(cid, death_position)
 			doCreatureAddHealth(cid, -getCreatureMaxHealth(cid))
+			doCreatureSetNoMove(cid, false)
 		end
 
 	end, 6000)

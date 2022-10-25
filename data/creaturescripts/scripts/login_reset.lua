@@ -20,7 +20,6 @@ function onLogin(cid)
 		setPlayerStorageValue(cid, "group", player_group_id)
 	end
 
-	doCreatureSetNoMove(cid, false)
 	doPlayerFormula(cid)
 
 	-- Storages

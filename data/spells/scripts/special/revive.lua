@@ -81,7 +81,7 @@ function onCastSpell(cid, var)
 	doSendMagicEffect(target_position, 5)
 
 	doRemoveCreature(target_corpse)
-	doTeleportThing(target, target_position)
+	doCreatureSetNoMove(target, false)
 	if isPlayerGhost(target) then
 		doCreatureExecuteTalkAction(target, "###invisible", true)
 	end
