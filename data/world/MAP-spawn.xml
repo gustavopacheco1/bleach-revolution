@@ -29751,8 +29751,7 @@
 		<monster name="Incomplete Hollow" x="1" y="1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="3162" centery="2848" centerz="14" radius="1">
-		<monster name="Incomplete Hollow" x="1" y="-1" z="14" spawntime="60" />
-		<monster name="Hollow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Hollow" x="-1" y="-1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="3177" centery="2849" centerz="14" radius="1">
 		<monster name="Green Hollow" x="0" y="-1" z="14" spawntime="60" />

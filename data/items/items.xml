@@ -21885,13 +21885,15 @@
 		<attribute key="armor" value="60" />
 		<attribute key="magicpoints" value="5" />
 		<attribute key="skillSword" value="5" />
+		<attribute key="manaGain" value="200" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="absorbPercentEnergy" value="2" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="15716" article="a" name="Founder Armor">
 		<attribute key="weight" value="3000" />
 		<attribute key="armor" value="60" />
-		<attribute key="manaGain" value="300" />
+		<attribute key="manaGain" value="200" />
 		<attribute key="manaTicks" value="1000" />
 		<attribute key="healthGain" value="2300" />
 		<attribute key="healthTicks" value="1000" />
@@ -21902,7 +21904,7 @@
 	<item id="15717" article="a" name="Founder Legs">
 		<attribute key="weight" value="3000" />
 		<attribute key="armor" value="60" />
-		<attribute key="manaGain" value="300" />
+		<attribute key="manaGain" value="200" />
 		<attribute key="manaTicks" value="1000" />
 		<attribute key="healthGain" value="2300" />
 		<attribute key="healthTicks" value="1000" />
@@ -21974,6 +21976,8 @@
 		<attribute key="weight" value="5000" />
 		<attribute key="armor" value="50" />
 		<attribute key="magicpoints" value="1" />
+		<attribute key="manaGain" value="400" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="absorbPercentEnergy" value="4" />
 		<attribute key="slotType" value="head" />
 	</item>
@@ -21982,6 +21986,8 @@
 		<attribute key="armor" value="50" />
 		<attribute key="healthGain" value="3500" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="400" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="magicpoints" value="1" />
 		<attribute key="absorbPercentEnergy" value="4" />
 		<attribute key="slotType" value="body" />
@@ -21991,6 +21997,8 @@
 		<attribute key="armor" value="50" />
 		<attribute key="healthGain" value="3500" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="400" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="magicpoints" value="1" />
 		<attribute key="absorbPercentPhysical" value="4" />
 		<attribute key="slotType" value="legs" />
@@ -22044,6 +22052,8 @@
 		<attribute key="weight" value="5000" />
 		<attribute key="armor" value="35" />
 		<attribute key="skillSword" value="1" />
+		<attribute key="manaGain" value="250" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="absorbPercentEnergy" value="1" />
 		<attribute key="slotType" value="head" />
 	</item>
@@ -22052,6 +22062,8 @@
 		<attribute key="armor" value="35" />
 		<attribute key="healthGain" value="1800" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="250" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="skillSword" value="1" />
 		<attribute key="absorbPercentEnergy" value="1" />
 		<attribute key="slotType" value="body" />
@@ -22061,6 +22073,8 @@
 		<attribute key="armor" value="35" />
 		<attribute key="healthGain" value="1800" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="250" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="skillSword" value="1" />
 		<attribute key="absorbPercentPhysical" value="1" />
 		<attribute key="slotType" value="legs" />
@@ -22114,6 +22128,8 @@
 		<attribute key="weight" value="5000" />
 		<attribute key="armor" value="40" />
 		<attribute key="skillDist" value="1" />
+		<attribute key="manaGain" value="300" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="absorbPercentPhysical" value="2" />
 		<attribute key="slotType" value="head" />
 	</item>
@@ -22122,6 +22138,8 @@
 		<attribute key="armor" value="40" />
 		<attribute key="healthGain" value="2500" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="300" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="absorbPercentPhysical" value="2" />
 		<attribute key="skillDist" value="1" />
 		<attribute key="slotType" value="body" />
@@ -22131,6 +22149,8 @@
 		<attribute key="armor" value="40" />
 		<attribute key="healthGain" value="2500" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="300" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="absorbPercentEnergy" value="2" />
 		<attribute key="skillDist" value="1" />
 		<attribute key="slotType" value="legs" />
@@ -22184,6 +22204,8 @@
 		<attribute key="weight" value="4000" />
 		<attribute key="armor" value="15" />
 		<attribute key="magicpoints" value="1" />
+		<attribute key="manaGain" value="150" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="16098" article="a" name="Kensei Armor">
@@ -22191,6 +22213,8 @@
 		<attribute key="armor" value="15" />
 		<attribute key="healthGain" value="600" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="150" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="body" />
 	</item>
 	<item id="16099" article="a" name="Kensei Legs">
@@ -22198,6 +22222,8 @@
 		<attribute key="armor" value="15" />
 		<attribute key="healthGain" value="600" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="150" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="legs" />
 	</item>
 	<item id="16100" article="a" name="Kensei Boots">
@@ -22215,6 +22241,8 @@
 		<attribute key="skillSword" value="1" />
 		<attribute key="skillAxe" value="1" />
 		<attribute key="skillDist" value="1" />
+		<attribute key="manaGain" value="200" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="16101" article="a" name="Halibel Armor">
@@ -22222,6 +22250,8 @@
 		<attribute key="armor" value="30" />
 		<attribute key="healthGain" value="1200" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="200" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="skillSword" value="1" />
 		<attribute key="skillAxe" value="1" />
 		<attribute key="skillDist" value="1" />
@@ -22232,6 +22262,8 @@
 		<attribute key="armor" value="30" />
 		<attribute key="healthGain" value="1200" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="200" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="skillSword" value="1" />
 		<attribute key="skillAxe" value="1" />
 		<attribute key="skillDist" value="1" />
@@ -22252,6 +22284,8 @@
 		<attribute key="weight" value="5000" />
 		<attribute key="armor" value="45" />
 		<attribute key="skillAxe" value="1" />
+		<attribute key="manaGain" value="350" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="absorbPercentEnergy" value="3" />
 		<attribute key="slotType" value="head" />
 	</item>
@@ -22260,6 +22294,8 @@
 		<attribute key="armor" value="45" />
 		<attribute key="healthGain" value="3000" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="350" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="skillAxe" value="1" />
 		<attribute key="absorbPercentEnergy" value="3" />
 		<attribute key="slotType" value="body" />
@@ -22269,6 +22305,8 @@
 		<attribute key="armor" value="45" />
 		<attribute key="healthGain" value="3000" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="350" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="skillAxe" value="1" />
 		<attribute key="absorbPercentPhysical" value="3" />
 		<attribute key="slotType" value="legs" />
@@ -22378,6 +22416,8 @@
 		<attribute key="armor" value="20" />
 		<attribute key="healthGain" value="250" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="50" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="skillFist" value="1" />
 		<attribute key="slotType" value="head" />
 	</item>
@@ -22386,6 +22426,8 @@
 		<attribute key="armor" value="20" />
 		<attribute key="healthGain" value="1000" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="50" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="skillFist" value="1" />
 		<attribute key="slotType" value="body" />
 	</item>
@@ -22394,6 +22436,8 @@
 		<attribute key="armor" value="20" />
 		<attribute key="healthGain" value="1000" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="50" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="skillfist" value="1" />
 		<attribute key="slotType" value="legs" />
 	</item>
@@ -22411,6 +22455,8 @@
 		<attribute key="armor" value="20" />
 		<attribute key="healthGain" value="500" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="60" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="skillSword" value="1" />
 		<attribute key="slotType" value="head" />
 	</item>
@@ -22419,6 +22465,8 @@
 		<attribute key="armor" value="20" />
 		<attribute key="healthGain" value="1100" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="60" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="skillSword" value="1" />
 		<attribute key="slotType" value="body" />
 	</item>
@@ -22427,6 +22475,8 @@
 		<attribute key="armor" value="20" />
 		<attribute key="healthGain" value="1100" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="60" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="skillSword" value="1" />
 		<attribute key="slotType" value="legs" />
 	</item>
@@ -22444,6 +22494,8 @@
 		<attribute key="armor" value="20" />
 		<attribute key="healthGain" value="600" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="70" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="magicpoints" value="1" />
 		<attribute key="slotType" value="head" />
 	</item>
@@ -22452,6 +22504,8 @@
 		<attribute key="armor" value="20" />
 		<attribute key="healthGain" value="1150" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="70" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="magicpoints" value="1" />
 		<attribute key="slotType" value="body" />
 	</item>
@@ -22460,13 +22514,15 @@
 		<attribute key="armor" value="20" />
 		<attribute key="healthGain" value="1150" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="70" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="magicpoints" value="1" />
 		<attribute key="slotType" value="legs" />
 	</item>
 	<item id="15367" article="a" name="Furie Urahara Boots">
 		<attribute key="weight" value="4000" />
 		<attribute key="armor" value="20" />
-		<attribute key="healthGain" value="600" />
+		<attribute key="healthGain" value="70" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="magicpoints" value="1" />
 		<attribute key="slotType" value="feet" />
@@ -22478,20 +22534,26 @@
 		<attribute key="armor" value="17" />
 		<attribute key="healthGain" value="50" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="20" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="10687" article="a" name="Mummy Armor">
 		<attribute key="weight" value="1050" />
 		<attribute key="armor" value="17" />
-		<attribute key="healthGain" value="500" />
+		<attribute key="healthGain" value="50" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="20" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="body" />
 	</item>
 	<item id="10688" article="a" name="Mummy Legs">
 		<attribute key="weight" value="1050" />
 		<attribute key="armor" value="17" />
-		<attribute key="healthGain" value="500" />
+		<attribute key="healthGain" value="50" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="20" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="legs" />
 	</item>
 	<item id="10689" article="a" name="Mummy Boots">
@@ -22505,28 +22567,34 @@
 	<item id="15268" article="an" name="Elite Mummy Helmet">
 		<attribute key="weight" value="3000" />
 		<attribute key="armor" value="17" />
-		<attribute key="healthGain" value="100" />
+		<attribute key="healthGain" value="55" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="22" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="15326" article="an" name="Elite Mummy Armor">
 		<attribute key="weight" value="3000" />
 		<attribute key="armor" value="17" />
-		<attribute key="healthGain" value="550" />
+		<attribute key="healthGain" value="55" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="22" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="body" />
 	</item>
 	<item id="15358" article="an" name="Elite Mummy Legs">
 		<attribute key="weight" value="3000" />
 		<attribute key="armor" value="17" />
-		<attribute key="healthGain" value="550" />
+		<attribute key="healthGain" value="55" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="22" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="legs" />
 	</item>
 	<item id="15378" article="an" name="Elite Mummy Boots">
 		<attribute key="weight" value="3000" />
 		<attribute key="armor" value="17" />
-		<attribute key="healthGain" value="100" />
+		<attribute key="healthGain" value="55" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="feet" />
 	</item>
@@ -22534,28 +22602,34 @@
 	<item id="15269" article="a" name="Furie Mummy Helmet">
 		<attribute key="weight" value="4000" />
 		<attribute key="armor" value="17" />
-		<attribute key="healthGain" value="150" />
+		<attribute key="healthGain" value="60" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="24" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="15327" article="a" name="Furie Mummy Armor">
 		<attribute key="weight" value="4000" />
 		<attribute key="armor" value="17" />
-		<attribute key="healthGain" value="600" />
+		<attribute key="healthGain" value="60" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="24" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="body" />
 	</item>
 	<item id="15359" article="a" name="Furie Mummy Legs">
 		<attribute key="weight" value="4000" />
 		<attribute key="armor" value="17" />
-		<attribute key="healthGain" value="600" />
+		<attribute key="healthGain" value="60" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="24" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="legs" />
 	</item>
 	<item id="15379" article="a" name="Furie Mummy Boots">
 		<attribute key="weight" value="4000" />
 		<attribute key="armor" value="17" />
-		<attribute key="healthGain" value="150" />
+		<attribute key="healthGain" value="60" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="feet" />
 	</item>
@@ -22566,6 +22640,8 @@
 		<attribute key="armor" value="25" />
 		<attribute key="healthGain" value="900" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="90" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="skillSword" value="1" />
 		<attribute key="slotType" value="head" />
 	</item>
@@ -22574,6 +22650,8 @@
 		<attribute key="armor" value="25" />
 		<attribute key="healthGain" value="900" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="90" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="skillSword" value="1" />
 		<attribute key="slotType" value="body" />
 	</item>
@@ -22583,6 +22661,8 @@
 		<attribute key="armor" value="25" />
 		<attribute key="healthGain" value="950" />
 		<attribute key="healthTicks" value="1100" />
+		<attribute key="manaGain" value="100" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="skillSword" value="2" />
 		<attribute key="slotType" value="head" />
 	</item>
@@ -22591,6 +22671,8 @@
 		<attribute key="armor" value="25" />
 		<attribute key="healthGain" value="950" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="100" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="skillSword" value="2" />
 		<attribute key="slotType" value="body" />
 	</item>
@@ -22600,6 +22682,8 @@
 		<attribute key="armor" value="25" />
 		<attribute key="healthGain" value="1000" />
 		<attribute key="healthTicks" value="1150" />
+		<attribute key="manaGain" value="110" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="skillSword" value="3" />
 		<attribute key="slotType" value="head" />
 	</item>
@@ -22608,6 +22692,8 @@
 		<attribute key="armor" value="25" />
 		<attribute key="healthGain" value="1000" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="110" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="skillSword" value="3" />
 		<attribute key="slotType" value="body" />
 	</item>
@@ -22618,6 +22704,8 @@
 		<attribute key="armor" value="25" />
 		<attribute key="healthGain" value="860" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="85" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="skillShield" value="1" />
 		<attribute key="slotType" value="body" />
 	</item>
@@ -22626,6 +22714,8 @@
 		<attribute key="armor" value="25" />
 		<attribute key="healthGain" value="860" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="85" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="skillShield" value="1" />
 		<attribute key="slotType" value="legs" />
 	</item>
@@ -22637,6 +22727,8 @@
 		<attribute key="armor" value="17" />
 		<attribute key="healthGain" value="20" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="10" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="15116" article="a" name="Bandit Armor">
@@ -22644,6 +22736,8 @@
 		<attribute key="armor" value="17" />
 		<attribute key="healthGain" value="100" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="10" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="body" />
 	</item>
 	<item id="10686" article="a" name="Bandit Legs">
@@ -22651,6 +22745,8 @@
 		<attribute key="armor" value="17" />
 		<attribute key="healthGain" value="100" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="10" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="legs" />
 	</item>
 	<item id="15119" article="a" name="Bandit Boots">
@@ -22666,6 +22762,8 @@
 		<attribute key="armor" value="10" />
 		<attribute key="healthGain" value="40" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="12" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="15332" article="an" name="Elite Bandit Armor">
@@ -22673,6 +22771,8 @@
 		<attribute key="armor" value="10" />
 		<attribute key="healthGain" value="150" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="12" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="body" />
 	</item>
 	<item id="15362" article="an" name="Elite Bandit Legs">
@@ -22687,6 +22787,8 @@
 		<attribute key="armor" value="10" />
 		<attribute key="healthGain" value="40" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="12" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="feet" />
 	</item>
 
@@ -22695,6 +22797,8 @@
 		<attribute key="armor" value="10" />
 		<attribute key="healthGain" value="60" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="14" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="15333" article="a" name="Furie Bandit Armor">
@@ -22702,6 +22806,8 @@
 		<attribute key="armor" value="10" />
 		<attribute key="healthGain" value="200" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="14" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="body" />
 	</item>
 	<item id="15363" article="a" name="Furie Bandit Legs">
@@ -22709,6 +22815,8 @@
 		<attribute key="armor" value="10" />
 		<attribute key="healthGain" value="200" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="14" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="legs" />
 	</item>
 	<item id="15381" article="a" name="Furie Bandit Boots">
@@ -22725,6 +22833,8 @@
 		<attribute key="weight" value="1050" />
 		<attribute key="armor" value="20" />
 		<attribute key="healthGain" value="150" />
+		<attribute key="manaGain" value="40" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
@@ -22732,6 +22842,8 @@
 		<attribute key="weight" value="1050" />
 		<attribute key="armor" value="20" />
 		<attribute key="healthGain" value="300" />
+		<attribute key="manaGain" value="40" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="body" />
 	</item>
@@ -22739,6 +22851,8 @@
 		<attribute key="weight" value="1050" />
 		<attribute key="armor" value="20" />
 		<attribute key="healthGain" value="150" />
+		<attribute key="manaGain" value="40" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="feet" />
 	</item>
@@ -22748,6 +22862,8 @@
 		<attribute key="armor" value="20" />
 		<attribute key="healthGain" value="450" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="60" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="15304" article="an" name="Elite Arrancar Armor">
@@ -22755,6 +22871,8 @@
 		<attribute key="armor" value="20" />
 		<attribute key="healthGain" value="900" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="60" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="body" />
 	</item>
 	<item id="15011" article="an" name="Elite Arrancar Boots">
@@ -22762,6 +22880,8 @@
 		<attribute key="armor" value="20" />
 		<attribute key="healthGain" value="450" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="60" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="feet" />
 	</item>
 
@@ -22777,6 +22897,8 @@
 		<attribute key="armor" value="20" />
 		<attribute key="healthGain" value="1000" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="80" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="body" />
 	</item>
 	<item id="15012" article="a" name="Furie Arrancar Boots">
@@ -22784,6 +22906,8 @@
 		<attribute key="armor" value="20" />
 		<attribute key="healthGain" value="500" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="80" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="feet" />
 	</item>
 
@@ -22793,6 +22917,8 @@
 		<attribute key="armor" value="25" />
 		<attribute key="healthGain" value="500" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="50" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="15240" article="an" name="Elite Grand Fisher Mask">
@@ -22800,6 +22926,8 @@
 		<attribute key="armor" value="25" />
 		<attribute key="healthGain" value="600" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="60" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="15241" article="a" name="Furie Grand Fisher Mask">
@@ -22807,6 +22935,8 @@
 		<attribute key="armor" value="25" />
 		<attribute key="healthGain" value="700" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="70" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="15102" article="an" name="Adjuchas Mask">
@@ -22814,6 +22944,8 @@
 		<attribute key="armor" value="35" />
 		<attribute key="healthGain" value="800" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="90" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="15248" article="an" name="Elite Adjuchas Mask">
@@ -22821,6 +22953,8 @@
 		<attribute key="armor" value="35" />
 		<attribute key="healthGain" value="900" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="100" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="15249" article="a" name="Furie Adjuchas Mask">
@@ -22828,6 +22962,8 @@
 		<attribute key="armor" value="35" />
 		<attribute key="healthGain" value="1000" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="110" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="15103" article="a" name="Gillian Mask">
@@ -22835,6 +22971,8 @@
 		<attribute key="armor" value="29" />
 		<attribute key="healthGain" value="300" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="20" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="15250" article="an" name="Elite Gillian Mask">
@@ -22842,6 +22980,8 @@
 		<attribute key="armor" value="29" />
 		<attribute key="healthGain" value="400" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="25" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="15251" article="a" name="Furie Gillian Mask">
@@ -22849,6 +22989,8 @@
 		<attribute key="armor" value="29" />
 		<attribute key="healthGain" value="500" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="30" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="15104" article="a" name="Spider Mask">
@@ -22856,6 +22998,8 @@
 		<attribute key="armor" value="25" />
 		<attribute key="healthGain" value="400" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="50" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="15256" article="an" name="Elite Spider Mask">
@@ -22863,6 +23007,8 @@
 		<attribute key="armor" value="25" />
 		<attribute key="healthGain" value="500" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="60" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="15257" article="a" name="Furie Spider Mask">
@@ -22870,6 +23016,8 @@
 		<attribute key="armor" value="25" />
 		<attribute key="healthGain" value="600" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="70" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="15105" article="an" name="Arak Mask">
@@ -22877,6 +23025,8 @@
 		<attribute key="armor" value="15" />
 		<attribute key="healthGain" value="400" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="60" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="15260" article="an" name="Elite Arak Mask">
@@ -22884,6 +23034,8 @@
 		<attribute key="armor" value="16" />
 		<attribute key="healthGain" value="500" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="70" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="15261" article="a" name="Furie Arak Mask">
@@ -22891,6 +23043,8 @@
 		<attribute key="armor" value="16" />
 		<attribute key="healthGain" value="600" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="80" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="15772" article="an" name="Arrancar Mask">
@@ -22898,6 +23052,8 @@
 		<attribute key="armor" value="30" />
 		<attribute key="healthGain" value="600" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="90" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="15767" article="a" name="Vast Lord Mask">
