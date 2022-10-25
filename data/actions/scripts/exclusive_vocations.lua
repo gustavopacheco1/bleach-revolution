@@ -18,10 +18,10 @@ local vocations = {
 function onUse(cid, item, fromPosition, itemEx, toPosition)
 	local old_outfits = VOCATION_OUTFITS[getPlayerVocationName(cid)]
 
-	doPlayerRemoveOutfit(old_outfits[1])
+	doPlayerRemoveOutfit(cid, old_outfits[1])
 
 	if canPlayerWearOutfit(cid, old_outfits[100]) then
-		doPlayerRemoveOutfit(old_outfits[100])
+		doPlayerRemoveOutfit(cid, old_outfits[100])
 	end
 
 	doPlayerSetVocation(cid, vocations[item.itemid])
