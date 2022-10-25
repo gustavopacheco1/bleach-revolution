@@ -38,7 +38,7 @@
 		<item id="10687" chance="40000" count="1" countmax="1"/> <!-- mummy armor -->
 		<item id="10688" chance="40000" count="1" countmax="1"/> <!-- mummy legs -->
 		<item id="10689" chance="40000" count="1" countmax="1"/> <!-- mummy boots -->
-		<item id="10624" chance="8000" count="1" countmax="1"/> <!-- great soul stone -->
-		<item id="10625" chance="6000" count="1" countmax="1"/> <!-- ultimate soul stone -->
+		<item id="10624" chance="5000" count="1" countmax="1"/> <!-- great soul stone -->
+		<item id="10625" chance="2000" count="1" countmax="1"/> <!-- ultimate soul stone -->
 	</loot>
 </monster>

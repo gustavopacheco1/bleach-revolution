@@ -35,9 +35,9 @@
 	</immunities>
 	<loot>
 		<item id="2160" chance="5000" count="2" countmax="3"/> <!-- tousand ryo note -->
-		<item id="10624" chance="15000" count="5" countmax="5"/> <!-- great soul stone -->
-		<item id="10625" chance="11000" count="4" countmax="4"/> <!-- ultimate soul stone -->
-		<item id="10626" chance="8000" count="3" countmax="3"/> <!-- supreme soul stone -->
-		<item id="10627" chance="5000" count="2" countmax="2"/> <!-- perfect soul stone -->
+		<item id="10624" chance="10000" count="5" countmax="5"/> <!-- great soul stone -->
+		<item id="10625" chance="8000" count="4" countmax="4"/> <!-- ultimate soul stone -->
+		<item id="10626" chance="6000" count="3" countmax="3"/> <!-- supreme soul stone -->
+		<item id="10627" chance="3000" count="2" countmax="2"/> <!-- perfect soul stone -->
 	</loot>
 </monster>

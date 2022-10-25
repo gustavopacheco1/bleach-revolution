@@ -37,6 +37,6 @@
 	</script>
 	<loot>
 		<item id="2148" chance="70000" count="60" countmax="60"/> <!-- ryo coin -->
-		<item id="10624" chance="4000" count="1" countmax="1"/> <!-- great soul stone -->
+		<item id="10624" chance="2000" count="1" countmax="1"/> <!-- great soul stone -->
 	</loot>
 </monster>

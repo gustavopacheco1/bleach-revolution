@@ -47,8 +47,8 @@
 		<item id="15006" chance="2000" count="1"/> <!-- furie arrancar helmet -->
 		<item id="15305" chance="2000" count="1"/> <!-- furie arrancar armor -->
 		<item id="15012" chance="2000" count="1"/> <!-- furie arrancar boots -->
-		<item id="5897" chance="2000" count="1"/> <!-- wolf paw -->
-		<item id="15687" chance="2000" count="1"/> <!-- soul essence -->
-		<item id="15230" chance="2000" count="1"/> <!-- part of horror -->
+		<item id="5897"  chance="10000" count="1"/> <!-- wolf paw -->
+		<item id="15687" chance="10000" count="1"/> <!-- soul essence -->
+		<item id="15230" chance="10000" count="1"/> <!-- part of horror -->
 	</loot>
 </monster>

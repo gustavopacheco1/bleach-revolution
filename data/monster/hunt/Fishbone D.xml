@@ -41,7 +41,7 @@
 		<item id="15104" chance="8000" count="1" countmax="1"/> <!-- spider mask -->
 		<item id="15256" chance="6000" count="1" countmax="1"/> <!-- elite spider mask -->
 		<item id="15257" chance="2000" count="1" countmax="1"/> <!-- furie spider mask -->
-		<item id="10624" chance="9000" count="1" countmax="1"/> <!-- great soul stone -->
-		<item id="10625" chance="7000" count="1" countmax="1"/> <!-- ultimate soul stone -->
+		<item id="10624" chance="5000" count="1" countmax="1"/> <!-- great soul stone -->
+		<item id="10625" chance="2000" count="1" countmax="1"/> <!-- ultimate soul stone -->
 	</loot>
 </monster>
