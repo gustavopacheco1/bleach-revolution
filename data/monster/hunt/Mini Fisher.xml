@@ -38,7 +38,7 @@
 	<loot>
 		<item id="2148" chance="90000" count="140" countmax="140"/> <!-- ryo coin -->
 		<item id="15099" chance="5000" count="1" countmax="1"/> <!-- grand fisher mask -->
-		<item id="10624" chance="5000" count="1" countmax="1"/> <!-- great soul stone -->
-		<item id="10625" chance="2000" count="1" countmax="1"/> <!-- ultimate soul stone -->
+		<item id="10624" chance="2000" count="1" countmax="1"/> <!-- great soul stone -->
+		<item id="10625" chance="1000" count="1" countmax="1"/> <!-- ultimate soul stone -->
 	</loot>
 </monster>
