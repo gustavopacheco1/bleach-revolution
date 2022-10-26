@@ -47,30 +47,6 @@ buyable_items = {
 }
 
 sellable_items = {
-	["Macoio"] = {
-		[5897] = { price = 500 }, -- wolf paw
-		[15687] = { price = 500 }, -- soul essence
-		[15230] = { price = 500 }, -- part of horror
-	},
-
-	["Loreto"] = {
-		[15249] = { price = 20000 }, -- furie adjuchas mask
-		[15248] = { price = 10000 }, -- elite adjuchas mask
-		[15102] = { price = 8000 }, -- adjuchas mask
-		[15251] = { price = 9000 }, -- furie gillian mask
-		[15250] = { price = 7000 }, -- elite gillian mask
-		[15103] = { price = 5000 }, -- gillian mask
-		[15241] = { price = 8000 }, -- furie grand fisher mask
-		[15240] = { price = 6000 }, -- elite grand fisher mask
-		[15099] = { price = 4000 }, -- grand fisher mask
-		[15261] = { price = 7000 }, -- furie arak mask
-		[15260] = { price = 5000 }, -- elite arak mask
-		[15105] = { price = 3000 }, -- arak mask
-		[15257] = { price = 6000 }, -- furie spider mask
-		[15256] = { price = 4000 }, -- elite spider mask
-		[15104] = { price = 2000 }, -- spider mask
-	},
-
 	["Kenji"] = {
 		[15006] = { price = 35000 }, -- furie arrancar helmet
 		[15305] = { price = 35000 }, -- furie arrancar armor
@@ -125,6 +101,30 @@ sellable_items = {
 		[15116] = { price = 100 }, -- bandit armor
 		[10686] = { price = 100 }, -- bandit legs
 		[15119] = { price = 100 }, -- bandit boots
+	},
+
+	["Macoio"] = {
+		[5897] = { price = 500 }, -- wolf paw
+		[15687] = { price = 500 }, -- soul essence
+		[15230] = { price = 500 }, -- part of horror
+	},
+
+	["Loreto"] = {
+		[15249] = { price = 20000 }, -- furie adjuchas mask
+		[15248] = { price = 10000 }, -- elite adjuchas mask
+		[15102] = { price = 8000 }, -- adjuchas mask
+		[15251] = { price = 9000 }, -- furie gillian mask
+		[15250] = { price = 7000 }, -- elite gillian mask
+		[15103] = { price = 5000 }, -- gillian mask
+		[15241] = { price = 8000 }, -- furie grand fisher mask
+		[15240] = { price = 6000 }, -- elite grand fisher mask
+		[15099] = { price = 4000 }, -- grand fisher mask
+		[15261] = { price = 7000 }, -- furie arak mask
+		[15260] = { price = 5000 }, -- elite arak mask
+		[15105] = { price = 3000 }, -- arak mask
+		[15257] = { price = 6000 }, -- furie spider mask
+		[15256] = { price = 4000 }, -- elite spider mask
+		[15104] = { price = 2000 }, -- spider mask
 	},
 }
 
