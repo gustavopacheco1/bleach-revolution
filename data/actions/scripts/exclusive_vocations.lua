@@ -16,7 +16,8 @@ local vocations = {
 }
 
 function onUse(cid, item, fromPosition, itemEx, toPosition)
-	local old_outfits = VOCATION_OUTFITS[getPlayerVocationName(cid)]
+	local vocation_name = getPlayerVocationName(cid)
+	local old_outfits = VOCATION_OUTFITS[vocation_name]
 
 	doPlayerRemoveOutfit(cid, old_outfits[1])
 
@@ -24,20 +25,36 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 		doPlayerRemoveOutfit(cid, old_outfits[100])
 	end
 
-	doPlayerSetVocation(cid, vocations[item.itemid])
+	local old_specials = SPECIALS[vocation_name]
+	local learned_spell = getPlayerLearnedInstantSpell(cid, old_specials[120])
 
-	local new_outfits = VOCATION_OUTFITS[getPlayerVocationName(cid)]
-
-	doPlayerAddOutfit(cid, new_outfits[1])
-
-	if getPlayerLevel(cid) > 100 then
-		doPlayerAddOutfit(cid, new_outfits[100])
+	if learned_spell then
+		doPlayerUnlearnInstantSpell(cid, old_specials[120])
+		doPlayerUnlearnInstantSpell(cid, old_specials[150])
 	end
 
-	doPlayerAddItem(cid, VOCATION_WEAPONS[getPlayerVocationName(cid)])
+	doPlayerSetVocation(cid, vocations[item.itemid])
+
+	vocation_name = getPlayerVocationName(cid)
+	local new_outfits = VOCATION_OUTFITS[vocation_name]
+
+	doPlayerAddOutfit(cid, new_outfits[1], 0)
+
+	if getPlayerLevel(cid) > 100 then
+		doPlayerAddOutfit(cid, new_outfits[100], 0)
+	end
+
+	local new_specials = SPECIALS[vocation_name]
+
+	if learned_spell then
+		doPlayerLearnInstantSpell(cid, new_specials[120])
+		doPlayerLearnInstantSpell(cid, new_specials[150])
+	end
+
+	doRemoveItem(item.uid, 1)
+	doPlayerAddItem(cid, VOCATION_WEAPONS[vocation_name])
 	doCreatureChangeOutfit(cid, { lookType = new_outfits[1] })
 	doSendMagicEffect(getCreaturePosition(cid), 6)
-	doRemoveItem(item.uid, 1)
 
 	doRemoveCreature(cid)
 	return true
