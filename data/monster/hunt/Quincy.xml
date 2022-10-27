@@ -19,7 +19,7 @@
 		<flag runonhealth="0"/>
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="-15000" max="-15500"/>
+		<attack name="melee" interval="2000" min="-7500" max="-8000"/>
 	</attacks>
 	<defenses armor="0" defense="0"/>
 	<immunities>
@@ -35,7 +35,7 @@
 	<loot>
 		<item id="2152" chance="7000" count="4" countmax="4"/> <!-- hundred ryo note -->
 		<item id="2148" chance="100000" count="210" countmax="210"/> <!-- ryo coin -->
-		<item id="10624" chance="5000" count="1" countmax="1"/> <!-- great soul stone -->
-		<item id="10625" chance="2000" count="1" countmax="1"/> <!-- ultimate soul stone -->
+		<item id="10624" chance="3100" count="1" countmax="1"/> <!-- great soul stone -->
+		<item id="10625" chance="1500" count="1" countmax="1"/> <!-- ultimate soul stone -->
 	</loot>
 </monster>

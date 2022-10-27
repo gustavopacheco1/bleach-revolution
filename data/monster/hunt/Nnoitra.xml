@@ -19,7 +19,7 @@
 		<flag runonhealth="0"/>
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="-6500" max="-7000"/>
+		<attack name="melee" interval="2000" min="-4500" max="-5000"/>
 	</attacks>
 	<defenses armor="0" defense="0"/>
 	<immunities>
@@ -41,7 +41,7 @@
 		<item id="5897" chance="10000" count="1" countmax="15"/> <!-- wolf paw -->
 		<item id="15687" chance="10000" count="1" countmax="15"/> <!-- soul essence -->
 		<item id="15230" chance="10000" count="1" countmax="15"/> <!-- part of horror -->
-		<item id="10624" chance="5000" count="1" countmax="1"/> <!-- great soul stone -->
-		<item id="10625" chance="2000" count="1" countmax="1"/> <!-- ultimate soul stone -->
+		<item id="10624" chance="2800" count="1" countmax="1"/> <!-- great soul stone -->
+		<item id="10625" chance="1200" count="1" countmax="1"/> <!-- ultimate soul stone -->
 	</loot>
 </monster>

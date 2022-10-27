@@ -19,7 +19,7 @@
 		<flag runonhealth="0"/>
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="-5500" max="-6000"/>
+		<attack name="melee" interval="2000" min="-3500" max="-4000"/>
 	</attacks>
 	<defenses armor="0" defense="0"/>
 	<immunities>
