@@ -12,7 +12,7 @@ function onThink() npcHandler:onThink() end
 
 function onThink() npcHandler:onThinkCreatureSay() end
 
-local initial_position = { x = 3263, y = 2675, z = 7 }
+local initial_position = { x = 3263, y = 2677, z = 7 }
 local destination = { x = 3263, y = 2714, z = 7 }
 local runuganga_position = { x = 3263, y = 2710, z = 7 }
 local menus_florest_position = { x = 3203, y = 2812, z = 15 }
@@ -22,13 +22,13 @@ local function getToDestination(cid, destination, dir)
 
 	if isInArray({ WEST, EAST }, dir) and cid_position.x == destination.x or
 		isInArray({ NORTH, SOUTH }, dir) and cid_position.y == destination.y then
-		doCreatureSetStorage(cid, "walking", nil)
-		addEvent(function()
+		addEvent(function ()
+			doCreatureSetStorage(cid, "walking", nil)
 			if getCreatureStorage(cid, "focus") > 1 then
 				doCreatureSetStorage(cid, "focus", nil)
 				getToDestination(cid, initial_position, NORTH)
 			end
-		end, 15000)
+		end, 30000)
 		return
 	end
 
