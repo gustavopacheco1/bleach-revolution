@@ -241,6 +241,10 @@
 	<instant name="Pantera Wave" words="Pantera Wave" lvl="80" maglv="60" mana="2500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Pantera Wave.lua">
 		<vocation id="18"/> <!-- Grimmjow Jaegerjaquez -->
 	</instant>
+	<instant name="Black Wave" words="Black Wave" lvl="80" maglv="60" mana="2500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Black Wave.lua">
+		<vocation id="21"/> <!-- Nnoitra Gilga -->
+	</instant>
+
 
 	<!-- Cannon -->
 	<instant name="Gran Rey Cero" words="Gran Rey Cero" lvl="130" maglv="100" mana="11000" prem="0" direction="1" exhaustion="500" needlearn="0" event="script" value="attack/cannon/Gran Rey Cero.lua">
