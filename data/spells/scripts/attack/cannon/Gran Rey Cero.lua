@@ -24,8 +24,7 @@ local vocations_effects = {
 }
 
 function onCastSpell(cid, var)
-	if exhaustion.check(cid, "special") then
-		doPlayerSendDefaultCancel(cid, RETURNVALUE_YOUAREEXHAUSTED)
+	if isInSpecialCooldown(cid) then
 		return false
 	end
 

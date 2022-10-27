@@ -6,8 +6,7 @@ onGetFormulaValues = getCannonFormula
 setCombatCallback(combat, CALLBACK_PARAM_LEVELMAGICVALUE, "onGetFormulaValues")
 
 function onCastSpell(cid, var)
-	if exhaustion.check(cid, "special") then
-		doPlayerSendDefaultCancel(cid, RETURNVALUE_YOUAREEXHAUSTED)
+	if isInSpecialCooldown(cid) then
 		return false
 	end
 
