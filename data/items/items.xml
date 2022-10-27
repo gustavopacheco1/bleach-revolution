@@ -22414,7 +22414,7 @@
 	<item id="15724" article="an" name="Urahara Helmet">
 		<attribute key="weight" value="1050" />
 		<attribute key="armor" value="20" />
-		<attribute key="healthGain" value="250" />
+		<attribute key="healthGain" value="1000" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="manaGain" value="50" />
 		<attribute key="manaTicks" value="1000" />
@@ -22444,8 +22444,6 @@
 	<item id="15815" article="an" name="Urahara Boots">
 		<attribute key="weight" value="1050" />
 		<attribute key="armor" value="20" />
-		<attribute key="healthGain" value="250" />
-		<attribute key="healthTicks" value="1000" />
 		<attribute key="skillFist" value="1" />
 		<attribute key="slotType" value="feet" />
 	</item>
@@ -22453,7 +22451,7 @@
 	<item id="15244" article="an" name="Elite Urahara Helmet">
 		<attribute key="weight" value="3000" />
 		<attribute key="armor" value="20" />
-		<attribute key="healthGain" value="500" />
+		<attribute key="healthGain" value="1050" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="manaGain" value="60" />
 		<attribute key="manaTicks" value="1000" />
@@ -22463,7 +22461,7 @@
 	<item id="15300" article="an" name="Elite Urahara Armor">
 		<attribute key="weight" value="3000" />
 		<attribute key="armor" value="20" />
-		<attribute key="healthGain" value="1100" />
+		<attribute key="healthGain" value="1050" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="manaGain" value="60" />
 		<attribute key="manaTicks" value="1000" />
@@ -22473,7 +22471,7 @@
 	<item id="16435" article="an" name="Elite Urahara Legs">
 		<attribute key="weight" value="3000" />
 		<attribute key="armor" value="20" />
-		<attribute key="healthGain" value="1100" />
+		<attribute key="healthGain" value="1050" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="manaGain" value="60" />
 		<attribute key="manaTicks" value="1000" />
@@ -22483,8 +22481,6 @@
 	<item id="15366" article="an" name="Elite Urahara Boots">
 		<attribute key="weight" value="3000" />
 		<attribute key="armor" value="20" />
-		<attribute key="healthGain" value="500" />
-		<attribute key="healthTicks" value="1000" />
 		<attribute key="skillSword" value="1" />
 		<attribute key="slotType" value="feet" />
 	</item>
@@ -22492,7 +22488,7 @@
 	<item id="15245" article="a" name="Furie Urahara Helmet">
 		<attribute key="weight" value="4000" />
 		<attribute key="armor" value="20" />
-		<attribute key="healthGain" value="600" />
+		<attribute key="healthGain" value="1100" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="manaGain" value="70" />
 		<attribute key="manaTicks" value="1000" />
@@ -22502,7 +22498,7 @@
 	<item id="15301" article="a" name="Furie Urahara Armor">
 		<attribute key="weight" value="4000" />
 		<attribute key="armor" value="20" />
-		<attribute key="healthGain" value="1150" />
+		<attribute key="healthGain" value="1100" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="manaGain" value="70" />
 		<attribute key="manaTicks" value="1000" />
@@ -22512,7 +22508,7 @@
 	<item id="16436" article="a" name="Furie Urahara Legs">
 		<attribute key="weight" value="4000" />
 		<attribute key="armor" value="20" />
-		<attribute key="healthGain" value="1150" />
+		<attribute key="healthGain" value="1100" />
 		<attribute key="healthTicks" value="1000" />
 		<attribute key="manaGain" value="70" />
 		<attribute key="manaTicks" value="1000" />
@@ -22522,8 +22518,6 @@
 	<item id="15367" article="a" name="Furie Urahara Boots">
 		<attribute key="weight" value="4000" />
 		<attribute key="armor" value="20" />
-		<attribute key="healthGain" value="70" />
-		<attribute key="healthTicks" value="1000" />
 		<attribute key="magicpoints" value="1" />
 		<attribute key="slotType" value="feet" />
 	</item>
@@ -22559,8 +22553,6 @@
 	<item id="10689" article="a" name="Mummy Boots">
 		<attribute key="weight" value="1050" />
 		<attribute key="armor" value="17" />
-		<attribute key="healthGain" value="50" />
-		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="feet" />
 	</item>
 
@@ -22594,8 +22586,6 @@
 	<item id="15378" article="an" name="Elite Mummy Boots">
 		<attribute key="weight" value="3000" />
 		<attribute key="armor" value="17" />
-		<attribute key="healthGain" value="55" />
-		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="feet" />
 	</item>
 
@@ -22629,8 +22619,6 @@
 	<item id="15379" article="a" name="Furie Mummy Boots">
 		<attribute key="weight" value="4000" />
 		<attribute key="armor" value="17" />
-		<attribute key="healthGain" value="60" />
-		<attribute key="healthTicks" value="1000" />
 		<attribute key="slotType" value="feet" />
 	</item>
 
@@ -22832,55 +22820,55 @@
 	<item id="15101" article="an" name="Arrancar Helmet">
 		<attribute key="weight" value="1050" />
 		<attribute key="armor" value="20" />
-		<attribute key="healthGain" value="150" />
-		<attribute key="manaGain" value="40" />
-		<attribute key="manaTicks" value="1000" />
+		<attribute key="healthGain" value="1100" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="60" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="15112" article="an" name="Arrancar Armor">
 		<attribute key="weight" value="1050" />
 		<attribute key="armor" value="20" />
-		<attribute key="healthGain" value="300" />
-		<attribute key="manaGain" value="40" />
-		<attribute key="manaTicks" value="1000" />
+		<attribute key="healthGain" value="1100" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="60" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="body" />
 	</item>
 	<item id="10731" article="an" name="Arrancar Boots">
 		<attribute key="weight" value="1050" />
 		<attribute key="armor" value="20" />
-		<attribute key="healthGain" value="150" />
-		<attribute key="manaGain" value="40" />
-		<attribute key="manaTicks" value="1000" />
+		<attribute key="healthGain" value="1100" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="60" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="feet" />
 	</item>
 
 	<item id="15005" article="an" name="Elite Arrancar Helmet">
 		<attribute key="weight" value="3000" />
 		<attribute key="armor" value="20" />
-		<attribute key="healthGain" value="450" />
+		<attribute key="healthGain" value="1200" />
 		<attribute key="healthTicks" value="1000" />
-		<attribute key="manaGain" value="60" />
+		<attribute key="manaGain" value="80" />
 		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="15304" article="an" name="Elite Arrancar Armor">
 		<attribute key="weight" value="3000" />
 		<attribute key="armor" value="20" />
-		<attribute key="healthGain" value="900" />
+		<attribute key="healthGain" value="1200" />
 		<attribute key="healthTicks" value="1000" />
-		<attribute key="manaGain" value="60" />
+		<attribute key="manaGain" value="80" />
 		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="body" />
 	</item>
 	<item id="15011" article="an" name="Elite Arrancar Boots">
 		<attribute key="weight" value="3000" />
 		<attribute key="armor" value="20" />
-		<attribute key="healthGain" value="450" />
+		<attribute key="healthGain" value="1200" />
 		<attribute key="healthTicks" value="1000" />
-		<attribute key="manaGain" value="60" />
+		<attribute key="manaGain" value="80" />
 		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="feet" />
 	</item>
@@ -22888,25 +22876,27 @@
 	<item id="15006" article="a" name="Furie Arrancar Helmet">
 		<attribute key="weight" value="4000" />
 		<attribute key="armor" value="20" />
-		<attribute key="healthGain" value="500" />
+		<attribute key="healthGain" value="1300" />
 		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="100" />
+		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="15305" article="a" name="Furie Arrancar Armor">
 		<attribute key="weight" value="4000" />
 		<attribute key="armor" value="20" />
-		<attribute key="healthGain" value="1000" />
+		<attribute key="healthGain" value="1300" />
 		<attribute key="healthTicks" value="1000" />
-		<attribute key="manaGain" value="80" />
+		<attribute key="manaGain" value="100" />
 		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="body" />
 	</item>
 	<item id="15012" article="a" name="Furie Arrancar Boots">
 		<attribute key="weight" value="4000" />
 		<attribute key="armor" value="20" />
-		<attribute key="healthGain" value="500" />
+		<attribute key="healthGain" value="1300" />
 		<attribute key="healthTicks" value="1000" />
-		<attribute key="manaGain" value="80" />
+		<attribute key="manaGain" value="100" />
 		<attribute key="manaTicks" value="1000" />
 		<attribute key="slotType" value="feet" />
 	</item>
