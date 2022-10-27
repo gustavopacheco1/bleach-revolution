@@ -1,5 +1,5 @@
 local function checkType(value)
-	return not (value < 1 or value > 7000)
+	return not (value < 1 or value > 1000)
 end
 
 function onSay(cid, words, param, channel)
