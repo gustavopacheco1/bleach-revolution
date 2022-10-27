@@ -6,8 +6,7 @@ onGetFormulaValues = getCannonFormula
 setCombatCallback(combat, CALLBACK_PARAM_LEVELMAGICVALUE, "onGetFormulaValues")
 
 function onCastSpell(cid, var)
-	if exhaustion.check(cid, "cannon") then
-		doPlayerSendDefaultCancel(cid, RETURNVALUE_YOUAREEXHAUSTED)
+	if isInSpecialCooldown(cid) then
 		return false
 	end
 
@@ -19,6 +18,6 @@ function onCastSpell(cid, var)
 		{ east = 597, west = 597, north = 747, south = 747 }
 	)
 
-	exhaustion.set(cid, "cannon", COOLDOWN_CANNON)
+	exhaustion.set(cid, "special", COOLDOWN_CANNON)
 	return true
 end
