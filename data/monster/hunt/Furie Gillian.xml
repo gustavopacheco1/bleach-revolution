@@ -38,7 +38,7 @@
 		<item id="15103" chance="22000" count="1" countmax="1"/> <!-- furie gillian mask -->
 		<item id="15250" chance="30000" count="1" countmax="1"/> <!-- elite gillian mask -->
 		<item id="15251" chance="40000" count="1" countmax="1"/> <!-- gillian mask -->
-		<item id="10624" chance="3100" count="1" countmax="1"/> <!-- great soul stone -->
-		<item id="10625" chance="1500" count="1" countmax="1"/> <!-- ultimate soul stone -->
+		<item id="10624" chance="1000" count="1" countmax="1"/> <!-- great soul stone -->
+		<item id="10625" chance="500" count="1" countmax="1"/> <!-- ultimate soul stone -->
 	</loot>
 </monster>

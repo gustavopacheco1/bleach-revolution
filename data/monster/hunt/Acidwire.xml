@@ -38,7 +38,7 @@
 	<loot>
 		<item id="2152" chance="4000" count="2" countmax="2"/> <!-- hundred ryo note -->
 		<item id="2148" chance="100000" count="210" countmax="210"/> <!-- ryo coin -->
-		<item id="10624" chance="2700" count="1" countmax="1"/> <!-- great soul stone -->
-		<item id="10625" chance="1100" count="1" countmax="1"/> <!-- ultimate soul stone -->
+		<item id="10624" chance="1000" count="1" countmax="1"/> <!-- great soul stone -->
+		<item id="10625" chance="500" count="1" countmax="1"/> <!-- ultimate soul stone -->
 	</loot>
 </monster>
