@@ -4,7 +4,7 @@ local tile_positions = {
 	{ x = 3709, y = 3286, z = 10 },
 	{ x = 3709, y = 3285, z = 10 },
 	{ x = 3709, y = 3284, z = 10 },
-	{ x = 3709, y = 3286, z = 10 },
+	{ x = 3709, y = 3283, z = 10 },
 }
 
 local area_positions = {
