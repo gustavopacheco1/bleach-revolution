@@ -21008,10 +21008,11 @@
 		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3516" centery="3178" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3522" centery="3178" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="2955" centery="3179" centerz="8" radius="1">
 		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
@@ -21064,8 +21065,7 @@
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3529" centery="3189" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Flying Hollow" x="1" y="1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="2881" centery="3191" centerz="8" radius="1">
 		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
@@ -21083,12 +21083,11 @@
 		<monster name="Furie Urahara" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3557" centery="3194" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Flying Hollow" x="1" y="1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3610" centery="3194" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Flying Hollow" x="1" y="1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="2826" centery="3195" centerz="8" radius="1">
 		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
@@ -21102,7 +21101,7 @@
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3598" centery="3195" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="2908" centery="3196" centerz="8" radius="1">
 		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
@@ -21112,7 +21111,8 @@
 		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3572" centery="3196" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="2960" centery="3197" centerz="8" radius="1">
 		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
@@ -21122,14 +21122,14 @@
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3538" centery="3198" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3586" centery="3198" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Flying Hollow" x="1" y="1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3624" centery="3198" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3393" centery="3200" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
@@ -21143,8 +21143,8 @@
 		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3637" centery="3202" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="1" y="-1" z="8" spawntime="60" />
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="2839" centery="3203" centerz="8" radius="1">
 		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
@@ -21215,7 +21215,7 @@
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3640" centery="3211" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="2854" centery="3212" centerz="8" radius="1">
 		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
@@ -21278,11 +21278,11 @@
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3559" centery="3218" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Flying Hollow" x="1" y="1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3577" centery="3218" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="2784" centery="3219" centerz="8" radius="1">
 		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
@@ -21295,8 +21295,8 @@
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3632" centery="3219" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Flying Hollow" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3385" centery="3221" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
@@ -21309,7 +21309,7 @@
 		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3618" centery="3222" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="2918" centery="3223" centerz="8" radius="1">
 		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
@@ -21318,11 +21318,12 @@
 		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3522" centery="3223" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3597" centery="3223" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Flying Hollow" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3406" centery="3224" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
@@ -21349,11 +21350,10 @@
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3508" centery="3226" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Flying Hollow" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3545" centery="3226" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="2781" centery="3227" centerz="8" radius="1">
 		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
@@ -21392,8 +21392,8 @@
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3531" centery="3233" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="-1" y="-1" z="8" spawntime="60" />
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="2790" centery="3235" centerz="8" radius="1">
 		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
@@ -21435,18 +21435,19 @@
 		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3503" centery="3242" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3636" centery="3242" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3033" centery="3244" centerz="8" radius="1">
 		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3648" centery="3244" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Flying Hollow" x="1" y="1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3010" centery="3245" centerz="8" radius="1">
 		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
@@ -21456,15 +21457,15 @@
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3623" centery="3245" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Flying Hollow" x="1" y="1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="2992" centery="3246" centerz="8" radius="1">
 		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3610" centery="3246" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="2787" centery="3247" centerz="8" radius="1">
 		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
@@ -21482,11 +21483,11 @@
 		<monster name="Furie Urahara" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3578" centery="3248" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3596" centery="3249" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Flying Hollow" x="1" y="1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="2849" centery="3250" centerz="8" radius="1">
 		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
@@ -21497,7 +21498,8 @@
 		<monster name="Furie Urahara" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3654" centery="3251" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="2831" centery="3252" centerz="8" radius="1">
 		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
@@ -21507,16 +21509,14 @@
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3563" centery="3253" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="2816" centery="3254" centerz="8" radius="1">
 		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Furie Urahara" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3513" centery="3254" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Flying Hollow" x="1" y="1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="2876" centery="3255" centerz="8" radius="1">
 		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
@@ -21530,7 +21530,8 @@
 		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3530" centery="3258" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="2786" centery="3260" centerz="8" radius="1">
 		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
@@ -21541,7 +21542,7 @@
 		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3649" centery="3261" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="2860" centery="3262" centerz="8" radius="1">
 		<monster name="Furie Urahara" x="1" y="-1" z="8" spawntime="60" />
@@ -21558,29 +21559,29 @@
 		<monster name="Furie Urahara" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3540" centery="3264" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="1" y="-1" z="8" spawntime="60" />
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3637" centery="3264" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="1" y="-1" z="8" spawntime="60" />
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3624" centery="3265" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="2833" centery="3267" centerz="8" radius="1">
 		<monster name="Furie Urahara" x="-1" y="0" z="8" spawntime="60" />
 		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3555" centery="3267" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3609" centery="3267" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3596" centery="3268" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="2924" centery="3269" centerz="8" radius="1">
 		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
@@ -21594,8 +21595,8 @@
 		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3586" centery="3270" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Flying Hollow" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3369" centery="3271" centerz="8" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="8" spawntime="60" />
@@ -21615,7 +21616,8 @@
 		<monster name="Furie Urahara" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3579" centery="3277" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="2853" centery="3278" centerz="8" radius="1">
 		<monster name="Furie Urahara" x="-1" y="-1" z="8" spawntime="60" />
@@ -21664,7 +21666,7 @@
 		<monster name="Furie Urahara" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3579" centery="3285" centerz="8" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3699" centery="3285" centerz="8" radius="1">
 		<monster name="Mini Fisher" x="1" y="-1" z="8" spawntime="60" />
@@ -27075,8 +27077,9 @@
 		<monster name="Hollow Snake" x="-1" y="1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3516" centery="3182" centerz="9" radius="1">
-		<monster name="Flying Hollow" x="1" y="-1" z="9" spawntime="60" />
-		<monster name="Flying Hollow" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="-1" z="9" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="-1" z="9" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3409" centery="3186" centerz="9" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
@@ -27088,8 +27091,8 @@
 		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3515" centery="3195" centerz="9" radius="1">
-		<monster name="Flying Hollow" x="1" y="-1" z="9" spawntime="60" />
-		<monster name="Flying Hollow" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="-1" z="9" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="-1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3417" centery="3198" centerz="9" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
@@ -27101,11 +27104,11 @@
 		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3542" centery="3202" centerz="9" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Flying Hollow" x="0" y="1" z="9" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="-1" z="9" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3508" centery="3204" centerz="9" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="-1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3426" centery="3205" centerz="9" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
@@ -27114,7 +27117,7 @@
 		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3539" centery="3206" centerz="9" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3296" centery="3207" centerz="9" radius="1">
 		<monster name="Super Acidwire" x="0" y="0" z="9" spawntime="60" />
@@ -27144,8 +27147,8 @@
 		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3500" centery="3213" centerz="9" radius="1">
-		<monster name="Flying Hollow" x="1" y="-1" z="9" spawntime="60" />
-		<monster name="Flying Hollow" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="-1" z="9" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="-1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3296" centery="3214" centerz="9" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
@@ -27163,8 +27166,8 @@
 		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3536" centery="3217" centerz="9" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="9" spawntime="60" />
-		<monster name="Flying Hollow" x="0" y="1" z="9" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="-1" z="9" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3430" centery="3220" centerz="9" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
@@ -27182,13 +27185,13 @@
 		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3502" centery="3225" centerz="9" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="-1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3409" centery="3226" centerz="9" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3530" centery="3227" centerz="9" radius="1">
-		<monster name="Flying Hollow" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="-1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3357" centery="3228" centerz="9" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
@@ -27197,8 +27200,8 @@
 		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3513" centery="3231" centerz="9" radius="1">
-		<monster name="Flying Hollow" x="-1" y="-1" z="9" spawntime="60" />
-		<monster name="Flying Hollow" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="-1" z="9" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="3352" centery="3233" centerz="9" radius="1">
 		<monster name="Hollow Snake" x="0" y="0" z="9" spawntime="60" />
