@@ -1,12 +1,12 @@
 local combat = createCombatObject()
 setCombatParam(combat, COMBAT_PARAM_HITCOLOR, COLOR_TEAL)
 setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_ENERGYDAMAGE)
-setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -70, 0, -85, 0)
-setCombatArea(combat, createCombatArea(AREA_CANNON_6SQM, AREADIAGONAL_CANNON_6SQM))
+setCombatArea(combat, createCombatArea(AREA_BIG_CANNON_6SQM, AREADIAGONAL_BIG_CANNON_6SQM))
+onGetFormulaValues = getCannonFormula
+setCombatCallback(combat, CALLBACK_PARAM_LEVELMAGICVALUE, "onGetFormulaValues")
 
 function onCastSpell(cid, var)
-	if exhaustion.check(cid, "Cero Oscuras") then
-		doPlayerSendDefaultCancel(cid, RETURNVALUE_YOUAREEXHAUSTED)
+	if isInSpecialCooldown(cid) then
 		return false
 	end
 
@@ -18,6 +18,6 @@ function onCastSpell(cid, var)
 		{ east = 752, west = 752, north = 751, south = 751 }
 	)
 
-	exhaustion.set(cid, "Cero Oscuras", 30)
+	exhaustion.set(cid, "special", COOLDOWN_CANNON)
 	return true
 end
