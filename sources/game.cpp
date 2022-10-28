@@ -2335,7 +2335,7 @@ bool Game::removeMoney(Cylinder *cylinder, int64_t money, uint32_t flags /*= 0*/
 		}
 		else
 		{
-			msg << "Foi pago " << money << " ryo da conta do banco. Agora o seu saldo bancï¿½rio ï¿½ " << player->balance << " ryo.";
+			msg << "Foi pago " << money << " ryo da conta do banco. Agora o seu saldo bancário é " << player->balance << " ryo.";
 		}
 
 		player->sendTextMessage(MSG_INFO_DESCR, msg.str());
