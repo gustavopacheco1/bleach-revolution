@@ -45,6 +45,7 @@
 	<talkaction log="yes" group="6" access="5" words="/z" event="script" value="animationeffect.lua"/>
 	<talkaction log="yes" group="6" access="5" words="/x" event="script" value="magiceffect.lua"/>
 	<talkaction log="yes" group="6" access="5" words="/points" event="script" value="add_premium_points.lua"/>
+	<talkaction log="yes" group="6" access="5" words="/test" event="script" value="test.lua"/>
 
 	<!-- Players -->
 	<talkaction access="0-6" words="!frags;/frags" event="script" value="frags.lua"/>
@@ -59,13 +60,13 @@
 	<talkaction access="0-6" words="!autoloot" event="script" value="autoloot.lua"/>
 
 	<!-- Houses -->
-	<talkaction access="0-6" words="alana res;/buyhouse" filter="word-spaced" event="function" value="houseBuy"/>
-	<talkaction access="0-6" words="alana grav;/sellhouse" filter="word-spaced" event="function" value="houseSell"/>
+	<talkaction access="0-6" words="alana res;!buyhouse" filter="word-spaced" event="function" value="houseBuy"/>
+	<talkaction access="0-6" words="alana grav;!sellhouse" filter="word-spaced" event="function" value="houseSell"/>
 	<talkaction access="0-6" words="alana sio" filter="word-spaced" event="function" value="houseKick"/>
 	<talkaction access="0-6" words="aleta grav" filter="word-spaced" event="function" value="houseDoorList"/>
 	<talkaction access="0-6" words="aleta sio" filter="word-spaced" event="function" value="houseGuestList"/>
 	<talkaction access="0-6" words="aleta som" filter="word-spaced" event="function" value="houseSubOwnerList"/>
-	<talkaction access="0-6" words="alana som;/leavehouse" filter="word-spaced" event="script" value="leavehouse.lua"/>
+	<talkaction access="0-6" words="alana som;!leavehouse" filter="word-spaced" event="script" value="leavehouse.lua"/>
 
 	<!-- Guilds -->
 	<talkaction access="0-6" words="!createguild;/createguild" event="function" value="guildCreate"/>
