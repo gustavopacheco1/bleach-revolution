@@ -1,8 +1,8 @@
 local paths = {
 	[26000] = {
 		wall_id = 1304,
-		{ x = 3405, y = 3066, z = 7, stackpos = 1 },
-		{ x = 3405, y = 3067, z = 7, stackpos = 1 }
+		{ x = 3408, y = 2721, z = 7, stackpos = 1 },
+		{ x = 3408, y = 2720, z = 7, stackpos = 1 }
 	},
 
 	[26001] = {
