@@ -23,10 +23,12 @@ function onCastSpell(cid, var)
 		z = player_position.z
 	}, spell.effect)
 
-	setPlayerStorageValue(cid, "dodge_special", spell.dodge_percentage)
+	registerCreatureEvent(cid, "Dodge")
+	doCreatureSetStorage(cid, "dodge_special", spell.dodge_percentage)
 	addEvent(function()
 		if isCreature(cid) then
-			setPlayerStorageValue(cid, "dodge_special", 0)
+			doCreatureSetStorage(cid, "dodge_special", 0)
+			unregisterCreatureEvent(cid, "Dodge")
 		end
 	end, spell.duration * 1000)
 	exhaustion.set(cid, "special", spell.cooldown)
