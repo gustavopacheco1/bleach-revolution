@@ -59,7 +59,7 @@
 	<instant name="Los Lobos" words="Los Lobos" lvl="150" maglv="110" mana="10000" prem="0" aggressive="1" exhaustion="2000" exhaustedGroup="special" needlearn="1" event="script" value="special/Los Lobos.lua">
 		<vocation id="20"/> <!-- Coyote Starrk -->
 	</instant>
-	<instant name="Santa Tereza" words="Santa Tereza" lvl="150" maglv="110" mana="10000" prem="0" aggressive="1" exhaustion="2000" exhaustedGroup="special" needlearn="1" event="script" value="special/rouba_vida/Santa Tereza.lua">
+	<instant name="Santa Teresa" words="Santa Teresa" lvl="150" maglv="110" mana="10000" prem="0" aggressive="1" exhaustion="2000" exhaustedGroup="special" needtarget="1" needlearn="1" event="script" value="special/rouba_vida/Santa Teresa.lua">
 		<vocation id="21"/> <!-- Nnoitra Gilga -->
 	</instant>
 	<instant name="Sonido" words="Sonido" lvl="150" maglv="110" mana="10000" prem="0" aggressive="1" exhaustion="2000" exhaustedGroup="special" needlearn="1" event="script" value="special/Sonido.lua">
