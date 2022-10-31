@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <monster name="Perfect Zangetsu" nameDescription="Perfect Zangetsu" race="blood" experience="0" speed="900" manacost="0">
-	<health now="1000000" max="1000000"/>
+	<health now="18000000" max="18000000"/>
 	<look type="169" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
@@ -18,7 +18,7 @@
 		<flag runonhealth="0"/>
 	</flags>
 	<attacks>
-		<attack name="melee" interval="1500" min="-1010000" max="-115500"/>
+		<attack name="melee" interval="1500" min="-10000" max="-10500"/>
 	</attacks>
 	<defenses armor="0" defense="0"/>
 	<immunities>

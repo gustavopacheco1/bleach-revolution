@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Boss Drop Level: 250 -->
 <monster name="Perfect Gillian" nameDescription="Perfect Gillian" race="blood" experience="0" speed="400" manacost="0">
-	<health now="1200000" max="1200000"/>
+	<health now="1800000" max="1800000"/>
 	<look type="341" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
@@ -20,7 +20,7 @@
 	</flags>
 	<attacks>
 		<attack name="melee" interval="2000" min="-15000" max="-15500"/>
-		<attack name="kendo" interval="2000" min="-5000" max="-5500"/>
+		<attack name="kendo" interval="4000" min="-10000" max="-10500"/>
 	</attacks>
 	<defenses armor="0" defense="0"/>
 	<immunities>

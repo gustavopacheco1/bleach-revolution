@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Boss Quest Level: 70 -->
 <monster name="Super Kensei" nameDescription="Super Kensei" race="blood" experience="0" speed="400" manacost="0">
-	<health now="1000000" max="1000000"/>
+	<health now="10000000" max="10000000"/>
 	<look type="131" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
@@ -23,7 +23,7 @@
 		<attack name="melee" interval="1700" min="-1000" max="-1100"/>
         <attack name="Oscuras Wave" interval="5000" min="-5000" max="-5500" />
 		<attack name="Cero Oscuras" interval="3000" min="-3000" max="-3500" />
-		<attack name="Kendo" interval="1000" min="-500" max="-1000" />
+		<attack name="Kendo" interval="1000" min="-1000" max="-1500" />
 	</attacks>
 	<defenses armor="0" defense="0"/>
 	<immunities>
