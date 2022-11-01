@@ -41,4 +41,7 @@
 		<item id="10624" chance="1000" count="1" countmax="1"/> <!-- great soul stone -->
 		<item id="10625" chance="500" count="1" countmax="1"/> <!-- ultimate soul stone -->
 	</loot>
+	<script>
+		<event name="YamamotoTask"/>
+	</script>
 </monster>
