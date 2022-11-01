@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Boss Quest Level: 150 -->
 <monster name="Super Acidwire" nameDescription="Super Acidwire" race="blood" experience="0" speed="400" manacost="0">
-	<health now="5000000" max="5000000"/>
+	<health now="50000000" max="50000000"/>
 	<look type="17" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
@@ -21,7 +21,7 @@
 	<attacks>
 		<attack name="melee" interval="2000" min="-5000" max="-5500"/>
 		<attack name="monster cero" interval="2000" min="-15000" max="-15500"/>
-		<attack name="kendo" interval="1000" min="-2000" max="-2500"/>
+		<attack name="kendo" interval="1000" min="-5000" max="-5500"/>
 	</attacks>
 	<defenses armor="0" defense="0"/>
 	<immunities>

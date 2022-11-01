@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Boss Drop Level: 180 -->
 <monster name="Legendary Kaname" nameDescription="Legendary Kaname" race="blood" experience="0" speed="400" manacost="0">
-	<health now="5000000" max="5000000"/>
+	<health now="50000000" max="50000000"/>
 	<look type="454" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
@@ -20,8 +20,8 @@
 		<flag lootmessage="0"/>
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="-5000" max="-5500"/>
-		<attack name="kendo" interval="2000" min="-2000" max="-2500"/>
+		<attack name="melee" interval="2000" min="-2000" max="-2500"/>
+		<attack name="kendo" interval="2000" min="-5000" max="-5500"/>
 		<attack name="juuhaku wave" interval="4000" min="-7000" max="-7500"/>
 	</attacks>
 	<defenses armor="0" defense="0"/>

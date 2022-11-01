@@ -1,13 +1,13 @@
 local spell = {
 	cooldown = 10,
 	duration = 1,
-	effect = 547
+	effect = 525
 }
 
 local area = createCombatArea {
-	{ 1, 1, 1 },
-	{ 1, 2, 1 },
-	{ 1, 1, 1 }
+	{ 0, 0, 0 },
+	{ 0, 3, 0 },
+	{ 0, 0, 0 }
 }
 
 local combat = createCombatObject()

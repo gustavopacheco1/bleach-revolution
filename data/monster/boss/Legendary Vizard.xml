@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Boss Drop Level: 250 -->
 <monster name="Legendary Vizard" nameDescription="Legendary Vizard" race="blood" experience="0" speed="400" manacost="0">
-	<health now="1200000" max="1200000"/>
+	<health now="12000000" max="12000000"/>
 	<look type="134" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>

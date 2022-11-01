@@ -1,8 +1,8 @@
 local spell = {
 	cooldown = 10,
-	effect_on_cast = 90,
+	effect_on_cast = 68,
 	loops = 10,
-	loop_effect = 189,
+	loop_effect = 68,
 }
 
 function onCastSpell(cid, var)

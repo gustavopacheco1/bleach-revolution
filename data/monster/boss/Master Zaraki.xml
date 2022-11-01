@@ -19,8 +19,8 @@
 		<flag lootmessage="0"/>
 	</flags>
 	<attacks>
-		<attack name="melee" interval="1500" min="-10000" max="-10500"/>
-		<attack name="Kendo" interval="6000" min="-3000" max="-3500"/>
+		<attack name="melee" interval="1500" min="-3000" max="-3500"/>
+		<attack name="Kendo" interval="6000" min="-10000" max="-10500"/>
 		<attack name="monster cero" interval="1500" min="-5000" max="-5100"/>
 	</attacks>
 	<defenses armor="0" defense="0"/>

@@ -20,6 +20,7 @@
 	</flags>
 	<attacks>
 		<attack name="melee" interval="2000" min="-13000" max="-13500"/>
+		<attack name="burner 3" interval="2000" min="-0" max="-0"/>
 	</attacks>
 	<defenses armor="0" defense="0"/>
 	<immunities>
