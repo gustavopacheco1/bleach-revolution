@@ -61,6 +61,9 @@
 	<monster name="Incomplete Hollow" file="hunt/Incomplete Hollow.xml"/>
 	<monster name="Green Hollow" file="hunt/Green Hollow.xml"/>
 	<monster name="Zaraki" file="hunt/Zaraki.xml"/>
+	<monster name="Elite Espada" file="hunt/Elite Espada.xml"/>
+	<monster name="Elite Incomplete Arrancar" file="hunt/Elite Incomplete Arrancar.xml"/>
+	<monster name="Elite Arrancar Watcher" file="hunt/Elite Arrancar Watcher.xml"/>
 
 
 	<!-- Boss -->

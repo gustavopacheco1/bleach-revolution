@@ -41,11 +41,5 @@
 		<item id="15101" chance="7000" count="1"/> <!-- arrancar helmet -->
 		<item id="15112" chance="7000" count="1"/> <!-- arrancar armor -->
 		<item id="10731" chance="7000" count="1"/> <!-- arrancar boots -->
-		<item id="15005" chance="4000" count="1"/> <!-- elite arrancar helmet -->
-		<item id="15304" chance="4000" count="1"/> <!-- elite arrancar armor -->
-		<item id="15011" chance="4000" count="1"/> <!-- elite arrancar boots -->
-		<item id="15006" chance="2000" count="1"/> <!-- furie arrancar helmet -->
-		<item id="15305" chance="2000" count="1"/> <!-- furie arrancar armor -->
-		<item id="15012" chance="2000" count="1"/> <!-- furie arrancar boots -->
 	</loot>
 </monster>
