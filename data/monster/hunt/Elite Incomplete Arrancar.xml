@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Monster Level: 275 -->
+<!-- Monster Level: 350 -->
 <monster name="Elite Incomplete Arrancar" nameDescription="Elite Incomplete Arrancar" race="blood" experience="17000" speed="600" manacost="0">
 	<health now="805000" max="805000"/>
 	<look type="496" corpse="16330"/>
