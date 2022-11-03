@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Monster Level: 275 -->
-<monster name="Espada" nameDescription="Espada" race="blood" experience="17000" speed="600" manacost="0">
+<monster name="Elite Espada" nameDescription="Elite Espada" race="blood" experience="17000" speed="600" manacost="0">
 	<health now="805000" max="805000"/>
 	<look type="497" corpse="16330"/>
 	<targetchange interval="5000" chance="8"/>
