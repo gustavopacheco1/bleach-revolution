@@ -33,7 +33,10 @@ local task_monsters = {
 	{ name = "Nnoitra", total_kills = 7000 },
 	{ name = "Arrancar Hollow", total_kills = 5000 },
 	{ name = "Adjuchas", total_kills = 5000 },
-	{ name = "Grown Hollow", total_kills = 10000 }
+	{ name = "Grown Hollow", total_kills = 10000 },
+	{ name = "Elite Espada", total_kills = 5000 },
+	{ name = "Elite Arrancar Watcher", total_kills = 4000 },
+	{ name = "Elite Incomplete Arrancar", total_kills = 3000 }
 }
 
 function onCreatureSay(cid, type, msg)
