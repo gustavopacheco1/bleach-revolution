@@ -1,4 +1,7 @@
 local vocations = {
+	-- Zaraki Kenpachi
+    [15765] = 7,
+
 	-- Nnoitra Gilga
 	[15675] = 21,
 
