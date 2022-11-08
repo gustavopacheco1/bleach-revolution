@@ -2,7 +2,7 @@ local spell = {
 	cooldown = 30,
 	duration = 15,
 	effect = 462,
-	energy_damage = 15, -- Porcentagem de quanto o dano das spells vai aumentar
+	energy_damage = 20, -- Porcentagem de quanto o dano das spells vai aumentar
 	outfit = 408
 }
 
