@@ -12094,6 +12094,9 @@
 	<item id="15750" article="a" name="Ichigo Kurosaki Card">
 		<attribute key="weight" value="80" />
 	</item>
+	<item id="15765" article="a" name="Zaraki Kenpachi Card">
+		<attribute key="weight" value="80" />
+	</item>
 	<item id="5897" article="a" name="wolf paw" plural="wolf paws">
 		<attribute key="weight" value="80" />
 	</item>
