@@ -30448,8 +30448,8 @@
 		<monster name="Grown Hollow" x="0" y="0" z="15" spawntime="60" />
 		<monster name="Grown Hollow" x="-1" y="1" z="15" spawntime="60" />
 	</spawn>
-	<spawn centerx="4615" centery="2337" centerz="15" radius="1">
-		<monster name="Grown Hollow" x="0" y="0" z="15" spawntime="60" />
+	<spawn centerx="4615" centery="2341" centerz="15" radius="1">
+		<monster name="Grown Hollow" x="1" y="-1" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="4651" centery="2342" centerz="15" radius="1">
 		<monster name="Grown Hollow" x="-1" y="-1" z="15" spawntime="60" />
@@ -30500,12 +30500,12 @@
 		<monster name="Grown Hollow" x="0" y="0" z="15" spawntime="60" />
 		<monster name="Grown Hollow" x="-1" y="1" z="15" spawntime="60" />
 	</spawn>
-	<spawn centerx="4637" centery="2399" centerz="15" radius="1">
-		<monster name="Grown Hollow" x="0" y="0" z="15" spawntime="60" />
-	</spawn>
 	<spawn centerx="4591" centery="2401" centerz="15" radius="1">
 		<monster name="Grown Hollow" x="1" y="-1" z="15" spawntime="60" />
 		<monster name="Grown Hollow" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="4632" centery="2403" centerz="15" radius="1">
+		<monster name="Grown Hollow" x="1" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="4669" centery="2411" centerz="15" radius="1">
 		<monster name="Grown Hollow" x="0" y="0" z="15" spawntime="60" />
