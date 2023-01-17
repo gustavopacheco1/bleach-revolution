@@ -214,6 +214,14 @@
 	<item id="479" article="a" name="hole">
 		<attribute key="floorchange" value="down" />
 	</item>
+	<item id="11924" article="a" name="cinza ramp" />
+	<item id="11923" article="a" name="cinza ramp" >
+	    <attribute key="floorchange" value="north" />
+    </item>
+	<item id="11926" article="a" name="cinza ramp" />
+	<item id="11925" article="a" name="cinza ramp" >
+	    <attribute key="floorchange" value="down" />
+    </item>
 	<item id="480" article="a" name="hole">
 		<attribute key="floorchange" value="down" />
 	</item>
