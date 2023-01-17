@@ -88,4 +88,75 @@
         <formula meleeDamage="26.0" distDamage="1.0" wandDamage="1.0" magDamage="0.9" magHealingDamage="1.2" defense="1.0" magDefense="1.0" armor="1.0"/>
         <skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
     </vocation>
+	<vocation id="22" name="Rangiku Matsumoto" description="Rangiku Matsumoto" needpremium="0" gaincap="30" gainhp="255" gainmana="310" gainhpticks="2" gainhpamount="500" gainmanaticks="2" gainmanaamount="500" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="22">
+        <formula meleeDamage="26.0" distDamage="1.0" wandDamage="1.0" magDamage="1.30" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+        <skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
+    </vocation>
+	<vocation id="23" name="Sosuke Aizen" description="Sosuke Aizen" needpremium="0" gaincap="30" gainhp="280" gainmana="240" gainhpticks="2" gainhpamount="500" gainmanaticks="2" gainmanaamount="500" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="23">
+        <formula meleeDamage="26.0" distDamage="1.0" wandDamage="1.0" magDamage="1.30" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+        <skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
+    </vocation>
+	<vocation id="24" name="Baraggan Louisenbairn" description="Baraggan Louisenbairn" needpremium="0" gaincap="30" gainhp="255" gainmana="310" gainhpticks="2" gainhpamount="500" gainmanaticks="2" gainmanaamount="500" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="24">
+        <formula meleeDamage="26.0" distDamage="1.0" wandDamage="1.0" magDamage="1.30" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+        <skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
+    </vocation>
+	<vocation id="25" name="Candice Catnipp" description="Candice Catnipp" needpremium="0" gaincap="30" gainhp="280" gainmana="240" gainhpticks="2" gainhpamount="500" gainmanaticks="2" gainmanaamount="500" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="25">
+        <formula meleeDamage="1.0" distDamage="20.0" wandDamage="1.0" magDamage="1.30" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+        <skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
+    </vocation>
+	<vocation id="26" name="Jushiro Ukitake" description="Jushiro Ukitake" needpremium="0" gaincap="300" gainhp="210" gainmana="290" gainhpticks="2" gainhpamount="500" gainmanaticks="2" gainmanaamount="500" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="26">
+        <formula meleeDamage="18.0" distDamage="1.0" wandDamage="1.0" magDamage="1.0" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+        <skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
+    </vocation>
+	<vocation id="27" name="Kaname Tousen" description="Kaname Tousen" needpremium="0" gaincap="300" gainhp="210" gainmana="290" gainhpticks="2" gainhpamount="500" gainmanaticks="2" gainmanaamount="500" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="27">
+        <formula meleeDamage="18.0" distDamage="1.0" wandDamage="1.0" magDamage="1.0" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+        <skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
+    </vocation>
+	<vocation id="28" name="Kensei Muguruma" description="Kensei Muguruma" needpremium="0" gaincap="300" gainhp="210" gainmana="290" gainhpticks="2" gainhpamount="500" gainmanaticks="2" gainmanaamount="500" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="28">
+        <formula meleeDamage="18.0" distDamage="1.0" wandDamage="1.0" magDamage="1.0" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+        <skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
+    </vocation>
+	<vocation id="29" name="Lisa Yadomaru" description="Lisa Yadomaru" needpremium="0" gaincap="300" gainhp="210" gainmana="290" gainhpticks="2" gainhpamount="500" gainmanaticks="2" gainmanaamount="500" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="29">
+        <formula meleeDamage="26.0" distDamage="1.0" wandDamage="1.0" magDamage="1.0" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+        <skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
+    </vocation>
+	<vocation id="30" name="Luppi Antenor" description="Luppi Antenor" needpremium="0" gaincap="300" gainhp="210" gainmana="290" gainhpticks="2" gainhpamount="500" gainmanaticks="2" gainmanaamount="500" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="30">
+        <formula meleeDamage="26.0" distDamage="1.0" wandDamage="1.0" magDamage="1.0" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+        <skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
+    </vocation>
+	<vocation id="31" name="Shuhei Hisagi" description="Shuhei Hisagi" needpremium="0" gaincap="300" gainhp="210" gainmana="290" gainhpticks="2" gainhpamount="500" gainmanaticks="2" gainmanaamount="500" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="31">
+        <formula meleeDamage="26.0" distDamage="1.0" wandDamage="1.0" magDamage="1.0" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+        <skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
+    </vocation>
+	<vocation id="32" name="Shunsui Kyoraku" description="Shunsui Kyoraku" needpremium="0" gaincap="300" gainhp="210" gainmana="290" gainhpticks="2" gainhpamount="500" gainmanaticks="2" gainmanaamount="500" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="32">
+        <formula meleeDamage="26.0" distDamage="1.0" wandDamage="1.0" magDamage="1.0" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+        <skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
+    </vocation>
+	<vocation id="33" name="Soi Fong" description="Soi Fong" needpremium="0" gaincap="300" gainhp="210" gainmana="290" gainhpticks="2" gainhpamount="500" gainmanaticks="2" gainmanaamount="500" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="33">
+        <formula meleeDamage="26.0" distDamage="1.0" wandDamage="1.0" magDamage="1.0" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+        <skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
+    </vocation>
+	<vocation id="34" name="Hirako Shinji" description="Hirako Shinji" needpremium="0" gaincap="300" gainhp="210" gainmana="290" gainhpticks="2" gainhpamount="500" gainmanaticks="2" gainmanaamount="500" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="34">
+        <formula meleeDamage="26.0" distDamage="1.0" wandDamage="1.0" magDamage="1.0" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+        <skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
+    </vocation>
+	<vocation id="35" name="Genryusai Shigekuni Yamamoto" description="Genryusai Shigekuni Yamamoto" needpremium="0" gaincap="300" gainhp="210" gainmana="290" gainhpticks="2" gainhpamount="500" gainmanaticks="2" gainmanaamount="500" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="35">
+        <formula meleeDamage="26.0" distDamage="1.0" wandDamage="1.0" magDamage="1.0" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+        <skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
+    </vocation>
+	
+	<vocation id="36" name="Yhwach" description="Yhwach" needpremium="0" gaincap="300" gainhp="210" gainmana="290" gainhpticks="2" gainhpamount="500" gainmanaticks="2" gainmanaamount="500" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="36">
+        <formula meleeDamage="1.0" distDamage="20.0" wandDamage="1.0" magDamage="1.0" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+        <skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
+    </vocation>
+	
+	<vocation id="37" name="Yoruichi Shihoin" description="Yoruichi Shihoin" needpremium="0" gaincap="300" gainhp="210" gainmana="290" gainhpticks="2" gainhpamount="500" gainmanaticks="2" gainmanaamount="500" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="37">
+        <formula meleeDamage="1.0" distDamage="20.0" wandDamage="1.0" magDamage="1.0" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+        <skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
+    </vocation>
+	
+	<vocation id="38" name="Zommari Rureaux" description="Zommari Rureaux" needpremium="0" gaincap="300" gainhp="210" gainmana="290" gainhpticks="2" gainhpamount="500" gainmanaticks="2" gainmanaamount="500" manamultiplier="1.1" attackspeed="2000" soulmax="200" gainsoulticks="15" lessloss="50" fromvoc="38">
+        <formula meleeDamage="1.0" distDamage="20.0" wandDamage="1.0" magDamage="1.0" magHealingDamage="1.0" defense="1.0" magDefense="1.0" armor="1.0"/>
+        <skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
+    </vocation>
 </vocations>
