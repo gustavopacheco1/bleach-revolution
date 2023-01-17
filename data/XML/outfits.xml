@@ -166,5 +166,141 @@
     </outfit>
     <outfit id="42" default="0">
         <list gender="0-3" lookType="453" name="Level 100"/>
+	</outfit>
+	
+	<!-- Rangiku Matsumoto -->
+    <outfit id="43" default="0">
+        <list gender="0-3" lookType="500" name="Initial"/>
+    </outfit>
+    <outfit id="44" default="0">
+        <list gender="0-3" lookType="501" name="Level 100"/>	
+    </outfit>
+	
+	<!-- Sosuke Aizen -->
+    <outfit id="45" default="0">
+        <list gender="0-3" lookType="504" name="Initial"/>
+    </outfit>
+    <outfit id="46" default="0">
+        <list gender="0-3" lookType="505" name="Level 100"/>	
+    </outfit>
+	
+	<!-- Baraggan Louisenbairn -->
+    <outfit id="47" default="0">
+        <list gender="0-3" lookType="504" name="Initial"/>
+    </outfit>
+    <outfit id="48" default="0">
+        <list gender="0-3" lookType="505" name="Level 100"/>	
+    </outfit>
+	
+	<!-- Candice Catnipp -->
+    <outfit id="49" default="0">
+        <list gender="0-3" lookType="524" name="Initial"/>
+    </outfit>
+    <outfit id="50" default="0">
+        <list gender="0-3" lookType="525" name="Level 100"/>	
+    </outfit>
+	
+	<!-- Jushiro Ukitake -->
+    <outfit id="51" default="0">
+        <list gender="0-3" lookType="539" name="Initial"/>
+    </outfit>
+    <outfit id="52" default="0">
+        <list gender="0-3" lookType="543" name="Level 100"/>	
+    </outfit>
+	
+	<!-- Kaname Tousen -->
+    <outfit id="53" default="0">
+        <list gender="0-3" lookType="548" name="Initial"/>
+    </outfit>
+    <outfit id="54" default="0">
+        <list gender="0-3" lookType="547" name="Level 100"/>	
+    </outfit>
+	
+	<!-- Kensei Muguruma -->
+    <outfit id="55" default="0">
+        <list gender="0-3" lookType="552" name="Initial"/>
+    </outfit>
+    <outfit id="56" default="0">
+        <list gender="0-3" lookType="554" name="Level 100"/>	
+    </outfit>
+	
+	<!-- Lisa Yadomaru -->
+    <outfit id="57" default="0">
+        <list gender="0-3" lookType="555" name="Initial"/>
+    </outfit>
+    <outfit id="58" default="0">
+        <list gender="0-3" lookType="558" name="Level 100"/>	
+    </outfit>
+	
+	<!-- Luppi Antenor -->
+    <outfit id="59" default="0">
+        <list gender="0-3" lookType="563" name="Initial"/>
+    </outfit>
+    <outfit id="60" default="0">
+        <list gender="0-3" lookType="565" name="Level 100"/>	
+    </outfit>
+	
+	<!-- Shuhei Hisagi -->
+    <outfit id="61" default="0">
+        <list gender="0-3" lookType="570" name="Initial"/>
+    </outfit>
+    <outfit id="62" default="0">
+        <list gender="0-3" lookType="573" name="Level 100"/>	
+    </outfit>
+	
+	<!-- Shunsui Kyoraku -->
+    <outfit id="63" default="0">
+        <list gender="0-3" lookType="576" name="Initial"/>
+    </outfit>
+    <outfit id="64" default="0">
+        <list gender="0-3" lookType="577" name="Level 100"/>	
+    </outfit>
+	
+	<!-- Shunsui Kyoraku -->
+    <outfit id="65" default="0">
+        <list gender="0-3" lookType="582" name="Initial"/>
+    </outfit>
+    <outfit id="66" default="0">
+        <list gender="0-3" lookType="584" name="Level 100"/>	
+    </outfit>
+	
+	<!-- Hirako Shinji -->
+    <outfit id="67" default="0">
+        <list gender="0-3" lookType="598" name="Initial"/>
+    </outfit>
+    <outfit id="68" default="0">
+        <list gender="0-3" lookType="597" name="Level 100"/>	
+    </outfit>
+	
+	<!-- Genryusai Shigekuni Yamamoto -->
+    <outfit id="69" default="0">
+        <list gender="0-3" lookType="600" name="Initial"/>
+    </outfit>
+    <outfit id="70" default="0">
+        <list gender="0-3" lookType="601" name="Level 100"/>	
+    </outfit>
+	
+	<!-- Yhwach -->
+    <outfit id="71" default="0">
+        <list gender="0-3" lookType="608" name="Initial"/>
+    </outfit>
+    <outfit id="72" default="0">
+        <list gender="0-3" lookType="611" name="Level 100"/>	
+    </outfit>
+	
+	<!-- Yoruichi Shihoin -->
+    <outfit id="73" default="0">
+        <list gender="0-3" lookType="613" name="Initial"/>
+    </outfit>
+    <outfit id="74" default="0">
+        <list gender="0-3" lookType="614" name="Level 100"/>	
+    </outfit>
+	
+	<!-- Zommari Rureaux -->
+    <outfit id="75" default="0">
+        <list gender="0-3" lookType="627" name="Initial"/>
+    </outfit>
+    <outfit id="76" default="0">
+        <list gender="0-3" lookType="625" name="Level 100"/>	
     </outfit>
 </outfits>
