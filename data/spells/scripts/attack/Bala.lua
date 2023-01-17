@@ -1,17 +1,31 @@
 local combat = createCombatObject()
 setCombatParam(combat, COMBAT_PARAM_HITCOLOR, COLOR_PINK)
 setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_ENERGYDAMAGE)
-setCombatParam(combat, COMBAT_PARAM_DISTANCEEFFECT, 85)
 onGetFormulaValues = getFiveShootsFormula
 setCombatCallback(combat, CALLBACK_PARAM_LEVELMAGICVALUE, "onGetFormulaValues")
 
+local vocations = {
+	[21] = {
+		missile = 93,
+	},
+	[24] = {
+	    missile = 93,
+	},
+	[30] = {
+	    missile = 93,
+	},
+	[38] = {
+	    missile = 93,
+	},
+
 function onCastSpell(cid, var)
-	doCombatLoop(
+	CustomSpell.randomShoot(
 		cid,
 		combat,
 		5,
 		300,
-		{ id = 18, x = 0, y = 0 }
+		vocation.missile,
+		{ id = 748, x = 0, y = 0 }
 	)
 	return true
 end

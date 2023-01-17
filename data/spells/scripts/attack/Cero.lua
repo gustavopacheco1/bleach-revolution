@@ -14,6 +14,21 @@ local vocations = {
 	[6] = {
 		missile = 94
 	},
+	[24] = {
+		missile = 16
+	},
+	[29] = {
+		missile = 16
+	},
+	[30] = {
+		missile = 16
+	},
+	[34] = {
+		missile = 16
+	},
+	[38] = {
+		missile = 16
+	},
 }
 
 function onCastSpell(cid, var)

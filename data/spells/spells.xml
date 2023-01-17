@@ -2,6 +2,7 @@
 <spells>
 	<!-- Monsters -->
 	<instant name="Monster Cero" words="###1" aggressive="1" blockwalls="1" needtarget="1" needlearn="1" event="script" value="monster/Cero.lua"/>
+    <instant name="Monster Bala" words="###2" aggressive="1" blockwalls="1" needtarget="1" needlearn="1" event="script" value="monster/Bala.lua"/>
 
 	<!-- Healing -->
 	<instant name="regeneration" words="regeneration" lvl="5" maglv="5" mana="200" aggressive="0" selftarget="1" exhaustion="1000" exhaustedGroup="heal" needlearn="0" event="script" value="healing/regeneration.lua"/>
@@ -185,7 +186,21 @@
 		<vocation id="6"/> <!-- Ulquiorra Ciffer -->
 		<vocation id="11"/> <!-- Nelliel Odelschwanck -->
 		<vocation id="21"/> <!-- Nnoitra Gilga -->
+		<vocation id="24"/> <!-- Baraggan Louisenbairn -->
+		<vocation id="29"/> <!-- Lisa Yadomaru -->
+		<vocation id="30"/> <!-- Luppi Antenor -->
+		<vocation id="34"/> <!-- Hirako Shinji -->
+		
 	</instant>
+	
+	<instant name="Bala" words="Bala" lvl="100" maglv="80" mana="1000" aggressive="1" range="2" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Bala.lua">
+	    <vocation id="21"/> <!-- Nnoitra Gilga -->
+		<vocation id="24"/> <!-- Baraggan Louisenbairn -->
+		<vocation id="30"/> <!-- Luppi Antenor -->
+		<vocation id="38"/> <!-- Zommari Rureaux -->
+	
+	</instant>
+	
 	<!-- Area -->
 	<instant name="Getsuga Wave" words="Getsuga Wave" lvl="80" maglv="60" mana="2500" prem="0" blockwalls="1" exhaustion="2000" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Area/Getsuga Wave.lua">
 		<vocation id="1"/> <!-- Ichigo Kurosaki -->
@@ -414,9 +429,110 @@
 	<instant name="Colmillo" words="Colmillo" lvl="50" maglv="30" mana="500" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Starrk/Colmillo.lua">
 		<vocation id="20"/>
 	</instant>
-
-	<!-- Nnoitra Gilga -->
-	<instant name="Bala" words="Bala" lvl="100" maglv="80" mana="1000" aggressive="1" range="2" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Nnoitra/Bala.lua">
-		<vocation id="21"/>
+	
+	<!-- Rangiku Matsumoto -->
+	<instant name="Hado 31" words="Hado 31" lvl="50" maglv="30" mana="1000" aggressive="1" range="2" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Rangiku/Hado 31.lua">
+		<vocation id="22"/>
+	</instant>
+	<instant name="Neko Rinbu" words="Neko Rinbu" lvl="100" maglv="80" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Rangiku/Neko Rinbu.lua">
+		<vocation id="22"/>
+	</instant>
+	
+	<!-- Sosuke Aizen -->
+	<instant name="Hadou 90 Kurohitsugi" words="Hadou 90 Kurohitsugi" lvl="50" maglv="30" mana="1000" aggressive="1" range="2" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Aizen/Hadou 90 Kurohitsugi.lua">
+		<vocation id="23"/>
+	</instant>
+	<instant name="Ultrafragor" words="Ultrafragor" lvl="100" maglv="80" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Aizen/Ultrafragor.lua">
+		<vocation id="23"/>
+	</instant>
+	
+	<!-- Candice Catnipp -->
+	<instant name="Galvano Javeli" words="Galvano Javeli" lvl="50" maglv="30" mana="1000" aggressive="1" range="2" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Candice/Galvano Javeli.lua">
+		<vocation id="25"/>
+	</instant>
+	<instant name="Galvano Blast" words="Galvano Blast" lvl="100" maglv="80" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Candice/Galvano Blast.lua">
+		<vocation id="25"/>
+	</instant>
+	
+	<!-- Jushiro Ukitake -->
+	<instant name="Double Kido" words="Double Kido" lvl="50" maglv="30" mana="1000" aggressive="1" range="2" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Jushiro/Double Kido.lua">
+		<vocation id="26"/>
+	</instant>
+	<instant name="Kido" words="Kido" lvl="100" maglv="80" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Jushiro/Kido.lua">
+		<vocation id="26"/>
+	</instant>
+	
+	<!-- Kaname Tousen -->
+	<instant name="Nake Suzumushi" words="Nake Suzumushi" lvl="50" maglv="30" mana="1000" aggressive="1" range="2" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Tousen/Nake Suzumushi.lua">
+		<vocation id="27"/>
+	</instant>
+	<instant name="Suzumushi Nishiki Benihikou" words="Suzumushi Nishiki Benihikou" lvl="100" maglv="80" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Tousen/Suzumushi Nishiki Benihikou.lua">
+		<vocation id="27"/>
+	</instant>
+	
+	<!-- Kensei Muguruma -->
+	<instant name="SandbagBeat" words="SandbagBeat" lvl="50" maglv="30" mana="1000" aggressive="1" range="2" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Kensei/SandbagBeat.lua">
+		<vocation id="28"/>
+	</instant>
+	<instant name="Laminas de Ar" words="Laminas de Ar" lvl="100" maglv="80" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Kensei/Laminas de Ar.lua">
+		<vocation id="28"/>
+	</instant>
+	
+	<!-- Lisa Yadomaru -->
+	<instant name="Senmaioroshi" words="Senmaioroshi" lvl="50" maglv="30" mana="1000" aggressive="1" range="2" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Lisa/Senmaioroshi.lua">
+		<vocation id="29"/>
+	</instant>
+	
+	<!-- Shuhei Hisagi -->
+	<instant name="Tsuzuri Raiden" words="Tsuzuri Raiden" lvl="50" maglv="30" mana="1000" aggressive="1" range="2" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Shuei/Tsuzuri Raiden.lua">
+		<vocation id="31"/>
+	</instant>
+	<instant name="Hyapporankan" words="Hyapporankan" lvl="100" maglv="80" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Shuei/Hyapporankan.lua">
+		<vocation id="31"/>
+	</instant>
+	
+	<!-- Shunsui Kyoraku -->
+	<instant name="Kageoni" words="Kageoni" lvl="50" maglv="30" mana="1000" aggressive="1" range="2" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Kyoraku/Kageoni.lua">
+		<vocation id="32"/>
+	</instant>
+	<instant name="Bushogoma" words="Bushogoma" lvl="100" maglv="80" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Kyoraku/Bushogoma.lua">
+		<vocation id="32"/>
+	</instant>
+	
+	<!-- Soi Fong -->
+	<instant name="Shunko" words="Shunko" lvl="50" maglv="30" mana="1000" aggressive="1" range="2" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Soi/Shunko.lua">
+		<vocation id="33"/>
+	</instant>
+	<instant name="Mukyu Shunko" words="Mukyu Shunko" lvl="100" maglv="80" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Soi/Mukyu Shunko.lua">
+		<vocation id="33"/>
+	</instant>
+	
+	<!-- Hirako Shinji -->
+	<instant name="kidou" words="kidou" lvl="50" maglv="30" mana="1000" aggressive="1" range="2" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Hirako/kidou.lua">
+		<vocation id="34"/>
+	</instant>
+	
+	<!-- Genryusai Shigekuni Yamamoto -->
+	<instant name="Sokotsu" words="Sokotsu" lvl="50" maglv="30" mana="1000" aggressive="1" range="2" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Yamamoto/Sokotsu.lua">
+		<vocation id="35"/>
+	</instant>
+	<instant name="Ikkotsu" words="Ikkotsu" lvl="100" maglv="80" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Yamamoto/Ikkotsu.lua">
+		<vocation id="35"/>
+	</instant>
+	
+	<!-- Yhwach -->
+	<instant name="Heilig Pfeil" words="Heilig Pfeil" lvl="50" maglv="30" mana="1000" aggressive="1" range="2" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Yhwach/Heilig Pfeil.lua">
+		<vocation id="36"/>
+	</instant>
+	<instant name="Hirenkyaku" words="Hirenkyaku" lvl="100" maglv="80" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Yhwach/Hirenkyaku.lua">
+		<vocation id="36"/>
+	</instant>
+	
+	<!-- Yoruichi Shihoin -->
+	<instant name="Raioken" words="Raioken" lvl="50" maglv="30" mana="1000" aggressive="1" range="2" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Yoruichi/Raioken.lua">
+		<vocation id="37"/>
+	</instant>
+	<instant name="Anken" words="Anken" lvl="100" maglv="80" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1400" exhaustedGroup="attack" needlearn="0" event="script" value="attack/Yoruichi/Anken.lua">
+		<vocation id="37"/>
 	</instant>
 </spells>
