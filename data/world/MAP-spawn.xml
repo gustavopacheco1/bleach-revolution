@@ -11464,183 +11464,32 @@
 	<spawn centerx="4662" centery="2532" centerz="7" radius="1">
 		<monster name="Elite Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4425" centery="2536" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="4655" centery="2539" centerz="7" radius="1">
 		<monster name="Elite Incomplete Arrancar" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Elite Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4399" centery="2544" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4635" centery="2544" centerz="7" radius="1">
 		<monster name="Elite Incomplete Arrancar" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Elite Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4436" centery="2548" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="4662" centery="2554" centerz="7" radius="1">
 		<monster name="Elite Incomplete Arrancar" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Elite Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4417" centery="2555" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4641" centery="2555" centerz="7" radius="1">
 		<monster name="Elite Incomplete Arrancar" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Elite Incomplete Arrancar" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Elite Incomplete Arrancar" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="4472" centery="2562" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4453" centery="2564" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4406" centery="2565" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4484" centery="2574" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4433" centery="2575" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4395" centery="2579" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4372" centery="2581" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4458" centery="2583" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4422" centery="2587" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4438" centery="2589" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4388" centery="2591" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4474" centery="2593" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4365" centery="2595" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4296" centery="2596" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4317" centery="2601" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4403" centery="2601" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4449" centery="2602" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4347" centery="2603" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4284" centery="2605" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4369" centery="2606" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4382" centery="2608" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4467" centery="2608" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4331" centery="2609" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4299" centery="2613" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4307" centery="2623" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4356" centery="2623" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4330" centery="2626" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4290" centery="2627" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3942" centery="2630" centerz="7" radius="1">
 		<monster name="Arrancar Watcher" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Arrancar Watcher" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4345" centery="2637" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3954" centery="2640" centerz="7" radius="1">
 		<monster name="Arrancar Watcher" x="-1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3904" centery="2646" centerz="7" radius="1">
 		<monster name="Arrancar Watcher" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="4329" centery="2647" centerz="7" radius="1">
-		<monster name="Arrancar Watcher" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Arrancar Watcher" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3941" centery="2648" centerz="7" radius="1">
 		<monster name="Arrancar Watcher" x="1" y="1" z="7" spawntime="60" />
@@ -13335,6 +13184,9 @@
 	<spawn centerx="2972" centery="3157" centerz="7" radius="1">
 		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3191" centery="3157" centerz="7" radius="1">
+		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="2985" centery="3158" centerz="7" radius="1">
 		<monster name="Urahara" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
@@ -13375,6 +13227,9 @@
 	<spawn centerx="2954" centery="3168" centerz="7" radius="1">
 		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3185" centery="3168" centerz="7" radius="1">
+		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="2978" centery="3169" centerz="7" radius="1">
 		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Urahara" x="1" y="1" z="7" spawntime="60" />
@@ -13389,6 +13244,9 @@
 	</spawn>
 	<spawn centerx="2959" centery="3171" centerz="7" radius="1">
 		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3168" centery="3172" centerz="7" radius="1">
+		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3009" centery="3173" centerz="7" radius="1">
 		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
@@ -13421,6 +13279,9 @@
 	</spawn>
 	<spawn centerx="2940" centery="3182" centerz="7" radius="1">
 		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3184" centery="3182" centerz="7" radius="1">
+		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2892" centery="3185" centerz="7" radius="1">
 		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
@@ -13500,16 +13361,8 @@
 		<monster name="Urahara" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3087" centery="3207" centerz="7" radius="1">
-		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="2968" centery="3208" centerz="7" radius="1">
 		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3064" centery="3208" centerz="7" radius="1">
-		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2987" centery="3209" centerz="7" radius="1">
 		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
@@ -13518,10 +13371,6 @@
 		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3211" centery="3209" centerz="7" radius="1">
-		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3054" centery="3210" centerz="7" radius="1">
 		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
@@ -13563,10 +13412,6 @@
 	</spawn>
 	<spawn centerx="2979" centery="3218" centerz="7" radius="1">
 		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3079" centery="3218" centerz="7" radius="1">
-		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3143" centery="3218" centerz="7" radius="1">
 		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
@@ -13617,16 +13462,8 @@
 		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Urahara" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3050" centery="3222" centerz="7" radius="1">
-		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3004" centery="3223" centerz="7" radius="1">
 		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3094" centery="3223" centerz="7" radius="1">
-		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3019" centery="3225" centerz="7" radius="1">
 		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
@@ -13699,10 +13536,6 @@
 	<spawn centerx="2981" centery="3233" centerz="7" radius="1">
 		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3056" centery="3234" centerz="7" radius="1">
-		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3007" centery="3235" centerz="7" radius="1">
 		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -13715,10 +13548,6 @@
 	<spawn centerx="3013" centery="3236" centerz="7" radius="1">
 		<monster name="Urahara" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3092" centery="3236" centerz="7" radius="1">
-		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3299" centery="3236" centerz="7" radius="1">
 		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
@@ -13734,9 +13563,8 @@
 		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Urahara" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3077" centery="3241" centerz="7" radius="1">
+	<spawn centerx="3129" centery="3240" centerz="7" radius="1">
 		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3175" centery="3241" centerz="7" radius="1">
 		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
@@ -13788,14 +13616,6 @@
 		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3045" centery="3249" centerz="7" radius="1">
-		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3117" centery="3249" centerz="7" radius="1">
-		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="2899" centery="3251" centerz="7" radius="1">
 		<monster name="Urahara" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
@@ -13823,10 +13643,6 @@
 	</spawn>
 	<spawn centerx="3012" centery="3254" centerz="7" radius="1">
 		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3099" centery="3254" centerz="7" radius="1">
-		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3283" centery="3254" centerz="7" radius="1">
 		<monster name="Gillian" x="-1" y="-1" z="7" spawntime="60" />
@@ -13857,9 +13673,11 @@
 		<monster name="Urahara" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3070" centery="3256" centerz="7" radius="1">
+	<spawn centerx="3102" centery="3256" centerz="7" radius="1">
 		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3142" centery="3256" centerz="7" radius="1">
+		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2954" centery="3257" centerz="7" radius="1">
 		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
@@ -13881,16 +13699,8 @@
 		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3143" centery="3261" centerz="7" radius="1">
-		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="2938" centery="3262" centerz="7" radius="1">
 		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3123" centery="3263" centerz="7" radius="1">
-		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2967" centery="3264" centerz="7" radius="1">
 		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
@@ -13906,11 +13716,20 @@
 	<spawn centerx="2982" centery="3268" centerz="7" radius="1">
 		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3132" centery="3268" centerz="7" radius="1">
+		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3003" centery="3269" centerz="7" radius="1">
 		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2993" centery="3270" centerz="7" radius="1">
 		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3158" centery="3270" centerz="7" radius="1">
+		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3302" centery="3270" centerz="7" radius="1">
+		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2969" centery="3271" centerz="7" radius="1">
 		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
@@ -13918,12 +13737,7 @@
 	<spawn centerx="3007" centery="3271" centerz="7" radius="1">
 		<monster name="Urahara" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3175" centery="3271" centerz="7" radius="1">
-		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3160" centery="3275" centerz="7" radius="1">
-		<monster name="Gillian" x="1" y="-1" z="7" spawntime="60" />
+	<spawn centerx="3113" centery="3274" centerz="7" radius="1">
 		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2987" centery="3276" centerz="7" radius="1">
@@ -13947,15 +13761,6 @@
 	<spawn centerx="3689" centery="3285" centerz="7" radius="1">
 		<monster name="Mini Fisher" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3111" centery="3286" centerz="7" radius="1">
-		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3190" centery="3286" centerz="7" radius="1">
-		<monster name="Gillian" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3677" centery="3286" centerz="7" radius="1">
 		<monster name="Mini Fisher" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Mini Fisher" x="-1" y="1" z="7" spawntime="60" />
@@ -13972,12 +13777,11 @@
 		<monster name="Hiroshin" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3146" centery="3288" centerz="7" radius="1">
-		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3218" centery="3288" centerz="7" radius="1">
 		<monster name="Gillian" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3127" centery="3290" centerz="7" radius="1">
 		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3716" centery="3290" centerz="7" radius="1">
@@ -13987,9 +13791,8 @@
 		<monster name="Hiroshin" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Hiroshin" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3086" centery="3291" centerz="7" radius="1">
+	<spawn centerx="3108" centery="3291" centerz="7" radius="1">
 		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3448" centery="3291" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
@@ -14061,10 +13864,6 @@
 		<monster name="Rungokai Bandit" x="0" y="1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3162" centery="3302" centerz="7" radius="1">
-		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3696" centery="3302" centerz="7" radius="1">
 		<monster name="Mini Fisher" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
@@ -14106,10 +13905,6 @@
 		<monster name="Hollow Wolf" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3243" centery="3308" centerz="7" radius="1">
-		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3143" centery="3310" centerz="7" radius="1">
 		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
@@ -14155,10 +13950,6 @@
 	<spawn centerx="3559" centery="3321" centerz="7" radius="1">
 		<monster name="Hollow Wolf" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Hollow Wolf" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3195" centery="3322" centerz="7" radius="1">
-		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3482" centery="3322" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
@@ -21856,15 +21647,48 @@
 	<spawn centerx="3696" centery="3335" centerz="8" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3163" centery="3337" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="2387" centery="3341" centerz="8" radius="1">
 		<monster name="Gillian" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3136" centery="3341" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3188" centery="3342" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3692" centery="3342" centerz="8" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Mini Fisher" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3238" centery="3345" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3203" centery="3346" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3144" centery="3347" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3157" centery="3347" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3693" centery="3349" centerz="8" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3167" centery="3353" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3193" centery="3355" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3227" centery="3355" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3180" centery="3357" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3692" centery="3357" centerz="8" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="8" spawntime="60" />
@@ -21877,8 +21701,20 @@
 	<spawn centerx="2376" centery="3361" centerz="8" radius="1">
 		<monster name="Gillian" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3201" centery="3363" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3216" centery="3363" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3765" centery="3363" centerz="8" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3143" centery="3364" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3237" centery="3365" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3692" centery="3365" centerz="8" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="8" spawntime="60" />
@@ -21890,6 +21726,9 @@
 	<spawn centerx="2361" centery="3366" centerz="8" radius="1">
 		<monster name="Gillian" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Gillian" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3176" centery="3367" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3699" centery="3368" centerz="8" radius="1">
 		<monster name="Mini Fisher" x="0" y="0" z="8" spawntime="60" />
@@ -21947,12 +21786,33 @@
 		<monster name="Mini Fisher" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Mini Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3227" centery="3376" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3184" centery="3377" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="2347" centery="3378" centerz="8" radius="1">
 		<monster name="Gillian" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3166" centery="3378" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3202" centery="3380" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3155" centery="3383" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="2398" centery="3386" centerz="8" radius="1">
 		<monster name="Gillian" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Gillian" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3192" centery="3386" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3175" centery="3389" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="2521" centery="3391" centerz="8" radius="1">
 		<monster name="Gillian" x="0" y="0" z="8" spawntime="60" />
@@ -21991,6 +21851,9 @@
 	</spawn>
 	<spawn centerx="2510" centery="3400" centerz="8" radius="1">
 		<monster name="Gillian" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3185" centery="3400" centerz="8" radius="1">
+		<monster name="Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4496" centery="3401" centerz="8" radius="1">
 		<monster name="Quincy" x="-1" y="-1" z="8" spawntime="60" />
