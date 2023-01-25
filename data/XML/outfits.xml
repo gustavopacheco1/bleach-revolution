@@ -26,10 +26,10 @@
 
     <!-- Orihime Inoue -->
     <outfit id="7" default="0">
-        <list gender="0-3" lookType="382" name="Initial"/>
+        <list gender="0-3" lookType="516" name="Initial"/>
     </outfit>
     <outfit id="8" default="0">
-        <list gender="0-3" lookType="385" name="Level 100"/>
+        <list gender="0-3" lookType="518" name="Level 100"/>
     </outfit>
 
     <!-- Uryu Ishida -->
@@ -122,18 +122,18 @@
 
     <!-- Tier Halibel -->
     <outfit id="31" default="0">
-        <list gender="0-3" lookType="321" name="Initial"/>
+        <list gender="0-3" lookType="533" name="Initial"/>
     </outfit>
     <outfit id="32" default="0">
-        <list gender="0-3" lookType="324" name="Level 100"/>
+        <list gender="0-3" lookType="536" name="Level 100"/>
     </outfit>
 
     <!-- Urahara Kisuke -->
     <outfit id="33" default="0">
-        <list gender="0-3" lookType="331" name="Initial"/>
+        <list gender="0-3" lookType="587" name="Initial"/>
     </outfit>
     <outfit id="34" default="0">
-        <list gender="0-3" lookType="333" name="Level 100"/>
+        <list gender="0-3" lookType="589" name="Level 100"/>
     </outfit>
 
     <!-- Grimmjow Jaegerjaquez -->
@@ -186,10 +186,10 @@
 	
 	<!-- Baraggan Louisenbairn -->
     <outfit id="47" default="0">
-        <list gender="0-3" lookType="504" name="Initial"/>
+        <list gender="0-3" lookType="510" name="Initial"/>
     </outfit>
     <outfit id="48" default="0">
-        <list gender="0-3" lookType="505" name="Level 100"/>	
+        <list gender="0-3" lookType="512" name="Level 100"/>	
     </outfit>
 	
 	<!-- Candice Catnipp -->
