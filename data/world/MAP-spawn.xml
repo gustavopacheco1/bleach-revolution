@@ -166,27 +166,6 @@
 		<monster name="Snake Hollow" x="0" y="0" z="1" spawntime="60" />
 		<monster name="Snake Hollow" x="0" y="1" z="1" spawntime="60" />
 	</spawn>
-	<spawn centerx="3454" centery="3611" centerz="1" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="1" spawntime="60" />
-	</spawn>
-	<spawn centerx="3454" centery="3617" centerz="1" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="1" spawntime="60" />
-	</spawn>
-	<spawn centerx="3451" centery="3622" centerz="1" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="1" spawntime="60" />
-	</spawn>
-	<spawn centerx="3425" centery="3623" centerz="1" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="1" spawntime="60" />
-	</spawn>
-	<spawn centerx="3431" centery="3623" centerz="1" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="1" spawntime="60" />
-	</spawn>
-	<spawn centerx="3438" centery="3623" centerz="1" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="1" spawntime="60" />
-	</spawn>
-	<spawn centerx="3445" centery="3623" centerz="1" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="1" spawntime="60" />
-	</spawn>
 	<spawn centerx="3215" centery="3731" centerz="1" radius="1">
 		<monster name="Furie Hollow" x="-1" y="-1" z="1" spawntime="60" />
 		<monster name="Furie Hollow" x="1" y="-1" z="1" spawntime="60" />
@@ -449,24 +428,6 @@
 		<monster name="Snake Hollow" x="-1" y="-1" z="2" spawntime="60" />
 		<monster name="Snake Hollow" x="0" y="0" z="2" spawntime="60" />
 		<monster name="Snake Hollow" x="1" y="1" z="2" spawntime="60" />
-	</spawn>
-	<spawn centerx="3459" centery="3607" centerz="2" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="2" spawntime="60" />
-	</spawn>
-	<spawn centerx="3459" centery="3613" centerz="2" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="2" spawntime="60" />
-	</spawn>
-	<spawn centerx="3459" centery="3619" centerz="2" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="2" spawntime="60" />
-	</spawn>
-	<spawn centerx="3455" centery="3624" centerz="2" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="2" spawntime="60" />
-	</spawn>
-	<spawn centerx="3436" centery="3626" centerz="2" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="2" spawntime="60" />
-	</spawn>
-	<spawn centerx="3443" centery="3626" centerz="2" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="2" spawntime="60" />
 	</spawn>
 	<spawn centerx="3179" centery="3726" centerz="2" radius="1">
 		<monster name="Furie Hollow" x="-1" y="-1" z="2" spawntime="60" />
@@ -1166,15 +1127,6 @@
 		<monster name="Snake Hollow" x="1" y="-1" z="3" spawntime="60" />
 		<monster name="Snake Hollow" x="0" y="0" z="3" spawntime="60" />
 		<monster name="Snake Hollow" x="-1" y="1" z="3" spawntime="60" />
-	</spawn>
-	<spawn centerx="3442" centery="3602" centerz="3" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="3" spawntime="60" />
-	</spawn>
-	<spawn centerx="3447" centery="3602" centerz="3" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="3" spawntime="60" />
-	</spawn>
-	<spawn centerx="3455" centery="3602" centerz="3" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="3" spawntime="60" />
 	</spawn>
 	<spawn centerx="3672" centery="3652" centerz="3" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="3" spawntime="60" />
@@ -3125,27 +3077,12 @@
 		<monster name="Rungokai Bandit" x="0" y="0" z="4" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="1" z="4" spawntime="60" />
 	</spawn>
-	<spawn centerx="3435" centery="3603" centerz="4" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
 	<spawn centerx="3753" centery="3603" centerz="4" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3760" centery="3603" centerz="4" radius="1">
 		<monster name="Rungokai Bandit" x="1" y="-1" z="4" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="3436" centery="3608" centerz="4" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="3423" centery="3612" centerz="4" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="3428" centery="3612" centerz="4" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="3434" centery="3612" centerz="4" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="3663" centery="3649" centerz="4" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="4" spawntime="60" />
@@ -5602,21 +5539,12 @@
 		<monster name="Elite Bandit" x="-1" y="1" z="5" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="3422" centery="3603" centerz="5" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3429" centery="3603" centerz="5" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="3659" centery="3605" centerz="5" radius="1">
 		<monster name="Elite Bandit" x="0" y="-1" z="5" spawntime="60" />
 		<monster name="Elite Bandit" x="-1" y="0" z="5" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="0" z="5" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3428" centery="3607" centerz="5" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3622" centery="3612" centerz="5" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
@@ -8995,9 +8923,6 @@
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3462" centery="3497" centerz="6" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3653" centery="3497" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
@@ -9041,14 +8966,11 @@
 		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3452" centery="3514" centerz="6" radius="1">
-		<monster name="Snake Hollow" x="1" y="-1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3453" centery="3519" centerz="6" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3500" centery="3519" centerz="6" radius="1">
 		<monster name="Snake Hollow" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3453" centery="3520" centerz="6" radius="1">
+		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3637" centery="3522" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
@@ -9106,9 +9028,6 @@
 		<monster name="Snake Hollow" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Snake Hollow" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3471" centery="3536" centerz="6" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3485" centery="3536" centerz="6" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
@@ -9266,15 +9185,6 @@
 		<monster name="Fraccion" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3440" centery="3582" centerz="6" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3433" centery="3583" centerz="6" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3463" centery="3584" centerz="6" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="4038" centery="3584" centerz="6" radius="1">
 		<monster name="Fraccion" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
@@ -9283,9 +9193,6 @@
 		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3423" centery="3587" centerz="6" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4054" centery="3587" centerz="6" radius="1">
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
@@ -9302,12 +9209,6 @@
 	<spawn centerx="3997" centery="3590" centerz="6" radius="1">
 		<monster name="Fraccion" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3465" centery="3591" centerz="6" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3419" centery="3594" centerz="6" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3974" centery="3595" centerz="6" radius="1">
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
@@ -9342,12 +9243,6 @@
 	<spawn centerx="4017" centery="3602" centerz="6" radius="1">
 		<monster name="Fraccion" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3418" centery="3605" centerz="6" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3465" centery="3605" centerz="6" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3686" centery="3607" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
@@ -9395,9 +9290,6 @@
 	<spawn centerx="3955" centery="3614" centerz="6" radius="1">
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3419" centery="3615" centerz="6" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3633" centery="3615" centerz="6" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
@@ -9410,9 +9302,6 @@
 	<spawn centerx="3988" centery="3616" centerz="6" radius="1">
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3465" centery="3617" centerz="6" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="4004" centery="3617" centerz="6" radius="1">
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -9423,9 +9312,6 @@
 	<spawn centerx="3961" centery="3619" centerz="6" radius="1">
 		<monster name="Fraccion" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3421" centery="3622" centerz="6" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3620" centery="3622" centerz="6" radius="1">
 		<monster name="Fishbone D" x="-1" y="-1" z="6" spawntime="60" />
@@ -9456,9 +9342,6 @@
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Fraccion" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3460" centery="3625" centerz="6" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3634" centery="3625" centerz="6" radius="1">
 		<monster name="Fishbone D" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
@@ -9481,15 +9364,6 @@
 	</spawn>
 	<spawn centerx="3625" centery="3628" centerz="6" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3425" centery="3629" centerz="6" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3435" centery="3629" centerz="6" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3449" centery="3630" centerz="6" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3620" centery="3630" centerz="6" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
@@ -9728,20 +9602,9 @@
 	<spawn centerx="3938" centery="3676" centerz="6" radius="1">
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3563" centery="3677" centerz="6" radius="1">
-		<monster name="Hollow Wolf" x="1" y="-1" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3949" centery="3677" centerz="6" radius="1">
 		<monster name="Fraccion" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3543" centery="3678" centerz="6" radius="1">
-		<monster name="Hollow Wolf" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Hollow Wolf" x="-1" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3552" centery="3678" centerz="6" radius="1">
-		<monster name="Hollow Wolf" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Hollow Wolf" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3687" centery="3679" centerz="6" radius="1">
 		<monster name="Fishbone D" x="-1" y="1" z="6" spawntime="60" />
@@ -9769,9 +9632,9 @@
 	<spawn centerx="3953" centery="3681" centerz="6" radius="1">
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3560" centery="3683" centerz="6" radius="1">
-		<monster name="Hollow Wolf" x="-1" y="-1" z="6" spawntime="60" />
+	<spawn centerx="3557" centery="3683" centerz="6" radius="1">
 		<monster name="Hollow Wolf" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="0" z="6" spawntime="5239552" />
 	</spawn>
 	<spawn centerx="3935" centery="3683" centerz="6" radius="1">
 		<monster name="Fraccion" x="0" y="-1" z="6" spawntime="60" />
@@ -9780,6 +9643,10 @@
 	<spawn centerx="3981" centery="3683" centerz="6" radius="1">
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3548" centery="3684" centerz="6" radius="1">
+		<monster name="Hollow Wolf" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="0" y="1" z="6" spawntime="5239552" />
+	</spawn>
 	<spawn centerx="3684" centery="3684" centerz="6" radius="1">
 		<monster name="Fishbone D" x="-1" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -9787,22 +9654,9 @@
 		<monster name="Fraccion" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3547" centery="3685" centerz="6" radius="1">
-		<monster name="Hollow Wolf" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3554" centery="3685" centerz="6" radius="1">
-		<monster name="Hollow Wolf" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3566" centery="3685" centerz="6" radius="1">
-		<monster name="Hollow Wolf" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Hollow Wolf" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3665" centery="3685" centerz="6" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3542" centery="3686" centerz="6" radius="1">
-		<monster name="Hollow Wolf" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3678" centery="3686" centerz="6" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
@@ -9836,15 +9690,8 @@
 	<spawn centerx="4102" centery="3688" centerz="6" radius="1">
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3559" centery="3689" centerz="6" radius="1">
-		<monster name="Hollow Wolf" x="0" y="-1" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3683" centery="3690" centerz="6" radius="1">
 		<monster name="Fishbone D" x="-1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3550" centery="3691" centerz="6" radius="1">
-		<monster name="Hollow Wolf" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Hollow Wolf" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3943" centery="3691" centerz="6" radius="1">
 		<monster name="Fraccion" x="1" y="-1" z="6" spawntime="60" />
@@ -9860,25 +9707,19 @@
 		<monster name="Fraccion" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3549" centery="3693" centerz="6" radius="1">
+		<monster name="Hollow Wolf" x="-1" y="0" z="6" spawntime="5239552" />
+		<monster name="Hollow Wolf" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3556" centery="3693" centerz="6" radius="1">
+		<monster name="Hollow Wolf" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="0" z="6" spawntime="5239552" />
+	</spawn>
 	<spawn centerx="3677" centery="3693" centerz="6" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3691" centery="3693" centerz="6" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3554" centery="3694" centerz="6" radius="1">
-		<monster name="Hollow Wolf" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Hollow Wolf" x="-1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3562" centery="3694" centerz="6" radius="1">
-		<monster name="Hollow Wolf" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3541" centery="3695" centerz="6" radius="1">
-		<monster name="Hollow Wolf" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Hollow Wolf" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3567" centery="3696" centerz="6" radius="1">
-		<monster name="Hollow Wolf" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3696" centery="3696" centerz="6" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
@@ -9890,13 +9731,6 @@
 	<spawn centerx="3670" centery="3697" centerz="6" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Fishbone D" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3548" centery="3698" centerz="6" radius="1">
-		<monster name="Hollow Wolf" x="0" y="-1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3557" centery="3698" centerz="6" radius="1">
-		<monster name="Hollow Wolf" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Hollow Wolf" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3679" centery="3698" centerz="6" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
@@ -13860,6 +13694,10 @@
 		<monster name="Mini Fisher" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Mini Fisher" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3695" centery="3300" centerz="7" radius="1">
+		<monster name="Mini Fisher" x="-1" y="0" z="7" spawntime="5239552" />
+		<monster name="Mini Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3725" centery="3300" centerz="7" radius="1">
 		<monster name="Mini Fisher" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Mini Fisher" x="1" y="1" z="7" spawntime="60" />
@@ -13873,8 +13711,8 @@
 		<monster name="Rungokai Bandit" x="0" y="1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3696" centery="3302" centerz="7" radius="1">
-		<monster name="Mini Fisher" x="1" y="1" z="7" spawntime="60" />
+	<spawn centerx="3684" centery="3302" centerz="7" radius="1">
+		<monster name="Mini Fisher" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3465" centery="3303" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
@@ -13903,10 +13741,6 @@
 		<monster name="Hollow Wolf" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Hollow Wolf" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3685" centery="3306" centerz="7" radius="1">
-		<monster name="Mini Fisher" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Mini Fisher" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3581" centery="3307" centerz="7" radius="1">
 		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -13917,15 +13751,12 @@
 		<monster name="Gillian" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Gillian" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3705" centery="3309" centerz="7" radius="1">
+		<monster name="Mini Fisher" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Mini Fisher" x="1" y="0" z="7" spawntime="5239552" />
+	</spawn>
 	<spawn centerx="3560" centery="3310" centerz="7" radius="1">
 		<monster name="Hollow Wolf" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3676" centery="3310" centerz="7" radius="1">
-		<monster name="Mini Fisher" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3705" centery="3310" centerz="7" radius="1">
-		<monster name="Mini Fisher" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Mini Fisher" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3582" centery="3312" centerz="7" radius="1">
 		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
@@ -13941,6 +13772,9 @@
 		<monster name="Hollow Wolf" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Hollow Wolf" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3696" centery="3314" centerz="7" radius="1">
+		<monster name="Mini Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3586" centery="3315" centerz="7" radius="1">
 		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Hollow Wolf" x="1" y="0" z="7" spawntime="60" />
@@ -13949,12 +13783,16 @@
 		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Hollow Wolf" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3677" centery="3316" centerz="7" radius="1">
+		<monster name="Mini Fisher" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Mini Fisher" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Mini Fisher" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3596" centery="3319" centerz="7" radius="1">
 		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3672" centery="3319" centerz="7" radius="1">
-		<monster name="Mini Fisher" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Mini Fisher" x="1" y="-1" z="7" spawntime="60" />
+	<spawn centerx="3690" centery="3319" centerz="7" radius="1">
+		<monster name="Mini Fisher" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3559" centery="3321" centerz="7" radius="1">
 		<monster name="Hollow Wolf" x="-1" y="-1" z="7" spawntime="60" />
@@ -13979,8 +13817,9 @@
 		<monster name="Mini Fisher" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Mini Fisher" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3707" centery="3322" centerz="7" radius="1">
-		<monster name="Mini Fisher" x="-1" y="1" z="7" spawntime="60" />
+	<spawn centerx="3658" centery="3322" centerz="7" radius="1">
+		<monster name="Mini Fisher" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Mini Fisher" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3478" centery="3323" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="0" z="7" spawntime="60" />
@@ -13994,12 +13833,15 @@
 		<monster name="Mini Fisher" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Mini Fisher" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3665" centery="3324" centerz="7" radius="1">
-		<monster name="Mini Fisher" x="1" y="-1" z="7" spawntime="60" />
+	<spawn centerx="3709" centery="3324" centerz="7" radius="1">
+		<monster name="Mini Fisher" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3573" centery="3325" centerz="7" radius="1">
 		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Hollow Wolf" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3697" centery="3326" centerz="7" radius="1">
+		<monster name="Mini Fisher" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3481" centery="3328" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
@@ -14013,6 +13855,10 @@
 		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Hollow Wolf" x="1" y="0" z="7" spawntime="60" />
 		<monster name="Hollow Wolf" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3683" centery="3329" centerz="7" radius="1">
+		<monster name="Mini Fisher" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Mini Fisher" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3560" centery="3330" centerz="7" radius="1">
 		<monster name="Hollow Wolf" x="0" y="-1" z="7" spawntime="60" />
@@ -14036,10 +13882,6 @@
 	<spawn centerx="3602" centery="3331" centerz="7" radius="1">
 		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3705" centery="3331" centerz="7" radius="1">
-		<monster name="Mini Fisher" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Mini Fisher" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3623" centery="3332" centerz="7" radius="1">
 		<monster name="Hollow Wolf" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Hollow Wolf" x="0" y="1" z="7" spawntime="60" />
@@ -14059,17 +13901,22 @@
 		<monster name="Hollow Wolf" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Hollow Wolf" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3684" centery="3336" centerz="7" radius="1">
-		<monster name="Mini Fisher" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Mini Fisher" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3694" centery="3336" centerz="7" radius="1">
+	<spawn centerx="3675" centery="3336" centerz="7" radius="1">
 		<monster name="Mini Fisher" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Mini Fisher" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Mini Fisher" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3688" centery="3337" centerz="7" radius="1">
+		<monster name="Mini Fisher" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Mini Fisher" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3485" centery="3338" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3700" centery="3338" centerz="7" radius="1">
+		<monster name="Mini Fisher" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3573" centery="3340" centerz="7" radius="1">
 		<monster name="Hollow Wolf" x="-1" y="-1" z="7" spawntime="60" />
@@ -14709,29 +14556,14 @@
 	<spawn centerx="3624" centery="3434" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3396" centery="3437" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3409" centery="3438" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3705" centery="3442" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3392" centery="3445" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3684" centery="3445" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3382" centery="3447" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3408" centery="3447" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3581" centery="3452" centerz="7" radius="1">
 		<npc name="Jinta" x="0" y="0" z="7" spawntime="60" />
@@ -14741,17 +14573,11 @@
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3417" centery="3453" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3418" centery="3460" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3395" centery="3454" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3370" centery="3459" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3409" centery="3460" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3471" centery="3462" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3668" centery="3462" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
@@ -14763,14 +14589,8 @@
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3383" centery="3463" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3530" centery="3463" centerz="7" radius="1">
 		<npc name="Isshin Kurosaki" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3424" centery="3464" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3514" centery="3464" centerz="7" radius="1">
 		<npc name="Kurotsuchi" x="0" y="0" z="7" spawntime="60" />
@@ -14782,16 +14602,19 @@
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3397" centery="3466" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3421" centery="3465" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3715" centery="3467" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3413" centery="3468" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3462" centery="3469" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3478" centery="3472" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3514" centery="3473" centerz="7" radius="1">
 		<npc name="Hikari" x="0" y="0" z="7" spawntime="60" />
@@ -14801,27 +14624,25 @@
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3404" centery="3474" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3408" centery="3475" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3370" centery="3475" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3388" centery="3476" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3421" centery="3476" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3422" centery="3475" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3693" centery="3476" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3475" centery="3478" centerz="7" radius="1">
+	<spawn centerx="3493" centery="3478" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Wolf" x="1" y="0" z="7" spawntime="5239552" />
+	</spawn>
+	<spawn centerx="3481" centery="3479" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3491" centery="3481" centerz="7" radius="1">
+	<spawn centerx="3421" centery="3481" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3600" centery="3481" centerz="7" radius="7">
@@ -14836,58 +14657,23 @@
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3482" centery="3482" centerz="7" radius="1">
-		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3664" centery="3482" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="-1" y="1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3431" centery="3483" centerz="7" radius="1">
-		<monster name="Rungokai Bandit" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3408" centery="3484" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3443" centery="3484" centerz="7" radius="1">
-		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3467" centery="3484" centerz="7" radius="1">
+	<spawn centerx="3462" centery="3484" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3378" centery="3486" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3428" centery="3487" centerz="7" radius="1">
-		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3436" centery="3487" centerz="7" radius="1">
-		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="-1" y="1" z="7" spawntime="60" />
+	<spawn centerx="3438" centery="3486" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3724" centery="3487" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3447" centery="3488" centerz="7" radius="1">
-		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3442" centery="3489" centerz="7" radius="1">
-		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3456" centery="3489" centerz="7" radius="1">
+	<spawn centerx="3449" centery="3489" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3699" centery="3489" centerz="7" radius="1">
@@ -14895,31 +14681,14 @@
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3431" centery="3490" centerz="7" radius="1">
-		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3379" centery="3493" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3369" centery="3492" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3403" centery="3493" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3387" centery="3492" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3438" centery="3492" centerz="7" radius="1">
-		<monster name="Rungokai Bandit" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3425" centery="3493" centerz="7" radius="1">
-		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3444" centery="3493" centerz="7" radius="1">
-		<monster name="Rungokai Bandit" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
+	<spawn centerx="3462" centery="3493" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3668" centery="3493" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
@@ -14937,10 +14706,16 @@
 		<monster name="Snake Hollow" x="-1" y="1" z="7" spawntime="60" />
 		<monster name="Snake Hollow" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3405" centery="3496" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3372" centery="3497" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3449" centery="3498" centerz="7" radius="1">
+	<spawn centerx="3435" centery="3497" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3420" centery="3498" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3397" centery="3500" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3482" centery="3501" centerz="7" radius="1">
@@ -14960,40 +14735,56 @@
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3401" centery="3502" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3463" centery="3504" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3390" centery="3505" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3384" centery="3506" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3406" centery="3507" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3381" centery="3507" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3547" centery="3507" centerz="7" radius="1">
 		<npc name="Touma" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3375" centery="3508" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3414" centery="3508" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3714" centery="3508" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3446" centery="3509" centerz="7" radius="1">
-		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3398" centery="3509" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3491" centery="3509" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3365" centery="3514" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3391" centery="3510" centerz="7" radius="1">
+		<monster name="Bandit" x="-1" y="0" z="7" spawntime="5239552" />
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3400" centery="3514" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3407" centery="3510" centerz="7" radius="1">
+		<monster name="Bandit" x="-1" y="0" z="7" spawntime="5239552" />
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3375" centery="3512" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="-1" z="7" spawntime="5239552" />
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3421" centery="3512" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="-1" z="7" spawntime="5239552" />
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3398" centery="3515" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3414" centery="3515" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3381" centery="3516" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3457" centery="3516" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -15001,26 +14792,47 @@
 	<spawn centerx="3551" centery="3516" centerz="7" radius="1">
 		<npc name="Yamamoto" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3381" centery="3517" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3420" centery="3519" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Bandit" x="1" y="0" z="7" spawntime="5239552" />
 	</spawn>
-	<spawn centerx="3409" centery="3518" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3374" centery="3520" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Bandit" x="0" y="1" z="7" spawntime="5239552" />
 	</spawn>
-	<spawn centerx="3446" centery="3523" centerz="7" radius="1">
-		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3398" centery="3520" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Bandit" x="1" y="0" z="7" spawntime="5239552" />
 	</spawn>
-	<spawn centerx="3369" centery="3524" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3386" centery="3521" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="-1" z="7" spawntime="5239552" />
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3386" centery="3524" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3409" centery="3521" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="-1" z="7" spawntime="5239552" />
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3393" centery="3522" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Bandit" x="1" y="0" z="7" spawntime="5239552" />
 	</spawn>
 	<spawn centerx="3488" centery="3525" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3398" centery="3526" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3381" centery="3526" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3395" centery="3526" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3414" centery="3526" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3422" centery="3526" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3406" centery="3527" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3463" centery="3527" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -15030,24 +14842,35 @@
 		<monster name="Arrancar Hollow" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Arrancar Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3366" centery="3529" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3438" centery="3530" centerz="7" radius="1">
-		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3444" centery="3530" centerz="7" radius="1">
-		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
+	<spawn centerx="3428" centery="3529" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Bandit" x="1" y="0" z="7" spawntime="5239552" />
 	</spawn>
 	<spawn centerx="3665" centery="3530" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3413" centery="3531" centerz="7" radius="1">
+		<monster name="Bandit" x="-1" y="0" z="7" spawntime="5239552" />
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3418" centery="3531" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Bandit" x="0" y="1" z="7" spawntime="5239552" />
+	</spawn>
 	<spawn centerx="3689" centery="3531" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3375" centery="3532" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Bandit" x="0" y="1" z="7" spawntime="5239552" />
+	</spawn>
+	<spawn centerx="3400" centery="3532" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Bandit" x="1" y="0" z="7" spawntime="5239552" />
+	</spawn>
+	<spawn centerx="3387" centery="3533" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Bandit" x="1" y="0" z="7" spawntime="5239552" />
 	</spawn>
 	<spawn centerx="3474" centery="3533" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -15061,15 +14884,12 @@
 	<spawn centerx="3667" centery="3534" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3427" centery="3535" centerz="7" radius="1">
-		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
+	<spawn centerx="3397" centery="3535" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="-1" z="7" spawntime="5239552" />
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3433" centery="3535" centerz="7" radius="1">
-		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="-1" y="1" z="7" spawntime="60" />
+	<spawn centerx="3411" centery="3535" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3658" centery="3535" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
@@ -15080,38 +14900,49 @@
 	<spawn centerx="3703" centery="3535" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3385" centery="3536" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3431" centery="3536" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Bandit" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3422" centery="3537" centerz="7" radius="1">
-		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3418" centery="3538" centerz="7" radius="1">
-		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3448" centery="3538" centerz="7" radius="1">
-		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3407" centery="3539" centerz="7" radius="1">
-		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3427" centery="3537" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Bandit" x="0" y="1" z="7" spawntime="5239552" />
 	</spawn>
 	<spawn centerx="3701" centery="3539" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3427" centery="3540" centerz="7" radius="1">
-		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
+	<spawn centerx="3381" centery="3540" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3398" centery="3540" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3406" centery="3540" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3411" centery="3540" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3422" centery="3540" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3376" centery="3541" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Bandit" x="0" y="1" z="7" spawntime="5239552" />
+	</spawn>
+	<spawn centerx="3386" centery="3544" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="-1" z="7" spawntime="5239552" />
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3652" centery="3544" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3707" centery="3544" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3404" centery="3545" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Bandit" x="1" y="0" z="7" spawntime="5239552" />
 	</spawn>
 	<spawn centerx="3669" centery="3545" centerz="7" radius="1">
 		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -15120,28 +14951,24 @@
 	<spawn centerx="3682" centery="3545" centerz="7" radius="1">
 		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3416" centery="3546" centerz="7" radius="1">
-		<monster name="Rungokai Bandit" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="-1" y="1" z="7" spawntime="60" />
+	<spawn centerx="3392" centery="3546" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Bandit" x="0" y="1" z="7" spawntime="5239552" />
 	</spawn>
-	<spawn centerx="3464" centery="3547" centerz="7" radius="1">
-		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
+	<spawn centerx="3420" centery="3546" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Bandit" x="1" y="0" z="7" spawntime="5239552" />
 	</spawn>
-	<spawn centerx="3456" centery="3548" centerz="7" radius="1">
-		<monster name="Rungokai Bandit" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
+	<spawn centerx="3416" centery="3547" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="-1" z="7" spawntime="5239552" />
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3647" centery="3548" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3469" centery="3549" centerz="7" radius="1">
-		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3375" centery="3550" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Bandit" x="0" y="1" z="7" spawntime="5239552" />
 	</spawn>
 	<spawn centerx="3545" centery="3550" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -15149,12 +14976,28 @@
 	<spawn centerx="3706" centery="3550" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3448" centery="3551" centerz="7" radius="1">
+	<spawn centerx="3398" centery="3551" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3404" centery="3551" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Bandit" x="1" y="0" z="7" spawntime="5239552" />
+	</spawn>
+	<spawn centerx="3455" centery="3551" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3465" centery="3551" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3676" centery="3551" centerz="7" radius="1">
 		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Furie Hollow" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3381" centery="3552" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3411" centery="3552" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3550" centery="3552" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
@@ -15166,29 +15009,8 @@
 		<monster name="Furie Hollow" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3453" centery="3553" centerz="7" radius="1">
-		<monster name="Rungokai Bandit" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3464" centery="3553" centerz="7" radius="1">
-		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3471" centery="3553" centerz="7" radius="1">
-		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3648" centery="3553" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3457" centery="3554" centerz="7" radius="1">
-		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Rungokai Bandit" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3670" centery="3554" centerz="7" radius="1">
 		<monster name="Furie Hollow" x="1" y="-1" z="7" spawntime="60" />
@@ -15213,9 +15035,18 @@
 	<spawn centerx="3685" centery="3557" centerz="7" radius="1">
 		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3454" centery="3558" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3668" centery="3558" centerz="7" radius="1">
 		<monster name="Furie Hollow" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3429" centery="3559" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3410" centery="3560" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3710" centery="3560" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -15236,9 +15067,6 @@
 	<spawn centerx="3701" centery="3563" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3448" centery="3564" centerz="7" radius="1">
-		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3547" centery="3564" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -15248,7 +15076,13 @@
 	<spawn centerx="3727" centery="3565" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3457" centery="3567" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3682" centery="3567" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3471" centery="3568" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3668" centery="3568" centerz="7" radius="1">
@@ -15260,19 +15094,25 @@
 	<spawn centerx="3723" centery="3571" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3429" centery="3572" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3548" centery="3572" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3690" centery="3572" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3451" centery="3573" centerz="7" radius="1">
+	<spawn centerx="3442" centery="3573" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3478" centery="3573" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3675" centery="3574" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3436" centery="3575" centerz="7" radius="1">
+	<spawn centerx="3409" centery="3575" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3644" centery="3575" centerz="7" radius="1">
@@ -15287,11 +15127,11 @@
 	<spawn centerx="4030" centery="3576" centerz="7" radius="1">
 		<monster name="Elite Grand Fisher" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3423" centery="3577" centerz="7" radius="1">
-		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3543" centery="3577" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3407" centery="3578" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3696" centery="3578" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -15338,6 +15178,12 @@
 	<spawn centerx="3727" centery="3583" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3419" centery="3584" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3469" centery="3584" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3630" centery="3584" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -15379,6 +15225,9 @@
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3460" centery="3588" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3532" centery="3588" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
@@ -15391,6 +15240,9 @@
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3404" centery="3589" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3456" centery="3589" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -15456,8 +15308,14 @@
 	<spawn centerx="3449" centery="3594" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3473" centery="3594" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3426" centery="3595" centerz="7" radius="1">
 		<monster name="Snake Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3502" centery="3595" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3539" centery="3595" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="0" z="7" spawntime="60" />
@@ -15516,6 +15374,12 @@
 		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3414" centery="3601" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3475" centery="3601" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3580" centery="3602" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -15525,6 +15389,9 @@
 	<spawn centerx="3678" centery="3602" centerz="7" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3519" centery="3603" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4030" centery="3603" centerz="7" radius="1">
 		<monster name="Elite Grand Fisher" x="0" y="0" z="7" spawntime="60" />
@@ -15536,6 +15403,9 @@
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3727" centery="3604" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3489" centery="3605" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3523" centery="3605" centerz="7" radius="1">
@@ -15566,6 +15436,9 @@
 	<spawn centerx="3732" centery="3607" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3439" centery="3608" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3591" centery="3608" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -15578,6 +15451,9 @@
 	<spawn centerx="4033" centery="3608" centerz="7" radius="1">
 		<monster name="Elite Grand Fisher" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Elite Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3455" centery="3609" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3529" centery="3609" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
@@ -15594,8 +15470,14 @@
 		<monster name="Elite Grand Fisher" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Elite Grand Fisher" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3404" centery="3610" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3651" centery="3610" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3392" centery="3611" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3585" centery="3611" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
@@ -15642,6 +15524,9 @@
 	</spawn>
 	<spawn centerx="4014" centery="3613" centerz="7" radius="1">
 		<monster name="Elite Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3476" centery="3614" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3618" centery="3614" centerz="7" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="7" spawntime="60" />
@@ -15716,6 +15601,9 @@
 	<spawn centerx="3703" centery="3621" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3436" centery="3622" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3665" centery="3622" centerz="7" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -15744,6 +15632,9 @@
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3754" centery="3624" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3419" centery="3625" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3499" centery="3625" centerz="7" radius="1">
@@ -15796,6 +15687,9 @@
 	<spawn centerx="4018" centery="3630" centerz="7" radius="1">
 		<monster name="Elite Grand Fisher" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3455" centery="3631" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3497" centery="3631" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -15811,6 +15705,9 @@
 	</spawn>
 	<spawn centerx="3745" centery="3631" centerz="7" radius="1">
 		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3447" centery="3632" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3640" centery="3632" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -16338,6 +16235,9 @@
 		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Furie Hollow" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3483" centery="3674" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3535" centery="3674" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -16364,21 +16264,11 @@
 		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Furie Hollow" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3554" centery="3677" centerz="7" radius="1">
-		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3502" centery="3677" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4020" centery="3677" centerz="7" radius="1">
 		<monster name="Elite Grand Fisher" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3544" centery="3678" centerz="7" radius="1">
-		<monster name="Hollow Wolf" x="-1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3560" centery="3678" centerz="7" radius="1">
-		<monster name="Hollow Wolf" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Hollow Wolf" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3567" centery="3678" centerz="7" radius="1">
-		<monster name="Hollow Wolf" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4101" centery="3678" centerz="7" radius="1">
 		<monster name="Fraccion" x="0" y="0" z="7" spawntime="60" />
@@ -16395,9 +16285,9 @@
 		<monster name="Elite Grand Fisher" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Elite Grand Fisher" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3550" centery="3680" centerz="7" radius="1">
-		<monster name="Hollow Wolf" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Hollow Wolf" x="-1" y="1" z="7" spawntime="60" />
+	<spawn centerx="3553" centery="3680" centerz="7" radius="1">
+		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3666" centery="3680" centerz="7" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
@@ -16437,11 +16327,6 @@
 		<monster name="Elite Grand Fisher" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Elite Grand Fisher" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3557" centery="3684" centerz="7" radius="1">
-		<monster name="Hollow Wolf" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Hollow Wolf" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3697" centery="3684" centerz="7" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Fishbone D" x="0" y="1" z="7" spawntime="60" />
@@ -16460,10 +16345,6 @@
 		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Furie Hollow" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3541" centery="3685" centerz="7" radius="1">
-		<monster name="Hollow Wolf" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Hollow Wolf" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3686" centery="3685" centerz="7" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
@@ -16472,9 +16353,10 @@
 	<spawn centerx="3767" centery="3685" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3567" centery="3686" centerz="7" radius="1">
-		<monster name="Hollow Wolf" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Hollow Wolf" x="-1" y="1" z="7" spawntime="60" />
+	<spawn centerx="3554" centery="3686" centerz="7" radius="1">
+		<monster name="Hollow Wolf" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3673" centery="3686" centerz="7" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="7" spawntime="60" />
@@ -16485,8 +16367,9 @@
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3553" centery="3687" centerz="7" radius="1">
-		<monster name="Hollow Wolf" x="1" y="0" z="7" spawntime="60" />
+	<spawn centerx="3544" centery="3687" centerz="7" radius="1">
+		<monster name="Hollow Wolf" x="0" y="-1" z="7" spawntime="5239552" />
+		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3666" centery="3687" centerz="7" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="7" spawntime="60" />
@@ -16500,10 +16383,6 @@
 	<spawn centerx="3434" centery="3688" centerz="7" radius="1">
 		<monster name="Furie Hollow" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3547" centery="3688" centerz="7" radius="1">
-		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Hollow Wolf" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3678" centery="3688" centerz="7" radius="1">
 		<monster name="Fishbone D" x="-1" y="0" z="7" spawntime="60" />
@@ -16523,10 +16402,6 @@
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3562" centery="3690" centerz="7" radius="1">
-		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Hollow Wolf" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3421" centery="3691" centerz="7" radius="1">
 		<monster name="Furie Hollow" x="1" y="-1" z="7" spawntime="60" />
@@ -16549,10 +16424,6 @@
 		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Furie Hollow" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3553" centery="3692" centerz="7" radius="1">
-		<monster name="Hollow Wolf" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Hollow Wolf" x="-1" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3588" centery="3692" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -16562,15 +16433,13 @@
 	<spawn centerx="3762" centery="3692" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3541" centery="3693" centerz="7" radius="1">
-		<monster name="Hollow Wolf" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3547" centery="3693" centerz="7" radius="1">
-		<monster name="Hollow Wolf" x="-1" y="0" z="7" spawntime="60" />
+	<spawn centerx="3548" centery="3693" centerz="7" radius="1">
 		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="0" y="1" z="7" spawntime="5239552" />
 	</spawn>
-	<spawn centerx="3567" centery="3693" centerz="7" radius="1">
-		<monster name="Hollow Wolf" x="-1" y="1" z="7" spawntime="60" />
+	<spawn centerx="3557" centery="3694" centerz="7" radius="1">
+		<monster name="Hollow Wolf" x="-1" y="0" z="7" spawntime="5239552" />
+		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3738" centery="3694" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="-1" z="7" spawntime="60" />
@@ -16606,17 +16475,6 @@
 		<monster name="Furie Hollow" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Furie Hollow" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3545" centery="3698" centerz="7" radius="1">
-		<monster name="Hollow Wolf" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Hollow Wolf" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3552" centery="3698" centerz="7" radius="1">
-		<monster name="Hollow Wolf" x="-1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3562" centery="3698" centerz="7" radius="1">
-		<monster name="Hollow Wolf" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Hollow Wolf" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3673" centery="3698" centerz="7" radius="1">
 		<monster name="Fishbone D" x="0" y="-1" z="7" spawntime="60" />
@@ -23794,6 +23652,10 @@
 	<spawn centerx="4200" centery="3681" centerz="8" radius="1">
 		<monster name="Elite Grand Fisher" x="-1" y="-1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3557" centery="3682" centerz="8" radius="1">
+		<monster name="Hollow Wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Hollow Wolf" x="0" y="1" z="8" spawntime="5239552" />
+	</spawn>
 	<spawn centerx="3932" centery="3682" centerz="8" radius="1">
 		<monster name="Fraccion" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Fraccion" x="-1" y="1" z="8" spawntime="60" />
@@ -23804,6 +23666,10 @@
 		<monster name="Jagdarmee" x="-1" y="0" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3548" centery="3683" centerz="8" radius="1">
+		<monster name="Hollow Wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="0" z="8" spawntime="5239552" />
 	</spawn>
 	<spawn centerx="3626" centery="3683" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
@@ -23934,6 +23800,10 @@
 		<monster name="Acidwire" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Acidwire" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3545" centery="3691" centerz="8" radius="1">
+		<monster name="Hollow Wolf" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="0" z="8" spawntime="5239552" />
+	</spawn>
 	<spawn centerx="2420" centery="3692" centerz="8" radius="1">
 		<monster name="Acidwire" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Acidwire" x="1" y="-1" z="8" spawntime="60" />
@@ -23944,6 +23814,10 @@
 		<monster name="Acidwire" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Acidwire" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Acidwire" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3557" centery="3692" centerz="8" radius="1">
+		<monster name="Hollow Wolf" x="0" y="-1" z="8" spawntime="5239552" />
+		<monster name="Hollow Wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4388" centery="3692" centerz="8" radius="1">
 		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
@@ -24011,6 +23885,9 @@
 	</spawn>
 	<spawn centerx="3522" centery="3697" centerz="8" radius="1">
 		<monster name="Furie Hollow" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3554" centery="3697" centerz="8" radius="1">
+		<monster name="Hollow Wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4150" centery="3697" centerz="8" radius="1">
 		<monster name="Elite Grand Fisher" x="0" y="0" z="8" spawntime="60" />
