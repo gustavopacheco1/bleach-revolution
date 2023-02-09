@@ -5227,7 +5227,8 @@
 		<monster name="Bandit" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3600" centery="3480" centerz="5" radius="7">
-		<monster name="Punching Bag" x="-5" y="0" z="5" spawntime="60" />
+		<monster name="Punching Bag" x="-5" y="-3" z="5" spawntime="60" />
+		<monster name="Punching Bag" x="-5" y="1" z="5" spawntime="60" />
 		<monster name="Punching Bag" x="5" y="2" z="5" spawntime="60" />
 		<monster name="Punching Bag" x="0" y="4" z="5" spawntime="60" />
 	</spawn>
@@ -8885,8 +8886,11 @@
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3600" centery="3481" centerz="6" radius="7">
+		<monster name="Punching Bag" x="-5" y="-4" z="6" spawntime="60" />
 		<monster name="Punching Bag" x="5" y="-4" z="6" spawntime="60" />
+		<monster name="Punching Bag" x="-5" y="-1" z="6" spawntime="60" />
 		<monster name="Punching Bag" x="5" y="-1" z="6" spawntime="60" />
+		<monster name="Punching Bag" x="-5" y="3" z="6" spawntime="60" />
 		<monster name="Punching Bag" x="0" y="3" z="6" spawntime="60" />
 		<monster name="Punching Bag" x="5" y="3" z="6" spawntime="60" />
 	</spawn>
@@ -14648,7 +14652,10 @@
 	<spawn centerx="3600" centery="3481" centerz="7" radius="7">
 		<monster name="Punching Bag" x="0" y="-4" z="7" spawntime="60" />
 		<monster name="Punching Bag" x="5" y="-4" z="7" spawntime="60" />
+		<monster name="Punching Bag" x="-5" y="-3" z="7" spawntime="60" />
+		<monster name="Punching Bag" x="-5" y="0" z="7" spawntime="60" />
 		<npc name="Yoshino" x="-2" y="0" z="7" spawntime="60" />
+		<monster name="Punching Bag" x="-5" y="3" z="7" spawntime="60" />
 		<monster name="Punching Bag" x="0" y="3" z="7" spawntime="60" />
 		<monster name="Punching Bag" x="5" y="3" z="7" spawntime="60" />
 	</spawn>
