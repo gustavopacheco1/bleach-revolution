@@ -5449,6 +5449,14 @@
 		<monster name="Elite Bandit" x="1" y="-1" z="5" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3668" centery="3545" centerz="5" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3690" centery="3545" centerz="5" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3721" centery="3545" centerz="5" radius="1">
 		<monster name="Wolf" x="1" y="-1" z="5" spawntime="60" />
 		<monster name="Bandit" x="0" y="0" z="5" spawntime="60" />
@@ -5457,6 +5465,11 @@
 		<monster name="Elite Bandit" x="0" y="-1" z="5" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3680" centery="3546" centerz="5" radius="1">
+		<monster name="Fishbone D" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3521" centery="3548" centerz="5" radius="1">
 		<monster name="Snake Hollow" x="-1" y="-1" z="5" spawntime="60" />
@@ -5497,6 +5510,12 @@
 		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Elite Bandit" x="-1" y="1" z="5" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3660" centery="3565" centerz="5" radius="1">
+		<monster name="Fishbone D" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="1" z="5" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3492" centery="3569" centerz="5" radius="1">
 		<monster name="Snake Hollow" x="-1" y="-1" z="5" spawntime="60" />
@@ -5547,27 +5566,10 @@
 		<monster name="Elite Bandit" x="1" y="0" z="5" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="1" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="3622" centery="3612" centerz="5" radius="1">
+	<spawn centerx="3627" centery="3626" centerz="5" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
 		<monster name="Fishbone D" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3613" centery="3613" centerz="5" radius="1">
-		<monster name="Fishbone D" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3633" centery="3613" centerz="5" radius="1">
-		<monster name="Fishbone D" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Fishbone D" x="0" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3618" centery="3621" centerz="5" radius="1">
-		<monster name="Fishbone D" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Fishbone D" x="1" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3626" centery="3624" centerz="5" radius="1">
-		<monster name="Fishbone D" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3633" centery="3624" centerz="5" radius="1">
-		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
-		<monster name="Fishbone D" x="-1" y="0" z="5" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3659" centery="3628" centerz="5" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="5" spawntime="60" />
@@ -5576,18 +5578,15 @@
 		<monster name="Elite Bandit" x="-1" y="1" z="5" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="3612" centery="3630" centerz="5" radius="1">
-		<monster name="Fishbone D" x="0" y="-1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3627" centery="3630" centerz="5" radius="1">
-		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
+	<spawn centerx="3620" centery="3632" centerz="5" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="3633" centery="3632" centerz="5" radius="1">
-		<monster name="Fishbone D" x="-1" y="1" z="5" spawntime="60" />
+	<spawn centerx="3615" centery="3635" centerz="5" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="3621" centery="3633" centerz="5" radius="1">
-		<monster name="Fishbone D" x="1" y="1" z="5" spawntime="60" />
+	<spawn centerx="3627" centery="3636" centerz="5" radius="1">
+		<monster name="Fishbone D" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3658" centery="3636" centerz="5" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="5" spawntime="60" />
@@ -5595,17 +5594,6 @@
 		<monster name="Elite Bandit" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Elite Bandit" x="-1" y="1" z="5" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3612" centery="3638" centerz="5" radius="1">
-		<monster name="Fishbone D" x="0" y="-1" z="5" spawntime="60" />
-		<monster name="Fishbone D" x="1" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3619" centery="3639" centerz="5" radius="1">
-		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3628" centery="3639" centerz="5" radius="1">
-		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
-		<monster name="Fishbone D" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3657" centery="3642" centerz="5" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="5" spawntime="60" />
@@ -5648,6 +5636,12 @@
 		<monster name="Furie Hollow" x="-1" y="-1" z="5" spawntime="60" />
 		<monster name="Furie Hollow" x="1" y="-1" z="5" spawntime="60" />
 		<monster name="Furie Hollow" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3688" centery="3687" centerz="5" radius="1">
+		<monster name="Fishbone D" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3415" centery="3699" centerz="5" radius="1">
 		<monster name="Furie Hollow" x="0" y="0" z="5" spawntime="60" />
@@ -5747,19 +5741,6 @@
 		<monster name="Furie Hollow" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Furie Hollow" x="-1" y="1" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="3575" centery="3719" centerz="5" radius="1">
-		<monster name="Furie Hollow" x="0" y="1" z="5" spawntime="60" />
-		<monster name="Furie Hollow" x="1" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3570" centery="3720" centerz="5" radius="1">
-		<monster name="Furie Hollow" x="-1" y="-1" z="5" spawntime="60" />
-		<monster name="Furie Hollow" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Furie Hollow" x="-1" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3580" centery="3720" centerz="5" radius="1">
-		<monster name="Furie Hollow" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Furie Hollow" x="0" y="1" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="3406" centery="3722" centerz="5" radius="1">
 		<monster name="Furie Hollow" x="0" y="-1" z="5" spawntime="60" />
 		<monster name="Furie Hollow" x="0" y="0" z="5" spawntime="60" />
@@ -5768,34 +5749,14 @@
 		<monster name="Furie Hollow" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Furie Hollow" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="3576" centery="3723" centerz="5" radius="1">
-		<monster name="Furie Hollow" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Furie Hollow" x="0" y="1" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="3384" centery="3724" centerz="5" radius="1">
 		<monster name="Furie Hollow" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Furie Hollow" x="1" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3569" centery="3725" centerz="5" radius="1">
-		<monster name="Furie Hollow" x="0" y="-1" z="5" spawntime="60" />
 		<monster name="Furie Hollow" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3396" centery="3726" centerz="5" radius="1">
 		<monster name="Furie Hollow" x="0" y="-1" z="5" spawntime="60" />
 		<monster name="Furie Hollow" x="0" y="0" z="5" spawntime="60" />
 		<monster name="Furie Hollow" x="1" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3573" centery="3726" centerz="5" radius="1">
-		<monster name="Furie Hollow" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Furie Hollow" x="1" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3578" centery="3726" centerz="5" radius="1">
-		<monster name="Furie Hollow" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Furie Hollow" x="1" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="3583" centery="3726" centerz="5" radius="1">
-		<monster name="Furie Hollow" x="0" y="0" z="5" spawntime="60" />
-		<monster name="Furie Hollow" x="0" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3415" centery="3727" centerz="5" radius="1">
 		<monster name="Furie Hollow" x="1" y="-1" z="5" spawntime="60" />
@@ -5829,11 +5790,20 @@
 		<monster name="Furie Hollow" x="0" y="-1" z="5" spawntime="60" />
 		<monster name="Furie Hollow" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="3566" centery="3734" centerz="5" radius="1">
+		<monster name="Furie Hollow" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Furie Hollow" x="1" y="-1" z="5" spawntime="60" />
+		<monster name="Furie Hollow" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="3213" centery="3735" centerz="5" radius="1">
 		<monster name="Furie Hollow" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3219" centery="3735" centerz="5" radius="1">
 		<monster name="Furie Hollow" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="3572" centery="3735" centerz="5" radius="1">
+		<monster name="Furie Hollow" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Furie Hollow" x="-1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="3207" centery="3736" centerz="5" radius="1">
 		<monster name="Furie Hollow" x="0" y="0" z="5" spawntime="60" />
@@ -9054,20 +9024,24 @@
 		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3674" centery="3540" centerz="6" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="0" z="6" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3635" centery="3544" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3669" centery="3545" centerz="6" radius="1">
-		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Furie Hollow" x="1" y="1" z="6" spawntime="60" />
+	<spawn centerx="3660" centery="3546" centerz="6" radius="1">
+		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3680" centery="3545" centerz="6" radius="1">
-		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3665" centery="3547" centerz="6" radius="1">
-		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
+	<spawn centerx="3693" centery="3546" centerz="6" radius="1">
+		<monster name="Fishbone D" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3536" centery="3548" centerz="6" radius="1">
 		<monster name="Snake Hollow" x="-1" y="-1" z="6" spawntime="60" />
@@ -9076,16 +9050,14 @@
 		<monster name="Snake Hollow" x="-1" y="1" z="6" spawntime="60" />
 		<monster name="Snake Hollow" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3674" centery="3549" centerz="6" radius="1">
-		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
+	<spawn centerx="3681" centery="3548" centerz="6" radius="1">
+		<monster name="Fishbone D" x="-1" y="0" z="6" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3607" centery="3550" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3679" centery="3550" centerz="6" radius="1">
-		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3531" centery="3552" centerz="6" radius="1">
 		<monster name="Snake Hollow" x="-1" y="-1" z="6" spawntime="60" />
@@ -9099,18 +9071,6 @@
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3666" centery="3552" centerz="6" radius="1">
-		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Furie Hollow" x="-1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3673" centery="3553" centerz="6" radius="1">
-		<monster name="Furie Hollow" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3686" centery="3553" centerz="6" radius="1">
-		<monster name="Furie Hollow" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3587" centery="3554" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
@@ -9121,24 +9081,16 @@
 		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3677" centery="3554" centerz="6" radius="1">
-		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Furie Hollow" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3537" centery="3555" centerz="6" radius="1">
 		<monster name="Snake Hollow" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Snake Hollow" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Snake Hollow" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Snake Hollow" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3668" centery="3558" centerz="6" radius="1">
-		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3675" centery="3558" centerz="6" radius="1">
-		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3680" centery="3558" centerz="6" radius="1">
-		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
+	<spawn centerx="3664" centery="3563" centerz="6" radius="1">
+		<monster name="Fishbone D" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3634" centery="3564" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
@@ -9159,6 +9111,13 @@
 		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3652" centery="3568" centerz="6" radius="1">
+		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3663" centery="3570" centerz="6" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4028" centery="3571" centerz="6" radius="1">
 		<monster name="Fraccion" x="-1" y="-1" z="6" spawntime="60" />
@@ -9265,13 +9224,6 @@
 		<monster name="Elite Grand Fisher" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Elite Grand Fisher" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3625" centery="3612" centerz="6" radius="1">
-		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Fishbone D" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3631" centery="3612" centerz="6" radius="1">
-		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3662" centery="3612" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
@@ -9288,14 +9240,8 @@
 	<spawn centerx="4040" centery="3613" centerz="6" radius="1">
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3618" centery="3614" centerz="6" radius="1">
-		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3955" centery="3614" centerz="6" radius="1">
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3633" centery="3615" centerz="6" radius="1">
-		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4023" centery="3615" centerz="6" radius="1">
 		<monster name="Elite Grand Fisher" x="0" y="0" z="6" spawntime="60" />
@@ -9305,6 +9251,11 @@
 	</spawn>
 	<spawn centerx="3988" centery="3616" centerz="6" radius="1">
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3626" centery="3617" centerz="6" radius="1">
+		<monster name="Fishbone D" x="-1" y="0" z="6" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4004" centery="3617" centerz="6" radius="1">
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
@@ -9317,13 +9268,9 @@
 		<monster name="Fraccion" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3620" centery="3622" centerz="6" radius="1">
-		<monster name="Fishbone D" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3628" centery="3622" centerz="6" radius="1">
-		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Fishbone D" x="1" y="1" z="6" spawntime="60" />
+	<spawn centerx="3537" centery="3621" centerz="6" radius="1">
+		<monster name="Hollow Wolf" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3658" centery="3622" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
@@ -9346,7 +9293,13 @@
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Fraccion" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3634" centery="3625" centerz="6" radius="1">
+	<spawn centerx="3542" centery="3626" centerz="6" radius="1">
+		<monster name="Hollow Wolf" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Hollow Wolf" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3619" centery="3626" centerz="6" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Fishbone D" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3663" centery="3626" centerz="6" radius="1">
@@ -9362,16 +9315,10 @@
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Fraccion" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3612" centery="3628" centerz="6" radius="1">
+	<spawn centerx="3632" centery="3629" centerz="6" radius="1">
+		<monster name="Fishbone D" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Fishbone D" x="-1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3625" centery="3628" centerz="6" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3620" centery="3630" centerz="6" radius="1">
-		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Fishbone D" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4005" centery="3630" centerz="6" radius="1">
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
@@ -9380,39 +9327,27 @@
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Fraccion" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3745" centery="3631" centerz="6" radius="1">
-		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
+	<spawn centerx="3614" centery="3632" centerz="6" radius="1">
+		<monster name="Fishbone D" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3679" centery="3632" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3731" centery="3632" centerz="6" radius="1">
-		<monster name="Giant Snake" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3974" centery="3633" centerz="6" radius="1">
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Fraccion" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3634" centery="3634" centerz="6" radius="1">
-		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Fishbone D" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3620" centery="3635" centerz="6" radius="1">
-		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
+	<spawn centerx="3742" centery="3634" centerz="6" radius="1">
+		<monster name="Furie Hollow" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3686" centery="3635" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="-1" y="1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3725" centery="3635" centerz="6" radius="1">
-		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Giant Snake" x="-1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3738" centery="3635" centerz="6" radius="1">
-		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4035" centery="3635" centerz="6" radius="1">
 		<monster name="Elite Grand Fisher" x="-1" y="-1" z="6" spawntime="60" />
@@ -9423,15 +9358,19 @@
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3729" centery="3636" centerz="6" radius="1">
-		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="4027" centery="3636" centerz="6" radius="1">
 		<monster name="Elite Grand Fisher" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3624" centery="3637" centerz="6" radius="1">
+		<monster name="Fishbone D" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3663" centery="3637" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3734" centery="3637" centerz="6" radius="1">
+		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3955" centery="3637" centerz="6" radius="1">
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
@@ -9440,30 +9379,16 @@
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Fraccion" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3612" centery="3638" centerz="6" radius="1">
-		<monster name="Fishbone D" x="1" y="1" z="6" spawntime="60" />
+	<spawn centerx="3729" centery="3643" centerz="6" radius="1">
+		<monster name="Furie Hollow" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Furie Hollow" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Hollow" x="1" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3733" centery="3638" centerz="6" radius="1">
-		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Giant Snake" x="-1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3740" centery="3638" centerz="6" radius="1">
-		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Giant Snake" x="-1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3619" centery="3639" centerz="6" radius="1">
-		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Fishbone D" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3628" centery="3639" centerz="6" radius="1">
-		<monster name="Fishbone D" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3745" centery="3639" centerz="6" radius="1">
-		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Giant Snake" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3730" centery="3641" centerz="6" radius="1">
-		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
+	<spawn centerx="3739" centery="3643" centerz="6" radius="1">
+		<monster name="Furie Hollow" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Hollow" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3668" centery="3644" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="6" spawntime="60" />
@@ -9473,16 +9398,6 @@
 	<spawn centerx="3680" centery="3644" centerz="6" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3726" centery="3644" centerz="6" radius="1">
-		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3735" centery="3645" centerz="6" radius="1">
-		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Giant Snake" x="-1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3744" centery="3645" centerz="6" radius="1">
-		<monster name="Giant Snake" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4050" centery="3645" centerz="6" radius="1">
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
@@ -9610,18 +9525,12 @@
 		<monster name="Fraccion" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3687" centery="3679" centerz="6" radius="1">
-		<monster name="Fishbone D" x="-1" y="1" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="4059" centery="3679" centerz="6" radius="1">
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3666" centery="3680" centerz="6" radius="1">
-		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3696" centery="3680" centerz="6" radius="1">
+	<spawn centerx="3680" centery="3680" centerz="6" radius="1">
 		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Fishbone D" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4088" centery="3680" centerz="6" radius="1">
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
@@ -9630,15 +9539,15 @@
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Fraccion" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3674" centery="3681" centerz="6" radius="1">
-		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3953" centery="3681" centerz="6" radius="1">
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3557" centery="3683" centerz="6" radius="1">
 		<monster name="Hollow Wolf" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Hollow Wolf" x="1" y="0" z="6" spawntime="5239552" />
+	</spawn>
+	<spawn centerx="3695" centery="3683" centerz="6" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3935" centery="3683" centerz="6" radius="1">
 		<monster name="Fraccion" x="0" y="-1" z="6" spawntime="60" />
@@ -9651,35 +9560,23 @@
 		<monster name="Hollow Wolf" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Hollow Wolf" x="0" y="1" z="6" spawntime="5239552" />
 	</spawn>
-	<spawn centerx="3684" centery="3684" centerz="6" radius="1">
-		<monster name="Fishbone D" x="-1" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="4024" centery="3684" centerz="6" radius="1">
 		<monster name="Fraccion" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3665" centery="3685" centerz="6" radius="1">
+	<spawn centerx="3668" centery="3685" centerz="6" radius="1">
+		<monster name="Fishbone D" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3678" centery="3686" centerz="6" radius="1">
-		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Fishbone D" x="-1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3689" centery="3686" centerz="6" radius="1">
+	<spawn centerx="3676" centery="3685" centerz="6" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="1" z="6" spawntime="60" />
 		<monster name="Fishbone D" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4090" centery="3686" centerz="6" radius="1">
 		<monster name="Fraccion" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3672" centery="3687" centerz="6" radius="1">
-		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3696" centery="3687" centerz="6" radius="1">
-		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4042" centery="3687" centerz="6" radius="1">
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
@@ -9694,15 +9591,13 @@
 	<spawn centerx="4102" centery="3688" centerz="6" radius="1">
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3683" centery="3690" centerz="6" radius="1">
-		<monster name="Fishbone D" x="-1" y="1" z="6" spawntime="60" />
+	<spawn centerx="3689" centery="3689" centerz="6" radius="1">
+		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3943" centery="3691" centerz="6" radius="1">
 		<monster name="Fraccion" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3666" centery="3692" centerz="6" radius="1">
-		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3960" centery="3692" centerz="6" radius="1">
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
@@ -9719,29 +9614,17 @@
 		<monster name="Hollow Wolf" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Hollow Wolf" x="1" y="0" z="6" spawntime="5239552" />
 	</spawn>
-	<spawn centerx="3677" centery="3693" centerz="6" radius="1">
+	<spawn centerx="3672" centery="3696" centerz="6" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3691" centery="3693" centerz="6" radius="1">
-		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3696" centery="3696" centerz="6" radius="1">
-		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Fishbone D" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4078" centery="3696" centerz="6" radius="1">
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3670" centery="3697" centerz="6" radius="1">
-		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Fishbone D" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3679" centery="3698" centerz="6" radius="1">
+	<spawn centerx="3688" centery="3697" centerz="6" radius="1">
+		<monster name="Fishbone D" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Fishbone D" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Fishbone D" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3688" centery="3698" centerz="6" radius="1">
-		<monster name="Fishbone D" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4025" centery="3698" centerz="6" radius="1">
 		<monster name="Fraccion" x="0" y="0" z="6" spawntime="60" />
@@ -9924,22 +9807,9 @@
 		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Furie Hollow" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3578" centery="3719" centerz="6" radius="1">
-		<monster name="Furie Hollow" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Furie Hollow" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3409" centery="3720" centerz="6" radius="1">
 		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Furie Hollow" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3568" centery="3720" centerz="6" radius="1">
-		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Furie Hollow" x="-1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3583" centery="3720" centerz="6" radius="1">
-		<monster name="Furie Hollow" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3173" centery="3721" centerz="6" radius="1">
 		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
@@ -9951,11 +9821,8 @@
 	<spawn centerx="3225" centery="3722" centerz="6" radius="1">
 		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3573" centery="3722" centerz="6" radius="1">
-		<monster name="Furie Hollow" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Furie Hollow" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3578" centery="3724" centerz="6" radius="1">
+	<spawn centerx="3577" centery="3722" centerz="6" radius="1">
+		<monster name="Furie Hollow" x="-1" y="0" z="6" spawntime="60" />
 		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Furie Hollow" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
@@ -9974,22 +9841,9 @@
 		<monster name="Furie Hollow" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="3573" centery="3725" centerz="6" radius="1">
-		<monster name="Furie Hollow" x="-1" y="0" z="6" spawntime="60" />
-		<monster name="Furie Hollow" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3581" centery="3725" centerz="6" radius="1">
-		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Furie Hollow" x="0" y="1" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="3398" centery="3726" centerz="6" radius="1">
 		<monster name="Furie Hollow" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Furie Hollow" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="3568" centery="3726" centerz="6" radius="1">
-		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Furie Hollow" x="-1" y="1" z="6" spawntime="60" />
 		<monster name="Furie Hollow" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4037" centery="3727" centerz="6" radius="1">
@@ -10035,7 +9889,20 @@
 		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Furie Hollow" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="3582" centery="3732" centerz="6" radius="1">
+		<monster name="Furie Hollow" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Hollow" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3574" centery="3734" centerz="6" radius="1">
+		<monster name="Furie Hollow" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="3198" centery="3735" centerz="6" radius="1">
+		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3561" centery="3735" centerz="6" radius="1">
+		<monster name="Furie Hollow" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="3173" centery="3736" centerz="6" radius="1">
@@ -10048,6 +9915,11 @@
 		<monster name="Furie Hollow" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Furie Hollow" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="3567" centery="3739" centerz="6" radius="1">
+		<monster name="Furie Hollow" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Furie Hollow" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Furie Hollow" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="4042" centery="3739" centerz="6" radius="1">
 		<monster name="Fraccion" x="-1" y="-1" z="6" spawntime="60" />
@@ -14915,6 +14787,9 @@
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Bandit" x="0" y="1" z="7" spawntime="5239552" />
 	</spawn>
+	<spawn centerx="3679" centery="3539" centerz="7" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3701" centery="3539" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -14937,6 +14812,16 @@
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Bandit" x="0" y="1" z="7" spawntime="5239552" />
 	</spawn>
+	<spawn centerx="3661" centery="3542" centerz="7" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3669" centery="3542" centerz="7" radius="1">
+		<monster name="Fishbone D" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3695" centery="3543" centerz="7" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3386" centery="3544" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="-1" z="7" spawntime="5239552" />
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -14951,13 +14836,6 @@
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Bandit" x="1" y="0" z="7" spawntime="5239552" />
 	</spawn>
-	<spawn centerx="3669" centery="3545" centerz="7" radius="1">
-		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Furie Hollow" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3682" centery="3545" centerz="7" radius="1">
-		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3392" centery="3546" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Bandit" x="0" y="1" z="7" spawntime="5239552" />
@@ -14970,8 +14848,18 @@
 		<monster name="Bandit" x="0" y="-1" z="7" spawntime="5239552" />
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3678" centery="3547" centerz="7" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3647" centery="3548" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3663" centery="3549" centerz="7" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3688" centery="3549" centerz="7" radius="1">
+		<monster name="Fishbone D" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3375" centery="3550" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -14996,10 +14884,6 @@
 	<spawn centerx="3465" centery="3551" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3676" centery="3551" centerz="7" radius="1">
-		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Furie Hollow" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3381" centery="3552" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -15009,25 +14893,19 @@
 	<spawn centerx="3550" centery="3552" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3665" centery="3552" centerz="7" radius="1">
-		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3685" centery="3552" centerz="7" radius="1">
-		<monster name="Furie Hollow" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3702" centery="3552" centerz="7" radius="1">
+		<monster name="Fishbone D" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3648" centery="3553" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3670" centery="3554" centerz="7" radius="1">
-		<monster name="Furie Hollow" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3655" centery="3553" centerz="7" radius="1">
+		<monster name="Fishbone D" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3681" centery="3554" centerz="7" radius="1">
-		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3674" centery="3555" centerz="7" radius="1">
-		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3689" centery="3555" centerz="7" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3712" centery="3555" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
@@ -15035,19 +14913,16 @@
 	<spawn centerx="3554" centery="3556" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3677" centery="3557" centerz="7" radius="1">
-		<monster name="Furie Hollow" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3662" centery="3557" centerz="7" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3685" centery="3557" centerz="7" radius="1">
-		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3679" centery="3557" centerz="7" radius="1">
+		<monster name="Fishbone D" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3454" centery="3558" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3668" centery="3558" centerz="7" radius="1">
-		<monster name="Furie Hollow" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3429" centery="3559" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
@@ -15064,8 +14939,9 @@
 	<spawn centerx="3695" centery="3561" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3649" centery="3562" centerz="7" radius="1">
-		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3672" centery="3562" centerz="7" radius="1">
+		<monster name="Fishbone D" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3719" centery="3562" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
@@ -15080,6 +14956,10 @@
 	<spawn centerx="3646" centery="3565" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3655" centery="3565" centerz="7" radius="1">
+		<monster name="Fishbone D" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3727" centery="3565" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -15092,8 +14972,12 @@
 	<spawn centerx="3471" centery="3568" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3668" centery="3568" centerz="7" radius="1">
-		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3660" centery="3569" centerz="7" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3669" centery="3570" centerz="7" radius="1">
+		<monster name="Fishbone D" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3552" centery="3571" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -15491,6 +15375,9 @@
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3623" centery="3611" centerz="7" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3702" centery="3611" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -15506,10 +15393,6 @@
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3612" centery="3612" centerz="7" radius="1">
-		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Fishbone D" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3661" centery="3612" centerz="7" radius="1">
 		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Elite Bandit" x="-1" y="1" z="7" spawntime="60" />
@@ -15521,8 +15404,10 @@
 	<spawn centerx="3708" centery="3612" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3632" centery="3613" centerz="7" radius="1">
+	<spawn centerx="3633" centery="3613" centerz="7" radius="1">
+		<monster name="Fishbone D" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3666" centery="3613" centerz="7" radius="1">
 		<monster name="Elite Bandit" x="1" y="-1" z="7" spawntime="60" />
@@ -15535,21 +15420,18 @@
 	<spawn centerx="3476" centery="3614" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3618" centery="3614" centerz="7" radius="1">
-		<monster name="Fishbone D" x="0" y="-1" z="7" spawntime="60" />
+	<spawn centerx="3534" centery="3614" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3625" centery="3614" centerz="7" radius="1">
-		<monster name="Fishbone D" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Fishbone D" x="0" y="1" z="7" spawntime="60" />
+	<spawn centerx="3612" centery="3614" centerz="7" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3732" centery="3614" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3746" centery="3614" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3535" centery="3615" centerz="7" radius="1">
-		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3580" centery="3615" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
@@ -15574,30 +15456,30 @@
 		<monster name="Elite Grand Fisher" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Elite Grand Fisher" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3624" centery="3617" centerz="7" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3640" centery="3617" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3529" centery="3618" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3540" centery="3618" centerz="7" radius="1">
+		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3645" centery="3618" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3611" centery="3619" centerz="7" radius="1">
-		<monster name="Fishbone D" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3624" centery="3619" centerz="7" radius="1">
-		<monster name="Fishbone D" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4013" centery="3619" centerz="7" radius="1">
 		<monster name="Elite Grand Fisher" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Elite Grand Fisher" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3536" centery="3620" centerz="7" radius="1">
+		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3566" centery="3620" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3634" centery="3620" centerz="7" radius="1">
-		<monster name="Fishbone D" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4043" centery="3620" centerz="7" radius="1">
 		<monster name="Elite Grand Fisher" x="0" y="0" z="7" spawntime="60" />
@@ -15615,10 +15497,6 @@
 		<monster name="Elite Bandit" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3618" centery="3623" centerz="7" radius="1">
-		<monster name="Fishbone D" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Fishbone D" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3651" centery="3623" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -15634,6 +15512,10 @@
 	</spawn>
 	<spawn centerx="3570" centery="3624" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3622" centery="3624" centerz="7" radius="1">
+		<monster name="Fishbone D" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3708" centery="3624" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -15654,11 +15536,13 @@
 		<monster name="Elite Grand Fisher" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Elite Grand Fisher" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3626" centery="3626" centerz="7" radius="1">
-		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3535" centery="3626" centerz="7" radius="1">
+		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3633" centery="3626" centerz="7" radius="1">
-		<monster name="Fishbone D" x="1" y="-1" z="7" spawntime="60" />
+	<spawn centerx="3614" centery="3626" centerz="7" radius="1">
+		<monster name="Fishbone D" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3646" centery="3626" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
@@ -15669,10 +15553,6 @@
 	<spawn centerx="3700" centery="3627" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3611" centery="3628" centerz="7" radius="1">
-		<monster name="Fishbone D" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Fishbone D" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3678" centery="3628" centerz="7" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="-1" z="7" spawntime="60" />
@@ -15681,12 +15561,17 @@
 	<spawn centerx="3763" centery="3628" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3543" centery="3629" centerz="7" radius="1">
+		<monster name="Hollow Wolf" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3465" centery="3630" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3618" centery="3630" centerz="7" radius="1">
-		<monster name="Fishbone D" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Fishbone D" x="0" y="1" z="7" spawntime="60" />
+	<spawn centerx="3731" centery="3630" centerz="7" radius="1">
+		<monster name="Furie Hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Furie Hollow" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3752" centery="3630" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -15703,18 +15588,12 @@
 	<spawn centerx="3510" centery="3631" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3624" centery="3631" centerz="7" radius="1">
-		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3732" centery="3631" centerz="7" radius="1">
-		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Giant Snake" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3745" centery="3631" centerz="7" radius="1">
-		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3447" centery="3632" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3634" centery="3632" centerz="7" radius="1">
+		<monster name="Fishbone D" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3640" centery="3632" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -15731,6 +15610,9 @@
 	<spawn centerx="3477" centery="3633" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3622" centery="3633" centerz="7" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3565" centery="3634" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -15744,29 +15626,15 @@
 	<spawn centerx="3708" centery="3634" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3725" centery="3634" centerz="7" radius="1">
-		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Giant Snake" x="-1" y="1" z="7" spawntime="60" />
+	<spawn centerx="3743" centery="3634" centerz="7" radius="1">
+		<monster name="Furie Hollow" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3762" centery="3634" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3463" centery="3635" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3611" centery="3635" centerz="7" radius="1">
-		<monster name="Fishbone D" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3617" centery="3635" centerz="7" radius="1">
-		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Fishbone D" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3625" centery="3635" centerz="7" radius="1">
-		<monster name="Fishbone D" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3633" centery="3635" centerz="7" radius="1">
-		<monster name="Fishbone D" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Fishbone D" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3703" centery="3635" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
@@ -15776,13 +15644,6 @@
 	</spawn>
 	<spawn centerx="3481" centery="3636" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3729" centery="3636" centerz="7" radius="1">
-		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3738" centery="3636" centerz="7" radius="1">
-		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Giant Snake" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3991" centery="3636" centerz="7" radius="1">
 		<monster name="Elite Grand Fisher" x="1" y="-1" z="7" spawntime="60" />
@@ -15801,32 +15662,34 @@
 	<spawn centerx="3646" centery="3637" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3732" centery="3637" centerz="7" radius="1">
+		<monster name="Furie Hollow" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Furie Hollow" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3572" centery="3638" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3733" centery="3638" centerz="7" radius="1">
-		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Giant Snake" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3745" centery="3638" centerz="7" radius="1">
-		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Giant Snake" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="4044" centery="3638" centerz="7" radius="1">
 		<monster name="Elite Grand Fisher" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3612" centery="3639" centerz="7" radius="1">
+		<monster name="Fishbone D" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3624" centery="3639" centerz="7" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3724" centery="3639" centerz="7" radius="1">
+		<monster name="Furie Hollow" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3467" centery="3640" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3487" centery="3640" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3616" centery="3640" centerz="7" radius="1">
-		<monster name="Fishbone D" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Fishbone D" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3628" centery="3640" centerz="7" radius="1">
-		<monster name="Fishbone D" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3664" centery="3640" centerz="7" radius="1">
 		<monster name="Elite Bandit" x="-1" y="-1" z="7" spawntime="60" />
@@ -15837,15 +15700,6 @@
 		<monster name="Elite Bandit" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Elite Bandit" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3725" centery="3641" centerz="7" radius="1">
-		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3730" centery="3641" centerz="7" radius="1">
-		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3741" centery="3641" centerz="7" radius="1">
-		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3478" centery="3642" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
@@ -15883,12 +15737,11 @@
 	<spawn centerx="3700" centery="3645" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3732" centery="3645" centerz="7" radius="1">
-		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Giant Snake" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3743" centery="3645" centerz="7" radius="1">
-		<monster name="Giant Snake" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="3736" centery="3645" centerz="7" radius="1">
+		<monster name="Furie Hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Furie Hollow" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Furie Hollow" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3999" centery="3645" centerz="7" radius="1">
 		<monster name="Elite Grand Fisher" x="0" y="0" z="7" spawntime="60" />
@@ -16281,12 +16134,14 @@
 		<monster name="Fraccion" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Fraccion" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3681" centery="3679" centerz="7" radius="1">
-		<monster name="Fishbone D" x="1" y="-1" z="7" spawntime="60" />
+	<spawn centerx="3665" centery="3679" centerz="7" radius="1">
+		<monster name="Fishbone D" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Fishbone D" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3690" centery="3679" centerz="7" radius="1">
-		<monster name="Fishbone D" x="1" y="-1" z="7" spawntime="60" />
+	<spawn centerx="3682" centery="3679" centerz="7" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="4035" centery="3679" centerz="7" radius="1">
 		<monster name="Elite Grand Fisher" x="1" y="-1" z="7" spawntime="60" />
@@ -16295,10 +16150,6 @@
 	<spawn centerx="3553" centery="3680" centerz="7" radius="1">
 		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Hollow Wolf" x="1" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3666" centery="3680" centerz="7" radius="1">
-		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Fishbone D" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3944" centery="3680" centerz="7" radius="1">
 		<monster name="Fraccion" x="-1" y="0" z="7" spawntime="60" />
@@ -16312,9 +16163,6 @@
 		<monster name="Rungokai Bandit" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3672" centery="3681" centerz="7" radius="1">
-		<monster name="Fishbone D" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3588" centery="3682" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
@@ -16334,10 +16182,6 @@
 		<monster name="Elite Grand Fisher" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Elite Grand Fisher" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3697" centery="3684" centerz="7" radius="1">
-		<monster name="Fishbone D" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Fishbone D" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3942" centery="3684" centerz="7" radius="1">
 		<monster name="Fraccion" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Fraccion" x="1" y="-1" z="7" spawntime="60" />
@@ -16352,11 +16196,6 @@
 		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Furie Hollow" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3686" centery="3685" centerz="7" radius="1">
-		<monster name="Fishbone D" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Fishbone D" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3767" centery="3685" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -16364,10 +16203,6 @@
 		<monster name="Hollow Wolf" x="-1" y="0" z="7" spawntime="60" />
 		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Hollow Wolf" x="1" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3673" centery="3686" centerz="7" radius="1">
-		<monster name="Fishbone D" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3751" centery="3686" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
@@ -16378,9 +16213,9 @@
 		<monster name="Hollow Wolf" x="0" y="-1" z="7" spawntime="5239552" />
 		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3666" centery="3687" centerz="7" radius="1">
-		<monster name="Fishbone D" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Fishbone D" x="0" y="1" z="7" spawntime="60" />
+	<spawn centerx="3696" centery="3687" centerz="7" radius="1">
+		<monster name="Fishbone D" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3387" centery="3688" centerz="7" radius="1">
 		<monster name="Furie Hollow" x="1" y="-1" z="7" spawntime="60" />
@@ -16391,8 +16226,8 @@
 		<monster name="Furie Hollow" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3678" centery="3688" centerz="7" radius="1">
-		<monster name="Fishbone D" x="-1" y="0" z="7" spawntime="60" />
+	<spawn centerx="3669" centery="3688" centerz="7" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3452" centery="3689" centerz="7" radius="1">
 		<monster name="Furie Hollow" x="1" y="-1" z="7" spawntime="60" />
@@ -16418,10 +16253,6 @@
 	<spawn centerx="3577" centery="3691" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3692" centery="3691" centerz="7" radius="1">
-		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Fishbone D" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="4055" centery="3691" centerz="7" radius="1">
 		<monster name="Elite Grand Fisher" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Elite Grand Fisher" x="0" y="0" z="7" spawntime="60" />
@@ -16434,15 +16265,17 @@
 	<spawn centerx="3588" centery="3692" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3697" centery="3692" centerz="7" radius="1">
-		<monster name="Fishbone D" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3762" centery="3692" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3548" centery="3693" centerz="7" radius="1">
 		<monster name="Hollow Wolf" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Hollow Wolf" x="0" y="1" z="7" spawntime="5239552" />
+	</spawn>
+	<spawn centerx="3685" centery="3693" centerz="7" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Fishbone D" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3557" centery="3694" centerz="7" radius="1">
 		<monster name="Hollow Wolf" x="-1" y="0" z="7" spawntime="5239552" />
@@ -16459,9 +16292,6 @@
 	<spawn centerx="4067" centery="3694" centerz="7" radius="1">
 		<monster name="Elite Grand Fisher" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3666" centery="3695" centerz="7" radius="1">
-		<monster name="Fishbone D" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3748" centery="3695" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Rungokai Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -16475,6 +16305,10 @@
 		<monster name="Furie Hollow" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3671" centery="3697" centerz="7" radius="1">
+		<monster name="Fishbone D" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Fishbone D" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3756" centery="3697" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -16482,17 +16316,6 @@
 		<monster name="Furie Hollow" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Furie Hollow" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3673" centery="3698" centerz="7" radius="1">
-		<monster name="Fishbone D" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Fishbone D" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3681" centery="3698" centerz="7" radius="1">
-		<monster name="Fishbone D" x="0" y="-1" z="7" spawntime="1671437824" />
-	</spawn>
-	<spawn centerx="3691" centery="3698" centerz="7" radius="1">
-		<monster name="Fishbone D" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Fishbone D" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3743" centery="3698" centerz="7" radius="1">
 		<monster name="Rungokai Bandit" x="-1" y="-1" z="7" spawntime="60" />
@@ -16752,17 +16575,13 @@
 		<monster name="Furie Hollow" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3581" centery="3719" centerz="7" radius="1">
-		<monster name="Furie Hollow" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Furie Hollow" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3693" centery="3719" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3569" centery="3720" centerz="7" radius="1">
-		<monster name="Furie Hollow" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Furie Hollow" x="1" y="1" z="7" spawntime="60" />
+	<spawn centerx="3573" centery="3720" centerz="7" radius="1">
+		<monster name="Furie Hollow" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Furie Hollow" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3627" centery="3720" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
@@ -16774,11 +16593,6 @@
 		<monster name="Furie Hollow" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Furie Hollow" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3575" centery="3721" centerz="7" radius="1">
-		<monster name="Furie Hollow" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Furie Hollow" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3611" centery="3721" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -16814,10 +16628,6 @@
 		<monster name="Furie Hollow" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3583" centery="3723" centerz="7" radius="1">
-		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Furie Hollow" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3417" centery="3724" centerz="7" radius="1">
 		<monster name="Furie Hollow" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
@@ -16825,14 +16635,6 @@
 	</spawn>
 	<spawn centerx="3389" centery="3725" centerz="7" radius="1">
 		<monster name="Furie Hollow" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3572" centery="3725" centerz="7" radius="1">
-		<monster name="Furie Hollow" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Furie Hollow" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3579" centery="3725" centerz="7" radius="1">
 		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3689" centery="3725" centerz="7" radius="1">
@@ -16847,10 +16649,6 @@
 		<monster name="Furie Hollow" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3567" centery="3726" centerz="7" radius="1">
-		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
-		<monster name="Furie Hollow" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="3409" centery="3727" centerz="7" radius="1">
 		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Furie Hollow" x="1" y="1" z="7" spawntime="60" />
@@ -16863,7 +16661,16 @@
 		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Furie Hollow" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3567" centery="3728" centerz="7" radius="1">
+		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Furie Hollow" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3447" centery="3729" centerz="7" radius="1">
+		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Furie Hollow" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3582" centery="3729" centerz="7" radius="1">
+		<monster name="Furie Hollow" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Furie Hollow" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
@@ -16888,6 +16695,10 @@
 		<monster name="Furie Hollow" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Furie Hollow" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3568" centery="3734" centerz="7" radius="1">
+		<monster name="Furie Hollow" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3356" centery="3735" centerz="7" radius="1">
 		<monster name="Furie Hollow" x="1" y="-1" z="7" spawntime="60" />
@@ -16917,8 +16728,17 @@
 		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Furie Hollow" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="3559" centery="3738" centerz="7" radius="1">
+		<monster name="Furie Hollow" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Furie Hollow" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="3323" centery="3740" centerz="7" radius="1">
 		<monster name="Furie Hollow" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="3575" centery="3740" centerz="7" radius="1">
+		<monster name="Furie Hollow" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Furie Hollow" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="3373" centery="3742" centerz="7" radius="1">
@@ -23198,6 +23018,9 @@
 		<monster name="Arrancar Hollow" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Arrancar Hollow" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3537" centery="3620" centerz="8" radius="1">
+		<monster name="Hollow Wolf" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3799" centery="3620" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Grand Fisher" x="1" y="-1" z="8" spawntime="60" />
@@ -23211,6 +23034,10 @@
 		<monster name="Grand Fisher" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Grand Fisher" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Grand Fisher" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3544" centery="3623" centerz="8" radius="1">
+		<monster name="Hollow Wolf" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Hollow Wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4020" centery="3624" centerz="8" radius="1">
 		<monster name="Elite Grand Fisher" x="0" y="0" z="8" spawntime="60" />
@@ -23254,6 +23081,9 @@
 	<spawn centerx="3662" centery="3632" centerz="8" radius="1">
 		<monster name="Elite Bandit" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Elite Bandit" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3542" centery="3634" centerz="8" radius="1">
+		<monster name="Hollow Wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4013" centery="3634" centerz="8" radius="1">
 		<monster name="Elite Grand Fisher" x="0" y="0" z="8" spawntime="60" />
@@ -23340,6 +23170,10 @@
 		<monster name="Elite Grand Fisher" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Elite Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3555" centery="3646" centerz="8" radius="1">
+		<monster name="Hollow Wolf" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Hollow Wolf" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3821" centery="3646" centerz="8" radius="1">
 		<monster name="Grand Fisher" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Grand Fisher" x="1" y="-1" z="8" spawntime="60" />
@@ -23351,6 +23185,12 @@
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3542" centery="3647" centerz="8" radius="1">
+		<monster name="Hollow Wolf" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3565" centery="3647" centerz="8" radius="1">
+		<monster name="Hollow Wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4353" centery="3647" centerz="8" radius="1">
 		<monster name="Jagdarmee" x="-1" y="-1" z="8" spawntime="60" />
@@ -23394,6 +23234,10 @@
 	</spawn>
 	<spawn centerx="4031" centery="3654" centerz="8" radius="1">
 		<monster name="Elite Grand Fisher" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3561" centery="3655" centerz="8" radius="1">
+		<monster name="Hollow Wolf" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Hollow Wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4016" centery="3656" centerz="8" radius="1">
 		<monster name="Elite Grand Fisher" x="0" y="0" z="8" spawntime="60" />
@@ -23469,6 +23313,9 @@
 	<spawn centerx="3622" centery="3663" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3566" centery="3664" centerz="8" radius="1">
+		<monster name="Hollow Wolf" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="3617" centery="3664" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -23488,6 +23335,9 @@
 		<monster name="Jagdarmee" x="1" y="0" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Jagdarmee" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3575" centery="3668" centerz="8" radius="1">
+		<monster name="Hollow Wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="4143" centery="3668" centerz="8" radius="1">
 		<monster name="Elite Grand Fisher" x="0" y="0" z="8" spawntime="60" />
@@ -23642,6 +23492,9 @@
 	<spawn centerx="3455" centery="3680" centerz="8" radius="1">
 		<monster name="Furie Hollow" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="3575" centery="3680" centerz="8" radius="1">
+		<monster name="Hollow Wolf" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="4158" centery="3680" centerz="8" radius="1">
 		<monster name="Elite Grand Fisher" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -23774,6 +23627,9 @@
 	</spawn>
 	<spawn centerx="4489" centery="3688" centerz="8" radius="1">
 		<monster name="Jagdarmee" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="3571" centery="3689" centerz="8" radius="1">
+		<monster name="Hollow Wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="3610" centery="3689" centerz="8" radius="1">
 		<monster name="Fishbone D" x="0" y="0" z="8" spawntime="60" />
