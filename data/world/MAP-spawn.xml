@@ -10313,9 +10313,6 @@
 		<monster name="Furie Gillian" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Furie Gillian" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="3619" centery="3392" centerz="7" radius="1">
-		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="2411" centery="3393" centerz="7" radius="1">
 		<monster name="Furie Gillian" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Furie Gillian" x="0" y="0" z="7" spawntime="60" />
@@ -10341,9 +10338,6 @@
 		<monster name="Furie Gillian" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Furie Gillian" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Furie Gillian" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="3625" centery="3395" centerz="7" radius="1">
-		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2406" centery="3427" centerz="7" radius="1">
 		<npc name="Ikkanzaka Jindabo" x="0" y="0" z="7" spawntime="60" />
